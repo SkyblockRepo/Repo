@@ -1,0 +1,37 @@
+{
+  "internalId": "SNOW_CLOAK",
+  "name": "Snow Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+5\n&7Speed: &a+2\n&7Intelligence: &a+5\n\n&6Full Set Bonus: Cold Thumb &7(0/8)\n&7Allows the wearer to shoot unlimited\n&7snowballs when using &9Frosty the\n&9Snow Cannon&7.\n\n&7Each piece grants a &a5% &7bonus gift\n&7chance for every present you earn\n&7from the &cGift Attack &7minigame!\n\n&7All stats of this armor piece are\n&7doubled while on &cJerry's Workshop&7!\n\n&7&8This item can be reforged!\n&9&lRARE CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNOW_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk3ODk1NiwKICAicHJvZmlsZUlkIiA6ICJmYzg3ZTI3YTYwZjY0NjdhOGMwMDgyMmI2ZWY5ZTMyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbmRyZWlvX28iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjEyNGJmYjIyZDZmZjZjMDBhNzNkNWY2NzY5YjkwNzIzMTFiZGU2YzgwMTBkZjU1MWU4Njc1OGU4OTg0YjhiZiIKICAgIH0KICB9Cn0=",
+      "signature": "a7joEJQF+rPQKrGg0yDVwd/63wv+7xY+MEolhFWWpxeRwAnJYnKi7Ul6K6Q7Wugeu7C+8j6faaqe3Fha+oPRDK03QZvS1py53GHoU1AKRiaELw7sefWEcFh6MiEuXpnJbz+JIkl8YUPCAPK1qoQMfxq1hngQireWIpLF4SRmhxel1Ctxic8j4hisjAsNvDDMrVoUB7khCT5ph+J/rG1j6fudY19B/yBVPKrj5JCjCQmENjpgym31gn9nE4/Y+w+FphyRWvvn3hyVNG0xox4MnfTOTErqRRaxYpggGAprFTYfu/+j4uSdXKRt1b9O8XidbEP8rNnfuoo8d5m0YWwtNiSUGH4fX2NIzO2kKcqfsEgKpQ8LNcSOWeXkzZNtBQVr9oYSQncpwjr2PtJlOIJapdDeArQMAdeHdQgvnY1RSIzqzdrztXuFrba4SNvxY5lePQ+nfls5KW4fiHfBviIMnnkg8fIYKb/wZpP33tCBhLRjf0EvrmBeID9FxiM2Q4pjOkWtR9b2X33/tk+IgvMgcSou3VQOr8PkWs28zZnoOiWXqzXBqPEBwI/I8L8Grjl0hkasm6ZI7ZkRAui9ZGPD9d3eR5mOQvLy5H5Ag0e/H0tdkqY82RtkShYFM9Z4e0YFSKjme0LIPA/UoNJDPMEXrizztQor3JW6yl2VWlvNTd4="
+    },
+    "name": "Snow Cloak",
+    "category": "CLOAK",
+    "tier": "RARE",
+    "museum": true,
+    "stats": {
+      "HEALTH": 5,
+      "WALK_SPEED": 2,
+      "INTELLIGENCE": 5
+    }
+  },
+  "recipes": []
+}

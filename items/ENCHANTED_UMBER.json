@@ -1,0 +1,88 @@
+{
+  "internalId": "ENCHANTED_UMBER",
+  "name": "Enchanted Umber",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1600,
+  "lore": "&7&8Collection Item\n\n&9&lRARE DWARVEN METAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_UMBER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODkxOTkwOTI3NiwKICAicHJvZmlsZUlkIiA6ICJkNWMyZjNmZWY2NjM0ZDk4OGFmMmJjMDkwNGEzMzAzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCTU1HQSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZGZhNTMxYjE4YWU4MjI3NzAwZGQyNDY0OTg3ZDcyYWFhYzE2MGRkNGE2YzRmMzAwNjdmMmU1ZjFmMjEwMWU5IgogICAgfQogIH0KfQ==",
+      "signature": "AF1AC0y4YXQpfUXakIH9CMyBaKkO7ChkUCVZPeECvqBXYZB7NVG0DtKLt/kHfq6CR2OfWGniZj93o6YhjQPmB18EvRfrktTksfEFeoMss4DfhXjNZBVHI+oCCdSHsnwiPntIVbLAUlP0miz9gwJHwEB1rz36zkBl3JcKCdzDiN4BNqKbZEUn7hsTkHHavClXUgRDAwdFObRBYXjbef3Bi6NmCU0qMcuIdJze6cX1sa8d0pwQ6vKvUa2MNsVJEp/GnTQCemF+hs4pPxrDffLFuYlsDjjJ5KO/I5fGTBF2NpLtwijdjh2HrZ2mLYkLBWA30HZSKRLAXXIsRzp/G2Q4c7hEycWP1DhtsdzO9YB3UpTEpY5OyXHm1V1lAWUa9p+8W9EuKqAa7+RSAhnXNHQhkV01zOxJZfCDO/lP9lvzoj1P3UutrECObmy+yQB4fnP6160XyhobpxdMz+J6X3JSs/fDKFqMJsu2IHFBCpjw+aZNX4F6+WnwdQdj6yjUwHEbmL98iRLmPRJYqzoZUEEtT1jjmhhclAyyyaSgZtJxp2zqZ6R/+4lUoHf/DlMq8d9bxEMofefwwiFZ8IMsA17ZGCh5p6/11V5tpJLXUszLfReXQiAtPFYDcS/z50fbUNmWhHcY4wVaTfjaPd2tSTD/ZipsxYmPbR1XfNiz830PLqc="
+    },
+    "name": "Enchanted Umber",
+    "tier": "RARE",
+    "npc_sell_price": 1600
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_UMBER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "UMBER",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_UMBER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "UMBER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "UMBER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

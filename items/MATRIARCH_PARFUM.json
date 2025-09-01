@@ -1,0 +1,26 @@
+{
+  "internalId": "MATRIARCH_PARFUM",
+  "name": "Matriarch's Perfume",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7Consume to apply a pungent smell\n&7upon yourself, confusing &6&lThe&r\n&6&lMatriarch &r&7in the &cCrimson Isle &7into\n&7releasing new pearls.\n\n&8Can be used up to 4 times a day!\n\n&eRight-click to consume!\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MATRIARCH_PARFUM",
+    "material": "RABBIT_STEW",
+    "name": "Matriarch's Perfume",
+    "tier": "SPECIAL",
+    "glowing": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,30 @@
+{
+  "internalId": "TIKI_TORCH",
+  "name": "Tiki Torch",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7This cosmetic furniture adds a\n&7tropical atmosphere to any build.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TIKI_TORCH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDc2Njc2ODA3NCwKICAicHJvZmlsZUlkIiA6ICJmZDQ3Y2I4YjgzNjQ0YmY3YWIyYmUxODZkYjI1ZmMwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4YzdmODNmOWQ0OTI4M2E1NWM1OWQ3MTQ1MTY5Y2MzYTU4ZDU0MjUwZTQ2NTZiNjE3ZThlMTVjYjlmZTNlN2IiCiAgICB9CiAgfQp9",
+      "signature": "i9L4iqRa2iGCmT1K74qRjMRepUQpE+Zp3cNXbnnIOxq4lwGMyYEMtnZG9Vsvvnnr5j2Ty0h3swSfrIdeo1FEN8l+6HGnVPcKa7grqLhqQAYVg4BvmsA7MoRZwRRplD3T8MxS0v3G6+3JfpSY1nAtn8k+AivzyNzVDkfJGoY8vWjKHtYs1gfp1q+gghiXFKzGJ/QiFhkifh0V7l1Sp0jyh8SOsiPXQDWBeAi0ERY4t7/+yyXNSGtYuZpSpGhaQQdAF4TfHP+Jic2Vibng8pq0r2umMoGuD+P0dFLIGm2juL6tGeFN0t7cDfcLIfzuBWC/BUi+gZHAvgkH4Zzk9+ZkXZLRC78cSX2+OCxGuYBXuolVAZUFfPadDlVjOvsmo4s5XVc39n3OtI8wVKLlQt4DbeBAm27P5jXSJpwxK/+CqWb3JStsBxDAIkua/naBOFzjS6ZEqvMdwF0SLRq0cJ1Z1OjOtDTPw84FJNZEvaYoArHsTq7WrA9Jepk1TBPtXAbTvZ5/gb51Apsp4t8PHse6QhVwv/7ibqs/sM3mVvZ+IkOpDx6/jClkYEIBsj0ZrfyMTTQvZE+C1fz7T6dDe4C2gMBwylBEd54rJhInwBNbtqpS5HPXuvX9ChgIFtE0Qny0nZqlsHhFayUsuzqRpD7zeAIyzrcMakhpwhVHYdqMskQ="
+    },
+    "name": "Tiki Torch",
+    "furniture": "TIKI_TORCH"
+  },
+  "recipes": []
+}

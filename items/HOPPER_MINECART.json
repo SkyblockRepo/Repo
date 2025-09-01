@@ -1,0 +1,25 @@
+{
+  "internalId": "HOPPER_MINECART",
+  "name": "Minecart with Hopper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 22,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOPPER_MINECART",
+    "material": "HOPPER_MINECART",
+    "name": "Minecart with Hopper",
+    "npc_sell_price": 22
+  },
+  "recipes": []
+}

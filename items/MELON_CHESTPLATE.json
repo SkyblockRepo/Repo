@@ -1,0 +1,92 @@
+{
+  "internalId": "MELON_CHESTPLATE",
+  "name": "Melon Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+150\n&7Defense: &a+25\n&7Speed: &a+3\n&7Farming Fortune: &a+20\n\n&8Tiered Bonus: Cropier Crops (0/4)\n&7&7Farming Wheat, Carrots, and Potatoes\n&7has a &a0.03% &7chance of dropping a\n&7Cropie. &7Grants &60☘ Farming Fortune&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 25&c.\n&a&lUNCOMMON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MELON_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "137,158,32",
+    "name": "Melon Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 25
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "MELON": "CROPIE"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MELON": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 150,
+      "defense": 25,
+      "walk_speed": 3,
+      "FARMING_FORTUNE": 20
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MELON_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        },
+        "8": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        },
+        "9": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "internalId": "DIVAN_BOOTS",
+  "name": "Boots of Divan",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+80\n&7Defense: &a+110\n&7Heat Resistance: &a+10\n&7Mining Speed: &a+80\n&7Mining Fortune: &a+30\n&7 &8[&8⸕&8] &8[&8☘&8] &8[&8⸕&8] &8[&8☘&8] &8[&8✧&8]\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 6&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIVAN_BOOTS",
+    "material": "GOLD_BOOTS",
+    "name": "Boots of Divan",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "AMBER",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "AMBER",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "TOPAZ",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 6
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "DIVAN": 20
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "HEALTH": 80,
+      "DEFENSE": 110,
+      "MINING_SPEED": 80,
+      "MINING_FORTUNE": 30,
+      "HEAT_RESISTANCE": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIVAN_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWLESS_RUBY_GEM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "DIVAN_FRAGMENT",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "GEMSTONE_MIXTURE",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

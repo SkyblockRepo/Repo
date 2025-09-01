@@ -1,0 +1,88 @@
+{
+  "internalId": "WITHER_GOGGLES",
+  "name": "Wither Goggles",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d255 &8(270)\n&7Ability Damage: &c+45% &8(+45%)\n&7Intelligence: &a+300 &8(+330)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&5&lEPIC DUNGEON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WITHER_GOGGLES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTU0MzM0MTg4MSwKICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5NmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjZWI4ZjA3NThlMmQ4YWM0OWRlNmY5Nzc2MDNjN2JmYzIzZmQ4MmE4NTc0ODEwYTQ1ZjVlOTdjNjQzNmQ3OSIKICAgIH0KICB9Cn0=",
+      "signature": "mqJHuSSijxc6VikSP8VL+tISFxCoCe6FA1s0ysbo7kp+eE8qYy7vRQTBqAI1rTSQmgQn1Oy0n+tFVFa7ToZSNVBM5VTllx6Nt1cipRTC4NkY4cilcqUeMddt1ao+jckKWsZ8nUD/8m9CCNtagldPKB5mhA458sN59j7iCTI1nR97cgDlIXZh9vDNG8/isTnDyzmpfyYUdSDj2+cSoILua+pgh7TVc/5Hg50kawkQ4dL1F4J05dHlA5eOnUgP352oWAYHmMMgblLY59n4/TkyyfSsz8YGd93enM+egfqQ2ipJU7Tgo0WhhbEdwE44BAi/mi1L2wW4YV18yJ7AxE4cvm9RxFM8Q1B9YBJ7MSUcwqvlf3kxoywaVbLBaOkeHrKIAKkqcyFljyDbLwTfXCAXhmBG0X0HMi+wPQCKki1oONMiZ0A1tJV5IzF/lOWptpSUpF/NSi/U3A+0V/EBjgdpXcCzpITPLC8v0nWfoUktnOytpZU+25/HGzRW+P93VTaT08kIFG8Cw2yIpQ/dAg2eTZwScUqePXpwKMD2vBIIQEEZpapi624g4004VGKQx/C8p4ZQg+/XydVM7doeG46IzM25nn5JQiqLkwZzft447fssR3bfSUxIWeiRmIy51FvYUU73yBF1BsPo0m7R3voZuwo7SEite6S2yW0ptjpAnP8="
+    },
+    "name": "Wither Goggles",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 6,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "INTELLIGENCE": 300,
+      "ABILITY_DAMAGE_PERCENT": 45
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 600
+        }
+      ]
+    ],
+    "gear_score": 60,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

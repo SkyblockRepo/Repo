@@ -1,0 +1,42 @@
+{
+  "internalId": "FANCY_TUXEDO_CHESTPLATE",
+  "name": "Fancy Tuxedo Jacket",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Crit Damage: &c+80%\n&7Intelligence: &a+150\n\n&6Full Set Bonus: Dashing &7(0/3)\n&7Max health set to &c150❤&7.\n&7Deal &c+100% &7damage!\n&8Very stylish.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FANCY_TUXEDO_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "51,42,42",
+    "name": "Fancy Tuxedo Jacket",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "FANCY_TUXEDO": "ELEGANT_TUXEDO"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FANCY_TUXEDO": 4
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "INTELLIGENCE": 150,
+      "CRITICAL_DAMAGE": 80
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,47 @@
+{
+  "internalId": "ANGLER_BRACELET",
+  "name": "Angler Bracelet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7Sea Creature Chance: &c+0.5%\n&7Fishing Speed: &a+1\n\n&8Tiered Bonus: Depth Champion (0/8)\n&7&7Reduces the damage taken from &3Sea\n&3Creatures &7by &a3%&7.\n\n&8Tiered Bonus: Deepness Within (0/4)\n&7Gain &c6❤ &7per Fishing level.\n&7Fishing: &eLevel 0\n\n&7&8This item can be reforged!\n&f&lCOMMON BRACELET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANGLER_BRACELET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDY3NTY1Mjk0MywKICAicHJvZmlsZUlkIiA6ICJiZTQxM2Y4M2Y4ZWE0MjE0OGMwMjk0YTJiYzIyN2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaWdodGJveTEwMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjI1MTdmNTNmZDBjNzI5NTkwNjkzYzE5OTZiMWI4M2NjNzMwMGI4ZTBlMjk5MzVjNmU3ZTBmMWU1M2JlOTVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "LWHXjVPQB+Df0j5ILKmvRGLOfkNFBtG4eMNO7f0ArAXN/gdfhxe/fWlsAFdO5fZi1FE8ezzFmvAc3M3dqBea2eoaHo+tjdKCJjcvo2nd3pVQiTwXpJB8yWl4CRBz0qzkYXuEknfMbTVaV1VTZ3UpDFbm5S3KIH6Hch+P3whBDkDaXcJaNQC6dqaXXnHoGMaocb9qFywTGqPGLcINo77l/m8bf9G3xJrNYzGmmPMh9AgxiJX+1fv2wBWMACaeXbzqAqWbFhfdmC4JoEiLVBwOQURpaRBoBEEMlpQbFTWt3Fkj+rESwC3/Hu6novbS7GKlDpyubGgfVa7w22bElJZIZoFJaHrFPbTGkZQ2bGIaAHGVDcoOhvcDom5L0ttIHa/+m9NiB7d8JIX3eQWEc3bcLNGhAga9hzfYikeMQkJ0N+B/3PBQLvDv7BFfynd1Z45w9w8aF8pfFaLRVSji2yBkmBqR31vSbV7yOYXGLWr/A64DhAz+jjCyRT/+jizmd9lxV/wrDnY2I0mgCzViCkIW/krkBmYjjpizKvlB5WefcSXlHyXWXyzrL5BuJYPy7J/7GJ9KhvvXieQwLoUDoO53oiazWHOh2JLiFN8tuvhemoJll915hhlusw1ISNwy7yZ9vnzuPIuWhUZOhHVxEYYGWPj7HnlvluYDbn/90SrM2To="
+    },
+    "name": "Angler Bracelet",
+    "category": "BRACELET",
+    "tier": "COMMON",
+    "npc_sell_price": 50,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "ANGLER": "BACKWATER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ANGLER": 2
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "fishing_speed": 1,
+      "sea_creature_chance": 0.5
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,139 @@
+{
+  "internalId": "ZOMBIE_BOOTS",
+  "name": "Zombie Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 120000,
+  "lore": "&7Health: &a+120\n&7Defense: &a+25\n\n&6Full Set Bonus: Projectile Absorption &7(0/3)\n&7Heals the wearer for &a10&7 per second\n&7for &a5&7 seconds when hit by a\n&7projectile.\n\n&7&8This item can be reforged!\n&5&lEPIC BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_BOOTS",
+    "material": "DIAMOND_BOOTS",
+    "name": "Zombie Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "npc_sell_price": 120000,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 16,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "ZOMBIE": "REVENANT"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ZOMBIE": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 120,
+      "DEFENSE": 25
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 120
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 35
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 65
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 100
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ZOMBIE_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ZOMBIE_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

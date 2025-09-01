@@ -1,0 +1,25 @@
+{
+  "internalId": "TRAPPED_CHEST",
+  "name": "Trapped Chest",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TRAPPED_CHEST",
+    "material": "TRAPPED_CHEST",
+    "name": "Trapped Chest",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

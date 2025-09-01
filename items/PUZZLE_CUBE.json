@@ -1,0 +1,33 @@
+{
+  "internalId": "PUZZLE_CUBE",
+  "name": "Puzzle Cube",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Puzzle  &e&lRIGHT CLICK&r\n&7Lets you solve a puzzle.\n\n&7Puzzles Solved: &a0\n\n&7&8This item has no purchasing data yet!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUZZLE_CUBE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUzNTgzNSwKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0MzE3OGRiMmE5ZjVhZjYwNGZkYTcyZGM0ZjgzZTc1NGZjYzhmZTljYTAzNGU2MjI3MjY4YTkwZWIxZTcwZDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "APXloZPtlyY7OanyI9tABchfQ+xVm7E4RQ0lF3lb3XV/WeljgGAMpfMlZCRUAc+v6yGzgrCsDYaAE/xRtIb9hGZKYivXZ0IrCf/jvXPT2NNoPjil5m5ckL9Cu0arzOUveBH3QTvR3z7WsKpGKFxwYvb3pwRLCPQRuzNgtpALeku2vECP9QT2ysR5W4PNJB2AISuGYCOt+zuZ6KqiBDSTn0QN3b7bqTNL8XDwCrqD2wfkacAmWzQFoO1e1SgNhFCTnhoJlbOVXBNvMTme/VptRB+AvqTHGMfyOQefXrf3rm05pYlUCseKbO14VwUgMrL9B9yadZSNOGeK/lb567p0fJ8GLQGPi/THZoFrZUpZNOmcIEJZs8wFUnrDVU2wOESMDWQ5KoUrDPVa6YdYzXWUYKVwI2pcUmrIQcFjMNfdFdnAfOgyZmqqaUzaNFKp74jgGVdrbNGW+6ypJXry6M4+PkpjtBDI9SUqueJR90YJkmxwpbY6Cq7brHjwZC0MjABqy4GKsVa7ywjhxrZOr+by44w/JlyO5tJ6hol1YNpnab3BwapbqkcTqIXPoOibqM5dMZBKqj9DxpeAapvqdE90EswpBHW2BOkOJFmxJXlyU9LdgJZdUxgYEKquIeOObZhhBlTQxhcCXO3n7NEWqhfJwQtoFJf/xaYEB/Hwf6wgESk="
+    },
+    "name": "Puzzle Cube",
+    "category": "NONE",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

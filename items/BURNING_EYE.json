@@ -1,0 +1,32 @@
+{
+  "internalId": "BURNING_EYE",
+  "name": "Burning Eye",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7&7''Probably the single most regrettable''\n&7''effect of Sulphur on the island's''\n&7''fauna. You can't kill a spider with''\n&7''fire if it's already burning.''\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "BURNING_EYE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1ODQ1OTYxMjEyMTIsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84Mjg3YjM5N2RhZjk1MTZhMGJkNzZmNWYxYjdiZjk3OTUxNWRmM2Q1ZDgzM2UwNjM1ZmE2OGIzN2VlMDgyMjEyIn19fQ==",
+      "signature": "HfgLFB5rpfohIbOH/Ms9f0hdKNkDPuDDwCDHjltG/cYSqjGLkPb9G7hQYqha+GwKqxm/iNTn1I+SiSNG1goA+BEoKa66kCqzCSQR4Asvd3wGuCtXOOKWFCoSU74m7qTnMV8fLlo5aVmOxJ93Ry5H/itQPaPjXQwpPDP4Q8INTxrdbmvz8lFC3LKAxdNpGQ3SgroY2YVHA2ZyYlDF33+q8VeiFvZdcs6qKunBr+qCEspYdT97rgOD91aqE/w9OJG66CJ961YJsbMs6k6OwTeuufvB3QeyN/iT15xzJullGRLO58mWQaPXKpdhD09+immMNegk5jVJK/K4nQOq9lSbUz/qcHVwXp3o67oUswgtUprkNhamuCSj1t+mqUcN88c3GcCXy+L17x8mBah5J50VsPIF9t6S2Joz/s80EmVBFX4GG6/3AE0miqL3HwfcT4dLmoIyxzIBLNJB0TeQY6GMcxBasG82vHdZaNIZUmk3XqWp1jcUvEtZg47Ja8VV0Av58wklU6ZpKS+zTVbB6g/6BJrTTzNMzmHbE5gZvcopEiuH3HQwRqTze0+Rw1j/zlsamgKfAYyzw/2kNUuuJu/7gpD2YLpk25AnLZpQ/xaIAaxcPKjAkVQc9yV+MIe378y79Yjm7AltCfYyqMm19rTL25ZoDR8QR7XQPsFbcUgPxYY="
+    },
+    "name": "Burning Eye",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1000,
+    "description": "%%gray%%Probably the single most regrettable effect of Sulphur on the island's fauna. You can't kill a spider with fire if it's already burning."
+  },
+  "recipes": []
+}

@@ -1,0 +1,79 @@
+{
+  "internalId": "BLUETOOTH_RING",
+  "name": "Bluetooth Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+30s\n\n&7Monster melee attacks reduce &a1 &7less\n&7&aф Rift Time &7if there is another player\n&7within &a50 &7blocks.\n\n&5X&5 Rift-Transferable X\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLUETOOTH_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzg3ODE3NTgzMCwKICAicHJvZmlsZUlkIiA6ICI0MmU3ZjY0N2MxNmI0M2Q1YTZlYjBkYjg5MWYyOGIxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW5yeVBsYXlzVVMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZmZmRiNGY3NWUxNjc4ZWNmYWE1ZjQyYTMyZjExZTFjYzA4Nzk0NmY0ODU3NDYzYWU2NjQ3Y2MzZTAwNzllMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "kqFvhZTyBbIA309QOymyrYyBGl5mNQCoch5qQZ7DYdJjqo5g7IKgf8ZobfLscDIID+bkJEZJit6bWCv2HpUOg5DzvdJKSRcIjZr2INL3R6jfhvkozj8sB1Zht0a54UiZUH2xKaF3d+vg44IiJaEHY27xZ1clqxw6DZRQS6xd1m/C/RXB+R9+qKaSpLeTKyG6/1BxRd0TA9Wmv9rXFql/8DB+t0XceYjrxZEwEXYxCD7kN9uoKzz4V0Tm0C84ijY5pYpx3kuxuRlRzwX50DZdYuvC9mAPsr3cwViuNqfml4V4n3emhNC/Ip6PuBZHwmv8eMDN+ozgIOJFlxVCS55rbBNek7fzbnACpU66YXLtKWTDwb7cNWVhwdW0KGMklxW0pcKUYcuDwLxfRfK0qCGFw+//SYELmCQkjtK8D9fDcLA28M3B28YtJVzXDWmTvSEEyDOGxpKL7OdBVpRGS1UeKcyA6J8cYSyzVz9VfTQ37dFlnptAyVaFQcRgUaCxH2HitpyMP2Jn5pNRN7Q7fFLGEVr7n/lorW9PfYmq7E//fWd+lGYEcWx7F8aAtjtNwNcFOzYXFglufFwFv0srbA+Qc9IrBhL07M+TULNZOY68+dRhEPGsMbz3IfXZVqpBqyWjtCDMoW4208+u6L32z2jGU1WQdtPKW7/gp1WJSGYVC3k="
+    },
+    "name": "Bluetooth Ring",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "stats": {
+      "rift_time": 30,
+      "walk_speed": -2,
+      "intelligence": -1
+    },
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLUETOOTH_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "WOOD_SPADE",
+  "name": "Wooden Shovel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+15\n\n&f&lCOMMON SHOVEL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOD_SPADE",
+    "material": "WOOD_SPADE",
+    "name": "Wooden Shovel",
+    "category": "SPADE",
+    "npc_sell_price": 1,
+    "stats": {
+      "DAMAGE": 15
+    }
+  },
+  "recipes": []
+}

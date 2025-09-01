@@ -1,0 +1,73 @@
+{
+  "internalId": "BUBBLES_OF_AIR",
+  "name": "Bubbles of Air",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&6Ability: Inhale  &e&lRIGHT CLICK&r\n&7Refill your air bubbles when under water on\n&7&2Galatea&7! This item will be consumed on use.\n&8Cooldown: &a30s\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BUBBLES_OF_AIR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI0MTk4OWVhYzE3M2E4NzQ4OTIzM2IxMTIzOWU1NDY0MzYwOWRlOTI5MTg5YjllMTBlNTk4YjVjYzg5NjAyMSJ9fX0=",
+      "signature": null
+    },
+    "name": "Bubbles of Air",
+    "tier": "RARE",
+    "npc_sell_price": 1000,
+    "has_uuid": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BUBBLES_OF_AIR",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

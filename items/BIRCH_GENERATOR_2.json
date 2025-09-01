@@ -1,0 +1,77 @@
+{
+  "internalId": "BIRCH_GENERATOR_2",
+  "name": "Birch Minion II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping birch logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a48s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIRCH_GENERATOR_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MTg5ODYzMTEsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZkZDUzOTg5ODMzNTA1NjI1ZmE5ZmM1Y2U1ZDRjOGE3NDVmMjUyMDFlNThkNTZjYzZmOTQxMjVjNzg2MDZhOTEifX19",
+      "signature": "E/b+Fm35FfO5mcWnfAyJo9XaJ0nipqmo5shuhQoByR24Y0YKaN3CXLRNece1BXY0ixvplm8WRXVGwcy4aWF0W5xuG0OtfGYQPWM6YQlqvYe2gUD5Pxi/AfeMnPNlHqA2QIOuRlPYQVgBSvlJzqJeDekvXNgX4lF5wOh9njYDUohAPtQeAwIzelscgqLXAENvbuSyHjQaI+/yp62hLY+NC79V4aY/FDw+BacwxOeMNzD7hAU3dvSDiCG4WM4tYb5blWz7B9cDT6YTQmrUcfZiAqZma5B0EkIc12FrbUb5fT9E4LK3eqYdGH0Y+CHk3YyWxlByDxLDxu/X2mDObrVv8woH29tgr7Q3exG7qcXa3QSJiE1emF7BS0ToyrolurC+ObNlmAAIG5gwcSw2sRtZDewMYWfxqsE+qz/EKGOLwkknQW1BAaDuvFtoOpF3akGLVbX2T9AmxZY9upNx62kGBv2Kq5xBZNGZmANxTmsrLZfmyMUGeuRcbt10cHc+xLJ+xNxLusVRY+KMnzgm8YYB49NAilcd6LlubaPnoWLiGCZ2j79UUlYcVEsI/4ThjAn4RgSLsfsDWW7O6BfFOSjKx2dHSDb4PElBbbE0TpiR8dqr8U+hbEW8JwZsYgru82mXEboaRgcHfyI81u4TPnmi91tPVfurI/nV2Vtrhi8TXxc="
+    },
+    "name": "Birch Minion II",
+    "tier": "RARE",
+    "generator_tier": 2,
+    "generator": "BIRCH"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BIRCH_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "BIRCH_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "LOG:2",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

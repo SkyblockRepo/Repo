@@ -1,0 +1,33 @@
+{
+  "internalId": "LOUDMOUTH_BASS",
+  "name": "Loudmouth Bass",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Right-click a player holding a\n&7&fLoudmouth Bass&7 to engage in a duel!\n&7The heavier your bass is, the more\n&7likely it is to win!\n\n&7&7The winning bass will &cconsume &7the\n&7other and grow heavier.\n\n&7&7If your bass is consumed, you\n&7receive some &fFish Food&7 and &3Social\n&3XP&7 as compensation, scaling with\n&7bass weight.\n\n&7Current weight: &a1 lb\n&8Upgrades rarity in 49 lbs\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LOUDMOUTH_BASS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMDE0Mjc1OTc1MSwKICAicHJvZmlsZUlkIiA6ICI0NmNhODkyZTY4ODA0YThmYjFkYzkwYjg0ZTY5ZjVmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbG8xNjA2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5NTJlMTYwMDdmZDdmOGVhNWFkNGQ2NzRjMWFlNWEzZmUxZDIxYzdhMmU3NGY4YTJiYjVlMTdjY2E1MWEzOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "sFUxp59UAxB9W0oZ6qlMIVTkowhwLQYj0YRdNhw89ZcWjsCKabCmF/pdHKwupPdsfjboKnypf4RIa55BEihAgePY/DYN01EGr/IqwHrVbRvE7hsidtvwKrr6PLhHSHlcKi35WaY+21ePtK3BNusBldXoroosi/ecmnilga3AmziGQ+A8YS0O/dJKPiAXIzQqB3K3SyZl95xzHtSE46gQ+ySFrIxdFGJ3lubIQyr8nuldkDmK6ymqL4xM623Gx5ZM/iEZ8MRsHaWtZRWNi6M/O4btYdBBUw5O7OhfZZoNaOlELKhphVXFxtJjBAsZUGDz0NCNi0qBmubWsQ1a2KGBvcl57uxRI0UQ1VnoUXO37+GhZRjA6FM22ojcxmNXEdFIGJxBkHOrRfMlRJ9c2ZDnMPtC08+VkfPZCK/s4pjyFbseNAoCpIhZP5E8edaCdfFqTG40uUWaof83csrSPT/dZEeRfTQ54KziZ8s2rAyg8vSPMA4g3HQr6xWbE+/jYloBpNubnwloKVoQaquZcQIkGL1YWwOu7HFeNg9GLFa6GWx2DcxIeXfZGfold7oNdJYDwL07xeCrZwyxMWNYSMMQ49UaEN7rbXwPOfUQ/QbyCNJxNtfy3KuO3yRjj79MFVI9wdUDbfjnNGvZDIgsP3xH8i4eAeH8LF7Se1HIZlsHDYY="
+    },
+    "name": "Loudmouth Bass",
+    "tier": "COMMON",
+    "unstackable": true,
+    "museum": true,
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

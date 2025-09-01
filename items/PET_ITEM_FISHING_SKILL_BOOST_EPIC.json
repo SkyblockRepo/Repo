@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
+  "name": "Fishing Exp Boost",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Gives &a+50% &7pet exp for Fishing.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5&lEPIC PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
+    "material": "RAW_FISH",
+    "name": "Fishing Exp Boost",
+    "category": "PET_ITEM",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,56 @@
+{
+  "internalId": "ADVANCED_GARDENING_HOE",
+  "name": "Advanced Gardening Hoe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Farming Fortune: &a+10\n&7 &8[&7☘&8]\n\n&9Replenish I\n&7Upon breaking crops, nether wart,\n&7or cocoa, automatically replant from\n&7materials in your inventory.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 3&c.\n&7&4❣ &cRequires &aFarming Skill 7&c.\n&9&lRARE HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ADVANCED_GARDENING_HOE",
+    "material": "DIAMOND_HOE",
+    "name": "Advanced Gardening Hoe",
+    "category": "HOE",
+    "tier": "RARE",
+    "npc_sell_price": 100,
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 3
+      },
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 7
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "FARMING_FORTUNE": 10
+    },
+    "enchantments": {
+      "replenish": 1
+    }
+  },
+  "recipes": []
+}

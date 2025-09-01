@@ -1,0 +1,280 @@
+{
+  "internalId": "RAMPART_LEGGINGS",
+  "name": "Rampart Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Health: &a+150\n&7Defense: &a+55\n&7Intelligence: &a+5\n\n&7Grants &c+50❤ Health&7, &c+20❁ Strength&7,\n&7and &9+15☠ Crit Damage &7while on the\n&7&cCrimson Isle&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "RAMPART_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "223,46,6",
+    "name": "Rampart Leggings",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "RAMPART": 6
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "HEALTH": 150,
+      "DEFENSE": 55,
+      "INTELLIGENCE": 5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 7
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 7
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 7
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 9
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 12
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 12
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 12
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 15
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 25
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 25
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 25
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 7
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 9
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 50
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 5,
+        "essence_type": "CRIMSON"
+      }
+    ],
+    "soulbound": "COOP",
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

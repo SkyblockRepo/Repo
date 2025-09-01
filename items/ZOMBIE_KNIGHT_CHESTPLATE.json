@@ -1,0 +1,121 @@
+{
+  "internalId": "ZOMBIE_KNIGHT_CHESTPLATE",
+  "name": "Zombie Knight Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d222 &8(243)\n&7Strength: &c+20 &8(+22)\n&7Defense: &a+96 &8(+105.6)\n&7Speed: &a+5 &8(+5.5)\n\n&6Full Set Bonus: Zombie Knight &7(0/4)\n&7Gains &a+50❈ Defense &7when used with\n&7the Zombie Knight Sword\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 14&c.\n&5&lEPIC DUNGEON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_KNIGHT_CHESTPLATE",
+    "material": "GOLD_CHESTPLATE",
+    "name": "Zombie Knight Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 14,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ZOMBIE_KNIGHT": 7
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 320
+        }
+      ]
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DEFENSE": [
+        96,
+        105,
+        115,
+        123,
+        135,
+        148,
+        161,
+        176,
+        192,
+        209
+      ],
+      "STRENGTH": [
+        20,
+        22,
+        23,
+        26,
+        28,
+        31,
+        33,
+        36,
+        40,
+        43
+      ],
+      "WALK_SPEED": [
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

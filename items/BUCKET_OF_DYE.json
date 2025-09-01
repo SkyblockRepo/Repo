@@ -1,0 +1,31 @@
+{
+  "internalId": "BUCKET_OF_DYE",
+  "name": "Bucket of Dye",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Increases your chance of dropping\n&7Dyes by &a1%&7.\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BUCKET_OF_DYE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTI1NDg3ODc3MywKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk1ZThmZTg4NzE2OTdjNjJiYjE3MTRjNmYwODI4YjNmNDc0ZjBlYTJlNTkyMDE3YmNjMDA4NmQxNjQ2Nzc3YiIKICAgIH0KICB9Cn0=",
+      "signature": "pl0cAYWcr7wCA2+QAjer3p2qAurER7L8Q7B/bp9v1efyVAFhsS8XeJhI6vX/7cRH4eixfUIY1poFJzahuDmTp/3Ci8LyXp/GY+OJsQgSXkmKk290Ib+FAoKmZILUC/ZzfvdFuHvqDeLWTpDF9LkRPkW+9UgPlC9x4T71I2c0q9TakNOb138bDHbiBYTql01Zs6sYct0wAYqNfLaPF4kncNq9LmuVPxY01RW0WziBBMRbI3Qihub9D52HDTpdTc0Mhl9yM6I4oM///RT/x8bFH540zyAJ2OE+DHwUypthLUXQRe+/As03Kumna8ueJ7K7wInbcWNrMOzXKtjyzfssAeVS1gABL6dDyPcJl/p7faDzlokM0wA5LYgczKEYsW93LOqEOwoCAvk/Ku2zO6W6fKlk4CCLh43Vb8I/6iUE/FjTo6oKOl2L62RKPJbgjyUUZ8qHCHtBUBAILz4VardyU7We78aP6PWtMYXbW1AYo2nIwMTYQnNPVbFwwP8Qm/mPqBWfbOse/i7KZIR4kNuKkwRHaMtmirpNA7HYojcXH4TWwFyqkxKVb6ZI/ASOpVY0M0bhqH9Cx1BJh81n0OZaj5GhbX/FCU2OE5Y368+d9FZ5AITVlltdmf1CE2Kf1hOP3BIkD+GorAhsjp+iziTsqbFqlAkBmSI4K1fpHIrkd8g="
+    },
+    "name": "Bucket of Dye",
+    "category": "ACCESSORY",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

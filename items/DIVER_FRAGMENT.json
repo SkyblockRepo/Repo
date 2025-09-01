@@ -1,0 +1,31 @@
+{
+  "internalId": "DIVER_FRAGMENT",
+  "name": "Emperor's Skull",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIVER_FRAGMENT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0ODYyMzM0NTMyOCwKICAicHJvZmlsZUlkIiA6ICJkOWYxZDI2ZWFkYjg0MjQ4OTI3NjU1NzYzNWNiMzQyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2JPbGRmbHkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmJhMTcxYjRlZDY0ZDFhNDAxZmJjODM4M2EwYzRjZTU2ZTUyM2FiMDA4NTU1MDRjMDBlZDI3ZTU1ZWJiNzBiZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "Id7EoSrE0UFhymKbpPzD0hrhohfTgHGcFTAWL/aErXMnaJxWK02dvUnCDOnBv3WM473AsjBQE4SWuLyjjJsmsU7xFRoRuLPtETDShvEcXr6zgJuYPSuL4hwbnW0pqWEtT5pLmwpIxu/gsey65n7uF+Lp9ZhfLaNDsRYIOTEXB31mXCuvfS9uhLyp1iuh9uueobtJqNYdLfEVXzINFY2+DZ5nzmdzrOdy5d/vchHDls5NzBMtQnR9FpsiBf1WMARd8jemUV6gidpico0aCwwNIhyuG9jDafEpZdp6Qkkh7Kn9gFfYfIEDZys9XOD015TThGuVRPwXkLtZ/GfapDp9dktq1MLqeQXMCyxKfiCI4LoU8s0K7FoxYjb6xOfhKruqh1Ol3Edt9m7JGnMWvJ7QJ/wgVe5/MFwDnL/Vw14jV13xfEm1y9yyeY4IjaNd4PoASgOYO207ahKZacyPVbNCId0UlroNEDwqXLaGV05KyeIiypoN7OIJMhErTPY6bvTHW/DB0wuR4dXQ+GUoM4Oa4YXOYkDEJOhv/x7Ufccqf5eGwRy7mFnB43TynSmEESa588yLbktjHoY2JBinaLxFb39uVhwg1/xyikVaxy8W1j04xwRRnwukyIp1xnfRyOzWL4vI1vgXawJNNwjDWoT4FZskJVJJM0CvQM0khJsRti8="
+    },
+    "name": "Emperor's Skull",
+    "tier": "RARE",
+    "npc_sell_price": 100
+  },
+  "recipes": []
+}

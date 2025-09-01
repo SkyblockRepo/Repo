@@ -1,0 +1,229 @@
+{
+  "internalId": "TAURUS_HELMET",
+  "name": "Taurus Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "&7Crit Damage: &c+20%\n&7Sea Creature Chance: &c+3%\n&7Health: &a+175\n&7Defense: &a+150\n&7 &8[&8⚔&8] &8[&8☂&8]\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a5% &7and\n&7damage dealt is increased by &c1.1x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 35&c.\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TAURUS_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU0MTIyNDQ3OSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY0MmEwNmNkNzVlZjMwN2MxOTEzYmE3YTIyNGZiMjA4MmQ4YTJjNTI1NGZkMWJmMDA2MTI1YTA4N2E5YTg2OCIKICAgIH0KICB9Cn0=",
+      "signature": "ABe/sF5x53+kZYg46RseDtmF34UittLLmcUasJQuJBKt/YRpz3UzHfS6JPiQVE7HFyB3vwHQMzRCKRiz0u6qtNHCOMr/WcVWHdxJT+oVkBuljgzSr6aRZAOLbIg7M50U21aqaarEqw3GTTh/RzkTBBl5E7FAVnXIpFPj7VWhsA7Hz2HPpSmtA39VgRKEOzwVuK4kk1Tt8jDdgilgyxeVbvRnLDoIN9eAhLN3VnGGKeUo79aRJFxGjJcLa/HjkgsINXecWoXQbdI5i2aslDUaAnOni14GkvvBr6M0/qViKdO+LlF/YHKbwbsBcxRvs19rYSssKLhNwQuXhKWccKf9y6FpfyNsS2+u2JADxGhxjME4m84sFZNKC5qvTqLC2PexRRFk7UdUs4j/+GtI++meo5Kup4BP68FTydVNGk9LJtWvUNr4ZofIaQ/cI8XqRNjungRc81ck6HuYu47yO+XxA/c0NdL4UydmhIRM5IlZ6bWYD5CQIX/n9x0vG9DDCUj47w6gXZR5NONMwwONP75/I7HS9CAOCpmkHKMbZnNhVhTnG/ZY64t5N4A9MYJXjo4lNpkgSleTosXV06CDXZN+vrxXsm+gNJqFZ7uv+zqvZAidVJR0TdLSX8+muwEKOEN9cf7MMYcIf8NVeZ+tdvPFTvb7D1pkOk58HIZ42mSi/sc="
+    },
+    "name": "Taurus Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 50000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "LAVA_SEA_CREATURE": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "health": 175,
+      "defense": 150,
+      "critical_damage": 20,
+      "sea_creature_chance": 3
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 15
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 25
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 35
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 45
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 350
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 30,
+        "essence_type": "CRIMSON"
+      }
+    ],
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "FLOWER_GENERATOR_5",
+  "name": "Flower Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting flowers.\n&7Requires grass nearby so flowers\n&7can be planted. Minions also work\n&7when you are offline!\n\n&7Time Between Actions: &a26s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLOWER_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzYzMjMxOTYsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM2N2MzMDNjMmM0ZjZlZjRlMGZlZWI1MjhmMzdiY2Q3MWMxYzA3NjU2MjEyNTlmZjAwNTMwYzVkOTliNTg0YiJ9fX0=",
+      "signature": "RFATCgwNLQaUt0srgEIDKyq6iAlEH3ixWDUtpxPNbazTsfC8Y/nGni6qXXsGSOF10fkudDFyL+frMcliH3Q/AwJDE9aPcRlPar2nbi2AmCajOj9rKz485prubOg8wR0yJxDzeMJC+NDcnMI70HQwUzi14WbeGyMU81XxyihRGRw3unQBMFb49jEJKt15EV1sgRknEMCAmOjgBGngY3S71abOywEE1sVLYfEIPPReKz1hYyVOqsEqQipMcKuMpItCrjhDPaPPBpCBKqTURS+oWtSuQH74tX+xt2qtO6peNZfSjU/rCleymVUCziYxGD+HkioMsnbUYu5VfCUaa94qWiEGMZdofV5H+pvVgsV8N40yKna6Hq4ULxrNbXP3kpaSRRXzEowfTdPUxhV4y92CCuiYNjaOJAGs9TXh//PQk9QYhsIZpm1oOoBiIK9QTjdWD4q5RjFQeayQzyC/GrGllgK8mDqljl2NSsjnTVrxNjXQAjNOn5DgdJhcObiDptqu0r5koPIkkBjR3UCB5cv3dWDOGQtlcYKG1iFOe96rEVFVbjAXC98GkzQ3zNq6sQb7EaChvAUNEAuioT7FwW6VmOmiASwh0XUgtm4Ltb9nlEOadfDvJNI1UOYK+fets92iCFoBUOnIuiiZvrUhQPq9/fftKEpdEP7NiQrMZJmP/cY="
+    },
+    "name": "Flower Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "FLOWER"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLOWER_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FLOWER_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_DANDELION",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

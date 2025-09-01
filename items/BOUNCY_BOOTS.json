@@ -1,0 +1,110 @@
+{
+  "internalId": "BOUNCY_BOOTS",
+  "name": "Bouncy Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d75 &8(81)\n&7Crit Chance: &c+5% &8(+5%)\n&7Health: &a+55 &8(+60.5)\n\n&6Full Set Bonus: Bouncing Arrow &7(0/4)\n&7Your arrows have a &e25% &7chance to\n&7bounce to another target after it\n&7hits something.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 12&c.\n&9&lRARE DUNGEON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOUNCY_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "173,255,47",
+    "name": "Bouncy Boots",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 12,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BOUNCY": 4
+      },
+      "game_stage": "SKILLED"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "HEALTH": [
+        55,
+        62,
+        69,
+        77,
+        86,
+        97,
+        108,
+        122,
+        136,
+        153
+      ],
+      "CRITICAL_CHANCE": [
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        10
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

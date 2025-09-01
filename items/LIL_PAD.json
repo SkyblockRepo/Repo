@@ -1,0 +1,28 @@
+{
+  "internalId": "LIL_PAD",
+  "name": "Lil' Pad",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Can be placed on water, especially if\n&7you're scared of said water.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIL_PAD",
+    "material": "WATER_LILY",
+    "name": "Lil' Pad",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "description": "Can be placed on water, especially if you're scared of said water.",
+    "motes_sell_price": 5
+  },
+  "recipes": []
+}

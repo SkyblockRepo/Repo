@@ -1,0 +1,68 @@
+{
+  "internalId": "MITHRIL_DRILL_2",
+  "name": "Mithril Drill SX-R326",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 29000,
+  "lore": "&8Breaking Power 6\n\n&7Damage: &c+65\n&7Mining Speed: &a+600\n&7Mining Fortune: &a+20\n\n&7&7Grants &2+40% &2Mithril Powder&7.\n\n&7&7Fuel Tank: &cNot Installed\n&7&7Increases fuel capacity with part\n&7installed.\n\n&7&7Drill Engine: &cNot Installed\n&7&7Increases &6⸕ Mining Speed &7with part\n&7installed.\n\n&7&7Upgrade Module: &cNot Installed\n&7&7Applies a passive upgrade with part\n&7installed.\n\n&7Apply Drill Parts to this Drill by\n&7talking to a &2Drill Mechanic&7!\n\n&7&7Fuel: &23,000&8/3k\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 3&c.\n&9&lRARE DRILL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITHRIL_DRILL_2",
+    "material": "PRISMARINE_SHARD",
+    "name": "Mithril Drill SX-R326",
+    "category": "DRILL",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 29000,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 3
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 65,
+      "MINING_SPEED": 600,
+      "BREAKING_POWER": 6,
+      "MINING_FORTUNE": 20
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MITHRIL_DRILL_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MITHRIL_DRILL_1",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GOLDEN_PLATE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MITHRIL_PLATE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

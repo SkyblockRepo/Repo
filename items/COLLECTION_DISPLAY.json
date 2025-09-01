@@ -1,0 +1,29 @@
+{
+  "internalId": "COLLECTION_DISPLAY",
+  "name": "Collection Display",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Show off your collection progress!\n\n&a&lUNCOMMON COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COLLECTION_DISPLAY",
+    "material": "HAY_BLOCK",
+    "name": "Collection Display",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum": true,
+    "description": "%%gray%%Show off your collection progress!"
+  },
+  "recipes": []
+}

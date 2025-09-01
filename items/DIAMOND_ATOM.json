@@ -1,0 +1,32 @@
+{
+  "internalId": "DIAMOND_ATOM",
+  "name": "Diamond Atom",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Perfect &7reforge when\n&7combined with armor&7.\n\n&7&8''This miniscule stone is the dream of''\n&8''every blacksmith.''\n\n&9Perfect &7(&6Legendary&7):\n&7Defense: &a+80\n\n&9Perfect Bonus\n&7Increases &a❈ Defense &7by &a+2%&7.\n\n&7Requires &aMining Skill Level XXII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_ATOM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA0NDY1OTg5MywKICAicHJvZmlsZUlkIiA6ICIyMWFlMDM2OWJhMDM0NGFkOGY1ZjhlM2JlYTMwOTQ3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXJhbF9BbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODNjZjlhMjE5MWQ1NjlkMTdiZjRiYWJkMDFmNDNhMTdiZThkMzJmMTE1YzZjNDc1MTg2ZTNlYzE4YzJlZmNmIgogICAgfQogIH0KfQ==",
+      "signature": "FTKXpwf0smFcjSLfy4lzckBfCJEoicZxIlakNzxl/T+T9DpACy9dNVRxhgct2k9KQZdtp3pi7ARsadU+SxGvF1deEgr2O+samGf8AHkD4ea0+KSf0qpgoxPVKjLzspPOtfNR3DDeKO8VZx2ix8xoBnQPeYPOHTvZpgaF0YZt7wL4AOirRCoIJoR2IA0zGArQElxjNu9XaCPSpilLrXAhpH9ODmbDIu2qhiurkjI3nU25xdVJ+nTM0LxtQerv0+RLcwrPO/QvJfid3hn2FkQfw12aqWQesVg4snNHI8SCoCERKKGMTzqHQb1dc/dMb4akfUvhRXzyD0lWGy+L5CzQrQXkywNBm3lbGdFBTcv/X61OL49piIDWZTrucoR6C4LtO8jyIHJZDlXhOdGVeb1xzJNqSx3FcZ/LYSkXLOhc6azGW+RG6rBsRqygiYZGxwEKrFCAfbrSvjIHrlzjSOVZ03VDgWsJNXpNyzoHHVkvusFwdP901AkyUXnZdcSmGUTlmkeqRFhsGAhOYuyoS14yRiJOcVbnydHi9fQ2j/78PJe0VkC63maFkSWsBcJ1zGz1E957bXEQcihhDNvfsVslwmI/knbZh3yGuydp6fAuakXVlufrTJ7bx1n7Q1s/MrwDGLSNR6GV7+KSu4EriAYRriaaULd+hXVqNwt2qteIfhI="
+    },
+    "name": "Diamond Atom",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

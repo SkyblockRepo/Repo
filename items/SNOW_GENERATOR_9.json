@@ -1,0 +1,77 @@
+{
+  "internalId": "SNOW_GENERATOR_9",
+  "name": "Snow Minion IX",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and shovelling snow!\n&7Requires an open area to place\n&7snow. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a8s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNOW_GENERATOR_9",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NzY1MTM0MzMwODAsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYWEzNzBiZWViZTc3Y2VkNWJhNGQxMDY1OTFkNTIzNjQwZjU3ZTdjNDZhNGNlY2VjNjBhNGZlMGViYWM0YTRjIn19fQ==",
+      "signature": "p3n53NATj7HMH3pXB10VYND7M9rpM5lRo16Dq/BOQa+uV0x73/dPlHS8O2CMlLh5Sxxx2N8MeRmlG3fIy2YHvSHovUKlQNGOl93JTiMX4Q8mhV83MIq61cKLjFCcae25DVny0NjgTaOMQNfZ4ay8sCQSRMIyYK3OApMQBj1aYE06onnP5mOm/mOfFCQiuAOBillXEiXq6nr+K55ynQqFtKXDBqmPJZF8Tyzc1JfQ7C7e1aY276iqD8W117FkWF5NBQ3NZNQUX9Wd8iNQTkgy4SdZifRwDRMQs9RhmcEcRoYUhtdXXqnP7NOrSa2CC9VmnxA1sK9NoRyQ1uMiG8WbPHvb7UFpy3Bib2fej+cFX216ScqwzgM1A1/+t33zU9+4xrFjTyuFb65jjwJvdBxmVsUbfbNh2xiPIzh5TvMEMgn751/5D7zFJlow46JytG2kgKlO5Q7cUCLw8O1AWp+p2/X2rHOoHS9Na5zTYDamujOVmpn10vjG+uMRpwfpwkytxcNMfNKTOFm4TWw6ms3V2GdUw43E8cN2djf5Fad5Uyz1phbJ6yJQCWc5axhpFGl+1F34UPbEjFPTNzGu4lANJ3gqTlNJjLCNFZRzbxLhuWLSLTwUPv+j2P2QsDvhscTb631iB8COSrispb0tucRXyQo+N8Jxfx6ln70xJEXVyZE="
+    },
+    "name": "Snow Minion IX",
+    "tier": "RARE",
+    "generator_tier": 9,
+    "generator": "SNOW"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SNOW_GENERATOR_9",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "SNOW_GENERATOR_8",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

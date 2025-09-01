@@ -1,0 +1,43 @@
+{
+  "internalId": "ELEANOR_SLIPPERS",
+  "name": "Eleanor's Slippers",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+40\n\n&8Tiered Bonus: Riches (0/4)\n&7Gain &a1.5x &9Scavenger &7Coins.\n\n&7Scavenger Coins Gained: &60\n\n&7&8''Made from the softest materials,''\n&8''these slippers are as stylish as''\n&8''they are serene.''\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ELEANOR_SLIPPERS",
+    "material": "LEATHER_BOOTS",
+    "color": "255,215,0",
+    "name": "Eleanor's Slippers",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ELEANOR": 5
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 40,
+      "rift_Time": 20
+    },
+    "soulbound": "SOLO",
+    "description": "%%dark_gray%%%%italic%%Made from the softest materials, these slippers are as stylish as they are serene.",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

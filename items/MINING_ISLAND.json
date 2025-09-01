@@ -1,0 +1,30 @@
+{
+  "internalId": "MINING_ISLAND",
+  "name": "Mining Island",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MINING_ISLAND",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODk5OTA3NDY4NiwKICAicHJvZmlsZUlkIiA6ICI3ODc0OTU4NzQ5Y2Q0NzBiYjEyYTY2NmNkZTVkODVmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYW50cmlYeEQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTUyODU4ZGEyMmNjNzRmYTVlOTkxMThjNDdjMTZlN2FhNGQ0NWI4Mzk0YWU5YjczMzkwMWRkM2EyYzg4NWQzZSIKICAgIH0KICB9Cn0=",
+      "signature": "iGELJfDZr1oEC+pj+We/TGLSOjiiabO0o1d2eD7lH8UF/JRfkjJ+9N9IZ5djmL+im9v3MJnG2qbt4SDV3L076QmhPNvcX+rZXIVbBifcWbKCp99Roaq08sQMQM6pzVEkbuDHdWNljYS7Ut4SyHlL4kW7L5MwoxkpOGiYmeCWpMsrAmo5+AUJpZGo9fbIi0e9L1gTL+EnhURxBQb8OrhOd8w24bFogBd5aksN3FTyy1QPkPdDSbQQhhTCoCMxOhhXO/fzrEvTow/KOLsW95D5wnm0pqqhDGnzAiDQ97o9uKIxA8/zLH64Vv9IKoaJx5Y6F5vz8gAw7LYlea80IspSHdxYqT1IRk0ehP7nO9nNjikSoxNi1c441KoS+9rAP+EDWjsfK+Brd/+xbCcY/sQ9hSm9nT3T/r4jJcX1Wh/Mo4rIq1K9DTNtljhFmtVV2sJlrrD8rYUfKVqmncNV/2BiE6Y5moIZMs2r/kj3mDI7WMbIlG1yZgkUmTYntbWsA32h3eqNVuHYgnHKUkygPAU0MsMns27OlZODNtoafVzEg13uUxfmC/9TIW0R+aenNuebaAPQFdkGVI2Nwzi3xp2uuiIKPoLeGQtpfn+iDTVxsy7EGp1HbpaR2/eCMj8dosZ9jul8A8RkN6ejUDvrnViuaFjdDEE2KVHwQM4YFw1JTm0="
+    },
+    "name": "Mining Island",
+    "private_island": "MINING"
+  },
+  "recipes": []
+}

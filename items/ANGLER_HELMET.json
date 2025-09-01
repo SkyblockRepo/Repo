@@ -1,0 +1,99 @@
+{
+  "internalId": "ANGLER_HELMET",
+  "name": "Angler Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15,
+  "lore": "&7Sea Creature Chance: &c+1%\n&7Defense: &a+20\n\n&8Tiered Bonus: Depth Champion (0/8)\n&7&7Reduces the damage taken from &3Sea\n&3Creatures &7by &a3%&7.\n\n&8Tiered Bonus: Deepness Within (0/4)\n&7Gain &c6❤ &7per Fishing level.\n&7Fishing: &eLevel 0\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANGLER_HELMET",
+    "material": "DIAMOND_HELMET",
+    "name": "Angler Helmet",
+    "category": "HELMET",
+    "glowing": true,
+    "npc_sell_price": 15,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "ANGLER": "BACKWATER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ANGLER": 2
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "defense": 20,
+      "sea_creature_chance": 1
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANGLER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ANGLER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

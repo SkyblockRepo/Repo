@@ -1,0 +1,72 @@
+{
+  "internalId": "SUPERB_CARROT_CANDY",
+  "name": "Superb Carrot Candy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&aCarrot Candy &7gives pets boosts of &ePet EXP&7!\n&7Pets can only eat &a10 &7candy in their lifetime!\n\n&7Grants &a750,000 &ePet EXP&7.\n\n&7&eRight-click on your summoned pet to\n&efeed it this candy!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPERB_CARROT_CANDY",
+    "material": "GOLDEN_CARROT",
+    "name": "Superb Carrot Candy",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUPERB_CARROT_CANDY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "GREAT_CARROT_CANDY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

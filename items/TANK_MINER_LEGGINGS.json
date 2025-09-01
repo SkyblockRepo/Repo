@@ -1,0 +1,43 @@
+{
+  "internalId": "TANK_MINER_LEGGINGS",
+  "name": "Miner Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3000,
+  "lore": "&7Defense: &a+15\n&7Mining Speed: &a+10\n\n&6Ability: Depth Coating \n&7Doubles this piece's &a❈ Defense &7while\n&7on &bMining Islands&7.\n\n&7&8This item can be reforged!\n&9&lRARE LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TANK_MINER_LEGGINGS",
+    "material": "DIAMOND_LEGGINGS",
+    "color": "122,121,100",
+    "name": "Miner Leggings",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "npc_sell_price": 3000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "TANK_MINER": "HEAT"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "TANK_MINER": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "DEFENSE": 15,
+      "MINING_SPEED": 10
+    }
+  },
+  "recipes": []
+}

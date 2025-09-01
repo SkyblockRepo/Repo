@@ -1,0 +1,140 @@
+{
+  "internalId": "SKELETON_HELMET",
+  "name": "Skeleton's Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 51000,
+  "lore": "&7Defense: &a+75\n\n&6Ability: Bone Shield \n&7A Bone Shield will surround you,\n&7nullifying damage you take but\n&7consuming a bone in the process.\n&7Bones regenerate every &a30&7 seconds.\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_HELMET",
+    "material": "IRON_HELMET",
+    "name": "Skeleton's Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 51000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "MONSTER_HUNTER": "MONSTER_RAIDER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MONSTER_HUNTER": 4,
+        "MONSTER_RAIDER": 4
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "DEFENSE": 75
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 90
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SKELETON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SKELETON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "internalId": "HYPER_CATALYST",
+  "name": "Hyper Catalyst",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7When in a minion, this increases the\n&7number of resources created by &a4x&7\n&7for &a6 hours&7!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HYPER_CATALYST",
+    "material": "NETHER_STAR",
+    "name": "Hyper Catalyst",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 500
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HYPER_CATALYST",
+      "resultQuantity": 8,
+      "crafting": {
+        "1": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HYPER_CATALYST_UPGRADE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CATALYST",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

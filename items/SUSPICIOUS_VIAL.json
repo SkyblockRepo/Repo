@@ -1,0 +1,32 @@
+{
+  "internalId": "SUSPICIOUS_VIAL",
+  "name": "Suspicious Vial",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Suspicious &7reforge when\n&7combined with a melee weapon&7.\n\n&7&8''Smells like fish.''\n\n&9Suspicious &7(&6Legendary&7):\n&7Crit Chance: &c+7%\n&7Crit Damage: &c+85%\n\n&9Suspicious Bonus\n&7Increases weapon damage by &c+15&7.\n\n&7Requires &aMining Skill Level XXIII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUSPICIOUS_VIAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA2MTU2NTU5OSwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YxOTM1NWVhNDEyOTgzMjdjODdiZTU0MjYyZDI5YzU0YjI5MmNiNjhhODA5NDVkY2E5MDVjMzAyZjA2MTEwYzYiCiAgICB9CiAgfQp9",
+      "signature": "pa3Pw7B8SfwZ0qNLN+TgqyravYwcAOdBkhi2KkWemUNbLAwZVNo0Zk7HCWP0MODuZwwCPP8NKwuWbQUNNm0xsmR4PQqP73QuPD4INnvRzhH3ITBlpacVfaMw0nH/doVw+S8CH3+D7unhPzIXb/WHM9OaJ4g6G4WslYaL8QzPrwh2/CJE8Zay/xYRC0jafxwBkyrZ5OIm+2mlFym1kYJ5vZ42gpd+aYmOe24BiBBBcifKFOAHTJ1CkttEUlvKln3fzQiPPeiTfLbAxzVY8GOY2D7+JE/QmP0B5xT1CVgCmu0lqxbmAvRGlGAXNmR9Km9JPcM9PLI9qHGGlILJRiqAzS0q6wFoa0bGsa9C485E7MXbkp5GYjq8I/p8YU4Xl1/NQeHRgIaFqDdY1P2J42RjFHp6DKvklQSxBi0otehUDHmyb1/cSd1+enxXKsLI7bqEZLMv40k3fgKmfQTpIfgUgbrXAj7U2UecyLoYsXQnsVvTaPc2xhMwP+4UlzchjLyvzxwcniS4hHu0uhzrhL5Lgsfg2n6SInQuF24ivMrhy/0oSZsSb28Fo7zJjnHgdicMl8z+j6cuqv7/maFTLwLkasUf9wq1X+xsA2mBnxSB8wOk91Kvj74Nxd9vvLIUqZMIcT4vUZiswRPpytQE5EG2iiX9qgMxo7w8XIoh/MsA3fs="
+    },
+    "name": "Suspicious Vial",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

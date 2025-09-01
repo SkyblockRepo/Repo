@@ -1,0 +1,39 @@
+{
+  "internalId": "ROOKIE_PICKAXE",
+  "name": "Rookie Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&8Breaking Power 2\n\n&7Damage: &c+15\n&7Mining Speed: &a+150\n&7Ore Fortune: &a+5\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROOKIE_PICKAXE",
+    "material": "STONE_PICKAXE",
+    "name": "Rookie Pickaxe",
+    "category": "PICKAXE",
+    "npc_sell_price": 2,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DAMAGE": 15,
+      "ORE_FORTUNE": 5,
+      "MINING_SPEED": 150,
+      "BREAKING_POWER": 2
+    }
+  },
+  "recipes": []
+}

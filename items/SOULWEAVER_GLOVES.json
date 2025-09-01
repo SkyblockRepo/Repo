@@ -1,0 +1,87 @@
+{
+  "internalId": "SOULWEAVER_GLOVES",
+  "name": "Soulweaver Gloves",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+10 &8(+11)\n&7Crit Damage: &c+10% &8(+11%)\n\n&7While in &cThe Catacombs&7, summon a\n&7&cHaunted Skull &7that slowly revolves\n&7around you every &a15 &7seconds or\n&7when you kill a mob with melee damage.\n\n&7When an enemy is hit by a &cHaunted\n&cSkull&7, they are stunned for &b2\n&b&7seconds and deal &c5% &7less damage.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&5&lEPIC DUNGEON GLOVES&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOULWEAVER_GLOVES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIyMjY4MywKICAicHJvZmlsZUlkIiA6ICI4NzE3ZGFhNmM3OTU0NzE2YmJlYWQ0MDRkYzg0NDQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsbDAwMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUyMjg2NzcyMTJiZTQzZWFhZDIzZDQ3ZWQ4NDNlMTVmYjFlNjgzODQ1OTRjMDliNThiMjNmODI0MjdlNTQ5YSIKICAgIH0KICB9Cn0=",
+      "signature": "byaUid/txh6NGDuBC9Po4p1Mf9bqhzI4BmPYk3rchzlfUISAvIz4p9JgHg01FUoPEThj0b6ulOsdmMyWXsXztyLIq8iXrgcfYI1e8VJrJVEkV+z93spf63QDNTz2jlM7t2gpcMQU25WiJZeE2YZ2i7TlL5jjCDQf24XQDv+jFrzamZPhUq8K3lwC5iwbPAXtT7T9RygE/ylLQbyHVknJiOEovnB20ueDn/wE5UmDNQQueLqmEHY65YiQvYPNtIk/8zMeTfeX5WyXh/AkJ7PIgeFSujXwz4ymGJvE12LlfHqDO5r3u6JlqyeW6BtEp2H+Eyz7meOqdFXYXB6FQGiolSHHcgCBeEQqc3CQQVI84PtHrVGjSFAHRRs0u+Ch+yJHA+XGhCJewZjEDteV3VMHHxWl7Pu1rDY6cYW5KNPiPS5v7MTdTHsvFs0em+q31PmJThRpgpDiNd884lYINXRZh6hi8hWCsQ1zV59WtMfL/UFs3qoaVuexs3iJX/qVQ0plfAQjZKju+cfB5ir/DBGgoKItJfVrwQLPsB/aYv9gp+TnT5pyXwEwVjLZIDjrqXmQ8nG0XG1cm9IOu7DvajIpP+eHB+NJTM3Lq/RikFZJ/nLINLZsvwjwuMsyBFGCbg67KgVhNwSrp15BrahHI/KGsmHSSd182DEuobODlhW+x64="
+    },
+    "name": "Soulweaver Gloves",
+    "category": "GLOVES",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 6,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "strength": 10,
+      "critical_damage": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 600
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": []
+}

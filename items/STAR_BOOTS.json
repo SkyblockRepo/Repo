@@ -1,0 +1,31 @@
+{
+  "internalId": "STAR_BOOTS",
+  "name": "Boots of the Stars",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+7,500\n&7Defense: &a+2,500\n&7Intelligence: &a+1,000\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAR_BOOTS",
+    "material": "GOLD_BOOTS",
+    "name": "Boots of the Stars",
+    "category": "BOOTS",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "HEALTH": 7500,
+      "DEFENSE": 2500,
+      "INTELLIGENCE": 1000
+    }
+  },
+  "recipes": []
+}

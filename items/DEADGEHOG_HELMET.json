@@ -1,0 +1,35 @@
+{
+  "internalId": "DEADGEHOG_HELMET",
+  "name": "Deadgehog Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DEADGEHOG_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDE0OTgwNSwKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVmNWM1ZTNjZjQ3OTEyYWJjNmJjMmM5N2Q3YjczNDcxNjZhZTRhZWFlYzk0ZTg3NWY1ODUwNDg2MGQ3OTNlOWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "lu+bAvyRXijckUt5zPGgrlLqHjWIY7fuAc6K8hM2gcNUTB1tFqCUi3HkpvyT/oMAFgOPjANv6w4rq7Boqbs2XQ/+EHgqZhMZUEe7gax8j5jNCrYzEBSVpFQtlttFxU/KhUqSyvySPlSoDbA2FldRHSZIwmiVA1V6q/s81tG3QMy5aQUM/bJdwko7uzfENIW1IkGVGBrU85UxDRn/ztErC+MNqz6SrI5JnZ8+YsNnpTOeF8MgZEvseNn+M8RYIEpnDeXaHbR2AtUkl0IvilWZj6+xQevwQVckSpxC82Vt7ZBplozgZlIRYV9NrwDKplPkZx7BbmE44wF814Vx35kfFwwhER+Cd89inxn9GpBoIbrLQVQd3aesxPgps59TJ5MvvgAAuIrVG9ibI+x+i9250qajC3Qw6G0upQBEzPfJlL9G7GX4njCIEm7W3UoXc0b0IitxCeBMzJipwomsx0CcKuu/aflPCzQphzGfPcM8AqJR48eNVGraN/YJbllnYOQztCTETyuMu5hq38AzCvv0QEgJIPgE0Fl9BsMaMk2nOWDH2XQsDsckojGObwdFYAihs+diNj9tmhOapGVq2e6wZay0NFzGl2VnSZo2/Fc09R8+WOsPheI7Sx1T0wbiShYVYiBzT7a4lZ6riVV3kmPcHQTPWAoZd9XC7wEUEmxOc6s="
+    },
+    "name": "Deadgehog Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "stats": {
+      "INTELLIGENCE": 150
+    },
+    "dungeon_item": true
+  },
+  "recipes": []
+}

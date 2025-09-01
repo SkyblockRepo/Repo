@@ -1,0 +1,26 @@
+{
+  "internalId": "WILSON_ENGINEERING_PLANS",
+  "name": "Wilson's Engineering Plans",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Drops very rarely from the Inferno\n&7Demonlord.\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WILSON_ENGINEERING_PLANS",
+    "material": "PAPER",
+    "name": "Wilson's Engineering Plans",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

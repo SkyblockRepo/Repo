@@ -1,0 +1,31 @@
+{
+  "internalId": "ARACHNE_FANG",
+  "name": "Arachne's Fang",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Straight from the spider's mouth.\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARACHNE_FANG",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjY3OTEwNywKICAicHJvZmlsZUlkIiA6ICI3MDQ0ZDlkY2I5OGI0YzgzYWFjNjIzNjFlYTY5YmNmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfV2F0cnlzaGthXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDk3ZDA4YWRhOGJkZTY5MjI4MzQ1YjZkMTA1NjVjODU0ZjdhZTlkMjQ0YTEyODlmMWJmOWYyZTg0OTQ1NTgwIgogICAgfQogIH0KfQ==",
+      "signature": "xGqp/QHd+4sRMlEXQwTCoiOAWLaUi5SwZek+HU07vqPkAFL/vWnWGwR8QRrPpzX2x/y+0JIVG/fZbdEiBzy58iVZjBoC/EuFLJL1tn6ka4aGZD2LDfu6jFEAofgiQXcq+ex84+4AcGCXuwnM2WMyat2A4J7xxxWnntykNIrzfi1LrUSyErJWK5WiGUGAP3i8JAGvgiCE/B1WgUVuCooxFShtX3TwTe2qF6aWBSHPT/19Jh3hR2NtTzG6d+4yS1YJDhoj0oVUdaXCIz808rNJn+moEGWvJI4wFObelP3Y7V6QkcRDtLtdEgaovWQOlV7QmL9v12/lvNaIbRldUTNahUORwphqaku4brP71Zx8DlBcipOQmay++R6cSKIPU0QLr8tLrsLemSHIoYHLq2UQlTi8zifPLZWbn/ZCs45P+pXt/SHKhWr7Cyf4Zz5XnNaYYXH316gruKFLIeO8G4MqfX99dDFqKYOfzx+dTPFYZaeJhhdTec9vKXmJHxV4UzWzIvR5Y9ZhlgKcluaBbdVKj+pttUZDuohpDdqsL60y6fsawPiDLeQO6VTQjq/mm4QNtd1Ql5ab0GWT4Z1cEBT5L3Mi0jLk5RPDvRCOt4Zb6sQKhP3cG14oiLTowgf2+v4CIlDqfKk2ZQCF06ACRCrUhXdeCOTqbccwxMTPsoPBMzk="
+    },
+    "name": "Arachne's Fang",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 500
+  },
+  "recipes": []
+}

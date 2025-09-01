@@ -1,0 +1,28 @@
+{
+  "internalId": "DEAD_CAT_DETECTOR",
+  "name": "Cat Detector",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Meownar  &e&lRIGHT CLICK&r\n&7Ping the &5Rift &7for cats.\n&8Mana Cost: &3100\n&8Cooldown: &a9s\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DEAD_CAT_DETECTOR",
+    "material": "RED_ROSE",
+    "durability": 7,
+    "name": "Cat Detector",
+    "tier": "RARE",
+    "glowing": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "MOBY_DUCK",
+  "name": "Moby-Duck",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "&7Consume to boost your &3☯ Fishing\n&3Wisdom &7for &a60m&7.\n\n&7Keep this item in your inventory to\n&7increase the bonus up to &3+30☯\n&3Fishing Wisdom&7, at which point the item\n&7&c''evolves''&7!\n\n&7Current Bonus: &3+0☯ Fishing Wisdom\n\n&7&8''A series of tales following a fellow''\n&8''named Moby and his waterfowl best''\n&8''friend. Who would be so egregious as''\n&8''to thrust such a literary''\n&8''masterpiece into the sea?''\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MOBY_DUCK",
+    "material": "BOOK",
+    "name": "Moby-Duck",
+    "tier": "RARE",
+    "npc_sell_price": 1000000,
+    "has_uuid": true,
+    "description": "%%dark_gray%%%%italic%%A series of tales following a fellow named Moby and his waterfowl best friend. Who would be so egregious as to thrust such a literary masterpiece into the sea?",
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

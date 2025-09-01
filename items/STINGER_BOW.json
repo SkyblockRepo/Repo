@@ -1,0 +1,50 @@
+{
+  "internalId": "STINGER_BOW",
+  "name": "Stinger Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STINGER_BOW",
+    "material": "BOW",
+    "name": "Stinger Bow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 12,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        47,
+        51,
+        56,
+        61,
+        66,
+        72,
+        78,
+        85,
+        92,
+        100
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,154 @@
+{
+  "internalId": "HOLY_DRAGON_CHESTPLATE",
+  "name": "Holy Dragon Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Health: &a+180\n&7Defense: &a+160\n&7Mending: &a+10\n&7 &8[&8❤&8]\n\n&6Full Set Bonus: Holy Blood &7(0/4)\n&7Grants &c+200❣ Health Regen &7to you\n&7and all players within &a10 &7blocks.\n&8Effect only applies once!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOLY_DRAGON_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "71,209,71",
+    "name": "Holy Dragon Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "HOLY_DRAGON": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 180,
+      "DEFENSE": 160,
+      "mending": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 70
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 70
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 110
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 190
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 230
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 10
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOLY_DRAGON_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

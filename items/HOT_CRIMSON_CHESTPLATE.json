@@ -1,0 +1,207 @@
+{
+  "internalId": "HOT_CRIMSON_CHESTPLATE",
+  "name": "Hot Crimson Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+38\n&7Crit Damage: &c+25%\n&7Health: &a+290\n&7Defense: &a+82\n&7Intelligence: &a+6\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Dominus (0/4)\n&7&7Every &a1.5s&7, melee attacks grant &c1&7 stack of\n&7&6ᝐ Dominus&7. &8Lose 1 stack after 4s of not\n&8gaining a stack.\n&7\n&7&7Each stack grants &e+0.1Ⓢ Swing Range&7.\n&7\n&7At &c10&7 stacks swipe&7 in a random direction\n&7dealing &c0.62x &4Swipe Damage&7 to mobs in its\n&7path.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 27&c.\n&7&4❣ &cRequires Kuudra Hot Tier Completion&c.\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOT_CRIMSON_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "255,111,12",
+    "name": "Hot Crimson Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 27
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "HOT"
+      }
+    ],
+    "stats": {
+      "HEALTH": 290,
+      "DEFENSE": 82,
+      "STRENGTH": 38,
+      "INTELLIGENCE": 6,
+      "CRITICAL_DAMAGE": 25
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 170
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 190
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 215
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 240
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 270
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 340
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 390
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 440
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 800,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 20,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "BURNING_CRIMSON_CHESTPLATE"
+    }
+  },
+  "recipes": []
+}

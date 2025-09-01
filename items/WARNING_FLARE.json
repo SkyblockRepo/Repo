@@ -1,0 +1,64 @@
+{
+  "internalId": "WARNING_FLARE",
+  "name": "Warning Flare",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Shoot the flare up in the sky for &a3m\n&a&7buffing up to &b8 &7players within &a40\n&a&7blocks.\n&8Mana Cost: &3300\n\n&aFlare Buff: &aWarning Flare\n&7&a• &7Gain &4+10♨ Vitality&7, which\n&7increases your incoming healing.\n&a• &7Gain &f+10❂ True Defense&7.\n\n&8Only one deployable buff applies.\n\n&7&4☠ &cRequires &5Blaze Slayer 3&c.\n&a&lUNCOMMON DEPLOYABLE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WARNING_FLARE",
+    "material": "FIREWORK",
+    "name": "Warning Flare",
+    "category": "DEPLOYABLE",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 3,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "WARNING_FLARE": "ALERT_FLARE"
+      },
+      "type": "RARITIES",
+      "game_stage": "EXPERT"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WARNING_FLARE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

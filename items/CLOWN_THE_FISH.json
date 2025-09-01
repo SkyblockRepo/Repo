@@ -1,0 +1,28 @@
+{
+  "internalId": "CLOWN_THE_FISH",
+  "name": "Clown the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CLOWN_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 2,
+    "name": "Clown the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

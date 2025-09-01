@@ -1,0 +1,32 @@
+{
+  "internalId": "FIRE_STONE",
+  "name": "Firestone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIRE_STONE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMTExNTcyNCwKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmU5Yjk2MGRhZDRiMGQzMzBlOWQ4NzY2OTk4NjJlZWQ2YmEzODhkZDVmMzcyMDllYzAwMGFiM2U5Mjc3OTc5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "SYBKtKvm30VzBavcuK7ux/HrLW8qtEt3xG8rijxSpsmqp9oBRuGdo27jLaP7iG2r3V1oYmbrudTQDXPnqcDHcUFrlNiouvrupkjo4eP0TGa5O0xkTiNzNkAZlIrSaCbjp8kK5yFy/0mZ7eithCJzOZsR7N2kcy8nQahCIG9ntph2C+VViAkV6aTp5CTkdw1B3XUs0DxViQE9PKiHwrP8WuQ1lrioi3vS+3J91OJMDiZmAdbAh5QPnTHbIs9RpoPnfnayUGr+jKQ21IrdtDR6Xp+YHvQuYHJv12UdV9IEcuXq8sS1R1BAa/4hssKM4iXfUBjZ5UWUOh4HevJfTbF8xV+u9uDpOHGeE9dKE46HrwTPqS0ExdgvAnY2iYekwAh7fpAYo6Z+Ka9YjDCQ8uym3bk9MSLBALZzF/JYfO5MCbERbFrEJWfL1MI0nR1tlKsQbB4QhY/KJNDgwtAAUbReNdDRTJNRwprzgLIwh2wHXb9/UQWvpq/LzHvu4/mDUfCPa4LxuuaZcL/XCzYJ8Zn7c07tBa8c7yiZWt/cbyx2RDR0HZWMFdaqbtrj1/h0vokxAvGS4zaY43XLK/GZ78EOs2H/dRtrnP1eF9GDSHBt7TRiwRyENXeOqcEIXayd52VvxLMgaEKg8i/z0k9h1tEtiG/EstDTZgeGrYZVx9pCWL8="
+    },
+    "name": "Firestone",
+    "category": "REFORGE_STONE",
+    "tier": "EPIC",
+    "npc_sell_price": 2000
+  },
+  "recipes": []
+}

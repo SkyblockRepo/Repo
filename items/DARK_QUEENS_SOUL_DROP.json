@@ -1,0 +1,26 @@
+{
+  "internalId": "DARK_QUEENS_SOUL_DROP",
+  "name": "Dark Queen's Soul",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7&7A portion of Arachne's Soul that can\n&7be used to craft items.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_QUEENS_SOUL_DROP",
+    "material": "CLAY_BALL",
+    "name": "Dark Queen's Soul",
+    "tier": "EPIC",
+    "npc_sell_price": 5000
+  },
+  "recipes": []
+}

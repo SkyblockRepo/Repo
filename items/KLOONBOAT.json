@@ -1,0 +1,27 @@
+{
+  "internalId": "KLOONBOAT",
+  "name": "Kloonboat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Drop this item to decrease your FPS.\n&8Immune to dropping.\n&8Dollar store \n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KLOONBOAT",
+    "material": "BOAT",
+    "name": "Kloonboat",
+    "tier": "SPECIAL",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

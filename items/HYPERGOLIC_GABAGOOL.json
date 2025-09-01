@@ -1,0 +1,60 @@
+{
+  "internalId": "HYPERGOLIC_GABAGOOL",
+  "name": "Hypergolic Gabagool",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Feed Wisp pets or craft into strong\n&7Inferno minion fuel.\n&7\n&7&cHypergolic-grade fuels create\n&cextra unique items!\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HYPERGOLIC_GABAGOOL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MTg1MzI2MCwKICAicHJvZmlsZUlkIiA6ICIwYWMwY2IxMTI1MWE0ZjAwOTJjNjIyNzM2NjczMDNmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG91Y2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQ0NDg5YzI0MzJlZmE4OWU1NjQxMTE3OGU2MGRkZGU0M2E2NTQ5NzRhZDQ1ZDEzOTk2ZDQ4NTk0ZGVlYTM5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "GSgPh8TXGeScVxgSwS5qzLEcc3IiJxwuzEr0cXvuPr/eTA2nMf/gpEXRTjAa9WjPHnts+N7zr0ptMuinRvR1yaNUSYNmdFMkRf9wDQVK2ec2WFGR3vZI0qmaJlfsyyLGeFw8PCl8XTg276k4CNTfFGmmeEOSsM6KIhgCxLLGVIKd8Gwl0DdCJtwXU5VuZA9cnOOIB9HNXpZ8iYyKpTQTBfim4NQQXylaFcOtLuyZQ/yTbiSCGBjDtMLqtU2z7xIur7coqZiG1jGuQjEthFr3qFMcYxKEX2qnE+F42p4pKhRyXHhmu057WNPJ8GPdfV4CqdmPxG2UPLWvd1hWVQsk8MvtDfWgG6JIcY1Wi57HgyA+YsIoG88emq+f/KXE2nIH8szOUfwGP32aVblJaZqa+sO8jsTTKJGtLiMNnH74NWTx2ZyxIs5/PHbEp+NYYd0gdQuhxS/+SN18E8h0bdJZ9zyeGkS9VBFgyVO2zME4fXo6GGddRa4ziRFCttb4AX1SrLWqVlDvjYasNT4Ks9SW2joFNUa9wNYwV1Ne4LaQCkFqWnyAiidP/h2/Bqoqj1SuC+Yvhmig+80tf9xznIySmu+/T6UuxaMNP5Erj18f8xTVtcCXoJFLKUvhUkm4hYsNbSB6bAEAEVzL35ZaUJVV4lVGRsX5v2Pk6/tpnETnOFc="
+    },
+    "name": "Hypergolic Gabagool",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HYPERGOLIC_GABAGOOL",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "HEAVY_GABAGOOL",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "HEAVY_GABAGOOL",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "HEAVY_GABAGOOL",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "HEAVY_GABAGOOL",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

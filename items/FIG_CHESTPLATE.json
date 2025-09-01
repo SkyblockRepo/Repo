@@ -1,0 +1,112 @@
+{
+  "internalId": "FIG_CHESTPLATE",
+  "name": "Figmail",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8960,
+  "lore": "&7Health: &a+160\n&7Defense: &a+45\n&7Foraging Fortune: &a+30\n&7Sweep: &a+6\n&7 &8[&8☘&8]\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 15&c.\n&9&lRARE CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIG_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "28,151,89",
+    "name": "Figmail",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "npc_sell_price": 8960,
+    "gemstone_slots": [
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 15
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FIG": 7
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "sweep": 6,
+      "health": 160,
+      "defense": 45,
+      "foraging_fortune": 30
+    },
+    "can_have_booster": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FIG_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CANOPY_CHESTPLATE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

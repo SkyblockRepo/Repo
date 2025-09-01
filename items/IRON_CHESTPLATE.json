@@ -1,0 +1,29 @@
+{
+  "internalId": "IRON_CHESTPLATE",
+  "name": "Iron Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&7Defense: &a+30\n\n&7&8This item can be reforged!\n&f&lCOMMON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_CHESTPLATE",
+    "material": "IRON_CHESTPLATE",
+    "name": "Iron Chestplate",
+    "category": "CHESTPLATE",
+    "npc_sell_price": 12,
+    "stats": {
+      "DEFENSE": 30
+    }
+  },
+  "recipes": []
+}

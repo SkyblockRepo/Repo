@@ -1,0 +1,126 @@
+{
+  "internalId": "DIVAN_HELMET",
+  "name": "Helmet of Divan",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+100\n&7Defense: &a+130\n&7Heat Resistance: &a+10\n&7Mining Speed: &a+80\n&7Mining Fortune: &a+30\n&7 &8[&8⸕&8] &8[&8☘&8] &8[&8⸕&8] &8[&8☘&8] &8[&8✧&8]\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 6&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIVAN_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDUzNDAyODc4NSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNmNjllZjI3ZjMxMjBhNTEwNTBlNmJlNjZhMGUzZjhlODlhZjg4OGQ0ODA2NzE2YmY4NmY1OTBkYTYzODMxNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "XEzydDmjX6Sqtofd5eLEPh2Gs5s6lun7ChIeF6dakV4k5neJ7JWGfqzUR+QVrYUhWyTtACSAqbSIYdel29fnkV+Slx0FppjgvS+LFt8MWfwyu3ZY6VzGQqC4e+EGM+zNNvuzr09SDxGIF65byNsEGqHvmpPkdwKFEwQiFc+CZVQF7cy0mkG27dFB9eUNynwU5v2bNoK8QzMyO1QjO0lfcaoEply61zZMRKSsR0foDAmPRX94x0BGwFsu7SeBMfoa310elYD9PTsttQw3nibrWh3USuv9yfzeBDtIcX0/h1VEAtuiIo7UOwyPaxORQBw0O1Z28zyfnlCXmLQnYAp4MR4lm+NSI1hrwf3MY5TghXxkHSSw425vD0qmH4sOoRX/rm3dMAfItYqmSBcN+Y0yx+3MdqBPw6EfZIOeyWkgA+sDkPNRKHy37wJsx7UOxFUvR7of2V/aV31HE1qPk803UueYMzM7czinr6pLkN5TASHb+DruWhL/5Qz2rW/6CxaRWwte5AWn7suT7NZhItTGMgwsWqcqH02HqihJz5gErpOTU79lZDfYLoxDYsAHu7k5eCU/PpjKyxJsChdPC+xf1PkKpr4nkARHQPlK/tQf84ZqjtbNFJ4ZOs0M1SGvCJMWsgILjcJ4C78jge5igs6z8fe7Zm9Uh3HWR+d/w1Cv8LI="
+    },
+    "name": "Helmet of Divan",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "AMBER",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "AMBER",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "TOPAZ",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 6
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "DIVAN": 20
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "HEALTH": 100,
+      "DEFENSE": 130,
+      "MINING_SPEED": 80,
+      "MINING_FORTUNE": 30,
+      "HEAT_RESISTANCE": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIVAN_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWLESS_RUBY_GEM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "DIVAN_FRAGMENT",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "GEMSTONE_MIXTURE",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

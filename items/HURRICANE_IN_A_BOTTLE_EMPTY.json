@@ -1,0 +1,77 @@
+{
+  "internalId": "HURRICANE_IN_A_BOTTLE_EMPTY",
+  "name": "Empty Hurricane Bottle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7&7This bottle is empty, I wonder if\n&7there is a way to charge it up...\n\n&7Charge: &e0&6/&e5,000,000\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HURRICANE_IN_A_BOTTLE_EMPTY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMTcxMDg3Njg3MiwKICAicHJvZmlsZUlkIiA6ICIwMzQ2N2E0Yzc5ZGU0ZGM5YTQ4NzU5MGY5NmEwODFmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFrYVlhbWkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQxMjZmZTJkMjc2YTVlZDEzMDI5ZjZmZjY4ODJiYmU1ODhiZWUxNmE4ZTg2ZDYyM2NjMGNlMjhlODYwNGQzNiIKICAgIH0KICB9Cn0",
+      "signature": "u8aV+jP5+sHwDRmo+o1Q/P7TzppAls5jtEgFtiUynfOYRDIfsycO1TBG/z0RjuiBgHI4W7ClMMlUPl5lzzWGPTdF0oZ6JggEAviAa4OmDjk08NCF27uFaYqwrZB9dfLPW9Nz+aD3/DdAGBPfYXqNpZZl7dDU1xJWPjT+ESTCHZUzNNCxbJaLzYA/fCjpLbiKppx7WHHLlq1iI3ZCvMpYDgENp4wuDreYp/FaUT2SDpw3SdI4KWOl85RijibHxJliWoIp76q2BchpBFP3zCJpOJuBhbHyVoz0ENypzmlOwBO8ArhW/HP/wfoc/A3FUacv5UaQSoVhOg4tcuYFELUHMYjDbzNZiFAGfHxqESg5PqQ8Kyymb3RrpRiix3940QHBHq4QQqYZl8VS5WmCNcZ4YaohyWdxM29jr8ocpmSOd+IdpCSNvKYnKcMmH/6wst/Yhq+d29EKNU9nCd1Ujir+tpoXYWkmxeJNkr+mfu9AekoAiRuCS1gAr9FDBqD9QFkKoqoH6Fbr8C+Qoz4c+Z/PQoXZYgkPJz7xrTpqcY4zvgHvp3PBEh+cxc37rVUK1T2uhysKV1FAkNJXBcAchqRirx5co9lX1JwfKRG21vjhfnHbLjbhKevHVt+Rilnm7W7fehbK4ivNZ+4fkq4Sc4QMrYw0vXvGXS0e9jfiRoirIqc="
+    },
+    "name": "Empty Hurricane Bottle",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "npc_sell_price": 5000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HURRICANE_IN_A_BOTTLE_EMPTY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "STORM_IN_A_BOTTLE_EMPTY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 40
+        }
+      }
+    }
+  ]
+}

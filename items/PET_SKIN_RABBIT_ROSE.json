@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_RABBIT_ROSE",
+  "name": "RoseRabbit",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Rabbit pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&9&lRARE COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_RABBIT_ROSE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjk2MDExNDY4NiwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kN2NkZGY1YjIwY2I1MGQ2NjAwZTUzMzNjNmJiM2ZiMTViNDc0MWYxN2UzNjc1ZmMyYmZjMDljMmNkMDllNjE5IgogICAgfQogIH0KfQ==",
+      "signature": "U2elXDiwUMo2ssCWp5eennzjtTnhKkJnZydgsikUiY87d1RrpOthDBayH4QJhWZkTiZvCzrL1LQ7+FwAl0mY1c4DzPV+BrgOhI9TZsEeELZr9rpE2I4PpJZeGSPjXLUiRm20Xa+hq6xnVyAoN0118bfOV+MJ0GZ9foTbT1jaGJzyrT76VCCZwx4obpoa6p6D81UCnEsRmFwamh/Juvap5MN/lW61AjV9Qd9zkeoXYvaclIE9GqIUDzUCJRW85Bjf5QTcW3wteDH1bh5j8C/pgyuensXO48jjTBgME+uzjLSVKSPGsFT3uJXdfc6IjHckcFC7ZI8ajUidKEDoFDCXk3ikDMJT9Ls6y7wGM/FhkVD0DHRyhiOEny2qCVilxbxCica888SCf9U28/FUm3KJbs3T/MazZEUH7HIfPW/vkwM81qaDltrHmd8P5/2x986zreUsMIDwbYK6DFTrGPdfh7CINPdfABRVCoi400U2IHVkr6LaTHp+xC3F4puXgUEBZtNJT2qovc04uqKL+w01CZVCzvsCp7Tt1sG+vDFtoHCFzLqigssf6m4FON32L0RDyJ76eulYp91Dg0GmADSo+06EFYNQBYrR9NBQ6hMl7XOyfeUprsTEZFbmgCK6F0s6Unn3XGddJcF7kG0XAuNbG8lkdKcP2+iUqZ6FfGE05zA="
+    },
+    "name": "RoseRabbit",
+    "category": "COSMETIC",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

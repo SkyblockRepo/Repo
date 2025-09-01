@@ -1,0 +1,35 @@
+{
+  "internalId": "DIAMOND_THE_FISH",
+  "name": "Diamond the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7''Shines bright like a fish''\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_THE_FISH",
+    "material": "COOKED_FISH",
+    "durability": 1,
+    "name": "Diamond the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "TROPHY_FISHING",
+        "reward": "DIAMOND"
+      }
+    ],
+    "museum": true,
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

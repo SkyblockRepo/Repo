@@ -1,0 +1,69 @@
+{
+  "internalId": "ENCHANTED_TIME_CLOCK",
+  "name": "Enchanted Clock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Time Warp  &e&lRIGHT CLICK&r\n&7Advance Time by &d1 hour&7!\n&8Cooldown: &a48 hours\n\n&7&7Impacts your Minions, Chocolate\n&7Factory, Aging Items, Kat, Fann, and\n&7The Forge.\n\n&7&4❣ &cRequires &aGold Ingot Collection X&c.\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_TIME_CLOCK",
+    "material": "WATCH",
+    "name": "Enchanted Clock",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "COLLECTION",
+        "tier": 10,
+        "collection": "GOLD_INGOT"
+      }
+    ],
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_TIME_CLOCK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "HIGHLITE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "HIGHLITE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

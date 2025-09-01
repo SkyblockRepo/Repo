@@ -1,0 +1,68 @@
+{
+  "internalId": "SILVA_DOMINUS",
+  "name": "Sharpened Huntaxe - Dominus",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7Damage: &c+10\n\n&6Ability: Absorptio  &e&lRIGHT CLICK&r\n&7This weapon lets you absorb &c10% &7of\n&7the basic combat stats of any\n&7weapon.\n\n&6Ability: Vis Temperata \n&7Each strike of this weapon has its\n&7damage capped at &c20% &7of the\n&7enemy's max Health. This weapon\n&7cannot cause a fatal blow.\n\n&7&8''Silva vocat, Dominus respondet.''\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILVA_DOMINUS",
+    "material": "GOLD_AXE",
+    "name": "Sharpened Huntaxe - Dominus",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "SILVA_DOMINUS": "CURSUS_FERAE"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 10
+    },
+    "description": "%%dark_gray%%%%italic%%Silva vocat, Dominus respondet."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SILVA_DOMINUS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "VINESAP",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "VINESAP",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "VENATOR_GENESIS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "VINESAP",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

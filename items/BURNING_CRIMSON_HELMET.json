@@ -1,0 +1,211 @@
+{
+  "internalId": "BURNING_CRIMSON_HELMET",
+  "name": "Burning Crimson Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+48\n&7Crit Damage: &c+32%\n&7Health: &a+254\n&7Defense: &a+79\n&7Intelligence: &a+24\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Dominus (0/4)\n&7&7Every &a1.5s&7, melee attacks grant &c1&7 stack of\n&7&6ᝐ Dominus&7. &8Lose 1 stack after 4s of not\n&8gaining a stack.\n&7\n&7&7Each stack grants &e+0.1Ⓢ Swing Range&7\n&7and &c+1⫽ Ferocity&7.\n&7\n&7At &c10&7 stacks swipe&7 in a random direction\n&7dealing &c0.75x &4Swipe Damage&7 to mobs in its\n&7path.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 32&c.\n&7&4❣ &cRequires Kuudra Burning Tier Completion&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BURNING_CRIMSON_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDM4MTkxMiwKICAicHJvZmlsZUlkIiA6ICJmZDQ3Y2I4YjgzNjQ0YmY3YWIyYmUxODZkYjI1ZmMwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ViMDM0YTVkOTdjMjRmZTBlYzkwMmJkMDJmZWM1MmEwOWQ5MTczNjZiZTA2MGM1MWY5YTFhMjc2YjI4NGE5ZDciCiAgICB9CiAgfQp9",
+      "signature": "JexekHNXfD3ywlQmEbFcOmYABg9EOhBwH+vhs/Hf+z1ppOvUBEJq61hDmSZbJE0RUavSlwiBDsV4eS049i0cnTNwo4RSuqlnibT963J6q7VFFl2U7XkHUfSJlxdJQkBtcLwWzBnL2+eKdl0kx9QViokODd84v3QpzjcmQ8wR+BpnuMrs6kgy44IesswlsW1svExDzxDMuSUTYNgUFU51kE5Q1y3rGeSqe16v+p8GUzxKL+6kpAHEw4KwbsyE8PaCGBk8pWaGM9ob6LPUM7HyqfAqrVAKy3nLH6QQuX306dpZ5EnxIFV/nVwALEqawJafFkR0n8D9UeVmuoknQWAX2fhZya8eQ124wOrSHLPIltLX1bGm2/6s74oECwa0f1FUHo+H+B4moi2tBKcvxiCdTesu408mZap4bVPIUf8/xArCF7JRyh6sWQe9aM+agRYRssXmiVI4e5ebe5iP++3fpXpf1ktZ1TDMvPVL2OGrGJIFzoFsAO/pOAk036xjv1sxVirt27vwq6KQ0cAsuJV99q13pFoBH11XXCX0s/1hT/BWPbbfyVXh7gY4etG+qtlU2w987ZJ7z1v3fLj9NF7I88Fyd4PW1IOWBBDXDtN9AYdfbO/v7h9aLREbIGfcbmqBDZBarwTEBhLZVetvvA/t7etWG6TfSOXEwFAYJGVX5u8="
+    },
+    "name": "Burning Crimson Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 32
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "BURNING"
+      }
+    ],
+    "stats": {
+      "HEALTH": 254,
+      "DEFENSE": 79,
+      "STRENGTH": 48,
+      "INTELLIGENCE": 24,
+      "CRITICAL_DAMAGE": 32
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 900
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1270
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1450
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1650
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1850
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2350
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2650
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 4500,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 50,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "FIERY_CRIMSON_HELMET"
+    }
+  },
+  "recipes": []
+}

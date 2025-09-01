@@ -1,0 +1,266 @@
+{
+  "internalId": "GILLSPLASH_GLOVES",
+  "name": "Gillsplash Gloves",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9000,
+  "lore": "&7Health: &a+20\n&7Fishing Speed: &a+14\n&7Health Regen: &a+2\n\n&7&8This item can be reforged!\n&6&lLEGENDARY GLOVES&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GILLSPLASH_GLOVES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTQ2NDQzNiwKICAicHJvZmlsZUlkIiA6ICJiNTM5NTkyMjMwY2I0MmE0OWY5YTRlYmYxNmRlOTYwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJpYW5hZmFnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZmNWNiNDAxMjM5YTM0MTA2MzJjMWJmMDQwYzliNmIyNDkyZDI4MTliODhhMzYzMmYxZGUzZTBjZWVjMDg4MTIiCiAgICB9CiAgfQp9",
+      "signature": "kDjOOw74Afm6eXDxgkboadrLmOT2XUqi9LQk2RZ2Cx4eoKG2AP19vD3MyFxwUgh0ZWTxOIVrt6aHl+kAa9zRtUxAIEzF3GgD4hShIt6X6kctBBjy3EoMIashzIsuSJEXWQ5AXidGcpe2nlbs0WfmCJpvyjAfh3QGQ8xVetoAcwpecs+fEKPZMt3pBcwqFYyNklNjMU9vugnUIxIVjuz8gBjfaVSA+QSSelUJojoml+g5XGKPLbmfL6d+xVDt/lXKIqXS4fA7wRITATeJPcynidU+UKtYGZu7hRvFZr3vg6gtQP3nG35nCaCj9ikxmAqvHuHpwEEzd4G+pkX01iCsJpYHUPEOxXqETwNTxATCEwHHFAn/YkM65J7mKisWvMOOSOX3kSTafJDZTwozPbovZNHat2zOg2GzmHCNh/PuGCBNtynhbfStXlF7M+n1RUshp5jTV6wZk3acrAv5hklzFncuZKww5qYzi9JZOewyqtJv+b9qt6XQTDcl/r+msM8iY6LQxPm4quonUnAlb5pmTzFrQFAADoDgeio6M9UFPPDeUTKo/lxIhm0FT3RyIymYN/kHX03z3Ct0oqb3EHQi/5SyH+Qs6Vwg2rRYeKimAUwqT6AluWZONHWCZwLDO1MIxzBmqhyJOHwrOKUH+azMyo8mpjxQwcD+YqmJiZkwgrw="
+    },
+    "name": "Gillsplash Gloves",
+    "category": "GLOVES",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 9000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GILLSPLASH": 15
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "health": 20,
+      "fishing_speed": 14,
+      "health_regeneration": 2
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMP_OF_MAGMA",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MOOGMA_PELT",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "CUP_OF_BLOOD",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "ORB_OF_ENERGY",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 8
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 16
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_DIAMOND",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "THUNDER_SHARDS",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_DIAMOND",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_DIAMOND",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GILLSPLASH_GLOVES",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MAGMA_FISH_DIAMOND",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FINWAVE_GLOVES",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MAGMA_FISH_DIAMOND",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

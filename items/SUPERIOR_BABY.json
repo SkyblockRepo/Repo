@@ -1,0 +1,32 @@
+{
+  "internalId": "SUPERIOR_BABY",
+  "name": "Baby Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7&7Item skins give your gear a fresh\n&7new look! Apply them just like an\n&7enchant book using the anvil.\n\n&7&7This skin can be applied to &6Superior\n&6Dragon Helmet&7.\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPERIOR_BABY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjUxODA3NDgwOCwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MmE3NzA0NTlmYTZkNjVlMjJhYTk1Njc5ZDkzYTI4NzBhYWZlYTcwZjlmMWM2YTBmNzhlYjY0MWU5Mjg5MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "EX1v98e6F6xq9LsuT+/W1XiENwYEOJEbb5kobmKh/I3AV69Z9PCiogYD3bTCVha0N1DeHCxoac9goxPp+PdC5bGv+ojLtyIs2z/Hy1tgDT6eXFHUkXuzAAbUuUgrUHXWcsjg92/P1RL8+cOqMsxEN90pnnvChSQrb+KHlFCBThQzXEk6nA751udJx9zKDtd19PiAlcREHRKpUGCqjxaRTh8yGbAq04q8AYPjjwkFyNfmxBaTtWU7jA4ctUmmO+UCyRxPrTM72KsbtEe9p0VyQEqJmACw6fzN+hKAs0+3gDP1N9Rkhcy0ixMSMeIogywr29Cloow1BO2NegalM6wZC272iH9XVMS7gn2/+0aAO4ctUUhYdMjB6IosP5cl6HY1pPUAC5/m1jmOOLG1ksY+inrlPRUDRWKfjnkDKJAkCozTQdRfoCN4q5KBqunTQ+719GFWzombK5dMJQPUVHxCIh1c65s7EJX8ztBd8AwtStjJsXLI7VjtE6XhB69nxnFrevpnH5153DEc/ULrxc/qHJeY5p4/Y9zw8p+Jqz58EsFXYI9zbLDbkuYq+XgUm0hkEUcH9y9UQ1HYG3mb1M/PTSRkvv/OtqYzd92D8jtCWZ8svmN9sfZfNJZSiPChM/qYQIH/1nc6uXIP7dRPhDXvhuvOAT3mLBeq+M+bkMlKuGw="
+    },
+    "name": "Baby Skin",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

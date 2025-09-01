@@ -1,0 +1,138 @@
+{
+  "internalId": "SKELETOR_HELMET",
+  "name": "Skeletor Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Gear Score: &d95 &8(103)\n&7Crit Chance: &c+2% &8(+2%)\n&7Crit Damage: &c+20% &8(+22%)\n&7Health: &a+15 &8(+16.5)\n&7Defense: &a+25 &8(+27.5)\n\n&6Full Set Bonus: Skeletor &7(0/4)\n&7Grants &c+1❁ Strength &7and &9+1☠ Crit\n&9Damage &7for every &b10 &7Skeletor kills\n\n&7Each piece grants a &a1 &7second\n&7cooldown reduction on bone plating!\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 15&c.\n&5&lEPIC DUNGEON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETOR_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5NTQyMTcwMTc5OSwKICAicHJvZmlsZUlkIiA6ICJhMzdlOGYyM2MyMTk0NjJiYjY3ZWUxY2I5OTM2YWY2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb29yYWxleSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OWQwNzRhZDliOTk3MTg3OWViMzI1YmRkZmYzNjc1ZjcyMjQ4NTZiZDZkNTY5ZmM4ZDQ4M2MxMzNkNzMwMDVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "ZMRAHQ3ILLWrv7EXMO1PmgIRyfumDeqvZzxxb/CzABj3IbsajFH1e1eUQAsVUrI2YVnKoryLCD6TmQJ1CzVbiqILbyYCzD93DboH7bOLcgQsKO18ZUh1tXkcoAt3i5s+D9jj7i74Ik0tL9jSpGWsxLi7d/7xu0eFh2X+7K78pPohmMd0h4LU1Ip6xc7sbxYYOCrkEvDk+XBXZqoOjGbbuGPWPi6GL7y95XdsOTvILc1iyisNPyuYya5T0Wxr8dq5pJS5EczC7lpa6okZnigj1MvzIPZmLEeaobAfNWSIJcPk9WB22D8JaT0XCzObKZLDYY6OA+Tob81j/5q0bnHqff8va8MOhNp/M+n2UvzBUu1hfpRUgZ1+jfFB5lv42MSRZD6KHjUMvSm5X8Vc+Bu4B9kp6u1mQJv4+X/Up2P7MRMYJhod5H74QkwFC8hGTaX05UzLNbS6atJGUiLCfbFn7TkRtAInTQIG47Dzo9AfmmDUQAvcm0EMemk3oGfs1sCq29fD1uUaeMdLKgnJSFwvn7nikDK8fryDopoA9eFzrel4cnDcrW5oTBbBlzBd5Nn9ryrr0IfRVRvQP1u9RB/IIqAi3x3b65od31NP2gfjcGV3VjUX6afUhuM4U7R3NS375xAaYCN9cg9w9gtqdoLbARyHazxBm7L+W2Jq9uX2DMM="
+    },
+    "name": "Skeletor Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "npc_sell_price": 5000,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 15,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SKELETOR": 5
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 240
+        }
+      ]
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "HEALTH": [
+        15,
+        16,
+        17,
+        19,
+        21,
+        22,
+        24,
+        26,
+        29,
+        31
+      ],
+      "DEFENSE": [
+        25,
+        26,
+        28,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        50
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        20,
+        22,
+        23,
+        25,
+        28,
+        30,
+        33,
+        36,
+        39,
+        42
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

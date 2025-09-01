@@ -1,0 +1,28 @@
+{
+  "internalId": "POEM_OF_INFINITE_LOVE",
+  "name": "§dPoem of True Love",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&7Bring it to &eJuliette &7in &aThe Park&7.\n\n&7&7''Filled with poor punctuation and''\n&7''misspellings, but its message is''\n&7''profound.''\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "POEM_OF_INFINITE_LOVE",
+    "material": "PAPER",
+    "name": "§dPoem of True Love",
+    "tier": "EPIC",
+    "glowing": true,
+    "soulbound": "COOP",
+    "description": "%%dark_gray%%%%italic%%Filled with poor punctuation and misspellings, but its message is profound."
+  },
+  "recipes": []
+}

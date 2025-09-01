@@ -1,0 +1,26 @@
+{
+  "internalId": "GIANT_FRAGMENT_BOULDER",
+  "name": "Jolly Pink Rock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Precursor Relic\n\n&7The hottest shade of pink ever worn\n&7by a Giant.\n\n&eRight-click to view recipes!\n\n&5&lEPIC DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GIANT_FRAGMENT_BOULDER",
+    "material": "FIREWORK_CHARGE",
+    "name": "Jolly Pink Rock",
+    "tier": "EPIC",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

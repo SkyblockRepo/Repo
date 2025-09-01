@@ -1,0 +1,31 @@
+{
+  "internalId": "DWARVEN_OS_METALLIC_MINIS",
+  "name": "Dwarven O's Metallic Minis",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7The first &a5 &7times you consume this,\n&7gain a permanent &6+2☘ Dwarven Metal\n&6Fortune&7.\n\n&eRight-click to consume!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_OS_METALLIC_MINIS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQ5MTA3NjQzOSwKICAicHJvZmlsZUlkIiA6ICIwMzcyOTQyZWRhOTQ0MjQ3YWRlODcyZjRjYjQxZTFkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJiZW5rZXRvbWkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY2NjNiNTQ0YWU4ZjhhNGNlNGNiMGNiYjZmOTE5MGVmZTVjZDk5OTYwNDc1MjA3MDVjMjc2Njk1YWQxNzM0IgogICAgfQogIH0KfQ==",
+      "signature": "Q6QNq523QWwVJA3/jRAozHbWd2Rk3bbQUPhJDslFJk4Wswfk1N3+dM0TxF5qf+MGQwNha/YYNN0025ZMCCXDE9fy33HiiUp1aA7RoOc+dTw8GWoT+/4ifu9Ie7xEV8m8/kmfioAzeNzPACAXkMPyeMoXMzkBEpbq47cLhJS2n0h5QSDklBZzBKcUyCXpzASR1jGDuhvRVbdN5FUuFkrXbyTCo1RByvmcdkcSjLCaAU/ajWtlWRm+R3RpIHDyJiiN7ZSuRaopcns3W24X3Mnqb3Rqv9d2gt0LVEbbDc0LeFoKN7WBObJRoo/MWXxOgRMFbVIEZ8nYCDCM4cAtdTBRZLTcRMzwuYFypTXYND3fpFBATNeybjADttZ7RbYWQdZLikPX5uqW+cjsGhwT+uuDdvT3WUGpBFzAN35upMTj0qTb8krWsq3M8/u0LkbiH3d+1GCq2ZMUvGjPLVIozjU57slL0rdx6oAy+CcJw0DOiZfUkSe0KRDw03GNT0DpVcTC87uNVsYBulvT1inGH0VD0Jb2jpLYOUKyF94wYBQdhVU1f9CoeKHsWXMNlseIyTh7X6x/kE/ooQ5GxeWu1ch4y/IeHhH/oqau4oVneKZWSyY5BPYbZ2ikqUmLpebhCP7Rp7GocPzWdz3MK9O/B0ap4Yk3yO0YVmPRHRnWSg5wjQ8="
+    },
+    "name": "Dwarven O's Metallic Minis",
+    "category": "CONSUMABLE",
+    "tier": "LEGENDARY"
+  },
+  "recipes": []
+}

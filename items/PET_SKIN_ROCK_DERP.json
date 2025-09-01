@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_ROCK_DERP",
+  "name": "DerpyRock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to Rock\n&7pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&9&lRARE COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_ROCK_DERP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMzI0MDYzODU4MSwKICAicHJvZmlsZUlkIiA6ICI2MWVhMDkyM2FhNDQ0OTEwYmNlZjViZmQ2ZDNjMGQ1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVEYXJ0aEZhdGhlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNGY4OWZiZDEyYzIwOWY3ZjI2YzFmMzRhMWJkN2Y0NzYzNTgxNDc1OWMwOTY4OGRkMjEyYjIwNWM3M2E4YzAyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "AGcYd4Sc5eAX8dS3HxDjfAYOSqNTzlJ3nHvVejjG1if1FRZQyo10ElWDYw7i/e9uSib63dbBH5YWUOc58ThATFF2iKtx30FPscXdPSgqczVBdeHtb0V793T6KfLop2e632uCjcpH4pW7lp61djE/lQnoEXYVHXk/yOhs2H/c4lzeBAUgHP8ovcB/0WfzXssF29uYroeZWxs35lwWRSu64PPPvypkseeqOQpKKCro9UWVF3sXp4By0MdRoicgd+2r6nT903+BTiz7TghygdcnW9E15n6dyhyAUYkvtps2bJWJ3BsiHzjdiHaOrdV4V7I6Ray2zNZPlUPV7Rn0esA56sb2eeC3Y/c0e756u1m0WPv/cocY1JMrXqRKXi3XdAOxzPaNvXwyuNZvsBIHAybZe+n1hvbOSfeNL7BP9Ajro7pnAAvdXjVn4v6BP3XQNhSo2hxhV5jQFwmpB/Z1tyHbp91tTarXZlwEFm8GMO2vSIc36SExpuOYH/HBUKqEf9ZpAbqnDHF8M1QN8e0fbEMdrRS21yimiR8U61tJaK9vmet/3yQNWfdNHMviV3FX9fInVjsGw6d3wpLaVitjekdBEcOszDBJlGuBkzkVAocVzaXiz79GygwjQD02hg1UWHuPlTRrEhb7TDWQ1FYGLDGTqmkHoDD5tImFc6dhZ3X48tI="
+    },
+    "name": "DerpyRock",
+    "category": "COSMETIC",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

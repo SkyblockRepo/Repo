@@ -1,0 +1,130 @@
+{
+  "internalId": "ABYSSAL_HELMET",
+  "name": "Abyssal Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Sea Creature Chance: &c+2%\n&7Health: &a+130\n&7Defense: &a+120\n&7Respiration: &a+5\n&7Pressure Resistance: &a+20\n&7 &8[&8☂&8] &8[&8☘&8]\n\n&6Full Set Bonus: One with the Fish &7(0/4)\n&7Grants the ability to breathe\n&7&9permanently &7while &9underwater&7.\n\n&8Tiered Bonus: Deep Sea Diver (0/4)\n&7Grants &6+0⛃ Treasure Chance &7while\n&7&9underwater&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 22&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABYSSAL_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTgxNDIxMywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI5YzFmYjkyM2UzNjNiMDI5MjlkZTgyMDdjODAxM2VhM2M3ZTRiMzkzMzA0N2ZjOWNhMmJiMDhiOGRjMDcyNTQiCiAgICB9CiAgfQp9",
+      "signature": "u8uxkdMDHKDNUIGb/AwTekTEooXy2znqzalhXN3MdreH85VqGn2pd73X/ObFHhNSiaOLzqH3cbu2JmcpKP4Qe0jrBMXCl+Q+KSLMP44baqL1GZw2/kMYLLjoO0DT59zLqQWFleQbhaAba1XKsACs5loc5FaedsdT5HTv1NAVGzxKKm4j3+Jq3wMLbF1NIhY8ucK//GnXNAySJ+Rw4gDhfRMG4wXPcwcLDxcME3FWio18Pw3ALkqPoye+EOMcxxjTzYbZ//75teeG49MAQgMBW108KnTnsDyTtTsRbGTjnnDVaGbCElbdRyjscwhFtiQVxYzQKxRIXeQNVIZGN5rbMez5NZ7y/WVY0WGAEoOxj1oNMwRCNAnLrovNhDiam19zYtGXIuAYYlyExYj9vbZqO4qxnqP/ckV0I09oWVaohgmveuMvdRSXTFu4yNIVYcJvsnvJ+aPY/PYKc9wT/UhR8xNgeYjdLMFh/QpHbQkHSPDP8ezBXWHRQn/LKfyLXPkh4IkKSL7zwA463kko2vo0Z8uZd4pBBP1LiIvpJyeiQGfkb2cvPucqxlfp1vIexB4DyhKCuauj0dNIjseyzkIz6ehznzw1gYFbXiF1Z6z7+jDHL6sxhdliRjuuJJkVQ5rUwuDWzdQoH3qz7rMFlNSwK9DubM+Zdt4v95xPuhJ+XQE="
+    },
+    "name": "Abyssal Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 10000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      },
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ABYSSAL": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "health": 130,
+      "defense": 120,
+      "respiration": 5,
+      "pressure_resistance": 20,
+      "sea_creature_chance": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ABYSSAL_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "DIVER_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "DIVER_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DIVER_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

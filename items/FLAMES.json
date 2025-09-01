@@ -1,0 +1,28 @@
+{
+  "internalId": "FLAMES",
+  "name": "Flames",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7&7''Some say that the same substance''\n&7''can be found in the abdomen of''\n&7''Dragons, allowing them to breathe''\n&7''fire. Cinderbats are much cuter''\n&7''though.''\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAMES",
+    "material": "BLAZE_POWDER",
+    "name": "Flames",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 200,
+    "description": "%%gray%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Cinderbats are much cuter though."
+  },
+  "recipes": []
+}

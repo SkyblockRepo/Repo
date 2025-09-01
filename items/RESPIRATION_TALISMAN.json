@@ -1,0 +1,81 @@
+{
+  "internalId": "RESPIRATION_TALISMAN",
+  "name": "Respiration Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Respiration: &a+10\n\n&7You hold your breath as you enter\n&7the Rift, allowing you to delay loss of\n&7Rift Time by &610 &7seconds.\n\n&5X&5 Rift-Transferable X\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RESPIRATION_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDQ4OTAxMSwKICAicHJvZmlsZUlkIiA6ICI1NjQ4ZTA1Njg4NWU0NGQyYTVhYTBkYmVkMjZhZmFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaX2ZseSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmM2MjcyN2RhYmQ1NWRmODk3Yzc0MDk0YmUxYzUxYmI1ZDJkNGFiNmM0Mjg2ZGYyMmY0MDgzMGRmNTAxN2Y0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "me8MQ65/OtN0PdscBEh3Gg8ShoL7RB8F3bgcKFR+7I9l5i6tcRIxe+3s15X5DhCQsHpbF0f84lZMoJR2EA0M0mRXcNCwqzABxMlLmg1dk04JHccEuT1FtSiBSpZMHo7hzCzsZGrp1C3fTq40EvVGMioPH8RChn08K6pwMqVb5OF9FX5N4crsPYcaxsMwouTh1VI27DZI7w5nUPp+vGa8WEZ1w4J202HDJ6APZEKem0FJFAe0ElmeLV/XjiLy7GdjPqbw2ge3tSYuNplVruj8/DI5o6sH4Z/glihtrRt6nmZGRlmgbhUqwsezh6jscIBAh0YdJ5jt/t1AgLeBfsjgYRSWax9gh1VJTRHQMYnhVNgRAnoAb/heFLkllpcLJf2O2TGJI9ecu04+tPFZn+Pcd9/JnCW+kx1eOTFrcN1i3R+zEG2w7VmBhnc/leDUBTyt8i8KnXm4ZH/4Q7RdRj+68Whm5cHGZNGtsjwxXdGPVEvWEKHIyLVVRe2NcPzFrk76vuJOIItLPeYDIVfL019QpFoyMocquMzrK28iD9wIwxuyLuwNWMp6ELK8KsOqPdU2gcRIrXHYJDRuN2MwwP0i9lAN/SQDmSB5mbPRNb8Kq66XjzgnXwsqYIaSW/cWxP1MWpO+XXddjlhkIFgHd7Lg7spmbTrId4rbyTarTnvfkzc="
+    },
+    "name": "Respiration Talisman",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "npc_sell_price": 1000,
+    "stats": {
+      "respiration": 10
+    },
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RESPIRATION_TALISMAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

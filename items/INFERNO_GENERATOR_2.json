@@ -1,0 +1,77 @@
+{
+  "internalId": "INFERNO_GENERATOR_2",
+  "name": "Inferno Minion II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Infernals!\n&7Minions also work when you are\n&7offline!\n\n&6Ability: Rising Celsius\n&7Each Inferno minion increases the\n&7speed of ALL &7Inferno minions by &a18%&7,\n&7up to &a180%&7.\n\n&7Time Between Actions: &a982s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFERNO_GENERATOR_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0NTgxOTk5MywKICAicHJvZmlsZUlkIiA6ICIzYjA1NTdlYmVmYjc0MDdmYmFmMjVhN2IyNzYwZTZlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcl9JY2VTcGlrZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjIxMDQwMzQ5MDk2MjNkNjA5NGE1MDYwZTA1YWY2ZGE1Y2JmNzUyYTE4NTgwOTExMzY4ZmEzNmQ2OTQ5MmFmMyIKICAgIH0KICB9Cn0=",
+      "signature": "o8wBQpfZeEl+cenqOBWYF587W2ck8wbAvyAoLMAWRezpwRUVZNiAwsLyDYYwejJEwqV32D1Z5GFkKkXYNkMg1D1RpEMwmU4LJaoC6c9/We6JZRoCDHobvJN1FkjF1KzMp+2hG+/Is02OmYvSDaB9lridnq6RiflAxND8kMU65LPnoW+xRCj6yEg0MqrdKYOsNDCCPZ/QaoOzOiAdExvvkpMB9zlQVWgGRDaYaDgTVkP+FIx4LtOLgPEwO45vLH4Cj/TryMGbA3V6WvNTE/dGJWStzxYhXUFumhLnWmcuA7bXi8y9Zx0Q8WnB4srJlmukH4qLedBA9uo4nH6BmfXpcwhOL0ynPQEh2Oo535um1hWNEPDOumrzKkIybCe1WxylzIdyfQmvVMl8q1tSspeQ69rBUo0iPEv0NmW3BzP4vx/pdtXC8P6YNRDxb9c1MBVHfNCKZAiv8ZkTRb/tPvQe6Bg/vdmKoCkmLGF9dNJO0ne4lolkVd+vDDl5BolJCM7m1bomvYbKxIUne33W+BBO89K1icseaWhXiF5EsspmFo4AfcaSv4zH1ZOlCyVF29u42qYuoXbHsNwoOp679UunQWEdTLn877Max7TrXrDwwn5seqS6GdSbqMf5YHe+tTjgyOZj9FWk9FzBaj4XWcvJKVgNC/setQzFppQFJbUGcug="
+    },
+    "name": "Inferno Minion II",
+    "tier": "RARE",
+    "generator_tier": 2,
+    "generator": "INFERNO"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "INFERNO_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "INFERNO_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 40
+        }
+      }
+    }
+  ]
+}

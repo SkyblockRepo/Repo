@@ -1,0 +1,25 @@
+{
+  "internalId": "JUNGLE_DOOR_ITEM",
+  "name": "Jungle Door",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JUNGLE_DOOR_ITEM",
+    "material": "JUNGLE_DOOR_ITEM",
+    "name": "Jungle Door",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

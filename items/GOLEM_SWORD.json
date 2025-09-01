@@ -1,0 +1,101 @@
+{
+  "internalId": "GOLEM_SWORD",
+  "name": "Golem Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 77000,
+  "lore": "&7Damage: &c+80\n&7Strength: &c+125\n&7Defense: &a+25\n\n&6Ability: Iron Punch  &e&lRIGHT CLICK&r\n&7Punch the ground, damaging enemies in a\n&7hexagon around you for &a250&7 base Magic\n&7Damage.\n&8Mana Cost: &370\n&8Cooldown: &a3s\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLEM_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Golem Sword",
+    "category": "SWORD",
+    "tier": "RARE",
+    "npc_sell_price": 77000,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 80,
+      "DEFENSE": 25,
+      "STRENGTH": 125,
+      "WEAPON_ABILITY_DAMAGE": 250
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "GOLEM_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "GOLEM_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GOLEM_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

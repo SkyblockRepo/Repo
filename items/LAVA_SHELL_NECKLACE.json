@@ -1,0 +1,285 @@
+{
+  "internalId": "LAVA_SHELL_NECKLACE",
+  "name": "Lava Shell Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12500,
+  "lore": "&7Health: &a+100\n&7Defense: &a+30\n&7Intelligence: &a+50\n\n&7Sets your &c❣ Health Regen&7, &a☄\n&aMending &7and &4♨ Vitality &7to &c0&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAVA_SHELL_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODE0NzY3NTk4NSwKICAicHJvZmlsZUlkIiA6ICJjNzQ1Mzc4MDY5MzY0ODg2ODkwNzRkOTQ3ZjBlOTlmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjdWN1bWkwNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MGQzYjFiZWM2ZTFjYzRiODhkZmY1NWU0Y2I3Yjc2ZjA2NGMyMGFmMjk3MjQ5MGQxNzEzNzJlZWY5MzcyNDQ3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "tQKs5hqOkiGlNwr8HgYTIhKsz1x5cTjqEC/EIwWrjDctwxvEFH44bfgPd5VscgsXQuUtI8oIfKiAo2tciwqEa03Xw58MvC9LlQjIW+TbZZSxE9//EJJp6K9klZ2GZVFjLU9zisBkXNG9oI0K0wgnD0M3IRrXH46pX6rD8btOR3wU+bVShG5fVguPKpuVVzhItM0K4+2odyBeW9VAoYjw2pp3DcIbnrMGrJZTqf6M2FnR1GpCj6FQysC+x08P0vAfh6AbLhVrdmg8OoFudo1RefqS/4zilyuMRXKpTGeInEoclTjUTPXKGIVVvARBAfjolN6TFgQ9gDJsoY+mxHgKHdXcpPLfWgvFExLZSgSgQ9RKfwHVaoxj7MNCEXmUCZpG63CZtOhAgHdtj8ycdHd8+BORfz4RL5nXfZm0LbsCUhGoZAtbsJrGEP0apMoX3P0bkxOpG0dLTu6ZlAGxBISMfcVTOHaI80nPpWo4/Qk2Yh4IgoHuOs5Hha1t3qSj+b/+vtgMibE2x5uPdlL+gI+ju4AupKj/65TO/feSJZgBB1wgl4XosVfeUsTTcv/EbnQ9W6VL+XApuddR1XaLx+4ZrUmiT7dOkyBdinwFyKoPqRTK11dHCP3LEZvoD/85R5g3KVmfgoEf61+bj2LCmT683oHUl3rnI3dh/rO7W5GnyxE="
+    },
+    "name": "Lava Shell Necklace",
+    "category": "NECKLACE",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 12500,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 100,
+      "DEFENSE": 30,
+      "INTELLIGENCE": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 12
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 18
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 6
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 21
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 7
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 24
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 27
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_SHELL",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 800
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LAVA_SHELL_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GAZING_PEARL",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "LAVA_SHELL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

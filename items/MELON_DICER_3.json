@@ -1,0 +1,123 @@
+{
+  "internalId": "MELON_DICER_3",
+  "name": "Melon Dicer 3.0",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8] &8[&8☘&8] &8[&8☘&8]\n\n&7&7Gain &3+10☯ Farming Wisdom &7while\n&7harvesting melons&7.\n\n&6Ability: Roll em'++ \n&7Every melon you break, you make\n&7a wish to &dRNGesus &7which may\n&7grant you with a few or TONS of\n&7extra melons!\n\n&7''Almost identical to the Melon Dicer''\n&7''2.0, but it has 3.0 in the name!''\n\n&7&8This item can be reforged!\n&6&lLEGENDARY AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MELON_DICER_3",
+    "material": "DIAMOND_AXE",
+    "name": "Melon Dicer 3.0",
+    "category": "AXE",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "description": "%%italic%%Almost identical to the Melon Dicer 2.0, but it has 3.0 in the name!"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MELON_DICER_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MELON_DICER_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

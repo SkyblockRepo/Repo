@@ -1,0 +1,38 @@
+{
+  "internalId": "ABIPHONE_XIV_ENORMOUS_PURPLE",
+  "name": "Abiphone XIV Enormous Purple",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b11 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_XIV_ENORMOUS_PURPLE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTE4NTEzMSwKICAicHJvZmlsZUlkIiA6ICJmNTgyNGRmNGIwMTU0MDA4OGRhMzUyYTQxODU1MDQ0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGb3hHYW1lcjUzOTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMyNDRhNGUzMDZmZDE0NzQwNWViYTZiZjY3MDIxZDUwYjgxNWQxMDdjYzE1ZDk3YjgwMmI3ODUyMTAwOTllNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "QFZIs0zh7NO+X5NvYPo6JSziIIRN/fesg/CayU7q2BFXtc3BeZjG0G4ecmY1oQA1qoruFdA6rj7CGej4ybS4AGxE8h83G3JtE6Ia3YzNhxX4PkhX4/oUiyEQGbomXgPD3Cr3ZPD8kTlmxql63l32Vq0z7Rtt3EtEMqWS7YdEHLHXBHAQ/OlKL2BUaafIT1+CIF4X2ol3+d/qU+uCz6CSPTrxD9hqM/0DIyclg6oYEL2VTNRS59jz+9WwbJ2dOST5qggQLalA9s+cbMmpdNzKM8PPlbI04D2hvS+3cG+OBbbLUNiPuEiYQjEY5k/qJ+YAu74ltoy2/lD6fyygdCkJAzeTvfZ0GpX/hmoKKF8RUi2cXbj9936U4RJpzpeA0IxsAYQd6AJaZHXKXHAzpg0Je0L4RxB0aSc4DPexW4YdUvVX/gZGhJPMfVOc7ow/jsS3FJmVEyKmvuglcl52FJGbedFK/CTnVXhAsuDfftxwv+vWbephrlmigHSnTJ0TBN/9aNwFO/LKCKrHeeJB/0bD8NEMiaWwKhoWwGZYJgfTKFnGi0ibNx7JDH0X+Ky/o7Xn/CJKR/2gaYM66Q4dEalrXaT1GxNGqrwH05IYk+gcyRYUU8TqFbqYDik/6fcRlsysAeXW6mMu2sibW+F/fbZpo2RWVqaacSDt6kmmGNQ67mM="
+    },
+    "name": "Abiphone XIV Enormous Purple",
+    "tier": "LEGENDARY",
+    "item_specific": {
+      "has_dnd": true,
+      "max_contacts": 11,
+      "can_play_snake": true,
+      "max_musicdiscs": 25,
+      "can_play_tictactoe": true,
+      "has_contact_directory": true
+    }
+  },
+  "recipes": []
+}

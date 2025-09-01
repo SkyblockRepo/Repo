@@ -1,0 +1,44 @@
+{
+  "internalId": "MUSEUM_PORTAL",
+  "name": "Portal to the Museum",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&7the\n&7&3Museum&7 for you to use whenever\n&7you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MUSEUM_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMjA0NTg3MDc1NywKICAicHJvZmlsZUlkIiA6ICI2MTZiODhkNDMwNzM0ZTM3OWM3NDc1ODdlZTJkNzlmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfX25vdGFodW1hbl9fIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzOGNmM2Y4ZTU0YWZjM2IzZjkxZDIwYTQ5ZjMyNGRjYTE0ODYwMDdmZTU0NTM5OTA1NTUyNGMxNzk0MWY0ZGMiCiAgICB9CiAgfQp9",
+      "signature": "JQ6nkbZxRshLTn03sDokbL0S14mP/AQyxGhG1kmXBWRHXKxCmiXLN4T8l/k9FYtx9ihJ+sl2TH9ATJLWx0RGFbywJpJN2Lel0nLhB3RWO5oYlUpbbWco3LWBpBXJikBLSXQLSYRe/UbIzVAgZLrVfkRtJJkNVQCiCiIrZWN15Z7iI2zqY6M6tJPHuli7ecE1MfV+FQvnjJwY/wM99W3hXl1yKaNi6xQ3cFEl+0rCozbsuK5A43ABE6XDgKHGNoH7d33GCPE1PdsDJDWgz5lbjdM1A881Tn3mCzlrKNsbeI8+EwBiU2tciKv/nz0kTZkisSlBi+Svf0u6sxcVZ9ge6QPhfpiI5/Zf3OLZdSnOq3LLM5YYz7UcR/dIobD8HXjBXNYU7JU/11OWZF4Swln6JlVpdyY19B7G1ax+hGl3sSm+dStcIO6qxR4Gy2tqsBl2C3d/VvkqmJ5Xl2IroC+zyxirsBc+WqRUMcFYiEGq+tHrMT/oT1TkQc0IQjMFfGkO1+jlwN7B657FaIe8v8TOiECkNhAqXSH65u3xWwtICCPuZOvN3mwvOiOs1iKS50mZtoOnJNcuNsFHDSPkbO9oDDI/Rl0zuKmJUEa2zBx7AGY140voebrpuPCiNkFP1EdhdMRTRbFjVuQBDCc0sna1xqovudoj1Z/YUL719ph4Ww4="
+    },
+    "name": "Portal to the Museum",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "NEW",
+        "holo_name": "Museum",
+        "location_tag": "museum",
+        "schematic_file": "sb_portal_museum",
+        "description_name": "%%gray%%the %%dark_aqua%%Museum",
+        "destination_mode": "hub",
+        "skill_requirement": {
+          "level": 0,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": []
+}

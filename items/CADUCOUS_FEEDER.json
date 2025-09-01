@@ -1,0 +1,78 @@
+{
+  "internalId": "CADUCOUS_FEEDER",
+  "name": "Caducous Feeder",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Use on a pet to consume an &6Ultimate\n&6Carrot Candy &7and grant it &a1,650,000\n&a&7pet Exp.\n\n&7Has &e2 charges&7, reloading after &a20h&7.\n\n&5X&5 Rift-Transferable X\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CADUCOUS_FEEDER",
+    "material": "BOWL",
+    "name": "Caducous Feeder",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "PROFILE_AGE",
+        "minimum_age": 7,
+        "minimum_age_unit": "DAYS"
+      }
+    ],
+    "item_specific": {
+      "charges": 2,
+      "consumed_item": "ULTIMATE_CARROT_CANDY",
+      "experience_gained": 1650000
+    },
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CADUCOUS_FEEDER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

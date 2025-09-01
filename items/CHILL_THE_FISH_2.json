@@ -1,0 +1,27 @@
+{
+  "internalId": "CHILL_THE_FISH_2",
+  "name": "Chill the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This fish was found frozen solid in\n&7the lake of the Main Lobby during\n&7the Holiday months.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHILL_THE_FISH_2",
+    "material": "COOKED_FISH",
+    "name": "Chill the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

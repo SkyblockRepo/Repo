@@ -1,0 +1,26 @@
+{
+  "internalId": "DWARVEN_LAPIS_SWORD",
+  "name": "Scavenged Lapis Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&7Bring to the &6Keeper of Lapis &7in the\n&7&2Mines of Divan&7.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_LAPIS_SWORD",
+    "material": "DIAMOND_SWORD",
+    "name": "Scavenged Lapis Sword",
+    "tier": "SPECIAL",
+    "glowing": true
+  },
+  "recipes": []
+}

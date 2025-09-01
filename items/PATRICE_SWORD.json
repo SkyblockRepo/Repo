@@ -1,0 +1,29 @@
+{
+  "internalId": "PATRICE_SWORD",
+  "name": "Épée de Patrice",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PATRICE_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Épée de Patrice",
+    "tier": "LEGENDARY",
+    "stats": {
+      "DAMAGE": 100,
+      "STRENGTH": 50
+    }
+  },
+  "recipes": []
+}

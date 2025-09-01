@@ -1,0 +1,93 @@
+{
+  "internalId": "OVERFLUX_POWER_ORB",
+  "name": "Overflux Power Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Place an orb for &a60s &7buffing up to &b5\n&b&7players within &a18 &7blocks.\n&8Costs 50% of max mana.\n\n&5Orb Buff: Overflux\n&5• &7Grants &b+100% &7base mana regen.\n&5• &7Heals &c2.5% &7of max &c❤&7 per second.\n&5• &7Grants &4+5♨ Vitality &7and &a+5☄ Mending&7.\n&5• &7Grants &c+25❁ Strength&7.\n\n&8Only one deployable buff applies.\n\n&7&4☠ &cRequires &5Wolf Slayer 7&c.\n&5&lEPIC DEPLOYABLE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OVERFLUX_POWER_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODY4ODA2MjE4OCwKICAicHJvZmlsZUlkIiA6ICIzNzRhZGZlMjkyOWI0ZDBiODJmYmVjNTg2ZTI5ODk4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfR2xvenpfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIwZGU1ZTg5NzQ5NDAzNzU5MzRkMzJmNzFjOTFhZDJkNTcyOGQzOGU1MTY0N2RjYzhmMzkyMDZjMDk5YTU0YzIiCiAgICB9CiAgfQp9",
+      "signature": "TSZC705pGQea8Zf6xwNn4eTNtPMZQppAW2erg/QUJ12sRwaeJCodx4aGzuJTFp5EE4AkIBcjZz5mTeP/+smNXwPcfiJBjqF0dPxodTKOBFzGQRs4NVFUBr4+H5GA+4pKa75K/4qhIs0zXvlcvZeLacm36nrd9oN8vUHElUdBAjqxWr9KxIuwm+yA4CwuyPRWqdC7i9oYavHmBTlu6ddiLHVFIEe/rQaYUEKg3D3xS/xLBN0Cj7cL1vogcR/4o57VYQrjQQcSgyEr1a3Pa/legSO3PBGUOvrsTkzjMvkP889weoYGhWCzPp7myirSCNi/w3ssU4yuyBTgBxpI/Fge3nvVEo+jVYdvHsVqF5Q9xZmWsrMnn3FWgx6iyw+nhtYWA3XIFSHMnGNC53cIiBDlyo95IWNfDYkcL11jnb2CavRXYXbHlN204zSKfdPTmWRJgZafyvXAbqrynONjzESyBP0yUY9zm/I6iJlKNYKJaOMpnAkwKKf/WdEyTJLtuLIcnKDAlof1w75mV2BVUEWHG9JmI0m3y7rfvZp4EYlKR7T/REbYWW7TkB739FxdXd9sBW2bVLihmCiekZGCp0hb7bd8kDSj4A3SOAeh+eZm7ECpAdxLY3/IKPHzP2Cg5H1i7hM91GQRAIAMyX0x7CpkUQa9Tku82ZXoJnk6rutjcgA="
+    },
+    "name": "Overflux Power Orb",
+    "category": "DEPLOYABLE",
+    "tier": "EPIC",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {
+        "OVERFLUX_POWER_ORB": "PLASMAFLUX_POWER_ORB"
+      },
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OVERFLUX_POWER_ORB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "OVERFLUX_CAPACITOR",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "MANA_FLUX_POWER_ORB",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

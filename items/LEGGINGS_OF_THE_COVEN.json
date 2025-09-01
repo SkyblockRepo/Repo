@@ -1,0 +1,83 @@
+{
+  "internalId": "LEGGINGS_OF_THE_COVEN",
+  "name": "Leggings of the Coven",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+80s\n&7Hearts: &a+1\n&7Mana Regen: &a+6%\n\n&6Ability: Friendship is Power \n&7Gain &5+1❁ Rift Damage &7and &b+2⚡ Mana\n&bRegen &7for each other &7wearer within\n&7&a64 &7blocks.\n&8Max of 3 players!\n\n&7&dSame color = 2x stats!\n&eLeft-click to pick color!\n\n&7&4☠ &cRequires &5Vampire Slayer 3&c.\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LEGGINGS_OF_THE_COVEN",
+    "material": "LEATHER_LEGGINGS",
+    "name": "Leggings of the Coven",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 3,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "stats": {
+      "rift_time": 80,
+      "rift_health": 1,
+      "rift_mana_regen": 6
+    },
+    "item_specific": {
+      "max_players": 3,
+      "range_blocks": 64,
+      "damage_per_player": 1,
+      "mana_regen_per_player": 2
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LEGGINGS_OF_THE_COVEN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FEMURGROWTH_LEGGINGS",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LEGGINGS_OF_THE_PACK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "METAL_HEART",
+          "quantity": 6
+        },
+        "6": {
+          "itemId": "METAL_HEART",
+          "quantity": 6
+        },
+        "7": {
+          "itemId": "METAL_HEART",
+          "quantity": 6
+        },
+        "9": {
+          "itemId": "METAL_HEART",
+          "quantity": 6
+        }
+      }
+    }
+  ]
+}

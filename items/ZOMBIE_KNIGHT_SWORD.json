@@ -1,0 +1,107 @@
+{
+  "internalId": "ZOMBIE_KNIGHT_SWORD",
+  "name": "Zombie Knight Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d123 &8(133)\n&7Damage: &c+82 &8(+90.2)\n&7Strength: &c+21 &8(+23.1)\n\n&6Full Set Bonus: Zombie Knight \n&7Gains &c+30❁ &7Strength when used with\n&7the Zombie Knight Armor\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 14&c.\n&5&lEPIC DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_KNIGHT_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Zombie Knight Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 14,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 320
+        }
+      ]
+    ],
+    "gear_score": 20,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        82,
+        86,
+        91,
+        95,
+        101,
+        106,
+        111,
+        117,
+        123,
+        130
+      ],
+      "STRENGTH": [
+        21,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        36,
+        37,
+        40
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

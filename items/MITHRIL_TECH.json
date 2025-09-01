@@ -1,0 +1,28 @@
+{
+  "internalId": "MITHRIL_TECH",
+  "name": "Mithril Tech",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITHRIL_TECH",
+    "material": "INK_SACK",
+    "durability": 4,
+    "name": "Mithril Tech",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

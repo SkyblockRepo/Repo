@@ -1,0 +1,30 @@
+{
+  "internalId": "WISE_FRAGMENT",
+  "name": "Wise Dragon Fragment",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WISE_FRAGMENT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMzYxMzU5OTg3MCwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkNzYyMGIyZTQ5MzQ5NjNiYjEyNTA4MzEwZDA1NDk0YzA2N2RjMzNlMDA4Y2VjZjJjZDdiNDU0OTY1NGZhYjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "yVS1c822+Uv01NBLm1+wqli4O7f4dVdvvDrjmraHu14b/6+VG3OGc3MrOTTnaSp/QLU4GjrYtD+HwayfPwqzgP6b2eHFs+RRhGdFNuLWKHrtzHpwrXwM4cXmO4O3CjqFlzgOhfSS+7Yfx4ijqL5qmatAnyfIQ22mzkZ/uWsUIskCLipXEvlc9SmKqE9nwlSoANcoeZnw6OAgsUg1LvUU9dRwRi0U6iqMBPInmE/sAUuesYCanDhZAfZy892oIDzy4oLtwNFObNBYeXskrB4nU7MgE4gDcxU7hnDeGukvwKgOpIVEsGAJNWSnvx9NYSrUV5IqoYC5ee+x0xapwza2aD4bQJSR9QP0nag9S/QxVihABVAFyBP9djPAlnqpAdILN/sZo0CrHlf4WEKnEUITaAeqR0cge70Q9HimDrrb1Vl/x2LxF5gYkqwIMxa4O4GZVnfJFl7tLcXhUhaBEYQbBB8ry7XXFLVzx3Eyew7xdbTTWvo7PiQQk9boDD4X/dx8Vhi74i2YGR3Bnqsl4vNrPcsUvtsDT0CWD209c5MR8tE1BlVZHWdP5VKFPRo8mVGhTXxBuiedDB1vjirBwrh2FHB7U8rVzlj6wQZD49NjU6w0TivCS6zpWSfDqLlPVJKM43rTWUOrwWWUwr8KMWDKyqbMOs4YkLCOiOISNUIsyJQ="
+    },
+    "name": "Wise Dragon Fragment",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

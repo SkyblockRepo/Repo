@@ -1,0 +1,30 @@
+{
+  "internalId": "TIME_KNIFE",
+  "name": "Time Shuriken",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Can be thrown at &eSun Gecko &7to\n&7upkeep your combo.\n\n&7&8''Why are you reading this? Go fight''\n&8''Sun Gecko!''\n\n&8&l* &r&8Soulbound &8&l*&r\n&c&lSPECIAL SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "TIME_KNIFE",
+    "material": "NETHER_STAR",
+    "name": "Time Shuriken",
+    "category": "SWORD",
+    "tier": "SPECIAL",
+    "origin": "RIFT",
+    "has_uuid": "false",
+    "soulbound": "SOLO",
+    "serializable": false
+  },
+  "recipes": []
+}

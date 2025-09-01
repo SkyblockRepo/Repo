@@ -1,0 +1,30 @@
+{
+  "internalId": "SEAL_TREAT_BAG",
+  "name": "Seal's Treat Bag",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7Opening it rewards you with a random\n&7enchanted fish or bait, rumored to\n&7be handpicked by playful seals\n&7themselves!\n\n&eRight-click to consume!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEAL_TREAT_BAG",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczNjQyNzYxODU1MSwKICAicHJvZmlsZUlkIiA6ICI2OTE1MGMxMTk3M2E0MGViOGExNjZiNTY5OThmNWEzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXgyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0YmRiMDlhNDVkMTc3MTQ5ZDI5ZTRlMGZkOWNjY2ZkNGMyYmMxMTAxNzVkOTZjYmExZDVkOTNlNTI2Y2M4MGYiCiAgICB9CiAgfQp9",
+      "signature": "jwggLX7HconKCd5QilHJljdY3ts0hquNMNaPaQ2qct5Q9VlHf8jxdjhCQ9RuwntQ9XqhtJZLnPhMH/xTA6MXroqlVK/2zq9MQ2RuGrZqSkFTiuRStqqN1ZWuIhSCUvE/83g9G5BefEejW5pj4jPNlmTOqJK2LpkpSxyR9sPe/wsSpfKkySw+yuVhbIx9HuSf2KjO37ilz7z7c/vwR/iRhKXxP9iwQ33a/XD6L5B8N7qxFtxwnwAgohxHlHtvaevEJsmElDimC3MPwocV9jD1+3Ma5Rz1jprIpQ4MWK4XVnyprE4XXovP4fd1SKJSyGvzNaMJCZV9UAnGPUmirmo8x5UrVtDa6B1qhr9yd1M6kgM/gfkLqc8n/QXf0G2KN3jYeT1RE1rLKJjQ25fcIkuPmQQ7IKJtKUAYZcW2ht39fpwVYj5rQ34vZGcDjtfhjamqh1W1YtEmxOhfYWDX6g/xTKZluM34MUzm3sYgRRzNA7ZJyD5S3vEkYduRj+cpkLreVCZFCgRDW3pZwggSky2MkXf1KsGqYUR5kZ/toRU8wKmDT1bzxw0fVW2hN9Xy7xOjXXoif+ZpEqYJjwr5/TdB+EYIaibxzkgpSoAZJBvSqlHJAZm6CqCnxBnqcQaFuxPIRW19mYcIlGRkNVUpYhlhuSFghhKKo+Q2OLR1aIktX8I="
+    },
+    "name": "Seal's Treat Bag",
+    "tier": "UNCOMMON"
+  },
+  "recipes": []
+}

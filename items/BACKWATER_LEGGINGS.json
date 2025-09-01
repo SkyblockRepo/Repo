@@ -1,0 +1,49 @@
+{
+  "internalId": "BACKWATER_LEGGINGS",
+  "name": "Backwater Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Sea Creature Chance: &c+1%\n&7Health: &a+40\n&7Defense: &a+20\n&7Treasure Chance: &a+0.1%\n\n&8Tiered Bonus: Swamp Soldier (0/8)\n&7Increases damage dealt to &3Sea\n&3Creatures &7by &a5%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BACKWATER_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "1,125,49",
+    "name": "Backwater Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BACKWATER": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 40,
+      "defense": 20,
+      "treasure_chance": 0.1,
+      "sea_creature_chance": 1
+    }
+  },
+  "recipes": []
+}

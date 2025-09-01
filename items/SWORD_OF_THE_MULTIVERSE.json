@@ -1,0 +1,32 @@
+{
+  "internalId": "SWORD_OF_THE_MULTIVERSE",
+  "name": "§4§lS§c§lw§6§lo§e§lr§a§ld §b§lo§3§lf §9§lt§d§lh§9§le §3§lM§b§lu§a§ll§e§lt§6§li§c§lv§4§le§c§lr§6§ls§e§le",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+99,999,999\n&7Swing Range: &a+15\n\n&7&7┻━┻&f︵ &c\\(°□°)/ &f︵&7┻━┻\n\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SWORD_OF_THE_MULTIVERSE",
+    "material": "IRON_SWORD",
+    "name": "§4§lS§c§lw§6§lo§e§lr§a§ld §b§lo§3§lf §9§lt§d§lh§9§le §3§lM§b§lu§a§ll§e§lt§6§li§c§lv§4§le§c§lr§6§ls§e§le",
+    "category": "SWORD",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "RIFT_DAMAGE": 99999999,
+      "SWING_RANGE": 15
+    },
+    "origin": "RIFT",
+    "description": "%%gray%%┻━┻%%white%%︵ %%red%%\\(°□°)/ %%white%%︵%%gray%%┻━┻"
+  },
+  "recipes": []
+}

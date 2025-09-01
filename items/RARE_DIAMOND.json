@@ -1,0 +1,32 @@
+{
+  "internalId": "RARE_DIAMOND",
+  "name": "Rare Diamond",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Reinforced &7reforge when\n&7combined with armor&7.\n\n&9Reinforced &7(&6Legendary&7):\n&7Defense: &a+80\n\n&7Requires &aMining Skill Level VIII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RARE_DIAMOND",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMDMyNjE0NzE5NSwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhMGU4OTg5MDcwZjA1MTViMzVkNmE2MzcyZDljNGVmZGUxNTk2MTk2OGQzMWZmMDIyNWM1OTQyNjllZjc0MzciCiAgICB9CiAgfQp9",
+      "signature": "kGZ0Qe+zdzlYu5mi6d0flgoaAdsbyIZ90EV4Xon0DFEQtxRurlzUCbjXSS1FqZFRnwMREGZPjRXUemZC2XWrmepQMyTAiQTYw1LoxHIe7u9CrsvShpCQHb2joz4cJufk1sUdwR0md8YD0Scot6oC5P1JWygfTU67XWdMmIGhgqAjy3YwiPgcoDd4minNHjYEdoSeU2mTtsiVFAz6pWBMu9PHzWth7w2CYfrHaNMP5cv36y4LATQTxp+AwLMhqp7TizX5ZYwYzDnnc9Aw+AYUDTYR6BavxPzrikFers03Da5GZpvXGIyyy870VtBhfxXL0eS6FiSstE+OftVyxr0a70Wef7dtZvdceHy1MFezfTTZUSmJdmpF0uwcD57GzjDVrogm02lTUNfZSv/ibD7YHXtFrFGOqhHqeiCtqzBs0GtYMAJbsqfviOCpaDs3TcQ0EM2IGbMnNZSywASQkzh/vPBkc92QtGTNyf/oIbmYPhpEahVIWF5PvEaz3cmUG3oTWOkeKuZqszK6HxHVBCVloRh2cEe3VhFhWdFmjinuh/HSIod1GfWQJMj+Bko7KPWchqv21Go5ozzmXgLBkACwyHI3KNfRcDOd1DEoHpYA4mfBRx2uX2EupcOonAy3s0ttg35s5wCz9WzcMEitgBDKFmStfoHO5p98pn+Fnkc+UAg="
+    },
+    "name": "Rare Diamond",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

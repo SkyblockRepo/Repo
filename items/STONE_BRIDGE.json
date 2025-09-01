@@ -1,0 +1,70 @@
+{
+  "internalId": "STONE_BRIDGE",
+  "name": "Stone Platform",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 32,
+  "lore": "&7Creates a stone platform in the air\n&7after traveling 10 blocks. Perfect\n&7for building below your island!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STONE_BRIDGE",
+    "material": "EGG",
+    "name": "Stone Platform",
+    "npc_sell_price": 32
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STONE_BRIDGE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "EGG",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "SMOOTH_BRICK",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

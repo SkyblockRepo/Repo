@@ -1,0 +1,86 @@
+{
+  "internalId": "SPIRIT_SWORD",
+  "name": "Spirit Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Gear Score: &d300 &8(326)\n&7Damage: &c+210 &8(+231)\n&7Strength: &c+50 &8(+55)\n\n&7Deals &a+2% &7damage to &aUndead\n&amonsters &7for every &a1% &7of your\n&7missing health.\n\n&7&bSpirit Item: &7When turned into a ghost,\n&7this item becomes a Ghost Ability.\n\n&6Spirit Ability: Spirit Bomb \n&7Shoots a spirit that deals &c8000\n&c&7damage on impact.\n&8Cooldown: &a10s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&5&lEPIC DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPIRIT_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Spirit Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 4,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {
+        "SPIRIT_SWORD": "BONE_REAVER"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 210,
+      "STRENGTH": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

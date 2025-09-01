@@ -1,0 +1,60 @@
+{
+  "internalId": "ARTIFACT_OF_COINS",
+  "name": "Artifact of Coins",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Even more coins start appearing\n&7around you occasionally on public\n&7islands. Lucky!\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARTIFACT_OF_COINS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1Mjk2MDY0MiwKICAicHJvZmlsZUlkIiA6ICI4ZjllYTBhNWJhOGE0NTNkYTgzNTBmYjRmNzVmOTJiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDeWJlck1pbm55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkNzMxOGMyMWMyYTUzNjkzMjIyY2Q2MDE5MTUxOGE4ZTJhODg1OTU2ZGQwODIzYjYxNDJjOWNlNzdkMTM4MTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Hd2oHRGUanIlzipea++i07POEICIjtRFMzoU0vlgnFMhAHrW4nYYKPXYLOUa8xBFCq3SDecu2BEzYVNNAWmw0AeWErINXiPVsugL6W28WfHsFK1JqscL/wcixmM78ot01cbvU//ZGNNvahm/ApiyNwucND7ijAAcmzinfpkyMm1Gp7K4FWNJvYyY0fRI7068KgMRx6ZWhzw06g1rI9ejE71Ecr8Q7njn4mGooi+dQFFtHSIGK+xjTXYD5fNJC4T1qq5YapxcjkL5XujjfzloPma7y3WoyOqrkEMsbIvSz1DqoFmPVrnOl00LdQ5Vg2bGiWQ6/19m+vebsy0VqpPqzhi2q0kMZAac7K324BrkSfv8KHZy7ng0Nq3cckUKPqrcERFXu91/K7FMfRVRov7cGCsfjNstYsmOevETBlJq+THrQXMmhHhTslrCPRVRixuIMiDUEBH/kP//iWHLniWU0Si+b72L2cgf1lGyD9a5FrFzYtH6L7imbKg8HZCp+JBDsobt34+PmKMugB8W0dYGWB6w8vTP4PhA/XpiH/prfDWF+JoPnSmcd9gJ9egUgB29B7NyRBc/7QYV3mpy2IEyZEERvLYiuMp939UX4p0EqzL7ZK4ypnvyrclo70mWfA/e65bjTVPkhNG47mfqISr4sGedSH6Z0LV4pu6lm0DJw0g="
+    },
+    "name": "Artifact of Coins",
+    "category": "ACCESSORY",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ARTIFACT_OF_COINS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "RING_OF_COINS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

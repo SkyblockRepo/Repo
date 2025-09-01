@@ -1,0 +1,72 @@
+{
+  "internalId": "SAVING_GRACE",
+  "name": "Saving Grace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20000,
+  "lore": "&7Safely teleports you back to your\n&7private island when you are about to\n&7die. This item will be consumed on use.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAVING_GRACE",
+    "material": "NETHER_STAR",
+    "name": "Saving Grace",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 20000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SAVING_GRACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "GOLDEN_APPLE:1",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

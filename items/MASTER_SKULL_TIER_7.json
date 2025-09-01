@@ -1,0 +1,57 @@
+{
+  "internalId": "MASTER_SKULL_TIER_7",
+  "name": "Master Skull - Tier 7",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &a+10% &c&c❤ Health&7 and &c&c❁\n&cStrength&7 while in &cMaster Mode&7\n&7Dungeons.\n\n&6&lLEGENDARY DUNGEON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MASTER_SKULL_TIER_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzYyOTgxNSwKICAicHJvZmlsZUlkIiA6ICJiOTE5M2NiMjkzMWI0M2FhYmM1OGQ2NjAwMTg3NGRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiMmJsYWtlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwNGU0N2M0MzU3NmY4ZDcyZWJhYmI0NTg3NjRhZmZiNTg4ZmMwMTgyNjI3MzJlODUxNDlkZjliYmFhYjc3NjciCiAgICB9CiAgfQp9",
+      "signature": "ADdLbneeu4flAYhFI+itjF7y12WOQlRO2dvAZDrHSTLoIaR13p3ncrp+o5RJ8nZAQ/F7iYEU34i2eEf/9A49pFNZwBymjnyMvJz8d1MC4ttUWnNTZs5LVVWp21OtH2CnGAsuA60UKi1P9MP+AzJa2iVLX9JqjPcOBDQAsUHHWnzwqKjhnCAEMEsfApWsWEVSSI9lmW+1fndh2IKz8ZUODxtzlxBQicLWsaXEmaryYmua2JxHF//nt3O/MAXcT02aMm4IhieTpYVCLuwQne4rEOFZVkknwwFw4P/KbWb6vMxkigdrkcG8gLpfi2euKea4IfTDw327uGGxfiFCZW9/bq5Tp6lQsWaNNXRc045eFnbT1ZT7/bdMq2Bex2yNGLcmoLxWojYKT4QHl2edNvRg9xb6wDBcFWtQa+4Wwm2bs1DPCELjVqgLOQRV+T+7qyUt4fCyMACW7DvEaBZTuts9gBKM7FsCZV5QCspIP5MbHBQXqEA++ra9dXFlX25/q0pXGVYeoDAu1ZXjAkX1T1YwCs8o8KMyokiRBIeM9fcFMUUSyNnrzkzh3B71rgDbJkGpRHL+73mf+hHBoiLUamGSKRlV/Mzw2/kIg+3R+X14nLqRNvrXARqsf3tAZpjAlvTZ2vg0mX8O0n/GV89RZURFDSfpEv9YLWdrU2nfEDFIAOs="
+    },
+    "name": "Master Skull - Tier 7",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MASTER_SKULL_TIER_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MASTER_SKULL_TIER_6",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MASTER_SKULL_TIER_6",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MASTER_SKULL_TIER_6",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MASTER_SKULL_TIER_6",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

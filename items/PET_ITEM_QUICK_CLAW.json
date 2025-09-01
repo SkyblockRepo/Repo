@@ -1,0 +1,31 @@
+{
+  "internalId": "PET_ITEM_QUICK_CLAW",
+  "name": "Quick Claw",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Every 2 pet levels, you gain &6+1⸕\n&6Mining Speed &7and &6+1☘ Mining Fortune&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5&lEPIC PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_QUICK_CLAW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjcwODkzOCwKICAicHJvZmlsZUlkIiA6ICI4ZjE5NjJmYzE4NzY0MDU3ODYxMmIxMzNjODE4YmY5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaW9uXzkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjMxMmE1YTEyZWNiMjRkNjg1MmRiMzg4ZTZhMzQ3MjFjYzY3ZjUyMmNjZGU3ZTgyNGI5Zjc1ZTk1MDM2YWM5MyIKICAgIH0KICB9Cn0=",
+      "signature": "jVSRfNjGMmW92rIu173wUWePEWXSzx7y+6AMDGuUjKG8mXN2DLfINzrYuABovc7v3+dG//duti8X3KhqUQiMIKjK+EPUryU3jSZ8pb4EX1SLBTDX6KpxWDXsEteq6XobfmdOQ1bW5DIvvtsnOLQ7kMiONRZjqGYkfnekju9dPX9RlC5D0XVu5whRCKlZ7Vm1vpdPxFWwDpQD4U9okcJKiCnedMRN8IzY9898d5Vh+acTLW3Y3zlQs3YpHJ9+14gozIWrEfp51EVhj1cXBOFwDjAlJwgbtvvujSIqLe0qKpi7idikO4oRg8wPOC93PGWBMYJ8vNTirXTkq/mkSkc2GnV7ABM4U6EgckpugVEECDjT5klJCf+7y749roy7nyMBaCNqYs409O8JWTD42DHZQ+YkESPdfJCNkG6VlDDrCOSe/trYLGzBz7C4ZbM2owWUzNdR/+5oQLch+/4sjim8deSNIEy4mQWc8DsSu2vcTDMqTWNMB8uz7JXD+QeDDFnR4BdQNRyN/Zq9VSaTim2qZh8dhr2nW4Tn09aX8eR1L3jbl86BaaV47i3bkhzWgc69lgJWqsS/s4GsEMtpU2XvIkYrxuIW2Ifv3X9s0UGHFaelP6jPZqqD/9gmHtsjBwYSThRIZ0638fPMxUDEfOYorueXaUg7jBxvabT3EX5D/SU="
+    },
+    "name": "Quick Claw",
+    "category": "PET_ITEM",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

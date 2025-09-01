@@ -1,0 +1,25 @@
+{
+  "internalId": "JUNGLE_FENCE_GATE",
+  "name": "Jungle Fence Gate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JUNGLE_FENCE_GATE",
+    "material": "JUNGLE_FENCE_GATE",
+    "name": "Jungle Fence Gate",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

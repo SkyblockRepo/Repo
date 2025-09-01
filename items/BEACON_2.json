@@ -1,0 +1,50 @@
+{
+  "internalId": "BEACON_2",
+  "name": "Beacon II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 7100,
+  "lore": "&7Tier: &bII\n\n&7Can be placed on your private island.\n\n&7Grants special buffs to the island\n&7owners when powered by &dPower\n&dCrystals &7obtained from the forge in\n&7the &2Dwarven Mines&7.\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 2&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEACON_2",
+    "material": "BEACON",
+    "name": "Beacon II",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 7100,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 2
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BEACON_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BEACON_1",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REFINED_MITHRIL",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

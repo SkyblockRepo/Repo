@@ -1,0 +1,30 @@
+{
+  "internalId": "CHEST_SHELVES",
+  "name": "Chest Storage",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Storage\n\n&7This extra large chest looks great\n&7in any build.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHEST_SHELVES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDc2NjIyODY3NiwKICAicHJvZmlsZUlkIiA6ICJiOTE5M2NiMjkzMWI0M2FhYmM1OGQ2NjAwMTg3NGRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiMmJsYWtlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyODBkOWU1YTRhNGM5OGFmMGFlOTRjZjEwOTgwOGE5MWQwYTgwYjVjZDNmYmJmZmRmNjRhZDU5MjQyMTBlZDciCiAgICB9CiAgfQp9",
+      "signature": "u+JBT9v2nV/OVyQ5Sqw+N0/FsdTE8L9ec6sLyI+NoR8Y+LxmomYNHW5AtVLeXULf8bgYcRchKZljL+x0x6KEeBjhOsLu/pABPVT7jJT+5d/MF2nSIwqyo9EphLqhTmRTbuVk7TAeRXD63dfdYUy3RzFpE0KIq21Y059hRq/z+GW0zIOd9lXKosxqK4WezdTM1tly+4JZPJgjwmUCErSQx54hiQJvDkcAa+6zlgDEQT3bPCdYvVDqQTfO+ttIALYnFv1LKgjPakZ1uP7oqrTRPyhitgjpByQQlAhSEISmD+ZBbSfv9rcq3Qya3ZeBiDy0ni/rfL4Ar6YRnaEU4Pa5lj1SRKqItfvhEhHYVRxAjGhUdYeGDpn/C+sS3MNjfA0wnI8M8AcKlXg6dXzoX82kUbzF+xkDGiLK3jDf/wM2XQtSQL2fvyJ0ZHUrzImuGUoHpdCtURniuDsmOlrMEu/mGZTFIc4YMMzln5DogyMPYUN4mwjdYLh41vxirnESgKIXRPi4yDm4tBlPysqapvXCmrqzWsGUK1VDgMs2yT8fFTAGHTOkCe3Y5UwRWLnoJCa/OWP24hNcDINUZw6AEDLDT4tZrXFhFYTq5xGJRyxJyPCW1jaXOKWIJGodTdsZv+mO9Er6fXlJnxR1oTbZJtF0lxCt63i0m+ouicSN8PmN2mI="
+    },
+    "name": "Chest Storage",
+    "furniture": "CHEST_SHELVES"
+  },
+  "recipes": []
+}

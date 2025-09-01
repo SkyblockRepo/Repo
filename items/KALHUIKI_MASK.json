@@ -1,0 +1,46 @@
+{
+  "internalId": "KALHUIKI_MASK",
+  "name": "Kalhuiki Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+100\n&7Defense: &a+50\n\n&7&7A ceremonial mask worn by the\n&7members of the Kalhuiki Tribe.\n&7\n&7&7While wearing this mask, members of\n&7the Kalhuiki Tribe will not attack you!\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KALHUIKI_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTE4MzY4ODY1MSwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJb3lhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNjU4NzA2MTliMGMyZGI4MjI0NzlkMmNiMzgyMTI2YmQ3OTljNTgyMzc4YjViMWRmOTNlNzViN2QwMTU1MWI3IgogICAgfQogIH0KfQ==",
+      "signature": "Ss3evZyQyW9PO7C3DcSZCf33Pfo9WFjKTgq716iMO7rpWUpaJ2/xkDCwJWV97Lkwjw0mJjj7PVVwQ1nNyhRtVUIG2jx6n+FmaIRY2A+F8x3PnfpAEXCDUp5LQVQZU8AR/IYC8XQG18R3GLvLUeKtUhkUcFX5GEu9jt4RmReNy3McUa+/0Ep4fQ65pKZp4QAlP6K23wuSVpHYac7mwd/Tf+7TKtRaTi6a+7QdUVLiRKjJzWewLASTzPGJK3tLdQk6mPVtgIzsb9Ruo2dBy0FFBrFvsA+rt+o3SrE1hx6nM6mtjm4U2OH6Z1Ld/mdDRtQJ+p0yHJTzOKSeTsnvKY9qwrMG/UbxjzgM8dmqKtSeOJ/IWY4zLNi3SDOVYCmonwigN4FEoedXCR4kE8FYQHFetqGh03O8gyuJqPSXShQsrGfFICOJ28txbSSk5sQKjjwswhz86AnhbHVOyJ2BBj71QiSJvOZ8Cmgk9AJ6lKmmF5xLLFD87kiK+1xCBgcgKPuQeUwk6TzLgxhJkjWETZ2ui1quZE3A3p4Ca42VWTRZ8xykb5Rjr3CYbhDvONeExg2Qd6QRXHlYTJB8DDBZLA5frtd633BnCSvPRMLC8aDMr8N9qEPWF3crl6jB9h03530wEPf/rU5GFElWNeLiwKwdv/TjN/w/1lcl2CuXqvbu5xM="
+    },
+    "name": "Kalhuiki Mask",
+    "category": "HELMET",
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    },
+    "description": "%%gray%%A ceremonial mask worn by the members of the Kalhuiki Tribe.\n\n%%gray%%While wearing this mask, members of the Kalhuiki Tribe will not attack you!",
+    "tiered_stats": {
+      "HEALTH": [
+        100,
+        10
+      ],
+      "DEFENSE": [
+        50
+      ]
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,44 @@
+{
+  "internalId": "BASIC_GARDENING_AXE",
+  "name": "Basic Gardening Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Farming Fortune: &a+5\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 4&c.\n&a&lUNCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BASIC_GARDENING_AXE",
+    "material": "IRON_AXE",
+    "name": "Basic Gardening Axe",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 100,
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "BASIC_GARDENING_AXE": "ADVANCED_GARDENING_AXE"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "FARMING_FORTUNE": 5
+    }
+  },
+  "recipes": []
+}

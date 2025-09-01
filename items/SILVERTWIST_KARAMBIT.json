@@ -1,0 +1,66 @@
+{
+  "internalId": "SILVERTWIST_KARAMBIT",
+  "name": "Silver-Twist Karambit",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+6\n&7Speed: &a+15\n\n&7Gain &5+5❁ Rift Damage &7against\n&7&4Vampires&7.\n\n&7Regens &b6 Mana &7and &c0.5❤ &7on hit.\n\n&7&4☠ &cRequires &5Vampire Slayer 4&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILVERTWIST_KARAMBIT",
+    "material": "IRON_SWORD",
+    "name": "Silver-Twist Karambit",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "stats": {
+      "rift_damage": 6,
+      "rift_walk_speed": 15
+    },
+    "item_specific": {
+      "heal_on_hit": 0.5,
+      "mana_refund": 6,
+      "bonus_rift_damage_vs_vampire": 5
+    },
+    "origin": "RIFT",
+    "sword_type": "KARAMBIT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SILVERTWIST_KARAMBIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SILVER_FANG",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SILVER_LACED_KARAMBIT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

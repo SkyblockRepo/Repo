@@ -1,0 +1,35 @@
+{
+  "internalId": "GHOST_BOOTS",
+  "name": "Ghostly Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 77777,
+  "lore": "&7&7''Boots made of pure ghost essence.''\n\n&7&8This item can be reforged!\n&9&lRARE BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHOST_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "128,128,128",
+    "name": "Ghostly Boots",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "npc_sell_price": 77777,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    }
+  },
+  "recipes": []
+}

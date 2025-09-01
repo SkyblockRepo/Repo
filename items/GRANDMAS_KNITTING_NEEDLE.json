@@ -1,0 +1,28 @@
+{
+  "internalId": "GRANDMAS_KNITTING_NEEDLE",
+  "name": "Grandma's Knitting Needle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Can be applied to &fGrandma Wolf &7pets.\n&7Grants &b+5% &b✯ Magic Find &7when\n&7getting a combo of &a50 &7or above.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5X&5 Rift-Transferable X\n&9&lRARE PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GRANDMAS_KNITTING_NEEDLE",
+    "material": "STICK",
+    "name": "Grandma's Knitting Needle",
+    "category": "PET_ITEM",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

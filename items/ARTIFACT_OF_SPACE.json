@@ -1,0 +1,31 @@
+{
+  "internalId": "ARTIFACT_OF_SPACE",
+  "name": "Artifact of Space",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARTIFACT_OF_SPACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MjQ4MjI5ODY4MSwKICAicHJvZmlsZUlkIiA6ICI3ZDJhY2YzOGQ3YTQ0YjU0YTliMGNkYTZhNzk1YmNmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3VuY2luZXNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2MTYzODgwMGI4ZjJjZWFmY2FlZGVkYjFlYTAyZmJkOWVjNGQxMWE4MGQ4YzI2ZDAwY2JjOThjMDNmM2RiNzkiCiAgICB9CiAgfQp9",
+      "signature": "oSke/ILOwP+aMEbcYeIZMan30KdexLAYYpZdOvLlWiNGcEiDfToZSeDsXPPmarIqSBD5QCw9GwolPQO5D9cd9g7B3hq5cGOfemAMEC1u01ogaF+amHEO2HLi9Wqq30p40qPDIhGoAK4VxElEHSjwHIxLb7zMEXrApCpz1HHYrdccilLxOvwDA/xZznqIvf7aZAR3v0HTO4jeinpXHKWOofTPvOxM+YuwEc16zWHMINNf7kwfBX7tLynmsOBex/2kJxNKdE1GfFfnzyPA4gFfZIiUOpQgIOH5ziF0100Nbwpfmc3UnG2lUFbBArxBU+RE6ZaiHkw/JnnvbBXmKj1Qv1NNQQsX/3WHUoUfg38ncGLfcGOTFGf6Lkttyc0D3BjG0XMVyznNK6RTbiiv/JPB5ZVxCBNEWFqeOOjBy0Vxo4ElzMqH3Qhfn343yIERg8HmWqpuyVcPGes+PUorx6dfQ5O/OL4IfP+SvAvF2cCl+DZ6giL2lzQ4CLde3N5Vb3SMLaUaaKB07HJdLWNhZABXraQkA+5Rzq9GZuTP1fK3OO9vxmqUL8vBUW7Y/NsbNJ0xWIsc96eFWr/yK7CgOtRuAOBsBEcJ16p+Z4eSigwem7zorstyUKYJfTZGpkN+EMm0fhDM6jzGpyZpXWp19BmvQ5clR1gC/bexVHR+O8RPb+E="
+    },
+    "name": "Artifact of Space",
+    "category": "ACCESSORY",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

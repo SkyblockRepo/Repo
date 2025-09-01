@@ -1,0 +1,82 @@
+{
+  "internalId": "TELEPORTER_PILL",
+  "name": "Teleporter Pill",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Right-click to consume a really nice,\n&7really good pill.\n\n&7&7Consuming it allows you to use\n&7teleport pads on your private island\n&7from anywhere.\n\n&7&4☠ &cRequires &5Blaze Slayer 4&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TELEPORTER_PILL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MDU4NTk0Njc0NCwKICAicHJvZmlsZUlkIiA6ICJkYmQyYjU4N2VjMWY0ZTgxYTNkOGFlODM5OWJiMDFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXRzaW5zcGFjZWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIyMDU4YzdjYzg1MjFlZTE1OTllODllM2UyYTEzYWM2ZTBmYWMyY2UwYjM2NjdmOWI3OTU1MTcwZjFjYWUzZSIKICAgIH0KICB9Cn0=",
+      "signature": "vvunJB65GAmGJDVIF49O2pBrb5DeQhfZqzU4xToX94REtT6c1r675uI4eaU17enLb0FRqPJBVmclxt2EwVliugADhbImlCEecaWrFo1zqN4ECG7VIgSosscFE+XXzJxv9zIR4hfhwBI6HbM6SY80a8n5PwyU6Zp+UvKox6iqtpvyzB1VpwwfjW2g3/I4Bt7qo2nS1kL31XASd2LnGp59vD68eFv0qvezRoCytMPRm6aFc7D7TgZUHtlSDeMsJdWv1tkmpGgv6blZ0v84cqdaqYPig9ktk1oOvwK5n31grST1g/jk0sisLD37v9Mz0IINsLc03KO9b/UdbuCm2CyI92j57I/QvizmSJWrQ94bVn/iSZB0LY+awDB7EagrRVhWSUyFLAEe250sgYcnWIo6g9iJR/ettTeYfP9Pf8Y76Wi0YATWmkE22yfF2XMjgdsmwi34KkEzuvvmfErqKsIIEUjnri1NdqwYJdyV1130Sl9jOE0SLzRt+wYV8OY53FZcOjiESdxJ6Ap+uB7AF6/F50snqN2C6guFXm1ibQNBvAKyPGgSyIQLEl2cHnI6639ixdvrJ187eaint+jK7PbTDPEiOpvKWQHWIABeH7T85GQtQNpA59w+a+RPyrGkVTFtD6VSLxEkDprX9grL1FwsyuH/OgXHu0QuFlLdMDQCoM0="
+    },
+    "name": "Teleporter Pill",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "blaze"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TELEPORTER_PILL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "TELEPORT_PAD",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

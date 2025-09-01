@@ -1,0 +1,77 @@
+{
+  "internalId": "MELON_GENERATOR_10",
+  "name": "Melon Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting melons!\n&7Requires an open area to place\n&7melons. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a16s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MELON_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDQ0NzcyMzAsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGNhOTNkMWQyZGMzZjdlZTFhYzY2YWI1MjgwYzYxOWZiZTM3ZTFlMzM4YTY0ODQ4MDhhNTQzM2IxYTNlZTkxMSJ9fX0=",
+      "signature": "GyK/0doxnZ6ST+8/9GzWhj0Nd0LxASKmgUM1c7Mcqkz3rDBbsF5Hg/jLv2yxJ+VfMxC4lyl7ZTBMxIcROsWpR7zO4jne7D4B675qA+nFkrWqnV+S5SyNbqZz7eItbghaiI5AOMwhcOGEqu84ez/mLJSVXLsTcSgjN/GKftTYYFYO1AhuLMo/nWGEFKbGQB0njYqY96ZHvJc7Qb1huaRM3W63+5/fWeLBwU3tzacSC1Pr6qu9VJyrZNn6Yv4FDYZxnQiFXkbRSBdViwvxiPbszlLfaceM15MdWoswAYDPkecFJg/Nr7fQkt7Xv3E1kdOR15O7E54IC7bk2M2MgKAH80Kwfz+95tEf8DFqL4U9i+r8sNI+jtH4INotH4CGLZpWajedYHp8JXQDUapA/8E5kaf1jpno+mGT/U1WBK3P8bPSpQzQfeoJ07akBKaCQMBrVsfpKJU7bDF6BhotI8jsjpcfQPl3S/c29VCbX9frCaKZX76itr4ZQ7wNgfgIfpLAGQkKuuo8obHULc7AsaPbcaLm14tYJB6+NjsJznbhk34RbaPX05mqcTMsAJWLR3MelTogmv426Zuj4EdpDTjakzbc0J7XqcW+SDG1KUlHfFetQndkc8oZMspDKpH411KiIggil84jpKL+FFlDawoc+7UQaBNVQAWaF+Qs/OylTOQ="
+    },
+    "name": "Melon Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "MELON"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MELON_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MELON_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

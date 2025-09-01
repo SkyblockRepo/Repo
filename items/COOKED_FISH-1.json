@@ -1,0 +1,26 @@
+{
+  "internalId": "COOKED_FISH:1",
+  "name": "Cooked Salmon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COOKED_FISH:1",
+    "material": "COOKED_FISH",
+    "durability": 1,
+    "name": "Cooked Salmon",
+    "npc_sell_price": 10
+  },
+  "recipes": []
+}

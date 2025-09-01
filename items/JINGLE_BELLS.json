@@ -1,0 +1,34 @@
+{
+  "internalId": "JINGLE_BELLS",
+  "name": "Jingle Bells",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&6Ability: Jingle Bells  &e&lRIGHT CLICK&r\n&7Angers all monsters in a &a10 block&7\n&7range, consuming &a50%&7 of your max\n&7mana and causing them to run\n&7towards you.\n&8Cooldown: &a1s\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "JINGLE_BELLS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NzQ5NTA3NjY2NTUsInByb2ZpbGVJZCI6ImQzMDQwY2FhNmNiMTRkNzZhNzI4NmNkMWJlYmQxZWE5IiwicHJvZmlsZU5hbWUiOiJQdXJpayIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc2NTJlZGZjYmFmYjVkMjUwNTBmMDNlN2RhNmQ4NGNhNWMyNDI0MjkxMTNkYTkzNzQyYTFkZGFiNjEyYmMwNCJ9fX0=",
+      "signature": "TYNTRo0PBqIUeAemWJ9nBjvMpUr82vT4Ty6fZw/z0ty+Mh4+5ETBZUX16E+DRYWf930dzRn6uIG6YQP+E4cdVQWvDk9pCV5/TJ5mf40pam08wqfNwempeS/bRbqqWH598WlmQrYpDQAq5U8h6aobVxlgMvNomGP++Px4hh40ZkuRShwSlI2eFhma5jotmPZHiacz/wQn76Tv6gvS+ULkHEY9TT6Qh+V9YtWbT623cD7Te5XhWI5EShxubi8b0fmP2fJnKRZHV/8CukI9H0Ue6J37Tg/hKO8ZSYDe4IVopyK6mcw9r6LkiMtrx5p743nk5Eexj3LMuJhjDraHZRcLKohy84+v/cwm05nHtzCkTy9S45OYOu3O/sKt0WROTV0dZu1ZF9EDUVvS6nahbhiw3QplTPS6/TCR9cXgYsU/vlp4HGccCssWWM/nfjXykJewoF9i9LoN4fHKEHIp0W5wN5oMtOzG7mT8z+D15Widvy1pz+RGUYRCbE3v4BBF/AJwHknIll2M2BqQ6IrP4ss7nVq/6D86mNF/eNoo3ewy5LSujQiVrT/7D3HEGzLwb+mhO4km4XWaWjWd8uvDTGVaHCMNLhkpI+olgh6IEnE3hHHXcgFxeaP0wcyLd0wSx9tm86wXR5J5ye6De40EqNhkWgypPJB7EcJeVXMOEWk806Q="
+    },
+    "name": "Jingle Bells",
+    "tier": "RARE",
+    "npc_sell_price": 100,
+    "museum": true,
+    "soulbound": "COOP",
+    "can_have_power_scroll": true
+  },
+  "recipes": []
+}

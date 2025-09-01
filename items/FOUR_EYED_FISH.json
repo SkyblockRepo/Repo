@@ -1,0 +1,76 @@
+{
+  "internalId": "FOUR_EYED_FISH",
+  "name": "Four-Eyed Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7This pet item may only be used on a\n&7&6Griffin &7pet.\n\n&7&7Gain &6+2,000 coins &7when digging up\n&7any &eGriffin Burrow&7.\n\n&7&7Grants &b+10✯ Magic Find&7 and &a+55❈\n&aDefense&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5&lEPIC PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FOUR_EYED_FISH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDIxNzQ3ODIwMSwKICAicHJvZmlsZUlkIiA6ICJhNWVmNzE3YWI0MjA0MTQ4ODlhOTI5ZDA5OTA0MzcwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZXBsZXRpbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTliOWY0M2I1MWJkNDViZWRmMDllNDU4MmQ3NjJkMjZjMDMxODQ3ZmM4ZjMwZDI1MzA1NzkyYzU3NDE4MWQzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "CIeWKN+sbEch2F6ktfWG4XJJUK2azv0F6fPSuCNfqIfIUNtFekqDv6RKB6QT2grmiTkL0u8UCyrBWSjRjO13JrVGt+MtI+bC63rmuqi9kI9ZCM1Jm/qXkY0C54R9TDCkYkDoauexo8czZGr/fm2S+NK+qDopSB0XRsXnzsjFAEkLzXRPLfhWAb0F3dUA6vrdwoGFQUQJ0CzH8ie9nmvI9LeUv3sMwNCY1rYI1mR/oIfVaYPROe9wUcvWvcbX0zH/cbxx00GhvktPPPhRFFhp/j2/85c+M5eBxIzTZIAeiKC7BMRTPB9Sn/aeyvbYn4uIDDHzabgZfy/BarYRNQ4BZKREqYbtJlPBPO/Def0sDhKgCTfrCWLP6419o5pUxxzqcw+Uh3bhDp+RYeu9hU/JTfFqP2SyePfg8kSJzS8D4rn/gNW1hWz9ZZNz3DeolbIAHXXuNGUw3YNoyYQ+KWxriGOrvz7nVV1EVvLur9BSgZZvZKSEHnDhAevWRRzjw/jiChCGxHtDEjpTPuhZkVeZjlKrNQLPtXWuXxR0pq2ZujWJCQGZmNC33lXKVa7PObXd08cWksdUjMj9aTCFL1NosY3Vb7o3o6yhW1J9gl/ysB+rmZaqtdIXRy1dk2UkwwRSqDc8jCQcmUTta2f8RLu6QmEHNj9ewjcXxeoJRqByBCQ="
+    },
+    "name": "Four-Eyed Fish",
+    "category": "PET_ITEM",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FOUR_EYED_FISH",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "PET_ITEM_LUCKY_CLOVER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PRE_DIGESTION_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REINFORCED_SCALES",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

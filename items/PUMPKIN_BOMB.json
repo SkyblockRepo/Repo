@@ -1,0 +1,80 @@
+{
+  "internalId": "PUMPKIN_BOMB",
+  "name": "Blast o' Lantern",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 530,
+  "lore": "&7Throwable explosive. Deals &a2 &7damage\n&7to &6Spooky &7enemies and &c3,000 &7damage\n&7against non-scary enemies!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_BOMB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzI0ODAzNDA3OSwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjNmZkNWQ5MDY4M2EwZjk1NmUyOGNkMTM0ODJmOTFiZDdjZmU1MGU1Yzg1M2Y0ZTg1ZTYyNmI1Zjk3MDFiOTMiCiAgICB9CiAgfQp9",
+      "signature": "aRXSSWUhZ8rRKuENA88yFEN+EpR/Fzm8P1h/0MBWzm0zIm/LdqqXeN+rE+ct/ey6KfWzolbM40uGq8CZNJcyZQgqk94oznOyijfpYds5OOndafkjW+a0qQB5mNt976bBNgHYzV0Zn3iCj42/A9CInOKjJ0EJqqSQrfz/At4h6RirUMfkqGUrKRKd+y0JUua5QK4CPfwJu8f9V0IxL4ZzAGFZ9Ykihy4yfJGOSQFuA9g3OpHtDDhdIdsw65VutKqOoJzOXbSB1lRBzB46+xbbf00/HsMR4StwSBuRrzJW695ZteVOZq5sLu7nEmGD0ZRyFGcp7ORgjqavJ8OHDF2ZAJXBP3s64GRtNFlz31XzjXZpgDenCKn1bDoev+DzLghaJgGvR+eE87+8nTP/6mHvYQ8Kx5y5y3kWdOMEpUjMFYjT38G0zHMfLxLWvadPa4obsIY1ds9CEt+5FSdKLya3vC/WmK0g+kgoUZ4kqYgbUO6CF3FkXsDwPvmjAEFoadTwuavpS2/MIRrBe9asUjdrIY1LJG12+uACY2I5QA/HlExxjUD+cJ2PFJLzxJIU7jmJtsLewwE8BQ1RzOpbr3OI89Ty8YmvSs0QMu4qARl1XEqEQSfvWfhkP2ufVDtyNFf60Ejt4BSS1wbECFqOyuD+XDd5TgizfWxrAgHTX3VWxZE="
+    },
+    "name": "Blast o' Lantern",
+    "tier": "RARE",
+    "npc_sell_price": 530,
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 3000
+    },
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_BOMB",
+      "resultQuantity": 32,
+      "crafting": {
+        "1": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GREEN_CANDY",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

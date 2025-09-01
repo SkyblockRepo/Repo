@@ -1,0 +1,108 @@
+{
+  "internalId": "FERMENTO_BOOTS",
+  "name": "Fermento Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+130\n&7Defense: &a+40\n&7Speed: &a+5\n&7Farming Fortune: &a+30\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&8Tiered Bonus: Feast (0/4)\n&7Combines the Tiered Bonuses of\n&7wearing &a0 pieces &7of the Melon Armor,\n&7Cropie Armor, and Squash Armor.\n&7&7Grants &60☘ Farming Fortune&7.\n\n&6Ability: Farmer's Grace \n&7Grants immunity to trampling crops.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 40&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FERMENTO_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "131,176,59",
+    "name": "Fermento Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 40
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FERMENTO": 12
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "health": 130,
+      "defense": 40,
+      "walk_speed": 5,
+      "FARMING_FORTUNE": 30
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FERMENTO_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_HUGE_MUSHROOM_2",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SQUASH_BOOTS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_HUGE_MUSHROOM_1",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

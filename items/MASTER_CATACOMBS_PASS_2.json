@@ -1,0 +1,32 @@
+{
+  "internalId": "MASTER_CATACOMBS_PASS_2",
+  "name": "Master Catacombs Pass II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MASTER_CATACOMBS_PASS_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDIyNTQ1OSwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxYjIzODc3ZjZlOTEwYzQ5Y2ZkMmUwYzU0MGZiNzM2NmQ2ZWQ1Y2EwNmY1NWQ3YTU3ODliZmU0MmYzMmM3OTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "DRoTGi1EWOzcEXtOQ6j2rwKIwoSsgm7IZjGAbN4sGAKEg+KqVWqG1oWU0yRbzWwfhXDhRb+QUhA8Wt4s9PGdjnn7YwLDyXT3xLNgj5cXxMrWY6zKWs+Rw5fwJ1X8vOqfv2J2ht/U04GlQVr9LrVNWyagjF0yzg++LFlZt1+bfNNzdoRZqK6QKpmjJ+6d6xn99wVWyJ7t4DXhGVX0ONrnXzkalXnB+p3Z1p1zp+0U1Pkz99jHgM2zYcqEXmTxoFpegHTIF6T0d4Tpg78dTIUmy36E3ezT1P7kUGr0VrYo1+L9A+tb6yj9FoJ7X384tE4p7dyQdIWkOVsoxqH32+Mmy+Lw87nCoS4GSO/EISqoanK9WKQz41XxnPgHuvonvKpRD4smytuCsxrzcQw6a5Dud89jObY9KIzzLqTqbNP2b5yByrC1LzI0iB5lmmNP4DFJa1jZxN4Nz0ctBZVAhrRpPwtjFGKwQVBq6sQ/LgdRlR8ld+VZoD2i0SCLvznkU7hkoORPWtvHl+PhPJ6oATmzuvWmCmp8j8XD03HYhQI9SSRmHkOKaI5IPNxjwMxbF8/lFd3HlQyn7y9oCssbOmpQ4OwQWmy6H7ltBmW0Is2gatPfhcIlLY9wNqCRFrpsi053GJoqqFBy5AyOfLhA+6lduCn56LbhZj6alzUu4ZYwsOw="
+    },
+    "name": "Master Catacombs Pass II",
+    "category": "DUNGEON_PASS",
+    "tier": "UNCOMMON",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

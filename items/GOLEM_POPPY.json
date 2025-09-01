@@ -1,0 +1,26 @@
+{
+  "internalId": "GOLEM_POPPY",
+  "name": "Ancient Rose",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8''An ancient plant imbued with the''\n&8''unyielding power of truth.''\n\n&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLEM_POPPY",
+    "material": "RED_ROSE",
+    "name": "Ancient Rose",
+    "tier": "RARE",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,61 @@
+{
+  "internalId": "LUSCIOUS_HEALING_MELON",
+  "name": "Luscious Healing Melon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Succulence  &e&lRIGHT CLICK&r\n&7Take a bite and heal &c12❤&7.\n&8Mana Cost: &350\n\n&7&4☠ &cRequires &5Vampire Slayer 4&c.\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LUSCIOUS_HEALING_MELON",
+    "material": "MELON",
+    "name": "Luscious Healing Melon",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "item_specific": {
+      "heal": 12,
+      "mana_cost": 50
+    },
+    "origin": "RIFT",
+    "motes_sell_price": 5
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LUSCIOUS_HEALING_MELON",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "JUICY_HEALING_MELON",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "internalId": "SCARF_GRIMOIRE",
+  "name": "Scarf's Grimoire",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Gain &a6% &7more Dungeons class\n&7experience.\n\n&7&7''Dark and powerful spells, includes''\n&7''his favorite \"Barrier\" that his''\n&7''Professor taught him.''\n\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY DUNGEON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCARF_GRIMOIRE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjgyNjMzNTIyNywKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZTM3ZDQ3ZTAzODUyMTYwOTk3NjI5ZDIyYTVlZDVlYTFhNmNiZjMxZTMzNTgxZDk4NzY3NzJhZDYwNWMyMjY5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "gOHgPH3J3NAO9roBjUFKPEghqxdCUvenPDPkwsxcw7ChBv/i1yVcJVUrlGdFVeRx2de75fbf5U13oj5oGNr5a9ZSojF8g/KcygMHTyVqKZxpTv8lFoySziq3Txl2C/K+6/WTTeD7oli08RWvW7lZyxlA4CypS0lBlYZUEFF+vpHFyRja5Cx7FXiMONShLdaIIS68Lo25XlX4UE8gxFkPZiBR1++K8sIQDa8kfrgqNs/tWg5FZi4vum0TvUsi+ELywJtJ8gkk1jUgnSGYmGuVsbOTUg6DvnCbdmQ0qGuRgEF8cbDsUIPo25U9CmdwxtKScwP7IQVsIf1wCmroMB2Qg4pwDYmSEj/mBgeoFMdTZWE+HFa/V0a+UziVAaMVa/NXkTn/cLzmPUgnvHjsL3RI+nNh3xMB77QDmNFxgnNJd663Ulc23Zi/nn3vuTTyk2xDrwnPnE5A+E/Wkaf5sOr1TEeeQSV4PeTmFnRODoehT1vyG1Y2UV+jtfbAIv32bg+K3cNEzwx9eT7lnvNyUW3D8vHqsBhiGRIY6S5i+q7yjbhwCgalUCn7G1LGMN8SETt7vn8BWTcJNrsUOF8XllxtcitI3+Qg4uHI5AdDHXojB0/erS9Crpoo1f+rkmKDHxM/hYWNLUv274Tmr21OrbLArxdpX5STI+wt7fbFesdesf8="
+    },
+    "name": "Scarf's Grimoire",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000,
+    "stats": {
+      "rift_Time": 12
+    },
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 240,
+        "essence_type": "WITHER"
+      }
+    ],
+    "dungeon_item": true,
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCARF_GRIMOIRE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SCARF_THESIS",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SCARF_THESIS",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SCARF_THESIS",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SCARF_THESIS",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

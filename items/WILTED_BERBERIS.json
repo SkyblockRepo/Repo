@@ -1,0 +1,27 @@
+{
+  "internalId": "WILTED_BERBERIS",
+  "name": "Wilted Berberis",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7The plant equivalent of an alien\n&7zombie.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WILTED_BERBERIS",
+    "material": "DEAD_BUSH",
+    "name": "Wilted Berberis",
+    "tier": "COMMON",
+    "origin": "RIFT",
+    "description": "The plant equivalent of an alien zombie."
+  },
+  "recipes": []
+}

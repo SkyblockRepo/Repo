@@ -1,0 +1,37 @@
+{
+  "internalId": "WITHER_BOW",
+  "name": "Wither Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+30\n\n&7Deals &a+100% &7damage to &aWithers &7and\n&7&aWither Skeletons&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WITHER_BOW",
+    "material": "BOW",
+    "name": "Wither Bow",
+    "category": "BOW",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 30
+    }
+  },
+  "recipes": []
+}

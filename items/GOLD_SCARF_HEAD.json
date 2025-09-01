@@ -1,0 +1,85 @@
+{
+  "internalId": "GOLD_SCARF_HEAD",
+  "name": "Golden Scarf Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d70 &8(77)\n&7Strength: &c+10 &8(+11)\n&7Health: &a+30 &8(+33)\n&7Defense: &a+15 &8(+16.5)\n\n&7Obtained from killing &cScarf &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor II&7.\n\n&7&8First of his class. His teacher said\n&8he will do \"great things\".\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_SCARF_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzIxODg3MCwKICAicHJvZmlsZUlkIiA6ICJkM2Y5MjEyMjY3YzM0YzEwYWNjOWZkNGI5MDFkYjI0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXl3ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MTJmOTBhMmE2NmQ3ZjkzN2NmOWZiMTVjN2Q4YWVmOTdkMzhmNTYyYmQ5Njc4YjI0ZjRjOTA0YjY1YmNjNjBjIgogICAgfQogIH0KfQ==",
+      "signature": "l+an+YgCuJsWR+yNy5eJvvdsjm9NPz2Xk6TGOywy9CWnqhyWrru4c2yKSk6P2ZiArDU0sqOjghylIRPcRBOdwRbGYHW6qE3NsXx31l6nmAdW/aM9WcJHM20A/83QGaVvtwZIUtEKbn73Ya/ER5H3aOFuW5RPcvKMRwz5P4+Q1YlC+51AVBe3t0PYUYSazVGf5zJnEV/kw7jwJ0za0Sj+8pdD+mQnIBoLoUpI2mpmbEsRKw+jKquyhCQaz1UQLWRsGEmf1Ci9sgIFQghPz2sB/b6JYbDLCl3vmWG2OyRLd9GESCItTo299IxoRkEFc6KLDlcavXIFbR/esVoiqLTfhOiUnpPMzHNIspQjuWyEXPwvx9RiDfdr40YHR56jI6y+hUtQIvZboo0ZB8Il3mR394+EHwAgTv1S4XkYq6c+QVdzWwQj13E8/pj4GCEMj2zMCSvjnKqMZ1jZ3g2zM2D8Nm4bWIcNslqOCFQ3jMqjZkOw3hupDm0KMVrAVOfsVBetcXursG+lsLYBaP0xbiHh2otwHd3WbtCTrOAgRgLO1l1uh/TLV7dK4iAsN3jI57iqXJbeVcVecJIj++A+0OCtltNkf81asVlmZEOmGIZPJiaDMfMWXi58xbYMNFGqAZJLuuPk4XPCPgMiKJOMSWmujIqbbg0UC7UQINKpDukR27U="
+    },
+    "name": "Golden Scarf Head",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "GOLD_SCARF_HEAD": "DIAMOND_SCARF_HEAD"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 30,
+      "DEFENSE": 15,
+      "STRENGTH": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 500
+        }
+      ]
+    ],
+    "soulbound": "COOP",
+    "dungeon_item": true,
+    "rarity_salvageable": false
+  },
+  "recipes": []
+}

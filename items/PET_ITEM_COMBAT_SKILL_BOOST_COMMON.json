@@ -1,0 +1,26 @@
+{
+  "internalId": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON",
+  "name": "Combat Exp Boost",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Gives &a+20% &7pet exp for Combat.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&f&lCOMMON PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON",
+    "material": "IRON_SWORD",
+    "name": "Combat Exp Boost",
+    "category": "PET_ITEM",
+    "glowing": true
+  },
+  "recipes": []
+}

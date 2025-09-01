@@ -1,0 +1,49 @@
+{
+  "internalId": "GOBLIN_OMELETTE",
+  "name": "Goblin Omelette",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20840,
+  "lore": "&8Drill Part\n\n&7Grants a &a25% &7chance to not consume\n&7&2Fuel &7when mining a block.\n\n&7Put this item in the &6Upgrade Module\n&6&7slot of a Drill at a &2Drill Mechanic&7!\n\n&7&7''May cause diseases''\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 3&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOBLIN_OMELETTE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjI2NjM4MiwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZTk0N2ZlMDllYmI3ZTdiMzc2OWJiOGE1ZGE1Y2I3MzQ2NDZiMmM3OTczYWI2YTM1YjY2MjdhN2RjMTI0NWQxIgogICAgfQogIH0KfQ==",
+      "signature": "XAW/VrambDpQhjUo1cicQXchlV4u4Y7MUJZwzTZjTbSMrz9xn6FHKnr2aLcPmZ8REYPKhC93FKM6/ZKv3MnVN6cXyFncoazg5ghKjjWw3O/4Axt6/Ezs/ZEjfpjmSsBzXiTAtinTByrJ8fwz3EdFdC4kpcGuLgoZKmKqQeFuBHH2Y4LGjEiUfxRdT1ocWjCCyPuo2jWnqEROt/5gEWATHRg37UmmfrlTcWSuz9+YCjQRyTKOAvdJFdhzZ5QTIC7+1Evfv3YMK22I5IX5snEc6iyaOxno263d9uXIOqcfs5IKO7c7o9eVYhMwiHN1j5GoGmiUrnQr+/xKigJ+yi+tstOkqZaBZjn4YeKqkILEIm6zDuV/V4raOtlJjVLpOj5f0BmXjGAhXcio65Dk2VN2bCHa8E778pzJZj3ikf475lN7tXS11O4N83+ydKDWJbzS5ONNpMUasGr0hbZhVCAy4ZnXgAw4SEFdkUkPaWeWdAkiZ2hGgzH39caFtt3pQ3lbonLjLbgG8Iusv7P+QFjNzSQRTLrSuqGte/D2Q2aiGP33h/fwbIn/KboRGnI3rJjGfC/b5AuthJNJom3w+x6gKEzifg72TkQAMJ2Sbwpg11xXiJHC0fxMiEaFCNRNorqUTlmhsSxyZsSvaywVKALEu/ikJHnXFT9u2M7Yln0VULE="
+    },
+    "name": "Goblin Omelette",
+    "tier": "RARE",
+    "npc_sell_price": 20840,
+    "description": "%%gray%%%%italic%%May cause diseases"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GOBLIN_OMELETTE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOBLIN_EGG",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "GOBLIN_EGG",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "internalId": "VOID_SWORD",
+  "name": "Void Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+125\n\n&7Gain &c+20❁ Strength &7per piece of\n&7&5Ender Armor &7worn.\n&7\n&7Current Bonus: &a0\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOID_SWORD",
+    "material": "DIAMOND_SWORD",
+    "name": "Void Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 125
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 30
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 8
+      }
+    ],
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

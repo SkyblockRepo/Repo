@@ -1,0 +1,30 @@
+{
+  "internalId": "MOLDY_BREAD",
+  "name": "Moldy Bread",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MOLDY_BREAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjE5MTg4NDI2NiwKICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YjJjYTExMTUwNGRkZTUwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmYmZiZGEzZGFiNDUyYzNjMWM3NmQ3ZDUzNTc3YWVhZjgyYWFlOTMwYTMzNmZjOWZkMGIyMzg0ZDcwNzhhZGEiCiAgICB9CiAgfQp9",
+      "signature": "S9zo5MoYfFTlGA4+bDgldEjL617Ds1HXVyolo3ZjbOCuzSH0oXdKC9ReQYResjZ6W5WYqvpFAace4gxqW9i9Rt4VGm4taToobQXpH6V+SLdT3QoEwsdyL7KOPUzAngSbzhDfHhiE3JF/ZLnNBhsMbxrHy17xphHwhhpooaPIvVpQcX9bQ0gP9Yd7kWZOf80oZxhzn3qMOiUyX2YxBHg3oyS+oJRfdhiDLlagVEbqiM2GGNA3VOXpviIn4Zn9omRtaSBEwHMqxOd9Rmb2i9dYUZWyiVMVFSPV0zduzqh1gmL6oX6PGtgH20Gv0ZmoQUiBzBwXptqLuTLz6MzuRFJyT02klhMf+StnF43OMmkdWVwl3OykLYkGSZQK8ogJc7W+bNMi0Dc2OuI8yKBuhpLYgH956dY0l2cVWqxwOiFNXUY2rN5W5rWQKkGt4BKCpKtCaNDWgnmxW99uIbKi6VYTY5UGeXaX2+73kbCyPDS3jDLWJCy2eiEAhzYoI8Hue9QuUqzTR8xJ7Opv8vuo2oQ5mPrKz0AAVm1Szox+1/0Zo8ezj8UQp7lbeXDj/q59HYW4rKwDlOVSbwYJZ/KpdJD/D66YbyYZW4m1YLWLeLgN+2okD04IyV1r40FeCCqJYvDBBclR8SLb7euIPu0qfrd49+mmUEe1PRKwBN5z9X6A61A="
+    },
+    "name": "Moldy Bread",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

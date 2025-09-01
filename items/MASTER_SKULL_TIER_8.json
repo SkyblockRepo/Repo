@@ -1,0 +1,32 @@
+{
+  "internalId": "MASTER_SKULL_TIER_8",
+  "name": "Master Skull - Tier 8",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MASTER_SKULL_TIER_8",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAyMjEyMzM0NiwKICAicHJvZmlsZUlkIiA6ICJkMDlkOTg1NzRiNjM0ZmNiOWNiN2I5MWZhYmE4ZGIzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEdWNrVGVsbHoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM5MWY5YWZkODRmMjM2NWNlZThhNTNiNjFiOTQ0MmIyOGU0ZjBlMjViYzZiNmIxYmFkYmNkYWZjM2UzMGM0OSIKICAgIH0KICB9Cn0=",
+      "signature": "VNqa8XMv7dJ6t0D2sJaiOpi8vP5IafDcz1NfFKAkHBQWElAEaiE92+TTQwrzgpSqGD+Uy+mbpYEMwryG26gwnfrE/mqSKunIuZXrDdotZoIYI7nTFQ7NA5bRP7FriBhZD9Ekn4pCa/4M7bI5ioTX1u27/pN5SEFDwo7DvkSnVWqLEysCjVMAFsMWU7vZXHRtHh9PpGzMf1eIlPR2YrqrrXznU6INg8ORxBW5bwE4sL0FgRcG70naiYSXuZ9wjYc3VjAJsNsIoz1bN/KHuwXtEfj7rFVsGNuPdH0BsCnigvd0EQW62AW4kKwF7rlAzfMwFtyfPSUD56CN+Qf9BApOZYbK6LIVY3/68ySiuutkSHYVSBMwa3Bva2ATB0dt812+j/+0Ug7WvYIP2qABTw+e6fVfbvLZ+uijDTCNsLILcStrCk+kgeEzoPTEy8yCaS10d/DW5/lf85L8nBiVZ3yJi+Tpd/7WenZmGO3vTd+xjB8DFIa+1AL5+42vGJD/2pD4kf5+S+SIgOK3qHIIXkZLrZa2GV8OX1yfdK1t4sWmu8wTdkEdekUWfcPoAMsqEmZ9Xtcv0E7+Tga47zCrQiWfQOLa4RjYIbJK+RS+mNHWBJ6hgKbY7iokpi3SxvTj5BWJ3SEX4GtYdMIjRLYfg9C6cC81GWJu3Rc2xMMP3yn3jkA="
+    },
+    "name": "Master Skull - Tier 8",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

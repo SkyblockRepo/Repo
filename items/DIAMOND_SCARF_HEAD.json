@@ -1,0 +1,83 @@
+{
+  "internalId": "DIAMOND_SCARF_HEAD",
+  "name": "Diamond Scarf Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d145 &8(160)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+70 &8(+77)\n&7Defense: &a+30 &8(+33)\n\n&7Obtained from killing &cScarf &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor II&7.\n\n&7&8First of his class. His teacher said\n&8he will do \"great things\".\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_SCARF_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDE1MzQyMywKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZGE1Y2EyZjY4MDA1MTZhNjNkMjU4NzhlYjdhNzEzZTgwZDYzYjYyZjlmNmNhYjNmMzEwOTdmOTQ5NGI2MTIxIgogICAgfQogIH0KfQ==",
+      "signature": "gO9V9VbLke6ikgVvJt+LwMyf+tTxCtoNZCcRL3ZApi1t/qGhxQCHx8czRZd2ylAIqZQ1m8M1ABhv2lbxr/wqY6+PPaAzqG5k361bcwgX/DZomSYnJ/qfZPD7KPtkw3NoOjz0oarjy2W9mTcJAQ9N8rVPkoR3iXginlMkHpfaMSrQ9ZOEuMvjOC4e7u7fRYuVOUQB0UgCQb6NCaTA4Bn+tP4lx50fuhb2E+IHn28wcltTSdC3hZW4c2mCS1JagN9l0xTjwOsUNGSoqSveqDcFCfpXby2dQyf0P1R9YlUwGOH3AAigH2Vs40fuGet5WoXwZr4z/eqd9eo/6mWoXQyWFj+/i4oKoYB1qhpmxHQuqTj0CtRx+p+nbKaqMLgkrSTRdWKlHuIPr6eKQQxPCnlTBbSS5eqzvzGULGnC+mbSXgUvYZBtDBqmjHWqqc2ILtfUNyn/gyml4TOPaQBeSrMAuMM691GM7hEQDRTihb54ut4rrbyObDFTbU0Rveb/AsdE/izPR4b4I+s0PxYJi++Xl6IP2Q7FCGlqgkHf39C2b8q4U72Z7Qc+6rBnyqREidXsL2MDtnDrdxbXLuSPje3JOcSVqcSkzkQ2Y8R3ZxKzOVcL13laY/k2l5mUxcWI3YEKCUZp2e3zwftA7myvIfQPc31+lM9KunId7u0c2SsZKuI="
+    },
+    "name": "Diamond Scarf Head",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "HEALTH": 70,
+      "DEFENSE": 30,
+      "STRENGTH": 15
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 500
+        }
+      ]
+    ],
+    "soulbound": "COOP",
+    "dungeon_item": true,
+    "rarity_salvageable": false
+  },
+  "recipes": []
+}

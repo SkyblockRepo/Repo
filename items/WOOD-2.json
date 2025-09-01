@@ -1,0 +1,26 @@
+{
+  "internalId": "WOOD:2",
+  "name": "Birch Planks",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOD:2",
+    "material": "WOOD",
+    "durability": 2,
+    "name": "Birch Planks",
+    "npc_sell_price": 0.5
+  },
+  "recipes": []
+}

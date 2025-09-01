@@ -1,0 +1,28 @@
+{
+  "internalId": "HYDRA1_CHESTPLATE",
+  "name": "Water Hydra Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HYDRA1_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "16,21,85",
+    "name": "Water Hydra Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

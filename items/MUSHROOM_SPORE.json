@@ -1,0 +1,27 @@
+{
+  "internalId": "MUSHROOM_SPORE",
+  "name": "Mushroom Spore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&7&7''The life cycle of a mushroom starts''\n&7''with the spore, which germs and''\n&7''becomes Mycelium, which develops''\n&7''fruit bodies into a mature mushroom,''\n&7''and that mushroom will release''\n&7''spores.''\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MUSHROOM_SPORE",
+    "material": "BROWN_MUSHROOM",
+    "name": "Mushroom Spore",
+    "glowing": true,
+    "npc_sell_price": 20,
+    "description": "%%gray%%The life cycle of a mushroom starts with the spore, which germs and becomes Mycelium, which develops fruit bodies into a mature mushroom, and that mushroom will release spores."
+  },
+  "recipes": []
+}

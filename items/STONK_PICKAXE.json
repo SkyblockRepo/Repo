@@ -1,0 +1,41 @@
+{
+  "internalId": "STONK_PICKAXE",
+  "name": "Stonk",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9999,
+  "lore": "&8Breaking Power 1\n\n&7Mining Speed: &a+510\n\n&9Efficiency VI\n&7Grants &a+130 &6⸕ Mining Speed&7.\n\n&7When mining End Stone with this\n&7pickaxe, Endermites won't spawn,\n&7experience will be dropped!\n&7&a5%&7 chance to drop an extra End\n&7Stone block.\n\n&7&8This item can be reforged!\n&5&lEPIC PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STONK_PICKAXE",
+    "material": "GOLD_PICKAXE",
+    "name": "Stonk",
+    "category": "PICKAXE",
+    "tier": "EPIC",
+    "npc_sell_price": 9999,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "MINING_SPEED": 380,
+      "BREAKING_POWER": 1
+    },
+    "enchantments": {
+      "efficiency": 6
+    }
+  },
+  "recipes": []
+}

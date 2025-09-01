@@ -1,0 +1,109 @@
+{
+  "internalId": "RECLUSE_FANG",
+  "name": "Recluse Fang",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+120\n\n&7Strength: &c+30\n\n&7Crit Damage: &c+20%\n\n\n\n&7&7Deal &c+150% ❁ Damage&7 to and gain\n\n&7&3+30☯ Combat Wisdom&7 against Spiders.\n\n \n\n&6Ability: Webcutter \n\n&7This weapon can be used to clear\n\n&7webs left by the &4Tarantula\n\n&4Broodfather&7!\n\n\n\n&7&8This item can be reforged!\n\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RECLUSE_FANG",
+    "material": "IRON_SWORD",
+    "name": "Recluse Fang",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 2,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "RECLUSE_FANG": "TARANTULA_FANG"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 60,
+      "STRENGTH": 30,
+      "CRITICAL_DAMAGE": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 250
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RECLUSE_FANG",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "SPIDER_CATALYST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SPIDER_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

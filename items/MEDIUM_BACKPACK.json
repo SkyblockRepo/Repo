@@ -1,0 +1,76 @@
+{
+  "internalId": "MEDIUM_BACKPACK",
+  "name": "Medium Backpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A bag with &a18&7 slots which can be\n&7placed in your Storage Menu to\n&7store additional items.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_BACKPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NjgyMTMwNTE0MjYsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MmYzYjNhMDU0ODFjZGU3NzI0MDAwNWMwZGRjZWUxYzA2OWU1NTA0YTYyY2UwOTc3ODc5ZjU1YTM5Mzk2MTQ2In19fQ==",
+      "signature": "L5HdDKDWuvJZ8DSagCagKlULCpcTmU1hbvJJ0xZ7SH1YwOsG4q2FhmDCAKfgVFWD4Ve7UxHksovMjiK0SiwbuJapu6ljjwvy62jD+8FeBh7nrIxBkl49Yi3yQIub4MAAa+55Tq7Dv1BRJuarQhhuCNt+v3KtJPRlHkQu74okPsWYSwG/5lwzJZtvCxL2efsBWiLSmb58KowQZTPqUZbQPuoqQ4QdFZaA5XJogo8U0YaMFDLxvVHdE4kR1yAhWpxUVXWmDXs3Jtk34rTo2HEmMMRncmfgLaPY6WQtVweOvksueKTY/JZL2avWWNEQwcXuFPlbxSCjsoLDfw8sMTfbW5TVwr1EulOui97cPBLZFRPAdlf7paaBx7OcRQ+rMiXelmNkDoJcpp7/hh8iI0EEpd3rnmdQ5brq02YKhqHXSNYjfT8qoNCOQnt2OdF4LS+tMFpqKFLS42bQaaSClR+1wkX06a3BofPInHYCQXpCVhK9XwH7mpVso+K6gOKMJI23LpLl3UDMZ8lnc65HFh/f1KSQqYKZ+HEu5Ngp7iBWv9lFOKjlvieFXxIzke5yql238ZzFAqUqTZ2WVOMrKIhTHHV615KfYcR86DYrFM/uin4aItgiYechaCzVLM3jhLWktLODYLd+1WAJKmp8ENYKmwi865BGxmMyNI4zpX5amJQ="
+    },
+    "name": "Medium Backpack",
+    "tier": "RARE",
+    "double_tap_to_drop": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SMALL_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "LEATHER",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

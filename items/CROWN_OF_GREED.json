@@ -1,0 +1,42 @@
+{
+  "internalId": "CROWN_OF_GREED",
+  "name": "Crown of Greed",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "&7Health: &a+130\n&7Defense: &a+90\n&7Magic Find: &a+4\n\n&7Hits deal &c1.25x &7more damage, but it\n&7costs &6100x &7the weapon's damage in\n&7&6coins &7from your purse.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CROWN_OF_GREED",
+    "material": "GOLD_HELMET",
+    "name": "Crown of Greed",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 1000000,
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {
+        "CROWN_OF_GREED": "CROWN_OF_AVARICE"
+      },
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 130,
+      "DEFENSE": 90,
+      "MAGIC_FIND": 4
+    }
+  },
+  "recipes": []
+}

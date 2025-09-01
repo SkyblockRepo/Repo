@@ -1,0 +1,29 @@
+{
+  "internalId": "BIGGER_SPRING_BOOTS",
+  "name": "Bigger Spring Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIGGER_SPRING_BOOTS",
+    "material": "IRON_BOOTS",
+    "name": "Bigger Spring Boots",
+    "category": "BOOTS",
+    "npc_sell_price": 1,
+    "stats": {
+      "DEFENSE": 10
+    }
+  },
+  "recipes": []
+}

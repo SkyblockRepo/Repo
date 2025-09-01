@@ -1,0 +1,77 @@
+{
+  "internalId": "DIAMOND_GENERATOR_5",
+  "name": "Diamond Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining diamond ore!\n&7Requires an open area to place\n&7diamond ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a25s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzUzOTk2NTcsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjgxMmFlMDcwZmNhMzU4MjE2YWQ2Mjc4NTllMmQ2OWM2N2M4YWM3YjYzMWZmNGQ1YzU3ZWJjMzk0MzU3MDk1In19fQ==",
+      "signature": "bbvPiL6bxG1fSTPnuKA4XKCo9yw3JsgupkmFb7h1ml9dBGFHuJe7Ewkifi4SvTX25KQhdc3/UIAbYpF80tXyDMyq9nIVC6Cr70z1o8INjUX+U0WvC0Al72KX7/Uc1eWmgag5ZAxzGWYr0Xt6dZe38UdFRlMz8gtJUPoB43Oj8Vhve+AOvZGzYwhkzeZBJCnUzvMq2YKMwqVL7TVkTzrg1VbbPdIChZC6SbzzCNZ1Q07oQrCoYteQYemIEf/yp8cnrWHW3OO8+hHTQ4DpUBbigoxmHyngo4OsHSoRn5uTSt8RXJH9anqxVOHDFHVRW0D2sULEC8tRAcYYTlhb1xzHVz/qHmjQrQu7/UJ4Fh4oguml4m/SXvDd7JbeqcQK7y465Dw3K1tyql15pzj/q+Klj7ngE2UV7QUYtwAFN6x5EbBQH9BTlAsV8r/Ud1xd3sQ5afpCROWPHxBwMuuNiRyG57ccu2evcUnJw9bpQj2cLkL7uCGCznmhVHis73Ydd20Y9s7Hax5yhJXyWcp8Xnar4mlPPk0Ff09jEZ2mDMTyHyFcGudw0HIBMTc9yiqdGx1tt7kbpduOCHXuVIcyQ408FbRns9cxcXs4XzsEP69TGtbxGmieDDT4qheRVeCzN5PC9iGryfXcc29gRGxOMhuVwfC1cvS3k1w3X/2Ad1UXLJo="
+    },
+    "name": "Diamond Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "DIAMOND"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIAMOND_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "DIAMOND_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

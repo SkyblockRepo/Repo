@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_DANDELION",
+  "name": "Enchanted Dandelion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 160,
+  "lore": "&7&8Collection Item\n\n&8Machine Fuel\n\n&7&7Adds &2+360♢ Fuel &7to a refuelable\n&7machine.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_DANDELION",
+    "material": "YELLOW_FLOWER",
+    "name": "Enchanted Dandelion",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 160
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_DANDELION",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_DANDELION",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "YELLOW_FLOWER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

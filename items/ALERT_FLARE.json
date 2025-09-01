@@ -1,0 +1,72 @@
+{
+  "internalId": "ALERT_FLARE",
+  "name": "Alert Flare",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Shoot the flare up in the sky for &a3m\n&a&7buffing up to &b8 &7players within &a40\n&a&7blocks.\n&8Mana Cost: &3300\n\n&9Flare Buff: &9Alert Flare\n&9• &7Grants &b+50% &7base mana regen&7.\n&7&9• &7Gain &4+20♨ Vitality&7, which\n&7increases your incoming healing.\n&9• &7Gain &f+20❂ True Defense&7.\n&9• &7Gain &c+10⫽ Ferocity&7.\n\n&8Only one deployable buff applies.\n\n&7&4☠ &cRequires &5Blaze Slayer 6&c.\n&9&lRARE DEPLOYABLE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ALERT_FLARE",
+    "material": "FIREWORK",
+    "name": "Alert Flare",
+    "category": "DEPLOYABLE",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {
+        "ALERT_FLARE": "SOS_FLARE"
+      },
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ALERT_FLARE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "WARNING_FLARE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "internalId": "ENCHANTED_TUNGSTEN",
+  "name": "Enchanted Tungsten",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1600,
+  "lore": "&7&8Collection Item\n\n&9&lRARE DWARVEN METAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_TUNGSTEN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODkxNDY2MjE1NCwKICAicHJvZmlsZUlkIiA6ICJlNzhjY2YyNjMxZTY0MjJkOGY1YzE3ZTliZGQ3N2RjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEQU5JRUwxOTB5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhNDQxY2IxOTQxZDMyYWQ3ZGQyNTVlMDU3ZjJkZDM1Mjk5MDQ2Y2FhYTU0NGJlOTY4ZTBiNzRkNjlmNzE5OWQiCiAgICB9CiAgfQp9",
+      "signature": "sRqf4S74sG8AOyo8HuP4hj4+CJdGhVKvo8f44qIYD+qh/00cdKM9TLxQAVL49+1/pngnqj9CMJ4xjJ70at99BvMtP8RcRHIhnWnOjU2BlgRFH9WHSQAfymi0Bo31DOb8BoHFSzOImzqITzOq9e2IEGfdndgC8F5Lo9GuRNgOVNB87XQJIOJozMxNj1pNbrdcfcED4eI9k6cHtdIXzqUsI+gCQ+byiWgX+Eg+Uf0xoaFvWYNvlXbC2e4K3EcYB7CF5puBKXsTU176M13N9F5BYgHZymVID2PvVDTSOCQexpH3TSGyAKhBptong2CZP4Ea9QMTTNOkWeXNjWSbujc4Supx7cg58DAlU9QbD0lEMxwHuV74DWpPVxnefFQN40T3faarfJMcgX/VeQ2kd7Plql2QTV6hl+MfrJ7K4BV0rYCJy9EFGrH4wgeFbHMWChl1gSzf8nfM875sbzVtz0UfIOR4j8V4ixJWxBk9SQD+jLFrnyugThO/H+6vk2ZxLKRUPDPS8W58mECmOfHglk8rjrsaag8K6sqHxGIceayZ2OscCRehYF9dWJxNcTmZvvvUf+JArU5Vj3h4VdzozKLyloabwMNSKwROP7DnpBb2AOrz0bPw/CjgnIGIuM2bR16hxb26Q94Hfr97LYNYROUsij25G9zUK3fashir/uCdgPs="
+    },
+    "name": "Enchanted Tungsten",
+    "tier": "RARE",
+    "npc_sell_price": 1600
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_TUNGSTEN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_TUNGSTEN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "TUNGSTEN",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

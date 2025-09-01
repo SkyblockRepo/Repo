@@ -1,0 +1,27 @@
+{
+  "internalId": "POTATO_SILVER_MEDAL",
+  "name": "Potato War Silver Medal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&d''There is no instance of a nation''\n&d''benefitting from prolonged warfare.''\n&8- Sun Tzu, The Art of War\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POTATO_SILVER_MEDAL",
+    "material": "IRON_INGOT",
+    "name": "Potato War Silver Medal",
+    "tier": "SPECIAL",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

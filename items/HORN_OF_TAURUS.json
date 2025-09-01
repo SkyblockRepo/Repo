@@ -1,0 +1,32 @@
+{
+  "internalId": "HORN_OF_TAURUS",
+  "name": "Horn of Taurus",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7&7''Popular among Piglins, often used as''\n&7''a war charm.''\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "HORN_OF_TAURUS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjUxOTA4NjcxMywKICAicHJvZmlsZUlkIiA6ICI3NzI3ZDM1NjY5Zjk0MTUxODAyM2Q2MmM2ODE3NTkxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWJyYXJ5ZnJlYWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzliOGQwY2Y5MzUzMmMxYjZjNzAyMjNjZGQwNDQwZWY2ZGVmMmFkNDM2YjUxZTI4NTBjYThlNWM2NGU4NDQ3MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "gumLO0is5kh1ERk8snvfxzYjbeIrdQ8/93ppgl9VLIL3D1ilGY2wEvCwSus84egPsImER/BszDwOi4agWpIyS7bh3C3uJY2f9wT5MTbpTOrpXgo28ijWLbF2ZoaBQDXWO50IIpJEkASjxk6ypuhvAZGs7N+KqczxUBsRloF0kXApk3mIg1xE9oXhlARF0GkjS6JJZMqFsXtcgnNAdy+b/NFAaj8fBEd4ft/QYqmFXY2iqersF2u1afxdzzGgQjz1gyn95Oes3h2blW5Wb9znwrE0UZR1VGgLZGXoMfHSv6Y+ELb5S+kNuZrnYqK2gAaGhMdynGb2nMDM9L1J4/bv/RRh5ROaS+oWjEyEAX2xNrXH0ZDhvM9fYqCwfl1HbZjZ2fVxC5NoILsqQDYMMPrzzZmFIjg2BH+II++J6eFEyCRa3h2ghdRX8x//rHB3WxJkSuQzBOSk97yuGBZrb1HiVr8mOCvRk71XFkb5TKKS3yhKbe074YTYBvURKMIelVhSlqqIaHuR20yFJ2aXZ/wytOFqdCrPIOPii3at21DtCiN0MUbShXOLLpo7S9VzCQyZf0rf/gmAxrV2lhf8XpAfV6G7erL79XTNBsycXcMe7UsxtuhuzT5ZiwT2fmDOMx+lzxWhnewLjc5sW+naQk7lMlD8v7ydu4yeR9YyZgv/kbg="
+    },
+    "name": "Horn of Taurus",
+    "tier": "EPIC",
+    "npc_sell_price": 500,
+    "description": "%%gray%%Popular among Piglins, often used as a war charm."
+  },
+  "recipes": []
+}

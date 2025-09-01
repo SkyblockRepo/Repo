@@ -1,0 +1,77 @@
+{
+  "internalId": "WHALE_BAIT",
+  "name": "Whale Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 44,
+  "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Grants &b+30☂ Fishing Speed &7and\n&7increases your chance to catch\n&7rare Sea Creatures.\n\n&9&lRARE BAIT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WHALE_BAIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAzNzEwMTU1NiwKICAicHJvZmlsZUlkIiA6ICJiYWI0NjQ1NzRmMjY0MGRhYmFlNmUzZTBjM2I4MzFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb3N0d2FsbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YjRmYjQ5YWU3N2NmY2YwYjhmNjJkZjljNjljYzk2YjI3MDk2YWQyNzM3ZDZkMGFhNDUwYjUwNjY0ZmIyMzAzIgogICAgfQogIH0KfQ==",
+      "signature": "mdGd/5539H9qwkM5gBoV+COHqo/wuPYmOh0+m8JmunSLGMjBKtGfE4bvEzh5rUQ0iKEH+F6CKXfnAtJOh64SuJ2m90HhlzELn2qaqauDH+qKL/oJOVT1Q55DY/cPedIyEJ5RlTAsrquaZzpRunzpObHanQUHl4apm+UinaGZUQxp6ZuMtwspUd70Sz9tcZBIzpTHYKV79l+2o3TFW+NyCC9hIseea5jZJvWV8a0UpS0MkFWMTgxbpHP4KZqUqLZS4cp2BnC68ALQBOdjP2MqLwJupNx5+g22UBjK26qXsOzWpUUZ9KchCv/lSHawAERgzStlKHmIxlw1HxGsvdDyAscWCxPVcRcf3lxrZws3Okwc9/llx0TsuLsnA1vK4TJNYxJFbvqw+WDbNymTCjKQ1Jlb1nuYO3DMvR6079mK2h0ahIfiYb6Z53nsZTs82zpl9UmFRTwk9gXvxN71Wp34hg4fY2TJoVSF6cVsUG7TxjJ7ZxUhKGJf3KAKcZEgQ+SrWM/ZGywbUCbJvs0Om1wxZ/P4P89maCHOcbCNkjB/M86AlVrN6b+ukcGas0RfXQUXPQD5E7W23nLYEr4IVe+vhNha/9x/XrPbmPadzHdaxaHlr0KYmcrp/m/UeAJF5vqod6Uk0xyzAbJgdJ/6jgTdF43JGv4CUtdW5SCjLvMUdes="
+    },
+    "name": "Whale Bait",
+    "category": "BAIT",
+    "tier": "RARE",
+    "npc_sell_price": 44
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WHALE_BAIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "FISH_BAIT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "LIGHT_BAIT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DARK_BAIT",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "WHALE_BAIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "RAW_FISH",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "INK_SACK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "RAW_FISH:1",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

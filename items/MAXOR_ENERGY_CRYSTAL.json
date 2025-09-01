@@ -1,0 +1,28 @@
+{
+  "internalId": "MAXOR_ENERGY_CRYSTAL",
+  "name": "Energy Crystal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAXOR_ENERGY_CRYSTAL",
+    "material": "NETHER_STAR",
+    "name": "Energy Crystal",
+    "tier": "SPECIAL",
+    "has_uuid": true,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "NECROMANCER_BROOCH",
+  "name": "Necromancer's Brooch",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Necrotic &7reforge when\n&7combined with armor&7.\n\n&7&8''Rewarded to every Necromancer who''\n&8''passes the final exam.''\n\n&9Necrotic &7(&6Legendary&7):\n&7Intelligence: &a+150\n\n&7Requires &aMining Skill Level XIX&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NECROMANCER_BROOCH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA0NDU5MDI3MiwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1YjZiZWFjNTczNjVjYWY0NmYwMzdmM2QyYTNhNDU3ZjZjYWZlNjQ3NTdiYWYxNGU4OTkzY2QyZGExOGNmZjciCiAgICB9CiAgfQp9",
+      "signature": "c/VyWdMqMnTaYUh6Op5W00cpyF+YVi/9sguXlaTvBsIwyOBUv0KyKM/lwtULXOUWH1gZixnQ8XGeGHxzE4KrDxWrlvz2AmEpgYP53spDqwGm3e8w64FBawWu49eAmMreF+QwU0lXONXdK0JAgTQgwfcqJ6j9rAcQOWLBzR3ZSJvOqTs96bP3bBFL16yzVyopp7wLj7sbP1MbkptZobU0nduJLK4/y2wLU0Se2U33PoqQ/Dlyie0Zk9U2kxOCzoIim1iTvLNNQrUE11q7WVtsz2hjxabksaGDe+NJ4Aqdporj5s2ui3gvb3Pt8xV+e1y5wwsL2FttOom84wkhnLYbDW5Luy91SANLsHp4DYlKWD8sFbg0qQhkVjmSY+pGyCo8EloxaSUeDTCWBER1QMxmL/l0H3+bBvH0KdUKOpJ3P499H0D5h3a8BwVMoqqCsAqvO15hoV8MDLLyNvrUCfwT+H2pgzacZAPA59DRwXbNQbuPHADc8VXjyY4lS1WqIUwC7MB+DoY+AGXy4P8QEUik5YlTToxSVikZ/FUpHsXSjkl1gGNFN9tywayKhNHpI77lCeRoGfoNiwRWOqzKEYLPG7YajaCDYG5glMj+D8dJbOr7QxC+0FGQTvgfzBhKXr0qHoU4DCzA9Jc5rdXejUcbUrQ65lkzZLrSRClBR5yCJLA="
+    },
+    "name": "Necromancer's Brooch",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

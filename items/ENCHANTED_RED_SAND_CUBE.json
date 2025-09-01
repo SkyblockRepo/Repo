@@ -1,0 +1,88 @@
+{
+  "internalId": "ENCHANTED_RED_SAND_CUBE",
+  "name": "Enchanted Red Sand Cube",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 128000,
+  "lore": "&7&8Collection Item\n\n&9&lRARE BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_RED_SAND_CUBE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjMwMjEwOSwKICAicHJvZmlsZUlkIiA6ICIxYzdmNmQ3NDJjNjU0ZDZhYTZlMjU3NTM1MTE3MWM3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHlzYWFLb2JlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzMWY1Yzc4YjdlOTYxNTkxMjkzNzU2YjllMTUwMTJkYjEwNDU3ODQ2YzVlYmM1ZGIwZjJiMGUxODczNDY4ZWUiCiAgICB9CiAgfQp9",
+      "signature": "RfBDuKoHGxpYnfWr6MEPnHsMWvULiV5DiwSOsn5SOniiQQXcbJEHqjiOxcNYd0/4FtgPMhEVDQBfWGyydMfo4dZXCPz9G1CO8i9JAmx9lnVP9OOtDBEyQ3i99JnWlI9eXhmiUrCp48nzkewbKd4knUGoktHlSlLUDx7CQ5omSjDnYJOMKQgbKPphzuBcMviGLutrExi0o/Uez3QBr0h6X28gw+acZ89HhuWC7OvwPPFPwwalfoSY1w/Ypm+fzNKBKcN5c2u4GMdG2kg8euI6G5sGJSE1x5VSjVFbwybgQ4IA7MEJwT7cs8DnAtQ7z6I/BVtBU/9QgIlEhIBM1UWMldlNLdHnq9vOKSwQS2isRxc4G30IbVRq5C7oSgnZKETlzhGztNsypBXaHdO9dsr+/Zfw58qSC4McGNtmPxeFYwgdXssM1+PXYWUm/x+CSPUbo/IvpHPMqblqVY0oTMtm8x52cvnoB6MSmvhzmNQSq7O+O6sUY38GIh22YlorHhGZ4fr2ntuWnykMXtrXfRGtw2PPCSL3IXhAgEAYGWcrjUk0+1XKn4Dw0OFPrM9+GsayZp+GSB75G3fgxqMt9wjTW8yYPOV0F+asCz+y+fNx3LDC32QF/tX/+p6jpFhgVBZyZWuSzCwz/drYUbCQ2P5+nBSuT9mkiDerPyQU/lk4iCs="
+    },
+    "name": "Enchanted Red Sand Cube",
+    "tier": "RARE",
+    "npc_sell_price": 128000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_RED_SAND_CUBE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_RED_SAND_CUBE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

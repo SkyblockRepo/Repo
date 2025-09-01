@@ -1,0 +1,28 @@
+{
+  "internalId": "LUMINO_FIBER",
+  "name": "Lumino Fiber",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Changes color based on the angle\n&7you look at it.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "LUMINO_FIBER",
+    "material": "STRING",
+    "name": "Lumino Fiber",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 500,
+    "description": "%%gray%%Changes color based on the angle you look at it."
+  },
+  "recipes": []
+}

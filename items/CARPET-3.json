@@ -1,0 +1,26 @@
+{
+  "internalId": "CARPET:3",
+  "name": "Light Blue Carpet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARPET:3",
+    "material": "CARPET",
+    "durability": 3,
+    "name": "Light Blue Carpet",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

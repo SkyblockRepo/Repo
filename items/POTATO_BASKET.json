@@ -1,0 +1,33 @@
+{
+  "internalId": "POTATO_BASKET",
+  "name": "Basket of Hope from the Great Potato War",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "\n&7&d''The greatest victory is that which''\n&d''requires no battle.''\n&8- Sun Tzu, The Art of War\n\n&c&lSPECIAL MEMENTO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POTATO_BASKET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyODkxODY5Njc5MiwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU3N2VjNzIzZTAyZmNiM2NjMGFkNjE4NTdiNjA2NTFhYzAwNzc4OWY1YWUyZjU5Nzk1NzU4YTEyMGJjZWMzOSIKICAgIH0KICB9Cn0=",
+      "signature": "wVUxn5wH4T7AURIf5DxnhLyMY/79OZi7WcxeAJyedTgs0zfptwQ/udOvvkwYo7k9RB4Fm6PeqmHKFvAiKpvFl4ClGUiUbmHXB6Frw0v1hXyICe7FeYBVxc8Xn5WpPYur2HTB1AnuYz9OUmX0ehI7wDqLy76TtwHH8jdlngtMpipieD3SG08HFlXS6iIvpcdbIvYn7EQXeAmQAs1/2hL93cc6iFvLd1dhdmZk30yFOO2RoHOb5xM7JCFqc09+BcJuKyIoJH44tKFFgeaGksxFzFYFW5Rfb/Ur+9CBpIGVvRKk5gAacqYSKJlkcjHsz3RWTztHACLKRfGbmgLO2RbGpAsrE7oW1XWiDe8JyZETgWA9Bz/g6fkniccUM6oncGzh0QilYvkvc59QBHJDQJf0PBv+Z+pEI5IJce5fMpwUR7nsT8+rq6MG5Szb+M8XS5fOOO53TLTAxSTqaEFCrJ1YTTVMkm2C2ibQ72RlBrozoiu/OhD3EmnAi7zQ8+htZf1vH+nUWvzE1FB6n9lxdR9ZMc1ruHTujqm/tEz9pm36T2DttCheJsElWbZjHIbvF0DYD304sCrWBYPxvzP9EanBajbgq2Hc1Jnc7Vv+/zopTGyq1IEX9xajgXd2kjHaoDrK8n34m1SG9qkg/1j5+EcoLbmeYIoOVg9DkYpFQqvkWhI="
+    },
+    "name": "Basket of Hope from the Great Potato War",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,107 @@
+{
+  "internalId": "EARTH_SHARD",
+  "name": "Earth Shard",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 123,
+  "lore": "&7Gear Score: &d261 &8(286)\n&7Damage: &c+105 &8(+115.5)\n&7Defense: &a+73 &8(+80.3)\n\n&7This shard automatically adapts to\n&7its user inside Dungeons, allowing\n&7you to perform your class ability.\n&7Reduces the cooldown of &9Seismic\n&9Wave &7by &a2s&7.\n\n&7&eRight-click to use your class ability!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 19&c.\n&5&lEPIC DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EARTH_SHARD",
+    "material": "STONE_SWORD",
+    "name": "Earth Shard",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 123,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 19,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 600
+        }
+      ]
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        105,
+        108,
+        112,
+        115,
+        118,
+        122,
+        126,
+        129,
+        133,
+        137
+      ],
+      "DEFENSE": [
+        73,
+        75,
+        78,
+        80,
+        82,
+        85,
+        87,
+        90,
+        93,
+        96
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

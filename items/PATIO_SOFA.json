@@ -1,0 +1,31 @@
+{
+  "internalId": "PATIO_SOFA",
+  "name": "Patio Sofa",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Summer Cosmetic\n\n&7This exclusive &aSummer &7cosmetic can\n&7be placed on your island or traded.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PATIO_SOFA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzOTU4NDY1NzI4NSwKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOGEwODAyYzAwMGY3MTFhOGYyYTNiN2FmZGFmYjkzYjI3ZmYxZWY3NjQzZTM4N2M4MGJmZTdjY2IwMWI0MWZjIgogICAgfQogIH0KfQ==",
+      "signature": "AEFEDvJ/SW8yOftfEkOfQhV4PyqyPsEdpId2zW6dfXgKKP57nDIfnfhGOuvA5y+o9kwG6kn79Uz7FVmxKiqbJ73ijv7v0ZrQvfFle4eZw72Et9JHsvqKIKWijPthTmG14RWBD97LkCbsFR79hP4YK/yAhvl8LDk00Yj4HBQ54cg89WGWtPWp9/hyqndY7j5I9kGDXAnxOvhKmFMH/Z5N7X6pOIDEL9QqblyebdYpGKaqybqrt5t9dSO7tzkYpcUfyt4muHruw1eHMEHfVm4AwG1DvD90S0wPTo1K1OrmAeFClgeMEPO3nEJjatHGwOAho9DL680ONnuJ2n8Wrg2j3LNStB7uXSnREI2vKMHgLH8jY0HqLxTjizJ6hqkQ4XWNDTvbmpo/O1lRv64nh2oaqqMrSJpSVhtD3LIxspdgNIp/3J6f4aflQfGRXqflv87PMwJJbO4iF2dUG3v+xdK/F5aY8Y3g6530mus+JUOwmdSF/6X0Ov0fKSxbsLs8oy0HvxR5sC80WVPFD92yhYebyrnaQ7zZPUlBN4EaVz1AHXmLOabJrNHVFYDXiW4+fGK65tWAtoRiaIdRb51yPo5J+Tn1MXecZ5EoZsd9L7g+vi1OLMNewKGdZYvGarNUhdnNCUaqOvzzy/CF4dkNdIkFcayfQOeV2yfATx0R7ey+/4U="
+    },
+    "name": "Patio Sofa",
+    "tier": "EPIC",
+    "furniture": "PATIO_SOFA"
+  },
+  "recipes": []
+}

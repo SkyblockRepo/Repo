@@ -1,0 +1,49 @@
+{
+  "internalId": "BASIC_GARDENING_HOE",
+  "name": "Basic Gardening Hoe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Farming Fortune: &a+5\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 5&c.\n&a&lUNCOMMON HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BASIC_GARDENING_HOE",
+    "material": "IRON_HOE",
+    "name": "Basic Gardening Hoe",
+    "category": "HOE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 100,
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 1
+      },
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "BASIC_GARDENING_HOE": "ADVANCED_GARDENING_HOE"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "FARMING_FORTUNE": 5
+    }
+  },
+  "recipes": []
+}

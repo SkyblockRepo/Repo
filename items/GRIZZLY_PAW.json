@@ -1,0 +1,34 @@
+{
+  "internalId": "GRIZZLY_PAW",
+  "name": "Grizzly Paw",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GRIZZLY_PAW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzA2Mjg5NCwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNWNkZTczZjQ0MDcxYTlkZDhkMWU3ZmUxMjhiYzliOTNiMThlMTIwNDE0MmE1Y2VlOTkwOWU4ODNkODI4ZWE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "G0BtBK511BgZal+S30hcTLgcRQ7Zqmn/cyYOvsT0PAvNB9zJIR0u5hP4dlotIz4MD3/4fFpC93FYh4NRu8Ka3ENFqkhNzmfBXCqbjkC/tJNxtHWxCxxwGcB91+RZrUHmZO5jPam9vBbNXz+OE0RcmEwioDGFJn9jNlnN/AfqhRJgbE66NXRN++GfHNomhCAlVqecXJ1pwqjJvUM+tIu/nCDYJ4vcFyz0g4SOvSYiTXVMgUeFmDhpEp5HOYa8fQpnuVg2N4gGQDk/qSsuTZBIRIERPvKueb5lZdf3sc7GYq6bR2sjNRWaU9kwFkvhnzStSAVNm/lKsH6mUTMMao1Xd3oEbURZy+lzONMZ5NbajsRy5iAI8MABGJtAmuoZfiAoBD9PfyjpMYzOOTi5ZD/y+bF7wtVhwJBWBVEl21NoyY5SZ5/IKayvHuPkbx7I5fWWaQxpEzbXmrGIO9Z47iXJh+JcEUBEF+z4CELWQBDoKhlCX0/5OoKfPGVEnNTbxv2yMUY1dUHHKpSKs2VKsI3amTacy0ThQxCaAZHU4i0QmhiCDKtdnD8ZDOFTAciQGyXTxjWJ+LzTk9iS4IFKzmtZWnV8SdvsdZxhIsiu5xgDJ2nP2d5733Yl2TBgjwZ3Ys3Q9aCn1kQPPbggmlWtPo3kF/+wVfOHIcfunoACW55FQY0="
+    },
+    "name": "Grizzly Paw",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "stats": {
+      "WALK_SPEED": 1
+    }
+  },
+  "recipes": []
+}

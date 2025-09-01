@@ -1,0 +1,30 @@
+{
+  "internalId": "LAMP_RED",
+  "name": "Red Lamp",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Decorate your island with this\n&7eco-friendly lamp!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAMP_RED",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTY4NjE4ODAwMSwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRlZWE2YzlhM2FlZjIyNzlhOGVhNGEwMTM5NzcyY2I5NWUwMzdjMTc3MDE1M2I1YzZhMjE1NWI0NjRjYTVhYyIKICAgIH0KICB9Cn0=",
+      "signature": "OXThWXfkbPbDx98kUPBqjnlRjxip5sPnJNrySPM/kELIjddkW6AfmBsrocE+9K3ldSUWm/a/lQca82Wj93+xFwIXslUfWBn0KgsypnSiSf7ESVif1zNdmEMQT6YES6YFxNCbCkYCbzQgKapkuZJLW+Maz7EMSNKWLHJP2PzUZFTBJTqzBqjOpZNx9ylf1abDZ7JNfXD07gLWSfEwbuNbF27UuACHvddx7Sl/b6MQEYBnhCQnJD9d+HQ+1qMDMOumvELsGrmIqZniEjKOuhnaWn2kxVAWp1VQimgzyGz4bpQUGIB8+8WoTmdkPlFJdNjdEW8YpB1LjYxhs7Z4m9scuWu07csVEiSkA8svFfuaB61pA5aNDMV9nO+wc+Bpq0hxLUQw3u7KkQhEmetM1mdTNj/QSQyhWWOOu9dcTS7tsRj2hDUnNz3iGz5Ub0zmWKkxgq0Z9SXo/LDKXkkvmHiTXvM+kzQ0XWUSsTZKd6WTQwdNQgB4TuaJPNAjznrpHz1NV7NPBM7on3fn65JebwDB24TonSiWImN+LXQXmrNpgnnBp/bG1IAaAWvdzTwl+YNrPBYsOjCsn7tR3406OmP0c7C8s1cB3N2L/TW+DtwyqrxiFIhfcvT8Vp0LZg/ydDXHNx8HPU6u1QRMdrIrHf9buJR2llXWvDCXvsLyqNJpn3g="
+    },
+    "name": "Red Lamp",
+    "npc_sell_price": 500
+  },
+  "recipes": []
+}

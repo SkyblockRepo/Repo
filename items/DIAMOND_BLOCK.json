@@ -1,0 +1,25 @@
+{
+  "internalId": "DIAMOND_BLOCK",
+  "name": "Block of Diamond",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 72,
+  "lore": "&f&lCOMMON ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_BLOCK",
+    "material": "DIAMOND_BLOCK",
+    "name": "Block of Diamond",
+    "npc_sell_price": 72
+  },
+  "recipes": []
+}

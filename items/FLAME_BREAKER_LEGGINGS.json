@@ -1,0 +1,122 @@
+{
+  "internalId": "FLAME_BREAKER_LEGGINGS",
+  "name": "Flamebreaker Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+60\n&7Defense: &a+60\n&7Heat Resistance: &a+5\n&7Mining Speed: &a+25\n&7Mining Fortune: &a+15\n&7 &8[&7❤&8] &8[&8⸕&8] &8[&8☘&8]\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aHard Stone Collection V&c.\n&5&lEPIC LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAME_BREAKER_LEGGINGS",
+    "material": "CHAINMAIL_LEGGINGS",
+    "name": "Flamebreaker Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "RUBY",
+        "costs": []
+      },
+      {
+        "slot_type": "AMBER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 5000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMBER_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 20000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JADE_GEM",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "COLLECTION",
+        "tier": 5,
+        "collection": "HARD_STONE"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "FLAME_BREAKER": "ARMOR_OF_YOG"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FLAME_BREAKER": 3
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 60,
+      "DEFENSE": 60,
+      "MINING_SPEED": 25,
+      "MINING_FORTUNE": 15,
+      "HEAT_RESISTANCE": 5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAME_BREAKER_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "6": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "GABAGOOL_THE_FISH",
+  "name": "Gabagool the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7If the salad is on top, I send it back.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GABAGOOL_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 1,
+    "name": "Gabagool the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

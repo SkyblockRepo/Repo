@@ -1,0 +1,28 @@
+{
+  "internalId": "AGARIMOO_TONGUE",
+  "name": "Agarimoo Tongue",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2050,
+  "lore": "&7Agarimoos have five stomachs and 3\n&7tongues. For this specific Agarimoo,\n&7past tense is more accurate.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AGARIMOO_TONGUE",
+    "material": "MUTTON",
+    "name": "Agarimoo Tongue",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 2050,
+    "description": "Agarimoos have five stomachs and 3 tongues. For this specific Agarimoo, past tense is more accurate."
+  },
+  "recipes": []
+}

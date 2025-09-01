@@ -1,0 +1,123 @@
+{
+  "internalId": "PUMPKIN_DICER_3",
+  "name": "Pumpkin Dicer 3.0",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8] &8[&8☘&8] &8[&8☘&8]\n\n&7&7Gain &3+10☯ Farming Wisdom &7while\n&7harvesting pumpkins&7.\n\n&6Ability: Roll em'++ \n&7Every pumpkin you break, you\n&7make a wish to &dRNGesus &7which may\n&7grant you with a few or TONS of\n&7extra pumpkins!\n\n&7''\"3.0 is better than the 2.0 version\" -''\n&7''CEO of PumpkinDicer LLC.''\n\n&7&8This item can be reforged!\n&6&lLEGENDARY AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_DICER_3",
+    "material": "GOLD_AXE",
+    "name": "Pumpkin Dicer 3.0",
+    "category": "AXE",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "description": "%%italic%%\"3.0 is better than the 2.0 version\" - CEO of PumpkinDicer LLC."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_DICER_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "PUMPKIN_DICER_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

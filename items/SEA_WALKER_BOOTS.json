@@ -1,0 +1,28 @@
+{
+  "internalId": "SEA_WALKER_BOOTS",
+  "name": "Sea Walker Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEA_WALKER_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "16,97,110",
+    "name": "Sea Walker Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

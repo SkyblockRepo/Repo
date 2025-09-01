@@ -1,0 +1,77 @@
+{
+  "internalId": "OAK_GENERATOR_10",
+  "name": "Oak Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping oak logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a33s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OAK_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDc1NzA4MzIsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0NmY0MDQwMDU0YTA5Nzk1NmJmN2UxMzU2NTZlYThmNTJjNTNhY2FlYmRkYmRkYmZmOGQxMjMyMzFjODJlOTMifX19",
+      "signature": "vnx+VTEu+xpc2xaPdLhSN97cSz/Eo+Mk2WUnjm9lvbZhEM/Iwy6XXczYjOsildtcGkC0XXcE+pP6Ez/hNx+Ip0byM1Fa9veg42s5885M9rnGpvEFtuVCCrN2nsv6IqO/upImED8v60od2v9P63rjhwRMq9eLvoJERkzYV6m0Rcawtj1p6Z2gtzDjeXND4xjf2C1/rStD8FjQvUbo91Ck9EXNlgOWgxwlIN7cq2SLgiX/zraP4cwwNNaoX2Tzh79M0jyHLF/aH5ibZ9w3lngoOIfm4mrvlbRbhk2PwhyOSEXsCYlIOcrcPoC6TVeAK1hcatmv49c8ncpwgbxu1LNeyl0L3b0m5bK2pwBq4oTp5Pgij+Kdc+nEoMD5uJCPsNQeiqxzJNwYQ7Xa6UBaHt9eEljG+LoNnyl5vWlGE/dQ7lECpVD3Kc6zQjtxgBi0M4JPHWCN+YKYlgrII6pol3EJJEdjLhOu2892nWKvE37wzTus0YO++2xip8NtfLpWFJohD1th8belgHrETeTgqTV3ZPtN+PuqzT4OsOHGgtD9dcQanr0NMSNVcwjev/JHD+nsLjNuSNdkS9QT8loUK0x+fH98UWkQo7XH89Ok/T5N6/RkbiWEFmBz+N91bGRkA4CbtmlzZHk4VjreXn02EvhSQfL8u8zYcFn7nMQeQ7LOC2M="
+    },
+    "name": "Oak Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "OAK"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OAK_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "OAK_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

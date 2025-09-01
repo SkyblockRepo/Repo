@@ -1,0 +1,33 @@
+{
+  "internalId": "CENTURY_MEMENTO_RED",
+  "name": "Cake Slice of the Century",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Commemorates the victory of the\n&a&l GREEN &r&7team in the Year 300\n&7celebrations.\n\n&7Earned by: Unknown\n&7Your team: &c&l RED&r\n&7Contribution: &b# tickets\n\n&cTaste of red velvet.\n\n&8Memento acquirer name becomes\n&8hidden if traded.\n\n&c&l SPECIAL MEMENTO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CENTURY_MEMENTO_RED",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTQyNjg1NywKICAicHJvZmlsZUlkIiA6ICJiMDU4MTFjYTdmNDk0YTM5OTZiNDU4ZjcwMmQ2MzJiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVeWlsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjNWQxZWUyZjhiNTNhMDc5NDM2ZDk0ZDE3ZDBkMDhlZjU1NjNiY2JlZmRiYThlMmE0NTYxOTkzNjdjMTBmYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "NPr5B85Aet+cTUQXN/xkP3rPnrjZi1w8HYvsccf0+tl07IM0/8V5h93fymTCMK9D91qYuW/bvj2++KIgsOgHWSdZSZrsqzqeFwUUiK2Smr3DQc09JAhVnG+bA5heeJ+yXH+q01+s+VBmph1QOC/pA7sMZwQZ7z5lHSb4XnpLnShjc6oKW3pu8zoYGcUwuVBSBEuoQrgSc/oAPAslVBWQ/UMoIUA9kaG7wN855rlzXhZsN6CefHFLwZlj6Iu+T8uEAMQM8pJAGPvvGdr++C4qMuCxMdF5KZRSHD2U4Jcu+oSKEwXNTB+Ve21jNtlT0dGkl6Dfeoz3z3EkQH2R0OCV4ZAqdJTs0lkX+9V/QpjyR+2QMON+1oFpxcFVHD9Nr00bZ2uHAPImokQBoKUSRcejd8/qMp36/euWk2Q3K43AJiRfU80w/LU1Ci9KgfrPGCsKrgUjS6qT/0Vb56ADOJ1eLpUjQi2/gtidGxIhL5IQFYrlL2R5/AvaHMQvKpN7ZOoYYpW42AqQdPgWwQh5SgJPxG6BleVARvKTomSLJCIVSA0QUaGy8g8eEQRDds/LUgXBeT0pY73vILztB0f6KIV5X25BCugVNoW3T82ZuMjkATZcMFG2WDIec25M8/7H282dHyXDXcKtrK8KqEzxt+ik1oN3XvDv8o5Y8O6tfPekrMI="
+    },
+    "name": "Cake Slice of the Century",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "unstackable": true,
+    "description": "Taste of red velvet."
+  },
+  "recipes": []
+}

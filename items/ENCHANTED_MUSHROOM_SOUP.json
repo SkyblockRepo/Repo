@@ -1,0 +1,27 @@
+{
+  "internalId": "ENCHANTED_MUSHROOM_SOUP",
+  "name": "Enchanted Mushroom Soup",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 82000,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_MUSHROOM_SOUP",
+    "material": "MUSHROOM_SOUP",
+    "name": "Enchanted Mushroom Soup",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 82000
+  },
+  "recipes": []
+}

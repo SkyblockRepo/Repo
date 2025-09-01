@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_WHALE_ORCA",
+  "name": "OrcaBlue Whale",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to Blue\n&7Whale pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_WHALE_ORCA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTk5NDkwMzQ1MCwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDA4Y2E5YzAwY2VjZjQ5OTY4NTAzMGU4ZWYwYzIzMGEzMjkwODYxOWNlOWRjMTA2OTBiNjkxMTE1OTFmYWExIgogICAgfQogIH0KfQ==",
+      "signature": "WjAYOTTpnu29cWTEpd+JHpg+RP6FHQYIij4XzTIRnGlu1CfoDc3Dqvfv7b8thF2pn7t6Q3NT0aSvKuZBIN/8jJ1JjbjiZe6eLdk4BHGTAjR7/PNEzn+4SFeJt9QhGhOJIo3MYN8w8MFu0ES7U8d6IWxaDrz0VOo9FK52rV6rHwsYQVcjf6AT4O+lVfFSjVwEEusLSGISGBGWfq0LoW5YFakuG566dhvZNF2Wxk1OYTgwpRUmOE/1q/dZ3+na7+G3WpA+C1p6bbhKckJn5B5g20PlZCe83tTSnfzuprvu5sYNjM9Ed1Iu+ZXScof+Npxl40I+L1GzuXsjWgXHYZb8KhtWfGcGh/hGTHHL43LDJ0kj7F/yI+0a/mRwp5pQjNNivx0rUf5amCQkvCzo1cSTZbNRSIcHneRiQx5zWmC/byUk72kAZCwdivtjIJxi/m4n7FRSPtFNDiK1YTTeS9ioMvpLwduVYekleTTcI5UGp5Cayg/6SypEJPixX0H9bTWf/BwxLEI0ADj+F7XFfbLP4g32u071530XlDK+m3btFuRxh0polLDHDGtEDPLMo8Ju8FNTAcV4iiSE0VcpeDIi9FyDiAxixhPPQnjG557UTMW8mUzs+zbxBhkFFyDRjBPUB5LTxrtN/IN0rRXcnzaIhZNsEgFE4uE+KvfiV7quvWA="
+    },
+    "name": "OrcaBlue Whale",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

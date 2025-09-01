@@ -1,0 +1,90 @@
+{
+  "internalId": "TARANTULA_RING",
+  "name": "Tarantula Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Every &a10th &7melee hit on the same\n\n&7enemy deals &c+15% &7damage.\n\n\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TARANTULA_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczODMyNjM3MjU0NiwKICAicHJvZmlsZUlkIiA6ICJmNzM0MmExODMxZDA0ZDA5ODc4Y2ViOTVmOTUxYTllMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNMWtzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViNTIyMDI0YTk5MmQ2MGE1YThlODkxMTk0MWQxNDMwODJhMzA0ZTA1MTA3MzIxYjA5YjBiNTcwNGI4NWU4Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "FeYMzZcWw/pMYwo+8m4AZ+Py7e6TIpaA2RmEqt7OUO+alt0R0s34/M39GUicyV5uZTXjaNNsdprDTheRQKca5wlw2EovTmxj6dLVdnCSc64c2zwb7K29kVZO7KY/vjg973RuvsYDalXJZs3hCa3jK8E9b1BvkKKiic0KWm0RLmQ82EGJdIcU5YUa+gd/0gmJEqq8+ziBjXnlVBpeuUkNGIDmoZ1l8tYpIRa2W6qRH7fvn3OEnqPLwPvDVoDnQ0iBZgM7+CZ9tEBc+SZHd3AGoiJv9jfAso6iItZaAnFPkIBzQR6XBsZKyrFaDHU+11pc3cvTjMIRqA83vu+OKqDzP+O9cgIjSzFy+WVEvEACx6EG+dBZVtVLJQE3yKaRHg9X9igtKrQk48awYXfithlOAhkGd0hQ27oL1e/RS5Rnri3MBSeaxYvxBQl4036Q9yjsvrQIktoBa1SplXWlK3clX2CP3PT+AzuFZEVqPi9GQ8fbVMW0/CjgPKA/kaXlY3yKnZOPvJoLfffondOz3M1MgEqICtOV64Hhi9WZ0t6A38ULeRbYWjWULVCeaUxpuq8qnyMmt6hDYmYJ0aaUgG4Fv5mUq6iJV6A/0iryEZnRwa53cU99CAONoiiGQpmonWA+zSq76UJtPFGkFAJdiKbCFENsVPWewBlQoBcOyl/UHWI="
+    },
+    "name": "Tarantula Ring",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 75,
+        "essence_type": "SPIDER"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TARANTULA_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "TARANTULA_CATALYST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "SOUL_STRING",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "TARANTULA_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "DIGESTED_MOSQUITO",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

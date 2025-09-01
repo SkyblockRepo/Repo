@@ -1,0 +1,132 @@
+{
+  "internalId": "BOUQUET_OF_LIES",
+  "name": "Bouquet of Lies",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Gear Score: &d560 &8(616)\n&7Damage: &c+220 &8(+242)\n&7Strength: &c+300 &8(+330)\n&7Crit Damage: &c+50% &8(+55%)\n&7 &8[&8❁&8]\n\n&6Ability: Petal Barrage  &e&lRIGHT CLICK&r\n&7Fire a &cbarrage &7of &c3 &7roses that ricochets\n&7between enemies, hitting up to &a5 &7foes. For\n&7every &c10% &7of your health missing, your roses\n&7deal &c2% &7more damage.\n&7&8Health Cost: &c10%\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOUQUET_OF_LIES",
+    "material": "DOUBLE_PLANT",
+    "durability": 4,
+    "name": "Bouquet of Lies",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 6,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 220,
+      "STRENGTH": 300,
+      "CRITICAL_DAMAGE": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 800
+        }
+      ]
+    ],
+    "has_uuid": true,
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BOUQUET_OF_LIES",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FEL_ROSE",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "FEL_ROSE",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "FLOWER_OF_TRUTH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FEL_ROSE",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "FEL_ROSE",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

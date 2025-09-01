@@ -1,0 +1,31 @@
+{
+  "internalId": "LUCK_BOOSTER",
+  "name": "Luck Booster",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Booster\n&7&8Combinable in Anvil\n\n&7Applies the &bꆤ Luck &7booster when\n&7combined with Foraging Armor,\n&7Equipment, or Axes.\n\n&7Rare loot drops more often while on\n&7&2Foraging Islands&7.\n\n&f&lCOMMON BOOSTER&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LUCK_BOOSTER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjYzMjQwNywKICAicHJvZmlsZUlkIiA6ICI3MmY5MTdjNWQyNDU0OTk0YjlmYzQ1YjVhM2YyMjIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0X0d1eV9Jc19NZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMjA2MmQzYWQzZTdlMjg1MzhhMzEzOTRjYjg2MWJjOGRiZGE5ZGZkODQwYTc0OWMwNzZhYmQwY2RiN2Y4ZDQ4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "LdV6RKdNzuiY/MTtO/LJBc1RbIuEp1Dl68DUc95s3CVYRn7E8Dmpl3Q6usEBpFdKnGxdVxXq2d3Gh0BLGw5B1jPx9lr1+zHW3eVzBfjPKQ5cJRDAWOIND5oo7jmLTMNBMEEpR45lFmV7QkcvfKThaAxsoQF+I4jF1+/1Ui/PpaHyB0gafofXzFyi1Y96GGtRkL7Yvp7MTeH2c8IZnyY91QaQUdpUqUiMKW4XjWRwOvYvnVYxNWgYxkJlY9HcE9bBhuT7BfarQ80lNicYTyXfEOmJrnGYcmyu/cIvoeMSNDr2+iPwvvqUnFx2b2p2FwZcPLigIRO+d1oYaoibUIYkGf0RqSU3t2GepGHZWLq7O+B0MfD+2d5/bepB2A2+VpGnCGwcsWcs+H6erYr2HbbxCTo/DsFjQR41JLF8jpMldxIsHfGsjCcvFgbV8hGEbsiouOQYzKygUpvPdct8S2+skXDjXy0x2Z6ZvUcVxuvBS2t7Zq+xzrNoAfXvXAsCnI58iBZ2RvOjKtlXsny9/ydBAyxiVY0H8XF0VjiwvauJylayyMT+UlumsIYd0xy2+TwNWxWkRnuzrdF/fds3nfNRc+kWnku5SsNRYJQ6XvbP59d3uizlbQYwxqVAKNoCsQOtkYc+DYZ39Ie5wpVaQueI1fS/8ygDUp6bjPdcmZpo6d4="
+    },
+    "name": "Luck Booster",
+    "category": "BOOSTER",
+    "tier": "COMMON"
+  },
+  "recipes": []
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "KUUDRA_WASHING_MACHINE",
+  "name": "Kuudra Washing Machine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Combine in an anvil with any item to\n&7remove all attributes from the item.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KUUDRA_WASHING_MACHINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzQ2ODAzODI0NSwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jN2RlNjNkNDAxZjg1ZWVkOGE1ZTA4Y2ZhNmNiMjkwYzQwYjExYTdjNzJiNTc5YjJmMDZlOGJiNGE4YTdjMDk5IgogICAgfQogIH0KfQ==",
+      "signature": "gRia72Sg8gwh2EXsGf8+vR1tXwYFrnVO/hOfwFnYHPQOJo1t0ch1wLSGacQMDZ1tElW2kWrh3kAx9dpvRme+/8J+Oeg0/NSpkAS38V6hM0VJC0Ad9uyawSVhIMaFBxUZmSHC9GaCA4er6Qu/pAG4pGu1Bz0jz0WIlxj8UMBcluBhvVjYurreoHAn5Xdv/2nn/Az7eTfz+IVzczavuC6w0cYQYwx5OajXURpR6Kxi1W3/kB71EYG7G9KnsOXKnLiA0pBMyVbDtLGsXls7mUwgmjwOXwtat9r62GiWARwnt+gXBGr/KnCAekC3aUIsaFNxwOHS/Yn8GBwkgvBTtRCUOpw3v+ZtldTGoU640AjOiwM/wsH4PsAuEoJnEnb/Ciwu8a65DVGLLvlquzI2X8niVNf44gqWisZKJfpBhFwed0ErU1YFxG5UjLA0HUJ7N8Yc4qOnAvgUfPBnPDFxp5lAykgCKPboxp/7C5ILd4+L90jvdlclGaB14IWWEukbUmiDkDbKNHc8j9srwfLF4jK9r6O26IBVDfA3tZwRlt6H+b9Q1LJJX8bHKBsn+6BR+AVSxBAemSqDpg20xwvy3WtKMJ6SCHsUCv01zsS6MDn+ZpiFByKVuQHRH/2KHkF4nr79uG9eJhJFpsCZoO+pAkr1awuoCxAVj5GMH4ICxAx5ucU="
+    },
+    "name": "Kuudra Washing Machine",
+    "tier": "SPECIAL",
+    "unstackable": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

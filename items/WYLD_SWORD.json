@@ -1,0 +1,30 @@
+{
+  "internalId": "WYLD_SWORD",
+  "name": "Wyld Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+2\n\n&8Could become anything.\n&8It's a wyldcard!\n\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WYLD_SWORD",
+    "material": "WOOD_SWORD",
+    "name": "Wyld Sword",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "stats": {
+      "RIFT_DAMAGE": 2
+    },
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

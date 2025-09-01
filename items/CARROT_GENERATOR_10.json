@@ -1,0 +1,77 @@
+{
+  "internalId": "CARROT_GENERATOR_10",
+  "name": "Carrot Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting carrots.\n&7Requires dirt or soil nearby so\n&7carrots can be planted. Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARROT_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzM3MzExOTcsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkZjAzMTczMGYyZjZiZDhhYWViZmJjNmUxNjA3MjNkMjk0ZTAzY2M5NTQ1ZDk4ZDliZGI4NGNmZGY4NTMyNjYifX19",
+      "signature": "lDg063Eo3HkZqWBTdwC1M2koPqdTY2v5NbmURC2Km6UOChmoaiEFm9x6vy2TvswVXmFCtUHB+eMPv7XY+SdWzUhJPrcRNS65Zh7nvy7usscPduCuw3ZEvQhYGZMt9baS+SbfgHuOZyyXOG8tVeFEdfYqQlauE1a5mXDzQhDEPzDD0yciF9ZmxguWElo5RFDw7x54QigkF6e7IcjSZA33/wzmn96Yw+NauOdfx4OE06mGfE7/MBe7BtplzHCVBZ6bS5J+7kVHVhZw8AOOxAbKC/UdSdbINb1funXE+8KINxNYF55w1qDvt6CByuNAiW3gX73kIBygq/RSO7r1SFMPgXsOH67sn6O9R/uS3jkB+EdbPRTpyJxb/JjoavIPkqKl82S5drSupx91AVEsrIevpE/BBW9gqKK4dkRwE/KWXzwSV7sJtgjFfuEXjQO5p+Mv0zP/AO17WSjFKhVGhSEs99m0tByBAC6vfbgNvYQFmVXgAEnPmFMWL5e7eIV4Q/J9qLDGvQN0DQA8Doiszo+3Wh1JDXte9q7zzBzZIFdxSAIBl/Ms+Q7EIqDEEa4rat2FyY9HLhnKcZ0UvggxKiWePcIMlzgrfgkVg/kwpl7Rzl3XXRapU9hdx3DhVt9XPEPePZc65zO0eQd1ySiuC2qgg1iVeQ1xMIgIaoow5BckIfA="
+    },
+    "name": "Carrot Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "CARROT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CARROT_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CARROT_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

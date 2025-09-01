@@ -1,0 +1,122 @@
+{
+  "internalId": "CRYPT_DREADLORD_SWORD",
+  "name": "Dreadlord Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7Gear Score: &d118 &8(129)\n&7Damage: &c+52 &8(+57.2)\n&7Strength: &c+23 &8(+25.3)\n&7Intelligence: &a+85 &8(+93.5)\n\n&6Ability: Dreadlord  &e&lRIGHT CLICK&r\n&7Shoot a skull that deals &a500&7 damage.\n&8Mana Cost: &340\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 3&c.\n&9&lRARE DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYPT_DREADLORD_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Dreadlord Sword",
+    "category": "SWORD",
+    "tier": "RARE",
+    "npc_sell_price": 200,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 3,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ]
+    ],
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        52,
+        56,
+        60,
+        65,
+        70,
+        75,
+        80,
+        86,
+        93,
+        100
+      ],
+      "STRENGTH": [
+        23,
+        25,
+        27,
+        29,
+        31,
+        34,
+        36,
+        39,
+        42,
+        45
+      ],
+      "INTELLIGENCE": [
+        85,
+        92,
+        100,
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180
+      ],
+      "WEAPON_ABILITY_DAMAGE": [
+        500
+      ]
+    },
+    "rarity_salvageable": true,
+    "ability_damage_scaling": 0.3
+  },
+  "recipes": []
+}

@@ -1,0 +1,177 @@
+{
+  "internalId": "PRIMORDIAL_HELMET",
+  "name": "Primordial Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "\n&7Crit Damage: &c+10%\n\n&7Health: &a+120\n\n&7Defense: &a+100\n\n&7Intelligence: &a+100\n\n &8[&8⚔&8]\n\n\n\n&8Tiered Bonus: Octodexterity (0/4)\n\n&7Every 3rd strike, deal &c+50% ❁\n\n&cDamage &7and apply &2Venom&7 reducing\n\n&7healing by &210% &7for &a4 &7seconds.\n\n\n\n&6Piece Bonus: Spider Bulwark\n\n&7Kill Spiders to accumulate defense\n\n&7against them.\n\n&7Piece Bonus: &a+0❈\n\n&7Next Upgrade: &a+20❈ &8(&a0&7/&c50&8)\n\n\n\n&4This item is Arachnal Ж!\n\n\n\n&6Extra Bonus: &aRadioactive\n\n&7Grants &9+1.5☠ Crit Damage &7per &c10❁\n\n&cStrength&7. &8(Max 1,000❁ Strength)\n\n\n\n&7&8This item can be reforged!\n\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRIMORDIAL_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTc4OTMxMjY2NCwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwN2NlZmEyMDAyODg3OGVmNTI5ZDZiOTIwOGQyODEyMDEwZDA4NmY5NjFiOTY0YzMyOGYwOWIzZjY1NzNkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "Zb+J1qBTa0dvBswJtckqeKNm2myHbP6pF1iOyrBRNDkUKAjZUkHubj1SXCNggiGVQ6i4K6inARYdMF5ycYh+ogRnuUEMARuPcdRwfE9+oPEv7D97WMLz6dWYle9PjkOV25E+IgMsJi8J/P4uLUnRiN+ectTGV8v3wBY+pgA7QdKNvp8tzAvkRawndO/1LJxgpQ0tH5XfQTMTUWioE0tLnfzPstd5bP2FvfHnIEiRlCJ09Mcdf0M214ISP1FTRLF5bMA6Y05ojKMQjfrp40gNrW7MXLhGhube66P7C3vS4sOqA6CsLtUqPzB0SbymmcfKevFl5JOFtgdCVRC9JQQlSjY0VDRCLNWJHHDcYyLIY9aOqGldK8VeycM7TZhuh+P3Vp6IdAL+IzEuSsWLIIMbZ60Evxu2DfBOpD01DgTOlrent5jn0q/JEcDzdN0PfAFZQ5h2ixp76erK5u+I0vPOxvtjz9rCi4OG5yb0el5QC5Dp/RNZ9B9YnOaWj+s2moD63i9cWLMZvKwj85h+EbrhRbwSynO9P6OMcWERXFBEUdp0CU+od4DnDUwgVdCtuYjzSrLqI8Uc8W6lnnw/kUREUrvrpvO3oVSUW0G1XDY/i3sTztqBq7gcSzkplbRLKp5AQ5R7cjh9+6gt1Bp0LZDpxa6s1SiRG2R/nZ3/rE48VLQ="
+    },
+    "name": "Primordial Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 5
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PRIMORDIAL": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 120,
+      "DEFENSE": 100,
+      "INTELLIGENCE": 100,
+      "CRITICAL_DAMAGE": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 125
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 16
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRIMORDIAL_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TARANTULA_CATALYST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "TARANTULA_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

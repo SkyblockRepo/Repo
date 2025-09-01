@@ -1,0 +1,119 @@
+{
+  "internalId": "HARDENED_DIAMOND_LEGGINGS",
+  "name": "Hardened Diamond Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4480,
+  "lore": "&7Defense: &a+95\n\n&7&8This item can be reforged!\n&9&lRARE LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HARDENED_DIAMOND_LEGGINGS",
+    "material": "DIAMOND_LEGGINGS",
+    "name": "Hardened Diamond Leggings",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "npc_sell_price": 4480,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "HARDENED_DIAMOND": "MINERAL"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "HARDENED_DIAMOND": 3
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DEFENSE": 95
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DIAMOND",
+      "amount": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 25
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HARDENED_DIAMOND_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "internalId": "PRISMARINE_BOW",
+  "name": "Prismarine Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 120,
+  "lore": "&7Damage: &c+50\n&7Strength: &c+25\n\n&6Ability: Arrow Infusion  &e&lON SHOOT&r\n&7Consumes &aPrismarine Shards&7 in your\n&7&eInventory&7 or &aQuiver&7 which can harm\n&7sea creatures and deal &a+300%&7\n&7damage to &9Squids&7, &9Guardians &7and\n&7&9Elder Guardians&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRISMARINE_BOW",
+    "material": "BOW",
+    "name": "Prismarine Bow",
+    "category": "BOW",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 120,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "STRENGTH": 25
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "PRISMARINE_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRISMARINE_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

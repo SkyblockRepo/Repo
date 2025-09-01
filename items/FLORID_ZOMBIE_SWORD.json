@@ -1,0 +1,127 @@
+{
+  "internalId": "FLORID_ZOMBIE_SWORD",
+  "name": "Florid Zombie Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+150\n&7Strength: &c+80\n&7Intelligence: &a+100\n&7 &8[&7✎&8] &8[&8❤&8]\n\n&6Ability: Instant Heal  &e&lRIGHT CLICK&r\n&7Heal for &c168 &7+ &c5%❤ &7and heal players within &a8\n&a&7blocks for &c56❤&7.\n&8Mana Cost: &370\n&8Charges: &e5 &8/ &a15s\n\n&7Gain &a+2 &7extra max charges when you\n&7play as a &aHealer &7in Dungeons.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLORID_ZOMBIE_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Florid Zombie Sword",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      },
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 20000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 10
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 150,
+      "STRENGTH": 80,
+      "INTELLIGENCE": 100
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 90
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLORID_ZOMBIE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "HEALING_TISSUE",
+          "quantity": 12
+        },
+        "5": {
+          "itemId": "HEALING_TISSUE",
+          "quantity": 12
+        },
+        "8": {
+          "itemId": "ORNATE_ZOMBIE_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

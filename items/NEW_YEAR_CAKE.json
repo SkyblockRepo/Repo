@@ -1,0 +1,29 @@
+{
+  "internalId": "NEW_YEAR_CAKE",
+  "name": "New Year Cake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Given to every player as a\n&7celebration for the 0th SkyBlock\n&7year!\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NEW_YEAR_CAKE",
+    "material": "CAKE",
+    "name": "New Year Cake",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "npc_sell_price": 100,
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

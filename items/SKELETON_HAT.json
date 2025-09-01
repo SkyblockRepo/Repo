@@ -1,0 +1,120 @@
+{
+  "internalId": "SKELETON_HAT",
+  "name": "Skeleton Hat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&7Speed: &a+2\n&7Intelligence: &a+10\n\n&7Your arrows have a &a20% &7chance to\n&7explode on impact dealing &a50 &7base\n&7Magic Damage to enemies within &a8\n&a&7blocks.\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_HAT",
+    "material": "SKULL_ITEM",
+    "name": "Skeleton Hat",
+    "category": "HELMET",
+    "npc_sell_price": 8,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "WALK_SPEED": 2,
+      "INTELLIGENCE": 10,
+      "WEAPON_ABILITY_DAMAGE": 50
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SKELETON_HAT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

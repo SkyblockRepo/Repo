@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_OPAL_GEM",
+  "name": "Flawed Opal Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of &fOpal&7, but\n&7it could still use some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&f❂ True Defense&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWED_OPAL_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk4MzkyNCwKICAicHJvZmlsZUlkIiA6ICI4YjA2ZmU5ZGNjNjg0NDNmYWNmM2QzODA0NWNkNTMyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXN0aWVsY3ZyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhZGMzYmNkZDdjNzAxYjYzZjhiOGI0YTk2ZTQyOTMxNmEwODM4ODY2OWQ5YTk4YzFhOTg3OTE3MjliOTYxZGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "N8hqI/l5uYHoMsjhKNv5Fo7JPOIZ8q89Q+FaRUH4i7oBltRwf1fprOUJurQvRKV6oRiEw9ef/RBb90s1iq/QVuL9vz39gwVUfihO6X8HgknrrbJJ0o5vGKZeBSTxlS3Z+ElLSP9xhcyyGjbKcJbPSG8BCr9zU4XLVKL0YQqWcELdEeKqRKytYslym9L4hkssqGM3/7GiG7kUay8LNXJuvfDLBrC1JkKLrfZc9ZZYUfaHQ/WuZjCwv3ksKwtitRbEXUSiIFf5lhEiRNuEXzvK56asDxGLLjkRIb+VLD8JWR2Sf1fYiEswP6e+mqVh2NfK+OWE/sGxtRD0elEdH369Ion6bT5uGKt5ztPu+u8YQ2yN0T85HZ+AjjLCzfDxz5IgQAZtKUuHErzOhzPSdU2tkWSOp7FBbioLuTqd4ZGbTT2HsWd7YB61+7O+3/GYV/RsQEU0ntf8j9kXAgZ8NtOW2li0O7kSxwUf/pRWBLMqdb8InFdZ7P0+dqzVa+U+HH3UYwk6TcQgxFq4C0q9dYSgQ7gSAuGpWQSA3B7wuPulQhkVgWe8MGEXe2Z9kxOC2bplpb3Ng5an1fqVxeCobaBnsza6tb+Vwfi9tq96BWTyZkLMKzPu83GiswVFsL+cM4bmyl/k1Ty4ZbVYDk6jAM6jh/iSZy9VVR8fZ5R1/c5PFqI="
+    },
+    "name": "Flawed Opal Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_OPAL_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_OPAL_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_OPAL_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "internalId": "REAPER_SCYTHE",
+  "name": "Reaper Scythe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+333\n&7Speed: &a+10\n\n&6Ability: Raise Souls  &e&lRIGHT CLICK&r\n&7Monsters you kill using this item will drop their\n&7soul. You can click on their souls on the\n&7ground using this item to absorb them and\n&7then spawn them to fight by your side.\n&7\n&7Mana cost is based on the power of the\n&7monsters that you summon. Shift right-click to\n&7view and remove souls from this item. If your\n&7summoned monster dies the soul will be\n&7removed.\n&8Cooldown: &a1s\n\n&7Max Souls: &d3\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Zombie Slayer 7&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REAPER_SCYTHE",
+    "material": "DIAMOND_HOE",
+    "name": "Reaper Scythe",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 333,
+      "WALK_SPEED": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 200
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 600
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 20
+      }
+    ],
+    "sword_type": "SCYTHE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REAPER_SCYTHE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SCYTHE_BLADE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

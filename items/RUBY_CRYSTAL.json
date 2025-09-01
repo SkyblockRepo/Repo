@@ -1,0 +1,31 @@
+{
+  "internalId": "RUBY_CRYSTAL",
+  "name": "Ruby Crystal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Exquisite crystal found deep in the\n&7&bGlacite Mineshafts&7 and &5Crystal\n&5Hollows.\n\n&7&7Some say that it can be infused with\n&7&dgemstones&7, &eunlock treasure&7, and\n&7hold the secrets to a time long past&7.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUBY_CRYSTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTQ2MzkzNTc3NSwKICAicHJvZmlsZUlkIiA6ICIwYTUzMDU0MTM4YWI0YjIyOTVhMGNlZmJiMGU4MmFkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQX0hpc2lybyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMWRiZTMwYjAyN2FjYmNlYjYxMjU2M2JkODc3Y2Q3ZWJiNzE5ZWE2ZWQxMzk5MDI3ZGNlZTU4YmI5MDQ5ZDRhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "hR6inNrC15fBlQk1kVdovNoA+LdliyM4NhcVtXmT2cuu8DqQIElEv+zzXta9XGuwnGAEnWnFIe3WvboU27y66E2AebNYk2lL9xbpNjjAaON0QJFP761J0MiQy6WezKZktL4Cl4Y3mIFVHjCUT51QHJHyOiKonNB2zlCZHuek9KmCqX3kB+QhFi82px9SUOaBwZwFzhDlQ0Z6xEmGnuUmUHKOmygiVSIknul2jv/UVgaK0ISAHb2O9SzPegvgphJgxJnQyai3EhokGh3ZG2QiMFyc8c42e0lDL17BW01KSLtGtOD01eDldIYksK+5i2YE58Z461TCaEaqDHVo3m0QFeuPiNExnrMk8YvQcHT9wOEZPbwVrnP77cK4AwpCdF69F0frLS4lfi5EqIAMEDWcJ3fGSkqTdLwaaZsnBQsrELKGIrgbEy0Hz19zjiCCzHxV42hznX8njDsyHSX1zhSLR9LZWLqWpQGsFydQahRNmtiAc4zKLCaQCgSkkg/uRqCt26wsBTvzJ0nsj3jefghOjzJ9yFy9nMdVxHp9enE4q9GqPR83SHgU1ONrZwemCT05r/7H9DmnhudCMHvRJYDS3duYYuXhzNYVyIqDC6G1pCswScxAgktqJtwpLvDDCsLYzh48L0WiHG75i6zv67V1JmRa/LK8BbQZdbemPgBvNUg="
+    },
+    "name": "Ruby Crystal",
+    "tier": "SPECIAL",
+    "museum": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,131 @@
+{
+  "internalId": "SILENT_DEATH",
+  "name": "Silent Death",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20000,
+  "lore": "&7Gear Score: &d165 &8(178)\n&7Damage: &c+85 &8(+93.5)\n&7Strength: &c+31 &8(+34.1)\n&7Crit Chance: &c+1% &8(+1%)\n&7Crit Damage: &c+9% &8(+9.9%)\n\n&6Ability: Shadowstep  &e&lRIGHT CLICK&r\n&7Teleport behind the enemy you are looking at,\n&7gaining &c+25❁ Strength&7 for &a10&7 seconds. Max\n&7range of 20 blocks. Cooldown resets on kills.\n&8Cooldown: &a60s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 20&c.\n&9&lRARE DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILENT_DEATH",
+    "material": "IRON_SWORD",
+    "name": "Silent Death",
+    "category": "SWORD",
+    "tier": "RARE",
+    "npc_sell_price": 20000,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 20,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        85,
+        92,
+        100,
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180
+      ],
+      "STRENGTH": [
+        31,
+        34,
+        37,
+        40,
+        44,
+        48,
+        52,
+        56,
+        61,
+        67
+      ],
+      "CRITICAL_CHANCE": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "CRITICAL_DAMAGE": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        20
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

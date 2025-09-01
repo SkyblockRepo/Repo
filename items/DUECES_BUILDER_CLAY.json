@@ -1,0 +1,29 @@
+{
+  "internalId": "DUECES_BUILDER_CLAY",
+  "name": "The Builder's Clay",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7''A block that was used to build the''\n&7''world around you.''\n\n&7To: Unknown\n&7From: Unknown\n\n&8Edition #0\n&8December 1969\n\n&7&8This item can be reforged!\n&c&lSPECIAL HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUECES_BUILDER_CLAY",
+    "material": "STAINED_CLAY",
+    "durability": 14,
+    "name": "The Builder's Clay",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

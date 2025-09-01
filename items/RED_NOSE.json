@@ -1,0 +1,32 @@
+{
+  "internalId": "RED_NOSE",
+  "name": "Red Nose",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Ridiculous &7reforge when\n&7combined with a helmet&7.\n\n&7&8''Bonzo never wears it in the''\n&8''presence of other Necromancers.''\n\n&9Ridiculous &7(&6Legendary&7):\n&7Health: &a+35\n&7Defense: &a+35\n&7Crit Chance: &c+5%\n\n&9Ridiculous Bonus\n&7Fart when you sneak. Reduces your\n&7&9☣ Crit Chance &7by &c20% &7for &a20s &7but\n&7grants &a+30 &a❈ Defense &7for &a5s &7and\n&7&b+50 &7mana. Requires at least &c20% &9☣\n&9Crit Chance &7to activate.\n\n&7Requires &aMining Skill Level XVII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_NOSE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MzYxMTA5MzQ5MSwKICAicHJvZmlsZUlkIiA6ICJlNzkzYjJjYTdhMmY0MTI2YTA5ODA5MmQ3Yzk5NDE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfSG9zdGVyX01hbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Yjc0OTBiNzY5YzkwYjI5YzRkMDgzNzE1YTc1MmEwNTU4NzhjYzE5NTQzNDUxYWMzODdmODhmNzQ5MzQ1OTA2IgogICAgfQogIH0KfQ==",
+      "signature": "IEzUOA7bj+JWg3TF8b2l9xCN0szkwsbuDiLqmTP7+29J+i8DiHrY8Ux9Kk6ljgc087k4yFdypwukdjYF1IX1TypLeyUfabhrfpAZ0D1FoMgLVKVsTTsCLA2DByx8cuowEGgR7+k0lXcR3qfz7sr0h2eSTDGAdgjfMme93sasfYK1J0/b9AQ6J/A6GMbJr/HLncCTn7uzaeqrNiivtYr8WxU0vccPZDcYrXBJr9nwjkskkBYNzXL+UMG6a3/KO0xD6Ml8AF1gc91h7Ew2OTVmWKL7tEmi72PfM7oQt9ObdyxkREBEeifmSojMQ88t3bqiCoOxY6eNBydbH23RWysBW1yAyg5opAOdzPwT6s4NfUTQdGaz8b9G05b7nZUzaGWSc4ROU8aE4yzXg7mJXsLFOyF9NSXi8ySltFWKmFS0Eei+TNPdn01gXtSfbYFSPeRrj/P1k7UVzGi7xbLKVj1EYH8T1qM4wAdLt4jiNi3fWLwbWEGc8bf5gV9oEOnu5yLRinkm2gcsgTrLIfyzL+UeKPemWpgekpOiKAQOAU1g9fRDDv07WCzzRXwM8Hu+q0oCJi79K5DLZ5o/e+fIAKFe4+6QuWf/xNRWUHqLVrpVrrXaZffeauJn9br/glglAd4bDqZJOjj4Om0r1qyMswX3JE3T2K25tjAe++rVkbCTAVQ="
+    },
+    "name": "Red Nose",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

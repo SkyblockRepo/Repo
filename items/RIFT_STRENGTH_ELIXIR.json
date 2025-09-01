@@ -1,0 +1,32 @@
+{
+  "internalId": "RIFT_STRENGTH_ELIXIR",
+  "name": "Strength Elixir",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &cStrength &7(10:00)&7, granting\n&7&5+3❁ Rift Damage&7.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RIFT_STRENGTH_ELIXIR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTIxMzMyMDY3NSwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEwMGM1M2NmNTdjYWNjN2Y1ZThlM2ZlODRiMmY1ZGIxMjJjZDc2ZmNlZDc4MGE5NTNiOTk2MzlmYjMxOTg4MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "YLUanv/izO4SbujNtExqeFVFk6sl9uOLQL8i0JH9wbHY35bmR7W+8C5Ixg4TOFrY5ZYRBXS86brVJNFtSSD13vSTpxxwTRFLLOM4Wy/AH898BYD2lRs3hBFiijlYyjtOKtOn8RXhxhafELmNK6mb0SlEtS/mgV47CydtkzBC6vPuuvYLVrpDk0S3gNqlxF1ip0DDCcs6SPIrfhOI2y3OXtX6fQpTgDisex1g3CtpPt1l0CsHZcM5jdkqTTzlijA1zGmI0a6d6TyeWG/ZUa4jruSWTYBXXSiI0zJhdds0zAeRZa8Be+0ZGI32i9yLITqSQL7kyuZjclikziLQOA4J2ukuIQ/exuMvwyVGCeBNWXuUQ9MMixdv2KMJPtRrTn81daUU4fhksIdTWWO8U+Sj1gapTdvH92m5CNm7gcWTvmXWMSQmcwd5rMkEJ/RbAMsFBDY4SHaGZ7bjYZjwgz98Xj4SkmAcbHNDL8NBJemdoyKuv5Odvit4xkC5R8kyRt6H8m7sZAl7E1EBM4+CmEBPkjVILNvPZLOyIuvYXpSjdmpt2NwHTml/SAgPebk8yT2FVVbuw2628jzA6rSf05FSM1QWl3vAWn/V831hmV8KazIwLVFAQYRa2Q1Mh4Hk0TLGNE6pvcMq7jpfcc9LvNMBb/laFNULy633LrzQHSUGo9A="
+    },
+    "name": "Strength Elixir",
+    "tier": "RARE",
+    "unstackable": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

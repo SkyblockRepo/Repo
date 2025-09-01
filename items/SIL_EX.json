@@ -1,0 +1,72 @@
+{
+  "internalId": "SIL_EX",
+  "name": "Silex",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7When applied to a pickaxe or a drill,\n&7increases its &9Efficiency &7level by &a1&7!\n&8Can be applied up to Efficiency X.\n&8Requires Efficiency V!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SIL_EX",
+    "material": "FLINT",
+    "name": "Silex",
+    "tier": "EPIC",
+    "glowing": true,
+    "has_uuid": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SIL_EX",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

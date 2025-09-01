@@ -1,0 +1,56 @@
+{
+  "internalId": "ENCHANTED_COOKIE",
+  "name": "Enchanted Cookie",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 61500,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_COOKIE",
+    "material": "COOKIE",
+    "name": "Enchanted Cookie",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 61500
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_COOKIE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "WHEAT",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

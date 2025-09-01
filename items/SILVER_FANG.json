@@ -1,0 +1,85 @@
+{
+  "internalId": "SILVER_FANG",
+  "name": "Silver Fang",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Damage: &c+100\n\n&7&8This item can be reforged!\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILVER_FANG",
+    "material": "GHAST_TEAR",
+    "name": "Silver Fang",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 2000,
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SILVER_FANG",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "8": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SILVER_FANG",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "2": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

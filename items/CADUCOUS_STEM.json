@@ -1,0 +1,28 @@
+{
+  "internalId": "CADUCOUS_STEM",
+  "name": "Caducous Stem",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7The color and shape of flowers are\n&7a precise record of what bees find\n&7attractive.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CADUCOUS_STEM",
+    "material": "DOUBLE_PLANT",
+    "durability": 4,
+    "name": "Caducous Stem",
+    "tier": "COMMON",
+    "origin": "RIFT",
+    "description": "The color and shape of flowers are a precise record of what bees find attractive."
+  },
+  "recipes": []
+}

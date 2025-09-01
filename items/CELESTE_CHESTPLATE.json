@@ -1,0 +1,49 @@
+{
+  "internalId": "CELESTE_CHESTPLATE",
+  "name": "Celeste Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4000,
+  "lore": "&7Health: &a+20\n&7Defense: &a+20\n&7Intelligence: &a+60\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CELESTE_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "255,142,222",
+    "name": "Celeste Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 4000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CELESTE": 1
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 20,
+      "INTELLIGENCE": 60
+    }
+  },
+  "recipes": []
+}

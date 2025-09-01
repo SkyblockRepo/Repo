@@ -1,0 +1,30 @@
+{
+  "internalId": "FOOD_TROUGH",
+  "name": "Food Trough",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7This purely cosmetic item looks great\n&7as part of an animal farm.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FOOD_TROUGH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDc2NjUyNjkxMSwKICAicHJvZmlsZUlkIiA6ICIxZjEyNTNhYTVkYTQ0ZjU5YWU1YWI1NmFhZjRlNTYxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNaUt5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc4MDE4NmI3ZTExNDJlNWZjNjQwNjExZDY3ODg0MjhiNjZhMmViMGVlOTRkODIwMjY4YTEzMmFkMmNiNzY5YTkiCiAgICB9CiAgfQp9",
+      "signature": "aiLmoqEaRLMHI8SCjanBJ9JolpH2agvxej6yHEcd3Fapon5IWHLZhYXf/rzW3WK5f91P/gc5a774VzK1aI5eTjSqiUd8Qk8LG86pBWSukja0L7M14RygvEe4IRkANtS5bUdGLZnxIbjFVqyhlLgipv/CnbFIJ8RgLkFgG6SuzioOaSRYpr2gagy0+T2Cnwq43sqUOvhtlenWBuXeGZGL+fOcQ4Qc3XFuSaWMqoebOCk+ZULz/sugrbAZL6K/i5YXQCKbIOlxHtFehBRYrDP+RCuditQpshhiF+1+M63N5m5TnzvE5lVD/ifjPuy1exCGSoCM3/R1izHg2bgI7U3Dy03Wds1mNgT6vU9mrWbzsAiKoqvHTKIbvAeJ03dbRs2O+Vp6ohNLWrEYUZ25CgbMlgU9zbM54omjZoXWXrfcwtdQY+vSES862gsevB1qvy2xZmLcC2V9gqoUa7/2MJAmECCijGsU1BH60LpL0Pg+LrB4+e1BumOQIyocGgPyF8X9POA0U+dpy9p59d0HjzUZPGM6j3KfHUdDDNaB6kuMBZcPhkI3JopH0Ht+F3RKefCQQBFkhZC7l+aTNNIbNV11o8bwz8fQmrXGMajAMHtxTSIK4xL27ZVri+p4YuBCkWXqBUXgggq0vyFXZD6LClGD8LTOeyH3aNtF4TtjzZoLsJw="
+    },
+    "name": "Food Trough",
+    "furniture": "FOOD_TROUGH"
+  },
+  "recipes": []
+}

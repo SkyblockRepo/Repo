@@ -1,0 +1,79 @@
+{
+  "internalId": "DRACONIC_ARTIFACT",
+  "name": "Draconic Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+3\n\n&7&7Increases damage dealt to &5Dragons\n&5&7by &a5%&7.\n\n&7&8''Created from ripping The End of its''\n&8''fauna.''\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRACONIC_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyODYzMDI4NzY5MywKICAicHJvZmlsZUlkIiA6ICJkYmNlZjMyZjI5ZDc0Y2UzOTUzOWMwYjBhMTE1YjZiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYW1waXJlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhZDdkY2JlOTM0MDFiM2QzYjRlNTIyMmVmODA5N2FlZjQ0MzFmNDgwNjRkMGEwNTMxZmEwOTUyYzIxMWUwZTYiCiAgICB9CiAgfQp9",
+      "signature": "Ap5XQrda6qFDRbDwrmGJynYr1pgwUdkRk252q/0REDyDOWjYH5Zs1OxCI4hCJ/vbwGjVOdADm/DusV7wA4+m8lF9d1FmRPUfrzNipAlKJmtDcGMkHxU19Dlb3SbVk3wBmfTfDYNUAanlyPKvJznfECQqATgsBjKUIdE7aD1W7jPV1rU+EdnkhaUuRypgcsUNaCC+x6ZYg2eZm1UnYAeQ2gKQm6hCml1oM01SoTc0VoJaa0vl2DkMpQYlKow89U65K4rwFW8fLcvVRKKTuJfWG9f20yn0oq8mJzqwIpWQKDvGOB8oRrtHnzIpFKloXE1SvGiTGiF+z3gLTXcxU8CNntgpX2dARl6J7cbh1qww5OTr9OF294lInk35GUq9KfgrmKB02G/W7axquzBHn0bGnZ/tmhG0M0osAKTMKY8lpDs2FBfuFR4yVfdRI3I85DAnzuWPBFUSMHDTazxwMPW9yQ9I9L/sqrN6QLhXVRmPXBV2GC01oBUcX5CDyq7EBLKetMIOyNgCHL4Mcx/KqQvnhH1aSGMXAbYPzI2e2/TwHZQ1iSO9KglPfTa47OXFRqfPpz6aTeFO71tzon9RUZPu8WYYhmz9HZspeYwZLifH9XdmlnjQaAdH+Uwro8NKlRscojaz+iHseU85ZdBI91sHXpe8S1rDt0R0oac9KGC+5Sw="
+    },
+    "name": "Draconic Artifact",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "stats": {
+      "health": 3
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DRACONIC_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "TESSELLATED_ENDER_PEARL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "MITE_GEL",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "DRACONIC_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MITE_GEL",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "TESSELLATED_ENDER_PEARL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

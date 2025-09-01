@@ -1,0 +1,86 @@
+{
+  "internalId": "LAPIS_PICKAXE",
+  "name": "Lapis Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 256,
+  "lore": "&8Breaking Power 4\n\n&7Damage: &c+20\n&7Mining Speed: &a+200\n\n&7&7Grants a &a25% &7chance to gain double\n&7experience when mining ores.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAPIS_PICKAXE",
+    "material": "DIAMOND_PICKAXE",
+    "name": "Lapis Pickaxe",
+    "category": "PICKAXE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 256,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "DAMAGE": 20,
+      "MINING_SPEED": 200,
+      "BREAKING_POWER": 4
+    },
+    "item_specific": {
+      "bonus_experience_chance": 25
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LAPIS_PICKAXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "IRON_PICKAXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "INK_SACK:4",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

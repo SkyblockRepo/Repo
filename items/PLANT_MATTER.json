@@ -1,0 +1,27 @@
+{
+  "internalId": "PLANT_MATTER",
+  "name": "Plant Matter",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Can be spread across a &aGarden &7plot\n&7with a &aSprayonator&7 or used in &2Pest\n&2Traps&7.\n\n&7Attracts: &6Locust&7, &6Slug\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PLANT_MATTER",
+    "material": "LEAVES",
+    "durability": 3,
+    "name": "Plant Matter",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 100
+  },
+  "recipes": []
+}

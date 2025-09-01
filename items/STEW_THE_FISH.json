@@ -1,0 +1,27 @@
+{
+  "internalId": "STEW_THE_FISH",
+  "name": "Stew the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7The stew was expired.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STEW_THE_FISH",
+    "material": "RAW_FISH",
+    "name": "Stew the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

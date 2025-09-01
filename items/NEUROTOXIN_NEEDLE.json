@@ -1,0 +1,25 @@
+{
+  "internalId": "NEUROTOXIN_NEEDLE",
+  "name": "Neurotoxin Needle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NEUROTOXIN_NEEDLE",
+    "material": "LEVER",
+    "name": "Neurotoxin Needle",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

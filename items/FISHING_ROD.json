@@ -1,0 +1,33 @@
+{
+  "internalId": "FISHING_ROD",
+  "name": "Fishing Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&7Damage: &c+15\n&7Strength: &c+15\n&7Sea Creature Chance: &c+1%\n&7Fishing Speed: &a+5\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&f&lCOMMON FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FISHING_ROD",
+    "material": "FISHING_ROD",
+    "name": "Fishing Rod",
+    "category": "FISHING_ROD",
+    "npc_sell_price": 2,
+    "stats": {
+      "damage": 15,
+      "strength": 15,
+      "fishing_speed": 5,
+      "sea_creature_chance": 1
+    },
+    "motes_sell_price": 105
+  },
+  "recipes": []
+}

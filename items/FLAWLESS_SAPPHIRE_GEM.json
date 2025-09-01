@@ -1,0 +1,87 @@
+{
+  "internalId": "FLAWLESS_SAPPHIRE_GEM",
+  "name": "Flawless Sapphire Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7A near perfect version of &bSapphire&7.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&b✎ Intelligence&7.\n\n&5&lEPIC GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWLESS_SAPPHIRE_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjIzMjc2OSwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NTdjZmE5Yzc1YmE1ODQ2NDVlZTJhZjZkOTg2N2Q3NjdkZGVhNDY2N2NkZmM3MmRjMTA2MWRkMTk3NWNhN2QwIgogICAgfQogIH0KfQ==",
+      "signature": "lPIMK4rRsOlNZX0Ac0Hc5bna32u7P5INVmSypNbgJcGw/J6VnnGSBVjHubSwxg83mLPaT9dZtprL4O2dk9AR0X39qqIzcKVKQnLm7g+1wYpQklbdv9iK3ZWkepwDdY3aSn5uSNhlZyfroZTPD0/z8S9ftUEOkhHXmFdzp70fvPwRPwYA1XpUVqhPiOuZDaMfanteHeWsjleJtwKkq1+idPaN18f341hxdyytu1hHi8GRErDJqnQFZqVsdw0Pnvk6AVEQ4/gW5TC8EYpJvDiNc2yIzWA8ALCNh/ngr/AbY+wf5j3Xu3jMUJz9tSdG0aQKuNpSRXrDDTR+o1ZqrvJY6DqPWL8NxfoWGXJjgpc16HRjk29SAJSN83Kxq++0gQW93X+J5pqtYhLzWqos9chpSHjALC2KNeM8MUS3HVEg7EwuxUKR1I6KjpE4be87z9H7uevQIgF3rRzYQpb3iK4hPRivk6lgqxjLWV0GLqTSsJ774yE5juzcfmS4eHpz71SJFVhouwzopJWfoTLR/aUvunPd76IV6rYb/xbWd5G438FcOs1Icd4l/esveWmkDqPvc3CqNgTYF1lLuVUN7SNJ6Uga9AGwLIw9puqLxJ52IN3niwEeBfgod27ehZCtFZ1YynIN+zPdJwFfS5vkYP6LSby+SJvF7HnOxewGoqXO2TE="
+    },
+    "name": "Flawless Sapphire Gemstone",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWLESS_SAPPHIRE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWLESS_SAPPHIRE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_SAPPHIRE_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

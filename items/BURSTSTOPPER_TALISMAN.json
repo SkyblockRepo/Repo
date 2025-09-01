@@ -1,0 +1,87 @@
+{
+  "internalId": "BURSTSTOPPER_TALISMAN",
+  "name": "Burststopper Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+1\n&7True Defense: &a+2\n\n&7If an incoming hit would deal at least\n&7&c50% &7of your &c❤&7, multiply its damage\n&7by &a0.95&7.\n\n&7&4☠ &cRequires &5Blaze Slayer 3&c.\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BURSTSTOPPER_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjA4NDI0MywKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI2OGFkMWEzYWMyNDQ0ZDdiZGRjMjJlZWZlY2Q1ZDYxYjRkMzI2ODcxMTc5MTE5YzUyYTc3NDBiNGQ4M2NjNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "cp/KWhOK/JgttcAozgASGg782fHRB2fUOnHz/AodGz7QBTt3Ixk2YOGKy7a20w+BY9fyrfRrGeMiskdopi+y+dqVKFTav3lYOtQm1suuQa5pe9+c2i6/UdFOqP5rQPdnVdlijmvyOQkOFm8jyDkumD5cb88ajv6t4gCS7eGM3LSelnoedxaYQsfz09LVd5Qm/aeq/1bEFiJ0sr4lS3X6XZIbFVfXn+4saPuqYXiugZnOmbmf/EvWvzR8qHWC8opvqfCjt3zUwnDaPJYVNv7FDZtOz28vHeN7IzUJ7UDnORHkbVPBidkYllLqKkcpuiJ/LBrU3uGJJ7YerHMG5yhka4Urhr2UwjFQ+nES8OW1iMxkfCwq5muh+Uh7l2GkdMTKtVuBrDgJTiDfYUrsw+KV5bU/2/HNO0+dZlFdLuC7ZRgwcekv8Sid9b0o0zA9OnhBzGoIxCDZ4zv6W7RWqJM/IyuNDaCDyvvj939FufSC+8zg0ZelRdOhnv7XqaMmTRRG/RzyMeg25qOI2aXMkgdOuXhW2YP7xq8Nanbg24snWXTE+HLvwfDEdFAmiNEUAcuoBBfWY0NQOSU4pjoPh2bE50rlnjz50JGuOSGJAcnnauSy1teJhjLeDPzN+2W9eEvfRlU2nbKHTEX1weWsoJQZhGkMuQKFbzgIOvh8iaaXtnI="
+    },
+    "name": "Burststopper Talisman",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 3,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "stats": {
+      "STRENGTH": 1,
+      "TRUE_DEFENSE": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BURSTSTOPPER_TALISMAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 6
+        },
+        "6": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

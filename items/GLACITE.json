@@ -1,0 +1,26 @@
+{
+  "internalId": "GLACITE",
+  "name": "Glacite",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&7&8Collection Item\n\n&7''An unnatural, nigh-unbreakable''\n&7''material. Of those unlucky few who''\n&7''have discovered where it originates,''\n&7''none have lived to tell the tale.''\n\n&f&lCOMMON DWARVEN METAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLACITE",
+    "material": "PACKED_ICE",
+    "name": "Glacite",
+    "npc_sell_price": 12,
+    "description": "An unnatural, nigh-unbreakable material. Of those unlucky few who have discovered where it originates, none have lived to tell the tale."
+  },
+  "recipes": []
+}

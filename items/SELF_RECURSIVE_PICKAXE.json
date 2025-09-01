@@ -1,0 +1,91 @@
+{
+  "internalId": "SELF_RECURSIVE_PICKAXE",
+  "name": "Self-Recursive Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+5\n\n&7Allows you to break living metal ore\n&7and, potentially, living metal faces.\n\n&7Regens &b4 Mana &7on hit.\n\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SELF_RECURSIVE_PICKAXE",
+    "material": "DIAMOND_PICKAXE",
+    "name": "Self-Recursive Pickaxe",
+    "category": "SWORD",
+    "tier": "RARE",
+    "stats": {
+      "rift_damage": 5
+    },
+    "item_specific": {
+      "mana_refund": 4
+    },
+    "origin": "RIFT",
+    "motes_sell_price": 25
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SELF_RECURSIVE_PICKAXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULLIFIED_METAL",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "NULLIFIED_METAL",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "NULLIFIED_METAL",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 24
+        },
+        "8": {
+          "itemId": "TACTICIAN_MURDER_WEAPON",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SELF_RECURSIVE_PICKAXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULLIFIED_METAL",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "NULLIFIED_METAL",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "NULLIFIED_METAL",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 24
+        },
+        "8": {
+          "itemId": "LEECH_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

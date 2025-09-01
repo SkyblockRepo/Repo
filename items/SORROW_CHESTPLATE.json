@@ -1,0 +1,163 @@
+{
+  "internalId": "SORROW_CHESTPLATE",
+  "name": "Sorrow Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 120000,
+  "lore": "&7Magic Find: &a+5\n&7True Defense: &a+80\n&7Mining Speed: &a+50\n&7Mining Fortune: &a+20\n&7 &8[&7⸕&8] &8[&8☘&8] &8[&8❂&8]\n\n&62-Piece Set Bonus: Mist Aura\n&7Hides the wearer in a guise of mist,\n&7multiplying damage from ghosts by\n&7&c0.6x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SORROW_CHESTPLATE",
+    "material": "CHAINMAIL_CHESTPLATE",
+    "name": "Sorrow Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 120000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMBER",
+        "costs": []
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JADE_GEM",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "slot_type": "UNIVERSAL",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JADE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMBER_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_TOPAZ_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "ONE_OF",
+        "lore_index": 1,
+        "requirements": [
+          {
+            "type": "PROFILE_TYPE",
+            "profile_type": "ISLAND"
+          },
+          {
+            "tier": 5,
+            "type": "HEART_OF_THE_MOUNTAIN"
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SORROW": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "MAGIC_FIND": 5,
+      "MINING_SPEED": 50,
+      "TRUE_DEFENSE": 80,
+      "MINING_FORTUNE": 20
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SORROW_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "SORROW",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

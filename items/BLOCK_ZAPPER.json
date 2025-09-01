@@ -1,0 +1,27 @@
+{
+  "internalId": "BLOCK_ZAPPER",
+  "name": "Block Zapper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "\n&6Ability: Grand... Zapper?  &e&lRIGHT CLICK&r\n&7Right-Click a block to zap all\n&7connected blocks of the same type.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLOCK_ZAPPER",
+    "material": "FLINT",
+    "name": "Block Zapper",
+    "tier": "EPIC",
+    "unstackable": true,
+    "glowing": true
+  },
+  "recipes": []
+}

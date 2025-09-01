@@ -1,0 +1,32 @@
+{
+  "internalId": "UNIQUE_RUNE",
+  "name": "Rune",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UNIQUE_RUNE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0Mzg4Nzg3MCwKICAicHJvZmlsZUlkIiA6ICI3MmY5MTdjNWQyNDU0OTk0YjlmYzQ1YjVhM2YyMjIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0X0d1eV9Jc19NZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yM2E3OTZkNzFlZWIyZGE3MmVjZGViZGU2ZjliZThiNzJiMTg1M2FhYTJmODgzMmIzYjk3MGQzZmU0ZmYwNzU1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "f/s7vb+tw2Pv/k8G+F5FWBR+y5mLxcY/cHT3dn3MZDWlkHuru5Jyg5lDYCWhfRmyaoq0kcola3eWejsIiAxMBhMRe8hBP1DN9WaR+tmVt0+E20Htwhu4eq0VyvnGWe50shsAw2jh4MM36+stQOdUUNbeK6JQbaL4igc3oSZQuJ16wr33qdkCg6y8LHz6ERVGmB81sDiwodbasuyLDOHnf/wT2JKPlv4fJCAfeCi+q0nT7iSK7Rjn6OedYjjEQZdgxj4CV3F+9R8MDOH+Z2OPlXSFFeGYAESkrHBn67DNn/ErmMzsqLL5/9mtgGOkkO6LbmzlbsojnnXEfndpRgRd0cbHGAesSD8Cbwt//ZpMnyMbqr0odb7r0PV+3kGoi+I8izQyytnXiv0j5TqJ6m0POa1X3QTxITRjumH0Zk+tfl3EZ16sZEaoK0Guo7O/ffoDgCFFwADvpzSlKaBUqHo1PRfXPn4YUdHUgkQdRSxrU/qJmNRX4xczCgd/zZ4NtH6ysxOSpno79ncMcU0loJgJDhQmV5yH0DKBMqcRg6EZzhzRR2adkD1jZ837SGnLXZNQPJKzaOpvw9G2y9RyxKFJboOF81++UjOdP93altZAhDEkJXfLFgeVXqddrbsqb18x0JKMi19dxvm68C6ckXffoYI2H2HRf/DcrXQJu+5L5ms="
+    },
+    "name": "Rune",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON",
+    "has_uuid": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "VINYL_EARTHWORM_ENSEMBLE",
+  "name": "Earthworm Ensemble Vinyl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "&7Place in a &6Chirping Stereo &7to play\n&7funky tunes for &2Pests&7.\n\n&7When playing, this vinyl attracts\n&7&2Earthworm Pests&7.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VINYL_EARTHWORM_ENSEMBLE",
+    "material": "RECORD_6",
+    "name": "Earthworm Ensemble Vinyl",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50000,
+    "has_uuid": true
+  },
+  "recipes": []
+}

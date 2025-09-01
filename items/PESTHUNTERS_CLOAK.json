@@ -1,0 +1,47 @@
+{
+  "internalId": "PESTHUNTERS_CLOAK",
+  "name": "Pesthunter's Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Bonus Pest Chance: &a+5%\n\n&7Decreases the spawn cooldown of\n&7&2Pests &7by &a10%&7.\n\n&8Tiered Bonus: Eradicator (0/4)\n&7Grants &6+0☘ Farming Fortune &7when\n&7vacuuming up &2Pests\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 5&c.\n&9&lRARE CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PESTHUNTERS_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczNDUyOTIyODcwMiwKICAicHJvZmlsZUlkIiA6ICJjYmNkNDQzZGE1NTI0OGU3ODM3NWNmZjYwMmQzZWI0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPX1JlaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jN2QyYTM1NmZhOGYxODdhZjBiNjRmMTQwMTVjNGEzMTY2MDU0OWE1OWRiOGRiMWYwMTRlY2ViZjhiNWNiYjc0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "i3TWthdkXrnCmrR6ybiR5+oiccAfeiMNGclCEIGmLOD034M051+BeYkNgVeG7XYsRxWxJP7atiKOydZOp6uDKilkoyesxWyzl4fPK1Nw9r7kePG53SpIFhlfx8taik9iqIrPq0nd+tplLJp2Sro/yJ3PXE0xNFS/zNTfnRMFc13Og6QRLuFiXFfbWRe8sJSrUHejpNpZETXzv+WnrRRQzz91FHrAzwnivmOC62RVv0ImqdA7lHLaaTbqSJexl0dDZd9zmmDlxMAwXkmJfcGi7d8fWP4JrZTcHV/uSnpFWL9lKBz+sR9hcAq58VtOrF7bWNqkmojWZPEplf4uzKwheoNeH7/iqGtquXRSS6v9TLrrPz5qIVmKVwVXMmTxyHyHcm1bPhDjmFqkagy/L+qNhqxmdJ3KiGEsPOjbQDy9fUnvlN+LqARO0baPoDFjqn533/U/oIVw7Jh9T3rCA1gN26me50gDwVn51FcplFGyU19n79MoAyyUmrBvREGbUFvK9DWmCaS3nvVSgOyztccEd+2FySqa4rJx/bL5a3oQsO6MS6VNlfn05xQWx2YqUUei+fv7a4kys1Vqmtfn/UOCEpw9fvDAit+C+qHca5ZKITZ9VlOVAOHNnGpe3LlewIL6+ePkx9M+kEihtF5KVbUgxaa9GsJe9keNwU8mjoWJ+9I="
+    },
+    "name": "Pesthunter's Cloak",
+    "category": "CLOAK",
+    "tier": "RARE",
+    "npc_sell_price": 5000,
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "bonus_pest_chance": 5
+    }
+  },
+  "recipes": []
+}

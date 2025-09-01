@@ -1,0 +1,25 @@
+{
+  "internalId": "FLINT",
+  "name": "Flint",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLINT",
+    "material": "FLINT",
+    "name": "Flint",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

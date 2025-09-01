@@ -1,0 +1,58 @@
+{
+  "internalId": "SNAKE_IN_A_BOOT",
+  "name": "Snake-in-a-Boot",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+60s\n&7Speed: &a+7\n\n&7You've got a friend in me.\n\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNAKE_IN_A_BOOT",
+    "material": "LEATHER_BOOTS",
+    "color": "26,0,76",
+    "name": "Snake-in-a-Boot",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "stats": {
+      "RIFT_TIME": 60,
+      "rift_walk_speed": 7
+    },
+    "origin": "RIFT",
+    "description": "You've got a friend in me."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SNAKE_IN_A_BOOT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "METAL_HEART",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "METAL_HEART",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "METAL_HEART",
+          "quantity": 5
+        },
+        "9": {
+          "itemId": "EXCEEDINGLY_COMFY_SNEAKERS",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

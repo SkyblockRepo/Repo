@@ -1,0 +1,33 @@
+{
+  "internalId": "TACTICIAN_MURDER_WEAPON",
+  "name": "Tactician's Murder Weapon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+4\n\n&7Regens &b4 Mana &7on hit.\n\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TACTICIAN_MURDER_WEAPON",
+    "material": "STONE_SWORD",
+    "name": "Tactician's Murder Weapon",
+    "category": "SWORD",
+    "tier": "RARE",
+    "stats": {
+      "RIFT_DAMAGE": 4
+    },
+    "item_specific": {
+      "mana_refund": 4
+    },
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

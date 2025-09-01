@@ -1,0 +1,127 @@
+{
+  "internalId": "WEREWOLF_LEGGINGS",
+  "name": "Werewolf Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Defense: &a+200\n&7Intelligence: &a+50\n&7Ferocity: &a+10\n\n&6Full Set Bonus: Regenerative Howl &7(0/4)\n&7Upon activating &c⫽ Ferocity &7heal\n&7players within &925 &7blocks for &91% &7of\n&7your &a❈ Defense &7and gain &a50❈\n&aDefense &7for 5s (up to 10 stacks).\n\n&7&8This item can be reforged!\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WEREWOLF_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "29,17,5",
+    "name": "Werewolf Leggings",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 20,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "WEREWOLF": 7
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "DEFENSE": 200,
+      "FEROCITY": 10,
+      "INTELLIGENCE": 50
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 750
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 450
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 750
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 900
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WEREWOLF_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WEREWOLF_SKIN",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "WEREWOLF_SKIN",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "WEREWOLF_SKIN",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "WEREWOLF_SKIN",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "WEREWOLF_SKIN",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "WEREWOLF_SKIN",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "WEREWOLF_SKIN",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "BIOFUEL",
+  "name": "Biofuel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&8Machine Fuel\n\n&7&7Adds &2+3,000♢ Fuel &7to a refuelable\n&7machine.\n\n&7&7''100% renewable energy!''\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIOFUEL",
+    "material": "INK_SACK",
+    "durability": 2,
+    "name": "Biofuel",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 10000,
+    "description": "%%dark_gray%%%%italic%%100% renewable energy!"
+  },
+  "recipes": []
+}

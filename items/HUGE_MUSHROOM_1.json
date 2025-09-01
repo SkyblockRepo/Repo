@@ -1,0 +1,70 @@
+{
+  "internalId": "HUGE_MUSHROOM_1",
+  "name": "Brown Mushroom Block",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HUGE_MUSHROOM_1",
+    "material": "HUGE_MUSHROOM_1",
+    "name": "Brown Mushroom Block",
+    "npc_sell_price": 10
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HUGE_MUSHROOM_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

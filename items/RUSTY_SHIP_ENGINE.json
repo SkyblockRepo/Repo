@@ -1,0 +1,32 @@
+{
+  "internalId": "RUSTY_SHIP_ENGINE",
+  "name": "Rusty Ship Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Quest Item\n\n&7Bring this item to &6Captain Baha &7in the\n&7&bFisherman's Hut&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUSTY_SHIP_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDMyMTg4MDgzNywKICAicHJvZmlsZUlkIiA6ICIyZmI1ZGJhYTY2NTA0OGEyYjZhYzU5YWE2Nzk5MDYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFnbG9uZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTNlODQ3OTM5MTdjODkwZjdmOGEyYzQwNzhhMjllOGJhOTM5NzkwNDk4NzI3YWY5MzQyYzJiNmY2YWM0M2M5YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "qxG9yNcNOvDR5dRVRL7d08k8SYXmcGkgpSE7DS3wGdWvMpGNmJmiXubkdmYVuz4kW8h9jVoJzVfyow0kmETfRwY5Jy8yUsLIPzPq+4/Z5LYNbSXqGkxLtWayJVcz7riIHQuxkm/AKEA8xVikAxm8m0SvFq+rrZhYT6KhLZ13RWCqQyVuMtiGl6N0kS7xoRYUDJvzB1//whP7T9Er/M18P3k4YBZNgL+WCxE6N4rbDDAX6ctsB2s52OPpd5rgKNCjj9lR2qlxogFj0mAU5j0gavVBnD3xOLF5SQ7xhDve0BtYbg06Re7A3HZnuCl2w328KlES2IEWsvE3hEXky9vz4qRq4//DksyYGMTYvod8PT96SzVzK6W90+Wp0RSL5OnAsZYex8906FKcoyp20OPsJOhzDlNKaNOzkk1ai4TU2HVd8Hfu/FBDbGwd8Gts0esye9Br8btJk3gDXcnF2RdoJHSZb0i13Nl4Jgzrj77/DPxxRFBv5l13FcxMguA6sdeVZ+RZcPM698vjwu1Qdq7UDekKvnpWw1EITHs/hgp/vru2ByscGenoH3xvs5YYH2MWKWnX7VipKO4s5wZX4kHEj9wQwQNs2QJKSri3pT1Np6SH89xUjXcdGoB3cqMtO9Ko/YvF/qd4pxMzqd3FKpqx4+GNSRByU2VuFRXPo94FNv8="
+    },
+    "name": "Rusty Ship Engine",
+    "tier": "SPECIAL",
+    "unstackable": true,
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

@@ -1,0 +1,48 @@
+{
+  "internalId": "LIGHT_BAIT",
+  "name": "Light Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 16,
+  "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Increases your chance to catch\n&7rare Sea Creatures during the day.\n\n&f&lCOMMON BAIT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIGHT_BAIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzMxNzI4MDYxMiwKICAicHJvZmlsZUlkIiA6ICI5NTE3OTkxNjljYzE0MGY1OGM2MmRjOGZmZTU3NjBiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTNiY2MxNmY0MDIzNDJiNGFjZDI5YWVjYWM3MmQxZDVhMTE2ZTBhYmI0NzhiYjQ5NjBlNzM0ZmQ3MDY4NmJhIgogICAgfQogIH0KfQ==",
+      "signature": "h5FqSybOkrFP6Tfua+s8QYvv6N7zpvBfbal6AZxTccbNxFTAq6aXE1mEztUlBq2zLsAkno6xAizQdL9LNhFXMRXd2ovwSNIbWDLb4IxqTrWhaOo86iaZAjZD5yrG3oVnNATbeDnwUBWVLM6VTZRtxWRPTsTqHe1PjIgqAFbRQRfgDlM3Nv1CX319J2uPeL8EIm25V27FNxhVpiYvS/gTn/Kpjx98CmL4dXc896zSM1sUP8eWo+LmXa9hH1+QdwMzP3e+7wQQlpTnx7n1iCK/RMjFeiLr0GDAxKD4jtZ1H19igrC3h385XUHyImWK2igiuZ1k3C8Y94yYXUTk8P5S/lX0m2hsDzmws/klqBTsa4p3SgyqP/6GJ8unzbfU70iFC3m1r1qWYeXgmWQyGQw6oNZn5KTSnfC3ZPvrIzgQcgvtqDV4p38ljDLtWursbRyaFjjXv+nzRKIfS7PNoQpzs2LWYmoBe7U5ckY3vlZJfSFNcWaz9DwpUEQ8VgVMakkTfsWNIR0YuRUCCMA5zuU+jlcMEuiDkAlv5GMB5bXeI515DiGoiadDW2zUw9mvkoLiyFTTPLCsEUUUUakU9yc8iFWoWKw19cbdaSYdborJVcQH6RsyptT3JPStfNWSUwpbjS3JyegIni4Bv+TFFLigIgsRI+KIra7sKz2jp3V2om0="
+    },
+    "name": "Light Bait",
+    "category": "BAIT",
+    "npc_sell_price": 16
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LIGHT_BAIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

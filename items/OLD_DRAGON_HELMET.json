@@ -1,0 +1,178 @@
+{
+  "internalId": "OLD_DRAGON_HELMET",
+  "name": "Old Dragon Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Health: &a+90\n&7Defense: &a+110\n&7 &8[&8☤&8]\n\n&6Full Set Bonus: Old Blood &7(0/4)\n&7Increases the strength of &9Growth&7,\n&7&9Protection&7, &9Feather Falling&7, &9Sugar\n&9Rush&7, and &9True Protection&7 while worn.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OLD_DRAGON_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MDI1NzEzMiwKICAicHJvZmlsZUlkIiA6ICI5ZTA5YzM4ZGUzZTY0MDA2OTAwYzAwZTJiOTQ3ZTQwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4RFRPTUFTX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyNGM0ZGE2YWIyN2U5YzkzZmJmNDllYTFiMWZlZmFlZmJlMmQ0YzBjOGIyMjJlMmZmNmIxODE3OWZiNWFkZGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "W5fByd7YNmjKRVxjHgdzM8A8NSX0sCBewzuqobQ/U3NW3zzrCBAi1F5zVeZhRKv33g2yK6zeS26X8a6UXorr4XRsKANtefOPbWCsmpFq8Jq4vzijl9Xxpe6mp14LtoZWwQJFdNYUFZL1e92IEkhN5/k0zCIU8yaLn/RgtvoHf/XvQzMVjcva7brjj7C7wZIkK+DYCvTUgoNcmVpVwi4y7axBAqllr3A272LGX1QeJa/PJI+pK/1Txk1Xrrnm412nDT+UQLeTfR8i17VUXYRubc1r51pTlT6zLEtRajqpLuwDp2lvru1Mdzq2BxltFSSvjTXVFBhXodtJIEalPqlHa8pAlqVmcibETxkZ7t1UtTS91R0PdNUvQwbGOUio9jVCBgXQXOi8eR22XGovUEQ5jnoSYd6OpHYOwejmprFGR4OpguKSUVNuKH3tFutE49ErdR86bsOWagsG9seaHPAhC4OsaYTTHM3AMg2DPSPtp10FABYCAjcfkJpFp9HnEvCb3PWBd14JZ39kkTGBzpbl8+uZW/NeIBRxAKkWYMFyCDAXBYamNpmsVtr2KrWrk+NZjpWGm+LidtzAOekslparpuPMfbxq7QcCbAXfz1CkiimQpVt0OZskzF2fDeGrpfGnU9E23JMoF+AugUuefOjK/t7uvlBN4SUlqUMu1YZJFlo="
+    },
+    "name": "Old Dragon Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "DEFENSIVE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 10
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 10
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "OLD_DRAGON": 10
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 90,
+      "DEFENSE": 110
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 150
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 10
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OLD_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "OLD_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "OLD_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

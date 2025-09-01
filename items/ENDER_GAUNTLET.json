@@ -1,0 +1,44 @@
+{
+  "internalId": "ENDER_GAUNTLET",
+  "name": "Ender Gauntlet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Health: &a+15\n&7Defense: &a+10\n\n&7All stats on this piece of equipment\n&7are multiplied by &52x &7while on the End\n&7Island!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 12&c.\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC GLOVES&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDER_GAUNTLET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzgyMzQ3NCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmI4ODEzZmJkOGEwNDlkMGU0MmE3Nzk5ZjhkYjY5ZGZlZDljZGQ0NGU3MzUwY2FlZWM1ZjAyM2M3MTUxYzJmIgogICAgfQogIH0KfQ==",
+      "signature": "RWFqag3M/zjtaU+d4uoGPVbEFx0duGQdKukUZncUiSsB7ey3gJfYYGlQPbRCJqTAtQvYnAiQDa3lqe/qQ6DG6urM7KhtWdbE2Zqg9iwfCS4prBHnIQ0Bdc1TYja9XXhnGXtAzXi6QsrzYYWPEpT0oJgVReBLu7THoIm5fQr+qtxNFfpK5/26QjngRXlh7d8qMd7snBx/xsYAIAVCqTAsxz87UMdULKfug5umEGvKrNJDdnO3kdUMNoExyHWbSUaVxMcWsZ5/beXzgxeX+7FgYgiDayk24YTlA+f98+DGINlOuSk+pFd1icdE70bNO+nfgV/GTjoS4TkHSuPQUFTBAttmo+bUtyp3Ns4OzEq1kR9KNSUgoxjPsHpuhCetFk9sjjawBFis9fmfY4alPIGQdJ9zVZ3OCtRKzRvsGoL23fHfu1nP5cWxpas2I1dywa/EU3V8x93OotmxkEt5HxHWn/Q6OXgyb9Ize9NEhAwSCuxy76bmtlnYLkAjv2KPTlM5tXyMOHz8UXcmLUKdnJbmJ04XtLCmS9J8rYGmbf6WwXqtU9ugIOgCmQZ4UEy1F2pskKUDElPdCn1fpJEF3Ra2Hk2sASNIA6jZZeWDZZBS1/oJj2bFayPZq6j8Ge1/q8ZByOEpzYMP3Xmak1OOVYQN7gUDjr5X/+Av2VtexrUTTns="
+    },
+    "name": "Ender Gauntlet",
+    "category": "GLOVES",
+    "tier": "EPIC",
+    "npc_sell_price": 10000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 12
+      }
+    ],
+    "stats": {
+      "HEALTH": 15,
+      "DEFENSE": 10
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

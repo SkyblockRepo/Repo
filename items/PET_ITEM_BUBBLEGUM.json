@@ -1,0 +1,32 @@
+{
+  "internalId": "PET_ITEM_BUBBLEGUM",
+  "name": "Bubblegum",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Your pet fuses its power with placed\n&7&9Deployables &7to give them &a2x &7duration.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&9&lRARE PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_BUBBLEGUM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMzA3NDI5ODE3OSwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMDU1ODRjNTM5NGViOTBmZjVmYmQxYjI1OTA5MzcxMjU4YjE1MjZlNmE0N2Y3MjQ1NWEzZjg0ZGQ3NjAzYThjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "VGbloSziA2w/ODq3QtbELYaGxehFrUvu26/EctIIVjP0+Vj5VcdxZojY4J+vM0HHcGVNVFsjsiRc5qnnv0ThKjo9JC5k/366Jd/QhrVjF83LSVZSD0muUcKUycTkG38VQBa1GnL9oUXhiK5CLEY7R3Q56KvOs0oPbgSSv6j9EjPs6bDLRFDpDiff+FkrB00AE0DupwkPLcMsK3xF84qc2v2bKySDCaiwxmyLvXaLwfM5oNBRJ7J2HLZ2Ag47+TDAPpZPAI0vcEsYSKNwLcKH9QEizKfErJ+oXxl5NHCyehgmgaJkjvqgSJDlG7vBDUGFr2/ryYzF94TpYHRdONUWIvNKaIXG5cUANPkHO1xoR5U7HsuQWIxdYkprvvPVI3DHy1MgVPtHjfDehLTgKUDg970d0DHDFjSz7Hso3ijurFivMDya7FO2walFkKjuYqVF1+nOyxKM4N/yQf0nCeqy4/aX4Wku/nqFPGgSkKpyyJTFVDceU0ij8r3l2IlzmPAzuE62QXQ6pnVSFng6R5UCiMDLXVHgVpgnsm++aPXvI8Jyr5nFb9LUEAY7Y47PCbMhevdXLyXdXQwauTvtYQQbEWW1/OHA21H9ktR13a1fmSZMrgmSoGgEixB2vyWqLc61rsoFaOjJHk82HL9ct8hU4yDGWsDSJ/cWOXmLvf1lYRU="
+    },
+    "name": "Bubblegum",
+    "category": "PET_ITEM",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": []
+}

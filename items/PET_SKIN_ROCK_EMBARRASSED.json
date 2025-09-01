@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_ROCK_EMBARRASSED",
+  "name": "EmbarrassedRock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to Rock\n&7pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&9&lRARE COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_ROCK_EMBARRASSED",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDc3NjA3ODc5NSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI3ZmYzNDk5MmU2NjU5OWU4NTI5MDA4YmUzZmI1NzdjYjBhYjU0NTI5NDI1M2UyNWEwY2M5ODhlNDE2Yzg0OSIKICAgIH0KICB9Cn0=",
+      "signature": "nGAaXrfGNwIzqnvgZp1eOA8pkjVFdqTKxJYPgYewrSS171bpVtqVcqImNdlRfNmh2/iI5Qr5q4scHcal0EOu6UZW1XVqO7e+iGWanUsxLAH40xkeXmI3hohSjqKdUlDyV7D7oM3hTsy0Bh4GntpG/k6AVR30UwbgR8syg9Fwr+9Mq7Bw2QYtWU14qwYEoTXtIQPUmtlAxG50zAEGZ9DpdPZaSH50yl36kQuz8xTD9MAVujro4n2AAy8hweigI46WYw1RzHPNpC1NBjCrDbRVi0mqqBpMZ1Nb2nUb6Wi2Pe6JYFOvbwD+7TD0XeCY7LxQtL+m21o0lq3+VmuKwroEg8oDGxbIVwunkmuvy7b/xDq4RBJEj+aAuzU7dhEVvK2EYV8yHBkguKzo13OXCfbx1gR+KJbmK5OReRLUxnyZNxz1j8/1gmbSv3e4GMsqnYBaReYEzdCBoXuwnSe+QCnvLH9zJ8Lo6G+twcn3OSDuGbfnHYDyuLPCMuiKTP/sY9ZsdVwR8hQake6waMUgxGwwlyZEngAc9TU/KzgGtRaPwpBJMrQFXvHYzbv6ILuRvOv/i2v4T4Oy6SroF4LTvR0a2sEPE8sNBss28gDlBNqvarRaKcfan2iozTGAk59Az+ufWaQ/VbO+HuCflo+GXCcSim1ib6x5j/h+6sWpuj42kO8="
+    },
+    "name": "EmbarrassedRock",
+    "category": "COSMETIC",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

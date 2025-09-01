@@ -1,0 +1,88 @@
+{
+  "internalId": "POLISHED_PUMPKIN",
+  "name": "Polished Pumpkin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 256000,
+  "lore": "&7&8Collection Item\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POLISHED_PUMPKIN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODcwMzE3NzQ0MiwKICAicHJvZmlsZUlkIiA6ICJmN2QxOWQxNTZhY2I0NDE2OGQ4YTAxYThkNWYwMmEyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVGbG9vZDQyNEsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWFiYTAxNTI0OTUxYWRkMjFmYjUzZWZmODllOTk3NjU3NThhOWIyYjY1YTk3YzBlYmJhY2IzYWY1ZTA2MjQwZSIKICAgIH0KICB9Cn0=",
+      "signature": "adjpU4SnCKw/cOCbn5PjBuZqPIqBo5hisIdBDpaMHK88DCliWtPDlx4yYZIBIDw4G5lgrDoAFJlFbA8uVDrbIjUhDAfr2jYiIkH1E43kjSpI15YjfXOR3EIWJmvn4KeOZlJmwviKfGqPleb87Ofc2vF8AUF2Y0lwUep8DEQfhhkiE3DZsJpQiLNEpd0AWXqiUGkL7g8JYSG+5RD2Wpc+Y7sVvyGbyR+xvZOEUDJHoaYBw+w73ueLl6fQ9cY74UGS2RbYUg16/gRQJZ3G6+ynCf18Lk4Zu0T1UM5N6D5a13KiWGBgaLpqOsixLdHN6D0MTnvHTyUL2V8PI5Sc/h0iW2H3quD26eL0F4pnTQEreVk+XG/2iyTJPVOCZhyzQj8ao1N403w3PDUj8NEmt2rOEhjBepzSzOPjIy1dW2IccJIVPTgESasw9CMTtuJULmvr8iuqtbL3xfUjYU9i4n0G/PEg/Az3GNSkUsz4craq9of8L9EyvEZ6XqUE/Rfq74j5m8Xpt+oyd0t2jwKzEqlzrhNPXA9g+yEApyW+t2CUb+hTRBnLEJuU2Zp+eI7dDRvbVDDApY8WukR7xjBU15dzShTm3HpFZQ8tjFSpfquayuZfsNnV4HWtiXm48a57MsWs3D6BWtZjL8qNrOzs4PgnReFZ07MUb4OdTHlLTKROJXQ="
+    },
+    "name": "Polished Pumpkin",
+    "tier": "RARE",
+    "npc_sell_price": 256000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "POLISHED_PUMPKIN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "POLISHED_PUMPKIN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

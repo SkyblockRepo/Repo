@@ -1,0 +1,26 @@
+{
+  "internalId": "INFINI_TORCH",
+  "name": "InfiniTorch™",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Places a torch for &62 coins&7.\n\n&eRight-Click a block to use!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFINI_TORCH",
+    "material": "TORCH",
+    "name": "InfiniTorch™",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": []
+}

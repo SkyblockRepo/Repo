@@ -1,0 +1,44 @@
+{
+  "internalId": "DRAGONTAIL_PORTAL",
+  "name": "Portal to Dragontail",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to\n&7&b&2Dragontail&7 for you to use whenever\n&7you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRAGONTAIL_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzOTUxMjYxNzc5MywKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM2MzBkOWIwMjA4OGVhMTkyNGE4NzIyNDJhYmM3NWI2MjYyYzJhY2E5MmFlY2Y4NzE0YTU3YTQxZWVhMGI5ZCIKICAgIH0KICB9Cn0=",
+      "signature": "F+3BgMFh+rXLhACHazMhLM679l1DirIBgWLdQ27U4vuqQ8AuDGy0gpnJBjiDc3axGav8l9LDE5slznTcgcysIOnRrG9DLS6ksgaKCBQDdJT9BRJW0k1w/7lwIaDu6iw+h6xsYJ/kNBb4UVh3GpNQLuyqiDDdunIt3kupTVuVQBSfLls90GCDs8NxuyBN022gTWH6aBE7c/GgTgMMoNsXxJA9PylkCVlicx6dKTtv2r+rYiAvsr6msbU1/J0sA0w4FaLp+sthZTmHwJpGAX1ZIvieBcGzcM/EHdX0emj0x2dXe5H9EkkpVTu/F9tMwfdOxiWwvsSPdJQdR9MumMipBbN8OOWIjtCXmI2kyPiJeJcjDwOhVDhAB7q3XDXLmp/7V3wIRC/kYTgVUjUUV4+Jh0TdX8KaFdCOds4GcmRSXprPk4iDWSYX44hZMwkZEU+WIn+MQL6U024QwM9RPKQTK+3YwRM2S8sL1yDTBNvEVqTq0XjklzyXnGkW4KCe6pwkj6UigG4KDcEHJEvPeeAvBp+QXPIkmpWtHTHabXeWKxpZdIfA0OeSwU4QvmhgQoHcUiRRGd3gKdoCUrEKlvgEe+SYijGO10uv6QAzUQc6rzcvhzkU5Jp6MW8jhOaqzacE+RL7s4URcFwYAzlIUbiaEjGyBteHi0JrZ6EdOoXfPyk="
+    },
+    "name": "Portal to Dragontail",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "NEW",
+        "holo_name": "Dragontail",
+        "location_tag": "dragontail",
+        "schematic_file": "sb_portal_dragontail",
+        "description_name": "%%dark_green%%Dragontail",
+        "destination_mode": "crimson_isle",
+        "skill_requirement": {
+          "level": 22,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": []
+}

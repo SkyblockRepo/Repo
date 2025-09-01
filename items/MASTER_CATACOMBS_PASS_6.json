@@ -1,0 +1,32 @@
+{
+  "internalId": "MASTER_CATACOMBS_PASS_6",
+  "name": "Master Catacombs Pass VI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MASTER_CATACOMBS_PASS_6",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDczNDE2NiwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5NjlmNmIxNDg2NDhhYThkMDI3MjI4YTUyZmI1YTNjYTFlZTg0ZGM3NmU0Nzg1MWYxNGRiMDI5YTczMGE4YTMiCiAgICB9CiAgfQp9",
+      "signature": "j9+kDxqkEEQZKduj4MR+HDD3nLbQm7fZbKEGOVfy/yb8tz5mISOngqZg8ZMivwRlKhQ0AmzxTijaibzw8B3PRhjxda7ug1tgAd2UWluCp42o2LHklPXuv3FpbLKnql83QvTRnhyHDXa1DiQpR53ahVBRn85Qt7q8AYb9EG6SOEbyDKyQPd6koKjdFfVMG+xKHzCj/NoTPfHVL3f9lYFY6SmCKv0exhYb2RGxViehr7okW1W+87UEoHYF6nrEbt+9frTrVnix3pUSAkdQ2YwjRlRbCcORGkcm5uoFxs1Ri7BQENdOsWy5/NaWh8j0fjS6Wl0Y7xSOPKSDsuMjT/MsHQFGbjFlP+X/Cnw0HG/WcOKilkpVhnb8PqzYfRpLZzkQKiS7rU9qZsDFEGT5uhd4EXsXTWwC6Fa9kY7swNPF1H07Qp3LY0jo+v1Dlqp4vZM961r1Ab6zuWFremziGGjvUy6XimKxfvqEK5vtSXqlP/xtRSgsHaHXm7binXGx98fRSCBU265Zk6KXoT1iN9uT0Z1eaTbuh1krB+cijMnOZgMmLlqVucLP9riVp2pO0M94VR10/sgsY4vLYfpXxzoZlpDSyg93ZHbWR8RSzjgk5lhmldVJU5VEfe0Xoek4vioXAaFAZ8moMM4EqJsb1hsW3ep+SicJCswr/EwNomhxZbQ="
+    },
+    "name": "Master Catacombs Pass VI",
+    "category": "DUNGEON_PASS",
+    "tier": "RARE",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

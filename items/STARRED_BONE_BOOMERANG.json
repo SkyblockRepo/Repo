@@ -1,0 +1,122 @@
+{
+  "internalId": "STARRED_BONE_BOOMERANG",
+  "name": "Bonemerang",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d510 &8(557)\n&7Damage: &c+320 &8(+352)\n&7Strength: &c+150 &8(+165)\n\n&6Ability: Swing  &e&lRIGHT CLICK&r\n&7Throw the bone a short distance,\n&7dealing the damage an arrow would.\n\n&7Deals &cdouble damage &7when coming\n&7back. Pierces up to &e10 &7foes.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&6&lLEGENDARY DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_BONE_BOOMERANG",
+    "material": "BONE",
+    "name": "Bonemerang",
+    "category": "BOW",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 4,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "stats": {
+      "DAMAGE": 320,
+      "STRENGTH": 150
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_BONE_BOOMERANG",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BONE_BOOMERANG",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

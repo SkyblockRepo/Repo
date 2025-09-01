@@ -1,0 +1,43 @@
+{
+  "internalId": "CHARLIE_TROUSERS",
+  "name": "Charlie's Trousers",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+45\n&7Defense: &a+15\n&7Foraging Fortune: &a+6\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&f&lCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHARLIE_TROUSERS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "246,222,81",
+    "name": "Charlie's Trousers",
+    "category": "LEGGINGS",
+    "tier": "COMMON",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PARK": 1
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "health": 45,
+      "defense": 15,
+      "foraging_fortune": 6
+    },
+    "soulbound": "SOLO",
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

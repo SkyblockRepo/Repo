@@ -1,0 +1,33 @@
+{
+  "internalId": "ANNI_PODIUM_MEME_RUNNERUP",
+  "name": "10th Anniversary Podium",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8&6Best Meme\n&8&eRunner Up\n\n&7This item was awarded as part of the\n&7&6Hypixel 10th Anniversary &7Social\n&7Media contest for Best Meme.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANNI_PODIUM_MEME_RUNNERUP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTgxODUwNSwKICAicHJvZmlsZUlkIiA6ICI0ODI1MmJmMjE0Yzk0Y2JjODZiMWRkNjgxNDA5NmYxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWNoYW5pY2FsX2hpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEwOWUyMDgzMjU5ZGM2NzM1OWQwNzQxNDY4MTg1YjQ3MTY5NDA3OGQ4NjZmNmYyYWFhNTE5Njc3MzBlYmZiNiIKICAgIH0KICB9Cn0=",
+      "signature": "tK9eXw3r08u32OSYXcDoXVOfmjt+F7wq7hSctf1jChDSdT651d0ZnJDgXPVpPFASiRWMH6QuAJWhIf1aK/sOFYnXQ+OIbmPt4pKoQJHUgaFiDcvz6UD8DqfoVvn38cg0AqHrAlb/4xeaVSGTcneHpzjXO9Zmyxd86hHOBe5WuW4pLlT2z3W61+GUCOrWLUMCg0udyoYpgMSLweoF5v3xJVaqM9vAVk5CnP43lLUHZ9KGRcRhpcL5fiqIw8IIhfmqhDO7vj8u3Aps14VH36Dk9NacYodSYya6tKPfcJuc4PlnEflCKu2XH64JikiV1+VbEbjDvdEHMyyK17U44NbfyQjrJZLBDOtU+HnbRKF+tjvvew0uqlyIZMkrxtRl4joh+KwBfGmkpTgUUXrypfQUeQZrXk8ezaOPDbdPCOcn9yznx0aEmvpk+mB64TsA69GyL1jnvmLVCddpq9oQ8llrj6d5BCpLyprb56SdGfFKD/zLitYfB/TjdTPqj3dZxRFUaB6LtBOtaMYk3K6XMo/cjxhmolQ2PoRKrDnRhYQcBAGMsKRCAZhz6rZ8gHDPgypbHzflj62Jav+EBhmwYTQTb0GPNKvFTrYxZofx3zvVjNg8oa1Zc+kN9TTjy3plZPUnQuvKXdDICepVHXPohJt9r+9wCscV/dg3SpEIQIrRGeY="
+    },
+    "name": "10th Anniversary Podium",
+    "tier": "EPIC",
+    "unstackable": true,
+    "furniture": "ANNI_PODIUM_MEME_RUNNERUP",
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

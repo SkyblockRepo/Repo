@@ -1,0 +1,38 @@
+{
+  "internalId": "TEST_BUCKET_PLEASE_IGNORE",
+  "name": "Test Bucket Please Ignore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Was it all a test?\n\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "TEST_BUCKET_PLEASE_IGNORE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjM3OTYxOCwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTQzMmZkNGM4Zjg1YzgwOWE4MWI3NjEwMTRjN2FkZDJiZDlhNDY1MzI0NjdhNWY2NzJlNmJiZDVjYTdhMGJjIgogICAgfQogIH0KfQ==",
+      "signature": "g6VQrN0iiynUq2F0uUYdDKYw6xp1YApuGiSjEjnyftYC2Q1eiVfAsreomN1eQg7dR8IRh5y9zAKjBj9wnKAblXtuYU90CqSiIxkIINr/8dQqf9OxIgiu+Q3YAEJsS1a+RVKcnhr3lq5XCEFUxvSx662vkUvcaXleJR5uVwJjmq7A22KOFBHyIUlkzed3YCYxFuHiyr7d5kNzNqT29e6iIfN4Jq7RNt7QDk8RxLkct8D4IQaigO0SO4vC5p7sm3wDJ7qG6THm4nl+y4/7TNDO2NIx0VaNBTvDbtVzVdbeF6s0c8stDx7F9VUZIvB6+ygVX3zP1hc9t3rG0b9VW7FDxRFloKz5IQDRh/DWfZX3vQMwRVG3ikHs8Fxiy9tldGhp1mA7SFrcdrMHyyw4IMwL0r4BG7+hcI9v2x8Hz0STns9j+HANFhpnkoKO8x3pk9PxQa1e++DWOCBNP24OInwZHUhbSpTNvSUr/iTRmBRyxpL39FFOnhvDUvkOLUorquJ8j74SFQXyfZ/Oa7pqPOMT1R4ukU0Bu/W64cXlGxFgUOt5i4unEdQDw7LMXVdJ5cGipSVfgNonSVVl7a3ZBwrPhDm5P2WzrJh3iRqc4NWfNaClpXDCW7la+TEtw+Uw2yKzSeYZqE2zab6f5FybuJNVFdByLyGwS/LFOI1Ay4M7W1g="
+    },
+    "name": "Test Bucket Please Ignore",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "stats": {
+      "TRUE_DEFENSE": 0.5
+    },
+    "origin": "RIFT",
+    "soulbound": "SOLO",
+    "description": "Was it all a test?",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

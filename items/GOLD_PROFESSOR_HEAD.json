@@ -1,0 +1,85 @@
+{
+  "internalId": "GOLD_PROFESSOR_HEAD",
+  "name": "Golden Professor Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d90 &8(99)\n&7Strength: &c+10 &8(+11)\n&7Health: &a+40 &8(+44)\n&7Defense: &a+20 &8(+22)\n\n&7Obtained from killing &cThe Professor\n&c&7in &cThe Catacombs &7lots of times.\n&7Grants &a2x &7stats on &cThe Catacombs\n&cFloor III&7.\n\n&7&8Despite his great technique, he failed\n&8the Masters exam three times. Works\n&8from 8 to 5. Cares about his\n&8students.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_PROFESSOR_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDE3MzE2NSwKICAicHJvZmlsZUlkIiA6ICI3MThiZmYxOTQxN2U0MjNiYjFjMDY0OGMzN2UxYmMwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFja0VuZXJneVBUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY4Y2EwM2Q3OGQxNTdkZjM0ZThjNDI4ODFmZjU3ZWE4OTgxODM2N2U0MGUyODhkYTdmOGI0MWNjYTVjMWQ0MDYiCiAgICB9CiAgfQp9",
+      "signature": "UULl5ShGRtoIxFSRvxBQhhlWOsRMALwyF+vipUaQiwVZGPKjn7gdOAmfK0xsn3572kTngJpL9PtRCnHEQGy25lb21dh4d9b5lIuz6TK8mxtPtFH/Ugl2ojgN1iJq15CEikyFE4yRh7flbf9VtFBSTl+4kgVZpnbzqnRwx72BOvvH1fZbIYN3JttYzOQb1kdWMJAwNxU51XYJn7mujP6B8TFAh5PDmypNyv3rCA1urZ1pkoeo9LkMOrivgtmRN6r7vAiUDb/fUBJfNUXH2BhlzQ70Qrtph3/mpYIHhrOrF2eJTD+7WJrQ9oPdsQYPaCWg336pIPN5hdjO2Nl1EmOoCoeGZ7m0yjW9afrGw7vPl35oY+aLiSN2b7w97ej1j1UJtZXPUtrFm74Su3fzJ6S++H/YnpappYeQFEX/0o8rCYCZUpnq0bpdcKNP2vi8/i0L32kuHAdwjGElroNU2hHvaEJTyXgZP230Vu1KBlaTxDUUtRzuWr1jWsk0Exc6U+bZWZAV5+rmqsj5NJYYi7T7EiqrFAFe4Eve5oL32OpYsSwpzkX94t2gdtrJF1LqPEb/R81Jp6oH8eAh0CMfb8L3T+uS5oskSWLz4HBJbNOCblHjIxd9TQ3G10pKplp5xjOaDaAGH3MSqbln91St6GztzD1ju10yD/yzlLWSOkbyCRk="
+    },
+    "name": "Golden Professor Head",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "GOLD_PROFESSOR_HEAD": "DIAMOND_PROFESSOR_HEAD"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 40,
+      "DEFENSE": 20,
+      "STRENGTH": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 500
+        }
+      ]
+    ],
+    "soulbound": "COOP",
+    "dungeon_item": true,
+    "rarity_salvageable": false
+  },
+  "recipes": []
+}

@@ -1,0 +1,84 @@
+{
+  "internalId": "GROWTH_CHESTPLATE",
+  "name": "Chestplate of Growth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 80000,
+  "lore": "&7Health: &a+100\n&7Defense: &a+50\n\n&6Ability: Growth \n&7Heals you for &a1% &c❤ Health &7after\n&7killing a Monster, and also increases\n&7the &c❤ Health &7bonus of a piece of\n&7the armor by &a1&8 (Max 100)\n&8Cooldown: &a4s\n\n&7Bonus HP: &a0/100\n\n&7&8This item can be reforged!\n&9&lRARE CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GROWTH_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "0,190,0",
+    "name": "Chestplate of Growth",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "npc_sell_price": 80000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "GROWTH": "MASTIFF"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GROWTH": 3
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 100,
+      "DEFENSE": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GROWTH_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

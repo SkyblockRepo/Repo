@@ -1,0 +1,77 @@
+{
+  "internalId": "METEOR_SHARD",
+  "name": "Meteor Shard",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 41150,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Fortified &7reforge when\n&7combined with equipment&7.\n\n&7&8''A very strange find once found''\n&8''inside the carcass of a Ghast. It''\n&8''seems like they enjoy a snack that''\n&8''is out of this world from time to time.''\n\n&9Fortified &7(&6Legendary&7):\n&7Defense: &a+25\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "METEOR_SHARD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ3Mzc1OTk4NiwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZmMzc5MjEyZjQyMDYwYWUwNTYzYzcwNzM5YTdlYzQyYWQ0OGU3MGY3NDIxMGIyOTBkMjMwN2E0Nzg0NWVjMmMiCiAgICB9CiAgfQp9",
+      "signature": "RXYFnBmPF/JNhjC1otwkZYkkwQOPrA3ak7wbSfrevsyqMTJNkfAWAzWozvGhFcKRoMQdsae19Azq/j6A0dE2LIRjd33cGOTfAQSRgOINoqHhMYYXtWh3y+W2KX6L1GdOuGHlk7yruJP0PwENqoaxdu0xxCqjdJzlhZdpIdzPTUE5bCQLU1Y4hxjtZBIYptJz0lZXf+wxM7+81DBGkfxH1MJ7upM/I7qFfhhouB1A01eWjbHhit90ObKSOOGJsgokvUNoWpZ5jhbxPtMrnbvof8V+nH28KCfcLGGEQrh9uHvCxfRKVfadsu26MtctTyyQ+JgY2oFLBMu3a9AQazxZZfQ+NA5VgasNSoRQRdOgPmic3HW2Pns1n6wPPsDhNUQgZjNyb/I7eRzx2g5F2ddaRdhycvVUM/kqD8uMaFgWPDpz5SUVkAxOJs/4n5JQbzorE5XFW2Hn8Osn7qTdzh9dzehrGk087OEaFXmoB5MJVnEVZrs8nffVc2xbfOCwvuRl/KjgwHMnZ3DuSqX18MmSEVM5/uxhOGBHQWdsdCKf9Rke4FLkkRlcVj8jLJzSCh60gyCMp2OHbe9aVw9lH1RyHvx7p6pqVDwNX7Oqy+URZiXz8PDc8FLWA4DGDUUDcxJbkFTTMmvj8hahyJRIIK5bJa4gTaYG+6etActLRV9LpzU="
+    },
+    "name": "Meteor Shard",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 41150
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "METEOR_SHARD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SILVER_FANG",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "STARFALL",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "SILVER_FANG",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "STARFALL",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "TENTACLE_MEAT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "STARFALL",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "SILVER_FANG",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "STARFALL",
+          "quantity": 5
+        },
+        "9": {
+          "itemId": "SILVER_FANG",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

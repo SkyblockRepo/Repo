@@ -1,0 +1,77 @@
+{
+  "internalId": "GLOWSTONE_GENERATOR_4",
+  "name": "Glowstone Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining glowstone!\n&7Requires an open area to place\n&7glowstone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a23s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOWSTONE_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzY3NzE3MjYsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjYzMwMmU1NmIwNDc0ZDVlNDI4OTc4NzA0Y2Q0YTg1ZGUyZjZjM2U4ODVhNzBmNzgxZTI4MzhiNTUxZDViZmMifX19",
+      "signature": "seiliN3pd7OO5H1fVkX9f1qKgN/fFsxwW4GJ/4AHo3KWFqwQkHBONBZ25FB4ddysukSTDeb0CzY6KfRevIR0rKI7Hy3Bg+Kke+yd/doaOPHatZ1jkhcX2ztNS07Li2/LndKhNikrvLZ/+St45X6CkRyZYn41qUZME1IYqcvATak07NqWrBtt1MqSmKITJMYfivkpMtqq2blZHxS30CCkKjr6eXUlaPLtJ+s+UP11IAIhurGH8P9OtHvuOKvvIHUc8o1uYAhwGy5K/nMf+XuvDwulKNAf0LorN3gs74xHl+fGaYWbjFg35+QrzjjN69jU1aC3gg08Za9kQl00F2eA9f7XXUIjjv35zd1d70xZpjzwC0r3gVGyAlSBYGTursaC1615qCBG8h0dytCK/jWHpnt7CIZ0OMlH20fr0ORM13jZ1+iAf69GCYzDZBPN4P7Z6pAjJTbpyRZGRG54+PiamzfLOFveERUoEGh8v00yt/N1vqp7HN2LPAqqnCPQXUTfu2XDjAJM6tBD3yAA2PuVMl5M3Axnb8bt1umCDIpufbq7M0NbfidWgEi8wNWCjibrBigUyCuGIrl/Qfqyd3nEfvlXqDz5tRS2hREqqckpVDA4RNH3VZ0uI8X4t4Zg/dYw9tPjWniKqfgkC8grp/0q+thWZAJSPIBJ/z0abkS3h28="
+    },
+    "name": "Glowstone Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "GLOWSTONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLOWSTONE_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GLOWSTONE_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

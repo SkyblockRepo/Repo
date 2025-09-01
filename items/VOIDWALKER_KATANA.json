@@ -1,0 +1,62 @@
+{
+  "internalId": "VOIDWALKER_KATANA",
+  "name": "Voidwalker Katana",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+105\n&7Strength: &c+40\n&7Crit Damage: &c+15%\n\n&7Deal &a+150% &7damage to Endermen&7.\n&7&7Receive &a3% &7less damage from\n&7Endermen&7 when held.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOIDWALKER_KATANA",
+    "material": "IRON_SWORD",
+    "name": "Voidwalker Katana",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {
+        "VOIDWALKER_KATANA": "VOIDEDGE_KATANA"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 105,
+      "STRENGTH": 40,
+      "CRITICAL_DAMAGE": 15
+    },
+    "sword_type": "KATANA"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VOIDWALKER_KATANA",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "NULL_SPHERE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "NULL_SPHERE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

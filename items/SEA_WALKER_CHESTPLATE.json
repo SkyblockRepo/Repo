@@ -1,0 +1,28 @@
+{
+  "internalId": "SEA_WALKER_CHESTPLATE",
+  "name": "Sea Walker Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEA_WALKER_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "16,97,110",
+    "name": "Sea Walker Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "GHAST_GENERATOR_5",
+  "name": "Ghast Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Ghasts!\n&7&cBEWARE OF EXPLOSIONS!&7 Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a44s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHAST_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzY1MjE3MDMsInByb2ZpbGVJZCI6ImRkZWQ1NmUxZWY4YjQwZmU4YWQxNjI5MjBmN2FlY2RhIiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkQXBwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2M1YzUyYTRjOTQ1ODI1ZTRjOTU5YzVjYjZhYTYwN2EwZTNhMWJmZmQ1Y2I2YTA1NzdlMTcyZDBmMzU2YTJiIn19fQ==",
+      "signature": "Lx0AloCFlVbdV6Sfy7lTCoVJTq3SB5iI03UyJJo9MSZbfrOkccq5MF07nS/5UQgM2Fo26o/fy2Pylvgc71PR01o5CNkGKJqpVvx5O3B7zW0AhcbKSvGdijtPmQ0BGKg3weDAbxqilEJP8w5rrRabvujFR9au6D3H+GvcrwdFVcxbrHTNuPWU2Nz5rSckrR2r4EGlx/PLBriFruII02jvh9V/Fb4/4N40i7aneENppCkqmXKlaYHbaQx8v/4lXKs2x2VKbwCOWvsl0MsSO20pObpjLBUjkuOLT3jFg2LZrQy5DWgUO9ALSdPce7+1eUy5EBOp//emIKiBEWQbN6BORsI84QJLVPLX2aDhz2T/6GephXmOD9I9XamtPNDR8+iA1hMtDOEVJSOX1JquE+W/e2/0z2vNff8mXSYQC64qrxSjFb7rvOcz2ZA9PynyMZcmQ66cZUkiWl4UY/VI5M86RtXe98ySPMzM3QUDQ38GHR5TY8/3eX9Ka3khfhtxCKU63BXWK6RObmthQ0iJp/GJda+Ysint2b+oIqmJDfkROlvFm/2hBETQxivh13X0mU6blL6qsftjuXWsu5h33TtAOpmJw9wPHdh54lGWO1o3Hx1LCeXi/3LjLjUr9znhJ8Y0mOxxHrEX9zM96KA90exArZ5jdlUrOChlTJPVGo5Hplo="
+    },
+    "name": "Ghast Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "GHAST"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GHAST_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "GHAST_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

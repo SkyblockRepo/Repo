@@ -1,0 +1,61 @@
+{
+  "internalId": "BLOOD_SOAKED_COINS",
+  "name": "Blood-Soaked Coins",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7When you pay through the nose,\n&7you'll end up with a nosebleed.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLOOD_SOAKED_COINS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2OTMwOCwKICAicHJvZmlsZUlkIiA6ICI4ZDYwNGY0NWM0OWQ0YWE2Yjc0MjhiNTJlYzcyYjliNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGFyRG9ubiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOGJiMjZkMThiZWZhZDQwYTc1MzVlYmFjMGUxOGJlMjBmMzYyYzAwMGNjNTA4ZjJiMzNiNDNhYmNjMjcyM2U5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "NhVfoCKVSDJff7CwbhVQ2ncyFqhPNj2bCH11epqV8hMrdnQNV0aVmPzXS9qkDuQEHlE1DRGYkv3efAn/ARR4GsZ9KRktRqGrvL+5xoBm6HJ6+KfqIfvmOU8IkgdkGyad475Vh1KKjcBFuSIYRp4QHRUmyz3cEWkSilaAa21tPdLU3Dq8HEaxkVxtZqd15UMzo/6Va78e3EGEXxI/b/sCK/Y17eABDDbLWn93nWgioeStyFvIO9k5VRE6UyZCKkgUZgsR+jPgqumpMYYkba6eBiIqNTmwMFaQrX+fdOCo03dC9inQjLGnT5Gh78LTtm1vIjio/N7+YC80YVPDyrysdWoJUqvq4ZjeK3jy+I7WbrIKWLXKD39WhWIhB7RndT9TiOH9Ooc3k7fXdNTAlRdN9s6OXP0gykP4GMj9ur3ofMH+Hzi8zrGbWp14nLAs6a9L5v1dqfojOS59Y3MuEqustVz5TwVQ8u3/Qt6Tiff2g+0lJPrO8Q3Ahrv1Yrh6Eiu8UHy49bYxdPOebpBLX/EyYdmHuzIXotLvAN5Im9hrEKlIWEaZ/UGy8aDTHRYsc6n9XwuC1uM/6oaEQDQ4hdrKWLAF4BWKNlr3NgkUv8RZse+VvFwJRrFCj64KClQWgDvOYV/L3MXQoneiZ41eEYC0USltr7/ls2EencNe4B7uhYI="
+    },
+    "name": "Blood-Soaked Coins",
+    "category": "NONE",
+    "tier": "EPIC",
+    "description": "%%gray%%When you pay through the nose, you'll end up with a nosebleed."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLOOD_SOAKED_COINS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "HEMOGLASS",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "HEMOGLASS",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "BLOOD_STAINED_COINS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "HEMOGLASS",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "HEMOGLASS",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

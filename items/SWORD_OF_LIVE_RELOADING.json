@@ -1,0 +1,28 @@
+{
+  "internalId": "SWORD_OF_LIVE_RELOADING",
+  "name": "Sword of Live Reloading",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SWORD_OF_LIVE_RELOADING",
+    "material": "DIAMOND_SWORD",
+    "name": "Sword of Live Reloading",
+    "stats": {
+      "DAMAGE": 69,
+      "ferocity": 600
+    }
+  },
+  "recipes": []
+}

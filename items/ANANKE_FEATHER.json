@@ -1,0 +1,27 @@
+{
+  "internalId": "ANANKE_FEATHER",
+  "name": "Ananke Feather",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this feather to grant\n&7yourself progress in the &dRNG Meter\n&d&7of your choice.\n\n&eRight-click to open!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANANKE_FEATHER",
+    "material": "FEATHER",
+    "name": "Ananke Feather",
+    "tier": "RARE",
+    "glowing": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

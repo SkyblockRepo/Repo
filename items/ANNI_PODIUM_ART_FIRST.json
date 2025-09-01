@@ -1,0 +1,33 @@
+{
+  "internalId": "ANNI_PODIUM_ART_FIRST",
+  "name": "10th Anniversary Podium",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8&6Fan Art\n&8&e1st Place\n\n&7This item was awarded as part of the\n&7&6Hypixel 10th Anniversary &7Social\n&7Media contest for Fan Art.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANNI_PODIUM_ART_FIRST",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTg2OTI1NiwKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODEwZjdmZWY0YmQ0NDc3NGI0MTA2OWIwN2E3MjQ4OGY2Mjc1ZjhjY2Q4OGUyZmRhOWY5ZTI3NzUzNWE0YzcxIgogICAgfQogIH0KfQ==",
+      "signature": "OcRCkgAMSlm62UC01rfuAXZ+UAGtcTqlJN3WrH9xkLmGmGlnbsQx/5md9eyXATCa8AujV6EZiVJZyIGaEcn7uIkzBpqJEiNSHdKzMt5sP/Qk1B+LhqPHbQnrOIY9EJ0Jyhv2xU4+g3xPKxCLD4lgP06dE6bQOW3UCzlfwuVVPNLCCnyoh9snTjLUybmfVDIckeWvTVCzKUx3VZKRakmxzcNkqDmuIzsrLPgxxWuUra5JM7z9mPsA2j7Mocn+klSCxjzSgmfdVJU3Ws8v/gPbjw+uZW5AACxKyHhy038Q7FpizWKbi4le0P5hksNcQkLdh0hjjnaDufiyE8h7e9zq2PeqVP04BvywDqN6I6h0F6eHXWF2DLBO530E+dsBqJDJenKYCpeg2tMGTxvKveuLDjtFxJYKgGBPNGLl6kl4rVLcK8ObOwdn3wpYOyll+G5k9FUr+jaE50Hr0kjhfCLkGPq0fpdbA6OnUnRb/n46EYaAuBWFGTb0fh1nbCm/6lMu7Y16g8fKH7pqW1b/U2HVkP6fp6WEDSv3BRke8tGOgCXHNP5mDjTRBQp4/zIgCHA3BWhQ7XNVrUfDJIWiC/vNUJTRT/19nAzA5miFv/EmXNH5Ju7SYbovPEuJBKBGzDEuiLBPGRxxIWEI1Cu9P4cer08eIf/5S7Ca9RxsULqTOMw="
+    },
+    "name": "10th Anniversary Podium",
+    "tier": "EPIC",
+    "unstackable": true,
+    "furniture": "ANNI_PODIUM_ART_FIRST",
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

@@ -1,0 +1,181 @@
+{
+  "internalId": "SUPERIOR_DRAGON_BOOTS",
+  "name": "Superior Dragon Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Strength: &c+10\n&7Crit Chance: &c+2%\n&7Crit Damage: &c+10%\n&7Health: &a+80\n&7Defense: &a+110\n&7Speed: &a+3\n&7Intelligence: &a+25\n&7 &8[&8⚔&8]\n\n&6Full Set Bonus: Superior Blood &7(0/4)\n&7Most of your stats are increased by\n&7&a5%&7 and &6Aspect of the Dragons&7 ability\n&7deals &a50%&7 more damage.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 20&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPERIOR_DRAGON_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "242,93,24",
+    "name": "Superior Dragon Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 5
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 20
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SUPERIOR_DRAGON": 15
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 80,
+      "DEFENSE": 110,
+      "STRENGTH": 10,
+      "WALK_SPEED": 3,
+      "INTELLIGENCE": 25,
+      "CRITICAL_CHANCE": 2,
+      "CRITICAL_DAMAGE": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 60
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 180
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 280
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 14
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SUPERIOR_DRAGON_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUPERIOR_DRAGON_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

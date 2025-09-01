@@ -1,0 +1,124 @@
+{
+  "internalId": "FIG_BOOTS",
+  "name": "Fig Striders",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4480,
+  "lore": "&7Health: &a+65\n&7Defense: &a+25\n&7Foraging Fortune: &a+30\n&7Sweep: &a+6\n&7 &8[&8☘&8]\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 12&c.\n&9&lRARE BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIG_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "28,151,89",
+    "name": "Fig Striders",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "npc_sell_price": 4480,
+    "gemstone_slots": [
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 12
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FIG": 7
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "sweep": 6,
+      "health": 65,
+      "defense": 25,
+      "foraging_fortune": 30
+    },
+    "can_have_booster": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FIG_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CANOPY_BOOTS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FIG_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "CANOPY_BOOTS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

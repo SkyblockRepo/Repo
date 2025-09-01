@@ -1,0 +1,27 @@
+{
+  "internalId": "CORRUPTED_NETHER_STAR",
+  "name": "Nether Star",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CORRUPTED_NETHER_STAR",
+    "material": "NETHER_STAR",
+    "name": "Nether Star",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 10000,
+    "museum": true
+  },
+  "recipes": []
+}

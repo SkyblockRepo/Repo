@@ -1,0 +1,26 @@
+{
+  "internalId": "ENCHANTED_GRIFFIN_FEATHER",
+  "name": "Griffin Feather",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_GRIFFIN_FEATHER",
+    "material": "FEATHER",
+    "name": "Griffin Feather",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

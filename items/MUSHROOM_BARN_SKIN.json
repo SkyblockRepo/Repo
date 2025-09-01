@@ -1,0 +1,26 @@
+{
+  "internalId": "MUSHROOM_BARN_SKIN",
+  "name": "Mushroom Barn Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Consume this item to unlock the\n&7&6Mushroom Barn Skin &7on &aThe Garden&7!\n\n&eClick to consume!\n\n&6&lLEGENDARY COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MUSHROOM_BARN_SKIN",
+    "material": "RED_MUSHROOM",
+    "name": "Mushroom Barn Skin",
+    "category": "COSMETIC",
+    "tier": "LEGENDARY"
+  },
+  "recipes": []
+}

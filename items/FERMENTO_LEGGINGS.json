@@ -1,0 +1,120 @@
+{
+  "internalId": "FERMENTO_LEGGINGS",
+  "name": "Fermento Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+195\n&7Defense: &a+40\n&7Speed: &a+6\n&7Farming Fortune: &a+35\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&8Tiered Bonus: Feast (0/4)\n&7Combines the Tiered Bonuses of\n&7wearing &a0 pieces &7of the Melon Armor,\n&7Cropie Armor, and Squash Armor.\n&7&7Grants &60☘ Farming Fortune&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 40&c.\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FERMENTO_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "106,156,27",
+    "name": "Fermento Leggings",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 40
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FERMENTO": 12
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "health": 195,
+      "defense": 40,
+      "walk_speed": 6,
+      "FARMING_FORTUNE": 35
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FERMENTO_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_HUGE_MUSHROOM_2",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SQUASH_LEGGINGS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_HUGE_MUSHROOM_1",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "MUTANT_NETHER_STALK",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "MUTANT_NETHER_STALK",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

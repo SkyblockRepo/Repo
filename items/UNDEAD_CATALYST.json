@@ -1,0 +1,31 @@
+{
+  "internalId": "UNDEAD_CATALYST",
+  "name": "Undead Catalyst",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Drops rarely from Revenant Horror\n&7when you are at least Zombie Slayer\n&7LVL 3.\n\n&5Catalysts upgrade other items!\n&eRight-click to view upgrades!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "UNDEAD_CATALYST",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk5OTUxMiwKICAicHJvZmlsZUlkIiA6ICIxNmQ4NjI4NzYzMWY0NDY2OGQ0NDM2ZTJlY2IwNTllNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphVG91cm5leSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NWI4NzE1MDZmNWEyOTUwMjY1Nzk2MzRlZTUxNzU1YjI5YWJlMjkwN2NiNDI0OGVhNWNjMzY0MDhmY2U2OTI4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "ELv5GSqrcmggATRAeczGnE6czmpsIDS7//oZ1jXAPA+bjPnnPGpHwE4v8Sh3VGY4GvjjQe/bU5lrBcsab/BLEguxbab+SjGPTVNCu+SCNloclu2oA/E1TKa4k/piUl882lFve+gMQDn29X3+9nuKzYwC6FsrdS9HtunvI2XicZ9KRP5g7rx1DUgR9Gn7xRr2reV3EmNPsj+jLNOb3Bp+LGkiMFu1zpAn4QZl6te2ZCIXITrWqHSbeIQlCrpi0+w5oxf8H1tv9euF82pekspC1mETiG+0KtBNgctJlnlzHsfznaNnwKX8Az6OH7mXhqGUweYaM/ehGCYhNDxV7UjS/y+PdgX0VHSuQ5gXHELJuZrL8QyDgXbzhe2tij4lw+IcNRBunzZi/Pky9yn1paZQ4+vyXI8FghQhYERCDItI3MpqqoOWAiRrTVdqYM6god3KZYPWFX+BldWpKgtk7SLhfBseuL7+Avp8cdfwHi/3hLqAZ8Re+Ao9MMxF79L719rAQeQzJb8K/I/IOnL/PnmV6fhhjVcyF5URwJg+Bqe3Tfrn6aYOtMOY4cmChCVpriiz/qkmCrPAtALOXOzslzooP1jIpYcKU+jDd9NtJeriGWdVXfAjYV6I6RZYmFDl1X0Ru9XoR1zU84plSccaJgNjzEEc0j8ybOnwRMuYPY0BBc8="
+    },
+    "name": "Undead Catalyst",
+    "tier": "RARE",
+    "npc_sell_price": 2000
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "LAPIS_GENERATOR_7",
+  "name": "Lapis Minion VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining lapis ore!\n&7Requires an open area to place lapis\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a23s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAPIS_GENERATOR_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MTg3MDU1NzUsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE0OTkwOGNmOGM0MDc4NjA1MTI5OTdmODI1NmYwYjgzMWJkOGZjNGY0MWQwYmYyMWNkMjNkYmMwYmRlYmIwZiJ9fX0=",
+      "signature": "Hkpk3jo68l9rU8Jlc086XnP+nINOwRe5i2c9i/nrqW36mck2PXC/JeffB6SaP4KFSBbXxcAfA6kKLnUIPXOooacyWEsg2HpNm3o3YEyU+9ZPdkvyKDKxEHtQoa6WHuKqxyWurJ5dLNJtV0hrRngCfpOEaoxKM3kogKTo6k2XQyOuXmwgFsT4xavOOOHb2T7iNelcOYWNA6Kg9lY5sj+ilZkH2xb+amSldg0p8pWo1G+HgbJ80LpDDaupixjdDiI3WFbc512seGnMT3/Rtbh3T6WeCmX32dcwR9hk1wLB2Qf3fbbfVWeNFULgUbL0g+1gkziLkeoXh2g26AlG9oI1cq6+PHD5Ck3fMMyGfzqtNtxvloYMqwf8fYD8m+UrnaCubLt5vHVtfjCIEULzPWCDOhgFIb+4asXgYUxSyExisQaPuBBIv0GuMYUKgepOvRTl882DP5xGiLmwG0sMpve2Afe5SHIludrFuq4sCoBGntJ0uD6MI3915QBM38msSYLGAEPm2uk/rVyCVPIrvWAGY/j4XYUE4GvO95qEdE5CRZnVYH4ZXGxEJDcXjLzg1yLMRMjKOaEx/OVQksAXvnxqmr8wDBsuMXrF0lV3hLQZruKme5iEsVFfWwIGqV0MtA3q+vmxRu9No7PAzon10gPGT18uzKzNzTO07XNjP3xh+Dk="
+    },
+    "name": "Lapis Minion VII",
+    "tier": "RARE",
+    "generator_tier": 7,
+    "generator": "LAPIS"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LAPIS_GENERATOR_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "LAPIS_GENERATOR_6",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

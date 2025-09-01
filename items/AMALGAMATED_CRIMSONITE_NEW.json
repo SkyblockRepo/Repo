@@ -1,0 +1,92 @@
+{
+  "internalId": "AMALGAMATED_CRIMSONITE_NEW",
+  "name": "Amalgamated Crimsonite",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AMALGAMATED_CRIMSONITE_NEW",
+    "material": "MONSTER_EGG",
+    "durability": 52,
+    "name": "Amalgamated Crimsonite",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "AMALGAMATED_CRIMSONITE_NEW",
+      "resultQuantity": 40,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MUTANT_NETHER_STALK",
+          "quantity": 4
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AMALGAMATED_CRIMSONITE_NEW",
+      "resultQuantity": 2,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "internalId": "CRYPT_WITHERLORD_CHESTPLATE",
+  "name": "Crypt Witherlord Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYPT_WITHERLORD_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "69,1,1",
+    "name": "Crypt Witherlord Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "stats": {
+      "DEFENSE": 120,
+      "WALK_SPEED": 5
+    },
+    "gear_score": 10,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "BONE",
+  "name": "Bone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "BONE",
+    "material": "BONE",
+    "name": "Bone",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "METAPHYSICAL_SERUM",
+  "name": "Metaphysical Serum",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7Drinking this serum shortens\n&7the chain required for &dSuperpairs\n&7add-on experiments by &a1&7!\n\n&7You may drink up to &a3 &7doses\n&7of the serum before the taste\n&7becomes too abstract&7.\n\n&eRight-click to consume!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "METAPHYSICAL_SERUM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4OTk5NTk0ODU3MywKICAicHJvZmlsZUlkIiA6ICIxYmY4ZjBiZDRkZjc0Njg1ODQwNjU2NDc2ZGU0NmNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnV6YWRhMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWRiZjVlMTBkMDgzN2YyMGRkN2FlNjkxYWE2YjVjNTA4ZTRjZTExZWIxYzVhYTdiMGFjYzcxYTU1NGZjYmQ4MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "AS/CNpZp2jOMbFw1vaGD3otWx3D5mn6QdhaHfI2CTzobt1Oa4p5D6ebQhOuTRj0ukYsuRySrAAKyCnx+pgJ+LRHaDmNIkVwIJG8MwtpUEQTxzlDX+KUULoBNP4XK7cOZ9bFiKY9Q3csJzbAiAkhMekhzQvPS+RnFM1EDgkhazAworufeXGDCOI5Q9/z4qyLCKOFD4iSDPyglZrs+Flv9cK6sdAtw/0w/XiEAkzBZpFNDGrxTc5TLJTsu4K1Gw+wFRLoIMRTGbg6++/jieL6F4olAUXLiUKqbLifTvjdAZc2zQNfkElLJtAcdnGcM/X4pax+VzIbxDoyy0uPn3bFHF0ZHFmilOL8UyPLeFVFCjoe1ypZpfdwnnCX9FN+wA5GwBslSJGU6gx9LO2ppJet+C5iwA2yNHiW+kqx4rr3441QBD19AtO/ZqtGNlg2+Cc4PSAEgBFtelI5PpUSsjbUTIMA3mz1E6XtiEgym4b9i09SE2KVGoRZYu2uAZuGTszAxg8nIFMcIF71eHlFMbJ9MOHi6uerefEhqMUmwAzicV91cD/3ucXxNBLIgtd2BeSI5m3WIAFnGxYoWCPHUQZrzlUguEY1oOXsojfhsbM2FqZ4/+EOwB2/zxHv9LM4ojSSUnll7tZ9BVc+VrcYYVZ6LnqwIV71qYGvWE1qE7F6H6nQ="
+    },
+    "name": "Metaphysical Serum",
+    "tier": "EPIC",
+    "has_uuid": true
+  },
+  "recipes": []
+}

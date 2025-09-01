@@ -1,0 +1,30 @@
+{
+  "internalId": "SINGING_FISH",
+  "name": "Singing Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Obtained from the &3Catch a Fish &7game\n&7at the &eCarnival&7.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "SINGING_FISH",
+    "material": "RAW_FISH",
+    "durability": 1,
+    "name": "Singing Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true,
+    "has_uuid": true,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

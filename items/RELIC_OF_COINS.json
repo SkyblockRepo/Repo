@@ -1,0 +1,60 @@
+{
+  "internalId": "RELIC_OF_COINS",
+  "name": "Relic of Coins",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A lot of coins start appearing\n&7around you occasionally on public\n&7islands. You may even pick up a\n&7&5Stock of Stonks&7!\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RELIC_OF_COINS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1Mjk3NjU0OCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNDI4NTM4MjE3OGY3YWJkOWVlODI5MTM0MGFhZmJlM2Y2MTY3ODVjZWUzOWRhYjY1NGUxMzVjOTUyNWYxYTg3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "eCrlr4CG882Q6wxFjVKBOEtY/N7MLPPEdexlh6pH/waweSAat6NZQ+WysSm/gIZc4yUf+ki/iF4EOf+03EXCAOYlqmGivAk57rhqLd9znaIsCynjkqtd+XjQuhedzgPgDbAjuIqhmFS6T3P3uB8nEUFEtfcLJrwMdRq5vFPJ1A8NjkpejkbsPLzIlSTYiAiUFFWqzf1UY0JGbu3gdLsrJYMIwgFEeNBoWiCbGreJelvkrqPdtlh8MDzU0efYJ80oZyLCXn5hYpCbVjg9mJkExsVrnSKcqnRNCxFdfqI7rk13D4v+YDkDL6qmEuoZnONPUNxZZeJ31wFEuCz4m0h4wpN2hU49LJw3zZdwO3UcoPj8m8JmLYs7VH43U7G6qKrCx7M2c40gs98iVmCouC2AUl2WkczSRKTnuOaIfUb7YIHgvW7MsH2r87qPiEeT/xrgNRjQICGXmeRUX1LJNVdD+LQ4z5OMuXTxfT5F8xXMlxp5Zgr12QgQ9IOxhHTZRD6svlknwX5z/j5OEbKCZYTXvT7TitunJ/h7pR0u7MDcfLTvv5NynJHy/9MZdVx8+1tgAHesiHpra0UFQca4YI0UpWciqhkPvsd8GJJgOE/Nqt/agYGBoB5EEEs3PFq9s1H0MX/FP4Lssh/NFrPP2Lc1rFILBDCkLgQsnMTA+zksIVw="
+    },
+    "name": "Relic of Coins",
+    "category": "ACCESSORY",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RELIC_OF_COINS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ARTIFACT_OF_COINS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FRESHLY_MINTED_COINS",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

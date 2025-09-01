@@ -1,0 +1,30 @@
+{
+  "internalId": "BLUE_CANDY",
+  "name": "Blue Candy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLUE_CANDY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzkzNDA3NiwKICAicHJvZmlsZUlkIiA6ICJhNDAxZjEzMTZlMjI0ZTNjOTg0ODk1MmVjMzhjMTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmVlbnNoZWVwaXJhdGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU4OTQwZWQ4YWQ1NmYzMmY5YmJkMzY3MmY5MzY3MGNmMmNmYzVlZjA0NDE2ZTFkNDY4MDI4N2UzMTlmNzljMiIKICAgIH0KICB9Cn0=",
+      "signature": "E7HoiKAHU1zF3/tVpeli8lkGLEStIlW1qogrf+83lU9nNYGeRyAF4FCCWP6dSL5Q8F/bBkVAOqN+o7arypAd5OmpGJCflJeqh2JhXzbhYX7Phyj6W+f2qQkn4FlD+Ls+0YLBWd9mnI2pywN8w99lOfnJ2xmeKUByAc7rPmiTz9f9AqCKsaYnqs/5t0SIi5KjkChymzeNm+mSgW1GeEzzMpMrfd74VH6nMH44oK1VUcSMPkQ6TynzKZdGlxlnjRLxB6PMzS2scPI4U3AhbUgo4MYiW8VbLBNMBR1nFJCJvQMKRja8M4rPRM+weWJSmVtXXbf+TuhbPcE/vACtfYwT/i9XA9a2vcCjSPuJQeA9SwAQi4/bK6gl9s4SZepGZ0eqdgsWDNw0DfZU/nJXupM/dhrAeUxpqgkqYrjFR2g3ANUDR5diomR2iysrXlHl6TDMKJoxNMsYX+4BxVan+IVPQSOfZmRPl5mnNrA04KREEk3DUNRHx9tsCaQhre+CVCAAXdq77btsjSBVsftOLPVQaSWwnA5+CR5eZ7rI3EUmhkq3MwprFYEyP+7xbzH1jtpno83J7IR97qHzkyuFLzTIH/qxK7j+Cuqs2TQssXENNRskl+RHBZ5VQLegzRC+08vFMp+vpe5cQySmHt42DPg9T5YhvJBXujczbpDOHZ1EHJE="
+    },
+    "name": "Blue Candy",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

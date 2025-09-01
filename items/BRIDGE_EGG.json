@@ -1,0 +1,71 @@
+{
+  "internalId": "BRIDGE_EGG",
+  "name": "Bridge Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Creates a path of stone blocks as it\n&7travels through the air!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BRIDGE_EGG",
+    "material": "EGG",
+    "name": "Bridge Egg",
+    "glowing": true,
+    "npc_sell_price": 10
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BRIDGE_EGG",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "STONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "STONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "STONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "EGG",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "STONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

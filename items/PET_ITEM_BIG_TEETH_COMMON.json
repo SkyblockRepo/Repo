@@ -1,0 +1,26 @@
+{
+  "internalId": "PET_ITEM_BIG_TEETH_COMMON",
+  "name": "Big Teeth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Grants &9+5☣ Crit Chance&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&f&lCOMMON PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_BIG_TEETH_COMMON",
+    "material": "GHAST_TEAR",
+    "name": "Big Teeth",
+    "category": "PET_ITEM",
+    "glowing": true
+  },
+  "recipes": []
+}

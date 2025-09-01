@@ -1,0 +1,43 @@
+{
+  "internalId": "ELEANOR_TROUSERS",
+  "name": "Eleanor's Trousers",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+75\n\n&8Tiered Bonus: Riches (0/4)\n&7Gain &a1.5x &9Scavenger &7Coins.\n\n&7Scavenger Coins Gained: &60\n\n&7&8''These trousers boast exquisite''\n&8''fabric, offering both comfort and a''\n&8''polished look.''\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ELEANOR_TROUSERS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "255,215,0",
+    "name": "Eleanor's Trousers",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ELEANOR": 5
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 75,
+      "rift_Time": 20
+    },
+    "soulbound": "SOLO",
+    "description": "%%dark_gray%%%%italic%%These trousers boast exquisite fabric, offering both comfort and a polished look.",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "DWARVEN_TANKARD",
+  "name": "Dwarven Tankard",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&8Decoration Item\n\n&7&7The most stylish Dwarven drinking\n&7implement built to hold as much ale as\n&7possible.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_TANKARD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1ODY5OTk0NjE4OTQsInByb2ZpbGVJZCI6ImRkZWQ1NmUxZWY4YjQwZmU4YWQxNjI5MjBmN2FlY2RhIiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkQXBwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzNkMTYyY2FlNzMzMzlmNzc1OTE5ZmIxYjUwOGI3ZjFjMjhmZDQ2NTQ5ZTY2MzkwOTQ2ZDg3YWJmNjcxNWM2In19fQ==",
+      "signature": "DJWtqCNcKFceHSpccyj1lYFZP0wH/zAHmb3p27D97mvPp5IEZKYT4zNPjJAc4uNJaxIA/XVdyA3O39qg+uXXUFKWgXUUSMMQPCpxilgjuhyw7ht6WC2Bk+A4aSpfpm39w9t219WfXKCS5d2MpY0G6SodZosHoQZU3gksFLySYe2LllVhzSmIBNw9Hq08jt+Mq0yBD/vZRJ2Nh1wGlZNf0p6DkvuM9xSkFJDB6hF0ipTOwkgrhGvK7kOJyniiyhZxfP/9YOywD7rkeeaFp6DZ84yWJgf2TtpKzTd9tGhnrxhrl6OSsGLbc0h2Ji7egDSEIfDv/+XBBz1JukfeObYA0hIN2MPqICancTwbicds1d+bRXjuCyoOaEZYCCreDx/jejTZtnnabKThgIF0Eq2o9cpDdCVhHYbob6uS0q528GGduvJsNWPIqRo5b0l/hHDED7DGFeqzm/MG09RftxeTkovC0ITTPgyhsH9oC9IsyEKD1AYTo7Y4j5ieXhcM1OiW70WcKYByHfbDaLlttPn8Nn8rEoLa89G4q8NZ0Y5luZ0LMtFi/2+s0jCd/uJ5cjKoKp7P2N+byAtUHxetBdHOdI4SP66Fmvz2xcVRL+VJBXqgE/Rk3JkmpQMUPVUNP4f2sGSrD1wEShFgmL3vRCgJ9QDlgC8e4uYbODZFTKXZKjI="
+    },
+    "name": "Dwarven Tankard",
+    "tier": "EPIC",
+    "npc_sell_price": 10,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

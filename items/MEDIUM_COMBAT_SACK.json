@@ -1,0 +1,76 @@
+{
+  "internalId": "MEDIUM_COMBAT_SACK",
+  "name": "Medium Combat Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBlaze Rod&7, &aBone&7, &aChili Pepper&7, &aEnder Pearl&7, &aGhast\n&aTear&7, &aGunpowder&7, &aMagma Cream&7, &aRotten Flesh&7, &aSlimeball&7,\n&7&aSpider Eye&7, &aString\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_COMBAT_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTQ5MDk2NCwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRiMmI3OWE0ZTA2MGFiYjAwYWE4OGU3YzRjZDVjMDAzOWY1ZTVjYWQyZDQ1YzFjZmY1Njc2Y2I4M2ExODE1ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "H6DxWO8OcgrChQLa7BfwR5iNDEcbkmmuRcztoxyfCh8byehfRaxxqytYspheAwAuWhPkSKd24AkqSjoMVIUK27jw+sl557BHTIFxqcxwMbEg7fsY7K2Wgpuu1LHVOv4kPp7pucdIgfA1RtNNtXUZPoOFFADx1p6V0zFz5UJkA+zcQPnPl2DVNJOtFVobCxKRrOcHTp/S//3adSNnFQMCHLXiUTrsdjtJV2D6GDbE7mDiKEwxYYqRnFLXNOoZ2MrSQ2ngSlXiQUWBpmaYLyBrYpQ4tvbxzXO9/3fztAYv5LevfH8GbQf7kVwQ9Ekv2TaNdquH9ejDez5ED9FgPz6WTgXWCjLuPcGzjykBCqdb0a/w/yAYLNGkj90AFusrMWfueeEeZqC2MbQCc/K4w9r3XNJ5/DUlNa6UzvfuGqOLWM6vQ3eTDqTU5YXV8RdoyNiqRD8K1oRSaBdmbG2hVD39Y+n/cePavumLhnR1p23L18b1vMOknKGzMnl26VVLGliBLC1k9uf1pb19YLS4/cuZBWsMGT1S+MEpYLw9BA75aEoQ1wEA7fXwHjaQTYWqoRSjyMW+WRMQI2b/JyiTPvdSNhh6eB1UlZ1v1uzL+e/bWOJuQcqxh9VpvWgvKtbtbSjIBlNXMAaOzInOi2Ll6DfHM5t51opXJQWF3YVP2S7wh9g="
+    },
+    "name": "Medium Combat Sack",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_COMBAT_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "SMALL_COMBAT_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

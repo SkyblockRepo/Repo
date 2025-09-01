@@ -1,0 +1,72 @@
+{
+  "internalId": "TITANIUM_BELT",
+  "name": "Titanium Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Mining Speed: &a+30\n&7Mining Fortune: &a+10\n\n&7Grants &6+10☘ Mining Fortune &7while\n&7mining &2Mithril &7and &fTitanium&7.\n&7\n&6Full Set Bonus: True Dwarf &7(0/4)\n&7Grants &6+50⸕ Mining Speed &7and &6+40☘\n&6Mining Fortune &7while in the &2Dwarven\n&2Mines&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 3&c.\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITANIUM_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2MDkxNywKICAicHJvZmlsZUlkIiA6ICIyMDJiZWVlYWY4NTk0MmQ0ODI3NGJjNzYwM2VhYWZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWtvcjk4NiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTYyMzAzYmNkZDc3MGFlYmU3ZmQxOWZhMjYzNzEzOTBhNzUxNTE0MDM1ODU0ODA4NDM2MWI1MDU2Y2RjNGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "rUoZSDXACzJhBV7GMsdvG/BvdEn4D3aSXsOpj2KKIG+OqeFtftWYcBaQtWjzQhRCi6nxr/a/Vvx8X4FdGlpBj/bnfERnCztknqu/hbOJDqlw1EzPUjTHqQzK0V24/Vude7sofOkKRXDT9n6+4Fj9mT/74QRQlWlKwtp8lOI3q6t2+HPtUAWQpBCPsSOt5+MQM/eHRFxDBYnyeGAuid1zD9LV3lufMd+5yyr1WTkUZOxvkKl+qBAtlGqC0kOkrkD3obYTmwqZq7cIeDHKDOghfXQIVGwZJmaMy22ucocgIXF2udB78qVhW86+UAXvkRdTmDlLmPj8X5WwwTLrtDRl2ZaiZ12/Q5LCDgJs9gUK4JZvwMQGMAJyeNkpdH326YBg7DSLdu6pdsautXXVspKfs+MGe89/W2HNDDytjukSoyh10cOjHwlt9ap3hTlLZRXP8N33dDl8WnrSoyoy4zug28EkON0/f8yO7mf7P9uoh2YqnNFnSli8+dcCBzE65w2uqgSl6jCfriIpIdQZnD1DTPCbrBqqtBFsbI4WlKuHAJnUGRy2NpRQxPXFBn46Frxb8opv2yL5rMkYHFPXD6amW0b2P2OTUqtGxmyIYMZjRkKoEQ+78E1MPOspl/KCYDv5k9S4uAcHHDcyb5sHQp3/0hRCJpq2amlixmVFov3eixg="
+    },
+    "name": "Titanium Belt",
+    "category": "BELT",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 3
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "TITANIUM": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "mining_speed": 30,
+      "mining_fortune": 10
+    },
+    "MINING_FORTUNE": 150
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TITANIUM_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_MINERAL",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MITHRIL_BELT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "internalId": "SPEED_RACER",
+  "name": "The Fast",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Speed: &a+400\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPEED_RACER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MDY5NzY2OTc4MywKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jN2Q2ZDRjOGI5YTIxM2U5NDMxYjMxNWRjNWJiODZiMmEyZDZlNGI5YzgwNjM4NWY2ZWY5YjczNjE5MTQ1NmMwIgogICAgfQogIH0KfQ==",
+      "signature": "JUTNOJwO91HEvLwMS/6Yh0EEB8cRUn8zcx+aqP7i2ffY77t5KIV+FqWdyW69y3IwDSFB0OLUwNTh7jTm4azZHg/5dt5XijLkIrZqRChopIS3bH87QSKF0YGF9ZxgxJyZPzm7lLN8htNRB+IzPZDaRECAnKx0xnJyoRgktT3L2yuwJsmMTRiPv6DU02q9hT2/2YUjiLMsLoWYjOBOJxVfjY8RSYfaC7g7luN6j2+2e9xWsyAnsGWpWpFhH2yh6v7pjtx/6LHukFRTvnEILj3Qor+dTWE38GPVf/Tim74dY7Ni7sddzWdWExxsiGbpcNipGcub+8PvQzB2H7M9P1NGTX9Ttc4NU2OF9g5DUZRazKEuwEQxWAYqHD7nerPvjrofRnJHelftL20OsjMCZ41YzALwEQdCm5fGGZHyVM8ttIPNNpwsnTFXe1LbyffHvqA4anRoQLilwmyTOpUkm7v3SfNP/VgjkgyQbIgsieEKB8jIiY3XOkklAd2kFUq6St3N7suOz54pWxqaa8Gf/ymaQ/W1WwlbpOeNGMNQ9H2X4Gcv48lanS6Ni0cIyL2atxIzev9kh3pWV6geiUDcHxvUPbfI8mPOtWtlz/hiFiiM9Q+WL0C8G5grDA3APx0Y7l8n6vt2F468tSG+6Y5Y1oSRSTHspPM0bpWC5x0L/8dAJ1E="
+    },
+    "name": "The Fast",
+    "category": "HELMET",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "WALK_SPEED": 1000
+    }
+  },
+  "recipes": []
+}

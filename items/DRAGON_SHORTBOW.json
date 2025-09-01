@@ -1,0 +1,91 @@
+{
+  "internalId": "DRAGON_SHORTBOW",
+  "name": "Dragon Shortbow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+120\n&7Strength: &c+40\n&7Crit Chance: &c+15%\n&7Crit Damage: &c+50%\n&7Shot Cooldown: &a0.5s\n\n&9Dragon Tracer V\n&7Arrows home towards dragons if\n&7they are within &a10 &7blocks.\n\n&6Ability: Dragon Stalker \n&7Deal &a15% &7bonus damage to Dragons.\n\n&5Shortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRAGON_SHORTBOW",
+    "material": "BOW",
+    "name": "Dragon Shortbow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 120,
+      "STRENGTH": 40,
+      "CRITICAL_CHANCE": 15,
+      "CRITICAL_DAMAGE": 50
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 50
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 8
+      }
+    ],
+    "soulbound": "COOP",
+    "enchantments": {
+      "aiming": 5
+    }
+  },
+  "recipes": []
+}

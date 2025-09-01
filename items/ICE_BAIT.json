@@ -1,0 +1,49 @@
+{
+  "internalId": "ICE_BAIT",
+  "name": "Ice Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Increases your chance to catch\n&7Winter Sea Creatures during the\n&7&cSeason of Jerry &7by &a20%&7.\n\n&a&lUNCOMMON BAIT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICE_BAIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NzcwMzk3ODA5OTAsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYwOWUxNjFiZGMzMjVjNzE1NzJhNTQ4YTc5YmIxNTQ4MWM5MjRkNjNlNGZiODIxMzc5ZDVkZDZjODkyOWYzOWYifX19",
+      "signature": "YIrKV3ujp9xmIPTEiK9M8YDd0uStka7ayBuNnU7TfQvfxUqwNSHahU+r+j/IPmykpNxKoGIhnYtNUJ+0ZxlvWZTXOc9CkOL3xiQTIai3GZiQSatAj9prhasNb5qsBXcl7ifZEcM+GyIz76jw2MB43mCngsDaSxB6WyesSy15Fjc+UnKWfI4Lt0eJ3PN52i1vtLENQSg9NDEmYaYyLewgR7+MDffP+jC3dub3FItyAzcIN0iBudSDr6eHpmSn7NkR1DcSx1FIltZQS+nG4gMp/va0nGxiOZssKJ7itlRUdyrU/Xx9grHpTiN1Ac9yAh7brGxCDFMmTVtLoBBF1fppPxb2DvRTlZyqL5pJe0xuOi4N1oZYBx8zDu5X/SwZMl22HHjxsSOz/CsGtl9yW+w+pRp2yUd8tqQuMFxsk7Eb0oFQpLmiRVaP5A4kgfa9zgACHOprgflu07MGTl8PG54F1HBxi0NKSQWXoo64aMPvw6sqxPIyk5uJZX1hNL88EgRbmjvX1h0VV0DJQINfbEm0bWAtVuE0+gTGKI8YYA8CGiiKYM912hoE85KUZpJ5G+Nvl74VduuCoieMr49db3S/Kh1GfLUFiXtQ6LdJT7i0FegIXwTCzaUQ0xFyJy4QZcDc+D80uuDwvu7vQP6dq+P7Bx0ApTy5g2VL2FVK69qIw1M="
+    },
+    "name": "Ice Bait",
+    "category": "BAIT",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 3
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ICE_BAIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

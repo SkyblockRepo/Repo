@@ -1,0 +1,114 @@
+{
+  "internalId": "FARMER_BOOTS",
+  "name": "Farmer Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 163840,
+  "lore": "&7Health: &a+40\n&7Defense: &a+20\n&7Speed: &a+10\n&7 &8[&8☘&8]\n\n&7These boots gain &a+2❈ Defense &7and\n&7&f+4✦ Speed&7 for every Farming Skill\n&7level you have. While on &aThe Garden&7,\n&7these boots instead gain &6+1☘\n&6Farming Fortune &7for every Farming\n&7Skill level.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 18&c.\n&a&lUNCOMMON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FARMER_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "204,85,0",
+    "name": "Farmer Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 163840,
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 18
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "FARMER_BOOTS": "RANCHERS_BOOTS"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 40,
+      "DEFENSE": 20,
+      "WALK_SPEED": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FARMER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FARMER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

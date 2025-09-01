@@ -1,0 +1,27 @@
+{
+  "internalId": "STARFALL",
+  "name": "Starfall",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15,
+  "lore": "&7&7''No one knows how and when the''\n&7''Starfall appeared. All we know is that''\n&7''it was already there when the''\n&7''Dwarves discovered the cavern.''\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "STARFALL",
+    "material": "NETHER_STAR",
+    "name": "Starfall",
+    "tier": "RARE",
+    "npc_sell_price": 15,
+    "description": "%%gray%%No one knows how and when the Starfall appeared. All we know is that it was already there when the Dwarves discovered the cavern."
+  },
+  "recipes": []
+}

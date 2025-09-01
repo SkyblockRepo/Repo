@@ -1,0 +1,45 @@
+{
+  "internalId": "JUNK_SINKER",
+  "name": "Junk Sinker",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &6+10⛃ Treasure Chance &7while\n&7in the &2Backwater Bayou&7.\n\n&7All &6Treasure &7found while fishing with\n&7this rod part is replaced with &2Junk&7!\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Sinker &7to a\n&7Fishing Rod.\n\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&9&lRARE ROD PART&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JUNK_SINKER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTk4ODE2Mjg5OCwKICAicHJvZmlsZUlkIiA6ICIxNzRjZmRiNGEzY2I0M2I1YmZjZGU0MjRjM2JiMmM2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJhZWwxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMjQ4OTJhMzE0MmQyZTEzMGU1ZmViODhiODA1YjgzZGU5MDU0ODlkMmNjZDFkMDMxYjlkN2EyOTIyYjk2NTAwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "dTN4Z5tB9iUz5/qwgZ6SMXMUXg/fJd3PuTJB3i3/fzkZla0vj04ZQViSRqnkD4uslqQiUpNstC4z7vl86iMZeQm7iouaftvJdQxoArsubgUwnaa+MJNaDGu+xOrYWR/Lu5seefKrjGqT0rGcrlhoI3s7cRv4l7LbuMFsnH7xmpzIt5VqSsSsUqMI7Za9UvNlElmbv9cul6DedDBDoMA+pRhhrnX4/PFu+UmHvmuZRulY6VGi/c8FHJ93IbwfO+Ml5VOvHQdl2r7xPGIoFmKw3UDMcdWC6bYlGDGu6GqM6kCHk5KGfTkD9ZoNVfwsyHG03KqS22SJ2yymhcgOlY5YF7IcletgT1Ddmfz//kyewho7YLzfG8+BMszgMhNSzcKAzs3QEhcs+LCVg8xFqygwd1+K6Fohzw9jMvLRyOlF7bBnAhxuJPw3sIHEtraHEbgDE9AIuxSbLk2bqyPmY0lDvIRguo23AfcuscyraBsI7D9ZpL0pc+GgF4akaUO1CKyUWdF7I4qzRZaXP416h4HeOG2W7r5qt4s0zXIok8BrGd5M1mjGcjsM8Vf2XU5HEXJaX/EDmHMPAE1NAfAkNbl1JdtwSNZgAf3ZlHLJiluxnSnM5kEF4t0GmfBNg0PCIFl7jDd0RGElJqIDI5HLa7VB2GEyNPscAesatXkTpFbDgL8="
+    },
+    "name": "Junk Sinker",
+    "category": "FISHING_ROD_PART",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    }
+  },
+  "recipes": []
+}

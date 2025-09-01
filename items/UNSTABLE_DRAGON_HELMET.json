@@ -1,0 +1,181 @@
+{
+  "internalId": "UNSTABLE_DRAGON_HELMET",
+  "name": "Unstable Dragon Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Crit Chance: &c+5%\n&7Crit Damage: &c+15%\n&7Health: &a+70\n&7Defense: &a+110\n&7Intelligence: &a+25\n&7 &8[&8⚔&8]\n\n&6Full Set Bonus: Unstable Blood &7(0/4)\n&7Sometimes strikes nearby mobs with\n&7lightning. It's unstable!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UNSTABLE_DRAGON_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4OTY4Mzg3ODc0OCwKICAicHJvZmlsZUlkIiA6ICJmNzk3Zjg5ZGVkMjM0YTE4YjAxOGQ2ZmZhMDQ2MGJmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBhY2FMZWU2MjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA1ZmM0ZTJiNjhjNDUwNTlhZmVmMzk5OWU5YTk1YWEzZDg5NDM1OTdhNzg5NGU1NjkzOTdkNmNmNWQxNjcyYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "UQOLkwJowDHDC3nlRsnF2Tlh0kbEevlf9ltlc/MsyJn2TLy0Dq0+rjxQ7AEUBU4lAjdqt3j47LR/YkQc5L49y3nkE+N1b9vgLCTPTfzsOK+oVwurw5OkMK+KmRSsHmZCYqeuHE981WE9C8opc22oPHczr36IXCBoXm0tEueje3rtUhCDwNRwQFiL8DOEx+ZKk2M5Y1N4RLusr4CGPTqx05P9y8nRWwg54J44nXg982vtlNqokB2iFuBJIa0mip+Ycg/oxx2JLuryVwnjPjjTosOhnc10htE+1Z634zo/BMZcIlV/Uq85tUroTkzVfs7kvtqxhkF9J8VogGwjec1n3X+VKv0TPf8erJkQ/ojB1FomzWljV5W0KAW0wjYAI3Ob9qNOo6X5gS584nuVDlUQpN0YSfo19g9Cjbdz/VSBHZjMcMWlYv54jJT8CEmhkrncnEF6QKlMwzPhm3Tt3aEpTw0s885S+nyNQ68JQ7bxOD+R8y+JTOBDMq/W86JOqBxGAJ7eYnUpLEazuJ7z68KrTlp/Cj7qbRnOHys8eCUKJGuSQpkBMKLb7VCZ/qJf/ekt9Zz52s1gGcvFqS5pJsQ4OJOf8DgD6ADvzsVOEemWI/q6jrCw2Zznt86gnjUK+9qZtIEYtINoH3xYYsZ68vJCdzllDXCjX2gnMChwmoGs+v8="
+    },
+    "name": "Unstable Dragon Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 10
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 10
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "UNSTABLE_DRAGON": 10
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 70,
+      "DEFENSE": 110,
+      "INTELLIGENCE": 25,
+      "CRITICAL_CHANCE": 5,
+      "CRITICAL_DAMAGE": 15
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 150
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 10
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "UNSTABLE_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "UNSTABLE_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

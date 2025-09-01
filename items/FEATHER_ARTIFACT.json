@@ -1,0 +1,61 @@
+{
+  "internalId": "FEATHER_ARTIFACT",
+  "name": "Feather Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 32000,
+  "lore": "&7&7Increases how high you can fall\n&7before taking fall damage by &a10&7\n&7blocks. Fall damage is also reduced\n&7by &a15%&7.\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FEATHER_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODQ4MDQ2MCwKICAicHJvZmlsZUlkIiA6ICJiZWNkZGIyOGEyYzg0OWI0YTliMDkyMmE1ODA1MTQyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdFR2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhMjM5ZThiNTJlZDkxZmU1MThkN2M2OTBiMDNkZTlkYzY5ODQ2YThkNWMyMDhhYzFjMTAyZWRkNjhkOWNhMTgiCiAgICB9CiAgfQp9",
+      "signature": "I9t+UO4o9D6fz9I9ad7iggsqJXle9S30mvhrysr1X9nkOIW1jsPjpmQaxKsupifIjJHWvqMP5Bmtmd2Gb+dJnYREJVN7mgcPf/CvrnpU8eYuZ63W6vSH0Cf96RhuwYy3MVDLKN052ITgDDbZLpGoOC4h4M9KavsexhmZAp7bGldYhD+CGnHvPdt7hYe0Sz+goSPosHuzreyDW7qlkhj2k4i5YVmV6qyZeEcs+t2Wo42upZo5m//kmkW7tjk5frVoWLCjJQMn67bq8hx1scTHnxZ1J8+zTzEY0tEfPJyrI3tazRXv8+toaf0NPheMobll8hkK2SI8lzOlYS/eByXnaYiOF5spWQoKD+CSjX5wEVICOVUH98mUmCdJy4kp2++nSNkjpO9b01LqEqOTGeLY422l5yYp/5l2wCM/WYlqjVJinnlZ6bSeQII8NBPLr4VnNFOLKQRl/NGQgavGW2ZsVeM6B7m11U4tvoIef2kbEv88obPcC56lZF85MbStXaJi7CP9Xl/0c2d/VtV2JiGT7xSNDK31X7594IBxubNgtzntx1kyF+3FzZUsRiLSTkGa24arNaIPk4zLoyk7sAoTKlxUp35IA/V3YtgzypJ43/qjOAp0I+opR4fF+GD0JfajpvGANwwFSVoihJ5qfX3fyhVIEemYE87br89LEJvt258="
+    },
+    "name": "Feather Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "npc_sell_price": 32000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FEATHER_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "FEATHER_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

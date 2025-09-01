@@ -1,0 +1,106 @@
+{
+  "internalId": "SALMON_CHESTPLATE_NEW",
+  "name": "Salmon Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7Sea Creature Chance: &c+1.5%\n&7Health: &a+130\n&7Defense: &a+55\n&7 &8[&8☂&8]\n\n&6Ability: Water Burst  &e&lSNEAK&r\n&7When wearing the full set, grants the\n&7wearer with the ability to &aburst\n&aforward&7 when sneaking in water.\n&8Mana Cost: &320\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 13&c.\n&9&lRARE CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SALMON_CHESTPLATE_NEW",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "168,43,118",
+    "name": "Salmon Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "npc_sell_price": 200,
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 13
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SALMON_NEW": 3
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 130,
+      "defense": 55,
+      "sea_creature_chance": 1.5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SALMON_CHESTPLATE_NEW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

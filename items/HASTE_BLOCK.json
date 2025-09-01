@@ -1,0 +1,72 @@
+{
+  "internalId": "HASTE_BLOCK",
+  "name": "Haste Block",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 160,
+  "lore": "&7Gives &a+100 &f✦ Speed&7 when standing\n&7on top of this block.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HASTE_BLOCK",
+    "material": "ENDER_STONE",
+    "name": "Haste Block",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 160
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HASTE_BLOCK",
+      "resultQuantity": 8,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

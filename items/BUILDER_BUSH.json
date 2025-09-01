@@ -1,0 +1,30 @@
+{
+  "internalId": "BUILDER_BUSH",
+  "name": "Bush",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&8Decoration Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BUILDER_BUSH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzE3NjgzODQ1MCwKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyOTc5Yjk4ZWYxN2Y5ZmJmMTlhNDE0MDZiOGI0ODAwOGY3OTBjOGNkNjE4MzdiMzdmNGM1MzhiNDBlMjlkMyIKICAgIH0KICB9Cn0=",
+      "signature": "G5Dhddy5LePjJf2xQHx0IJWO6DMX7o6XN+EsWByzqcpNj2CsGvB12BwQ98MH1kLAyIPviAnBtfzioVKfBaDBbok9ZxaF68zQtZmhuW5aOjer7J4tyN8OmkEOwH7HpiHFyWvkr2O2e2HgtISzRO34zn7gHj/Na5WqbIPFdgwJSrf7rNFXc2eK1/i8r91uPEmnHcV9uQFoyaWj0gRG5HgVO2SIpxIu7Ff6tbQOXcrREHQ1VDEh+g6sHn89PzZWHhKu9VYYPGHx74sPUXJYPjxp+3ikDucsxmURHVKa1yqsPAxM6bpBhXPnsAxR1lMo7bz9cDR+xHCcWy0QGWc/hitKoj78YmmYUj2V4oYAlOh3DHq8olyEaW4zjt5y+8ncnz0E21/0mUpdrkcVnZS7qVDo2Cekufc0NpYo7njB8y7TAnBsYJdeGYjnsikabFeF1RJeDO2ziEn5lkqEMclI9/PFGZUg5VDbL3fsj+7WX2YFIT8CBVjorW9u2g6pjeGhGihIwOme4cfEvl8Kf4PZL+Rp+NYzzb+ONtMYx0X0jIO22cIVpmW+xQcx7qQyIwCA46GAm7queftn+Vs0TQ8iB7LE6Nk0udYjRSjY/qxg1DteousWJYNxqL69Ph9Zke+kKkwECi3tJcKwpIaX8Wz1LYIA59mzXy+XZ7oozCMvkrZfMYQ="
+    },
+    "name": "Bush",
+    "npc_sell_price": 10
+  },
+  "recipes": []
+}

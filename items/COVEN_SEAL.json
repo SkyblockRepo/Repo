@@ -1,0 +1,28 @@
+{
+  "internalId": "COVEN_SEAL",
+  "name": "Coven Seal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Given to you by a powerful vampire,\n&7proving you bested them in combat.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COVEN_SEAL",
+    "material": "NETHER_STALK",
+    "name": "Coven Seal",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "description": "Given to you by a powerful vampire, proving you bested them in combat.",
+    "motes_sell_price": 10
+  },
+  "recipes": []
+}

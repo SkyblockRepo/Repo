@@ -1,0 +1,29 @@
+{
+  "internalId": "ANCIENT_ELEVATOR",
+  "name": "Ancient Elevator",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7''Manual operation.''\n\n&5X&5 Rift-Transferable X\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANCIENT_ELEVATOR",
+    "material": "QUARTZ_STAIRS",
+    "name": "Ancient Elevator",
+    "tier": "SPECIAL",
+    "museum": true,
+    "origin": "RIFT",
+    "has_uuid": true,
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

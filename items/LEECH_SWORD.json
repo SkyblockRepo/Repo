@@ -1,0 +1,78 @@
+{
+  "internalId": "LEECH_SWORD",
+  "name": "Leech Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+3\n\n&7Regens &b3 Mana &7on hit.\n\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LEECH_SWORD",
+    "material": "WOOD_SWORD",
+    "name": "Leech Sword",
+    "category": "SWORD",
+    "tier": "RARE",
+    "stats": {
+      "RIFT_DAMAGE": 3
+    },
+    "item_specific": {
+      "mana_refund": 3
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LEECH_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 2
+        },
+        "6": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "WYLD_SWORD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

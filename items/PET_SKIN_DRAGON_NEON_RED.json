@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_DRAGON_NEON_RED",
+  "name": "Neon RedEnder Dragon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Ender Dragon pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&6&lLEGENDARY COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_DRAGON_NEON_RED",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTEwMjQ0MjI1NCwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTA1YzliNGY0MjE4Njc3YzViNGJjYzljN2Q5ZTI5ZTE4ZDE2ODRhNTM2NzgxZmVkZTEyODBmYzVlNjk2MTUzOCIKICAgIH0KICB9Cn0=",
+      "signature": "ka3sSydCMc1YZSl+Dr79XEhErCyAmAeFSj85pAYZSrztHi9PJ/DXfjGX/vckG5Zv7QZT+/VKKM6+A8uQ1gjogbYUz9eLHmZj0pMyx9SUX1PMGPL/7zczCGOh4VS/6jGvGF5XxOaKaymND3B64jPVCuy87iXovy7AZefmj4bLB6nGKdLQ52ohigvXqwctUCt1d7uJtL8qAMadplFN6GfEVqYAHRopP20zpA8VbvaXShyxd5qnbKNv2v0Y/bx5BsIn3RgHLXPKMU2jKVMeeTnXD+Nf7sUiz8t02UmeL6cAr1Pb5MBjZ9sYisS/4SFL245aI/8FCR2J6niU0wXjDydDh2HAG58QTjihK7VHvEhZspsa6M930p3eyxqtNiJUPJfu91b58LestCLeNGTXpw3tPjXE7r8ROBrqYGHTJw0Ukzj6NpjQ4w9ojqf6p26vCU6bm3LwI4G6nLzwLVz69DXJyehp9FH4yi5KZFg24yKOj/149y1KfsWQw/AniYlMPjC5L6jiFpUFWOPvSKpC4LsE9gN5SbOxAlgZuS+z76ldNF/uZCxevhG7BRXg0MaYxYpvIL14tQ1UrirbOehjIpPV+cPKzQ9bnJz1i7KkTnWXj0VhabcetAC2Ol9dizvCuJR92qBe+zYmogvGxCpcMV1HLJ2eLIFAERDM56WZH84ie+8="
+    },
+    "name": "Neon RedEnder Dragon",
+    "category": "COSMETIC",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

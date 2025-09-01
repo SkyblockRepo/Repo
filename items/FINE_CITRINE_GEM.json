@@ -1,0 +1,88 @@
+{
+  "internalId": "FINE_CITRINE_GEM",
+  "name": "Fine Citrine Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 19200,
+  "lore": "&7&8Collection Item\n\n&7A type of &4Citrine &7that has clearly\n&7been treated with care.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&6☘ Foraging Fortune&7; others say it\n&7might &ehighlight treasures&7.\n\n&9&lRARE GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FINE_CITRINE_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODQ3NzEwNzg5NSwKICAicHJvZmlsZUlkIiA6ICJlMzcxMWU2Y2E0ZmY0NzA4YjY5ZjhiNGZlYzNhZjdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJ1cnN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjMGFiOWM5ZjM1YTFiZjQ0ZGUxOGEwZGIyYWEwZWQyZWJlOGI5ZmFhODIwMzA3ZGEzNjM4ZjM2YTgzMDY1MzYiCiAgICB9CiAgfQp9",
+      "signature": "UE4MiFJGwWYf7nxze8dkedOllok315qPd5VLWPaEK/W9bZgBUCPfEQvfs6pI5BVHWj5Mql2INjtx//g8ft/hbW2NmZV/ZGShLHq2MEuDhdMhyDvThBpxz1bcnYP+jisDwyLMHgfmaLVBl3WTTvlQ0LmMJIPdOdUoM7USp0PwOC29pvsucoKoFk8Ll+9tEMLcrAYTxkvM5HnLIVvzhvGRjJWSGO6M5C7bp2Z8OkivDRPfbsRhpcmTDb/tORFHK8QtNIscypPnDcy4tbq1sUAswAAPbG8s8JW4d/5HAVMxNrZyS9G3EJvaK5RG4JbshKYt3ZoPLzIUqXcBFQlk9JxcBIvGq1ZzTvLI2V6C44tKXslhn5FMNW2AOWYBPvXKkomP9HDV243RJZSiu0R2DdFib8k+pPH0n7ukq+TpXfcZQtPXCIXxmW4+qHwpcZaKY+9iJnWm4h6rF0jl3rQ7stih61/sbamxONRrZz5R869RbN8n+jRNzG97VOO5iKRWt4iT17QtnMS8Ls021dsXwNpIBGSTKCUsr8ghtjA8jSOlGRXGJ1Ox4fTzyhfd5VAuad0koS/Dg1bvv20vIucaJpgjG1LsBEf4UYLbTNLwYwZvXZIDnJHEruzg6b1zTj2Bp/ypCqNfuO8pz8K+0qpAKU/D/rST2fb26jHSq6hWh2jU0AA="
+    },
+    "name": "Fine Citrine Gemstone",
+    "tier": "RARE",
+    "npc_sell_price": 19200
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FINE_CITRINE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FINE_CITRINE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FLAWED_CITRINE_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

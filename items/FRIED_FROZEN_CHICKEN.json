@@ -1,0 +1,83 @@
+{
+  "internalId": "FRIED_FROZEN_CHICKEN",
+  "name": "Fried Frozen Chicken",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Speed: &a+1\n&7Heat Resistance: &a+1\n&7Cold Resistance: &a+1\n\n&7&8''Fried Frozen?! There is no such''\n&8''thing!''\n\n&8&l* &r&8Soulbound &8&l*&r\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "FRIED_FROZEN_CHICKEN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM2NDgyNCwKICAicHJvZmlsZUlkIiA6ICI1OWJlOTUyY2EyNjc0OWE4OTM1YmQ5MGQxNmMyN2M4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVQZW5zcGlubmV1ciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZGYzMDExNmYyNTRmNjAxNjdjZWU0MTM3MTIyNzgzZDJiNGE0Y2NjMzYzNzMwNzdkNTA3MzUyNDI0MDQ1Y2U0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "sLBoaLmSWw4h2hyWFutoo15DCDCg9RDuL9Ry/yLAZbu9hgO0x575IJRn94vdZu+4ncIukOxXJj2piCuNl9jYeq7qnJpyLQD6jAoHcbE9ifcy1JRNYLvmR8YM693TFXZp+gOZWy4De22BEoWE5Ipxy2hAkVbPkCXmEX1CagvdFYbYnDgVXPo1NWiCDvFxmfx/J/NjavPixectncvtf822RDGCXoQ3VgKiubeoPeXOG9Ekfe6fWEwt35vVOKUTA0GnwqpYbg1K2FM8CbwcMhp8ri4aeRITWXoN1ki9hTIsizB9NNenEwhgENvxCSeuxeD9bO4ykwNVqzsIQx84FLn/gl4+a5P0JTQJdcqr4m4Y9Hrb8a9ClJqOfSnDDvKE2EPACBPMmkGdEsfDSIYi8CZYEeo7r6vhArjYJi9jeuS+2fRNMlWlCYHyTw7YNFeTRUKfyNM4ywwAR+CuJysmrUSyFwMmbi53y9KyLEKgvo5K/s1WrVkcnNQGv4vl5W6vQaBxOFX+d1xrDpyq1UGJUBOmiuV8p3KQoTZcz78LWz+tXK7EpNoPf9LojV+t4kHt8lgsxaR8Todf6XhzYZ4VmVIP4BBgpW90gOsaizgYjsmmSiqPrSPCWW96tCE/yvP0rp45PVF++anHfEbiWUncLqXX/u+hM84PERweMG7Mw9yOIvY="
+    },
+    "name": "Fried Frozen Chicken",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "stats": {
+      "walk_speed": 1,
+      "cold_resistance": 1,
+      "heat_resistance": 1
+    },
+    "soulbound": "SOLO",
+    "description": "%%dark_gray%%%%italic%%Fried Frozen?! There is no such thing!"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FRIED_FROZEN_CHICKEN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GLACITE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "FRIED_FEATHER",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "FRIED_FEATHER",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "FROZEN_CHICKEN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FRIED_FEATHER",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "FRIED_FEATHER",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_GLACITE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

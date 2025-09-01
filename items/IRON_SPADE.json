@@ -1,0 +1,29 @@
+{
+  "internalId": "IRON_SPADE",
+  "name": "Iron Shovel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&7Damage: &c+25\n\n&f&lCOMMON SHOVEL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_SPADE",
+    "material": "IRON_SPADE",
+    "name": "Iron Shovel",
+    "category": "SPADE",
+    "npc_sell_price": 2,
+    "stats": {
+      "DAMAGE": 25
+    }
+  },
+  "recipes": []
+}

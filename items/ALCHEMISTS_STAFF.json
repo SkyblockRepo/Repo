@@ -1,0 +1,187 @@
+{
+  "internalId": "ALCHEMISTS_STAFF",
+  "name": "The Alchemist's Staff",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Damage: &c+50\n&7Strength: &c+20\n&7Intelligence: &a+20\n\n&6Ability: Coin Conversion  &e&lRIGHT CLICK&r\n&7Spend coins to cast a projectile which deals\n&7&c10,000 &7damage on hit and knocks enemies back.\n&8Coin Cost: &6100,000\n\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&8&l* &r&8Soulbound &8&l*&r\n&9&lRARE WAND&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ALCHEMISTS_STAFF",
+    "material": "RED_ROSE",
+    "durability": 2,
+    "name": "The Alchemist's Staff",
+    "category": "WAND",
+    "tier": "RARE",
+    "npc_sell_price": 2000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "STRENGTH": 20,
+      "INTELLIGENCE": 20,
+      "WEAPON_ABILITY_DAMAGE": 10000
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 50
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 60
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 70
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_SOUL",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 350
+        }
+      ]
+    ],
+    "soulbound": "SOLO",
+    "ability_damage_scaling": 0.3
+  },
+  "recipes": []
+}

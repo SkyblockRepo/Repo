@@ -1,0 +1,41 @@
+{
+  "internalId": "SALMON_HELMET",
+  "name": "Salmon Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 125,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SALMON_HELMET",
+    "material": "LEATHER_HELMET",
+    "color": "193,60,15",
+    "name": "Salmon Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "npc_sell_price": 125,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 13
+      }
+    ],
+    "museum": true,
+    "stats": {
+      "health": 100,
+      "defense": 30,
+      "sea_creature_chance": 1.5
+    }
+  },
+  "recipes": []
+}

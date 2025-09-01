@@ -1,0 +1,30 @@
+{
+  "internalId": "DIAMOND_SPADE",
+  "name": "Diamond Shovel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&7Damage: &c+30\n\n&a&lUNCOMMON SHOVEL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_SPADE",
+    "material": "DIAMOND_SPADE",
+    "name": "Diamond Shovel",
+    "category": "SPADE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 4,
+    "stats": {
+      "DAMAGE": 30
+    }
+  },
+  "recipes": []
+}

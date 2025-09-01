@@ -1,0 +1,31 @@
+{
+  "internalId": "CRUDE_GABAGOOL",
+  "name": "Crude Gabagool",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Created by Inferno minions, use to\n&7feed Wisp pets or tier up into Fuel\n&7Gabagool.\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "CRUDE_GABAGOOL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTYwNjkyNjE3OSwKICAicHJvZmlsZUlkIiA6ICIwOTZkYWUzZWY1MmU0YWU4ODk3ODY2N2EyOGIwZWFhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHd0FiaXlCZ2dnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlNjU2NGJiZmE3NDljOWUwZWYzYWMyYTNmMjExMDEzOWE1NTk0NDg0MWQxMDczNWNmOTAwZDFlMjkwMzk0MTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "O7CZqbuMkArG93flUqmibymKGPLvtUTcvNZ/q9PaDc5QC4p9mskh6V9MEBfYPz4g7/qSksij66JFbLxjcsj2VCZc03nwwGg4sNzYzcbXn/wGjF5IX6vWha7WEchRgikjgrxAYX4ECN5NlK4zZiPDFH8xiDLCOlCCkaCbcNAQlzozkWpzPH3Fylq/7KdPfP74XxDogBoT1Jz3T5HMiJKmg3h2LahyLOLwThciSFsV9nD07SSsPhZhxr4uWmoP8XV8CU94EQAmJgRZNdZR7wYygiMl/N1hLqsANP5mWacWW01gNOEJoG+XG/FzkNez9TjOgTn4szriDsNBEYvdEf86GUKlKC7GF+INcez/JXey1dQOJRTdXZbYQgXuLZAu4Mg7Nt0FUhJMOIG4XBH7JLt5WzyX9+/eLMZ6nNrqyZINspKOEd059EXXcswvIbf/v9j7LMpKf98+jFP9iV3xnU/CmhtK8UDZISPYYswObBenx15tCCljNJTuEs42QriVmUYXRFh8IWP3YtrAzkO4uoqhOczRSe4WeIlnmgO8FUgjJz/OlJBhWvwp1HOHNydBqDV1jvp6sgIgdSuV+ACnheIu6lPitCu8NRgkxzNT3wI0siAfjPcOYKOwCmuZPo/vu6jScforE0oIeKZfVfBryBHw0J3wiLDmNirb5uMZ8QogpdY="
+    },
+    "name": "Crude Gabagool",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

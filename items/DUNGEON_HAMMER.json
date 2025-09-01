@@ -1,0 +1,30 @@
+{
+  "internalId": "DUNGEON_HAMMER",
+  "name": "Hammer",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUNGEON_HAMMER",
+    "material": "IRON_AXE",
+    "name": "Hammer",
+    "category": "AXE",
+    "npc_sell_price": 1,
+    "stats": {
+      "DAMAGE": 75
+    },
+    "dungeon_item": true
+  },
+  "recipes": []
+}

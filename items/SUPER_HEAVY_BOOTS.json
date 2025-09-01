@@ -1,0 +1,110 @@
+{
+  "internalId": "SUPER_HEAVY_BOOTS",
+  "name": "Super Heavy Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d136 &8(149)\n&7Defense: &a+63 &8(+69.3)\n&7Speed: &a-10\n\n&7Each piece of this armor reduces\n&7the cooldown of &9Seismic Wave &7by &a1s&7.\n\n&6Full Set Bonus: Vindicate &7(0/4)\n&7Grants &f+1 walk speed &7for every &a50\n&a&7defense that you have.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 15&c.\n&5&lEPIC DUNGEON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPER_HEAVY_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "230,230,230",
+    "name": "Super Heavy Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 15,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SUPER_HEAVY": 3
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ]
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DEFENSE": [
+        63,
+        70,
+        77,
+        85,
+        95,
+        105,
+        117,
+        130,
+        144,
+        160
+      ],
+      "WALK_SPEED": [
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

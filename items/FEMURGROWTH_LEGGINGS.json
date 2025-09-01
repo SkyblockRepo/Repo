@@ -1,0 +1,71 @@
+{
+  "internalId": "FEMURGROWTH_LEGGINGS",
+  "name": "Femurgrowth Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+65s\n&7Speed: &a-4\n&7Mana Regen: &a+5%\n\n&7&8It's infected slime, it makes you\n&8slower.\n\n&5&lEPIC LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FEMURGROWTH_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "72,255,0",
+    "name": "Femurgrowth Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "stats": {
+      "RIFT_TIME": 65,
+      "rift_mana_regen": 5,
+      "rift_walk_speed": -4
+    },
+    "origin": "RIFT",
+    "description": "%%dark_gray%%It's infected slime, it makes you slower."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FEMURGROWTH_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "CHICKEN_LEGGS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "VOLT_CRUX",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 2
+        },
+        "6": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

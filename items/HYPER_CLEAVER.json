@@ -1,0 +1,87 @@
+{
+  "internalId": "HYPER_CLEAVER",
+  "name": "Hyper Cleaver",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d375 &8(411)\n&7Damage: &c+175 &8(+192.5)\n&7Strength: &c+100 &8(+110)\n&7Crit Damage: &c+100% &8(+110%)\n\n&6Ability: Cleave \n&7When hitting an entity, monsters in a &a4&7 block\n&7range will be hit for a portion of that damage\n&7too.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HYPER_CLEAVER",
+    "material": "GOLD_SWORD",
+    "name": "Hyper Cleaver",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 3,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "HYPER_CLEAVER": "GIANT_CLEAVER"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 175,
+      "STRENGTH": 100,
+      "CRITICAL_DAMAGE": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 25
+        }
+      ]
+    ],
+    "gear_score": 20,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,90 @@
+{
+  "internalId": "MIDAS_STAFF",
+  "name": "Midas Staff",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+130\n&7Strength: &c+150\n&7Intelligence: &a+50\n\n&6Ability: Molten Wave  &e&lRIGHT CLICK&r\n&7Cast a wave of molten gold in the direction\n&7you are facing! Deals up to &c12,000 &7damage.\n&8Mana Cost: &3500\n&8Cooldown: &a1s\n\n&6Ability: Greed \n&7The &3ability damage bonus &7of this item\n&7is dependent on the price paid for it\n&7at the &5Dark Auction&7!\n&7The maximum bonus of this item is\n&7&326,000 &7if the bid was &6100,000,000\n&6Coins &7or higher!\n\n&7&8This item can be reforged!\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIDAS_STAFF",
+    "material": "GOLD_SPADE",
+    "name": "Midas Staff",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 12,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": [
+        "STARRED_MIDAS_STAFF"
+      ]
+    },
+    "stats": {
+      "DAMAGE": 130,
+      "STRENGTH": 150,
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 6000
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "GOLD",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 250
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 25
+      }
+    ],
+    "ability_damage_scaling": 0.3
+  },
+  "recipes": []
+}

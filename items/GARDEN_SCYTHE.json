@@ -1,0 +1,33 @@
+{
+  "internalId": "GARDEN_SCYTHE",
+  "name": "Garden Scythe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7&7Cleans a &95x5 &7area of grass, leaves\n&7and flowers.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GARDEN_SCYTHE",
+    "material": "IRON_HOE",
+    "name": "Garden Scythe",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 100,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    }
+  },
+  "recipes": []
+}

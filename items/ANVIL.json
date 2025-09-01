@@ -1,0 +1,25 @@
+{
+  "internalId": "ANVIL",
+  "name": "Anvil",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 45,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANVIL",
+    "material": "ANVIL",
+    "name": "Anvil",
+    "npc_sell_price": 45
+  },
+  "recipes": []
+}

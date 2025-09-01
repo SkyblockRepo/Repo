@@ -1,0 +1,32 @@
+{
+  "internalId": "STAR_SWORD",
+  "name": "Sword of the Stars",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+99,999\n\n&9Sharpness X\n&7Increases melee damage dealt by &a65%&7.\n\n&7&d\"Only those with the power to create\n&dthis world can wield this blade.\"\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAR_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Sword of the Stars",
+    "category": "SWORD",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "DAMAGE": 99999
+    },
+    "enchantments": {
+      "sharpness": 10
+    }
+  },
+  "recipes": []
+}

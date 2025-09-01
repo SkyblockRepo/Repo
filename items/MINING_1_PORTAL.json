@@ -1,0 +1,132 @@
+{
+  "internalId": "MINING_1_PORTAL",
+  "name": "Portal to the Gold Mine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&7the\n&7&6Gold Mine&7 for you to use whenever\n&7you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MINING_1_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODk5ODk1MzM3MSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg1NzNlZDkxNzQ0NDMxNmIwYjI4ZGQ5OTI3ZmQ2OGU1NmY2NjI1ZmNmYTczYWQ4MGI4NzcwZDUxMzk4OTFiMSIKICAgIH0KICB9Cn0=",
+      "signature": "CaHWBBxAQbzjqTzYJwDPDn5l+CxTyp/FgkzUzg3nWvsb5cOjqDKYOBcfSWP6hflFMYUmIUmrDHoba9ej5xoxqzh1/gGZ4wD4xludAG5mzYanpBPgWWjJg9tIui1dvgATzFUL9qSTVKdYQPOf06r2SfnUctYKo4AIbvsu5Rvh//Sz52h4XA/rij6J3tjiLsoye9XqbsvCZ1vwy+/nkGP3jcHESKVgaZ9JYaU+hBsP751P9v3CPCZ5OCD/pN/IQJF3h6L1LPVnNnR3WYEHepFfqTWebfoIgSkoaGeINIJUBkMp4ueD0IUEEwH/MLHKTvhMfVNUVQVVOi5awphI5iQvWI0c6GUzfxjJZb38aW5vAxmTHHyiXQtAJxYn6uexBhjhweVPWPWOc5ONjBtVNq2trn7ytheU6K6+AhURdCEIirahaH+mUjPQMPqPAfKxr0EKn/AFqBnGL19B3HIpV8eM2rPtHCjKMONCNeSi8BIvmItIuUEV2CtZtJ0aJAulLlF5fl5pt7Y90Fueylsvkc2i3ZQOQh7nRKids6tiMj3a8z6LvDsFJOALoC/dlJwkMfJOrEhwAIUCknW/CNuKDiZYw3JXvbsQYbaswZmlDYmNS9beLJuhdrmRBbKaTtOGL61UD7l9VfJRFX3cPWNEu2eeukX0tJFtpLkLe4rHbX53Er0="
+    },
+    "name": "Portal to the Gold Mine",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "MINE",
+        "holo_name": "Gold Mine",
+        "schematic_file": "sb_portal_minecoal",
+        "description_name": "%%gray%%the %%gold%%Gold Mine",
+        "destination_mode": "mining_1",
+        "skill_requirement": {
+          "level": 1,
+          "skill": "MINING"
+        }
+      }
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "MINING_1_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_ORE",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "IRON_ORE",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "IRON_ORE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "GOLD_ORE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "GOLD_ORE",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "GOLD_ORE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "GOLD_ORE",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "GOLD_ORE",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MINING_1_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_INGOT",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "IRON_INGOT",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "IRON_INGOT",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

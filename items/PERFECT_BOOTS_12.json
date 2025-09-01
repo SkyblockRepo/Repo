@@ -1,0 +1,132 @@
+{
+  "internalId": "PERFECT_BOOTS_12",
+  "name": "Perfect Boots - Tier XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4915200,
+  "lore": "&7Defense: &a+310\n&7 &8[&7❈&8] &8[&7❈&8] &8[&7❈&8]\n\n&7&8This item can be reforged!\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERFECT_BOOTS_12",
+    "material": "DIAMOND_BOOTS",
+    "name": "Perfect Boots - Tier XII",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 4915200,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "PERFECT_TIER_12": "PERFECT_TIER_13"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PERFECT_TIER_12": 8
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "DEFENSE": 310
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DIAMOND",
+      "amount": 35
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 90
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 140
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 21
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PERFECT_BOOTS_12",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PERFECT_BOOTS_11",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

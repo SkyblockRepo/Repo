@@ -1,0 +1,82 @@
+{
+  "internalId": "DARK_GOGGLES",
+  "name": "Dark Goggles",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d100 &8(108)\n&7Ability Damage: &c+25% &8(+25%)\n&7Intelligence: &a+150 &8(+165)\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_GOGGLES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDQxNjQ4MTIyNSwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkzMTk1MjU4MjVmMWYzMDcyN2ViOTQwZDNhMDY0MjZiYzRjZWMwN2ZiZDgwYWY1Y2QxNDZlM2ViMzg3OWY2OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "ONzamVVfw0jI8gpRnhFtm19zu1SX+anTYQq3NwEq8EYcLKpuhFGncvBzy3+m0rTymdgUNQnHofzATkyKYXU72LT8dJ9/QLkWcmD5ZA/2YSb7eVRn1it00Slz+CzK9T8ymx1ZlQ9xfISqKeM10pgcI/09j0h8KYYBUt6xMwKP/d1xHsfvKXxnWfDVjgPwMWjTzfrhXI1TudUDxvzv0d3ZzEan6O4lrIrMP3RyUzBpjbyGqe1KMi5gY/PYySIPe89bbPDFlkipL8NnRZSldHizbWCVYoAJIs90GoStNLE12ZblnQkzBMh9g11WxIDMZdt+V/z/7s4iFGjgCt8W8kX48MjfFfhoqVvLOK5hrllk9qrftySvxNGzrn46+zN7WGQ837VVJAJBplB7Ud38YeTf/V1S8/13NK+CMCEZCIjJMEG1Xu90O5ir8lZg4wkyP4EH6TtXt5dguMNY9PED6T82jP66RpKyLHW1SZayy87EeJshmAqXfH17fquQ+rSrkd+KOFesctZ37I9yGe4Nt3NyFfyNVTYv/3W9v7UiMGlWac1fA/YFpWOnuwFJdPdXVGaoPEnoEmcI8wmsGzU7Jn8YpdNcEg1uzh+4wWz/S1yHYQIh3DynROfuiDRSCuYv3VJMkGS6gGDfdNiQvkrUkhEFL+Ia5x6E+wCx/NDMv0c4XcM="
+    },
+    "name": "Dark Goggles",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "DARK_GOGGLES": "SHADOW_GOGGLES"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "INTELLIGENCE": 150,
+      "ABILITY_DAMAGE_PERCENT": 25
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": []
+}

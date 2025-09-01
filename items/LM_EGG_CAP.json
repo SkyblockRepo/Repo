@@ -1,0 +1,57 @@
+{
+  "internalId": "LM_EGG_CAP",
+  "name": "Living Metal Capspawn",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Spawn  &e&lRIGHT CLICK&r\n&7Spawns a living metal autoarmor which can be\n&7assimilated into your own armor.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LM_EGG_CAP",
+    "material": "MONSTER_EGG",
+    "durability": 94,
+    "name": "Living Metal Capspawn",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "motes_sell_price": 100
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LM_EGG_CAP",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LIVING_METAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "LIVING_METAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LIVING_METAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LIVING_METAL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LIVING_METAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

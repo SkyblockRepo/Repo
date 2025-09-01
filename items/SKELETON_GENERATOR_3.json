@@ -1,0 +1,77 @@
+{
+  "internalId": "SKELETON_GENERATOR_3",
+  "name": "Skeleton Minion III",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Skeletons!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a24s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_GENERATOR_3",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDU0NzI4MDUsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjZDk1NTlkYzMxZTQ3MDBhYWYwMDFlMGUyZjBiZDM1MTdmMjM4YWYyNWRlY2Q4Mzk1ZjQ2MjE0MDRjYTQ1NjgifX19",
+      "signature": "VFt4IZ8Tad9mtVbY7/JP5ZAIbXuZyy2Gxiscj32uGKwXIIifERgqm46Xa8gqYEAYTDPFSnDz4mdU48yh0cTT81iGrV7Dt/GkaCn4LHjT6v104Qa5MYT2vHbTTQnrCdEJnZDvbIKEpouOlByUCYe7IPeV9uYoK6JTa8Xh4qyEo77KyOgIhoEzM98nekKYD42QHXqK+7AjSbJfVoxcz5LcsWJfMWAG6kUELH4J7qR8j1UXm8Q5AZgaPYufe7VRIifCcpyG+jzQ31MENbIZUgJDT3Rsrk8nza96ib7HS4UldBL3VXPIC1QLkSuKaCGZTKqt962ZMkc4v0scXHgfB2Snfl5n0Zeh7PZpjqr5fOC2wbatIAFXP6ZZPTZmG50bNoQJHGzfZ/rGGAs7xP5QOflPovd6mKdHyuD9xUp+EMfPYbkQDa/If98ns/UiVTqyOIz893mf7UY5+EiOhrxIPt1Wks2nDv0pyM/bweBx62OLgmft9eVz/7ZoGMXMOYOrtdM9raf63K0XLhGfNPPs6uBUDm8C7wmgpZuenLtFXhfh17/Ys02k7g/CiJSSPP7j7HnY4VLTEPAvELHICoHcPSs+0s/wsbz6VgCI+F89Asbn4UNSzQptUWV0Gq9sibKSpZqijhB7XLSaO8AZ11aCXLZYTNO/W3PzxzVHI38iwfrpvyU="
+    },
+    "name": "Skeleton Minion III",
+    "tier": "RARE",
+    "generator_tier": 3,
+    "generator": "SKELETON"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SKELETON_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BONE",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "BONE",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "BONE",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "BONE",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "SKELETON_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BONE",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "BONE",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "BONE",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "BONE",
+          "quantity": 40
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "internalId": "POWER_CRYSTAL",
+  "name": "Power Crystal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1920,
+  "lore": "&7&7Powers &bBeacons &7for up to &348 hours\n&3&7at a time!\n\n&7&7Can be obtained through refining at forges &7in the\n&7&2Dwarven Mines&7.\n\n&7Has a single &7use and can be stacked.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POWER_CRYSTAL",
+    "material": "NETHER_STAR",
+    "name": "Power Crystal",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 1920
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "POWER_CRYSTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STARFALL",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "STARFALL",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "STARFALL",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "STARFALL",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

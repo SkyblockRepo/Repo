@@ -1,0 +1,39 @@
+{
+  "internalId": "ROSETTA_BOOTS",
+  "name": "Rosetta's Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 480,
+  "lore": "&7Defense: &a+20\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROSETTA_BOOTS",
+    "material": "DIAMOND_BOOTS",
+    "name": "Rosetta's Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 480,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ROSETTA": 1
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DEFENSE": 20
+    }
+  },
+  "recipes": []
+}

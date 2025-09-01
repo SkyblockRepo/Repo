@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_MITHRIL",
+  "name": "Enchanted Mithril",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1280,
+  "lore": "&7&8Collection Item\n\n&9&lRARE DWARVEN METAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_MITHRIL",
+    "material": "PRISMARINE_CRYSTALS",
+    "name": "Enchanted Mithril",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1280
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MITHRIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MITHRIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MITHRIL_ORE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

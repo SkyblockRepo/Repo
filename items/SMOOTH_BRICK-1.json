@@ -1,0 +1,26 @@
+{
+  "internalId": "SMOOTH_BRICK:1",
+  "name": "Mossy Stone Bricks",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SMOOTH_BRICK:1",
+    "material": "SMOOTH_BRICK",
+    "durability": 1,
+    "name": "Mossy Stone Bricks",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

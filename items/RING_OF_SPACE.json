@@ -1,0 +1,31 @@
+{
+  "internalId": "RING_OF_SPACE",
+  "name": "Ring of Space",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RING_OF_SPACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjU4NDk0OSwKICAicHJvZmlsZUlkIiA6ICJiYWI0NjQ1NzRmMjY0MGRhYmFlNmUzZTBjM2I4MzFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb3N0d2FsbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzFmZTVlNDE4N2I0ZmEwNWQ1NWI2YTQ4ODdhZjQ4YjIzMzFiZGIwYWNiNDE1MjBkNGZkOWRjOGRmOWNiNTljIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "hYmKhDWIxy9ZZr+RZpwmW2Pje81as28aPxXOeaWmu31kjrX9ODQFNaxRmAZ8rWXy0IWkOWmTxhv6uvr1MFBn5a/82JsemHOA36yt7fphhraMzzkWTLaSC513p3HXU4+25rBLPNlAepd86dF5oSmCXVY3SA5iB8dz6MP6awI5lt4/PL/zOsf4wLu2pwmJDSRTtWFb14ki8ks+UxqibgqiX1GlhZpcBaT3DSwf96Gt/K2gMBYJnEpEKVJSXgUqer4J2IfgtPDUQsZqwaLpEMiy3K8qdtUvfFqsQqxm/vssP8kQsyuvjLOvpMLHeQ6GyNB70jCwsGXL0zdcXXf/tlg/2HHMbB5+Yk/ACUdqnsdUtJTDK88Zahdzbg/+/KFzx89isOhRQKw3VbyQ9maClkthP+3BNDNpCrl0c8fi5JqErXvPDksteWJ/6YxtkuYLfAC5HQd9vmeNCeje5El7A3SSHYBo842/SYPVIon3WxFTXcnIz8oFAJqcnG1y0LWKMOzrXI6j7zWg0qCD0ZabLHoq2I2i0Twr5F392tQ7KVvh/agLWX+XXR94EyAJArftc3ks94xDO02RvupY0QY+vpwMoysi7Bbmm3EZ+YaOgaOyB1sEuqSa0Vzk1LDbAu4VY+g3/xzuW7D/SLGPVv4GfBNj/iTJ/99Rk+9uyfE2FqwYrT4="
+    },
+    "name": "Ring of Space",
+    "category": "ACCESSORY",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

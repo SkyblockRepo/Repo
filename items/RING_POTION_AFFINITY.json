@@ -1,0 +1,77 @@
+{
+  "internalId": "RING_POTION_AFFINITY",
+  "name": "Potion Affinity Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2100,
+  "lore": "&7Increases the duration of any\n&7consumed Potion by &a25%&7.\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RING_POTION_AFFINITY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjMzNTcxNTIzMCwKICAicHJvZmlsZUlkIiA6ICIwNTVhOTk2NTk2M2E0YjRmOGMwMjRmMTJmNDFkMmNmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVWb3hlbGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2YjVjZmRkODA0ZDc2MjQ5ZTdjNjk0NmIxZDlhZmEyMmU5YmRjNzIxNDlmNjgyZTcxNjU0YWVlODg1ZGZmYmIiCiAgICB9CiAgfQp9",
+      "signature": "Z1HBkp2hIE5HWjVgQ0GdGtZ+Vg5VkhnC2Z1pSOj6ocIbUwDldeXTgf6ClwRVXe6VEaRfF/PO1vs371ZjpJE2hdpgMKO4mA5pXVh4xA4zjy/xUBQHXuLdhwewHhuZeAJMju9FISbYIFHkAFGARRVEislCDWqyCfAqYn6+jrhFSz/gCz1lD9VwuKN2Hv3dW3harcxPYMB28+agpzPp24NonFkfJJK+IQKl/4EwZdiMdmgMHpJC6+9Yf0e22POVLltyPio+i9WsICELldW7INyGJf3uH1aB1LYZwLncl8Ji2qGWSAVgSdM1CCIBD2cfqydWfBQZMYVPD4/ek+CMHzpbG6zitdbkMJwcZ5VCz+lwFwyskoNFk8rHjdFrATJ7YTwvkGBXrxZ5KpbTnJfB6Ejd95N3xpWZzTCSk1eFXt5omgkf71l0YVZlbVuvRjYHm9mryVAdnMeMyZu8XhHEanM4TiBQnX8+t0AMuDOrTYkB7D7Evuy6uhoFTjoJW9v8ODhBcb60459R+e1zoYk/2GyBxZ69IDh/IYBlSntkYyZpOA56YJCyB40o56EU2j0EaNrkZCv79SdgrYvBvK99HR0bE9raa1YKnh3CfoEmrWb21c+VP7nZnN6iCJ1q9BIR6kl/MmeIfrP5qC0Aq/anHirhCqRDwQnbftwY21d4eVYzPHE="
+    },
+    "name": "Potion Affinity Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 2100
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RING_POTION_AFFINITY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "POTION_AFFINITY_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

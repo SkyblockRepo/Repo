@@ -1,0 +1,123 @@
+{
+  "internalId": "SPIDER_HAT",
+  "name": "Spider Hat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&7Crit Chance: &c+25%\n\n&7When worn, &7Cave Spiders&7 and &7Spiders&7\n&7deal &a-30%&7 damage.\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPIDER_HAT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMjgyMzg3NjUxMywKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJb3lhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZDgzZDA0OTQ5MzlkYmE1ZjI3YTFkY2JhNzAzMWQ1ZmVmZjQ0ZDZlZmU4ZDg2MjNlMTIwNTI0NzBkMGE2Njc0IgogICAgfQogIH0KfQ==",
+      "signature": "C08Cl3RCVFyDUrBwP837kwklsxqsV83OTn28+fEQ1T1H+pUE7zsnljCBC9HXhb8NUKWMvjVWCl76oCDrIQ4voUlGQBt1W4vmCN3ECi+cs5RDPWsooFh2xvhsldJr3UhB4eUG4jwZ2WaNfFb69oAx+HrFpnuT+5s3naVPOO0CJ47EWdevXYI0mi+3pY9G1fp6Cm4C5Ogd/nXjfXaYuCuJAjI13wW7y4Ih6VcXsCIbCls9mBhYnFWecuLNCqGFkSEkgSCWkBbK30IZiJwWPkhFGl45C02h9oJM+dPMxutGH27K+dAqsL/zlAJRGDsUuKHJr+aozwfG3o48rUMuQpzJG5gV6K7sedMYVWcmqKfmLzllR90i9NWSQoeUW+VZN9Y9wo620i5Bo5TW6Bl4cogdnKOqJLtTTBz1bI1ZAWp65GYjIAk2NCCNzioK3jrGB3c1XxLj3Nk6VMcTUhknbpdWtiNEBCmJyAVGreiHOfegl+O4JN5iMUc3NMhgxNXM9xnyMWoEEBuUnc8dT7kNN+R3XbXPoDXowPHUGzJUoWzyoa+8fqS4341KGvBHoQ8/7HvPw/wzBuwlckgQYqewCfCAwlYZnonIII4Eh7/5eLjQsHcyy/SGSqE5OKiadc0soUKcuQmmGIRJFKqW3XuqPrX8eLOASEm51aIoQTkdHr9selo="
+    },
+    "name": "Spider Hat",
+    "category": "HELMET",
+    "npc_sell_price": 12,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "CRITICAL_CHANCE": 25
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPIDER_HAT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

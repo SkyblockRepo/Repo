@@ -1,0 +1,77 @@
+{
+  "internalId": "OBSIDIAN_TABLET",
+  "name": "Obsidian Tablet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aMythical &7power.\n\n&7At &6250 Magical Power&7:\n&c+55❤ Health\n&a+39❈ Defense\n&f+9✦ Speed\n&c+39❁ Strength\n&b+59✎ Intelligence\n&9+16☣ Crit Chance\n&9+39☠ Crit Damage\n\n&7Unique Power Bonus:\n&c+150❤ Health\n&c+40❁ Strength\n\n&7Requires &aCombat Skill Level XX&7!\n\n&9&lRARE POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OBSIDIAN_TABLET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODM0NjAyNywKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYTE1OWQ5YWMyZmRiMTY0ODU4YjYzNTBlMDNjMTkyNGYxN2U1YWE4NjExYTM0N2Q1NWI2Yjg5ODIwZmFmMDk0IgogICAgfQogIH0KfQ==",
+      "signature": "L7XqDLjJkXohzaldaj16OX4VxriUsZEefaDJf8v/VgfQWXTLt5twZf6orsFPv6FyNAqzmQOyNUU7XFhty8xZyYCiXHeTknhMAaD0pY4HR8ou41BFNL0bYwGJRs6Egy/COOPApSLa1UsXsctDtWRLs1HUnr0f7QiYYWxLYE1fjHRYVXo8uUNErhjhXsUATVjMhBCZAoV7610eeeSqphYyOt5s6gnHqrAD+Q3axsxD0uCCXVYUYRD52I/NTdrlbabUb9iH7wmyluxE7Z6Qw21ZcW2dw5A7BpqJqiBD8/isv6U1dvuMTGCIh3/7jobE6EhHNv5eHSsf9FmYnJuqLIcqxfvJ3xe9KKQRHYFEkZzqm4XOSGQzMfaGia5ssHqH9BigmBP72XHi9LACeeQ91heyFXtGbejWEm6FMA6ZYrHIOJiknnUFMaZcE3dIJfTizX/NS4FV4Xg+TtIiYUvyeeqYjoxJUpvRpsQdyC0rfMG3cGN4HvlxuQfdouDDYSaGAw278oWFmMbBqlleZS3wBcjjrttn1/Y8iWEgkQcH1B78Nv7wj/Mqt2+XoqwU9mPpeCAa9FiEMTEWSqvQFk8doKiB//zdbEUR1EtijgCxzod9xTYCkSPuP2q3tV8NZ8tKYLjftr10oruIWCAs4PNqSMyW0iCQrqgkWrqweOvNrW+MHa4="
+    },
+    "name": "Obsidian Tablet",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OBSIDIAN_TABLET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        },
+        "2": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        },
+        "3": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        },
+        "4": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        },
+        "8": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        },
+        "9": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 24
+        }
+      }
+    }
+  ]
+}

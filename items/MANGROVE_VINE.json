@@ -1,0 +1,98 @@
+{
+  "internalId": "MANGROVE_VINE",
+  "name": "Mangrove Vine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 51440,
+  "lore": "&7Foraging Fortune: &a+5\n&7Sweep: &a+1\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 12&c.\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MANGROVE_VINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "LPOYn08K8RCP3NkHv6/HjdQw+9Tgj3K+Mtd/cG4mnkVh74eDLlQWSdgXhccLS6NEdSji/wgPOQ3c4MhR2Sal0JUQuH8eyCRbRbympkHV0PNjTNf7bWcYiWjNUo8J11pgME2UwRkGiCgE3qWwDl/2I86DSqimeP7CO/4Va1zLezmfNTRLXnEI8BdKXfxzyDJnKpUumxy0gMl5Xq0lWQrKq9iNDMRWyvXGlvzXnPwdK08o9o1vzAI5RdMwlr8VGO71jsY9o4C4MkXL9ASSeZdT7cqffQLThufG4BQueQNGNYO7jTrJYPWPg5I9+NPJ947f2Es4s1uXAhnuhZhVUf7Q/8V7HIsJSNy4Ub03dpvVMIkuKiUhNU1QRIJJ1jqAeoys4Yj4tfeI4EMimeEcWYekfnqosPq0AAACysMnglqKmL2i3sTF1ByJlq7r2W1NN5JhYlrMR1RevUBLL/g6r7EpVqo6uqBR5g9HBBdhsT/E8YKuIQ2e5BzirDAAR1+xluZHTpuO0KiA0wDwh0uYvJI4OwDQQhdpBWEKvQD/TfNkq4uJ3fBsEBlBdMyUqvl3a80pr3tEZHpChr6evO4is/CN7Z5+NDSvWPaV6hCQyND9jDjFC1K8BY6a1iR9aiYIClNlfUuQvDdsTg0VGOZuKyI7c1hsGyeEO+ugD0o97AReGeE="
+    },
+    "name": "Mangrove Vine",
+    "category": "BELT",
+    "tier": "RARE",
+    "npc_sell_price": 51440,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 12
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MANGROVE": 8
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "sweep": 1,
+      "foraging_fortune": 5
+    },
+    "can_have_booster": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MANGROVE_VINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

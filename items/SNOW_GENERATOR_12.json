@@ -1,0 +1,32 @@
+{
+  "internalId": "SNOW_GENERATOR_12",
+  "name": "Snow Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and shovelling snow!\n&7Requires an open area to place\n&7snow. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a5.8s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNOW_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTU4Mjg1NTI4NCwKICAicHJvZmlsZUlkIiA6ICI4YzExNzIxYWM5ZjE0Mjc4OWEwZDgyMmRmYzNhMWE5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb2d5Q1pTS18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg5NmFjODk1MDNmOWYzN2ZlMTE3MzEwYzEyMGFhMmQzZDAyMTYzMGUwMTMzNjVhYWYyYWMxMzEyOWJiODU0MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "oddOSbOUUv2GVKYX5irwKc5ng7T8kc0ywoku3OVGLZA6MdP5sFCFYQlIhTtOweiMuUliRQZSU6E/tqzUe7dZ8oYqW0Jn5TWth4c68a++9TXqAZ+YzhvtRNKmeBtbJX6s/xoIm9M7O5D/qj1atDMbjstXt9GnQ8FB4tkPUSpOzz92XQvccJk/O1QT5xTng+ZfxLkaVgH8oMsd5hawahibsqShNAys3XizT65aGhDklvYGzHG9K3agDQ+1FiI2wAEveiQDHDYM6MXx0wCXCRMlqbeFXHP9MydHMSOUpLryUcTBXx41JjjAWPN+KzSkfKYhsujrKbXb1aE5f6RV1thZRGyq3BE1XSLDhv7L3KLIMOKIsxhONGAVLFgRmvbyw2y/6QTO0+pNupHBij+Tbt/1/GkkxPFv1Poli5z6djRf/W2aJQfpAcVPGnmoFBxLNBpxWnRGe0FuprLkbG35AxVbOHd5U8eYZ9JrHElXGsVIJoNVyY+72xi/GatdSFAoJjLtOkfVQJy3UCThTbC7+bQeWKuHhq3I2ukVy9qQ4lz7+f84TgOZ3IEYooSntjokPFCcwOd8VaVv7Wd4o94c4uwCUUYhZ/BPZTTLeVilAuFVKCVDNJpID7SMRBI5eDG0auXTsp/L7gpYhkXzZke7f8CeVYXSlD8c40rHlQB7tkvXkrA="
+    },
+    "name": "Snow Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "SNOW"
+  },
+  "recipes": []
+}

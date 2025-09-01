@@ -1,0 +1,30 @@
+{
+  "internalId": "ELLE_FUEL_CELL",
+  "name": "%%green%%Ballista Fuel Cell",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8SUPPLIES\n&7Take this Fuel Cell back to the\n&7Ballista to charge it!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ELLE_FUEL_CELL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAyOTIzMDk5OSwKICAicHJvZmlsZUlkIiA6ICJkM2Y5MjEyMjY3YzM0YzEwYWNjOWZkNGI5MDFkYjI0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXl3ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZDcyZGViMWFiMDAzM2I0MmIwYTEyZWZjZjQ4M2YwZmJhMjZkYzUxZGVkMzkxOWViYWRiNzBmOTY1N2ExZjYxIgogICAgfQogIH0KfQ==",
+      "signature": "VzJLVWF8IfRaV5Cn8t9B4NszqWtSu0+TYIMNAdqC2AYWFnh6vrVButk0AVT+NzSlvz0GAJdCa5uqhZWvSuwjsN086jFk71hobGJZ8CdO+x4ZS7MgNVjGStdVQyq5Lqrarspv17ggbTuS2kO9EIPWLmc/2g1Od4D0uo71mK741thqqhHbg5ehoRHOzkkFYxM/eSqNUy8dmj/ilXPXGyoPjY6PLMu9B31M4CwRTCcRQs5SepFyAagaCjsgmCCr3CU/2+e0GY0kMPMFVTntSrLnUxcl6740yfH7XBQNuHwSlfGGg1B64DpdxABco815cyf402n8DvYijTzK//vhhH2pkc4wHUh+pZT+xUde/5HbgcLjqCeVx9LBzaX+OletGrdCGNBBCRqC6bXND3zAh3D7cEmfiSZNpOW/d/Ixx39rCCZczha80gZ5RaL8d9+taPrhEyGt7BucjS9GAd5SUbecFXSkFpJZxJHO1HVGKJ26XlP6DSoK+BUvY39RT7zPXnpvLavZcD37z56BOQI10kRKg6kn1BV4Trpi6EJEQkKtvbLN4xbpc0rM7+vsJPud4gTvZAqHRxMsKi56j10N/PaCr9XJl5MnL84rY4MhnRBbaY59FsW3f1Hi7hDo42rcid4Q+xMzTHDT741FwJ4emMsrgrrFKPNyfzTwGB1LJlheGqc="
+    },
+    "name": "%%green%%Ballista Fuel Cell",
+    "serializable": false
+  },
+  "recipes": []
+}

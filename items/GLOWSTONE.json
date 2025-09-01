@@ -1,0 +1,25 @@
+{
+  "internalId": "GLOWSTONE",
+  "name": "Glowstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&f&lCOMMON BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOWSTONE",
+    "material": "GLOWSTONE",
+    "name": "Glowstone",
+    "npc_sell_price": 8
+  },
+  "recipes": []
+}

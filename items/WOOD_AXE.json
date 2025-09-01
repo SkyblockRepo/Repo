@@ -1,0 +1,29 @@
+{
+  "internalId": "WOOD_AXE",
+  "name": "Wooden Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+10\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOD_AXE",
+    "material": "WOOD_AXE",
+    "name": "Wooden Axe",
+    "category": "AXE",
+    "npc_sell_price": 1,
+    "stats": {
+      "DAMAGE": 10
+    }
+  },
+  "recipes": []
+}

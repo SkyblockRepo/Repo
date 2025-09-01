@@ -1,0 +1,29 @@
+{
+  "internalId": "EXTREME_BINGO_CARD",
+  "name": "Extreme Bingo Card",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Obtained during the &cExtreme Bingo\n&cEvent&7!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXTREME_BINGO_CARD",
+    "material": "PAPER",
+    "name": "Extreme Bingo Card",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true,
+    "has_uuid": true,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

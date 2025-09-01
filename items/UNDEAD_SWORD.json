@@ -1,0 +1,80 @@
+{
+  "internalId": "UNDEAD_SWORD",
+  "name": "Undead Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&7Damage: &c+30\n\n&7Deals &a+100% &7damage to &2༕ Undead\n&2&7mobs.\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UNDEAD_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Undead Sword",
+    "category": "SWORD",
+    "npc_sell_price": 5,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {
+        "UNDEAD_SWORD": "REVENANT_SWORD"
+      },
+      "type": "WEAPONS",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 30
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ]
+    ],
+    "gear_score": 10
+  },
+  "recipes": []
+}

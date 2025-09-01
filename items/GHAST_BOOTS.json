@@ -1,0 +1,29 @@
+{
+  "internalId": "GHAST_BOOTS",
+  "name": "Ghast Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHAST_BOOTS",
+    "material": "CHAINMAIL_BOOTS",
+    "name": "Ghast Boots",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "stats": {
+      "HEALTH": 100
+    }
+  },
+  "recipes": []
+}

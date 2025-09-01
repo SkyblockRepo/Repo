@@ -1,0 +1,32 @@
+{
+  "internalId": "BOOSTER_COOKIE_BOX",
+  "name": "Box of Booster Cookies",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOOSTER_COOKIE_BOX",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjY1MTE3NzU5OCwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YWMwZjVkOWM2ZjRkNWRlZmRkMTg1OWU2ZTc1MzM2OTc5OTBmODQ3ZGI4MTI0MTBkZjU0ZDYwOTczNmY5Njk2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "etQCFwlUOCx/bhhmUesUsDAcKlt1yWtHlkma19a0BR6FzfvaXVstttPfvY0tCnCk/caEEUpDJIbX9u4TnMGkXbqQW/Sj39z4fdtjiOoUogkkQ1b8LSXKfB94Eitf+IvikafhTnTe54Xfmg8Jt9nunZeLDJs7s7MM4zWsERjzRu8ckCLrA1FfnXtRxgHu5+fNh8xL23sSAAxTfkK7LR5O+RdurHSCsAQzDNMThlDSR75Hj/5pqtiUo/lj0jtKslqYP2cVC8zvH55CtuqfJoiX2O+0seygUGN/Qti+5olbAfPmzkIOfVKMH9fwa5JBorLoBsf46k501gQ68SmJnI30sxvqV/XoOZmoNP6fC7GThBMkUtn5OoDQCK2hUROk2jDd867mDFxuXS0lICB0x7EUXvVrJVvINvCSljDNNS9EdMZvb7t0FxYX/l7dAefEodu4lVKMXU9R3kmQhu45Y5DhI5R8FzLUrpfzloYgocFdD7on3qEd+AjwpkdChh/07I0ySmpmd3hHQ8GFlYO3olWUKTkP/ho7QCeekq2eOqVVRl8lqEqLNvoUdmIdxkQRyGCLNd+CVuENMp3KyN1rV5FLs612kFy32q4XTKosnVjRARK1xF0oKjE3/k3TEKVZBzepec77OwAHZI5TueBQYDq60VtFYzLOsRynOr1lDXzuWtg="
+    },
+    "name": "Box of Booster Cookies",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

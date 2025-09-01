@@ -1,0 +1,82 @@
+{
+  "internalId": "LIVELY_SEPULTURE_CHESTPLATE",
+  "name": "Lively Sepulture Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+65s\n&7Hearts: &a+1\n&7Intelligence: &a+30\n&7Mana Regen: &a+25%\n\n&7&4☠ &cRequires &5Vampire Slayer 5&c.\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIVELY_SEPULTURE_CHESTPLATE",
+    "material": "CHAINMAIL_CHESTPLATE",
+    "name": "Lively Sepulture Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "stats": {
+      "RIFT_TIME": 65,
+      "rift_health": 1,
+      "rift_mana_regen": 25,
+      "rift_intelligence": 30
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LIVELY_SEPULTURE_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "METAL_HEART",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "METAL_HEART",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 6
+        },
+        "5": {
+          "itemId": "ORANGE_CHESTPLATE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 6
+        },
+        "7": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 6
+        },
+        "8": {
+          "itemId": "BLOODBADGE",
+          "quantity": 12
+        },
+        "9": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 6
+        }
+      }
+    }
+  ]
+}

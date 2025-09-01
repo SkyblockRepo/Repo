@@ -1,0 +1,96 @@
+{
+  "internalId": "ENCHANTED_HUGE_MUSHROOM_1",
+  "name": "Enchanted Brown Mushroom Block",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 51200,
+  "lore": "&7&8Collection Item\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_HUGE_MUSHROOM_1",
+    "material": "HUGE_MUSHROOM_1",
+    "name": "Enchanted Brown Mushroom Block",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 51200
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_HUGE_MUSHROOM_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "HUGE_MUSHROOM_1",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_HUGE_MUSHROOM_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

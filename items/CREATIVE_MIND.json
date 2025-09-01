@@ -1,0 +1,29 @@
+{
+  "internalId": "CREATIVE_MIND",
+  "name": "Creative Mind",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 123,
+  "lore": "&7''Original, visionary, inventive and''\n&7''innovative! I would even add''\n&7''ingenious, clever! A masterpiece!''\n\n&7&8''This painting is a relic of the past,''\n&8''the writing on the back is unreadable.''\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CREATIVE_MIND",
+    "material": "PAINTING",
+    "name": "Creative Mind",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "npc_sell_price": 123,
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

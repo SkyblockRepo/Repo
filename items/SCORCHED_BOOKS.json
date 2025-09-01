@@ -1,0 +1,32 @@
+{
+  "internalId": "SCORCHED_BOOKS",
+  "name": "Scorched Books",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aScorching &7power.\n\n&7At &6250 Magical Power&7:\n&c+81❁ Strength\n&9+93☠ Crit Damage\n&e+17⚔ Bonus Attack Speed\n\n&7Unique Power Bonus:\n&c+7⫽ Ferocity\n\n&7Requires &aCombat Skill Level XXXV&7!\n\n&d&lMYTHIC POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCORCHED_BOOKS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODQxNjk4MSwKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZWU3ZTkwNjY4NmFiZDVlYzE5MmIwNzkzMTRjNDVmMWZiODE3MWQ5ZTEzY2FhNGNmOWY2M2FmYzIyNjNmZDUiCiAgICB9CiAgfQp9",
+      "signature": "qGNat3HKL/DnwkiHzPl9Zc1jOzjFQS1xB0nlEDZ2DVix/4029GUgmbWedzxlYhe3R39Ngi4isEpBc9ujmPSf3MummvN9ss59pyhhraBuqtweU/zkfbcCu9JYYiR9D7YUCSqHDEBxrKkxBVcr9wBLJUf0eFA8VD7mqF/2mVHg9ZbG6Ihif98X1+x7xHDNzT2cf/blzCpMcKORLumaKEQmPzBIQxLBzdmgn1+U7sLBle4Ktic2mbTFscLq2LTy66z5FYpMDjwb96L/Rw9S1oaMnv3D+EHczR7La+ye3itlALyDM/vfvuVUJz4EizLIQwlodEVBVyyr0qkjjpJuZj86s+FljzAADNU/6XLguATuhiDBKV9d5VaMa1RgmNzVYS1OqJtMhU6tfUSVYuw+WqGcJeiWu3XEbEiKyGQsiE5KKRtZZ/I1d1NN0xoxFvFiUql/2IQUVVZ7jUx8IbZ1BLpPKxuk4VOe0Ug+i2xI2uVb+JyaGp3hnBI+C2Jz0tufm+bdSrkjZ58P3be3Q5v42FQfObYd0MDz90yxszSYO4XSdRuR6ZHsycqNle0Bcz0mSZExNx4BfduljYksYFHPYLkL64YHKpm6Ztibu+npl2t4u+i+NrIxPb77+K14Eyimo5LSmIOBADQbVE51v2cnduWHIUnKrC020F98WCDhPqkSteQ="
+    },
+    "name": "Scorched Books",
+    "category": "REFORGE_STONE",
+    "tier": "MYTHIC",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

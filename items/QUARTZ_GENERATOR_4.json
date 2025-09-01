@@ -1,0 +1,77 @@
+{
+  "internalId": "QUARTZ_GENERATOR_4",
+  "name": "Quartz Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining quartz ore!\n&7Requires an open area to place\n&7quartz ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a21s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "QUARTZ_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDYzOTY3NzgsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMmJjNmM5OGQ0Y2JhYjY4YWY3ZDg0MzQxMTZhOTJhMzUxMDExMTY1ZjczYTNmNjM1NmZiODhkZjhhZjQwYTQ5In19fQ==",
+      "signature": "t/GpO4f36OKUxhaDGm8CHHO/9qgoE0dL4ngIglGUCzE9q5AZpd2k7hVgH3qhjl0egsGaRUBVaJk1A3hwB+VPvdZeO19r8dTxAJk4AUD7HG0ZHpv5jNKagIXCFZDwXXykTSiKfwPLGjZvoXIHriDwy08FNAu4UboHKjE3le9L74G+KFCGvNJ2cgS4M8qe9xiyLfqWaMnICA9nEdkFVO+UMxgNTxAGr4KA9gLhgQj6L/2pz9c+g86wj/nJS2OLMKU4kPyz1qob3XKgHzu7SumYzUHEyIIcOZVqT+OqvP9+I+15l3a0mJfYrJIlBpwbyKOzAyGJRWiFLyFG5brArFCB7h8LP8mIW+GJIkrWUSbvI4J82+ak90HTiH2WlnNQ/lhdJydP6hzuARNRd4EEIWP26lX1Of3ofWCqtVGZuFyQqea4gyCJ6szjOUr8VIi3PsMoJOdr7SBNFu4G9a34Pee9bbgfaduycTcV3kW2LsT0gSmlARFXhGlViE10DJb9/S7W12r4prFbqNosE2edFwrlLCQ9J5mvv5NO0oIKNFBiCfBTu2QWdrggZP98M5HtqIwhzU3JE3iItS4B3YsEgS3OzVli0r4q9Y0BI2pqt13xdZ2FWu0TVrB8hqk82k3jfYil9LjirtoOu/7QHg36aqGYzFKx7gO5Wrf7qZJElJllsTY="
+    },
+    "name": "Quartz Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "QUARTZ"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "QUARTZ_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "QUARTZ_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "QUARTZ",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "WINTER_WATER_ORB",
+  "name": "Winter Water Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7A collection of frozen substances,\n&7potentially including ice cream.\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WINTER_WATER_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjQzMzU1OSwKICAicHJvZmlsZUlkIiA6ICJlODhjMjBiOTUyMTA0NTA0OThkMDU4OTA5ODVhOTQ2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTY2huZWxsZXJUYWc0MjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTYwYTg3NWY1N2UzNjcwMDdmMmMxY2YwMDc3N2NiNDFmOTBlZmUyMDdmMDM5Y2MyOWQ3NmI1OGI4ZDg1MTJkIgogICAgfQogIH0KfQ==",
+      "signature": "sO+FZXh11WX2RXi/q54kMl9G/VKGm4dl3igigZ1Dk6sw7BAZNgtaoYt1F+jwbiZTgwA/iE2po5wFloGuQuG4L4jq67680x3FSt4NFlLAZwXyRirEDTZ4hyGa7ThP+fO2fafTCLTcTxyEuqLTjz8yPIaOlQTbiUodLQTvrBXpGhuBRWS8fuBppEykATLrV48/s2a8cr0aVxK+1Ys5JoPKGbJ55gs/7OnRAJSIXq0xsZ21NO5LFTSWFGEO/8ymPH9imUwcJXy59gs1YmtsAXyQzpyi8BnJeFAO5M9En2Y/HvC0GdnConvlWsW9W4++skGw7hjvtRuYzI1vcD2e3V7E9tzaKSMQnNFZHil9uinzFP2o/fqb3D2MkPBPxdI9FRwoLLuho4BORgoCoXqPQYiUFfLhRZvPsRg9+zOeRon3v/YVv24M60ItGULnmb9Btq2xVVSULMVUvj5uSLSceJSnAd1zkmqezrGZeZ5hZ/xCy/alJZzv+9YpsTafFh5zFxx31fJJQwhSQcoOYZY91yJeY6rSVGfZYkq8eXW8ODXaqRsVpNo9RXSsm4xjr2AOCob6DOM+hH0m2T2cAehteNM9JrxBIw/seZKhy/58b0rfUHfmBEhnmy/y3S8omarmwNoFCV5RxnA1ML9IBgscMpNy4orUElN4niDRO28AI1xSWjs="
+    },
+    "name": "Winter Water Orb",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 5000,
+    "description": "A collection of frozen substances, potentially including ice cream."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WINTER_WATER_ORB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ICE_HUNK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ICE_HUNK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "WHITE_GIFT",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "WATER_ORB",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GREEN_GIFT",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ICE_HUNK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "BLUE_ICE_HUNK",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ICE_HUNK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

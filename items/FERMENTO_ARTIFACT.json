@@ -1,0 +1,79 @@
+{
+  "internalId": "FERMENTO_ARTIFACT",
+  "name": "Fermento Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Farming Fortune: &a+30\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FERMENTO_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjE4OTc2MCwKICAicHJvZmlsZUlkIiA6ICJmMTkyZGU3MDUzMTQ0ODcxOTAwMjQ1MmIzZWE3MzA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZVhvU2V0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxYWRkNzIzMWM5N2U3N2ExNjliZTc2NGE0MWY5ODFjYzlmNTQyYWE4YzZhMTMzNmQ4YmUyZDgxNzIxMWJiZmQiCiAgICB9CiAgfQp9",
+      "signature": "WGSevRglKHttAhfjqDrNS6tc95FXmAYja8AYxc1AMPIzhJR7ljS6wFNdBFPcB35xSyYAKR8lE+dv+8hMHsm7Vaap13KjAg5bZ1WUz2pCsjGp6/7LHWCpXBiR36HvMgstGZtqE7Uys9wKG00PGFfR4KJxDWDTzIwZJxSd44EHdaQMjTEXaVeyjIwkW008xKB+mle33V4vHqbqNJvfx2qv6fJEIcEg1bKIdIe2Vurj7lWPJN/pLCL0AImp9iHC8LBaGfPuAVMAJG/rTAv37Iz75j8+8utRQlLUB2GY6sgdTvty5klSUFt29VVCs5ezO65TH3lEMFGOOQdo6iXEyC2GPzRcrcpLpVzFhaG0n81IBbcYp/YD2w/pEPRDOYCj7lhtf6RjMDr+I540+YQqwhMaMCiCWz/XLAqMYNv540J6oxtWICAQZUXPwFicZuWAsDkS9qCRr1XIPkGlFOQDehtIAkYErJpHNOc0S0h6HKJcYUOl+Hd0DJ7XmkyVAiPIzTJxc6/3k0DsMsjPswTKt+AXmVzTQEuLk4flNr8XR4/k6byVo6rGCj3+mtyLhxDz2nulYvEGgbrParawtqOZ+QRfj6FzMk9VBY+/U3+tSC8izffpM1EwzYTV/sqoneNV3GobPjd811nezxtXAoMrbwwr66FpLtz4nuX6Nqwj6vFPb0Y="
+    },
+    "name": "Fermento Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "stats": {
+      "farming_fortune": 30
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FERMENTO_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SQUASH_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

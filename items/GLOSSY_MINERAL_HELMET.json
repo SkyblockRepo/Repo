@@ -1,0 +1,90 @@
+{
+  "internalId": "GLOSSY_MINERAL_HELMET",
+  "name": "Glossy Mineral Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Defense: &a+90\n&7Speed: &a+20\n&7Block Fortune: &a+50\n\n&8Tiered Bonus: Glossy Mineralworks (0/4)\n&7Grants &e+0▚ Mining Spread &7on &6Ores\n&6&7and &9Blocks&7.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOSSY_MINERAL_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkxODg0NSwKICAicHJvZmlsZUlkIiA6ICJhN2E4YWY1NTk0ZGQ0OTJjYWViNjc1NzUzMzRlNmM0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJpdHNUcmFjZXJvdXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1MjhiMjM1YzYwNzQ2N2MzNjljYTljM2YyYmY4OTAxNGZlMmVhNDVmODhkZjI4ZDAyOWE1ODFmZjRiYjE3MjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "U0lTnarZ05WgdZYielrqjQJkJLztxCIqJNXB65DkocUzDQrBcNpxaG1uz5qhx9pO8CiOVdHpMJg/+bX69VvnCbxYYTuDdqW/wj8jECBN2PMHss9+3Z9dbGbBnTLQPWsb5SGgMwtKsUMinwxlZ/PQotwy+p3tUL1NmAbRH3DWuOw6yItJOMEZcMWcxju/zio6rDDD6ZrVkFrrDp/Fuv1onhqzry4R/MXZOgIpM4bEBQJQZuPZPBCZU+mlXWF+fvECNDHqcNIqNCA7BfCvjCBTpo7AsOsDoXLRPoN8wqunzH0yxSyHYo8rY2ZJv0AJhB4wajfvELWI1CsbdDJ6rUOPFTBttPaKkOIjmz3Cx6jko1X5KQt7tcUrA7T6P9JMy2vaMNIXPnwUFtmdos56fOwoZqWtGLTf5p5zgP8JgYdCiDfCPM94b8MCqyfd1caKVeNf1i7d8df2zRcyI6ZUFrUMVMm88QDze9gJkmhPuzwmXxYXgI1WPZ+jJqlKBgGBBNF6Y+T0BILdlyhgO7gv13Xda+pwlN+2ynvSKjERkIrSldq6QYancXJueX+NnZcQaZWmUXjkHfuWinccj5AYuWpzeyA6hc5DvCIsyECa5TprL6bu/TorKlkiAH5J27T0RF/BrUouEPHZXTqk0tc/xCVEvcwa9fO0L+llDw/XwGkpnio="
+    },
+    "name": "Glossy Mineral Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GLOSSY_MINERAL": 7
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DEFENSE": 90,
+      "WALK_SPEED": 20,
+      "BLOCK_FORTUNE": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLOSSY_MINERAL_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "MINERAL_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

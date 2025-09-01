@@ -1,0 +1,28 @@
+{
+  "internalId": "SEWER_FISH",
+  "name": "Sewer Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Where did you find these? They stink!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEWER_FISH",
+    "material": "RAW_FISH",
+    "name": "Sewer Fish",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "soulbound": "COOP",
+    "description": "Where did you find these? They stink!"
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_COMBAT_SKILL_BOOST_LEGENDARY",
+  "name": "Combat Exp Boost",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_COMBAT_SKILL_BOOST_LEGENDARY",
+    "material": "IRON_SWORD",
+    "name": "Combat Exp Boost",
+    "category": "PET_ITEM",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

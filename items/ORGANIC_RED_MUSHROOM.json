@@ -1,0 +1,27 @@
+{
+  "internalId": "ORGANIC_RED_MUSHROOM",
+  "name": "Organic Red Mushroom",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORGANIC_RED_MUSHROOM",
+    "material": "RED_MUSHROOM",
+    "name": "Organic Red Mushroom",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

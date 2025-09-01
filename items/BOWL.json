@@ -1,0 +1,25 @@
+{
+  "internalId": "BOWL",
+  "name": "Bowl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOWL",
+    "material": "BOWL",
+    "name": "Bowl",
+    "npc_sell_price": 0.5
+  },
+  "recipes": []
+}

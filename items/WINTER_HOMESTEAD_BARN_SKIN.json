@@ -1,0 +1,27 @@
+{
+  "internalId": "WINTER_HOMESTEAD_BARN_SKIN",
+  "name": "Winter Homestead Barn Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Consume this item to unlock the\n&7&5Winter Homestead Barn Skin &7on &aThe\n&aGarden&7!\n\n&eClick to consume!\n\n&9&lRARE COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WINTER_HOMESTEAD_BARN_SKIN",
+    "material": "PACKED_ICE",
+    "durability": 2,
+    "name": "Winter Homestead Barn Skin",
+    "category": "COSMETIC",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

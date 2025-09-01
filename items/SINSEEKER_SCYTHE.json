@@ -1,0 +1,137 @@
+{
+  "internalId": "SINSEEKER_SCYTHE",
+  "name": "§4Sin§5seeker Scythe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+100\n&7Strength: &c+100\n\n&6Ability: Sinrecall Transmission  &e&lRIGHT CLICK&r\n&7Zap a line &54 &7blocks forward.\n&7\n&7Recast within 1s (&b1.5x mana&7) or warp\n&7back to starting point.\n&7\n&7Mobs crossing the line(s) receive a\n&7&cmelee hit &7from what you're holding.\n&8Mana Cost: &3260\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Enderman Slayer 6&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SINSEEKER_SCYTHE",
+    "material": "GOLD_HOE",
+    "name": "§4Sin§5seeker Scythe",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "enderman"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 100,
+      "STRENGTH": 100
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 250
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 70
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 140
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 210
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 350
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 600
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 23
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SINSEEKER_SCYTHE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_ATOM",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "NULL_OVOID",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "NULL_ATOM",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "NULL_OVOID",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "SINFUL_DICE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "NULL_OVOID",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "NULL_ATOM",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "NULL_OVOID",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "NULL_ATOM",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

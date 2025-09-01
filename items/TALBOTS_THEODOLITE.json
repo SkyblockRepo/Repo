@@ -1,0 +1,27 @@
+{
+  "internalId": "TALBOTS_THEODOLITE",
+  "name": "Talbot's Theodolite",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&6Ability: Track  &e&lRIGHT CLICK&r\n&7Indicates the approximate height difference\n&7and angle between you and your tracked mob.\n&8Mana Cost: &3100\n&8Cooldown: &a10s\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TALBOTS_THEODOLITE",
+    "material": "DIODE",
+    "name": "Talbot's Theodolite",
+    "tier": "RARE",
+    "unstackable": true,
+    "npc_sell_price": 10
+  },
+  "recipes": []
+}

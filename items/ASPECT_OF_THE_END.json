@@ -1,0 +1,88 @@
+{
+  "internalId": "ASPECT_OF_THE_END",
+  "name": "Aspect of the End",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 56000,
+  "lore": "&7Damage: &c+100\n&7Strength: &c+100\n&7 &8[&7✎&8]\n\n&6Ability: Instant Transmission  &e&lRIGHT CLICK&r\n&7Teleport &a8 blocks&7 ahead of you and\n&7gain &a+50 &f✦ Speed&7 for &a3 seconds&7.\n&8Mana Cost: &350\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ASPECT_OF_THE_END",
+    "material": "DIAMOND_SWORD",
+    "name": "Aspect of the End",
+    "category": "SWORD",
+    "tier": "RARE",
+    "npc_sell_price": 56000,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "ASPECT_OF_THE_END": "ASPECT_OF_THE_VOID"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 100,
+      "STRENGTH": 100
+    },
+    "can_have_power_scroll": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ASPECT_OF_THE_END",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ASPECT_OF_THE_END",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ETHERWARP_MERGER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ETHERWARP_CONDUIT",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ASPECT_OF_THE_END",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

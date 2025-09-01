@@ -1,0 +1,87 @@
+{
+  "internalId": "DANGER_2_PORTAL",
+  "name": "Portal to the Crimson Isle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&7the\n&7&cCrimson Isle&7 for you to use\n&7whenever you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DANGER_2_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NzM5NjczMDgzODMsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NDQ1N2IyZDdhY2Y1MjJkMTkxMmYwZDZjNjEzOTQ0MGJhOWQzMzNhNmJmNjFhMmU5NDQwZTdmYjM3ODg5MzllIn19fQ==",
+      "signature": "P/Zwj7KZM5ZvXezFGaOi0aZvmyXeN6/yCCS7HmnvlaWe5VsBWtRHgVIbBR5AiFX3qCkhy0jpL2igoIaWNDvES3g0bc4NAjpDWEtFN32N1IL6tM+H+x9hSWwB5MirHNu1z9pi7FGfrdNpprV8oALzfg/IvN3E6y2e/CfbsfqIfLvrbi3C7x+045dMzjEthFrZApd82K3QLG0zmdPT2MrpBW/0WI3OyfN4ESWL8Tsm6zcunSm008/pJQl9SMWMu5xzjfPRQEi7W0+GIjETrHUyon704KE50C5r8HyC9FCJnkE61e5btXmmVQoRUwi1G7C7veeQpDfEojevrJzDwZvlBlL2JmUgSJ+VqPqyTSP3nlcuxeE1n2BGT261vtPzPmhpz4dRteYAJFXsl7EVBrbTuMmMhDnz5EqBXqFgkRgv0KpuuzZTw92GMAIb7g+oES1i7hr3gsIx+XvMsNrMAlNFN2xb86EwxqjQHAVi+EpHR7Y7RKShksGD1AtilK6kEHq24kEui94Qq+BNFnaU+IbgmGcr6gkNQROSn6SPYFjUVUGam9QCIqZznNPZPlyPsKRtVhk4WDpD1k39L6UmV1f8TCiNtADLZoUZqpQowPpGFNe46PN6uc0sdxJoFsCBxNWoUIRnI3Z/JmF86/QiEMl/pLfI8F0qXRLWnZr8Mhs6x0Q="
+    },
+    "name": "Portal to the Crimson Isle",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "holo_name": "Crimson Isle",
+        "schematic_file": "sb_portal_danger2",
+        "description_name": "%%gray%%the %%red%%Crimson Isle",
+        "destination_mode": "crimson_isle",
+        "skill_requirement": {
+          "level": 22,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DANGER_2_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLOWSTONE",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "GLOWSTONE",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "GLOWSTONE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "NETHERRACK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "NETHERRACK",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "NETHERRACK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "NETHERRACK",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "NETHERRACK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

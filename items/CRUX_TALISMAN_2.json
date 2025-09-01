@@ -1,0 +1,81 @@
+{
+  "internalId": "CRUX_TALISMAN_2",
+  "name": "Crux Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+20s\n&7Intelligence: &a+2\n\n&7Defeat crux mobs to gain &a+5ф Rift Time &7and\n&7&6+5 Crux Fortune &7per kill milestone.\n&7&8Crux Fortune boosts the chance for\n&8bonus crux drops.\n\n&7Kill Milestones\n&7  &2- &2Shy&7: &e0&7/&a10 &7kills\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRUX_TALISMAN_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzMwMDMwNSwKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiNWNiMmM0YTAyOGJhNzFiOWM5NmJkZTE0ZWVmNDM3MDYyM2EzMjUyZTI1NDVkNDBlMmY0ZGZhOWIxNTRlZmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "A82qe+LFFpDBoc9yMbf/YpK6c/InXsqL9IBnDNN+1XqOLjgZf+LptfgTZHJS54JLK/YuATbCjslN0pBCql633FF1DHGBhKssJntnf05hRfK/sRNxasIOzLzH4uEiCM01z1Ewx4cQ0/GC8Mnv0gOxUO2DlV+1nxpo29HDuQAkc4ldBxkCxsr49UzAlVtg8cta64m3KHttbLi8nON2kvdZFJfM/qTNGlpFJrqFbcT7YZc+hYhrvZesJX/QszSMGgDz3SywjKIBhyFv+6CoSEVDcafyMKd3gCj1c9cuzoYMrp806BendkPO+5YYYHPIJhnIxfDrMSaYewt2BMVUh7Kf3sJLJavC3+d98/QtngwigtAWdbErkr1Q9PrUJWQm+pqMsEjYruXAM+AxUXsrq/XDyHtqrDwaptmutNuSg1UBq4vftHj4KvFhwGYIIxZzjFPhIngsLTbj59P/cgdtAFuH8kCnNuf4Dq6JGwK1oF97AASaYyVuiSTjSJknn30i4DI5K8X7wwx+In/voqyWAFwY0WTxUPxvG6o4BxE8twyOA89h9BXYuybXgjDuhxzV08Rfou775CepWjeg1foxWpQYYnf33L8+Dl8EBRuS4LLyINzk4fiiar/4CAizk37a4v+68ey7hFxXwUR7Z2juUvfuzvMb5Vyc1u+IreNBL3qoAAA="
+    },
+    "name": "Crux Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "stats": {
+      "rift_time": 20,
+      "rift_intelligence": 2
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CRUX_TALISMAN_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "CRUX_TALISMAN_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "SHADOW_CRUX",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

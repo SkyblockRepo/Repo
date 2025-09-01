@@ -1,0 +1,32 @@
+{
+  "internalId": "BINGO_HEIRLOOM",
+  "name": "Bingo Heirloom",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BINGO_HEIRLOOM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAzOTI5NDQzMSwKICAicHJvZmlsZUlkIiA6ICIyMmNhZTExMTU4MzA0MjU5OGQ3Nzc2ZGI4YzlhZjZmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmFuZ2VyVGhlRG9nIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RiM2EwNWIxODAyNjBkZDA3NDc5OWQwNWI5MGY2NzkwYjk2MGQ2ZTVjYmEzZGQxMjViYTNiZmQ5Y2MxNTQwODkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "JCXXVbonny/bmSuw2lpUd1UmchjQfe6/HVagoMhFiGCClnPXws9fzuYTm9e0qQbg4QEiMCMWCeNg7f5NkRiGRYqV+7kvW9SBez6LhX0QpBoKfs2xbzclKkJCyqbGxKTMuf6J/x869E9hp4VXgSkVNMbMT2c69SMwLyIbR5GpWrxUThVs/VUSkoEkrnLB2PBvRNDd/YIsUh3B636Jiqq7QvhqEwvoPqbKMSjLp3+z0NnsXpClXAonrfWP+9PQ62nuVyf5dTrMUSkhmz0oL0+6yP2Voe4aQRiwxOTmQI8fxvzB7i9yh7/FSlzRMbwjyxz+uqKaxkrql1Wlz536bHYzC7PFqu7ljnZ4YYQeWSZsnBNgKmpjX7muxMfQ/U3KoMVlHjPor8uRaBptJ8AaF2QGdamzPqZctX378xghrX3OHlJGtMsurgkg7nwON444LZ9S8YMoJHIJuhbcTHQgPSyQeYaBGiRjPSV07Bo0ZeQGj88k6F1Lfz1Cyt0wNXqabQk9b8uF1im+JV9L1toEKexaq3rTSaIp/stlOW1WiOhJnwwfTNGvu2qSvxJH2EAKgz7joyVTvqGZricND37FlifMWg1/ch47+PwNATFSgJo59+Ewtd9D/5J50wb3O6GWeuZAmLyAmd9dhWafYS/tl3SPDVvafoPPaIfxXsD7BzZzVRA="
+    },
+    "name": "Bingo Heirloom",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "museum": true
+  },
+  "recipes": []
+}

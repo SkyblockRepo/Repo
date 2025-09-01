@@ -1,0 +1,36 @@
+{
+  "internalId": "ABIPHONE_XII_MEGA_COLOR",
+  "name": "Abiphone XII Mega Color",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b7 \n&7 &7Maximum Discs: &b4\n&7 &a&lContacts Directory&r\n&7 &d&lTic Tac Toe&r\n\n&eRight-click to open!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_XII_MEGA_COLOR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njk2Mzc1NSwKICAicHJvZmlsZUlkIiA6ICJiNjc3NTgwYzExYmU0ZjNiODI1OGM0YjBkNzNhNzg0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPZmZpY2lhbGx5SksiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZjY2JjOTM5NmRkYzJhMWIwNzg0Njg0MmMwZDY1NjFkYjEzZDFjYjQ1ZDYyOTljMmZkOTgxYTIzMWYwNTc0NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "Uvhm/8IMlLgq+PbCS8hgaJIG/RaSXh7SSfBDoo+qDaAVcdElSq8QtthQ9hq4uGV0Iys6aT501i0dq32dOYHc+tf7wl0CXCtHPsXMhM0LwREU8i7tztfWfK2WRb49xCnlmCqKDIhV0u/qJhO29eoL/+7zgCQFwMaJtQgS9DqbQCsBkqgyJP0qRMFWqr3M5S+gt4wObtZOsY0KIbRV2P6R8En54urG6C3waCGHgUaJRiA+7NZvFnYdp0z+kiFK2XmJ1SZNb2+KLMjxpE/03XACf2W2NnsLNuPK8v/I5oSgvUQymgLgcBfF0kbVQQ8MN1cNfCZxNrZBBsnR8byotHCkzj2n6D41wYo9xGhz808dZOG8xUk6oQDcbpUqo/lmw7jvpDmIOsAJxlLI46VxwBPaLuETfyG+o21lJAq2z+o2KrZr4JTCb1+IAciNuZq68j9Ilig+WYFAV34dRJILZxZF+9IPKYRczhr/cV82JSDKxfUqJWVF9zLvbZc2bGAbqHvFmD2IvM4auhok9Sv51dKIQrTbANiI/EhXKDtANEPjuf/rs2fAusMHAtPSYDccEsiJFV2D3FmeFHrI/Eu0BL2z6pcgqLk3y53BrwqayfpZoNTdesOQJygcsmpi+sz57DEYJ3H5mQ9YnA2imF/LlHrd00lwEN3pgPOEUNibVg74J+Y="
+    },
+    "name": "Abiphone XII Mega Color",
+    "tier": "EPIC",
+    "item_specific": {
+      "max_contacts": 7,
+      "max_musicdiscs": 4,
+      "can_play_tictactoe": true,
+      "has_contact_directory": true
+    }
+  },
+  "recipes": []
+}

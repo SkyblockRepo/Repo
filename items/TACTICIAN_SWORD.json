@@ -1,0 +1,37 @@
+{
+  "internalId": "TACTICIAN_SWORD",
+  "name": "Tactician's Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+50\n&7Crit Chance: &c+20%\n\n&7&7Gains &c+15 Damage &7for each\n&7Combat collection at Tier VII or\n&7higher.\n\n&7Your Collections: &e0&7/&e11\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TACTICIAN_SWORD",
+    "material": "WOOD_SWORD",
+    "name": "Tactician's Sword",
+    "category": "SWORD",
+    "tier": "RARE",
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "CRITICAL_CHANCE": 20
+    }
+  },
+  "recipes": []
+}

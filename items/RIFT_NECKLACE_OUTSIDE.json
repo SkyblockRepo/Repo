@@ -1,0 +1,131 @@
+{
+  "internalId": "RIFT_NECKLACE_OUTSIDE",
+  "name": "%%light_purple%%Rift Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7True Defense: &a+4\n\n&7A very powerful piece of equipment\n&7originating from the &dRift Dimension&7.\n\n&7Becomes more powerful as you fill\n&7the &dRift Gallery&7.\n&7Secured: &c0/8 Timecharms\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&6&lLEGENDARY NECKLACE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "RIFT_NECKLACE_OUTSIDE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "FzgY6lZN6PQ1XTZPQoqvDUTMg6uM8Q5g6DMJi2LfxqOQKGgcV1exkBxRJDEzlPZafg/anFsxaovU6wocV+naHSqLiltkJAbTEByg3IKXfT3mThzVfVckZDJ1xo1SfspYlw60P15oquJ8oE9KLZDGTr4VL7r4ps51df8QyVDZ772qW5mOHzwTuarFoH6zJyz/DjFTAPBOKeV790yuGKIeS69K8L/cVHjR8c5SqEDvVYdjXNHEk9q4q+FX0FInxuw1JkjYOIHXrlYwj2OJpIAMjHXBbCyhCrkZnq7uEJ46XJ02SThjL6ozKUh3ueda7ReKtP7YypOTy96FScf7+jgPr6OlS/fKLNHowABLfC1nb7iKPWENTxE9l/EX6Q0GKoGzO0oxDxGk6YGk4XQjfTa9dOh2v8IBPVYayGlkHNaEkLgcq7z94a83X/NFq8kw6oD+nNb+COhVU7hDud2e+a7Ij79XdA2oziX/PZFq5vQNbKT9yAHPomhCrPszdbs5Re34kpo8z93UKRrWuPEWb+p1Xyr4kB8M5xkJlaYO/JIJ/C5/7/S7S+SvM5Eg7KS/KjBgnnt3hyVxdDTVCfUs9dvLs9ztbYnPoY0lL8BddGN6DnbV1Ejk1GzBGu2+AhRbICRy7/vx+2E3UrurIRJZs91hS2oSZAV6Jxh5RITzzDdwhs0="
+    },
+    "name": "%%light_purple%%Rift Necklace",
+    "category": "NECKLACE",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "item_specific": {
+      "scaling": {
+        "tiers": [
+          {
+            "stats": {
+              "magic_find": 1,
+              "intelligence": 10
+            },
+            "numeric": 1,
+            "item_tier": "UNCOMMON"
+          },
+          {
+            "stats": {
+              "health": 20,
+              "magic_find": 2,
+              "intelligence": 20
+            },
+            "numeric": 2,
+            "item_tier": "UNCOMMON"
+          },
+          {
+            "stats": {
+              "health": 40,
+              "strength": 5,
+              "magic_find": 3,
+              "intelligence": 30
+            },
+            "numeric": 3,
+            "item_tier": "RARE"
+          },
+          {
+            "stats": {
+              "health": 60,
+              "strength": 10,
+              "magic_find": 4,
+              "intelligence": 40
+            },
+            "numeric": 4,
+            "item_tier": "RARE"
+          },
+          {
+            "stats": {
+              "health": 80,
+              "defense": 15,
+              "strength": 15,
+              "magic_find": 5,
+              "intelligence": 50
+            },
+            "numeric": 5,
+            "item_tier": "EPIC"
+          },
+          {
+            "stats": {
+              "health": 100,
+              "defense": 25,
+              "strength": 20,
+              "magic_find": 6,
+              "intelligence": 65
+            },
+            "numeric": 6,
+            "item_tier": "EPIC"
+          },
+          {
+            "stats": {
+              "health": 100,
+              "defense": 30,
+              "strength": 25,
+              "magic_find": 7,
+              "intelligence": 75,
+              "combat_wisdom": 1,
+              "farming_wisdom": 1,
+              "enchanting_wisdom": 1
+            },
+            "numeric": 7,
+            "item_tier": "LEGENDARY"
+          },
+          {
+            "stats": {
+              "health": 150,
+              "defense": 30,
+              "strength": 25,
+              "magic_find": 8,
+              "intelligence": 85,
+              "combat_wisdom": 1,
+              "farming_wisdom": 1,
+              "enchanting_wisdom": 1
+            },
+            "numeric": 8,
+            "item_tier": "LEGENDARY"
+          }
+        ]
+      }
+    },
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

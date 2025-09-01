@@ -1,0 +1,126 @@
+{
+  "internalId": "STARRED_BONZO_MASK",
+  "name": "Bonzo's Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d400 &8(440)\n&7Health: &a+125 &8(+137.5)\n&7Defense: &a+100 &8(+110)\n&7Intelligence: &a+150 &8(+165)\n\n&6Ability: Clownin' Around \n&7Instead of dying, gain damage\n&7immunity and &a+20 &c❁ Strength &7for &a3s\n&a&7and fully replenish your health. The\n&7cooldown and Strength bonus you\n&7receive improve based on your\n&7&aDungeoneering Skill &7level. This ability\n&7only works while in &cThe Catacombs&7!\n&8Cooldown: &a360s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor I Completion&c.\n&9&lRARE DUNGEON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_BONZO_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1ODc5MDgzMDU4MjYsInByb2ZpbGVJZCI6IjJkYzc3YWU3OTQ2MzQ4MDI5NDI4MGM4NDIyNzRiNTY3IiwicHJvZmlsZU5hbWUiOiJzYWR5MDYxMCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3MTZlY2JmNWI4ZGEwMGIwNWYzMTZlYzZhZjYxZThiZDAyODA1YjIxZWI4ZTQ0MDE1MTQ2OGRjNjU2NTQ5YyJ9fX0=",
+      "signature": "puWmCKCe1NJDMKo0JGOSAIqjjCjFM48Y1ukmxNR0mLBSqP+KafZZ6VJPKDQwrwBPCVZ3CsVvlD4CxF6yLOAsXoX/dadFoDrqHcfW6LhecMv8J1KWqJJNna48grtDamXTtc8V/17mewhc8Dlz/96wKpGtmIAf/caSND/GVCD6XYggw8wgCB/L8dI2NeK0F9OOZd299Ku0BY+I1ngo8GBAnwInNLOPgCqyHjESnDHeE8L2SqkKuRy4cEfGM7D3C1tDQgNRqPEBZHPNmgumoA6ThhDTV2UXIKKrQQPAly+jdzAY3A8ezdGvocrp+jxlDhCKCh9N49RLh7w1rOfrDHQNxafdC6zmX0BdkARhwpd3ZMXJoSWscN8DqM1TK1dDi29cHjyHzXrCdgVPZ+ArKrmW2adbgU8c3I/WRlfXYsVmkz92MdVevcz4KJ55gRI4bdRivMXRhEe4giwpEpn0bBjrzeCOtQMygijHCx5zZUYZYjiwLun+qM+EZU3XTC2WGhcUWsfYPrTHoi3O9R7B/3G3rk1aw1NjNrm2zxSfR0Rh22ORtJLMgqJKuyHQ6qSLISoLpGbn7iSlPqwqHQg+w4sT5LNwd0tgfJAG38bUVZpLOBsbQxSck6hsxdTTTMSibXpse+JQWny+Sn+kvKt/amEYjIZClss7nvJo9jBc6HitINc="
+    },
+    "name": "Bonzo's Mask",
+    "category": "HELMET",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 1,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "stats": {
+      "HEALTH": 125,
+      "DEFENSE": 100,
+      "INTELLIGENCE": 150
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_BONZO_MASK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BONZO_MASK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

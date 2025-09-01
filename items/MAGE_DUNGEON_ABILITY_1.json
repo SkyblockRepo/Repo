@@ -1,0 +1,29 @@
+{
+  "internalId": "MAGE_DUNGEON_ABILITY_1",
+  "name": "Pop-up Wall",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&6Ability: Instant Wall  &e&lRIGHT CLICK&r\n&7Create a 5x3 wall at the block you are looking\n&7at which lasts for &a10&7 seconds.\n&8Cooldown: &a20s\n\n&a&lUNCOMMON DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGE_DUNGEON_ABILITY_1",
+    "material": "BRICK",
+    "name": "Pop-up Wall",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

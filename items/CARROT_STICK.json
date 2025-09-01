@@ -1,0 +1,25 @@
+{
+  "internalId": "CARROT_STICK",
+  "name": "Carrot on a Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARROT_STICK",
+    "material": "CARROT_STICK",
+    "name": "Carrot on a Stick",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

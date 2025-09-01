@@ -1,0 +1,31 @@
+{
+  "internalId": "FAMILY_DOUBLOON",
+  "name": "Doubloon of the Family",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Worth &6100,000 coins &7in the outside\n&7world.\n\n&7&8A precious trinket from a powerful\n&8member of The Family who doesn't\n&8really need it anymore....\n\n&5X&5 Rift-Transferable X\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FAMILY_DOUBLOON",
+    "material": "GOLD_NUGGET",
+    "name": "Doubloon of the Family",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "npc_sell_price": 100000,
+    "museum": true,
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,85 @@
+{
+  "internalId": "BLOOD_DONOR_ARTIFACT",
+  "name": "Blood Donor Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Rift Time: &a+15s\n&7Mana Regen: &a+10%\n\n&7The human body produces 2-3 million\n&7red blood cells per SECOND.\n\n&5X&5 Rift-Transferable X\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLOOD_DONOR_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjMxNDE2MCwKICAicHJvZmlsZUlkIiA6ICJiNzRlYjViMTc5OTc0YzZjODk3ZTgwNTM4Y2M1NmYwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYW5kYUNoYW4yOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZjdiYjk3NDgwYzEwZmRmZWI4ZmFlOTM5MjllNWVlYjRmMDQ5MWQ4Y2NhNzBlZDAwYjQ1ZTNmYjJiNzRmNmM1IgogICAgfQogIH0KfQ==",
+      "signature": "DB0nK/itXSAhMCsp1fYDrul8jtiD0zCNsTPvUb4Ob+fOBHFq+zELVK3mOXxiJUNFrwn+njiDTYjoaO5QWFR+xtnrzAhLQlxlfkHmGhSiKVvnrEqCgS9U9UKk+U1xLwIKmo+78lcJk1so6lcDstCm0W86KG1cZS62oGa6YTOoVGvshziNfvXFuoUtDph2nSdBYmyEYDLGB5sysR+L6oeNmYR4vAvkv3iSu7ajHpCtbh+NBCMl7okrDtd3wM8RoKrjVi22EFgdTkCGnuolNJ+IK2f3kCimYGROKjRQA0JO2K+oUK9Ex+rMs9wFCo7cAKtPgnBbOdIIjdOFN4Xn3LR03f7PiJWjmy7JFeR68crjmJiK4+NqU7C+abDz0fMblkrAgc4V1Vxqs1wNuB8oZ4zXSg4Ap2tlb9+r3toJS+LE225hz0I9Hy3uFEfLWm7hRp5TJsIGtzp+rCdhxr80oUIvERm67ItFcs8NJd5fn994xkZ3eA9wBfD7W1A+/VP7cprGOxRPz00bVuVY5wL3icUBGNC2fRdG3Xtd+v1tnLgNzJJxW4YLuo6ji5eOr4Oo1vMAvTF1KcQjJ2ZP8LZvKnGop4UDidFcYr/prdlqqY0POfkHey7+bXpn353Srjq/XGA3FzBvcX1IgWl/t5WlZub7V4tUM85/oSFaaZbNwFu0R6w="
+    },
+    "name": "Blood Donor Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "npc_sell_price": 10000,
+    "stats": {
+      "rift_time": 15,
+      "rift_mana_regen": 10,
+      "health_regeneration": 3
+    },
+    "origin": "RIFT",
+    "description": "The human body produces 2-3 million red blood cells per SECOND.",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLOOD_DONOR_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "BLOOD_DONOR_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "HEMOBOMB",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

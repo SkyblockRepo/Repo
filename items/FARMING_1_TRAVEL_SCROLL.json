@@ -1,0 +1,71 @@
+{
+  "internalId": "FARMING_1_TRAVEL_SCROLL",
+  "name": "Travel Scroll to The Barn",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Island: &aThe Barn\n&7Teleport: &eSpawn\n\n&9&lRARE TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FARMING_1_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to The Barn",
+    "category": "TRAVEL_SCROLL",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FARMING_1_TRAVEL_SCROLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_CARROT",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_CARROT",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_CARROT",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_POTATO",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_POTATO",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_POTATO",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_POTATO",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_POTATO",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

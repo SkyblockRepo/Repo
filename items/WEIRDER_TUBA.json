@@ -1,0 +1,96 @@
+{
+  "internalId": "WEIRDER_TUBA",
+  "name": "Weirder Tuba",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Howl  &e&lRIGHT CLICK&r\n&7You and 4 nearby players gain:\n&7 &f+30✦ Speed\n&7 &c+40❁ Strength\n&7 &9+10☠ Crit Damage\n&7 &e+5⚔ Bonus Attack Speed\n&7&7for &a30 &7seconds.\n&7&8Effect doesn't stack.\n&8Mana Cost: &3150\n&8Cooldown: &a20s\n\n&7&4☠ &cRequires &5Wolf Slayer 5&c.\n&7&4☠ &cRequires &5Vampire Slayer 4&c.\n&5X&5 Rift-Transferable X\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WEIRDER_TUBA",
+    "material": "HOPPER",
+    "name": "Weirder Tuba",
+    "tier": "EPIC",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "wolf"
+      },
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "item_specific": {
+      "range": 16,
+      "stats": {
+        "strength": 40,
+        "walk_speed": 30,
+        "attack_speed": 5,
+        "critical_damage": 10
+      },
+      "rift_stats": {
+        "rift_damage": 2,
+        "rift_walk_speed": 30
+      },
+      "cooldown_seconds": 20,
+      "duration_seconds": 30,
+      "max_other_players": 4
+    },
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WEIRDER_TUBA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "WEIRD_TUBA",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "METAL_HEART",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

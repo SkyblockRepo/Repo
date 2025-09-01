@@ -1,0 +1,32 @@
+{
+  "internalId": "EPOCH_CAKE_GRAY",
+  "name": "Not-a-lie Century Cake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7Furniture can be placed on your\n&7world. Some furniture is interactable\n&7while some are purely cosmetic.\n\n&7Invite your friends to share a slice\n&7of cake! Eating this cake grants &f+1❂\n&fTrue Defense &7for 48 hours.\n\n&7Obtained in &fYear 100&7.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EPOCH_CAKE_GRAY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjgwMzkwNTI0NSwKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0MGY5Mjk5NTA4Mzg3NjE4Y2ZhZDZkYjM1YzlmNmQ4MDdjNDkzMzdkMzMzZDZlYzNiMTNkOWU4N2QwZDQ4OGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Adn5RHrpwIGvyyJXzFpCeYH4YNbT6diVFO0suDO2zZIiGUPg7uJ2CNEzhXR5quths3OlR3xuI41EyTbnQB1HjbSVo7IwCJVN7IU4uLaGfTCJZQGoXpCyMTRPSETFrna1Or8BYvmbrCTCviwwdbSTR0J7BSb0AtwcAX4fKqcKU352NaWoM4lTEUcYclLRcPw2X+jITrQTLmOE9cv/pm/0t2wBprhOk4hYWBIA+gO+hOiT7wf1i2wtEfeQUatGqBgtLy54kynJuWIHofHY8S3YO7EcpQbHEbS8g6sOMGjWdCkcM5NyazVWMshUe/4xLQFn2gO0N+bswKW/zO3z52Nr7pRBtkgFh6mGjEyy+85DQ8WlifseARpIuz6Vj5LGGGR2gORcLT6z07Njfe2INmRRx1Sn94OiW66KX3Bbhy7VDpkShVJGltTsDK5xiXGQyvwUU8IrkQYYKTaJxn33i6c8407gfvIPJqsLNmIHct6Ft/YAHADVkMlzIUg2rQn6WEuH6CSKm1TQ+wymJ+vJVLnX8+WgAMLig7JRzyVA6+UsnMmzX7oeDrBFnPMqf0M04YU+t3tZ4m1zmACvlppuXHBgcINx3Zwfo9tq3MbBQdyIwATKmgRiyY21a3k4R8UYXf1l0rmT4fgs97mgYRG/dLN/fBjTafsbR2rxP5UnExnSMso="
+    },
+    "name": "Not-a-lie Century Cake",
+    "tier": "UNCOMMON",
+    "museum": true,
+    "furniture": "EPOCH_CAKE_GRAY"
+  },
+  "recipes": []
+}

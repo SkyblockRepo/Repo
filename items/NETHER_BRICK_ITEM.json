@@ -1,0 +1,25 @@
+{
+  "internalId": "NETHER_BRICK_ITEM",
+  "name": "Nether Brick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NETHER_BRICK_ITEM",
+    "material": "NETHER_BRICK_ITEM",
+    "name": "Nether Brick",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

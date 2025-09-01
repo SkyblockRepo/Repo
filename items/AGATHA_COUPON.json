@@ -1,0 +1,26 @@
+{
+  "internalId": "AGATHA_COUPON",
+  "name": "Agatha's Coupon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AGATHA_COUPON",
+    "material": "NAME_TAG",
+    "name": "Agatha's Coupon",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10000
+  },
+  "recipes": []
+}

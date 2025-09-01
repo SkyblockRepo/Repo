@@ -1,0 +1,27 @@
+{
+  "internalId": "GOBLIN_EGG_GREEN",
+  "name": "§aGreen Goblin Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7''What came first the goblin or the''\n&7''egg?''\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOBLIN_EGG_GREEN",
+    "material": "MONSTER_EGG",
+    "durability": 55,
+    "name": "§aGreen Goblin Egg",
+    "tier": "UNCOMMON",
+    "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
+  },
+  "recipes": []
+}

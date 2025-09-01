@@ -1,0 +1,44 @@
+{
+  "internalId": "WIZARD_TOWER_PORTAL",
+  "name": "Portal to The Wizard Tower",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&dThe\n&dWizard Tower&7 for you to use\n&7whenever you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WIZARD_TOWER_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MzA4NzgzNzc1MjYsInByb2ZpbGVJZCI6ImQ4N2ViYjVhODhiNTQxYjBhZjVlYWE2MGI3YmNkZmM1IiwicHJvZmlsZU5hbWUiOiJLYWlvbm9uIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZjY5YWIyZjRlNzM0MWFjMjYyNTk3MDgzY2EzOGFkMDFiZmJiZjg3MzBmYmZiZGQxMGNhOTBhZWUzMzdhMmRkIn19fQ==",
+      "signature": "hd0d1oVz6as9sV0Kc7TQd7zton6mwUGLt34+S+64YEYXfdZmWNREthDFFpXBi5iQ1sGzJ4fwALzKipCf9plowf/onARVbVWXjfAb4Nus1dwduiGDxI2KwkUq86ZFf0AUFX/gCHMIZqQp8aG4jZUalKpSWNFsy92xJ5OBlODNfJokHDqs0muEEF4EERUpataJT+9IhYU6mOf8+7VJwC761SIxgv69sYYv5rkoFJULiiyLNXIFsY4Da3oKE7kAWsthFoad9/8aI+tToFzJxpBsLg3FlMEpodVYw/k54NEhYbnJxC5ogeDyxJvXz0HLRJ8Nm9pZg45mlcumTiyeudIbOim4Dk27HEE0Obvcf1u7dhrc81FXuKgUgPBop7zr7H274fkKbShidj+SNcKS9O622TIXqjqAg3ochAavXle6sLRpy7637FX437QluQOfM9Ah08WPAPhHeYgBkJKH68l1gl5M2/jFePMH0OlWNIOzjmvb3bBaSfmSRu0W5a6nDoOiisGCwaIH60vZELQQU3EKk6PeUn6Wd7nEM7MiamM4k5yh704+2FWKIWO+haVREUFRUScqCut38CiylR3Cb2D9RpMWpRMKVasHMc52mhz2uf3+mMoqKVJUgo3r8R0KQ11TxxFtSXeJPZyu6BI+RgddfpMa+UBdtszT8pv6VQe4Gdk="
+    },
+    "name": "Portal to The Wizard Tower",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "NEW",
+        "holo_name": "Wizard Tower",
+        "location_tag": "wizard_tower",
+        "schematic_file": "sb_portal_wizard_tower",
+        "description_name": "%%light_purple%%The Wizard Tower",
+        "destination_mode": "hub",
+        "skill_requirement": {
+          "level": 5,
+          "skill": "ENCHANTING"
+        }
+      }
+    }
+  },
+  "recipes": []
+}

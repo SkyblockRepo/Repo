@@ -1,0 +1,33 @@
+{
+  "internalId": "RABBIT_AXE",
+  "name": "Rabbit Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Killing a &dRabbit &7increases the amount\n&7of drops by &a+2 &7for common loot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RABBIT_AXE",
+    "material": "WOOD_AXE",
+    "name": "Rabbit Axe",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 15
+      }
+    ]
+  },
+  "recipes": []
+}

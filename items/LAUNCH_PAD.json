@@ -1,0 +1,71 @@
+{
+  "internalId": "LAUNCH_PAD",
+  "name": "Launch Pad",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3200,
+  "lore": "&7Launches you in the direction you\n&7are facing!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAUNCH_PAD",
+    "material": "SLIME_BLOCK",
+    "name": "Launch Pad",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 3200
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LAUNCH_PAD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

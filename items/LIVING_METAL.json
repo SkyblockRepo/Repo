@@ -1,0 +1,29 @@
+{
+  "internalId": "LIVING_METAL",
+  "name": "Living Metal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7It snakes around your blocky hand\n&7as you hold it.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIVING_METAL",
+    "material": "STAINED_GLASS",
+    "durability": 11,
+    "name": "Living Metal",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "description": "It snakes around your blocky hand as you hold it.",
+    "motes_sell_price": 5
+  },
+  "recipes": []
+}

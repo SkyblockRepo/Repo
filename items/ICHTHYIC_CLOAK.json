@@ -1,0 +1,154 @@
+{
+  "internalId": "ICHTHYIC_CLOAK",
+  "name": "Ichthyic Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4500,
+  "lore": "&7Health: &a+10\n&7Fishing Speed: &a+6\n\n&7&8This item can be reforged!\n&9&lRARE CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICHTHYIC_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTU0NTkzMywKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmE4M2IxY2JlODU5MzY4MzgxMDlkNmE2NzBmNWI3ZGVlZDllYjEwNmViYTRjNzE4ZmJlMTE3OWNlOWMwYzkxYSIKICAgIH0KICB9Cn0=",
+      "signature": "w+cMkwFE2VbE9VxNfKcVO85dfgvjkY+KtgmKi+EEvGb6CyThBwjYKuBATXTrLy4lKQ9BXu4BbmZIWszZXYaNQi0xiuK74ALpE/4bmKNC/aGAf0hOFdRytfTOXZ1+QrzuLdeuV5I41wMuDAulMpXV9nMajUfkJLRDHkLRNwuVK0Kmk2ESr2FNgEjyf0LPpkAzL/aC6JBX6DzQORgxJDwtexcYySYd99dXk614aaRFqAIOFPGvgKTXW8gVpl71WXs+WTJHHHVJyDqTAXVWHpAaGn37IalwKeKf11aPE/l9PTiyRBO1ulXGAUHh29v0Czp2uiu5ryfROT9T8KksDD06L/jtKmja/N2jPyA7l6MSDKCq0/VvnHvaCz34m2MWAgRDuA8z0HffdEmP0in4A4dchEHT5EBL6ipFhw7ex9gsub7vNNE+6Rh5wyJQtuADnTqFLo1wXgQyOlQ29QB72hInnMpjc2kbV/5Jd6EtiM5A1ikLwPR9783LcXwOE36wni9RF0NHA9cYvfl51Yccx+ecn9N6XZWV+7RFGDTia8rN1gxNSzcIdURvONsl0wKTm2VNEPzTsmhhSPXRR5mi+X9vC1GlkPMBNh1hZVXvIQXvS3HbtljINRw2sk4kP5jfYl/k+/w2K8CrxBx+hm2B9lTzZZrZU3PF7c8BbWdlptfj7KI="
+    },
+    "name": "Ichthyic Cloak",
+    "category": "CLOAK",
+    "tier": "RARE",
+    "npc_sell_price": 4500,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "ICHTHYIC": "FINWAVE"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ICHTHYIC": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 10,
+      "fishing_speed": 6
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMP_OF_MAGMA",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MOOGMA_PELT",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "CUP_OF_BLOOD",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ICHTHYIC_CLOAK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BLUE_SHARK_TOOTH",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "NURSE_SHARK_TOOTH",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "BLUE_SHARK_TOOTH",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_SHARK_FIN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SHARK_FIN",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_SHARK_FIN",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_SHARK_FIN",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

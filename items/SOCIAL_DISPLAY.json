@@ -1,0 +1,33 @@
+{
+  "internalId": "SOCIAL_DISPLAY",
+  "name": "Social Display",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Places a hologram displaying the top\n&7players on your island by points.\n\n&7&4❣ &cRequires &aSocial Skill 2&c.\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOCIAL_DISPLAY",
+    "material": "GOLD_BLOCK",
+    "name": "Social Display",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "SOCIAL",
+        "level": 2
+      }
+    ],
+    "description": "Places a hologram displaying the top players on your island by points."
+  },
+  "recipes": []
+}

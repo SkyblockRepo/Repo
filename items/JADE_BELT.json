@@ -1,0 +1,67 @@
+{
+  "internalId": "JADE_BELT",
+  "name": "Jade Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Mining Speed: &a+30\n&7Mining Fortune: &a+10\n\n&7Grants &6+30☘ Mining Fortune &7while\n&7mining &aJade&7.\n&7\n&6Full Set Bonus: Gemstone Gatherer &7(0/4)\n&7Grants &6+25☘ Mining Fortune &7while in\n&7the &5Crystal Hollows&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&5&lEPIC BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JADE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU0NjYzMSwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlZDMwYmEwNDM1MzA3YmYwNGExNTA0YzU4NmE4ZmZkNzk0OWMwNjg0YjBmMDE1NmFhOTNmYjkyMWNjNmRmMDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "XhgV2/u9v3/1chm0RBpEaey/sYKr6tK/OAp/1nUtVxCog9esgEDdQQN9/b3tqLu11pKoij6cP8XfG3cuzdAHVVYTGlBgrnS/k0Ybu0YENUa0reK4kw/GPIKDL6rMv/GbGKnZVJsNClQCvvOeW9mM2p7R0oQSsyg9ngdE48f+pObg0rSAHy0STO59asxGT20V5n9xsThbFu5P3yLxSsj2zfukyXJkVLKy+n06/Eea7UTChc/c/oII18aLCdgoDrQ64wbpX7m29AHl8oSuNX8mYIrK5xOYNUyY5GzHwqB4FJXjyMboOyNRt5e5kLUfVozFUbKXCL9kAv1QSEs1oWtlWjkvYDDsa8oyATRNjxnuUVcu/ly9+XewfTLOg03fN2Ng7SWHhLo2lLZ9maKKq6z1XBRyHJolQSAk0lanrjXq96o+87TiHKcKClNJ3CcMydyMDRNecut3fMsvjQkVeMOnZxbdCeXWrGzdOIXEVB3V1J3JvkjFhYKgVRK4egzM2eHDrXEbJvDbTzukKfDD/PT2kR6ORTx3eZyHRlMMU2938kCzMAjHOrb15/8hqraHoLJx3qyFdad/NVZF5Re4H7PqL1QpYnG5x13iJQ5pl7nbf17SRJsI2h4Jj3OkxQyBmpBYdkoc0jxZOZl/U7n5dt38vVEPvJ6t+UBuo/30WCTsiSk="
+    },
+    "name": "Jade Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GEMSTONE": 5
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "mining_speed": 30,
+      "mining_fortune": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "JADE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "FLAWLESS_JADE_GEM",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

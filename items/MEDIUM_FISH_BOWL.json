@@ -1,0 +1,77 @@
+{
+  "internalId": "MEDIUM_FISH_BOWL",
+  "name": "Medium Fish Bowl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Increase the odds of fishing a rare\n&7Shard by &a60%&7.\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_FISH_BOWL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI4ZDNiMzMyOGI0NmVhN2I3ZGM2N2M0M2JkZmY2ZGJhZWJjZGMwYjU4MmU2YzdmYjE1NzRiMzhhYzBjOWFkMyJ9fX0=",
+      "signature": null
+    },
+    "name": "Medium Fish Bowl",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 500
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_FISH_BOWL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SMALL_FISH_BOWL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

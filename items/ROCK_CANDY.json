@@ -1,0 +1,32 @@
+{
+  "internalId": "ROCK_CANDY",
+  "name": "Rock Candy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 770,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aSweet &7power.\n\n&7&8''Accessories have never tasted so''\n&8''sweet.''\n\n&7At &6250 Magical Power&7:\n&c+146❤ Health\n&a+104❈ Defense\n&f+12✦ Speed\n\n&7Unique Power Bonus:\n&f+5✦ Speed\n\n&7Requires &aCombat Skill Level XV&7!\n\n&a&lUNCOMMON POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROCK_CANDY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODY3NTM4NjQ5NSwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNWE5ZmZjZDUwOTFkNWQ4YTQ1ZTMyOGRkMjdiMzI4YjdkY2U1N2IzYjI1NDgwZjUzNTUyZGU5MmZmZDM0ZjFjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "mlFRxL++JpZRnZ9nuWcxfkXlBeMd/51PqfvkmQhvkqykM9EZxJdpq1i82Qnn+3LjCYpHHEVqOAgoE+l2yQMwuLciYY+OVoQuRJZLv9RHfGNdIpHM7ZiLXcqLctVKFKLWQchRbY61Fn3QDL/ayrBH+73YuzzcWh8yMhxviZPqEZEgh8emyLQoP+fuL5zzn99V2iu25vTKTzFWGrHONcFQ2AcvqhS8VJJIr2hIToHSgF2w5mQO0sCEXtp1eN1q4+aCPe7wP2IjUyI3bn89nJ9pZY+gPEl1+XzcOkE4spqSCvio5JUNy05LeHiw94jzJ9+zRYLYDRUyox4pdlOzKtsHoEIUCN1xI7qIdKaD1aZ3hhRRDtzGLsdBX1urMXs9jUJOu3OvBtNbe1M1w2X36k+cHutzcsZ2pR9UcvPoGlxouPRefQGVhDcRVttiJmad+aMep0YIUzBJmlRsys2SXKMIYFWQl4AnxmI9lQBXyx1gX6OOouXGR9wU7HE2ORGJVH6NVhJ77K6cts8K41erreLrQEpJNO7d8UB6VgX6U5Vv0Y04VFeyHyBueVKxGxsXrdnZ8ZHsZkcZsN5BMLFVRDc6EMxMLEqu+wauo9tDLB8DkcAfbKP/vPvLvDeoJx5MFoTAvb2mZRW+QfnZ2OT2pf4h7VuS7lGy8w0wWxdsVrFOy0w="
+    },
+    "name": "Rock Candy",
+    "category": "REFORGE_STONE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 770
+  },
+  "recipes": []
+}

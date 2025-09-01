@@ -1,0 +1,61 @@
+{
+  "internalId": "UGLY_BOOTS",
+  "name": "Ugly Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+80s\n&7Speed: &a+9\n\n&d&lMYTHIC BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UGLY_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "51,51,255",
+    "name": "Ugly Boots",
+    "category": "BOOTS",
+    "tier": "MYTHIC",
+    "stats": {
+      "rift_time": 80,
+      "rift_walk_speed": 9
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "UGLY_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "UGLY_BOOTS_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "UGLY_BOOTS_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SNAKE_IN_A_BOOT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "UGLY_BOOTS_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "UGLY_BOOTS_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

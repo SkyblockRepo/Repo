@@ -1,0 +1,31 @@
+{
+  "internalId": "CRITTER_BALL",
+  "name": "Critter Ball",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRITTER_BALL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3NDM0MzY0MTMyNSwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNzNhZDU4NTE5ZTMwYTYyOWEwM2I3NTg1YzUyNWE5YzY3ODlmNjU2Nzg2NDc3Njc2N2U2Y2FhMTA0MTZjOGRmIgogICAgfQogIH0KfQ==",
+      "signature": "aYSbzC/gvjl5AgaQPK8KTLcPyZGGdvdi4yqEDqaOF4z8+InkP5VHJrnHY+ctiqJp/W+2YQj7B3X2YHa8Gb0JBVSmW0j0Dkwldc/3PNEtHmGKulRI/8LU/PJ7JFLJXq/zDY07/abD9gCeMgLQgIQk8yN4vehKbMIgbJideZYB80EMljlLKNzGK+3NhY2kfRT7QK12osMmPzQUJZ7UmUd2PAjW3L+rb9S3NDqcN70MrSGbDz6wDYhElX72FZ2vZfNFIYBG6ma1KtDvo4OpXdmoaxuis4nFR4Vdu5yspZWpJoSkv/WkUZ2ZaIzeKPv3fLK8gby96WREwPkxHchmDyCnwHCser9rnW6JWpUZhwKzSAtn4CQz9uEZvsy9jukLb/YZ4CmJh207fn7jrlb7Se4+UbButhIM3IWu2KlZB43PyXhZ60SyRDtmPBkESdEDhFgOSQ+StOQXtkq3Z6Pw/BRIlsrhoTS0nB9fRjhYSUcrOjYDLuWgKVzjAknoZlRRum9RP+H8E/bM2aocLvwd+8XJkuyL4SRkkNz2YMYy4MPnR3P288NZ6OpG+hPW8NxLvVBwB/Die7a2KjvGU/woLvthbYQmfQpNY8RXHDMe3wcF3iiedWHdbqGhWEutZojdFyXl4LdyTAh6wg+vY17HcmG590/NGbjfuQceGnwAu9V8qDY="
+    },
+    "name": "Critter Ball",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 100
+  },
+  "recipes": []
+}

@@ -1,0 +1,63 @@
+{
+  "internalId": "GOBLIN_OMELETTE_BLUE_CHEESE",
+  "name": "Blue Cheese Goblin Omelette",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20840,
+  "lore": "&8Drill Part\n\n&7Adds &a+1 Level &7to all of your\n&7unlocked &5Heart of the Mountain &7perks.\n\n&7Put this item in the &6Upgrade Module\n&6&7slot of a Drill at a &2Drill Mechanic&7!\n\n&7&7''May cause illness''\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOBLIN_OMELETTE_BLUE_CHEESE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjEzMTc5MCwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1YmNhYjU1ZDUzZTQyNTU2ZjVlODU4ODc0ZWM4Yjc2YThkYTAwODk4NTIyZTZjYmQ2NzNlM2ZiOTgzM2RlYWYiCiAgICB9CiAgfQp9",
+      "signature": "SQa3FINGTlqf8xL67caF4311afUpSxtbL15PSOY8hv6KYys+w/i28p3yGMP5clPdZ+QMQ1SY2eqrOxKBf3AIi1j1JWX6lf/2ilsBOEGbRgApgFfxnY99WsLPee5n8POO0p1z2uxLpwtHvLT/jHFuNAwzj51TWS+8nFzE7Xif6lMNDXPzzwafKEE4QFD5jNQb0DQBOqnPyhOKvY25uXAt3APXxqXm2qHGrUyM1nX+KXt1EO2DPV6sNlfmJVEVhYl5K5GWRJirgWxBQqtzR+rhZVXFqfstGrLEWnUXUsIIiZZjZY12tt8OLlnBk44gASl+fack88IbVVYLkdA+7YP45FvE42GY7WR4uyNKZdL14jVkjAUiAcZ0vBECsEsbtwxu6lezWID9HmU/20/FI0rGVMWlXqvRgHsVO/cccyHd0dH38oQwvB7HmColOmlAbc1aeSp+mdAQn+otf/nSrV+AZHINFqVKVbumghtYAjxSCH1iXVHs3Wr3+nuCqBAGLqYJhvtqsVeiwTRyHYEOVug5OFJvz/4eV1ScdR48IEIEcGwVsJRxJvg6m2/CiyU4xelJdrPnueR3XXS5PvZ1pPQZdgogFi9GjFfJQ7Zoieui6bEiBW4lTkw7QDXJHy9FN8uBJ+8S3r0rMQnEtTNKzjaH9tPe0HESu+N/DtCGL0ZB6x4="
+    },
+    "name": "Blue Cheese Goblin Omelette",
+    "tier": "RARE",
+    "npc_sell_price": 20840,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 5
+      }
+    ],
+    "description": "%%gray%%%%italic%%May cause illness"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GOBLIN_OMELETTE_BLUE_CHEESE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOBLIN_EGG_BLUE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "GOBLIN_EGG_BLUE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "FLAWLESS_SAPPHIRE_GEM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GOBLIN_OMELETTE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

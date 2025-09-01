@@ -1,0 +1,53 @@
+{
+  "internalId": "JALAPENO_BOOK",
+  "name": "Jalapeno Book",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 56000,
+  "lore": "&7Combine this Book in an Anvil with a\n&7deployable to gain a small but\n&7permanent stat boost!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JALAPENO_BOOK",
+    "material": "BOOK",
+    "name": "Jalapeno Book",
+    "tier": "EPIC",
+    "unstackable": true,
+    "glowing": true,
+    "npc_sell_price": 56000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "JALAPENO_BOOK",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STUFFED_CHILI_PEPPER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

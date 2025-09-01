@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_WOLF_HENZO_DOGGO",
+  "name": "Henzo DoggoWolf",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to Wolf\n&7pets.\n\n&7&cMade with ♥ for hypixel\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&c&lSPECIAL COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_WOLF_HENZO_DOGGO",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyNDk4NzU2NiwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwNTc0ZGM3YjlhODk4MzVmMTkxYWNjMGI2OTVlODExZTI3YjY2MjIyZTAyNWMxMGE2MDkwZmI1MTJkOTBmYWIiCiAgICB9CiAgfQp9",
+      "signature": "rff1R1RpAesF5EWYYcpKaDQsd5+T1H9TzHWRJgb/MJyGZ3o6Ka5+4/Ag5ogqS+bobPhgjRPdqdIg3swJwRUWiqHupKZ9KF1THpp3vv6PSmKjDDTbZT86pqaMlJkr0wBIOly1H6UeRP3jYZLLnHrA/oH+2TGGoVFO0d/A8wB6cP1Qx3wJNou43afzW85G/LV0hpfucUmEOz4MCoUBDle8S187uD35NZs7yFrnLwP6uMbMdEdogLKJICTyqxarRuqY+EekiiHbo0DVIU8jI068oJiKKw8WGbINMSuO5n8WIjPlZFkQTSEWHJ0pFjOXD1qRkyKhEaHnRYDqkIS8qklmclhLByf7JaEcGEGJecF3wP4yCNqewDXQ3C79eeOZPI4MOG5LSnjYHDKh4R2YKWoN6w1cJNPyNfABYto+gyLLX4g8ONBz8a7LCPwv9jJo6jiNX3jLnc7twk5JkYfhXWYnhYy4fS2j2s/06NTe98k6ZlTbEhNwUrU211cCSBsf8pjUENqXgKPmzBOQk1vuO8+A4dTITsx86EkxDlRgX6zMbawaYmx/rWsZ7vo9TablqFRNOMujOOvI0NKYkiNKMTD1l/S70nKLM8+V/fREKMQ1PCVVI+H61N3fyaiTzYpWi1XI5XBi60f2PxU20pVmStKdfgmuksR92whwuHgXaP42bwo="
+    },
+    "name": "Henzo DoggoWolf",
+    "category": "COSMETIC",
+    "tier": "SPECIAL",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

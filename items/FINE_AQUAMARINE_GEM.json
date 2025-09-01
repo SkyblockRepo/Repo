@@ -1,0 +1,88 @@
+{
+  "internalId": "FINE_AQUAMARINE_GEM",
+  "name": "Fine Aquamarine Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 19200,
+  "lore": "&7&8Collection Item\n\n&7A type of &3Aquamarine &7that has\n&7clearly been treated with care.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&b☂ Fishing Speed&7; others say it might\n&7grant an &eadditional charge&7.\n\n&9&lRARE GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FINE_AQUAMARINE_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzY0MDg1NTkyMiwKICAicHJvZmlsZUlkIiA6ICI1OWZmOTU1YzMxYjk0MWI0YWQwNDg4NDk0ODkzNzUzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdhMzQ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJiODIyYjlkYzcwYjljYTIwMDA4YzMzMmY0ODFjYmViYjUyYmQ1MDY2OWNhOThhODlmZDMzZDEzNDVmYTEwZjIiCiAgICB9CiAgfQp9",
+      "signature": "npqOgnzB3Qj4QU6KZgwQSbO0wMsk3UMKchNBIGvB2HDtN3EQXlgV6WG6R25RRKUoOH/sWqTZ0ySMhCE64dVXz445/D8LLMls6SX2Enof7N9aNx8sB6CM1yw4mmsCk352U0Rsz+WTuiqay2vpXHVRvz2RMwu/lO39Dgggj6vgALHVBGPnXE//uZyrtY9d9A//6qhnaRWeAS8H0NLEO62BsLZs9VhqgGqGXB3IPJiRQaCHkR3CAcUrijylSrBsMzaVtVFkeoltd1ka0aO6aYERhA0zrQlqzmhVFFn0XxTvBvACCTcnVHjuPFu4GHQYOY+y2mjxP9OTtCHbCXLyCeSogjH+PixyB3Uu/HbOBjecCTgjc1uCwVNrKEpIjhCh8OjxH1SNl3/vjNyehq+NNmHr6J6q+qrii6YAn48JoWSmJ3mJT9BlVtb+fmV/jI83vADMNtBch1ZHyYf/2LpwUFho1C3saCa4ed7R6FYdKsigrinXVokvH3nugFr2mo2SkbNYCwg+Tdej5jaISw6imtq+aO40n1YZI9grNIFz1vNWUgIN4Fb75A9AGSetlXyl0wBx4YU5W4YF/MgoHFpGx6JSjguqvrjwVJd98VWQ5Mn38I8lKbl2NTFmXIDANUqkfrm0uockb2DGhfW0udFp09yxIZQyfQHO73p36Dyhxxn4Vlk="
+    },
+    "name": "Fine Aquamarine Gemstone",
+    "tier": "RARE",
+    "npc_sell_price": 19200
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FINE_AQUAMARINE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FINE_AQUAMARINE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FLAWED_AQUAMARINE_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

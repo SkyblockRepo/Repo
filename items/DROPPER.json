@@ -1,0 +1,25 @@
+{
+  "internalId": "DROPPER",
+  "name": "Dropper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DROPPER",
+    "material": "DROPPER",
+    "name": "Dropper",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

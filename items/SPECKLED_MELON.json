@@ -1,0 +1,25 @@
+{
+  "internalId": "SPECKLED_MELON",
+  "name": "Glistering Melon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3.5,
+  "lore": "&7&8Brewing Ingredient\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPECKLED_MELON",
+    "material": "SPECKLED_MELON",
+    "name": "Glistering Melon",
+    "npc_sell_price": 3.5
+  },
+  "recipes": []
+}

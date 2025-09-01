@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_MYCELIUM",
+  "name": "Enchanted Mycelium",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 800,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_MYCELIUM",
+    "material": "MYCEL",
+    "name": "Enchanted Mycelium",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 800
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MYCELIUM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MYCELIUM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MYCEL",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

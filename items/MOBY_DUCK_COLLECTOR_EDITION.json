@@ -1,0 +1,30 @@
+{
+  "internalId": "MOBY_DUCK_COLLECTOR_EDITION",
+  "name": "Moby-Duck: Collector's Edition",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "&7Consume to gain &3+30☯ Fishing Wisdom\n&3&7for &a60m&7!\n\n&6Bookworm\n&7Consuming this grants permanent\n&7&3+1☯ Fishing Wisdom&7.\n\n&7You may consume &a1 &7of these before\n&7they lose their magical energy.\n\n&7&8''A series of tales following a fellow''\n&8''named Moby and his waterfowl best''\n&8''friend. Who would be so egregious as''\n&8''to thrust such a literary''\n&8''masterpiece into the sea?''\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MOBY_DUCK_COLLECTOR_EDITION",
+    "material": "BOOK",
+    "name": "Moby-Duck: Collector's Edition",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 1000000,
+    "has_uuid": true,
+    "description": "%%dark_gray%%%%italic%%A series of tales following a fellow named Moby and his waterfowl best friend. Who would be so egregious as to thrust such a literary masterpiece into the sea?",
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

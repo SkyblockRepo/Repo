@@ -1,0 +1,27 @@
+{
+  "internalId": "FALLEN_STAR_LEGGINGS",
+  "name": "Fallen Star Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FALLEN_STAR_LEGGINGS",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "88,97,88",
+    "name": "Fallen Star Leggings",
+    "category": "CHESTPLATE",
+    "npc_sell_price": 1000
+  },
+  "recipes": []
+}

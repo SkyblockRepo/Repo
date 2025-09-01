@@ -1,0 +1,35 @@
+{
+  "internalId": "VOODOO",
+  "name": "Voodoo",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "&7Defense: &a+1,000\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOODOO",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDYyMzE3NjM1MywKICAicHJvZmlsZUlkIiA6ICIxYWZhZjc2NWI1ZGY0NjA3YmY3ZjY1ZGYzYWIwODhhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3lfQmxvb2RBbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODZjMmEyMGYwN2ZkMWM0NzI2Zjg1YzQ5MzY5Y2QzNzNhNDMyY2Y1MGIwODM0ZTU5ODljMmJmMWQxOThmMGU4IgogICAgfQogIH0KfQ==",
+      "signature": "GTiF5HLaiPVU0lyRJgKB7p9a05ZqZXWNe5EqGj7oQQ89/eotk2beVYBTJ2p20KhFgk5QE3NVE70+BAjC4q9kynP7JdCXYznFUpmVTTlfs4jHAIFu3+9L+8NtYONzw20X4JsP2tf1lH+MhRQb5lx9wkc+0H5PkRGlPgLvg15K9l2I+YkK5l0RlHJSlcHoyATiqi3ZTOnpfYKU46TXWyhforD81j9rAnsKE9sO658m4Q2caewUqzn9C+SagjSWnxwdo3urj9vFSG+kWeePspdtAMSs3rtfsqmxZrbmpjeROXWLWlrIBOr4AxE+DXIQcQMqou9wcFdr1IbDvO3FZEb7hfDc+HGk6wxfCGPsrXsrMq1bIVmScLrE4om7CnBByWR+Cdfag2rFrJhHCdcQzi8p2SgPQ+OEeWwRAEEm3g8fSe2omT9S/e2nseIt/C4RFVsxN4THuvEGTpIrCzYsn/cArDinHnViHbH4g/Y1516OZm6Cvol5w2qDjB3hSGm2yiVlqqu7D2mrNM3h8E3cRfLpjsi06d568NGw7t2OlUKwjKNdVksCo7k11NlRiHM3MoWNQia8k0sx2/tIHPgyheH4FtuwENjeWRkl+X3hxvgY2nj0I8bDrYHTERFWFIjc0TYAGyj81IgDj1ItN2AQ7M50/0/0RLi8WIvGdUdraKV2xBk="
+    },
+    "name": "Voodoo",
+    "category": "HELMET",
+    "tier": "UNOBTAINABLE",
+    "npc_sell_price": 1000000,
+    "stats": {
+      "DEFENSE": 1000
+    }
+  },
+  "recipes": []
+}

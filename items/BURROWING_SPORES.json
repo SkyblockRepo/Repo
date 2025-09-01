@@ -1,0 +1,32 @@
+{
+  "internalId": "BURROWING_SPORES",
+  "name": "Burrowing Spores",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Rooted &7reforge when\n&7combined with equipment&7.\n\n&9Rooted &7(&6Legendary&7):\n&7Health: &a+14\n&7Farming Fortune: &a+18\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BURROWING_SPORES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjIyMzAxNywKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MmNmZjg3YzFhYmU2OTJjZGIyMDUyNmE1ODYzYjZjYjc1YWNmMzZjYWYwNTNhMjJjN2YxZmM2YzM2OTZhZGFjIgogICAgfQogIH0KfQ==",
+      "signature": "Q9ZK5cyObVRSCNO6++DxJvdtxc1mVzaAdrUu7RhxUXgTwGdQSAIjklrcgaubkDPJ1C70dpkYvtMmFCHYfux2Qs7D382VZZEAK94fhhQm5trRIzxQDvqZA3wZQU8xI/Pj9Uu+HNNramQCYmQDmTAOPVXKp3gcj5T+UD/hulwxbx7Txr5NqLcpcU6SJPgFC0tglaoPf5eVQGtcfL+t/dC1QJCyopDsU7DH5q6ahmxGgjng75lSzrFbizuT5Nzd7S0gcEGN43DWPtyn09FpBbEeUt8ZRui0Xq/1hXfAsr4FS3V05ujm6JNSg0XR17K5tcQsDUoGcD4PU9+cLnoG0LyE3W5iwqlWib2XsU+Lqf6dpyDh8XyGagGu61KUah39Ggkf+/LvJVowOcqpIvaO2TqX1sa0bMX6PgKkDyh3928qesg2P8v69L+D4+/AM2ln2CAruliiUw7IB7SFgzd52DBDQhYQVgDzfLdou7czkrCN2a2x4cNgOBCANUjnHVzYduAMDH6it/xLvUxBcOFmn7c5ShNGos8AGN7DxbFNzbtcvY1GlyQVPmc18d5CnPAcnjOhDYgjtbkU7DYsMhEZuLoF33vEXznI4B1uCpq6xle0YjOEWnYQDvBIg3KvkTQ022mLHja94r/SfjIXbREHwXuDXpi+ya0jlrep5rmeaImwu6c="
+    },
+    "name": "Burrowing Spores",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

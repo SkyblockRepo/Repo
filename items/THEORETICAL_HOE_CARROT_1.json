@@ -1,0 +1,102 @@
+{
+  "internalId": "THEORETICAL_HOE_CARROT_1",
+  "name": "Gauss Carrot Hoe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8]\n\n&7Gain &6+10☘ Carrot Fortune &7and &3+1☯\n&3Farming Wisdom &7for carrots.\n\n&7Counter: &e0 Carrots\n\n&eReach 100k Counter for +1 Rarity!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&f&lCOMMON HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THEORETICAL_HOE_CARROT_1",
+    "material": "STONE_HOE",
+    "name": "Gauss Carrot Hoe",
+    "category": "HOE",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 15
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "THEORETICAL_HOE_CARROT_1": "THEORETICAL_HOE_CARROT_2"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "THEORETICAL_HOE_CARROT_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "THEORETICAL_HOE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

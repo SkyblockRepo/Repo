@@ -1,0 +1,53 @@
+{
+  "internalId": "REFINED_MITHRIL",
+  "name": "Refined Mithril",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 204800,
+  "lore": "&7&8Collection Item\n\n&5&lEPIC DWARVEN METAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REFINED_MITHRIL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDk5NjQ2NTYzMCwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1YTc2NjMzMDA2MTliYjZhMTU2ZDc2MzUxYWMwNWY3YjNjYWZlYWMzMWUyZmYwNGM1NWNjOWYyMzYzMjc4MzIiCiAgICB9CiAgfQp9",
+      "signature": "Y8CTx2Vg47qf4ygPHWea3/0aA6RFvyTsoZjT5OXUEaCn3VRUQFy6ysHTPgzaTtECa5Obl+UzWfStRcuEbMuGMqyCCZmqwnktCu3VvEWILamWlOXU5b4QPVRCcyxNBf1vNORfJUDlJ5BPs0xO8XwZ478yEGuaiLVlbBAj4bd2/JUnjiDebaCG/A+shQcMafkM370d9VI6s/AbgIg6qeEzF32TfAWJ34pdcHhEz9DyFirKINx7Wg4wOZDPjmoJDC3HuW8Z/cBhn67FgIVgen6GEGRThmDmjhDkbzbq6h1pQqPRT2tIy/89v6YCuB5A0qFImaW0kxjbXMblt9E1YvaijUhK9Aqr9Z5nRgizQgZjbYNx9rW/lHm3IpptT95oz0O3LHYl9PoKMTKNqmm23w9WGASKPhdecUJ/KAtw0Swif+q98mQSIIqpNexNw1/Wo10aMOpEV9/TO8mkpO6zqvHWvBS74ud3V/YrF5V/kY36jKLA+OXRDBVrACcUZKdxNrWajkOcpDehHeX2MlgdWZGab1IvKbIppwRug2gB+6+NoCY+bp8n5kKlN9qAFJORw7VcbO0VfqW+ywE3KuCuFzTDLnNudoFR55sXNEZPQ3Z/xJ9IyiC77AXd5z/UIAeG9Ss8EqWSkjRCME2jNu84afRIPA4/iEo7ScgwyWzScWSc/5I="
+    },
+    "name": "Refined Mithril",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 204800
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REFINED_MITHRIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

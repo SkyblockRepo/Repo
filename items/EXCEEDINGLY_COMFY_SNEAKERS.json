@@ -1,0 +1,33 @@
+{
+  "internalId": "EXCEEDINGLY_COMFY_SNEAKERS",
+  "name": "Exceedingly Comfy Sneakers",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+45s\n&7Speed: &a+5\n\n&7Stay classy.\n\n&5&lEPIC BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXCEEDINGLY_COMFY_SNEAKERS",
+    "material": "LEATHER_BOOTS",
+    "color": "56,0,36",
+    "name": "Exceedingly Comfy Sneakers",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "stats": {
+      "RIFT_TIME": 45,
+      "rift_walk_speed": 5
+    },
+    "origin": "RIFT",
+    "description": "Stay classy."
+  },
+  "recipes": []
+}

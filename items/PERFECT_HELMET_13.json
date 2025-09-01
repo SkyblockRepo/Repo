@@ -1,0 +1,101 @@
+{
+  "internalId": "PERFECT_HELMET_13",
+  "name": "Perfect Helmet - Tier XIII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5017600,
+  "lore": "&7Defense: &a+350\n&7 &8[&7❈&8] &8[&7❈&8] &8[&7❈&8]\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERFECT_HELMET_13",
+    "material": "DIAMOND_HELMET",
+    "name": "Perfect Helmet - Tier XIII",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 5017600,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PERFECT_TIER_13": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DEFENSE": 350
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DIAMOND",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 150
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 21
+      }
+    ]
+  },
+  "recipes": []
+}

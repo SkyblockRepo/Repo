@@ -1,0 +1,48 @@
+{
+  "internalId": "ASPECT_OF_THE_LEECH_1",
+  "name": "Aspect of the Leech",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Weird Transmission  &e&lRIGHT CLICK&r\n&7Teleport &a3 blocks&7 ahead of you.\n&8Mana Cost: &360\n\n&a&lUNCOMMON WAND&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ASPECT_OF_THE_LEECH_1",
+    "material": "WOOD_SPADE",
+    "name": "Aspect of the Leech",
+    "category": "WAND",
+    "tier": "UNCOMMON",
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ASPECT_OF_THE_LEECH_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "LIL_PAD",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "LIL_PAD",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

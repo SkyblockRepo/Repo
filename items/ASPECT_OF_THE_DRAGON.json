@@ -1,0 +1,111 @@
+{
+  "internalId": "ASPECT_OF_THE_DRAGON",
+  "name": "Aspect of the Dragons",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Damage: &c+225\n&7Strength: &c+100\n&7 &8[&8❁&8]\n\n&6Ability: Dragon Rage  &e&lRIGHT CLICK&r\n&7All Monsters in front of you take &a12,000&7\n&7damage. Hit monsters take large knockback.\n&8Mana Cost: &3100\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 18&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ASPECT_OF_THE_DRAGON",
+    "material": "DIAMOND_SWORD",
+    "name": "Aspect of the Dragons",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 18
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 225,
+      "STRENGTH": 100,
+      "WEAPON_ABILITY_DAMAGE": 12000
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 150
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 400
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 12
+      }
+    ],
+    "ability_damage_scaling": 0.1
+  },
+  "recipes": []
+}

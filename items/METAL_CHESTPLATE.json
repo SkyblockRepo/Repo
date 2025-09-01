@@ -1,0 +1,85 @@
+{
+  "internalId": "METAL_CHESTPLATE",
+  "name": "Metal Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d480 &8(526)\n&7Defense: &a+230 &8(+253)\n\n&7While in Dungeons, players within &e10\n&e&7blocks of you take &c8% &7less damage.\n&7This range is extended to &e30 &7blocks\n&7while playing as a Tank.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "METAL_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "217,217,217",
+    "name": "Metal Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 3,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "METAL_CHESTPLATE": "STEEL_CHESTPLATE"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DEFENSE": 230
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 20,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

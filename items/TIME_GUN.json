@@ -1,0 +1,56 @@
+{
+  "internalId": "TIME_GUN",
+  "name": "Time Gun",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Quantum Projection  &e&lRIGHT CLICK&r\n&7Aim at &9Timite Ores &7to wackify their time.\n&8Mana Cost: &32\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TIME_GUN",
+    "material": "DIAMOND_BARDING",
+    "name": "Time Gun",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "motes_sell_price": 25
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TIME_GUN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "BERBERIS_BLOWGUN",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

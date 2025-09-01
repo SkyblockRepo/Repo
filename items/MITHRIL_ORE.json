@@ -1,0 +1,26 @@
+{
+  "internalId": "MITHRIL_ORE",
+  "name": "Mithril",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&7&7''\"The Man called it \"true-silver\" while''\n&7''the Dwarves, who loved it above all''\n&7''things, had their own, secret name''\n&7''for it.\"''\n\n&f&lCOMMON DWARVEN METAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "MITHRIL_ORE",
+    "material": "PRISMARINE_CRYSTALS",
+    "name": "Mithril",
+    "npc_sell_price": 8,
+    "description": "%%gray%%%%italic%%\"The Man called it \"true-silver\" while the Dwarves, who loved it above all things, had their own, secret name for it.\""
+  },
+  "recipes": []
+}

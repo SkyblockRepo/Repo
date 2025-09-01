@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_GRILLED_PORK",
+  "name": "Enchanted Grilled Pork",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 128000,
+  "lore": "&7&8Collection Item\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_GRILLED_PORK",
+    "material": "GRILLED_PORK",
+    "name": "Enchanted Grilled Pork",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 128000
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_GRILLED_PORK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_GRILLED_PORK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

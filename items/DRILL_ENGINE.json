@@ -1,0 +1,56 @@
+{
+  "internalId": "DRILL_ENGINE",
+  "name": "Drill Motor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5884,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRILL_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MTI0NzY2OTYyNCwKICAicHJvZmlsZUlkIiA6ICJlMzcxMWU2Y2E0ZmY0NzA4YjY5ZjhiNGZlYzNhZjdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJ1cnN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1Y2M5MDRkMGZjYTRhNzU1ZmM1YzFjMjc5NWIyY2ZjMmQ1ZjUxODNhZGFlNzViODRlMWJhY2FhODhkODM1ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "l58eeB6RdHXbr2WohBN6chEuyWqPzh6tX7JBqx2emupXvvLfKfMWf434OBZXvWYpmOfmMymoqfej6dohqPQmh/7a5oWMCcLCKDArx+ozpbLKvoyLSP2fhkUsWB3lRj4dxp7HFWYjofqdx6hZq1N2B/xLcNxXyYTLM8b7pDbWxiIGtFHWfQoQwOpasRNYioZxIV89HV9oKU2bAYGuE/jU6SIb3BuoS8iKe2UnwdYSs4iLmbBYxwUGw4NBeZhZxxuhWMkEnf+VvM4w0N72LACTeVNW3Apr4EgBc2T8nrnHjfqvnGEleeWljJf4UXj47oFKHw3H/m874k/nLzCZOAEgyd/xP3eAQo9ITihb1sKc07mK232HSDNGV2rlPw2IELMRS0GhrSU4fZ0VTdRiQ1sfM5IL54ul6sw4MR+lHd0tbxHGAjacjlYOFjmB1rTKaX1yahQWXwJzmmyhpHPdDjq6iE9LcgCRgLpmuf3bxE1/lWLSUURCFR7C2Kg5C8nDFZZp70NTuwXsQqF8oDqDhPr0HVHnOeOQylsk1iC8TMDa1DKOfAsf8uTA9SqSls7kW7Z0Ih0pRQHFufpzwgWXs5GW/dvW6a8mlDwSWPhFJufq4MWTN8ulHBTdLBIvnd328pTwYT7tUbwgS/4icklNZFiEikmWatL1X/0AGsmB1SKgcko="
+    },
+    "name": "Drill Motor",
+    "tier": "RARE",
+    "npc_sell_price": 5884
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DRILL_ENGINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TREASURITE",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "GOLDEN_PLATE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

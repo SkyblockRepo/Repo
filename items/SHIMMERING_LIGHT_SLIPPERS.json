@@ -1,0 +1,397 @@
+{
+  "internalId": "SHIMMERING_LIGHT_SLIPPERS",
+  "name": "Shimmering Light Slippers",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 129000,
+  "lore": "&7Health: &a+70\n&7Defense: &a+60\n&7Intelligence: &a+60\n&7 &8[&7⚔&8]\n\n&8Tiered Bonus: Shimmer (0/4)\n&7Increases all &aExperience Orbs\n&a&7gained from monsters and ores by\n&7&a200%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHIMMERING_LIGHT_SLIPPERS",
+    "material": "LEATHER_BOOTS",
+    "color": "7,3,27",
+    "name": "Shimmering Light Slippers",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "npc_sell_price": 129000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SHIMMERING_LIGHT": 16
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "HEALTH": 70,
+      "DEFENSE": 60,
+      "INTELLIGENCE": 60
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Y",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Y",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 750
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Y",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Y",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Z",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Y",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Z",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Y",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Z",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "X",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Y",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "Z",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SHIMMERING_LIGHT_SLIPPERS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "X",
+          "quantity": 50
+        },
+        "6": {
+          "itemId": "X",
+          "quantity": 50
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SHIMMERING_LIGHT_SLIPPERS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "X",
+          "quantity": 50
+        },
+        "9": {
+          "itemId": "X",
+          "quantity": 50
+        }
+      }
+    }
+  ]
+}

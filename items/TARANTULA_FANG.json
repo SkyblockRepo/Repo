@@ -1,0 +1,140 @@
+{
+  "internalId": "TARANTULA_FANG",
+  "name": "Tarantula Fang",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "\n&7Damage: &c+130\n\n&7Strength: &c+40\n\n&7Crit Damage: &c+30%\n\n &8[&8⚔&8]\n\n\n\n&7&7Deal &c+200% ❁ Damage&7 to and gain\n\n&7&3+45☯ Combat Wisdom&7 against Spiders!\n\n\n\n&6Ability: Webcutter \n\n&7This weapon can be used to clear\n\n&7webs left by the &4Tarantula\n\n&4Broodfather&7!\n\n\n\n&7&8This item can be reforged!\n\n&7&4☠ &cRequires &5Spider Slayer 6&c.\n\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TARANTULA_FANG",
+    "material": "IRON_SWORD",
+    "name": "Tarantula Fang",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {
+        "TARANTULA_FANG": "STING"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 130,
+      "STRENGTH": 40,
+      "CRITICAL_DAMAGE": 30
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 250
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TARANTULA_FANG",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "TARANTULA_CATALYST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "RECLUSE_FANG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

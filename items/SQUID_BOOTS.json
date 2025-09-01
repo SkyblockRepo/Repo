@@ -1,0 +1,45 @@
+{
+  "internalId": "SQUID_BOOTS",
+  "name": "Squid Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15,
+  "lore": "&7Sea Creature Chance: &c+1%\n&7Health: &a+100\n&7 &8[&7☂&8]\n\n&7Your shoes spit out Squid ink!\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SQUID_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "0,0,0",
+    "name": "Squid Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 15,
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": []
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "health": 100,
+      "sea_creature_chance": 1
+    }
+  },
+  "recipes": []
+}

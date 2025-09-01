@@ -1,0 +1,57 @@
+{
+  "internalId": "EMPEROR_RING",
+  "name": "Emperor's Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 900,
+  "lore": "&7Sea Creature Chance: &c+1%\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMPEROR_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0ODYyMzA1ODQ2OSwKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Q2ZGQ5NDFjZTM5MTdkNzU3ZmJkNmFiMjg4Yzg3YTIzNjYwMmZkOTRkNDkyMGY2ZWMzYWMzNDRjNWZhYWMzMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "rYkW10BZO5onqr0LmfyqTW8FIc/2hD+D9502EIulhHoWeAjPFuGgAbzQP6rcwQWWagaMOYCAP6qwo/EUjsFnWfAWYPRM1ku6e9kho3aDJSSIhn/gJzBxFPSLP1UDX2OGW1qBDARPMlc4lDV+7w6kJ7RxAR95EH/vP2cw7cE2c+16ydtROWeZYeb+GHZc7FAJuEKOz4xeCS6ItneXHeDYbrKubWrzEZP05X0TJmmdgRMbLf/eFAN7iwLzILaGKVwFUmnp2O2GtrrcIFUV+TLTYTstXo9RmJYr4tXOZuHJLguwGw5AtZgDCKog+Mp/M6y0Y2Ell/HzOqScSElMPA5QQrbExi+CbxSwFE0T8cFGxKm5AuX4PSvdfpg97OWbgUvpO4/RKwSmWmxKetNQOYEERbUQ41NlmHjstECRAU5R9wirmfoFEwRuYg+W+UbvYwDDXBxNvIJKAozYgJ1UpN1Yk7yAjPzW0qKrNoYpf0RVw1qhnQ8UUzeL9/e1zj2ACpgJRddwfn0WDyxdmDF6oJxXu8oAPzNCvDRYFx08AeWsvaXKpxcXc6wi4aA/8xZHuiYd/yWXJ1InHUluVy4UAsHfKYlbJ9L4Pquyp9ZqEZh5NcNJ0MZf7h1YO0ABvw1biHUlVzjcQEYUrmjzu8NfYaKMHZJdJ81+Z9qYH29ybH0C4ZU="
+    },
+    "name": "Emperor's Ring",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "npc_sell_price": 900
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EMPEROR_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "EMPEROR_TALISMAN",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "EMPEROR_TALISMAN",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "EMPEROR_TALISMAN",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "EMPEROR_TALISMAN",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

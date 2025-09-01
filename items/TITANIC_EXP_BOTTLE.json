@@ -1,0 +1,64 @@
+{
+  "internalId": "TITANIC_EXP_BOTTLE",
+  "name": "Titanic Experience Bottle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Smash it open to receive experience!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITANIC_EXP_BOTTLE",
+    "material": "EXP_BOTTLE",
+    "name": "Titanic Experience Bottle",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 5000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TITANIC_EXP_BOTTLE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GLASS_BOTTLE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "internalId": "LEAPING_SWORD",
+  "name": "Leaping Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 375000,
+  "lore": "&7Damage: &c+150\n&7Strength: &c+100\n&7Crit Damage: &c+25%\n\n&6Ability: Leap  &e&lRIGHT CLICK&r\n&7Leap into the air and deal &c350&7 damage to\n&7nearby enemies upon landing on the ground.\n&7Damaged enemies will also be frozen for &a1\n&a&7second.\n&8Mana Cost: &350\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LEAPING_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Leaping Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 375000,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 8,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "LEAPING_SWORD": "SILK_EDGE_SWORD"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 150,
+      "STRENGTH": 100,
+      "CRITICAL_DAMAGE": 25,
+      "WEAPON_ABILITY_DAMAGE": 350
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LEAPING_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "5": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "LEAPING_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "6": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "LEAPING_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "4": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

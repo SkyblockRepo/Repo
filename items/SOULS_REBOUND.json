@@ -1,0 +1,122 @@
+{
+  "internalId": "SOULS_REBOUND",
+  "name": "Souls Rebound",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+450\n\n&7Your arrows mark enemies you hit\n&7for &b5 &7seconds. Marked Enemies don't\n&7take damage from you, once the mark\n&7expires the target will receive a\n&7burst of damage equal to all the\n&7damage dealt during the mark\n&7increased by up to &c10%&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOULS_REBOUND",
+    "material": "BOW",
+    "name": "Souls Rebound",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 450
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 30
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 8
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SOULS_REBOUND",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "DARK_QUEENS_SOUL_DROP",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

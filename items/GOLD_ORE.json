@@ -1,0 +1,25 @@
+{
+  "internalId": "GOLD_ORE",
+  "name": "Gold Ore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_ORE",
+    "material": "GOLD_ORE",
+    "name": "Gold Ore",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

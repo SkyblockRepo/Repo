@@ -1,0 +1,27 @@
+{
+  "internalId": "GIFT_COMPASS",
+  "name": "Gift Compass",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7When held, points towards the\n&7nearest unopened present while in\n&7Jerry's Workshop.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "GIFT_COMPASS",
+    "material": "COMPASS",
+    "name": "Gift Compass",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

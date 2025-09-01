@@ -1,0 +1,32 @@
+{
+  "internalId": "EPOCH_CAKE_BLUE",
+  "name": "Sea Emperor Century Cake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7Furniture can be placed on your\n&7world. Some furniture is interactable\n&7while some are purely cosmetic.\n\n&7Invite your friends to share a slice\n&7of cake! Eating this cake grants &3+1α\n&3Sea Creature Chance &7for 48 hours.\n\n&7Obtained in &fYear 100&7.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EPOCH_CAKE_BLUE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQ1Njk0MzMwMiwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMTJhMjhlNjlkYTVlNDNjZThmZGVjYzZhODIzYzkyZmZmODQ3MTllMDE0N2NhYWM3MWM1YzhkOTlkYTU3ODFjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "TzqSJEdTT+E/ZT6tpoTFcicVh0P3IrFk52qmNx9jhgcoVUYSstvY1EkMMqZMnVFQX3DHyNtHK3kajUxxUJamXE1cQSPbTs/Uiye8+/9t5j3F0RxGm46o8aOhz4tllV94gUIYZxH4Ujx0h9oncBtMRLHybP/IWxYvTGlXB1p5RSxPIMH2BR97uj2+Wfm958FBkQF0JpS7fZ1IA5cCwa8j7S4/PyuacCAi4YWXSKhk5J3AG39QPnhP6eSEy73qv9WGKVZj2DWB3vgiMMsHK59BQQefXTTESmAXc2aBLQ7LSBUAGAZl6sPJcqhuR0ESNc92E4JM4GlKBRvfCocBcpFeQJPML13tWZGR+V2fkI2r6nKdBr574Tkbj6VVgcI+mQF2Acn9JbLcoW0NozAe0EhbRSZbKLNL3ia2QchRAr/ZoSRi4nuCiDh/Icm7FVprVGo7WJJvX6gz+89jzYCZyUN9lo9I1ES3VMxtQ1SiBT2UsiNQ3NJDBod/DEEZunuPv4iKByjiZYTWg+26C1bxltzAyD5F7CuZ87axkxE/xpPNm6mh9Uca6OJzrV3uNq0oJsITqX+ukyUTSLoxSx0o52L9Bwik6HLzMI3wKo+PSe8ZAD+D9VsegjUXxxAC66NjKXzaJxB0CuQ5SasRrjLFD0edUth8qd5zJFioWRHnKnVKULE="
+    },
+    "name": "Sea Emperor Century Cake",
+    "tier": "UNCOMMON",
+    "museum": true,
+    "furniture": "EPOCH_CAKE_BLUE"
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "SUPER_LEECH_MODIFIER",
+  "name": "Super Leech Modifier",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Can be combined with an &9Aspect of\n&9the Leech &7in a Crafting Table to\n&7increase its range from &a4 blocks &7to\n&7&a5 blocks &7and decrease its &bMana Cost\n&b&7from &b60 &7to &b50&7.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPER_LEECH_MODIFIER",
+    "material": "SLIME_BLOCK",
+    "name": "Super Leech Modifier",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "description": "%%gray%%Can be combined with an %%blue%%Aspect of the Leech %%gray%%in a Crafting Table to increase its range from %%green%%4 blocks %%gray%%to %%green%%5 blocks %%gray%%and decrease its %%aqua%%Mana Cost %%gray%%from %%aqua%%60 %%gray%%to %%aqua%%50%%gray%%."
+  },
+  "recipes": []
+}

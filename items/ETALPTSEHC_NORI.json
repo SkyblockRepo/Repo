@@ -1,0 +1,31 @@
+{
+  "internalId": "ETALPTSEHC_NORI",
+  "name": "etalptsehC norI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+30s\n\n&9&lRARE CHESTPLATE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ETALPTSEHC_NORI",
+    "material": "IRON_CHESTPLATE",
+    "name": "etalptsehC norI",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "glowing": true,
+    "stats": {
+      "RIFT_TIME": 30
+    },
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

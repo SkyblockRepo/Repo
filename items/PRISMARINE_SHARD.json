@@ -1,0 +1,25 @@
+{
+  "internalId": "PRISMARINE_SHARD",
+  "name": "Prismarine Shard",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "PRISMARINE_SHARD",
+    "material": "PRISMARINE_SHARD",
+    "name": "Prismarine Shard",
+    "npc_sell_price": 5
+  },
+  "recipes": []
+}

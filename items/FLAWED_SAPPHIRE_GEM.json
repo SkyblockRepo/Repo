@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_SAPPHIRE_GEM",
+  "name": "Flawed Sapphire Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of\n&7&bSapphire&7, but it could still use some\n&7work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&b✎ Intelligence&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWED_SAPPHIRE_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjIwMzYzNiwKICAicHJvZmlsZUlkIiA6ICI4OGU0YWNiYTQwOTc0YWZkYmE0ZDM1YjdlYzdmNmJmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb2FvMDkxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YTBhZjk5ZThkODcwMzE5NGE4NDdhNTUyNjhjZjVlZjRhYzRlYjNiMjRjMGVkODY1NTEzMzlkMTBiNjQ2NTI5IgogICAgfQogIH0KfQ==",
+      "signature": "x96ifXs440V5czJN9hlSYq+SIVKQjdKBSOuuplDFC+wIANfFQH7GC5a5Se9zryDAWIWhtvAKDH9SaPwjZZdaV8mDsqzijWgFqSUGM3vIrjx0B3igzuL8V/tvFXe6bfMBvn8U/MNIwSiZXJFAsv8GEHaStoKiC7hcCrpkaafK7PIOidSHF77loDj2X0EZ4FMh9pZt7hBzGes65rHEWis3zr5L6QxLnXjHGDUtvwtp1YTng5L+atpz3+QHeu/ZFjvVRdIkWD4EX5s7zKmuCFHRsjoPqnbuGyKVt6QqhqPIKYfullVJOVcWeDvVH1IacuAHwGB5l1YCQWGlMdsPcNc9u1yyxaabg3JfdHkoZN/r3o85zQ2INO/zMSt2H+ivTDUZgBNbbobA+m3VSWhFo8CRA9SXiVkQAP4s6DZ8NWL+dK9rHdaGP1JKLshtoeVlq4gvkV6sYdDTppso1q64ey/hoSk55B5B0k+R0BpO6Fw6YC9wMWRyp30pkM8tDal/t65jgVOvM3DMHUQJXd6T1w5LEJIyRM4fTX1xA9cvWi9z6ddwjIrMRFhCmoI0FfnTyLSs5JGc2cm+6/7i2T0V+LsmYA02XUb09WYJ0La3vYJYa0yiKFtjLtFInnDW3xxUHo/mBuOGXKv1fxTra/8h15BxRqU/ypZUeQs6bO71/QX0kRY="
+    },
+    "name": "Flawed Sapphire Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_SAPPHIRE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_SAPPHIRE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_SAPPHIRE_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

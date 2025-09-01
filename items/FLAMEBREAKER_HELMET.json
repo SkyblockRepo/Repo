@@ -1,0 +1,38 @@
+{
+  "internalId": "FLAMEBREAKER_HELMET",
+  "name": "Ember Ash Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Mining Speed: &a+15\n&7Mining Fortune: &a+5\n\n&7&7An old charred shadow of the real\n&7thing leaving behind streaks of coal\n&7on the wearer from its shoddy\n&7construction.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aHard Stone Collection V&c.\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAMEBREAKER_HELMET",
+    "material": "CHAINMAIL_HELMET",
+    "name": "Ember Ash Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "COLLECTION",
+        "tier": 5,
+        "collection": "HARD_STONE"
+      }
+    ],
+    "museum": true,
+    "stats": {
+      "MINING_SPEED": 15,
+      "MINING_FORTUNE": 5
+    }
+  },
+  "recipes": []
+}

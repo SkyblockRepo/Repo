@@ -1,0 +1,73 @@
+{
+  "internalId": "FROZEN_WATER_PUNGI",
+  "name": "Frozen Water Pungi",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Snake Taming  &e&lHOLD RIGHT CLICK&r\n&7Aim at a &9Living Metal Snake &7to deeply\n&7calm it, allowing &eanother player &7to\n&7mine it.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FROZEN_WATER_PUNGI",
+    "material": "SPIDER_EYE",
+    "name": "Frozen Water Pungi",
+    "tier": "EPIC",
+    "unstackable": true,
+    "origin": "RIFT",
+    "motes_sell_price": 10
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FROZEN_WATER_PUNGI",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "NULLIFIED_METAL",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

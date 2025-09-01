@@ -1,0 +1,77 @@
+{
+  "internalId": "SUGAR_CANE_GENERATOR_6",
+  "name": "Sugar Cane Minion VI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting sugar\n&7canes! Requires an area that is\n&7suitable for sugar cane to be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a18s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUGAR_CANE_GENERATOR_6",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDQ4OTk1NzcsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E5MzUxYjYxZTkzODQwMjY0ZjVjYzZjNmI1YTg4MjExMWFlNThhNDA0ZjNiYmJlNDU1ZTA3YmY4NjhkMzk3NSJ9fX0=",
+      "signature": "ZlBxw0LjRv8mBsCcljOMPV2ulrZhoU23z8mgfenUpt3ZxYq30uKH5NvoM3u6b4KQruod1/ix+DSDqJIVxvdvcFsjxJZu5orFPGXIRlS4AHoRifo26GjfOJcn8pVLExcou8OQpl8HX1GljWO0jK141UXea0EUymwzulfjb8RKzf31nWG+15Z8cvqdx6z5zSdOgTQN0IScu058ZHz2y1gqa+IVy2CHbr/TA7tVJ9aukUP7qeb2eJ/W2GEmZgt7TdTFTnQSzgVCqgnzp2okKtegPJBbBrdD62JYIGLPVpX82rmSYKAU0DhCOlA/VC5pkMISL5y9a8fdV6Pdz1JJkmvoUfa5VKQhGHEBiCoeeNs8Vl0E/t1jhkG4aDQaZrtBeSw6cj6x4QLRrVAgZm0jp709XREDWQa9Usm1dwJGCrK16EgoP3+7mf4OdwzgPAPLbk7t/k94Je82ujEd+vso11owlL0136ooNDhO53IC1arfiB3P5iCffGw/r8uMbEYcphdCkSH5IRmvaQqqMhb9Ve2j53gRX8oRsmAToWFv7AdrdhTFSHYwnIh2+YLuxOLsUQq1s+0LO7swFMezztXCqugr3nnD4H7oMWGEWkIgjAV4WEXd/h18aHbt1FW39F90HIuXIXTZwFfc2njYu3XHkSOEcULl3HmLSrIKQr2zkO1XNhk="
+    },
+    "name": "Sugar Cane Minion VI",
+    "tier": "RARE",
+    "generator_tier": 6,
+    "generator": "SUGAR_CANE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUGAR_CANE_GENERATOR_6",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "SUGAR_CANE_GENERATOR_5",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_SUGAR",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

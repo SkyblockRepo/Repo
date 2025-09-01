@@ -1,0 +1,31 @@
+{
+  "internalId": "IRON_PICKAXE",
+  "name": "Iron Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&8Breaking Power 3\n\n&7Damage: &c+25\n&7Mining Speed: &a+160\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_PICKAXE",
+    "material": "IRON_PICKAXE",
+    "name": "Iron Pickaxe",
+    "category": "PICKAXE",
+    "npc_sell_price": 4,
+    "stats": {
+      "DAMAGE": 25,
+      "MINING_SPEED": 160,
+      "BREAKING_POWER": 3
+    }
+  },
+  "recipes": []
+}

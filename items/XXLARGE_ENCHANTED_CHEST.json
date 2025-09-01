@@ -1,0 +1,43 @@
+{
+  "internalId": "XXLARGE_ENCHANTED_CHEST",
+  "name": "XX-Large Storage",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 40000,
+  "lore": "&7Place this chest next to a minion and\n&7the minion will store items inside once\n&7its storage is full!\n\n&7Storage space: &b27 &7items\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "XXLARGE_ENCHANTED_CHEST",
+    "material": "CHEST",
+    "name": "XX-Large Storage",
+    "tier": "SPECIAL",
+    "npc_sell_price": 40000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "XXLARGE_ENCHANTED_CHEST",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MINION_STORAGE_EXPANDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "XLARGE_ENCHANTED_CHEST",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

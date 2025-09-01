@@ -1,0 +1,32 @@
+{
+  "internalId": "CATACOMBS_PASS_6",
+  "name": "Catacombs Pass VI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CATACOMBS_PASS_6",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg3MjI4MDQxMywKICAicHJvZmlsZUlkIiA6ICJjOTZiOWNhZDgzNTA0MjgzYjcwNGI1NTdiNTRhYjUxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJrb3gzNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zY2U2OWQyZGRjYzgxYzlmYzJlOTk0OGM5MjAwM2ViMGY3ZWJmMGU3ZTk1MmU4MDFiN2YyMDY5ZGNlZTc2ZDg1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "YzZcdbXDo3zluULGXjqyhNK+aUXdV3iqkyYDvZSxRKwgFcqWojv6ddXH7raYl5srVR/RRuNYr+uqvZ8eY2SUWoAl5vZFaS6jU54RWfWy9QbqGhmj8zsGYqtIJx+OZdf14XtXYDZjPdjUbCUOXrP4zx9io4VrN8wngTRhGe9xQ7NzXE6ruNAXG6Z/xgP42NB9MLmvN7Dl2ZHEIBHetD0vYYS8XkYldsJlLqmzEwlPE7wf0IaUwVLmo/K9eBKqIIILzn+CV+VMKfxlx9q3tvS0SZmQyt4IKOca9o7l4nln3j7L8I3GDfwTRiyo8vmiXfmI2gQh/RZLUbuaW7801BY80WUH7cqybT+DB4qAKu6rcHR8WAJWIb5RpnOlzypM4Idw4QL48ps6RLd6cqD+jIS4wPgtQFrAAuYGAnl5nSnUkANpBXCuoo0D24OzcriEAMTw5erV8QAEFSGeufs98lZKhwm+HZXnX6vJFG9qldhyp+yQFL1kId9xelVshOdKY29ZUNND1Th2q96E5ZrXSfKSbkQhjSzfQnMabwR27kNX/WuTu5LgH8wjsZTGgmh7nfLe+zjyyQqa559DgBbBxpgvOfmb8pKxfm6ZoAAmfZvogmI3f41EhtE4bd64Im8eCVvvCJfPbhVOSDkSTp2jtQU8AF33h0+ydkCuNBOFeI+GaJs="
+    },
+    "name": "Catacombs Pass VI",
+    "category": "DUNGEON_PASS",
+    "tier": "RARE",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

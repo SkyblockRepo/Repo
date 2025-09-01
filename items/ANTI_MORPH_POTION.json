@@ -1,0 +1,31 @@
+{
+  "internalId": "ANTI_MORPH_POTION",
+  "name": "Anti-Morph Potion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Right-click to throw the potion at\n&7&2ugly &7people.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANTI_MORPH_POTION",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjExMTQ5Mzc3NiwKICAicHJvZmlsZUlkIiA6ICJmZWY5ZDJmY2NkODE0MzJhYjA3NWRhMzBkNWZlMjdmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb2VuVE5UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhZGQzMDllY2VmZGIxZGYxOGVlZjZmOGQ0MDgzYjQ3YjNlZTIyNzI4NmMwZjM3NWY0NTM2OWQ4M2ZiMzBiZCIKICAgIH0KICB9Cn0=",
+      "signature": "nQORq8BSJHIX0adl7EhzaysKvwtmFBpn8qZq6BW1Ba/8nZpUPn8DeF0xSFbagNsUarqN1tGAK0dEjDErxr+N+z+ZNjHvPXb7idxsn2j4bXHNgBVQ/a3AivtQKQiEOyCznQGkhYXvCzgdcSJ9zgV3jMA0sThr/kQfOZKJGC0Pv+7YolE7GTyfonHHqsyNB0fSygPHt0WL8p6EWUAynN+GuxQ5bNJYOAgC+3jmJRNuvwS8ovj/Ue4J9L48NMmrRbXnKZiBlI8E9eanymq8NWU64ZcmuvyhwZbH29ZAsT12PH8dRRBoyCTMBgcygbrCevnGjqgp01lB07lHREKekBJAU5DR/qBhjFuzP9XxqLG42QIRkYgJYNUyl551qUOwEDS9qSiDmYML+0QTHHeR4/MlUgiEvquaJMxVm01jrfOsKOqiiIOyxHZ4gXU4r3DOLYTKDdgMKdF3K8scAYREW/I56RqR9/INKBeKkwISGHPd/y3925x0L7GfdLm7bwbTXWGkxJXg8Icmjld5aT0q6Hq3Q1xpAZZByihn13fKs84lDcPG0OsgUDZScSx7W5nSdQ/TMVk5VPa1aQg/O7kWC5MTSdZczMxtqiyEIEWSstZloGQuEuCK6oQRB9JDMmfN6mMf/24Arsm+7P8j7EJpViIPGiTO03f8NvKDg9DPhCSxpOU="
+    },
+    "name": "Anti-Morph Potion",
+    "tier": "EPIC",
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

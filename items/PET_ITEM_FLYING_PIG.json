@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_FLYING_PIG",
+  "name": "Flying Pig",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Grants your pig pet the ability to fly\n&7while on your private island and\n&7garden! You also don't need to hold\n&7a carrot on a stick to control your\n&7pig.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&a&lUNCOMMON PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_FLYING_PIG",
+    "material": "FEATHER",
+    "name": "Flying Pig",
+    "category": "PET_ITEM",
+    "tier": "UNCOMMON",
+    "glowing": true
+  },
+  "recipes": []
+}

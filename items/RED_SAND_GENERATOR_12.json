@@ -1,0 +1,39 @@
+{
+  "internalId": "RED_SAND_GENERATOR_12",
+  "name": "Red Sand Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining red sand!\n&7Requires an open area to place red\n&7sand. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a11s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&7&4❣ &cRequires &c12,000 Barbarian Reputation&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_SAND_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODk2MzQxMjQyNywKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk5ZmQ3MWNlZmI1YWQ0ZWMyYTIzOWYwNGU2ZmVmMGQ4ODM4ZjMxMDBmYTc3NTAwNmI4ZDdiZWQ0YzIwYjdjYzciCiAgICB9CiAgfQp9",
+      "signature": "isjlURGGK/bGx6b6tuXiDqy8THmROA8eIw8Tfs+8ulRrAbuyPeNI3ePyIMvbazH68w9ixJFjQ1AhTS4I8SAAlpM0DR6lsyUuqk4HxVYhGfHcEaA0lbZsjNhNcKojX2gdhUhD0pXxzARAu+TLAMExz780cTH71bhgPuxEeW/Fr8SEmhd4XKJjnCljeHWJei8zcgUcnMH8xuz8NQVSPbXqRWwEzaArbdla1zc4VyB4Q56F1e7bz/TlzJ1nnzW2v1dctAWx2HDSx9s33bo5LUG6j/WLUyDaXqvHrIvXfJ28n+U6QMzbfy+m+/IC+0kAcXuBRFh4PbIpl3guh1beqUqzaUZUUrnnD/qTGekSbQqB7zQAGsW6PquBiCfKt+oSR6DOuoa1NmHDyTFpUVy2LzfgCgYJjeVebXNVx6A/AKMSYnj5OSG8COX1OTTutwCe/wEzf3aZxfeXGYpFqsnjd5uYXuQ0uwY4BQkQ8rXx6uc9bWg8jJf2NG6j/dO78vtkrFb7TCSTYc75Pu54rxnHiQDxhasnUPEOPBV9/nX+45hEWl+H1b2o3ZAA+G57Z96eG8QdiHWFS+3tIKaljarLgDtxV/QBnvfaW0rmottZnbGS6uyIXU2yw8Xm2ZwBvOedCsZ+5E799tCvsBBkl6FqeUgLy5nEme2is5DC4WGViuVW1FM="
+    },
+    "name": "Red Sand Minion XII",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "CRIMSON_ISLE_REPUTATION",
+        "faction": "BARBARIANS",
+        "reputation": 12000
+      }
+    ],
+    "generator_tier": 12,
+    "generator": "RED_SAND"
+  },
+  "recipes": []
+}

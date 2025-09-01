@@ -1,0 +1,84 @@
+{
+  "internalId": "MYCELIUM_GENERATOR_9",
+  "name": "Mycelium Minion IX",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining mycelium!\n&7Requires an open area to place\n&7mycelium. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a18s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&7&4❣ &cRequires &c7,500 Mage Reputation&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MYCELIUM_GENERATOR_9",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODk3MzMyMzIzMCwKICAicHJvZmlsZUlkIiA6ICIxMWY3ZTIxMDMyOGE0MjRmYTU0NmFlZDk1M2FkNGU3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2RkZXNzd29sZjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAxMjRiZmEzODY1ZGQ5NGUwOWE4NjM3ZGI1OTFjMmNhYTFhYjUxZmEwNjk0NmYwNGIyNjFlOWE2YzYzZmY2OCIKICAgIH0KICB9Cn0=",
+      "signature": "M0xDNzsazUfSr9dHTDTYeTJApXRK0hSqSKsHT9C4lo0JzpGMr2NUpWKZhcBpb7CTr1HwnRYeMZuGwNWuXWXQpfuenhfw4AlQNj5Ey0xQeML3cTfSERXgw8oVtIDip5pnIevq05+Z92uInZpsdmQJJ/W7uLnOhlgj8mRoF77jGjRlDsrAXwBza9RqMfx6WZnG/6C2BqefUtj4ft88jdntr7/Qsz0BJF8G78WMkcMF9MRaJl4Mxs8jAqmUn70XGE3y4Yg7M9bNbYIOZ/MYmLiSDKH+2I1iwKAF/CNluuPW6qo2wAy0978WL3QK9jUobk9XY6WLDpGG9EyH46tPagPAP1Wc60PEHCjN6NVZpBYNG5PBKwWBtKiiQBr3B7bgJrVrREbIEWU62oCEAfd/VpnpdKcJ3fDiCRemPYPxgsWzg1zYEYAXoHsJr4n4ZRqat8v8EfsyopiBZNxdNMFejfDg19zAcq6p+3WA2aWtir7QNRMQBpYRtyB0tkAbf7guHu5F1Iqdf2yUNB8qLjOrQoa7h6NGrrSXcnyCgkwN/fBxbZyqcqHZ14vyXOTcLP0QKoDU7qP2LzV7wBuc0SCGXqOJNFlOFPqjYxbvV9xTojo6jwaincQmsg2UpbunglFflDJOM/35+SbXosCwf12mJsg8CSv4XSQ3drLfpX7vnjtY07c="
+    },
+    "name": "Mycelium Minion IX",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "CRIMSON_ISLE_REPUTATION",
+        "faction": "MAGES",
+        "reputation": 7500
+      }
+    ],
+    "generator_tier": 9,
+    "generator": "MYCELIUM"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MYCELIUM_GENERATOR_9",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "MYCELIUM_GENERATOR_8",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

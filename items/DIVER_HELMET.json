@@ -1,0 +1,102 @@
+{
+  "internalId": "DIVER_HELMET",
+  "name": "Diver's Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Sea Creature Chance: &c+2%\n&7Health: &a+150\n&7Defense: &a+60\n&7Respiration: &a+3\n&7Pressure Resistance: &a+15\n&7 &8[&8☂&8]\n\n&6Full Set Bonus: One with the Fish &7(0/4)\n&7Grants the ability to breathe\n&9permanently &7while &9underwater&7.\n\n&8Tiered Bonus: Deep Sea Diver (0/4)\n&7Grants &6+0⛃ Treasure Chance &7while\n&9underwater&7.\n\n&8This item can be reforged!\n&4❣ &cRequires &aFishing Skill 20&c.\n&5&lEPIC HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIVER_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTgzMzM4NTA4OSwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kOGYxMWMyYjFlYjA1NjhjYWM2NGY5NzZlNTBlMGU0NWYzYzA5YTY1ODAxZTdlZDcyNzM0YjFhOTlmMTYwNmNhIgogICAgfQogIH0KfQ==",
+      "signature": "IaydcOOamrm3XBXWsTKLV7npy6hdO+S8SUSypgQA54UM8j+ZsjT1cxi4Yt9qGfOUDxZcgi+Xq4ij5gZqSAp1qy0OWWH4Q22aM/yL1GreP/SpzPQxj6eHESXnTGRszN2thijoZg9X6EZBY32IDCzfhliKLrXXECTg8ulw/Laiw4WxKacvgtyX9x4nCkYzIYxDPr/O/jVyvN/GumYMAZuGvxxfGTv3FckaisO9DFCfWXH3usmTaUOTQezo2O+KHc3NP9EPp6g2GcXYpC3vafqXJBRhZYOyXEu4UJHxjh/VNZHI656vdAhzJuKS64qE+pLNFxrRTPgsZ2WnpZKfsc8H60OC5SARaYC2T1Ap/jxwbCg0n2pfzeYyyQMyembqaSK7dJww5JncZWIbqn8MBr3k4OYqPwfvxf4J+1ih5kW8X9NOOjel6VT3UVaXat/UgNlHxxbaP/v4MbVpe3e2SFx1s7wZipvBQKNDLMA4C7a2uv1s1HMl57zPXzZg+bsOdrhpi/NqWhnOgjFXdfmV3RXnOEgzvMXVl8ZfCDQzo97++S6F5B0LQlGbl4bCiSnfHTZBgN66lDUlcqCiqUIJD4dTe1sHuNHBo9bO7HX7F/JfZYzCqrjsPbJWCCY0OpL92ZKd7ZX+sdl2FzygGfa5SIhHQLzzNYSaQEj5bWxMaXWOVGc="
+    },
+    "name": "Diver's Mask",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "npc_sell_price": 10000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 20
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "DIVER": "ABYSSAL"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "DIVER": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "health": 150,
+      "defense": 60,
+      "respiration": 3,
+      "pressure_resistance": 15,
+      "sea_creature_chance": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIVER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "SNORKELING_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GILL_MEMBRANE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

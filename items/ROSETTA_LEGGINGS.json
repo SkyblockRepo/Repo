@@ -1,0 +1,39 @@
+{
+  "internalId": "ROSETTA_LEGGINGS",
+  "name": "Rosetta's Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 600,
+  "lore": "&7Defense: &a+30\n\n&7&8This item can be reforged!\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROSETTA_LEGGINGS",
+    "material": "DIAMOND_LEGGINGS",
+    "name": "Rosetta's Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 600,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ROSETTA": 1
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DEFENSE": 30
+    }
+  },
+  "recipes": []
+}

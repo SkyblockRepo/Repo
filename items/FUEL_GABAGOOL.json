@@ -1,0 +1,120 @@
+{
+  "internalId": "FUEL_GABAGOOL",
+  "name": "Fuel Gabagool",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Feed Wisp pets, tier up into Heavy\n&7Gabagool or craft Inferno minion\n&7fuel.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FUEL_GABAGOOL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MTkyNDgzNywKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDAwYWFkNjM4OGNhNDdjYjZmNmNmYzg4ZDc4NTY3MWJkNDc4MGE4NTAxMDZlZjQ3ZjJhOGEyYzNmMzViM2IxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "wJc0gz3MOXHGYrjsHwgWSkBOE3ga4QJenvkqeWg4zq3WKqdKBLR+d04PkT7ZTSQPYW2QmTnCxhtWHci0Mk19stoGSZzVmR0VFyrX62PWP9pOnW4wSkd0M0d6NoOQMtVdaHIa47z/8Za1fKgZOqFnJqZaur3B70kaOtt2JpRHUsiJHOY4yrOnJ0eL2mVyuiY22vV3vQzA+Nao9mq8tRv2aLguWfmWdK1zcxe2Ff9fbGaXRCwARrLvnBe+W60/SGOAObSO8YatzriaMAhYEM3rfwN4BqOMvoXUKGoVP9g2jEbLNC9ICNtCXuQ+Kici3hUBv65Dgy2VAguyX4nP5dG8Z7zuwn1Xa2FMv4AkEXFOx2uaoQj/IlAiGeuIYLde1TwQVi8yIBYPvg1nQAYrH63iAQV+0qFfb4ghQ//gauMj7Z9ii1mPnSnr/fEy2atv+Rblq2eIx28baWHn8dKjtgbwIYHEcKPylH69mPnVbd3y/lBTSFKrGqxNMeXfGvmKB2LarpzxDW3eXaBEZ7uGuGoLVHuoGNR1/KoS92EVcE8m6p8dm5OKb8dNdGWpqaGa5J1G9J620Noju3MnaIp7iwHFPQdI5saLC1Wo2Np9ys01rgohF2k0/ct8VUg1yY5kPGlR5zLc9tJwznz/+Se7Y5Kmx1PrW1vY/hahXRaq0cmAo6w="
+    },
+    "name": "Fuel Gabagool",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FUEL_GABAGOOL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FUEL_GABAGOOL",
+      "resultQuantity": 8,
+      "crafting": {
+        "1": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "VERY_CRUDE_GABAGOOL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "SULPHURIC_COAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "internalId": "DETECTIVE_WALLET",
+  "name": "Wallet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500000,
+  "lore": "&7''It belonged to a world-renowned''\n&7''detective whose lifelong dream has''\n&7''always been to investigate his own''\n&7''murder case.''\n\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DETECTIVE_WALLET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyODQwMTc3MTYyOCwKICAicHJvZmlsZUlkIiA6ICIzY2I3YTA3YWY3ZjM0ZWZiYTlkNGI4ODQ3NDM4Mzc0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfUmVubmllX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiNTdhZWI3YTg2ODE4ZTNmYWI2Mzk4MjFjMGY3NmRlMDI0YjQzYTM1ZTdmMDAwMmZiNDg0NDRiOGJjNzdmMTkiCiAgICB9CiAgfQp9",
+      "signature": "uQURFxShquXGz+LIHfA2MtrwtjtMsCN9qQF/vb/6cghsgmqfEJ9+eQzk9cYo1G/FlryL15djfUXs2SbhnuyYRzdpVaxXi22NC+QRRveXUtiixN/WQ0R3Xb2MH/hW6S5yi3DqnyMmlqodJfEMa0L2OwRQtF3Z5QChHavvpDd5DiRtZ5Zvqo1Z3SCRCDjF75YFHgBBUoCtHHe8an7m9fmvFvaMLcZb3kKzPfBKIfe7Qe4SMBCLZn2yvpzDq1C4Qz6u6eWph1/nf5YEmVjPw/VeFzhe6XlI8SjFXGyU2BYXAj7QgdVT5ZT3r4z0PwYqtMewYcrEBS+4DtE8whe1JFhNtwRQFp3clYEGe99i7ohHhlDZW/3QK1u3OfiLAAlITb1P3X5InTX0BTpqiH3037bkpstvWK5rwpPy6l5oBVahl2wj2ikHsZGcXEPWM1udyGkjkFDLavkIihoK9UcjfKBflS/hzpRtsK04UyUXXUKc3wK6LKJ3k0p2j/u1hrmoUl3n0DjTarh3FFl+4ypIvXmY++Cx4xHHCY9ffv9ZXuZYFENNEEtIntJaJL8dIqXY3AQFpjX+vP44PvHLCCnrf2HBrFQKc4VFzBm9PzkGnngMBSBBAsnAK3Z6snbivc2Dsrlpr1JSAc5BYjzWVAV/hQrYJTg7xWkgYXunALGMhtR3/Ew="
+    },
+    "name": "Wallet",
+    "category": "NONE",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 500000,
+    "museum": true,
+    "origin": "RIFT",
+    "soulbound": "SOLO",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

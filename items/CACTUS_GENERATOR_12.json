@@ -1,0 +1,32 @@
+{
+  "internalId": "CACTUS_GENERATOR_12",
+  "name": "Cactus Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting cactus.\n&7Requires sand nearby so cacti can\n&7be planted. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CACTUS_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQ1MzIyNDI5OCwKICAicHJvZmlsZUlkIiA6ICI2NGRiNmMwNTliOTk0OTM2YTY0M2QwODEwODE0ZmJkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTaWx2ZXJEcmVhbXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI1OTA1MzU3OWViODMwNzJmZTRkNWE1MzBiN2E2YTMxOGE2ZTAwMzU1MjU3MjA1YzEzMjQxNjZjYmExNGVlMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "HDR/7EAGLz8aWJJhPpXxJSB0JjvUZnW9x6nut/cltRE1Um/zoUzkDlY8+f9g0Hn4s96b6Y8S1jHzpkHIzQiXlFdu6QpntB2we8QOVmGKrERlTUQMyPiUFBulU04f+e20sk+3hRxtxEyV5ji35zngg7TyxtvfrfyJmYky4234v6e6EmaG+2C5hpxq2szGmFZbSSzKLsaoVvrWKoZdefae/gAz9GGzL5Xi7nX/nfar/Hnm01nxMELS3eVQCQul+GjeY4Xz0iV4gs8dNfGsJNmHawkU71mUO9PE53J0rVGXYqlezzJQaA+xkEZdrRrNvjk0MRjUtbQMhLv10vY2Z+7nEfEi2s6l7Ik4EYbuASIdkLzoYgPMErLYl9KqSVcJ7iZx4EVcW0xNel1YpFQZvbcki2yqWQ3SFdAXzM/8cDd+HY+2jZWqHZEIPBsUwFUJoyg17H2lxqdbYuIByr7Y+kvWSD+Wlb+tPAufxCdzJ1Ui9nDA3dTv8p2lKwP8dkxiFaaDSFdVB/EXekgHjvarn2Z130OJay5Aovi5G2BVXlZ0mrQGItyFso/+AmY8dkziVuomAx9JbGrr0t3CyK3MHQnSlYyzC26btTyhR3RLBz4D6vKUGkqBoW6UZqJFASgJbPyigRTOJsC8AjDdQfGYswCzECNoq/kvo+Tc1ZMAZNnsyWM="
+    },
+    "name": "Cactus Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "CACTUS"
+  },
+  "recipes": []
+}

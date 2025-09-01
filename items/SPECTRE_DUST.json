@@ -1,0 +1,32 @@
+{
+  "internalId": "SPECTRE_DUST",
+  "name": "Spectre Dust",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7&7''A famous Wizard used a wand made''\n&7''out of these.''\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "SPECTRE_DUST",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ0MTQ1MzU0MSwKICAicHJvZmlsZUlkIiA6ICJhYTZhNzUwNWVkYmU0NjNiYjk1NWYyMWY0MjNiYTM1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RhbmR5d2FyaG9sIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3YzNmOTJiZjliZTczYWRkM2Y5ZTNkZDNkYWNjNTczODM1ZjQ4MmJmZTExZDMxYzFmY2Y5OTFkMDk2ZGVlYzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "vfNy7pORCV4vrD1TA5W81z3NKuXh2nYL7z8Fk8TItU/37ZEGJfIyxXhSp7HCIFMazuU72/XB9pYJ5OG5wpUvkVUh9zDSYF1Y6i5JMbMNZJyCTFnJRdyCvidgnLBlTH4oFHtZG4FbeRLci+bVNq5JdCWCsNbp2BZho3cv0CK1305wOxo7U3pi0X7eGeeiuJ8HmaIFVoxMHCJN8dOXXil94Bo8uyHmVM0C2JQTX88zVgx2s0yMdj0N1dYEjM80MysU/hMVlxTIWmmo+vZdRBNNPsZXaTFflwJBGO1iNliNyF2BHk67Z/AeDUBky4+N8N3ExswJZ47PLpC+vla1Cfyr3LzMTWgoW7L4J5pp4zQIomAUgV4ZO+QOdSqkGu3bZfDZP0WCNE7F+L+3Gbu59hx1pTZPR0GpUOcl8sAdxM+uXA0rVn/5bHizbPCP5Tq7HIzatFFXllh3qzuxaJl8HAArazDbL4cz2X+0XYntgbtyf4Ikfp91uetjYnUvqmcmiiBDxiRzilZ6SNh+DQeF3cTT8fvUny3suli37yCOuLMXq+GIExygtVuLZJ8zNb01MIyknKLnMPlqRocR37Llp8UhpHwXU8ny6QUac7ZBhyjtatKy5NqSsALMvWS4s2nOm/aqbN4KAQYuKKg87Y/ZJV/bhw82z4J+ivugNNKlBf2FZBI="
+    },
+    "name": "Spectre Dust",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "description": "%%gray%%A famous Wizard used a wand made out of these."
+  },
+  "recipes": []
+}

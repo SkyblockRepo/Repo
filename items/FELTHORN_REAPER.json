@@ -1,0 +1,122 @@
+{
+  "internalId": "FELTHORN_REAPER",
+  "name": "Felthorn Reaper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d367 &8(404)\n&7Damage: &c+275 &8(+302.5)\n&7Crit Damage: &c+115% &8(+126.5%)\n&7Swing Range: &a+1 &8(+1)\n\n&6Ability: Reaving Strike  &e&lRIGHT CLICK&r\n&7Slash in a huge arc, dealing &c135% &7melee\n&7damage to all enemies hit!\n&8Charges: &e5 &8/ &a4s\n\n&7Deals &c+1% &7damage for every &a1% &7of\n&7missing health on the target.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON LONGSWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FELTHORN_REAPER",
+    "material": "IRON_SWORD",
+    "name": "Felthorn Reaper",
+    "category": "LONGSWORD",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 6,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": [
+        "STARRED_FELTHORN_REAPER"
+      ]
+    },
+    "stats": {
+      "DAMAGE": 275,
+      "SWING_RANGE": 1,
+      "CRITICAL_DAMAGE": 115
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FELTHORN_REAPER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FEL_ROSE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FEL_ROSE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FEL_ROSE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FEL_SKULL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FEL_ROSE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BONE_REAVER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "FEL_ROSE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "internalId": "CADUCOUS_EXTRACT",
+  "name": "Caducous Extract",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Bundling what bees find attractive\n&7together in an industrial production\n&7process is definitely what nature\n&7planned.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CADUCOUS_EXTRACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjUxODI2NCwKICAicHJvZmlsZUlkIiA6ICJkM2Y5MjEyMjY3YzM0YzEwYWNjOWZkNGI5MDFkYjI0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXl3ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMmM2YjU3YjJkMGU3NzhiMTM5ZWJjZDUxODgxNmU0YmQwYWVhZWNkYWEwOTQ0YmIzZmVmNmZmN2UxZjNkMmYxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "O4Y5L7BivCbDKGatoGtM21fk45CVQf0My9YMh/vo+Axgpa+R/bWWt3X2W2cpw3kmyCkQbPFh9dWm1D1rXg9Hlw/BFkLKx5FlYx/bx5Y5kIxUFUztibfAqgwd14I5844LiKCTgFAEPDAlLO8AwTyfleZzIQ90ExQb9i/d1NasuzUBWz4jgufSOVIG/nxtemWZ9WqgxslQCoSuzbj2nPqFcjk0+I0saAPrcW+tehWyMsE73cB9RqAb3QYJ1JV/mjukVdWvK+OqT3KjcsLk3LV9ebvOsCgD3PGvBFHKm84ce9hBB43g55sdQ0QXgjeHvsWvmzNahqb+lO3S9goS4q+BAqbyAA9rEdhkp85m82QjWBYTXRr2YefeiTF2Pi/MvCHqyLb9OXOAmjQmHthDGyaONpOoXGf4h40qDrmngkd+S2JbJIrb6WkmqhwNT3gB6tsnxo4N3fI5r3Ls3SPuk4t+2VEyiDaTgWyjy+uKGyO6R4K2D94RrtNbrqD4Xx5HIV0HRIK8/gblnlM6l3W2dTaJydkWLFnhT93d6vU88G4HepcmHqiIgBE/qPrDsSEtPclXIk2e5QbdwTJYaLQ7xYPvMnm+wfoa79UZbs5UiEfSvwPUuyb9rpYYKQM63N4XlXvHVY0Ha51iy4LyQhtRyLm+JjbYzNVkUs6V1yFBRg/V9us="
+    },
+    "name": "Caducous Extract",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "description": "Bundling what bees find attractive together in an industrial production process is definitely what nature planned."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CADUCOUS_EXTRACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "RIFT_BUCKET",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 20
+        },
+        "6": {
+          "itemId": "RIFT_BUCKET",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "RIFT_BUCKET",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

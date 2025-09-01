@@ -1,0 +1,32 @@
+{
+  "internalId": "BEHEADED_HORROR",
+  "name": "Beheaded Horror",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15000,
+  "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEHEADED_HORROR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMjIzNjA5NzQ0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmFkOTllZDNjODIwYjc5NzgxOTBhZDA4YTkzNGE2OGRmYTkwZDk5ODY4MjVkYTFjOTdmNmYyMWY0OWFkNjI2IgogICAgfQogIH0KfQ==",
+      "signature": "hlSOANe88xZbLzLec6aJn3uuLEdGHwITDQF9b44/C3AH+7colD6+knzRjDkZbXUOrcwKMdq6R3lXXbRjN7do0m4zrSCz1frrf9yHCA1k7OvF5fZ9PSlByGPmsmnIlqOQ8O/GDU28bDmHLQBCw7A3Xv8cFN5+BiS5BkG/DQnGD5GOBbrSNIqemJtUBu/oN029+7DaSJASZ8AMAiUkZBAnetILgz7nDvFU4Vpg2JkMSFZOgfB3H/Xl7Bct1VWbDqNbMKpkyeIf9hl2T4HS7nWd+iX/DgTEXFDu62npy5CdKxcndc1y7xQWHI21nL1KU9pZst2aoWYE/pfvyL3E2+gE75l/HFwFPGs18jyBJlzfADxGDYBirhnO8LlwmjxznBY91zkXtPRKctU2nr6aBH8QwDF1GmprNLgCUzUqp5y+eJf6CCkpsGTucJYu9eRvdxedQVPJAtMNnzioAVEuuoCkL9e5vdTHlWWMkQttX/2f6qOyraw53zren/36znAws5DJhULUj3x0S1T88B5ZSTDtfD13ni+I2/7MaVYpGnWoea922MNjsBr1PjmB3sDlw6yKlao0b7TMRp4SXZH9xEli9H2hl1hvtjho5qRsP5rFr8zVqecmVMhNk+NUZibxx0GksxzVkDA1b/LrOr2bHQly9v/xykVvhuIj0dahnpCG2RA="
+    },
+    "name": "Beheaded Horror",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 15000
+  },
+  "recipes": []
+}

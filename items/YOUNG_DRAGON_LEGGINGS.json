@@ -1,0 +1,165 @@
+{
+  "internalId": "YOUNG_DRAGON_LEGGINGS",
+  "name": "Young Dragon Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Health: &a+100\n&7Defense: &a+140\n&7Speed: &a+20\n&7 &8[&8⚔&8]\n\n&6Full Set Bonus: Young Blood &7(0/4)\n&7Gain &a+70&7 Walk Speed while you are\n&7above &a50%&7 HP.\n&8+100 Walk Speed Cap\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "YOUNG_DRAGON_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "221,228,240",
+    "name": "Young Dragon Leggings",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 5
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "YOUNG_DRAGON": 10
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 100,
+      "DEFENSE": 140,
+      "WALK_SPEED": 20
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 60
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 65
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 110
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 160
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 10
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "YOUNG_DRAGON_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "YOUNG_FRAGMENT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "YOUNG_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "YOUNG_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "YOUNG_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "YOUNG_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "YOUNG_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "YOUNG_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

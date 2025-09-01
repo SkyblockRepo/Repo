@@ -1,0 +1,77 @@
+{
+  "internalId": "COCOA_GENERATOR_6",
+  "name": "Cocoa Beans Minion VI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting cocoa\n&7beans. Requires jungle logs nearby\n&7so cocoa can be placed, or air\n&7nearby so jungle logs can be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a23s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COCOA_GENERATOR_6",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzQ3NTc4NzIsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxZGIyMmI4ZjBhMTI0OTJjMmM3Y2YyNzg0MDI1YzZjYWQyYWZjNjY5OThjNGY0N2MwZjAyZTYxMDA0NTQ4NTEifX19",
+      "signature": "CeHrTOoQ5csRhuyGc3GP9gERV2Wxf5QlkS2vlmQyczxWg8HFNLxbrzcXJGiUzDFVdzw6XSsm98xnIMMMbPN8bn4qFv2pCtZJ8QIbEXScDD+PZsy5eT82lsfURKZrYqyue2l1KAQYil9t+8kkJNK/O7HC9D++Crr43UDui3RrddSy1V/np74VZvYFk4tYNt769HFDZqVQVhH2ODSGBtmBqUfyXUqd1gC3rbOhXjqQw7bwTef3DjabDvvK9Z/Sk4JN3cTZgTmoC6CUtErZ0wT0K0LqyYxBDPc1ceL2QrXln9hSqxLyVErXoJJDDPj4D34dXbrN+imnqVexnPVRUob+CLEFP3JyBdWYT8fYtVOM/SzitNIGWBJ8bG8rv7TMf/9wW9UveVckcqvzDjlu3pjTK0ojVV6Z0wGSkbimG/xAcE35mWzdb9JgU/yxwh04LaxyL1Mbr7t1tUO2qSsaGhawwuiKC/ijsaOyDdTPkNbuBFIgxeaS/WyqX+6EIuptpfiU7xact1kb5is5rbwmNZ4+D/HJHXPvMUPt5+lpvR50pboGa8OqoE8qXdeAV6oubdGWkDYhOPsNuM7yDtHeU/p9/YiSVj2XCIDzpUIqR/AEtmbauSGseoEbjAQaBEJepk49yJ2qrp5c/pPf8ufI+qjAHZSYRXKljPnb6ELG5GBjPhM="
+    },
+    "name": "Cocoa Beans Minion VI",
+    "tier": "RARE",
+    "generator_tier": 6,
+    "generator": "COCOA"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COCOA_GENERATOR_6",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "COCOA_GENERATOR_5",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "ENCHANTED_COCOA",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

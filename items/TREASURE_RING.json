@@ -1,0 +1,81 @@
+{
+  "internalId": "TREASURE_RING",
+  "name": "Treasure Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Grants &a+2% &7extra loot to end of\n&7dungeon chests.\n\n&eRight-click to view recipes!\n\n&5&lEPIC DUNGEON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TREASURE_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTk1MzgyNTcyMywKICAicHJvZmlsZUlkIiA6ICIwNmE4NjAyZDAwODk0YWQxOTcyMGQ3NGE1OGU1MDZjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfMW5kcmFfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhMWNjNTUyNWEyMTdhMzk5YjViODZjMzJmMGYyMmRkOTEzNzg4NzRiNWY0NGQ1YTM4M2UxOGJjMGYzYmMzMDEiCiAgICB9CiAgfQp9",
+      "signature": "j0+cGkJVBknSI6x6Fzbs7JiiF1EcLgMxs9UduiJgdT3Cr16iOrnTW4qACP6mBHQzZL1nqwgzou8Ov7GZPyY1BkaLCAG+xep9b1+IhkiqV+hYOTx/RLivxShdnRfQU03/g137iJbfwb4Ar93Kg/oJBaqbtVKiOSYZ1s60L1paWCZ7GOF7+/EfL2++STNw89lWBTIMw9KZecxx54nnV85m+N4esMdLUXH7q2iOOsYE2MPSki0UpcHqImKRHRqDvY+j/NH7jfPSoHVl81/LZswfX0d/mSrISw6fTbF9QJp3RhST+M39RxJZzJuvx47xXNKf7Pl0niO0/4VgaPOgBIU9ufuupy6EhX5E6ZY/A4Lle4QudeeokDj7UrrxZ0J+mbfps4oTKyQt64F43GRUDVXRuz3Dwj5X/d4Pp9mi1US8ZTtcQFe9ed+iewwMqs3Oy1Q+b0rQeRb/V7NJsboi/UVBwXVToyT9WJWJAr2JkF2dhsLx329P5LKkj/LNbMoQ1rFnWHVOhDWz5/Y4UwjHydxGTlBf6Fy2RyEpKY/H3obPy1B8BMRIiDCxuqp0LhVgW2Y067hK3WCByUf7Cp9h95UY2CXUaUDgToraEsjfNJl7UJKZ8agePSg/8e8VjbdhQ+ee7xhtMUIjVyJbflhrQgJZhJm43rauaF9TgAzWzY3tG0U="
+    },
+    "name": "Treasure Ring",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "npc_sell_price": 1000,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 120,
+        "essence_type": "GOLD"
+      }
+    ],
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TREASURE_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TREASURE_TALISMAN",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

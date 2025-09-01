@@ -1,0 +1,26 @@
+{
+  "internalId": "DUNGEON_DECOY",
+  "name": "Decoy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Brewing Ingredient\n\n&7Runs around and draws attention\n&7from nearby mobs, very handy for\n&7creating a distraction!\n\n&cDungeons only!\n\n&a&lUNCOMMON DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "DUNGEON_DECOY",
+    "material": "MONSTER_EGG",
+    "name": "Decoy",
+    "tier": "UNCOMMON",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

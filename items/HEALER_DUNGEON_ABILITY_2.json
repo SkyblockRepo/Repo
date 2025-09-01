@@ -1,0 +1,33 @@
+{
+  "internalId": "HEALER_DUNGEON_ABILITY_2",
+  "name": "Healing Potion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&6Ability: Healing Potion  &e&lRIGHT CLICK&r\n&7Throw a potion which heals all teammates in a\n&7&a10&7 block radius for &a10%&7 of their max health\n&7and &c+100❤ Health&7.\n&8Cooldown: &a20s\n\n&a&lUNCOMMON DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HEALER_DUNGEON_ABILITY_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzc5Mjk3MjA4NywKICAicHJvZmlsZUlkIiA6ICI3MjI2Mjg2NzYyZWY0YjZlODRlMzc2Y2JkYWNhZjU1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmFuZG9uZDI2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3ZTNkYjY0MDE0YTQ3ODg2NzBlNDljYTdiZTNkYTQxZmYzZmJiYWYxYzUzOTU4NGM2MzUzNTlhNWNiNjBhYWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "kIorOUksXNX9aNujHrdwuVOiV9p02vveZcfx+NPxCiKFdC7U56lISR/dGRC0jd0NKSsakhHcHnWTyqp96emxhGRO8irPF1FxpmP+rwfloztc5n22RUU9zHO3uIdswXj4fNwmMZ8D5+asKrjNIUyeJhE5fvFPftF8NRHDV8GMhT8uRWyxGhuOedhEtRyNb1qSD3XD80J8R9JDz53WM6p9ZKvGPp/qQR5P5Dp1xHVezaM6tmCWA32UNE/WrIMoaT2UXsYTFv+kXq9Xh1g1L8B7ymPjOAVf1Ga0Ea5CTBo33NJng1QmVMbOLjhoDJFLexrYDXyVqlbsm84vGpIBKWGFm5v3yOBemcksHzoBiWCLKfGqF9SDtYD+8IOVh4U1jb6ZaxOdhY3p6yxPbj8VuYFnDdnyCd87f3Rh9UpseUKCzUAbkTcoCsLHnsjBvJcJOqix23zAKqAFe+CwpV+5Ho4h4xER7rO5euNn6upvnxVay2RLZ8A0ZuN6AALbWy4b8TSYYy7b1QRWJvwL3qHw6GjhQQSFogtHMC3SadWyddASGmjYsrQuUvJO85CK9lNVCv5WhhXK2VPHu9zype0Q7UhBysG2/+A7DjmYkegD+m0x8K8tdEvhbI/mLn0KvhXFTU1qlcPvmZec0nR+ddcWlA9Y5zMgz0+vNrJO6yZ1BEqlqPQ="
+    },
+    "name": "Healing Potion",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

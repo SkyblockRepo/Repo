@@ -1,0 +1,29 @@
+{
+  "internalId": "BINGO_DISPLAY",
+  "name": "Bingo Display",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Show off your total &6Bingo Points&7!\n\n&f&lCOMMON COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BINGO_DISPLAY",
+    "material": "COAL_BLOCK",
+    "name": "Bingo Display",
+    "category": "COSMETIC",
+    "tier": "COMMON",
+    "unstackable": true,
+    "museum": true,
+    "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!"
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "WINTER_DISC",
+  "name": "Winter Disc",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Place this inside a jukebox to play a\n&7winter song!\n\n&6Let Them Eat Cake\n&7  &7By ShinkoNet\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WINTER_DISC",
+    "material": "RECORD_9",
+    "name": "Winter Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "museum": true
+  },
+  "recipes": []
+}

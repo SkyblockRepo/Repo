@@ -1,0 +1,207 @@
+{
+  "internalId": "FIERY_CRIMSON_BOOTS",
+  "name": "Fiery Crimson Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+60\n&7Crit Damage: &c+40%\n&7Health: &a+260\n&7Defense: &a+80\n&7Intelligence: &a+10\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Dominus (0/4)\n&7&7Every &a1.5s&7, melee attacks grant &c1&7 stack of\n&7&6ᝐ Dominus&7. &8Lose 1 stack after 4s of not\n&8gaining a stack.\n&7\n&7&7Each stack grants &e+0.1Ⓢ Swing Range&7\n&7and &c+2⫽ Ferocity&7.\n&7\n&7At &c10&7 stacks swipe&7 in a random direction\n&7dealing &c0.88x &4Swipe Damage&7 to mobs in its\n&7path.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 37&c.\n&7&4❣ &cRequires Kuudra Fiery Tier Completion&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIERY_CRIMSON_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "230,83,0",
+    "name": "Fiery Crimson Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 37
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "FIERY"
+      }
+    ],
+    "stats": {
+      "HEALTH": 260,
+      "DEFENSE": 80,
+      "STRENGTH": 60,
+      "INTELLIGENCE": 10,
+      "CRITICAL_DAMAGE": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 7000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 9000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 11500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 13000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 14500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 25500,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 80,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "INFERNAL_CRIMSON_BOOTS"
+    }
+  },
+  "recipes": []
+}

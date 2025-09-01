@@ -1,0 +1,47 @@
+{
+  "internalId": "ICY_ARROW",
+  "name": "Icy Arrow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+24\n\n&6Passive: Muscle Freeze\n&7Applies &bSlowness I &7for &a3s &7to targets.\n\n&7&4❣ &cRequires &aCombat Skill 21&c.\n&7&4❣ &cRequires &aIce Collection VII&c.\n&7&4❣ &cRequires &6Target Practice II&c.\n&8Stats added when shot!\n&9&lRARE ARROW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICY_ARROW",
+    "material": "ARROW",
+    "name": "Icy Arrow",
+    "category": "ARROW",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 21
+      },
+      {
+        "type": "COLLECTION",
+        "tier": 7,
+        "collection": "ICE"
+      },
+      {
+        "type": "TARGET_PRACTICE",
+        "mode": "II"
+      }
+    ],
+    "stats": {
+      "DAMAGE": 24
+    }
+  },
+  "recipes": []
+}

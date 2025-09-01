@@ -1,0 +1,27 @@
+{
+  "internalId": "TALISMAN_ENRICHMENT_SWAPPER",
+  "name": "Accessory Enrichment Swapper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Consumed on use\n&7\n&7Swaps all &9enriched &7accessories in\n&7your accessory bag to another\n&7enrichment.\n&7\n&7&eRight-click to open menu!\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TALISMAN_ENRICHMENT_SWAPPER",
+    "material": "REDSTONE_COMPARATOR",
+    "name": "Accessory Enrichment Swapper",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,41 @@
+{
+  "internalId": "CRYPT_WITHERLORD_BOOTS",
+  "name": "Crypt Witherlord Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYPT_WITHERLORD_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "69,1,1",
+    "name": "Crypt Witherlord Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "stats": {
+      "DEFENSE": 65,
+      "WALK_SPEED": 5
+    },
+    "gear_score": 10,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

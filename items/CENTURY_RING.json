@@ -1,0 +1,77 @@
+{
+  "internalId": "CENTURY_RING",
+  "name": "Ring of the Century",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7What's better than a party? A party\n&7with free goodies and an accessory\n&7upgrade!\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CENTURY_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczNTM3OTQyNDg4NSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZGE5NWIwMjM5ODAyNjEwOWM0MmNjMjJlN2Q4MmQ0ZTFkN2E1OGFkZjExMDA5Y2VkYmVmMzY0OTZmZjhkYzU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "CdZ1oxPbBBrPWfvJGwmwtU0xG4WVi8EcSvofh7L7KetbeZvlbUSy6hWny1cbPd5Y6CwvA1e4P9wD9sIXfgMYAV8SxeBM7Qr6v9R5nw8ZlJ5S86t6t16f61iGOVvFEknLmj+SrNkZJfBtVxtaRG4leC55UOLnfAIRxiATq4OPwBUL2QCtLI6xo/CQ+ISaAaLwni/1Skiv/7OwZdJfCQmmijL08QgMWxfH/i1w6a3Fc6MG5VuAwpazU7IZ2RWP/rJM5iYhwk2tG/Xw6AwPGTUXzw0MXPnjARCSvIcOx/8nqEYjV10hogU/3EgBfG5z7SuMiDqmA8pdm5MbhZ7w/+W+v/jTtB2OQop6fs+D+gXdesFQBPZA7gIErb1yphMV/113Q1MS+AMeq2tbUB22VjWgdjXh0iSSkm8uUQ11BtI2mCuKTfBKjZ+M/uyqhZgo0M/qVUCIyVD1pDSEYvhOTth7A6cgzqvsYig2jCJ+/HgXrjiDx+/NZ7YHb7B/Zugw8fDHnC6lz/2UwV2OR9cytYo013Efm52G9RhuyCWAmnO+IyZzwnTRT4LiH2mKMgQLbjvUG4iTfRa/OUbGRBBDUDAi/DBSeJ57BKv+EVjwj8dpb+jQWm5mBAW8AKHEPY0OmZ33iUrogpuuUMIM7Ol1pt7F48sNQ+WFy7x8mY7O1SfUlro="
+    },
+    "name": "Ring of the Century",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "description": "What's better than a party? A party with free goodies and an accessory upgrade!"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CENTURY_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CENTURY_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TOKEN_OF_THE_CENTURY",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

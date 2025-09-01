@@ -1,0 +1,30 @@
+{
+  "internalId": "BRIMSTONE_HANDLE",
+  "name": "Brimstone Handle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25000,
+  "lore": "&7&7A splendid handle belonging to a\n&7feared foe. In exchange for\n&7granting them immense power, it saps\n&7the life force from its wielder.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BRIMSTONE_HANDLE",
+    "material": "STICK",
+    "name": "Brimstone Handle",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 25000,
+    "has_uuid": true,
+    "description": "%%gray%%A splendid handle belonging to a feared foe. In exchange for granting them immense power, it saps the life force from its wielder.",
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

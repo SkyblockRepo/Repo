@@ -1,0 +1,26 @@
+{
+  "internalId": "WOOD_HOE",
+  "name": "Wooden Hoe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7&8This item can be reforged!\n&f&lCOMMON HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOD_HOE",
+    "material": "WOOD_HOE",
+    "name": "Wooden Hoe",
+    "category": "HOE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

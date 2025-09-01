@@ -1,0 +1,40 @@
+{
+  "internalId": "BEJEWELED_HANDLE",
+  "name": "Bejeweled Handle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEJEWELED_HANDLE",
+    "material": "STICK",
+    "name": "Bejeweled Handle",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 100
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BEJEWELED_HANDLE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLACITE_JEWEL",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

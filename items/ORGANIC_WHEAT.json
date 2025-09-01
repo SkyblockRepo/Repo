@@ -1,0 +1,27 @@
+{
+  "internalId": "ORGANIC_WHEAT",
+  "name": "Organic Wheat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORGANIC_WHEAT",
+    "material": "WHEAT",
+    "name": "Organic Wheat",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

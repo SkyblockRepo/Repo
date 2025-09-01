@@ -1,0 +1,47 @@
+{
+  "internalId": "BERBERIS_BLOWGUN",
+  "name": "Berberis Blowgun",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Swhooomp  &e&lRIGHT CLICK&r\n&7Shoot an arrow. Doesn't deal damage. Except\n&7to chickens and Puffs.\n&8Mana Cost: &35\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BERBERIS_BLOWGUN",
+    "material": "STICK",
+    "name": "Berberis Blowgun",
+    "tier": "RARE",
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BERBERIS_BLOWGUN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

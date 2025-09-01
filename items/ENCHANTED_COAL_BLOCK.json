@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_COAL_BLOCK",
+  "name": "Enchanted Coal Block",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25500,
+  "lore": "&7&8Collection Item\n\n&9&lRARE ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_COAL_BLOCK",
+    "material": "COAL_BLOCK",
+    "name": "Enchanted Coal Block",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 25500
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_COAL_BLOCK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_COAL_BLOCK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

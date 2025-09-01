@@ -1,0 +1,26 @@
+{
+  "internalId": "STAINED_GLASS_PANE:14",
+  "name": "Red Stained Glass Pane",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.75,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAINED_GLASS_PANE:14",
+    "material": "STAINED_GLASS_PANE",
+    "durability": 14,
+    "name": "Red Stained Glass Pane",
+    "npc_sell_price": 0.75
+  },
+  "recipes": []
+}

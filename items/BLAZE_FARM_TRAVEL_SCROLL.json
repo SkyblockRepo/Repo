@@ -1,0 +1,26 @@
+{
+  "internalId": "BLAZE_FARM_TRAVEL_SCROLL",
+  "name": "Travel Scroll to the Blaze Farm",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&5&lEPIC TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLAZE_FARM_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to the Blaze Farm",
+    "category": "TRAVEL_SCROLL",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

@@ -1,0 +1,76 @@
+{
+  "internalId": "TIGHTLY_TIED_HAY_BALE",
+  "name": "Tightly-Tied Hay Bale",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Legacy Item\n\n&7This item is no longer used\n&7throughout the game, and can be\n&7exchanged in your Legacy Trades\n&7menu, accessed through\n&7/legacytrades.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "TIGHTLY_TIED_HAY_BALE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjI2MDYzNDUzMywKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8zMDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQyNWM1YTQ4Y2RhZWZlYzhkZWRkNTNmNjQzYmMzMGEyMTBmNTFhOWUyZmY0MDU5NzVkMGY4YjQzMjE4ODM3YSIKICAgIH0KICB9Cn0=",
+      "signature": "HvXwlUxggzviYc8EDnwfco4MN9NW9YCOST4xax3KFVldZUJEgmljdJbSc7kUVy6qIlaOZ67B3fzcxF395x4JN/AI3VwB3r+I80nP7vaet52N5iMjbX5FU3tSIb/IhiSJhfeHDz3WfGqpg8t+I8CtZyvDNSl9ZmPriJ972/+NLWBt9U2VuqOJHFShqL0wGSrSnPPZmoRqDnuB9a4ifIJauYU7d1V3+sNZpZf6STr+Q87YQ+bkYxB/UkKZtY6INJrjjEyNgGeFWN7V2gmgxv2LSTuWXvwdeCgPAoXOdV338SX/1Rm5QHIdUPvaws8rf3AgJpDbAjGXk8+7qfCpvae7zOgNi7uEUUQusRtpWC3SFQRinMhis5A5i5EIYitcGP+oXKZVrerR1XGKJcIqSE9fs57O3mFBlHt4PyUR0Z6vOi8n5YoS1m9UgJyRVpOZ2VqjY0H2PnjYOwm/79x95nuVYVG5JB/f3hyobWQaZYY8zbBcqNYPBRWDRLO3NgkQsdveCikUpB9l10Hj/G5xRK+cELkkqz+FaoJqEYgJJdqaDhutWbcfHMF5EdEYUS/b43Nb+yJ+y+zT23Ofw5ABI8x7WRBYTzJ4wt0RB6bJxKC2XCyXWH9b1ozUfTJUxogKglh+G2KIIM2tSwORjmtqJWtGgxfyZlEwp1iCfLrpTDJcnO4="
+    },
+    "name": "Tightly-Tied Hay Bale",
+    "tier": "RARE",
+    "soulbound": "COOP"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TIGHTLY_TIED_HAY_BALE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_HAY_BLOCK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

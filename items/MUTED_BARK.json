@@ -1,0 +1,33 @@
+{
+  "internalId": "MUTED_BARK",
+  "name": "Muted Bark",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7No longer barking.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MUTED_BARK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODIwMzI5NjgxMSwKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3MWUzNDQ2ZWZhYmYwZmQ1NDdhM2Q1NGU5M2ZhM2M3ODA0MGFiMzNmODhjNDBkOTE5YjRlZGQ3ZWE0YmI3NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "fewbUABsbbSV8dX1/QxADhFcrvt4RSYRGK2HmdI3+09EQV08YZ8BDhE90gpclBBTykcWpjrXmJ6q+vbQ+EmbMSn/JGMZMXUjUSxy5H8E7XJwqKeEtmNmX9NtKA4Q6BMaf+z8uOEPog1teCLhFr/2g2NbCgrg5QkE7eNC8PJ50wFJtn28CpPalhpQyQugss4s4kOJNQXVjaHgDey9SniNlsqkL+FMfXiUn5Tgw6QyBF2O90B2eCzJiFI3sKMZAhxN42AKdf507gYJihbH0jhPDfTqJyuZaqYv/0ZyC0fn0ata4uSKmdMc5Mz//k3uKHy92odtwuMXqCwc1IwG3cfzQAM+ugEAYH0YlKGYNFZdn92Fb/36UUUr5rRvuz1D+if99Gpu7RA3U/XInEK3uQZdljw1QxQ7p/WLLwUZW3PFo0AVH61ZAp71q3mMvgaPkm3UIMHSuzp9t1YvLwNvAE7d8PJuHJiEezeZKsvwaFC7Jg1j4X1VKcbcVRAhXwqDTHvlYZtVpLKT0PqWyjbCazThfiKY5KP6UYOSOW1EXkVv0Zd+crg6edZBVKiOD36urA2Vyru1d5FKd+2smpLtRERpqmoStdhPQqiIQORZBZKo1VIP1VNgycO8GF5BRSkhf1RofduqfiRuW6J99Hv9bY/HXWV0fd9czvmB7ErTnPMUS/k="
+    },
+    "name": "Muted Bark",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "description": "No longer barking.",
+    "motes_sell_price": 50
+  },
+  "recipes": []
+}

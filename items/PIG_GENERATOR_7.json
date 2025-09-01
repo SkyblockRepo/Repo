@@ -1,0 +1,77 @@
+{
+  "internalId": "PIG_GENERATOR_7",
+  "name": "Pig Minion VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Pigs! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a20s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PIG_GENERATOR_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDcxMDc3NDQsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83M2M1NTgyYjM5ZmM2YzA4ZDRhZGM4YzI3YmQ3YjlmYzEzNDAwNzNhY2UxZDU1NzEyNzZmNTdiZmM4NTJkODY0In19fQ==",
+      "signature": "OxQnOi7b/9/4/Hc9RCGHiXrxg8raf25K43URRdFQa3sj/rJ08AUqcG1JN94eAYCfFkAKMAvPxA/6ILiMOYRxPGwM/9LcW0VyZsOd3howaLPN9fkMl5LZDh7B67ISi1mpjhLuH3PBpB54WvrkFeJIkq2fKkSNdzMQAKwFoMrDaiUoRpHe4pcr/BMWnP7aDiAvATznpqq4dh9h3Qo8wQ55mQLvJunbt+s1J6YrwxVJEgoH7X7IrZfQPHHCkqIlE6YeeDjlRDVKvN58gatiM+/3s4yWX+fruh2QEYPRSUQBrs3BJbEuFeJ1Cl+EHohUEendRzm7fDtXxwwObR6TcSBJTb9NmVHVfuAhuWGY4DKMueK9c/R5K7dZqYitmmPsLPr0lEkTkCqcmT2bZLP+5V4bu27owzIobayKiokx1qHtm7Jx2adER1/6OjzfR+lcpeAwFBGumOLBdSod9241jrezX3qhCn4a/1GaaxnEAJNCKTbAo4LjzdNBGu9y5ElPw15uUMm+CSeu4u/uN8338aVo5pKH/osG+K4lx34GW/tcJCTOi1ZHWUALXtt1mvEih444Lkycb2oZh94DFNLym1fsAUeCyNh0OC0TRWd97XeoihLqskV5Of/qUHoxSOC7U2WpxvHNgp3gnkDuHGeBaXU6ctRBCQVX+l76QxgVB56pbYc="
+    },
+    "name": "Pig Minion VII",
+    "tier": "RARE",
+    "generator_tier": 7,
+    "generator": "PIG"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PIG_GENERATOR_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "PIG_GENERATOR_6",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

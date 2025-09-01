@@ -1,0 +1,192 @@
+{
+  "internalId": "STAFF_OF_THE_VOLCANO",
+  "name": "Staff of the Volcano",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Damage: &c+60\n&7Intelligence: &a+150\n\n&6Ability: Explode  &e&lRIGHT CLICK&r\n&7Creates an explosion around you dealing\n&7&c24,000 &7damage and setting all mobs on fire in\n&7a 4 block radius over &a1s&7.\n&8Mana Cost: &3100\n&8Health Cost: &c50\n&8Cooldown: &a30s\n\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAFF_OF_THE_VOLCANO",
+    "material": "WHEAT",
+    "name": "Staff of the Volcano",
+    "category": "WAND",
+    "tier": "RARE",
+    "npc_sell_price": 5000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 60,
+      "INTELLIGENCE": 150,
+      "WEAPON_ABILITY_DAMAGE": 24000
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 15
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 25
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 35
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 350
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 10,
+        "essence_type": "CRIMSON"
+      }
+    ],
+    "rarity_salvageable": true,
+    "ability_damage_scaling": 0.3
+  },
+  "recipes": []
+}

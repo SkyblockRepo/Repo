@@ -1,0 +1,25 @@
+{
+  "internalId": "ACACIA_FENCE_GATE",
+  "name": "Acacia Fence Gate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ACACIA_FENCE_GATE",
+    "material": "ACACIA_FENCE_GATE",
+    "name": "Acacia Fence Gate",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

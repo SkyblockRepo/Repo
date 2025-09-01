@@ -1,0 +1,90 @@
+{
+  "internalId": "DANGER_3_PORTAL",
+  "name": "Portal to The End",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&dThe End&7\n&7for you to use whenever you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&a&lUNCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DANGER_3_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwOTM0OTgxNjE4OSwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjIxNWNkN2JhNDBlNzAwOWM1MWZkMWFiZjIxZDlkODgxMjZkZDc4MjdiZDdjNGVjMjk5NTJlYzdiZDVlZmM3IgogICAgfQogIH0KfQ==",
+      "signature": "TupDtxu2UKH74k7FJrjajMovQJzHZhyqPrDTe1PKMaDvtYPhK8ofcj+zrzAAKXh8GGdXYXzI/CePhdlTwFzomdx1bEeRFbzCZGNbLGZJGK+D7rE+sEALgSP8HK3DaUL8m08yeTbuFvqwBZD0Ao6Jmr8lFkiaXS2z/ZAx5CJNqgaVFE1LFWybXAeMVgvPqr63NuXMKio6FnRdIWrDlQ6KCim/LBCtEL+X8f+2d6DXZzkFXUT+ivUmsy3bVbdxrbQdrjFOeWnB+rtDLaLqPBuFxnc7Y5HAFQxNZIU/MSPDLCrI252/r4LMQwLB3mh25e9SwwZA73MRe+B/9ejJ7wf9aeSL82R0YeLiUpm5/fTy+/McOFtmjHmLkaLstvB9XZzyllpyYufBr4IabWA5EJSaS8FMGLG/Jw5ADoN633G+nAqIkHUcz1/CqD8qfY7E0xi6EGHvy/wCKSSGk4KNrZf/cD173/QYyu28RoYjWSCXYXYCNxSMa67KnMHouj8wlPfsYsjVZR4PrJt0Nw5QFgb9DyNP9PcIy1zEyGkeqNdWKeQnL+4WjbXL2VrcS567BQyW7Ukqqp2QgiZL0sOVz6l4xvHngYgHKgHOhRmbGY7dyG30kPhj9XYEEz1nm1w6M8BG3lHAg36hDKuXUGBqWKC8ZWjcKuo9PVmxQvWw73YbRUw="
+    },
+    "name": "Portal to The End",
+    "category": "PORTAL",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 100,
+    "item_specific": {
+      "portal": {
+        "offset": "MINE",
+        "holo_name": "The End",
+        "schematic_file": "sb_portal_danger3",
+        "description_name": "%%light_purple%%The End",
+        "destination_mode": "combat_3",
+        "skill_requirement": {
+          "level": 12,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DANGER_3_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "OBSIDIAN",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "OBSIDIAN",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "OBSIDIAN",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENDER_STONE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENDER_STONE",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENDER_STONE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENDER_STONE",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENDER_STONE",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

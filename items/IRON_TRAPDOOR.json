@@ -1,0 +1,25 @@
+{
+  "internalId": "IRON_TRAPDOOR",
+  "name": "Iron Trapdoor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_TRAPDOOR",
+    "material": "IRON_TRAPDOOR",
+    "name": "Iron Trapdoor",
+    "npc_sell_price": 8
+  },
+  "recipes": []
+}

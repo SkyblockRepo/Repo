@@ -1,0 +1,77 @@
+{
+  "internalId": "CLAY_GENERATOR_1",
+  "name": "Clay Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining clay! Requires\n&7an open area to place clay. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a32s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CLAY_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MTkyMjM1NzcsInByb2ZpbGVJZCI6IjVkODgxNDRhMzhjYzRkZWVhODA3MzYwODc2YzIxYzU4IiwicHJvZmlsZU5hbWUiOiJSZW1WTiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY5YjMxMmM4ZjUzZGEyODkwNjBlNjQ1Mjg1NTA3MmUwNzk3MTQ1OGFiYmYzMzhkZGVjMzUxZTE2YzE3MWZmOCJ9fX0=",
+      "signature": "l7Qp/6Fg+t0Md79ws6uFKUBedf/Fp2LjKXxxn/0LiA/6JURv4h9sjETkR3A6gDz5vzLa9p0wJv6E16lNrq3nLxpvcNO/v4BZRPSQ/ac0lFTk+W8+qqBQ/eRbmj29hhF69LOBLhq9ZF47P+Y5HxQVh46n2dr54W/Aq8nGIVKPj16spXTFfp7NfivyL8KnTSa+EUo5dNLIRZ3deJ4RyJLIeEtzmgND8gTiLKcPrEdUO29THfCJAGSEHWtSTOcjhL3qtX1KkYapYI81FA8qDFfttdYiuFtcIQCb+vxoY5i2AJByQt14eGVgBSCqMZA7/2EdhRszBPElN4fr/aG0SrUOAW+WxwhJdYo/uKFlRTtqolrP6bZlC03BKVB8jBrb+6Sv3ppdQq5tbeKHnFBPt+9Sq1x8J94WNkgJxezlc9tDTPF9IYG0JHPXFaU345RwDZa3OliGkUsUklxtuuQgXOBxXxPLdyyjgBUsedGxQfBCI5vOF9RAvn4W8qWny0FdLzzlX0Mq11sf0YVZyCKsn9r4ilh6EcOUDA7r2E7S9inTSJlQpi+wC2Z0kxE2vWCsdwSNvvtfK0LcnbPqhdMSrOgow9pU/uZ/TtxxJrjxioO5eDsrIVtOUaem1GgXl1kym7oZOopUMV2mf1DAD1CxLxlpP5lheiiY0/GyvnSvdAbGEGA="
+    },
+    "name": "Clay Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "CLAY"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CLAY_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WOOD_SPADE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "CLAY_BALL",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

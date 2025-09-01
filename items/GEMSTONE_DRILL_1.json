@@ -1,0 +1,91 @@
+{
+  "internalId": "GEMSTONE_DRILL_1",
+  "name": "Ruby Drill TX-15",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 253000,
+  "lore": "&8Breaking Power 7\n\n&7Damage: &c+75\n&7Mining Speed: &a+150\n&7Pristine: &a+0.5\n&7Gemstone Fortune: &a+60\n&7 &8[&7⸕&8] &8[&8☘&8]\n\n&7&7Grants &d+5% &dGemstone Powder&7, and\n&7&6+800⸕ Mining Speed &7when mining\n&7&dGemstones&7.\n\n&7&7Fuel Tank: &cNot Installed\n&7&7Increases fuel capacity with part\n&7installed.\n\n&7&7Drill Engine: &cNot Installed\n&7&7Increases &6⸕ Mining Speed &7with part\n&7installed.\n\n&7&7Upgrade Module: &cNot Installed\n&7&7Applies a passive upgrade with part\n&7installed.\n\n&7Apply Drill Parts to this Drill by\n&7talking to a &2Drill Mechanic&7!\n\n&7&7Fuel: &23,000&8/3k\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 4&c.\n&9&lRARE DRILL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GEMSTONE_DRILL_1",
+    "material": "PRISMARINE_SHARD",
+    "name": "Ruby Drill TX-15",
+    "category": "DRILL",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 253000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMBER",
+        "costs": []
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JADE_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "GEMSTONE_DRILL_1": "GEMSTONE_DRILL_2"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 75,
+      "PRISTINE": 0.5,
+      "MINING_SPEED": 150,
+      "BREAKING_POWER": 7,
+      "GEMSTONE_FORTUNE": 60
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GEMSTONE_DRILL_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 6
+        },
+        "2": {
+          "itemId": "FUEL_TANK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "DRILL_ENGINE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

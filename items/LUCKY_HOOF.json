@@ -1,0 +1,26 @@
+{
+  "internalId": "LUCKY_HOOF",
+  "name": "Lucky Hoof",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gain &a1% &7chance to find Trick or\n&7Treat Chests.\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LUCKY_HOOF",
+    "material": "IRON_BARDING",
+    "name": "Lucky Hoof",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON"
+  },
+  "recipes": []
+}

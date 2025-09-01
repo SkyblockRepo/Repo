@@ -1,0 +1,77 @@
+{
+  "internalId": "MITHRIL_GENERATOR_5",
+  "name": "Mithril Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining mithril ore!\n&7Requires an open area to place\n&7mithril ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a70s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITHRIL_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzc3OTU1Mzc1NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MjI0YjU2ZWEwNTNhOTUyYTgwNDQ0MTU4NzRiNjNlNDgxM2U5MTE4YTU2YzRmZTcwMjc0NjQ0Mzg3ODMwNDQiCiAgICB9CiAgfQp9",
+      "signature": "HZW0wG3fOnbqJ4CfiLoNM401XhQ7UbftJZzB19CAumRgBODJKUg8M+RbSL8zb9IyZ2gRHwcm0kQsoeBrGCdwLgAQuHyzyMVr4eL45WNHbg8PkpLLu1iRM5STxoj8mc7DNxaEKYPgKUR45nqQYHQTFmdFF44ZtrAuWJRULvg2fxp3TQXKbe2FCwQlX5hJkGkjxyIAoSXe7Ub9xeDcG3dJW4t4spvLQJonpWvyZN/WNjpNhwBnjpV/SmebJ2+8QA0M4e4XldQM4nmnOsXbx5ceDx8KxU8M/ecfotM5SFxp9LwlbFOtQxzrN8qmIPHflrJplLkD2z0ESu3KO8v1CzH5rXbglselHklTgucuFrz73po5E9sar+C/mK2MR3v/Pis7ltgVnZR6GuuM5meJi8AKV0neQXU+Ux7jo05zuE63oDiZppCocAwPGfB7Etk1nW4T2ZEzLe/eQLiPiBzhW6qnbAbstgfl2WaG1Va7Rbz4JPldrCejo0c8/nQq4u2JRNx1BsAa45aqfJqVvR0CJrY835mDXkPb4A8zZgrMt+KCzwHZOAPGT0mjodWqScv3NQ2ZASr+ZxrVcJ97iwSUeoG/fgsg+WRBUHvEh8mqwREZN/hCjZ1eBZMu+X6YAOS6bwTRm9oF26c3UBeyFQoYvxFjTTJctUQuySHEXr9ppKwjPlI="
+    },
+    "name": "Mithril Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "MITHRIL"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MITHRIL_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MITHRIL_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

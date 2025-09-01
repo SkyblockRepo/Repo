@@ -1,0 +1,77 @@
+{
+  "internalId": "INFERNO_GENERATOR_9",
+  "name": "Inferno Minion IX",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Infernals!\n&7Minions also work when you are\n&7offline!\n\n&6Ability: Rising Celsius\n&7Each Inferno minion increases the\n&7speed of ALL &7Inferno minions by &a18%&7,\n&7up to &a180%&7.\n\n&7Time Between Actions: &a760s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFERNO_GENERATOR_9",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0NTkyOTY3NSwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2ZDQ2NzA5MmVmYjE1NjcwN2MyNTRmMTY4ZmYwM2IwYjc2M2E3NGZlOWY4YWMxNTYxNmVhNGM5N2FkZmFmNjkiCiAgICB9CiAgfQp9",
+      "signature": "unqPM1L1mRwI4hedLDj5aRI0my7efHRDl9AhWKFs6UHvGGtNwf65FF7HQrmetdZ90BwCHa1Pkgta2rKrlJblhON8iV6+c8qNXMLTPK/vc87PWycmd4zhKNO56ZvDSM411PQtuRl/5vwJ6cWW3cd6ZJbmkz7iY5szm7xlFqkLhYweSiMvAwc6tWmSjsSr6Yk5SO1S3PO4YRss5Os9y/f437HbSHk5+uutAfUeW/ie45RmJv9rTHFBhqNY0hoAteB1EkCX7p0osbTC2zAEo0W+ErlBv51BSD0YHSwYwP2Di0ev1PYSDF81C1PMc8gK2FJCdvicWOb8eYTfOv0NMbzA17voV5pV2EgtwhW2yZKwOy9ogvpAkJtpFEm6yNva60Cw1ipsKH1QJ0QcWwT7jBzRrCfVAQDeBVckBEbVXQkoqNShHv3gXIVCxdP2NW2yoK51h+s66vmLyKqG3vBs6w3EZz9mG2Oa7FzFnCVy/SGH9CNcFPf1toL8IvNLe4mHWY38EKHTFx3Qobx/HCK59/jDLIXQ+uddNyaeURoONlyRl7/l27t1iXPzR82tg0N1+Lg8/oUg/KSdgGi0mToyiAiaVAzQx88Rk8pGh23j+EG67sMTf26vC1KT5uRsB52456Zsdg9V2DTDMEG5GwflSdlH7GQG6pT2feFrihf3FdBxQRo="
+    },
+    "name": "Inferno Minion IX",
+    "tier": "RARE",
+    "generator_tier": 9,
+    "generator": "INFERNO"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "INFERNO_GENERATOR_9",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "INFERNO_GENERATOR_8",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "internalId": "REAPER_SWORD",
+  "name": "Reaper Falchion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+120\n&7Strength: &c+100\n&7Intelligence: &a+200\n&7 &8[&8❁&8]\n\n&7Heal &c10❤ &7per hit.\n&7Deal &a+200% &7damage to &2༕ Undead &7mobs&7.\n&7&7Gain &3+45☯ Combat Wisdom&7 against &2༕\n&2Undead &7mobs.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Zombie Slayer 6&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REAPER_SWORD",
+    "material": "DIAMOND_SWORD",
+    "name": "Reaper Falchion",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {
+        "REAPER_SWORD": "AXE_OF_THE_SHREDDED"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 120,
+      "STRENGTH": 100,
+      "INTELLIGENCE": 200
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 500
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 800
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 1000
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 18
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REAPER_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "REVIVED_HEART",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "REVENANT_CATALYST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "REVENANT_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

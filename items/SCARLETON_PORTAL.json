@@ -1,0 +1,44 @@
+{
+  "internalId": "SCARLETON_PORTAL",
+  "name": "Portal to Scarleton",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to\n&7&b&5Scarleton&7 for you to use whenever\n&7you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCARLETON_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzA0NjAyODMxNywKICAicHJvZmlsZUlkIiA6ICI0MzE4YzBjMzY2ZGU0Y2NlOTIwMzlhZTJiODQ5NWNmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFja1RoZUN1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1NjBiNmVlMmFmYWI3OGQ1NjdmMGYxZDE1MTA0ZTFmYmJhNTczNGRmNzNkZWM0OWU3ZjNlZDhiOWNlZjYwNmQiCiAgICB9CiAgfQp9",
+      "signature": "dA1EzMYKHb33eQihy8F2jVHG5VRtI11NCBdMCbiT2hHdWNEa1xQtKwPAIEvhFcs4Il1giTn1rL7ImJ7bZMyTz1WOS2xZWCLa7szv4ClVRXsmAr1biE+GkwfxEADa5UuUAYD6ebkTh4klenWKHj0sjKMyoNFbD6V1Ancq5z5roZ0nHQ8rK/x3bn+qao/i8VLKKCJdMTuIkkxlHgyWTmYuit+5YAiKeB5zLi4JM0t7SQ+LVooTr1c2lSrrukj2ectL7IRwYe3J5jJD4WNpjgyGej1ETJvggzAp8ThzORD0ncjQx1w+Lrr8iEY582LJIJXqHFAjFyddH1f11wfZMe4shM41MrkICXCm7S2hSHu4Rv9JLTRlE4o7oAEZ7MgJds9Moaeds2JACY5svX3xNTH15rwYcj5Mz9NJMM16opTAnkIy98giVtcanoexJMqWltwm6k5m+6vRm4kP+3RRV/ZS+xXlm6lMGXrGMaFZfgKs5GtrHmcwhQkCPgM+O7VH03FjxrlP5rcxvkOXdN70SXrlYV6eu/Vm39iCz4vIbCZmKP718zQWAbBk6pKT3lMZgMnaI/t83zE3P/Tancl88JAi+d2nFcIk9jYTfIgVYb89SMbFk+FE96N4dpyvbd11FcMgD30z6dZq5WTG9GIi99MvcrxS8Y+iOEgKi6TVv6BFTaQ="
+    },
+    "name": "Portal to Scarleton",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "NEW",
+        "holo_name": "Scarleton",
+        "location_tag": "scarleton",
+        "schematic_file": "sb_portal_scarleton",
+        "description_name": "%%dark_purple%%Scarleton",
+        "destination_mode": "crimson_isle",
+        "skill_requirement": {
+          "level": 22,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": []
+}

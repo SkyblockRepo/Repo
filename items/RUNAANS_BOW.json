@@ -1,0 +1,151 @@
+{
+  "internalId": "RUNAANS_BOW",
+  "name": "Runaan's Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 86000,
+  "lore": "&7Damage: &c+160\n&7Strength: &c+50\n\n&6Ability: Triple Shot \n&7Shoots 3 arrows at a time! The 2\n&7extra arrows deal &a40% &7of the\n&7damage and home to targets.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUNAANS_BOW",
+    "material": "BOW",
+    "name": "Runaan's Bow",
+    "category": "BOW",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 86000,
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 160,
+      "STRENGTH": 50
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 8
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RUNAANS_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "RUNAANS_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "internalId": "LEGEND_ROD",
+  "name": "Rod of Legends",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 111000,
+  "lore": "&7Damage: &c+125\n&7Strength: &c+125\n&7Sea Creature Chance: &c+6%\n&7Fishing Speed: &a+65\n&7 &8[&8☂&8]\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 20&c.\n&5&lEPIC FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LEGEND_ROD",
+    "material": "FISHING_ROD",
+    "name": "Rod of Legends",
+    "category": "FISHING_ROD",
+    "tier": "EPIC",
+    "npc_sell_price": 111000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 20
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "LEGEND_ROD": "ROD_OF_THE_SEA"
+      },
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 125,
+      "strength": 125,
+      "fishing_speed": 65,
+      "sea_creature_chance": 6
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LEGEND_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "CHAMP_ROD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

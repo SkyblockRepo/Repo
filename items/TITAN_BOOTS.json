@@ -1,0 +1,33 @@
+{
+  "internalId": "TITAN_BOOTS",
+  "name": "Titan's Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "&7Strength: &c+10\n&7Health: &a+100\n&7Defense: &a+100\n&7Intelligence: &a+50\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITAN_BOOTS",
+    "material": "DIAMOND_BOOTS",
+    "name": "Titan's Boots",
+    "category": "BOOTS",
+    "tier": "UNOBTAINABLE",
+    "npc_sell_price": 50000,
+    "stats": {
+      "HEALTH": 100,
+      "DEFENSE": 100,
+      "STRENGTH": 10,
+      "INTELLIGENCE": 50
+    }
+  },
+  "recipes": []
+}

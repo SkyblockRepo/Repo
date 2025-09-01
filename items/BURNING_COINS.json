@@ -1,0 +1,35 @@
+{
+  "internalId": "BURNING_COINS",
+  "name": "Coins on Fire!",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BURNING_COINS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MjM4NjgxNjMyOCwKICAicHJvZmlsZUlkIiA6ICJkYjJmMTJhMmU5MTI0ZThiODZjZmQyNzU2MDk1N2JhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYWxpYnJlcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81M2U5N2ZhYjQ3NTNiNzViYTViMGMwMzhiZWQzNzdiMTYyYmEyOGI3YTVlMjkwYWJmZDAxOGE1NTgxYWM1Mzg4IgogICAgfQogIH0KfQ==",
+      "signature": "xoArH5qDYS29wyzFL9BBImXG7POfdbDmIaAernOEWf0cbK4vH6pK+Z2GmIY1akEEfCdQs1LuBtQiUqkyDnFwFRZZpmC/rhdZa87E7lOZq7k7rztWkObZ8VL8H/C+xowgq4HSGnXviXh4Ajg5HzCQZyxJnVR1/kPAAEQFqTl7FGBJknd6iqeuDwd/Z9OtUQRQpCAtolGZRrJNet0spRfx/k86ZPsrdp4ovHmEriS2+ZpT9/vmop6JpTyISDHzUg4VmoFtWFQVDZJ4Hb8jgaxWkX2LrSVXJGtNBZzlNRCekw9IchJ4Q2hHe+D21hXia0Z1h8e8OvkXtipvGOT9NHY3D0NXnwwMGtQi+NqvpxVegyUoT5cAocsPOfi3jzfA9/pFbluJlPJ3ipjJgTDwhnKEVvWBAU8PrnYXyyIFpVvXVBqatdo/AmlcHu49NvbLrdxKD8Rft6hCOWYHDi/dk1lTfUzG0VDpMFPM2Lsu23GFe4rs59wejVnNrqx9IHFa2IdaUO6NLjfE7y//xkLitABc8gf2dLdLrZqOHr2xm+D5wn2dy8gIQHQ+eDSNSczTswzVS/L9NASB3KzIvISdREy8vcG0rSAObhNhKqwaSVz7jMLjTabu09mTu3RuEN0ku8t7VnlIaUTfwURD7sfGJP1VyYXqgQBfsYbT+972ZA74m30="
+    },
+    "name": "Coins on Fire!",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "item_specific": {
+      "memorable_event_key": "inflation_fixer"
+    },
+    "description": "\n%%dark_gray%%It's about sending a message..."
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "CARPET",
+  "name": "Carpet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1.5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARPET",
+    "material": "CARPET",
+    "name": "Carpet",
+    "npc_sell_price": 1.5
+  },
+  "recipes": []
+}

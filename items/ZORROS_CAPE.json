@@ -1,0 +1,51 @@
+{
+  "internalId": "ZORROS_CAPE",
+  "name": "Zorro's Cape",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+10\n&7Ferocity: &a+2\n&7Farming Fortune: &a+10\n&7Farming Wisdom: &a+1\n\n&7The stats of this Cape &adouble &7\n&7&7during &eJacob's Farming Contest&7.\n&7Additionally, you have a &a20% &7chance\n&7to obtain an extra medal from\n&7contests.\n\n&7&8''Not all Rabbits wear capes.''\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &dZorro &cin Hoppity's Collection&c.\n&6&lLEGENDARY CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZORROS_CAPE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMjAyNDY1Mzc0MSwKICAicHJvZmlsZUlkIiA6ICI0MDNlYmEzYjhkODg0MDVlYjhjMDlkNTQ4NmFjYzdiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3J0ZXh0dHYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFmNzIyNmE5Mjc1NThkMDY5YTZhZTM0M2I0ZTA4OWZiZDYwZmM2MDM3MTkwMDk3Yzc3MTMyMDhlOTg4ZmFhZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "nGViCclXY0nHdAFJYhXFvGR6wXNO4BqBGE/QZjqDzFVlJuV0lBoZRXtFnQNcU1CSeqrSbGklXaCNCdQ5XpqOhcyImUtBtmhrpQ2wz5rHEAnmK+4h1qxxf5FTqydbq5kQgx5RQNT6gpauS2ltPchthvKL5IgCHtRtMW+bR/rxeuvbShTllBDRxlNbKuXraDHruBbVVvWvJqacWNk2T0XkDRsIef7Yu5auG6AA2jVFxmlQRh7PUwh4aXgCAoJm2VH1UUnXa57GxQKPFoT4gKz0VUkDO8svcYh24dh6y8IMnZ5iUn1VSKhf/Nlqn+62AO1LHkQa+7IWFREpFSZ1W7/l2MuT+7GmJsNhlWrgSZC+Gt6DhvalRokEM3mMGR8Q5Q/u39lA8aZdelolOYzsmPbwgPfEQjHBypZcYcmOuFDUGwGQ/TY6KbVKYPPes3+8NVw1PYVLP3Gz+70QE7AiY+0xRcPb88s7ehnRWmzzi4L6UsUsSTuXOxOW0luHEjv6yKbnOB8rBbjdaZUK3Z7ODGjDZQE5tD6xIRlBkGoD3Z66weacQOTs+HQqNiA7+9b2cXYCFOqL+xkcpCU+FkyTzZB4t43ZjcBDYlnHgwrqmpIiuiVoXoZ/tbDU2xhDz1uyDkrNo93vfvuNpjtyHJN8LXW8rvs2eAEvZHOR+L+K8gMnpvU="
+    },
+    "name": "Zorro's Cape",
+    "category": "CLOAK",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "EASTER_RABBIT",
+        "rabbit": "ZORRO"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 15,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "ferocity": 2,
+      "strength": 10,
+      "farming_wisdom": 1,
+      "farming_fortune": 10
+    },
+    "description": "%%dark_gray%%%%italic%%Not all Rabbits wear capes."
+  },
+  "recipes": []
+}

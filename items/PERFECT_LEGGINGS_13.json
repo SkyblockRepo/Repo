@@ -1,0 +1,101 @@
+{
+  "internalId": "PERFECT_LEGGINGS_13",
+  "name": "Perfect Leggings - Tier XIII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5222400,
+  "lore": "&7Defense: &a+380\n&7 &8[&7❈&8] &8[&7❈&8] &8[&7❈&8]\n\n&7&8This item can be reforged!\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERFECT_LEGGINGS_13",
+    "material": "DIAMOND_LEGGINGS",
+    "name": "Perfect Leggings - Tier XIII",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 5222400,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PERFECT_TIER_13": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DEFENSE": 380
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DIAMOND",
+      "amount": 60
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 65
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 110
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 160
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 21
+      }
+    ]
+  },
+  "recipes": []
+}

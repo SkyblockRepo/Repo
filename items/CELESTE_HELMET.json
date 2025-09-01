@@ -1,0 +1,48 @@
+{
+  "internalId": "CELESTE_HELMET",
+  "name": "Celeste Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2500,
+  "lore": "&7Defense: &a+10\n&7Intelligence: &a+30\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CELESTE_HELMET",
+    "material": "LEATHER_HELMET",
+    "color": "212,142,242",
+    "name": "Celeste Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 2500,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CELESTE": 1
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DEFENSE": 10,
+      "INTELLIGENCE": 30
+    }
+  },
+  "recipes": []
+}

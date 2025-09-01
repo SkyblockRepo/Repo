@@ -1,0 +1,29 @@
+{
+  "internalId": "ARCHER_DUNGEON_ABILITY_2",
+  "name": "Stun Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Shot Cooldown: &a10s\n\n&7Temporarily stuns any non-boss\n&7dungeon monster for a short period\n&7of time when shot.\n&8Cooldown: &a10s\n\n&aShortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&a&lUNCOMMON DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARCHER_DUNGEON_ABILITY_2",
+    "material": "BOW",
+    "name": "Stun Bow",
+    "category": "BOW",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "MAGICAL_STAFF",
+  "name": "Magical Staff",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 27,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGICAL_STAFF",
+    "material": "BLAZE_ROD",
+    "name": "Magical Staff",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 27,
+    "stats": {
+      "DAMAGE": 20
+    }
+  },
+  "recipes": []
+}

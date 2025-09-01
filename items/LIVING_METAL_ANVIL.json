@@ -1,0 +1,67 @@
+{
+  "internalId": "LIVING_METAL_ANVIL",
+  "name": "Living Metal Anchor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This anchor has a life.\n&7&7It likes music!\n&7&7Its favorite genre?\n&7&7Heavy metal.\n&7\n&7&8Reed needs this item.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIVING_METAL_ANVIL",
+    "material": "ANVIL",
+    "name": "Living Metal Anchor",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "origin": "RIFT",
+    "description": "This anchor has a life.\n%%gray%%It likes music!\n%%gray%%Its favorite genre?\n%%gray%%Heavy metal.\n\n%%dark_gray%%Reed needs this item.",
+    "motes_sell_price": 100
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LIVING_METAL_ANVIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "METAL_HEART",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "METAL_HEART",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "METAL_HEART",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "LIVING_METAL",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "LIVING_METAL",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "LIVING_METAL",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "LIVING_METAL",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

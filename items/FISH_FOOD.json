@@ -1,0 +1,28 @@
+{
+  "internalId": "FISH_FOOD",
+  "name": "Fish Food",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7&7Despite its name, can be given to any\n&7pet! Feeding this to your pet will not\n&7increase its candy count.\n\n&7Grants &a0 &ePet EXP&7.\n\n&7&eRight-click on your summoned pet to\n&efeed it!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FISH_FOOD",
+    "material": "RAW_FISH",
+    "name": "Fish Food",
+    "tier": "COMMON",
+    "unstackable": true,
+    "npc_sell_price": 1,
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

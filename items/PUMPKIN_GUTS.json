@@ -1,0 +1,26 @@
+{
+  "internalId": "PUMPKIN_GUTS",
+  "name": "Pumpkin Guts",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Why does Halloween have to be so\n&7gross?\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "PUMPKIN_GUTS",
+    "material": "PUMPKIN_SEEDS",
+    "name": "Pumpkin Guts",
+    "tier": "UNCOMMON",
+    "glowing": true
+  },
+  "recipes": []
+}

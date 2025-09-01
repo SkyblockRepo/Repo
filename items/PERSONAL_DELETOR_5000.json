@@ -1,0 +1,69 @@
+{
+  "internalId": "PERSONAL_DELETOR_5000",
+  "name": "Personal Deletor 5000",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Automatically delete specific items on\n&7pickup.\n\n&eRight-click to configure!\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERSONAL_DELETOR_5000",
+    "material": "DISPENSER",
+    "name": "Personal Deletor 5000",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PERSONAL_DELETOR_5000",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "PERSONAL_DELETOR_4000",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "ETERNAL_CRYSTAL",
+  "name": "Eternal Crystal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 105000,
+  "lore": "&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ETERNAL_CRYSTAL",
+    "material": "NETHER_STAR",
+    "name": "Eternal Crystal",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "npc_sell_price": 105000
+  },
+  "recipes": []
+}

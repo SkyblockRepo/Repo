@@ -1,0 +1,31 @@
+{
+  "internalId": "ARACHNE_CRYSTAL",
+  "name": "Arachne Crystal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7&7Place this at the &5Altar &7in &4Arachne's\n&4Sanctuary &7to call forth the true\n&7strength of &4Arachne&7.\n\n&7''\"What have we done?\" ''&7- Unknown Spider\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARACHNE_CRYSTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MDAyNDgxOSwKICAicHJvZmlsZUlkIiA6ICIyMWNjMzkxZmNkMjc0NzY5OTg5Y2M3M2VjYWRiNTE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT1NUTFk5NyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYTExYmEyODhiZDZhYTdkNDkzNjBiMDNiZGM2MTgxODkxNTRjNDRlNTg4NTE2ZWEyOWNhZmYyMjk0NmNlZTAwIgogICAgfQogIH0KfQ==",
+      "signature": "CRXMVRQrnBoAqiepYKqxbpgI7RLapI3Vx+yLAaRiJU3kKrHVvu8cn9pzCOb2f0JlT/43tYNiTDukyyMOQpALG7dRsrfcd/ahVJC647RDKnEj6y13416gL+U6sDNdPtxWd6dJlPfHN5DE5Nj315y9EmvNdXzvnJLUqiRsdV2yByhCP6Ja621/HcGWl2P4qLA0NBWw++tIjbuo7Z8LvlcXxmel1VGOKCcgjVPgsZemnSou0/NczPwNjfReiXEPInyGJ8bGBTnwn0Ir9Mmbo6FtaOaOs9hHbN9zvtPNz+tqGZ37QCknfBqI/KnW+ivxewMykDpxQxEsEnZ/mUgW1w3DGezM8qOjijPCbLl0zUc+RRtlIfMeCCvjhiMF5KUh/zekXSTVTvxMEekx5HF8Al4g1t1CkjrYK1x5Yz2TRmaCzCxoDY4IYWObaUNuP6NHFmG0MLd88BV2Ef5ALAwRjg2Bm8YPz6Hif0T8tdjnR66XbMR/jkAZrIBn8sf7gr3TGnA4otwpO8Fo7QunALAQUNkPdGsWP5MqYMa1waHD/bZUfD6kVQDGneXeAeFrrOHMpSXiw/ydKQjTYqP4fmyojIpYR/2Z7RleIJWN3b+MRqOjZwi+v3zPZ5dWSB392d+vx0ktr8vXyKykDt5BB9TNo16199OWWoZ8vj26JYkTspNMfJs="
+    },
+    "name": "Arachne Crystal",
+    "tier": "RARE",
+    "npc_sell_price": 1000
+  },
+  "recipes": []
+}

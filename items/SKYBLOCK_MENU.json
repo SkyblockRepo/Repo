@@ -1,0 +1,24 @@
+{
+  "internalId": "SKYBLOCK_MENU",
+  "name": "SkyBlock Menu",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKYBLOCK_MENU",
+    "material": "NETHER_STAR",
+    "name": "SkyBlock Menu"
+  },
+  "recipes": []
+}

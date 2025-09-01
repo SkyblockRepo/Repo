@@ -1,0 +1,27 @@
+{
+  "internalId": "ORGANIC_MILK",
+  "name": "Organic Milk",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORGANIC_MILK",
+    "material": "MILK_BUCKET",
+    "name": "Organic Milk",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

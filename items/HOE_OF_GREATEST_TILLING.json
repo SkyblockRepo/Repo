@@ -1,0 +1,34 @@
+{
+  "internalId": "HOE_OF_GREATEST_TILLING",
+  "name": "Hoe of Greatest Tilling",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Tills a row of farmland. The perfect\n&7accessory to the &5Basket of Seeds&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&5&lEPIC HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOE_OF_GREATEST_TILLING",
+    "material": "DIAMOND_HOE",
+    "name": "Hoe of Greatest Tilling",
+    "category": "HOE",
+    "tier": "EPIC",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      }
+    ]
+  },
+  "recipes": []
+}

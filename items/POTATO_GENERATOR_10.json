@@ -1,0 +1,77 @@
+{
+  "internalId": "POTATO_GENERATOR_10",
+  "name": "Potato Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting potatoes.\n&7Requires dirt or soil nearby so\n&7potatoes can be planted. Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POTATO_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDY4NzEwNjAsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UwNWMyYWI3ZjQxY2ExZjNmMjIxYjk0OWVkYzdiMjBiODAwZWQzYmJhZWIzNjUxNGViMDAzODg3MzM4Zjk2MCJ9fX0=",
+      "signature": "W/Fr7orf5sAff3TBFre6dMD9/fJgoR4ePr6CqA1bKhMVIEuTDdgyR5poQyHSn0+AeszI2eoE9ZEXu4/ctky6HVAF5b05J8t3k8dtXFoFg5VSnHeO7Di+Glno7JrbaYSMDiOXQfw/CKvKVDEZbpxMdEu05O39mc6GngoTwkEN+I7pT3+4pKX/u/98KY/Fn1ALkRuhgyQqBG3yxe6s91S9RgzLPc8b/6WZgDZRVe0sXc8CuznXlURSleyCyP8INdHaJF3f8WjrHlL2klWk7FQmMESJNAdIuz2G3f8ggMcWm9arsHs0Fd7f5DPUwbmZ23z3dbYarPR8yoM0kanB3XG7gXHgf7dDSqs7scgsTvdkh4+MySiv2d7QQC7R5/Ng5pIeqR1m8ACNHObdrtCyTrHIpcURRl1OxzUdjyPBN2nd6DfSCfDvJHkvtn73iZjzXy98fXulzuahGcyEOhMtlYm4Vo/OPgqg1AIvTP7xMFaWN3iQUz+ThkPWdigMVsBtVasjQPoCDVigVLubFJAZVTAdRWH6avTaJWQRNsvmtbrixkB7Uz7ky0f3bgjbNJsBIBaNC/o7kg/edE7oXDRbwQuxM0n6u4+jPMi9osxCC+d7h8Zqzjf3BNMVe6BLGI6NkilUxw8DWUFYZ5KlM/QnHa9kzlWdgaYoJHA6zrUfY8SOYUc="
+    },
+    "name": "Potato Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "POTATO"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "POTATO_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "POTATO_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

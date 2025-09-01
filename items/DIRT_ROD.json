@@ -1,0 +1,30 @@
+{
+  "internalId": "DIRT_ROD",
+  "name": "Dirt Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Fishing Speed: &a+20\n\n&7&7This rod allows you to fish on dirt.\n\n&7&8''At least you won't get wet!''\n\n&7&8This item has no purchasing data yet!\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIRT_ROD",
+    "material": "FISHING_ROD",
+    "name": "Dirt Rod",
+    "category": "FISHING_ROD",
+    "tier": "UNCOMMON",
+    "museum": true,
+    "stats": {
+      "fishing_speed": 20
+    }
+  },
+  "recipes": []
+}

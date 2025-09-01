@@ -1,0 +1,54 @@
+{
+  "internalId": "ARACHNE_BELT",
+  "name": "Arachne's Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Health: &a+10\n&7Defense: &a+5\n\n&8Tiered Bonus: Arachne's Faithful (0/8)\n&7Grants &c+5❤ Health &7and &a+5❈ Defense&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARACHNE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzkxOTY5OTk5MywKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTEyN2EyYzk5YzYwNTAwNzk4ZmI1ODgyNjY4N2IzNDU2ZWJlMzVjMTgwZjUwNmMxZTgzMzg2MzgxNzgzMGY4MSIKICAgIH0KICB9Cn0=",
+      "signature": "j2wn+ZjjZEdPpunmysx7M/cSt7ZnuKpDXVp8HsGXxLhXrE3/xcFFCcLmWZ08fr3EX+Dp36DSKipGUpgAC7FbOFX+4fwaL9KRTQOr0qJ20l4HZnqU+4mxvrh7v6ZkyHrdSTXFeUMSx96gm3YFe1F5hyhcSxxQrkWj1U38zyzwfpbKIf//BEPeTYvSwj88FtdQG42YhM9PtGaEpeeSIfissMULpyBKzqZsDKWjOPok1FaXMnjyHc6Ck0gySns4orI7GRkO2VHjLovVnUX95KnpyGh+EL8few3bK4DLgG6ykOdol40c5RRwFq0TVCH2adoKsJmjSYQjGXh1sXV1r9yEgxQJPUUhVquwfGJOnIMU5aH6CfWB1RUwZ0ClPArjdo/sYOntda0LeULhSImhdLSQDOQ+5alEaFOZ9e9dGtrVk7DIzgbj/LtA4eP2mRslKnhuLYUz/cWN4HQBYu4D+HqWa25ZKY3BhK/7U9zHsQiO4oJ3RhUKxAhZ5dQoCLmAGrIU1iX6w27wL5jMIwnQAXxGdZQ6kK0TBw/walRfpKu1/2SqI8u1eDsxYhJI0b5WINUG7MhAdeJw2v+O1VOBJDkYZ5e2iS8/QOns+wWP8IdGyXyUOrQvaKC/sPu53bOvAqst11JXUKyKGAsphcEDFWXbmybmFD364lmG1GgqqESrTlA="
+    },
+    "name": "Arachne's Belt",
+    "category": "BELT",
+    "tier": "RARE",
+    "npc_sell_price": 2000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ARACHNE": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 10,
+      "defense": 5
+    },
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 5,
+        "essence_type": "SPIDER"
+      }
+    ],
+    "soulbound": "COOP",
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "BOTTLED_ODONATA",
+  "name": "Bottled Odonata",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7There's an &9Odonata &7in there!\n&7Look:\n&b+---------------+\n&b<nowiki>",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOTTLED_ODONATA",
+    "material": "EXP_BOTTLE",
+    "name": "Bottled Odonata",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "can_interact": false
+  },
+  "recipes": []
+}

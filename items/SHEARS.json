@@ -1,0 +1,26 @@
+{
+  "internalId": "SHEARS",
+  "name": "Shears",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON SHEARS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHEARS",
+    "material": "SHEARS",
+    "name": "Shears",
+    "category": "SHEARS",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

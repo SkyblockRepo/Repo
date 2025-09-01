@@ -1,0 +1,32 @@
+{
+  "internalId": "RIFT_STABILITY_ELIXIR",
+  "name": "Stability Elixir",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Useful to stay integral in case\n&7you've accidentally inverted\n&7yourself.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RIFT_STABILITY_ELIXIR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODA5MDk1MTYxMywKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1NTUzODEyMDliZjk4OWU4Y2FhYzNhZThkNmI3ZTE5MzM3M2YxNzE4MDg4ZjVkYmYxMjJmNzFmNWVhZjkwZjAiCiAgICB9CiAgfQp9",
+      "signature": "TzU12W9muI51ZvWgW7QEVCQcWN4uN+GjbMwhHs/5qW7rulnX1AFQDQe9XqFNvRW6JBB/v/RifDbF1szpJ2/o+trCsOXyGZMx23QDm4DFjJLX9A/vfkEKMthW3Gr3u73/aZdLSqyKWEQaMwBASnkr9BF7oeuTM/JwzBnH9T6CVP484WSMDNcxWRVrvpXhyoVpwI6luUA/r3FWX5Oc24Xgowcvj7HzDY5DMJFQnG28IPOcxa40+ymTcrJGHvRDF4KgOO0d+m8wGSIS+t1+ml2AcCU0LhZDkhn3ReN1aHZ2WAVmmsvFlI6WbE6z8lF30A6TeUOq7/g3hXRKRX2uBkdSWkkhwUOsLN5zWVb4oionIM+mw39RLZ4h1qEEoesmsMFYHQZnG3i+7WwekxF03MeuP9G4ls3PRJczbrgO2Q/NDGukQTJj0eLZw4K5Wx5bUNvmuCJtiNn8skk27i/+BzAhYRupyq7WYHdGsavCeLEkQk+ZVRDXqyqBan52v2334KsIsqSGpy7WRFl6W1y8Maz0QjlM0yW5H008VcBg7QcitAfF6iPfZwHNmXsf9UOZPxT5B0oVLT24J/zDE3fSjWimdZ358M8bB8Hg1miEpXW8Jo/qC9H6aUAo3umBHFfMBG2DGZ/E37vlq/fpLJ5MbkA9ZNhhz9Jis4+FRtaEV1XKT8g="
+    },
+    "name": "Stability Elixir",
+    "tier": "RARE",
+    "unstackable": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

@@ -1,0 +1,76 @@
+{
+  "internalId": "JERRY_STAFF",
+  "name": "Jerry-chine Gun",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+80\n&7Intelligence: &a+200\n\n&6Ability: Rapid-fire  &e&lRIGHT CLICK&r\n&7Shoots a Jerry bullet, dealing &c500\n&c&7damage on impact and knocking you\n&7back.\n\n&7Each shot costs &3+30 mana &7more than\n&7the previous, resetting after &a4s &7of\n&7not firing.\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JERRY_STAFF",
+    "material": "GOLD_BARDING",
+    "name": "Jerry-chine Gun",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 80,
+      "INTELLIGENCE": 200,
+      "WEAPON_ABILITY_DAMAGE": 500
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": []
+}

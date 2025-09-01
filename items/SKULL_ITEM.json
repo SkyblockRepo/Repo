@@ -1,0 +1,26 @@
+{
+  "internalId": "SKULL_ITEM",
+  "name": "Skeleton Skull",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKULL_ITEM",
+    "material": "SKULL_ITEM",
+    "name": "Skeleton Skull",
+    "tier": "RARE",
+    "npc_sell_price": 20
+  },
+  "recipes": []
+}

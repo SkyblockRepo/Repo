@@ -1,0 +1,56 @@
+{
+  "internalId": "MYCELIUM_DUST",
+  "name": "Mycelium Dust",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15,
+  "lore": "&7Instantly grows crops and saplings\n&7in a 3x3 square.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MYCELIUM_DUST",
+    "material": "INK_SACK",
+    "durability": 9,
+    "name": "Mycelium Dust",
+    "tier": "RARE",
+    "npc_sell_price": 15
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MYCELIUM_DUST",
+      "resultQuantity": 32,
+      "crafting": {
+        "2": {
+          "itemId": "SPECTRE_DUST",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SPECTRE_DUST",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

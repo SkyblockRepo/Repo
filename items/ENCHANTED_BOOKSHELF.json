@@ -1,0 +1,72 @@
+{
+  "internalId": "ENCHANTED_BOOKSHELF",
+  "name": "Enchanted Bookshelf",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2700,
+  "lore": "&7&7Place near an &9Enchantment Table &7to\n&7provide Bookshelf Power. The higher\n&7the Bookshelf Power, the more\n&7enchantments are available.\n&7\n&7&7Bookshelf Power: &915\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_BOOKSHELF",
+    "material": "BOOKSHELF",
+    "name": "Enchanted Bookshelf",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 2700
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_BOOKSHELF",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 2
+        },
+        "6": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

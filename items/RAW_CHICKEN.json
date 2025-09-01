@@ -1,0 +1,25 @@
+{
+  "internalId": "RAW_CHICKEN",
+  "name": "Raw Chicken",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "RAW_CHICKEN",
+    "material": "RAW_CHICKEN",
+    "name": "Raw Chicken",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

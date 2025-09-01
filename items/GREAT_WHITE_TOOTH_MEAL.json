@@ -1,0 +1,59 @@
+{
+  "internalId": "GREAT_WHITE_TOOTH_MEAL",
+  "name": "Great White Tooth Meal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12000,
+  "lore": "&7It smells like blood and fear.\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GREAT_WHITE_TOOTH_MEAL",
+    "material": "INK_SACK",
+    "durability": 15,
+    "name": "Great White Tooth Meal",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 12000,
+    "description": "It smells like blood and fear.",
+    "can_interact": false,
+    "can_interact_right_click": false
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GREAT_WHITE_TOOTH_MEAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

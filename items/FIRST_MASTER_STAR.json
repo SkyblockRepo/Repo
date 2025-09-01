@@ -1,0 +1,31 @@
+{
+  "internalId": "FIRST_MASTER_STAR",
+  "name": "First Master Star",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7Imbue a &65✪&7 Dungeon Item with a\n&7&cMaster Star ➊&7, increasing all stats\n&7by an additional &a+5%&7 in &cMaster Mode&7!\n\n&5&lEPIC DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIRST_MASTER_STAR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjU4MDE1OSwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYxMzY3MjQ3NDVjOGM5YWJjNzVjZGYyMjA1ZjJjZDFkMzNlNmJmZWZhNDE1Zjk5NWJlNzY5MjI5MTIxNjllYzkiCiAgICB9CiAgfQp9",
+      "signature": "q8zrKrkqPsdL1YgJ35z4vL6m2r0hwYNyp+j4uRasSMi4N89O48pkw0fpnUdoEzbNXZfe+SVJEuIHxsg5gXNysywlMbv8pvrP7oLlwJTZ17/AYcSDsQWqpnPclwmkE2Q9BFORghuqUXOyJY5S2Qu01+NgMaUhNzAWCR7/XISBkUG9I9VtgRJ/9penlsl6CLk41UqyUNjYf8rnXN6/cD5moqp8eh75VjU10mF7wbGHHob8dGn8dgLxKDlUEo9l7ArIVfE3J7uUE9DpD7GZuykeu4OIaLaxHj1d2VVonXrs00osRQ9ELOxT8QqjsBQoR7ZrK5O4zio6rHserOhvNGoR0goZr0fwFgYI/3NWulxDr+s08gjHbH41Ya1G9/CnbC2cAIGs3JhUtRgJ5qmYiyFo3cLlfaaUaYbg0ckSBKhbzJIaXYYbYKMu1i8IGQemCGE/V02NJorXbIugUMAvxhyhCMIfy4XBzCZaQMa9TsxW0WMmBxL/wlEyFCaK7qP9WXgl3tKEHgJFezO2n71PxmhoH9brqlR70jTLfzx93xUNbIm9wmpYuDgLkSiGphHSgQ11/GMxuro24sePoEup0UzvzNWr5yrlmZ8FBaB0IjGQvJegLqXDMwcSTmYs+rgoqvzxNfe+EdlKuOrcSEc3RbrImLa63GQQPCMO9k1Lkj64AXY="
+    },
+    "name": "First Master Star",
+    "tier": "EPIC",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

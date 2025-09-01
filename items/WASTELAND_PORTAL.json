@@ -1,0 +1,44 @@
+{
+  "internalId": "WASTELAND_PORTAL",
+  "name": "Portal to The Wasteland",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&cThe\n&cWasteland&7 for you to use whenever\n&7you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WASTELAND_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTI2NzY5Mzk3MSwKICAicHJvZmlsZUlkIiA6ICJkYmNlZjMyZjI5ZDc0Y2UzOTUzOWMwYjBhMTE1YjZiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYW1waXJlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyYmYwM2VjNjhhOWZhNDE5OTFhYzg2Y2RmYjE2MWQ5ZDQ3YmZjOGQ1NmJlOWJlOTdmMWVkMzA3YjQ3YzM2NzQiCiAgICB9CiAgfQp9",
+      "signature": "iijr5wVSA/0KPOC9xDiKS/ffVDzybgMY7G9Xmhj2C0OfVPC/YJ37eHPzACa7R0nZFekbc8q6k0Z8YIt3RsVkf31OcjHJo+CWcrsMigrzeLGexwBUyLG53/O1dw5Xlb3vHogd6ewLZ9eTYSs9qhJsaLYT2oS+/0UarHp5qDaRkEyw3dQdipOe7Cyw4FnUMABf1VzuqCAldyjF9cd1ATmsGhum6WqOr9Npyx+j9NMvG/qMQQgVYyLfglqHZpAqP4ITIljw+IMNwgHG4/UVqsTVgSB2s8THiLrNpAEE32RSUI9GYK5d8WJWNPn3LmQiPERzoY7LyOqglQ+1U1RudWNEAEppfULZ1aQEQdP5VNrdurO31Z8y8jJjhlnAkFsZxyY7Z8ew3mJ00SjxgW51tMix+obLpfMQLzX+g4Xcg4aF0BxJCWum31VTBUME+C1UuMzdj8uRCiRdtfjOqtzih1BUPUkAqivfMc2bTB/DBONzCuw5IghMotzYiTWV3M5L9dIYHYMY3AOUBhot2vJCPtwEH3cEIirJlK3lE0Ih2hQ7M6vZPujfH6WaX0GXCR9L8Um/qB1tUFtmduUrwYpLI5RZByqOfR6NpQ4jmNhnsv1shYdlpwgwOENF62Amz/15jKONebxuXkLlkI6kZufB3eJz+EHnTuD5I/FmLSAOL+FVZ5M="
+    },
+    "name": "Portal to The Wasteland",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "NEW",
+        "holo_name": "The Wasteland",
+        "location_tag": "wasteland",
+        "schematic_file": "sb_portal_wasteland",
+        "description_name": "%%red%%The Wasteland",
+        "destination_mode": "crimson_isle",
+        "skill_requirement": {
+          "level": 22,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": []
+}

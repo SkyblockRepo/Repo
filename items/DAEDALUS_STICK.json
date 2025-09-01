@@ -1,0 +1,28 @@
+{
+  "internalId": "DAEDALUS_STICK",
+  "name": "Daedalus Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 250000,
+  "lore": "&7Drops rarely off of Minotaurs from\n&7Diana's Mythological Ritual.\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DAEDALUS_STICK",
+    "material": "STICK",
+    "name": "Daedalus Stick",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 250000,
+    "has_uuid": true
+  },
+  "recipes": []
+}

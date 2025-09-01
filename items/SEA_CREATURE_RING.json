@@ -1,0 +1,80 @@
+{
+  "internalId": "SEA_CREATURE_RING",
+  "name": "Sea Creature Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Sea Creature Chance: &c+0.2%\n\n&7Take &a10%&7 less damage from Sea\n&7Creatures.\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEA_CREATURE_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MDI2NzM2OCwKICAicHJvZmlsZUlkIiA6ICI2OGQyMTg3MDBlYmU0YTliYWU0OTcyNTg3ZDIzNzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGVlcG5vdGZvcm1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhYzAxZjI4MTMzYzE2YjczNTY3YTc3NDQ0ZTI5YTE0NzUyMDJkOTc0YWNlMjk2MjRjYjY4OGQyNDkxYjBiNTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "AbLtPdrs0RZrQ4ATz7HMIEFCGRHO87Lrb4Vf08Upxqc9UxyBp0IVVXujb+rJeGKdNl9LbsvYQ22I/ke6fXVJwSGA8Lvz7bCJN2Ykiia4Lv2X8oYXWn/+qnVYuADHUaGvYrtj5rLQy0PKGsUYAsponmVY4zNKffUTv8e5Ome3HcubZ6WlqO73NcrifywxJtaBZZdJw9v16OyT5q5+JO0VIhQ/6y7cVDPbiwVVB9cn6VcUDu8Z0RIGYVd7PrMjFb905XNHTqbvU2y3HvKOtyRQRxv48mEOoiChVWE4fhMyTouX9+jpY5IjfMTxTbk+MLgdN4N3lG5jK9GyFVgBJ09k9kGls3vy8/emWMo5g9kIRNR2OOR03OmoZGFEmMIXxBL+3FZMQ+jcol19oMyePBzUohFruSSTEvrPNmVVPz+mAbfqZvOGJQ37AnDtNC4kYi6ZuzL8gkhhMg8qCNA5BQiRiIlgEqcGs6UNKg+teslg1wpTRfqSoM85E0Dll/QdqU6pB6cpIBHXKYG7GMUZB7cMUHVQdwxUgNEPKdN/Od5iN2nmrsaybvjnHMwGqyQM8itByLJLPCuwtC+hAh97WEFgZevFpGjje6nYhFDU4qwGeOpvW1bYfeDnL3WeqaXvMW8ZvwXL+qK9udIWehrZNbv6hXZJsaD+ygFApAK5eZa3oaY="
+    },
+    "name": "Sea Creature Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1000,
+    "stats": {
+      "sea_creature_chance": 0.2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SEA_CREATURE_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPONGE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "SPONGE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SPONGE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SEA_CREATURE_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SPONGE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "SPONGE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "SPONGE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

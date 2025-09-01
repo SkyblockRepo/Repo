@@ -1,0 +1,31 @@
+{
+  "internalId": "EMERALD_CHEST",
+  "name": "Emerald Chest+",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Storage\n\n&7You can store three pages of items\n&7in this chest!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMERALD_CHEST",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDc2NjQ3NTUwNiwKICAicHJvZmlsZUlkIiA6ICJhYTZhNzUwNWVkYmU0NjNiYjk1NWYyMWY0MjNiYTM1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RhbmR5d2FyaG9sIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxYzVhYWU2YWVhMDk0MDBkMjcxOGEyMWU2MmRlNDBlMjNhYjUzMGI2ZjhmNDg2Y2QzM2I2NjE0YzFmNDdkYTAiCiAgICB9CiAgfQp9",
+      "signature": "X6nXdIy2XWm+z6hq0cVo8Gg+eYRW0C4dEouBpdO9x0ChKDrB9EKOzu7dVP60jA8830C0vINgc4gkXmKk4kvGqwabl5BA5uoVZICLOAtuHpQeEiNSvWRlYs1C7Qf13UfK7MpaAo+WYIbu8qxRLx5QFxDpBwBE3piJMp8bm8LuHqDYsGl49jUfqkU1RFnIevJcIblPWmuDkGa0y8EbSkcajaA1oWoO0u74jKyoB4A2VvYPMOQYMJsnIyzKBu55C3zmrONshecLAjEWH/vsnX9/+UfY0R8kUZNTeYkBU80k6it1cl3cw0OjMwBMyMrFCL4mRKzruWaVAqYH5hHuROv9CCazyRIA2I0aKx/lJeIkIOXBS+nibA1aLxx11I2Yz6jItzf73G7GL90n2U8MODCIFV/+cc11KP+4lv9ttORhBshYn44Get6SlrURgxjMYhKwnp1I30COkGC8qiYvIBgCsZKkICbVWWV4rXA9/h+bRrtDbFRFU0rkRJwg36Pf1Jq3Jgrf9iml71gzNbnFaLw2KauYGt2flxFLercr2fSUV/X0TUDgLV8wx+6ijPgRJqarERPJUn8NcjhnLa/Kzgw7oNKX108I0NiJ9DNuOfzCfIe4/48eCN3PWGpo+XcSq4wNhdm4xjLyirfbAOyWQYtlBR7SoZVG+JshEednaoVMV0s="
+    },
+    "name": "Emerald Chest+",
+    "tier": "RARE",
+    "furniture": "EMERALD_CHEST"
+  },
+  "recipes": []
+}

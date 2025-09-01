@@ -1,0 +1,85 @@
+{
+  "internalId": "ZOMBIE_COMMANDER_WHIP",
+  "name": "Zombie Commander Whip",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d110 &8(117)\n&7Damage: &c+65 &8(+71.5)\n&7Strength: &c+5 &8(+5.5)\n\n&6Ability: Commander Whip \n&7Every &91 Zombies killed&7 during a\n&7dungeon run by this weapon gives\n&7the wielder &a+1 &c❁ Strength&7.\n&7Zombies Killed: &a0\n&7Bonus Strength: &a0\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 18&c.\n&5&lEPIC DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_COMMANDER_WHIP",
+    "material": "FISHING_ROD",
+    "name": "Zombie Commander Whip",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 65,
+      "STRENGTH": 5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true,
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "INFERNO_GENERATOR_11",
+  "name": "Inferno Minion XI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Infernals!\n&7Minions also work when you are\n&7offline!\n\n&6Ability: Rising Celsius\n&7Each Inferno minion increases the\n&7speed of ALL &7Inferno minions by &a18%&7,\n&7up to &a180%&7.\n\n&6Ability: Apex Minion\n&7When creating an Inferno Apex,\n&7create 2.\n\n&7Time Between Actions: &a697s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFERNO_GENERATOR_11",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0NTk3NzY3NywKICAicHJvZmlsZUlkIiA6ICI4ZGU4ZWU3MTMyMTY0NGNhYTllZjJlNTVjODRjNGU4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIdW5kZXNjaG9uVE0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWM3Y2M1ZDhkZWExZWFjNmFhMzA3YjlhZDMyYjc5ZGEwYWY3ZDE2YmFkMGZkOGUzNGNjNTczNTczOWRiOTc1MyIKICAgIH0KICB9Cn0=",
+      "signature": "WrYRf99YjpkXoV8WvqWvdYm+q4xp+tyF2WF9rNFoRaEoGY2vVkdoglcW3soy5HF9XhRNUv1qkdXog9GfcdFL/9v+O4M/aRM+YKjxusDZ6HhjjrgojIvnWojowi81iix6ehBOTX8RYPFdaUElLA7kMj5dq0rPlEt3VBzsOu7KmvpfQT5SdtKrt5VS6P7KGx4kcTZC2g2lNu87O16kV1epXGj34NmKANHU/v1m4mdgUGGOXTFLibsvq5Fv3L0D8PeBmKQjlyjEt4UmSq2ugHo+RQb/58Uau4GLgU6dQxtk36A7PLfYTXI6oHRBmWt+XcRxivIy/WvCaD/FVop8rWMKHzX4DoU5Dv8YgtNB7UZ+NY3gLTUQL7awlbqP0u10xkPRMH2gQ7rCCNqoYUM6qyrQM1BaPjcVpu+OlJd7djaJcceYzebh01+cXezJeWrctFLvhDoNvQZNVDrBXLcyBv12zn9AUzdk0J583I87a2an0UVlOrzX2n4bPNvpYAsJOgmZHee0Lxwxj8VtR/YpZPx5VeHUbcVyDOmyUGTYVMbqHEEZIdtxrbSn7uDZenPCmd3sVefuK77K9GNh/9MQXgBpNQDFiV5CBxfmgz3HsmIiB0anZZDoP0FQOIqffs4tYWWw5W8Vlr+gPxQ/ncxpyJ5cSbfcJ0qFgpUTovxH4QBeYhg="
+    },
+    "name": "Inferno Minion XI",
+    "tier": "RARE",
+    "generator_tier": 11,
+    "generator": "INFERNO"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "INFERNO_GENERATOR_11",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "INFERNO_APEX",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "INFERNO_GENERATOR_10",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "INFERNO_GENERATOR_8",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

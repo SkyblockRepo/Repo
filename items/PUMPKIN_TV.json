@@ -1,0 +1,31 @@
+{
+  "internalId": "PUMPKIN_TV",
+  "name": "Pumpkin TV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Halloween Cosmetic\n\n&7This exclusive &6Halloween &7cosmetic\n&7can be placed on your island or\n&7traded.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_TV",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyNTYzOTE4MDcyMCwKICAicHJvZmlsZUlkIiA6ICI3ZGExYjViODdhMTg0NzgyOTQ2ZjZiYTdhMmNiMDhlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeWt1bk9jYXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZTUwOTg4MGRjYjQ0N2FmNjYwNjI2NzU4NDlhZmM3YjUxMDhlZTAxOTc5ZDZmMjk1NDNlZjAxY2FlNzdhNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "swVSR3P2yFnSUrK6E2ksCa81MXgibaK1UL7gZfxmi94MTaD36qAA90ShEF+CpPslcEeWN+a9CvT6EAZNtCCUARbrc32DglU70SIkGMCWD3p6vWh93iAYL1crsApaSFuBBcL0y/vFKhd29oMl/Uy6VBHIMEe+WyUNUhZwD3N+BHsTs76i2S/TXGzwcv+kLy8qCKsHLnio8khUTew9TsCdqFP1TWPERExLYrWlfqSb0IspuLdHRF9beVYWDC3sza3L8W3m/0TWiZRgxzBGbFAhSL68vKMyUMCkgBED63+FQrh0OkVRJpusLw2vhrn682q9NAZUv+TJD9NUYrxXLnYDtHjjVo0Hj9TdZCvS05GdfdW/EZXF8ZqhNgOn593WIIZtA9RbX3K9vTcurKVtXEh2utnZxdzl8NQ+aiT75/+eiSs4PDJqOW8Y1P/ibPxT6v/VO7j5QLM+WDIleADe+LXSfyzxZ6yYHxs7lJKTVinYvtMMOaiBBek7K1vLfNYWc8ZxhDxXakRKBFSBGJ10f8JO9rnU6kqAlfTeGROpaqPc9z2fW8Jp5fRASvZJYWkZZbqsodxM/+lIgPJfcAW+RTCKwZvPLd26TqsrND4oapEdtA6KkSyejDQr82pfvom32+4swIMIC/k3jRN29BrkCviqFiEo8QwWABoxLfIHlSEfoYE="
+    },
+    "name": "Pumpkin TV",
+    "tier": "EPIC",
+    "furniture": "PUMPKIN_TV"
+  },
+  "recipes": []
+}

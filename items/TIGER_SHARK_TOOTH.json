@@ -1,0 +1,26 @@
+{
+  "internalId": "TIGER_SHARK_TOOTH",
+  "name": "Tiger Shark Tooth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Dropped by a Shark during Fishing\n&7Festival.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TIGER_SHARK_TOOTH",
+    "material": "GHAST_TEAR",
+    "name": "Tiger Shark Tooth",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": []
+}

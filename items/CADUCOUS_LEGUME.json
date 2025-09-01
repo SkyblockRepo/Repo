@@ -1,0 +1,51 @@
+{
+  "internalId": "CADUCOUS_LEGUME",
+  "name": "Caducous Legume",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7Consume to gain &a+90ф Rift Time&7.\n&7May only be used once per visit in the &dRift&7.\n&aConsumed automatically when joining!\n\n&eRight-click to consume!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CADUCOUS_LEGUME",
+    "material": "SUGAR_CANE",
+    "name": "Caducous Legume",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "item_specific": {
+      "rift_time_gain": 90
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CADUCOUS_LEGUME",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

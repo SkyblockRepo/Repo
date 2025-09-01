@@ -1,0 +1,73 @@
+{
+  "internalId": "SUPER_COMPACTOR_3000",
+  "name": "Super Compactor 3000",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "&7This item can be used as a minion\n&7upgrade. This will automatically turn\n&7materials that a minion produces into\n&7their enchanted form when there\n&7are enough resources in the\n&7minion's storage.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPER_COMPACTOR_3000",
+    "material": "DROPPER",
+    "name": "Super Compactor 3000",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 50000,
+    "museum": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUPER_COMPACTOR_3000",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "COMPACTOR",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

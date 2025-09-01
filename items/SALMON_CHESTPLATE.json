@@ -1,0 +1,41 @@
+{
+  "internalId": "SALMON_CHESTPLATE",
+  "name": "Salmon Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SALMON_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "168,43,118",
+    "name": "Salmon Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 200,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 13
+      }
+    ],
+    "museum": true,
+    "stats": {
+      "health": 130,
+      "defense": 55,
+      "sea_creature_chance": 1.5
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "PRISMARINE_CRYSTALS",
+  "name": "Prismarine Crystals",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "PRISMARINE_CRYSTALS",
+    "material": "PRISMARINE_CRYSTALS",
+    "name": "Prismarine Crystals",
+    "npc_sell_price": 5
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "RUNE_SACK",
+  "name": "Rune Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rune pickups go directly into your\n&7sacks.\n\n&7Capacity: &e64 per rune tier\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUNE_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MDczMDU4MywKICAicHJvZmlsZUlkIiA6ICI3ZGExYjViODdhMTg0NzgyOTQ2ZjZiYTdhMmNiMDhlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeWt1bk9jYXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U5MWViNGVlM2VjY2UzNDQ3NDgzYTFmMTUxYzExZmFjYzlkZTI1NTc3YWI3YjUxZmJmM2Q5YzJiMmE0YjY5ZmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "MW3+K6jB3G5LLt3kQKKiiVP7pgcCvLRzWUDN2wQjoNI4RW/eAn9O2zXnsRFCYTb2HtjJ4FZ10Ks6l+uDdL/kfu/f0JYvPPKrUHhBQQdQptwXr7j+LmnpuTl4uS5AoDpNSRGAi2DyVfSgkaWuB/JL5OztE0j0qvYnzhx85H6yLBdboPN6dMzF/ZrVzWTkDhLNPr6CMOz589XP86eNlcjP/1+VUgabJl/pZPPZtg3/L8xwD69MKBJHmSBdPPzuNJaBTb+v3vru2ef2/zJIE/doRPHk8d8BJJR6HeD5qQFGG1NN+fc0RFTKxw0PAQhJ3URyB2pbAVgc1dLaMzp7yzm1E6ClkxBcmplNX20LbGPWoEDn59xfdHI8oQsX81vmhqsC7ZJ829aCSpPijg9wi18KXfFrzDN/2CtvA8Ze9UVxskBcyIYyJ9kc0Q1i0p9rM3wzDBOcyYeCPu+3ggjIyNe4x100R75ypUR4WO0yoHf+6H5iN8MoU+UhOqkMXQ0FVSXgYoF6+xa9OARBfRg02Loh/ZEonlzT2jOJvTX45MHYjr5fPmLjhz/YJaVZEjnUroLOJbSQYJsCp8xPdE0uBKTgW6WaWpwx+omdfAOXwlgQ6fCRJb1zxYIpD8lHcJHCwQQuGC4F4w8WQOpsLGdABuWoHS3iXFBZKmzXCMjtZsn7pBg="
+    },
+    "name": "Rune Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

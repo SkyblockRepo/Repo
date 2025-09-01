@@ -1,0 +1,70 @@
+{
+  "internalId": "FLYCATCHER_UPGRADE",
+  "name": "Flycatcher",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This item can be used as a minion\n&7upgrade. Prevents your minions from\n&7getting distracted by flies.\n&7Increases the speed of your minion\n&7by &a20%&7.\n\n&7&4☠ &cRequires &5Spider Slayer 6&c.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLYCATCHER_UPGRADE",
+    "material": "WEB",
+    "name": "Flycatcher",
+    "tier": "EPIC",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "spider"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLYCATCHER_UPGRADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 17
+        },
+        "4": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 17
+        },
+        "5": {
+          "itemId": "FLY_SWATTER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 17
+        },
+        "7": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 17
+        },
+        "8": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 17
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 17
+        }
+      }
+    }
+  ]
+}

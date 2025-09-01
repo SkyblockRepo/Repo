@@ -1,0 +1,29 @@
+{
+  "internalId": "UNKNOWN_ITEM",
+  "name": "Unknown Item",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UNKNOWN_ITEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzU3MzMxNiwKICAicHJvZmlsZUlkIiA6ICI4NDM2OTk1ZDhkZDM0NDVjYjk1ZGM2MDVjYWY3ZWIwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXR0eWNhdGtvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyZGZkYmM3NTM0M2MyNTYxMjEzMjdhNTUyZGY2YzM0NTc0YzNmNWM5MjAwZGIzZmQ1MjBlNDlhZDkzYWM1YTEiCiAgICB9CiAgfQp9",
+      "signature": "Tl47jMgWd1rbZ1oC1nef3Lex9uZb4xV/Fp0x9PBqaFiMK/IvPRfn+W1eEyRo42TTNR6BOMN4bjTZBmku6NbvnL50BaSm0yw9HB9rSgQrh/cbPoOPixc0dbM717uvZHYTLgauBM/WSNX0SWpJvF8XCBC9+cgnAZW9kGPCqcehcEmJGCtZFDvZQa7dFsRziP3KknYzY1iNqSpBzcZSsfW+pUqcX9M0FuSI8Df3nMMVEIEPO0/CT0Ghz9z/d1qgmPqM2AVyGxXAWzx4rezc4GYV1fv4H9l6K5gVONYQGb9XS7X7HOB+Z7c79jy7ZKqwIKA/WN1C7nQBNQrnXnIJBPhaGOO4q1QyF4UIDuJrUep/HmOrAVAPkEdgJx7xBNARflEp653twcpxyNZpWO93FZ+wO+5Ga5sBHEMkRbU/IGz+Rsl2uOxLooxENO1bXdhKSTSIm63lxzCNuzl8Q6qMSwi9Gg/ld4JG79t62bcScd7F6EIgoDznUSzPY2xGxsUI9Twt/+7183dI+Ip3/9ziim1LXV/fTfkcc2VhE7Dbov78wC908EiwT5u2hDzcOujKqqC523zsYlzqIFsajNKsulDhAi97xcWXdmIfslEvTYN1FX1HA6QUjYshp/aCej2Xy4xbp7MwPWEkYGJPfaYRWqZ20QpIMtcT9xsZNcAEeTQOiLs="
+    },
+    "name": "Unknown Item"
+  },
+  "recipes": []
+}

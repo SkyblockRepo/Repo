@@ -1,0 +1,72 @@
+{
+  "internalId": "DWARVEN_COMPACTOR",
+  "name": "Dwarven Super Compactor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7This item can be used as a minion\n&7upgrade.\n&7Automatically smelts materials\n&7produced by minions before\n&7compacting them into their enchanted\n&7form.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_COMPACTOR",
+    "material": "DROPPER",
+    "name": "Dwarven Super Compactor",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 100000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DWARVEN_COMPACTOR",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "AUTO_SMELTER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "SUPER_COMPACTOR_3000",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "internalId": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL",
+  "name": "Travel Scroll to the Smoldering Tomb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Requires &bMVP&c+ &7to consume!\n\n&7Island: &aCrimson Isle\n&7Teleport: &eSmoldering Tomb\n\n&7&4☠ &cRequires &5Blaze Slayer 4&c.\n&5&lEPIC TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to the Smoldering Tomb",
+    "category": "TRAVEL_SCROLL",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "blaze"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

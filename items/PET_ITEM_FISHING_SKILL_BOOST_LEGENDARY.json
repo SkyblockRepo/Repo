@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_FISHING_SKILL_BOOST_LEGENDARY",
+  "name": "Fishing Exp Boost",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_FISHING_SKILL_BOOST_LEGENDARY",
+    "material": "RAW_FISH",
+    "name": "Fishing Exp Boost",
+    "category": "PET_ITEM",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

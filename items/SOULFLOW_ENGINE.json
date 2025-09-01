@@ -1,0 +1,82 @@
+{
+  "internalId": "SOULFLOW_ENGINE",
+  "name": "Soulflow Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This item can be used as a minion\n&7upgrade.\n\n&7Placing it in a minion will reduce the\n&7minion's output by &c50%&7, but it will\n&7start generating &bSoulflow &7items.\n\n&7While equipped on a Voidling minion,\n&7output is increased by &53% &7per minion\n&7level.\n\n&7&4☠ &cRequires &5Enderman Slayer 5&c.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOULFLOW_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTkzNzE5MiwKICAicHJvZmlsZUlkIiA6ICIwMzY2OTMwNzgwY2U0NWMzYWM2OWRiOWZjODdmYzcxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpcm9uZGVzbyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjA0MzNmMWMyMjc5NjA4ZjdiZDJjZWNlYjk4Y2QxNzVjYmFhZGMzZjYyOTlhZTNjY2FlMjU3ZGMyMmE1NWIyIgogICAgfQogIH0KfQ==",
+      "signature": "nGN9JmQVz1VpEq4Glk0xu7eAzm29OVlvUAIBkTTAmlYzexgColmmU/CEPicUD5hJMvGbxgFdqDGguc1g5zZp9XwPgF3tqRZA6opdCN39OoQfap4v/SuEnplu22gh6WKA0eBTJwiuVzu5t1I9J04dxcj2k57J3oZGfKW7UWTGQjcstJQhGCpSghnk/Uro3LOM3962qmqFA92gBUZU1h2TsF81n341CvQPARSuxCZwlZ7IfMAE0LE06aRnRAdJ12bYCKf1kmoviXhfEG0KRu4+Mcy3HMjdTeKtBpotEYU1696pZ2xzUzUYWT77qp/UxT3KuLN8//qmF38Ae5Chw1BFuzP/s14Rg2PMLBOkXzZGxfwu/yQ4VDjDer07vVmzv1eLMdogR8s7K1PJEZfe+Bz20pY2tDFtsiUSx5lYMQqxoHG46ti1dwYri4NYZkMXhXpc+5yFyl7+9IS6EClWkPbcJUecofmrQU+phufvMMJxHLON9aLmb8CM8GI3Um0fVLzxcLz/JWsUMaLcef3F6AF0k78AYgjSA/CXD8KdRyxuRNC8xM17nhJlHnDibcy8NyPYudEjeVCJ0CJ77yUWtmj2Ke4Pr6XAV5INQxqEId/2W106fqbzEeG89zLnSkGPp2+YxbBRB4WkVAxXZ0kZcgEy4uNYBDH2Y43RjuTVnxslM1Q="
+    },
+    "name": "Soulflow Engine",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "enderman"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SOULFLOW_ENGINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_ATOM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "LESSER_SOULFLOW_ENGINE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "NULL_ATOM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LESSER_SOULFLOW_ENGINE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "NULL_OVOID",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "LESSER_SOULFLOW_ENGINE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 6
+        },
+        "8": {
+          "itemId": "LESSER_SOULFLOW_ENGINE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 6
+        }
+      }
+    }
+  ]
+}

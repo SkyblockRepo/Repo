@@ -1,0 +1,35 @@
+{
+  "internalId": "GREAT_SPOOK_ARTIFACT",
+  "name": "Great Spook Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Fear: &a+6\n\n&7&7Obtained during the &5Alchemist\n&5&7experiments!\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GREAT_SPOOK_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTY1MDI2OSwKICAicHJvZmlsZUlkIiA6ICIwMzdlNzQwNGMyMjk0OTIxOTdkZjBlZWJmYWIyNTNjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMX0FfWl9FX1JfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4OWNjMWVkZTc1NTcwOWRlYmI3ZDFmZTdhYjgxMjlhYzg5MDE3ODhkOGQ4NjEzYjAzZWFjMTU3YzIzY2M0OWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "DpoM/TsuxkScwXd1dt44+iOwe7EhfcQC+hBIeLvnNfzADtyY5l6LNGTDa79bN1p8qDCh+WbUlJPrGs4DRx4WUeg7Ag5am3+vffbI086qUZAogzcMzGLVac0il1Him1IoKrGB3cNG0WKPg3hng4u96v2mI6soMVct10EYd8IXBq2xIINFsSQZcwJ+e/xVVhref8TObVTdkDwEMSA4f+4Z3wi/f7IDsY7EGGGrwE/4JuWgo9lupkr5seC9elddhPLPvNi0PvHwjKUogVsRK+tRTiqKLq3rIDZH4udv59ZkwNnawksXGS8ld1i0oBk/4yrpMGkU/RKU02yNt16Nu24niZI8Ix65+9b1ULDU7d6csbqUK9jHX3tjatEjYatkQAaBxkf4WVTaEtatju4EUmy1+6100BFPTyUawLs2Z2bs6o/wUFzfGUBjQzMCZDPkE87tlIQNmuoRXm0da3jtDxqOqsHexULSHbrtU4+pJ+h+wdTX6gi41PifbxbZsD1gJ9Nd9UUsNiAQ/Kdasl77lRkBxlZD6+XS2M7vgyGQ2wXim9TCWL8NV1kzbT9HoyxNo1+1NkFACArIYM/WlGN4DMBC7u+pV8jIGPa9g2cDGRrObMXy+uiC3mThaKvqugDB4Odj/sFaAbQ66C9jyCxdFdb337s5EBXt3JOCIoVXLgZr6Q4="
+    },
+    "name": "Great Spook Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "museum": true,
+    "stats": {
+      "FEAR": 6
+    }
+  },
+  "recipes": []
+}

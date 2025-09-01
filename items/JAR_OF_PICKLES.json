@@ -1,0 +1,30 @@
+{
+  "internalId": "JAR_OF_PICKLES",
+  "name": "Jar of Pickles",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JAR_OF_PICKLES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU4OTQwNDgwNDA1OSwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODJmZDRhZmIzZDRjODFhYjg4NjNmY2I5NDA5ZDFiMmIzNWQxZjY2ODRmOWEyZjUxNWM0ZWFlOWYyZWUzZTJmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "IiKa35V1SYfmRcmNuy0yUt8+lhXM8CWPQix74wTnDp+dHUnEg68fMIb2pt7qVsS/2o2M6dSWLcgrfdU7cComit4mn9BKsKEXSo2wkGmA1t2UQsaOH257cKYMUW00NyZMm0nA1+u4NkEcPT+JLOuH3nNhzhO5p2IwwuyUtSC+BBzJVfcf3Fe4cDylsi5IE3ZyV2QPwek+T3WZIWIsY74Ond/lf4CLMN/g/o7QkADXrMQYl01szrmHh9D5atjnjfuHXHMVUfj/ZQTQhKb3ek4EXbDw4fo+AjyWEfB7CTsLNi3B7r+ouJiVEKd05ESZL3pWD6JoqKtqqpXQTNwuympJyWjSEAtmVu7x9vZ4/69TfQLMkL6rn73zL5mIeQF/qu9C1ylJX7JnDjzkatKXb3MTx1b3sW3SmcSX/YjDzP51RjWyxy4sCiH1BN8thuD/s6CIBhXdY20X4ive5RtACT0Vz7sf5wEuek196U3cpaZpzG0BHJFmLTSzy/vbuAYaJcOh+v32TgPIFqG9yPQg7WMowxAZnayd9/5qAsZOffDzEgKP8NwFrpeDtQcgLlLG0sy1B27JZW8bxA97tyU2UDwHOeRfuIOo3ASRXBJpeqWgYoPUvBVeJGGsPWiaBu/THigHpadkf4HJp2JDhD6qXFpGPNnpCIYirH0k76UrBRwyYwI="
+    },
+    "name": "Jar of Pickles",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

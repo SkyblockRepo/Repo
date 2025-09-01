@@ -1,0 +1,26 @@
+{
+  "internalId": "EMMETT_POINTER",
+  "name": "Emmett Pointer",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Lazer  &e&lRIGHT CLICK&r\n&7Point something.\n&8Cooldown: &a1s\n\n&7&8He's not a vampire, he's a scientist.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMMETT_POINTER",
+    "material": "BLAZE_ROD",
+    "name": "Emmett Pointer",
+    "tier": "UNCOMMON",
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

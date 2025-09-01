@@ -1,0 +1,44 @@
+{
+  "internalId": "DARK_AUCTION_PORTAL",
+  "name": "Portal to the Dark Auction",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &bSirius'\n&bShack&7 for you to use whenever you\n&7want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_AUCTION_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjMzMzIyNzk2OCwKICAicHJvZmlsZUlkIiA6ICIyZTZjZTU3MDUzMTE0ZmRiYjc1OWM4NTJkY2VlOWU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICI3T2ZDbHVicyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YWI4Mzg1OGViYzhlZTg1YzNlNTRhYjEzYWFiZmNjMWVmMmFkNDQ2ZDZhOTAwZTQ3MWMzZjMzYjc4OTA2YTViIgogICAgfQogIH0KfQ==",
+      "signature": "k3iO//R9n2y+zErakOdsWE2qwP+5L8GTf5JK2q3HD99fISvugsGZktxtqWuvi3LNQqBnf8yIhEQ4dg3pQsXZ5g1tpv9/umD7CRp3EuRX+58y8h+Ip7kWZRvoaCi40zWDRwv0vi+lE9A9d+NCoqC5p5dtwiVV47qRlIuEHl+Uwlr3ScZvgJ+4M56nxau8ZHQgx0maYBMyg8VdWfPgE8F09EPqgnO7u5WhjfeZGCSq19UGEYREFXuhEfuMkZ8uzy78ffbmQlNtTDF7hjU29VMLSG07wJr8MU/PpSPnoX685ssfATVcQjmwO4WqtBPwnYYtKgQExfMBByQZBtKpY0/2x7/m73Jl/tWBFz391Q9XlLVAYATGw7a2Q6OoCNBOQDUAenjiYbc3QOrhp4den5im9usIGiJ0Kg5r74tmf6EJpqX4D2P4Ri5AAgmghGOwTw3ZGFv7dVAImJUZ0UfTXhrM7F1+dtPUUz+iNcn1u3U12QLDx9FHfm5yuOjBFqRuTTG10l4BiLhCegY0StPt/GHAEIHikl1fdaiBXL4dcNj1TlkzeOix571GWvdPz5QwS/5DZ0RHCYzlPhR5s53/UPWCradz2DS2wg7JLDlt7a0J50YXd45koWhRpWOs9iDaulBZEbkIpb+0iashUu7CUe6sAW+1T5tFgm3YlK6LbJnZUFI="
+    },
+    "name": "Portal to the Dark Auction",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "NEW",
+        "holo_name": "Dark Auction Shack",
+        "location_tag": "sirius_shack",
+        "schematic_file": "sb_portal_hub_da",
+        "description_name": "Sirius' Shack",
+        "destination_mode": "hub",
+        "skill_requirement": {
+          "level": 5,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": []
+}

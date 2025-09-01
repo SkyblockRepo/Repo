@@ -1,0 +1,81 @@
+{
+  "internalId": "GLACITE_CHISEL",
+  "name": "Glacite-Plated Chisel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7 &8[&7❥&8] &8[&7❥&8]\n\n&7Can be placed in the &6Fossil\n&6Excavator &7alongside a &9Suspicious\n&9Scrap &7to begin the excavation\n&7process!\n\n&7Charges: &e20\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 9&c.\n&5&lEPIC CHISEL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLACITE_CHISEL",
+    "material": "ARMOR_STAND",
+    "name": "Glacite-Plated Chisel",
+    "category": "CHISEL",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 1000,
+    "gemstone_slots": [
+      {
+        "slot_type": "CHISEL",
+        "costs": []
+      },
+      {
+        "slot_type": "CHISEL",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 9
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {
+        "GLACITE_CHISEL": "PERFECT_CHISEL"
+      },
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "item_specific": {
+      "chisel_charges": 20
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLACITE_CHISEL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REINFORCED_CHISEL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GLACITE_AMALGAMATION",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "MITHRIL_PLATE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BEJEWELED_HANDLE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

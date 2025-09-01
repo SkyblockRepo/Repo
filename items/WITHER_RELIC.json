@@ -1,0 +1,78 @@
+{
+  "internalId": "WITHER_RELIC",
+  "name": "Wither Relic",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Reduces the damage taken from\n&7&7Withers by &a25%&7.\n\n&6&lLEGENDARY DUNGEON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WITHER_RELIC",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTQ4MTEzMywKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3YjhlZjdlOGUwYWYxOTM5OWNjMzI0ODVmMmVlNDdiMmJiNGQ1ODAyYzcxYjMwMjFmNGQ1ZDZiNWYzYWZlMDMiCiAgICB9CiAgfQp9",
+      "signature": "oAN2Nc1W22pVWv+H6lZj+lS84r3hgtiQ6tv3s7vASeqiyMKqLASRY5LRYP53rgOsmJyDC8iICJ99q8oUXKT3+LYjDvAAjGLhKRQcJ37sfji+MZTIIzIwXx/rMoXelzXhgH8FBjxuAyKzpnmQ0RUNKayeXLzkAZrB8+kvDzvVjuBYdGXrZzZZtG9xSxdmi/M13oDLkgppCcCjt10QcYGkeOhxxmahKbqvrj24bIQIjgUX30bGt2tdBRMHYkNW9/dV9fZ5h5Z7ABshvl2DbiRNv02+qfr79VerWt9+OaFVm+od4r6rOoyCdvrAPlI9QQ5tAoYuslADy9t2+/RV9ghGnXSCOPNNUXhpF2Arlq/bCFWGuqGYDiBUZnX9NqJGzcLPLw7DiFQDXfHt8wTMEMcEDCDriXIyaZgtcXdBZLrWMcji7ChRBqkUxuSOYsZkmgvLYWBx6syYxBmVg8WIvZ240bQprU5Qo7UR5bg9O3bfm9fE9Ktcwyr/n1FnPeT7JYvva6usJaIAX7i0cOenJFGVi4+vaO3KcRpc35QhWBjc0CCy998jRmAfTD9aZHcvHJR10ZujBR2D1XFuCoj939/HQxWB1kNX9LkJWluN20lP1/YmmVXtrYX9YldA+T9JpVenyDjV8PewnGcqtaEPcugDPf9dzZGfjNvSV/uZp8oNA7A="
+    },
+    "name": "Wither Relic",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000,
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WITHER_RELIC",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "WITHER_ARTIFACT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "WITHER_CATALYST",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

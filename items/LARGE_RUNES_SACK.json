@@ -1,0 +1,31 @@
+{
+  "internalId": "LARGE_RUNES_SACK",
+  "name": "Large Runes Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_RUNES_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDkwNjYxMSwKICAicHJvZmlsZUlkIiA6ICI1ODc5MjNlNDkxMzM0ZDMzYWE4ZjQ3ZWJkZTljOTc3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGV2ZW5mb3VyMTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTUwOTAwMmNmMWNiYTM2MTE5YjI2Y2ZhMjUyM2QxNDY5M2E4ZTU2YWY3NTYzM2Y0YzIxY2JmN2Y1YWQ4NzE2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "llF7+zbG51g8tdsd0l3Qo3cWet9h7ZH71MZ6xUio2STPcXJtgsfvTaGAtE68uzafN9E2H7vis6zxTCKR+BodU1lt63aFe+6hbr1r+vnjqKOm6f+FdxRtphNOmabBNWS6GPP7lsKN4KJLJWM+X4V8R/Cp+FAoY4Qb2P/TQ/PRaKnun/3wJeOYA1rnUg+uHqT0VfAlilndVfJjf8eFCrk/LUZygufYfzN4Nv1WC88QPvDAfW80Zj+ExJYANxXKs9h8i374E4mxDHdgnb/RyI971NjKmHjYkQ7raJwjh7UpbGuyfU4gpIdu1OvchUn6ZirmB93zvCGODka28RPCBK6lJloqNTuU9fKl5gcYweZIKd1MnUsCoPo+ZD9VJm/xDPPrIQZv3wN107pzJb2KhPRziKnJ54wFMoXODlY8CORYJXl50KOZVMOlIRclEGrbLQFMOL0XCu4pOq00AoFM91JB0ZPhDkCRSBvKH8bkfzn6ZLCbZc7GJRNT32v00I4/E0B1SltbOTZksvRh9b++05yMVuHx8NxcRVIgIr4YO4eDp5uxA7/GGTqf/Lqb/oFbEdHiDUsmK7z7INzC3lrEXpgk0tEwdx5AF9Ipen6ahjmpvj1tkPClNyfJ/bc+pR1zAUmJXbQhlaSC051HbfFq70NA/hUxG0R1qJMHYvBCF9t6wPs="
+    },
+    "name": "Large Runes Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

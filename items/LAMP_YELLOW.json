@@ -1,0 +1,30 @@
+{
+  "internalId": "LAMP_YELLOW",
+  "name": "Yellow Lamp",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Decorate your island with this\n&7eco-friendly lamp!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAMP_YELLOW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTczMzkzMjE0MjUsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0MjUwZjFiNzNjNzk5N2MzYWFjMzdkMTEyYTkyMTYyMjQ2YTZhNmM5M2YyNDVkNzZkN2E1NGIzNWNkZDExNmEifX19",
+      "signature": "bjG+CMviNqMzSoKt7MXXQBM98/l0qbFuptZ/zeJ0uKHIY+ifMsnwOjWPnbyznypZkgHPrwYLOniw+hhoZfheBQcQrvVlCtKhwx3P5glfWzBpemBbIRAS/Ri811pFSsoWz1oTbm2kRsf87hRZPYRfwg9G3qAidrL17UBUzym3/rARWvF+CxUfnD6lJxBLkHathOE5l/DF+CHKkdRbpreXLjWA3AQFK24lVI2QhLe56ZhVdyUoZJ0Xmu1JCiGcEmyBbExhhPsHOqcbkRD67mCC2ZXt8esfIBQybhjz1a8WnppgNA6b0NJKPqENzKST+CTtV8D8MvnqXXGlqh9dJ0lpKlikF6XmzxtArNhdNEf/b9tEvfCZT3vujeM1aHTb6qjluRpt374OUYb/3ANS3Yr6mlDexAMBL2skaNIYcwBwA7eVcTn6AklUBjf0dKEV2c4CUUnH5lzFsJPO7AccEij8WLRs6XFRdQAEOF03Wor8FCiLj9Vyms84NE34bcuWNDJMXV7+pbENFb4G2LxvZqx9juvg8OvI+CUVJbqHB40NfHJeZeGbWejRAQtf+6emvoaCTEgTF9Gn4MSFT/fNqVzcwv4ddy5M3wEJzVzU0LeCg/eecyWmOqIsF/73rzOKG41uRTMycBrq5lbG+J634+RB4GmS4opCdrj8Jm9MIZoKcZQ="
+    },
+    "name": "Yellow Lamp",
+    "npc_sell_price": 500
+  },
+  "recipes": []
+}

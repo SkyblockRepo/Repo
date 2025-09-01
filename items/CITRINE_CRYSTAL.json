@@ -1,0 +1,31 @@
+{
+  "internalId": "CITRINE_CRYSTAL",
+  "name": "Citrine Crystal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Extraordinary crystal found deep in\n&7the &bGlacite Mineshafts&7.\n\n&7&7Some say that it can be infused with\n&7&dgemstones&7, and holds the secrets to\n&7a time long past&7.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CITRINE_CRYSTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDExNTgzMzMzNiwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OGRiNzFlM2FjODk0ZDE2NzhiN2UxMzcyOGIyMjNkNWRjYjkzMjQyZTQxMzQ3MjA2MjFjYTZmODkxYTRlNmYiCiAgICB9CiAgfQp9",
+      "signature": "iUFhWWsaRcLCxmgwJL3fvRPhOEtYrQwuxclHijymwQA0cJ9DquaYDRvjYW2Vo/GEQ85R2JIu7AGguQeY1TswD30mo3RtxRXnK+8jeDv08KU8zsGWjb79LN8Mv/xAHsSWzx6kFimJ73kH5WvkQ5zqQtcRdHqSTw6DrWO6dSUZ2adJ17tTyt376uaqlnvhB/5yoLbkix5nUDOOY/k5AwUyV5LB5gMnXcW/a1Ux4k6JxgozVWOUjHuDGWaE0e3NufN5s50ZnZXqDx98vtJAe3olsFb2rED90TqsVb1rGA+4rPv0LTxQA3sHWPPLLrmBThKuiWOTUO6apM8ToZXhtp8cMvMD0Cq+pTY4AmQlBnZZwWRYeO/q3F9qm6gEBfcdPzrc/8ZKuM8UpouZCIg/guM+UzQK2i3lgSs3mIrcFUfxfm/YxpQmN8SC47QGI0OrNEsCMyEwsSJgfEdDl93tY6WGZ/m06ozu5NRiXPiwnIu9SfbMgGVWwghZUxbg2zNNAc/a9364enRNxFS1xTPRNLK5IObC76dC8saFQ75+f0QOBILxU5oftebNEMg2QFAg9qT+wbJ7igtmUs5HGfKTTUhkz6GVMS2OE3vDDRnc5QZVtiWNeG06A5wIxCEbYR2aW20khaJDmfJVGCJiRUHZga2m9n1nftgYPH6z8V9907EmqW0="
+    },
+    "name": "Citrine Crystal",
+    "tier": "SPECIAL",
+    "museum": true
+  },
+  "recipes": []
+}

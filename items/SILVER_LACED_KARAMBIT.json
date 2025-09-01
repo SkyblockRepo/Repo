@@ -1,0 +1,64 @@
+{
+  "internalId": "SILVER_LACED_KARAMBIT",
+  "name": "Silver-Laced Karambit",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+5\n&7Speed: &a+10\n\n&7Gain &5+3❁ Rift Damage &7against\n&7&4Vampires&7.\n\n&7Regens &b5 Mana &7and &c0.5❤ &7on hit.\n\n&7&4☠ &cRequires &5Vampire Slayer 1&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILVER_LACED_KARAMBIT",
+    "material": "IRON_SWORD",
+    "name": "Silver-Laced Karambit",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 1,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "stats": {
+      "rift_damage": 5,
+      "rift_walk_speed": 10
+    },
+    "item_specific": {
+      "mana_refund": 5,
+      "bonus_rift_damage_vs_vampire": 3
+    },
+    "origin": "RIFT",
+    "sword_type": "KARAMBIT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SILVER_LACED_KARAMBIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SILVER_FANG",
+          "quantity": 12
+        },
+        "5": {
+          "itemId": "SELF_RECURSIVE_PICKAXE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 12
+        }
+      }
+    }
+  ]
+}

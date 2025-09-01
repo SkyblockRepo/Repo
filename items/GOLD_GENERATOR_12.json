@@ -1,0 +1,32 @@
+{
+  "internalId": "GOLD_GENERATOR_12",
+  "name": "Gold Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining gold ore!\n&7Requires an open area to place gold\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a9s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDY1NjU1NTQxMCwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2YzM5Y2UxYjk1NzRiZmJiNWM2YTZhMjY4NGQyNjJlNjJhMTVmMTJkMjM1Mjc2ZTRmZmZjMWFiNGNkYzg1YjMiCiAgICB9CiAgfQp9",
+      "signature": "s9UDxgeTh5u29oz32EivJC3NI9RNLgUJUchZYtGvlPEOB2tPz8FfkGq9rMbam2Pp4S6MDzAUYRHiN5NQO2EiJWsBzbr4ERWlm5GaYk2M6z+kWC3kQH7SsU3OG8M5At+mJMmT0HaGa6XhZomJcYZLH6l3JaHGcdP/P4FWsvmqdywmzhflnBe7EiB1KuDE+7xdVq7OUUgg+tNBz1uXhzydiKiz3dasJvko0Dqt/TGMPj+PWXbCFn77FO0adRLOCT8E79q6fphzV3BkmqRKyQm3KlrWk8q2PT8jJPK2Y3vmfcJRjm4hDjH9NaU5z0QvXhu5xc37SpfWX/dJtaspuUMKPbM/DDiGV1jtkjl8wWdbInVmanKP7bTJADf/Ta0HKnEiyQXrbJegcFX8eKDrSv4TkAawAvxktGZAjIdQqwEaVPpdFnBMGYGmmbdrfoHlr11WprbPCrT0lsDd3bb5RLmJju6Wo+O9Y21p89jccBrDD0hCy22Ihubi7lX35an9sWYisf0F8eXUD2lWOgVfdNkFuSmwW9yjX0gpBELDAP+yVAY6YP+sDgHHXhsGrQJ9j12qEMVrjHYxTxQl3LZGs8TxWSTtJW9KRJX0KH/JRzr+Bp8dHXIwTZyYG6tx7e0dM6iWawwk0fao66CoMSVrnyibm6+j9fyzyRKv8U3XOOCCnq0="
+    },
+    "name": "Gold Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "GOLD"
+  },
+  "recipes": []
+}

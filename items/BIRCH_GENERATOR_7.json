@@ -1,0 +1,77 @@
+{
+  "internalId": "BIRCH_GENERATOR_7",
+  "name": "Birch Minion VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping birch logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a38s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIRCH_GENERATOR_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzAwODM5NDYsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI5Mjg2M2NlMjhhZjczMTllNzE4MWJlODViZTU1YzQzYmUyMWQzZWZiYTc4OWY0NzY4Y2ZmYWVmZDQ4ODIwNmYifX19",
+      "signature": "JS6nxOVto3ZLTZEw5pEbjPld6s81HxhjE1C3bfd1Jsc6ftyTQw4FvQTVU7SM2nROeqzHKDpA3v2zsGYJE6tNtwfqYmq2hZ7GeKu54LZpezAWG/vzV+GF+mRH7GP4qUW4b3uBBepx8n6FKoKeWFvNzuHxN5/oaeLcE8CXEXrFunALkb5gjaLqV1o2J1DxJypBlFdjdFix99cdPQ6b+UkUDEyez7HktiNMOXlIhHbHv2dUZjqOSA/42wBvktObj+XfvECEE/93YjD2bHEqWxmooECN1Ou/ElcGbvxUE2AcRl2XAf75+Si2phQmRUNXf0QdJlSWW4kKkrg7MMgVBe5cFdNJEsUPuzAksSWHZW7XHViSaur2XLjVdePIIopNP3244c2PE9mpyufagBmITXAuXI7OX7IMXaBxkB4t5KXzPRw63FAe6JkTqYfvpnxGCPUKmT9U5GVn/qSXtNu1CmOs+E+2rQKoQ4nptG3HeodGDL5WlIxLhd3SV0LMwOQ+AFcvRzB9e56m/TCKgx+JNC1MDRmvHFKehx8OnUbaBC397hIXvwE9junvfnzuo1oAdZPOFdVG5qMhFTVpqXDVYqly3bJiJmwMbW4Xqwr0frAB8PJMyGt+NuOm6nKzKw8ms0VuapS4jCFQyY79wx/iidgVvBigN5KqWTnf7zR6Tx5jzD8="
+    },
+    "name": "Birch Minion VII",
+    "tier": "RARE",
+    "generator_tier": 7,
+    "generator": "BIRCH"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BIRCH_GENERATOR_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "BIRCH_GENERATOR_6",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

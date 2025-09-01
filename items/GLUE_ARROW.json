@@ -1,0 +1,47 @@
+{
+  "internalId": "GLUE_ARROW",
+  "name": "Glue Arrow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+15\n\n&6Passive: Stuck in goo\n&7Prevents victims from walking for\n&7&21.5s &7when hit.\n&86s cooldown per victim\n\n&7&4❣ &cRequires &aCombat Skill 24&c.\n&7&4☠ &cRequires &5Spider Slayer 3&c.\n&7&4❣ &cRequires &cTarget Practice III&c.\n&8Stats added when shot!\n&9&lRARE ARROW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLUE_ARROW",
+    "material": "ARROW",
+    "name": "Glue Arrow",
+    "category": "ARROW",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 24
+      },
+      {
+        "type": "SLAYER",
+        "level": 3,
+        "slayer_boss_type": "spider"
+      },
+      {
+        "type": "TARGET_PRACTICE",
+        "mode": "III"
+      }
+    ],
+    "stats": {
+      "DAMAGE": 15
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "SOUL_SAND",
+  "name": "Soul Sand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOUL_SAND",
+    "material": "SOUL_SAND",
+    "name": "Soul Sand",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

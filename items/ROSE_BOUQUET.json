@@ -1,0 +1,27 @@
+{
+  "internalId": "ROSE_BOUQUET",
+  "name": "§cRose Bouquet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&7Bring it to &eJuliette &7in &aThe Park&7.\n\n&7&7''A hastily-made bouquet consisting of''\n&7''Marco's finest roses.''\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROSE_BOUQUET",
+    "material": "DOUBLE_PLANT",
+    "durability": 4,
+    "name": "§cRose Bouquet",
+    "soulbound": "COOP",
+    "description": "%%dark_gray%%%%italic%%A hastily-made bouquet consisting of Marco's finest roses."
+  },
+  "recipes": []
+}

@@ -1,0 +1,73 @@
+{
+  "internalId": "LUSHLILAC_BONBON",
+  "name": "Lushlilac Bonbon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 26,
+  "lore": "&7&8Hunting Tool\n\n&7Grants you a &a+0.625% &7chance to\n&7charm the mobs you defeat and\n&7capture their &9Shards&7.\n&7Duration: &612h\n\n&eLeft-click to consume!\n\n&a&lUNCOMMON SALT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LUSHLILAC_BONBON",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjIxNDI4OCwKICAicHJvZmlsZUlkIiA6ICJiMzMwZWE4OWE3MTY0OWZjYTMwZmI5ZjU5MTQ5ZjNjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bmtub3duYWJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3ZTVkNzRhZTY3MjE5MmEwYmFkMWIxYWMwYzVkMDUzMmU4OGZmOTAyMmY5YTQxNjVlMmI3OWNkYTcyNzlkY2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "kEb9HjEkQi9PWcpUzsxma9hRdJJLvTLEueFYMCTAY6i09BGZ3KpNe0lb1tcACng8nVDzTos0byHEgZ3t0jsmmKZoDUbXi2WTeH9wBHiqT5acqLW10aRuA/EdWx6oGSk4L9lOserYtJtQtDSWML/wVnACbwyMzXPcC+C7A1fvA+o1ITR0GHrqR4CfOLyjqp2wbNGbhnEjuWVoGdv4/5WzNQbPzfNGA2WJWZuEc0mgGJLeC0VwvVe3xBS7/y8h/PqgD1zpUuWW2eDAi/ddUB1n7Z/S1QhDaDyW1A9D13LHNs5YUOAFlzNZtrdUrzcOFjm2llF23/0J3CpL6ZVzRMm4eat1J8h/yoevyH2BhXKPvOduv69JzGAoZs+zgXL7QP252MXWhdXYuDbEGUheSu5yaZRaJpsB34+qJEwyXy+gjzQf1Xq1S7+2SDPL95YtJImM046ErnxvC/Rvdx3QHfr2WSSk6CiZyixK8Eccz5RCqJIWU0hicwpVw9He6VjDLjccUulCGLXYAUqOOsP4BDZIhDN4NTjr5H7na3+igQKoKOuaF3qQb4KQMAfYSsNe9JwlelbWpJKTeN85g4DlJo/B6Ox0WRvSfaIfst9J/Lq6yiRj25l3vQ4zSh81MPbpjCTAphvJjL0S/WIkou0vnXufDHj6JWxammKIwgycJ3rgQYo="
+    },
+    "name": "Lushlilac Bonbon",
+    "category": "SALT",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 26
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LUSHLILAC_BONBON",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

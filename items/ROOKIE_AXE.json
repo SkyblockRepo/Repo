@@ -1,0 +1,39 @@
+{
+  "internalId": "ROOKIE_AXE",
+  "name": "Rookie Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&7Damage: &c+20\n\n&9Efficiency I\n&7Increases how quickly your tool\n&7breaks blocks.\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROOKIE_AXE",
+    "material": "STONE_AXE",
+    "name": "Rookie Axe",
+    "category": "AXE",
+    "npc_sell_price": 6,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DAMAGE": 20
+    },
+    "enchantments": {
+      "efficiency": 1
+    }
+  },
+  "recipes": []
+}

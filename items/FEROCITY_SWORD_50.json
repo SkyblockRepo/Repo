@@ -1,0 +1,30 @@
+{
+  "internalId": "FEROCITY_SWORD_50",
+  "name": "Ferocity Sword 50",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+10\n&7Ferocity: &a+50\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FEROCITY_SWORD_50",
+    "material": "GOLD_SWORD",
+    "name": "Ferocity Sword 50",
+    "category": "SWORD",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "DAMAGE": 10,
+      "FEROCITY": 50
+    }
+  },
+  "recipes": []
+}

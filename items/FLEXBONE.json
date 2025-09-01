@@ -1,0 +1,26 @@
+{
+  "internalId": "FLEXBONE",
+  "name": "Flexbone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8''These softened bones have''\n&8''absorbed moss over time, offering a''\n&8''flexible material.''\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLEXBONE",
+    "material": "BONE",
+    "name": "Flexbone",
+    "tier": "UNCOMMON",
+    "description": "%%dark_gray%%%%italic%%These softened bones have absorbed moss over time, offering a flexible material."
+  },
+  "recipes": []
+}

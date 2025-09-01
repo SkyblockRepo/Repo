@@ -1,0 +1,25 @@
+{
+  "internalId": "MOSSY_COBBLESTONE",
+  "name": "Moss Stone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MOSSY_COBBLESTONE",
+    "material": "MOSSY_COBBLESTONE",
+    "name": "Moss Stone",
+    "npc_sell_price": 6
+  },
+  "recipes": []
+}

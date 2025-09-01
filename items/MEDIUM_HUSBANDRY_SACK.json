@@ -1,0 +1,76 @@
+{
+  "internalId": "MEDIUM_HUSBANDRY_SACK",
+  "name": "Medium Husbandry Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aEgg&7, &aFeather&7, &aLeather&7, &aMutton&7, &aRabbit Hide&7,\n&7&aRabbit's Foot&7, &aRaw Beef&7, &aRaw Chicken&7, &aRaw Porkchop&7, &aRaw\n&aRabbit&7, &aWhite Wool\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_HUSBANDRY_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTI1MzE3MiwKICAicHJvZmlsZUlkIiA6ICJlMjc5NjliODYyNWY0NDg1YjkyNmM5NTBhMDljMWMwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLRVZJTktFTE9LRSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjIzZWU3OTgzYTVlMWNhMjYwNzdhMGE1MDNiMjUxZGRlMDhiNzI5MzJmYWQ0Y2ZlMmYyMGVmYjE4MWEzYjJlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "QNyW4WMfLk+agpIb/9TiuXhvoDlYZu1L6kWJ5whUyu2nTstexJEp/+uP3HdIuB7JRG40mZIzYNPRPz0GC2yMJFGggFbwuG837XeWjul3JakMU6Z7Fud03nwiHZS6vrHQ/0iyAKd3r0hmWkGNzwuBpL3bXvrmswhtfB8+bBYlGK9vRvPdEWMpblLltD3VuiEKtDAyYsUAx1Pq1avcSY95ChptNhxKzcjs2qEOe8wiQdEh5UbshjbyNjuWEFibhL7MfNrTF/ivv1ZtqpPIsFk/VPaQUR3/HPyynG8UcrEPELdagbZ337vr0zoR8ZTL1WJSRiu3ymhWfc9/IsAT8H86METW5p2n55hE8QcRSBQnErNaWtD8wtV6bNG25xBTz8RnBJnW7NsIvgTgGO9IINWaOhVwms+sgoeOlt0ld44DotmglzDNk3wKVsoCS/ufh70Zr638qKcWuEoEzAMAt0S1TeCqb7FPlVo92Mc63bCJdBaW80hj7ITn6bxdVnH63cbslGi6UoO16J0rBsUR9EUzVeQ/AxPeIXiAn4Rfe66H9/uNJap53X7a5BpdsRFUbF2W459zZEKQP+VQUsU/0KxV8nV88TVNVAiqAEoqJ60Ik4Fs63/aUBpLdDvYacA9PsFquDguRthHs0sjw28fHldteMtbV30ORmDTqCOW/joIVAs="
+    },
+    "name": "Medium Husbandry Sack",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_HUSBANDRY_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "SMALL_HUSBANDRY_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

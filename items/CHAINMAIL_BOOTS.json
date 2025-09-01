@@ -1,0 +1,30 @@
+{
+  "internalId": "CHAINMAIL_BOOTS",
+  "name": "Chainmail Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&7Defense: &a+7\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHAINMAIL_BOOTS",
+    "material": "CHAINMAIL_BOOTS",
+    "name": "Chainmail Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 6,
+    "stats": {
+      "DEFENSE": 7
+    }
+  },
+  "recipes": []
+}

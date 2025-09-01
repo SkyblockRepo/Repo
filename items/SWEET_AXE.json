@@ -1,0 +1,37 @@
+{
+  "internalId": "SWEET_AXE",
+  "name": "Sweet Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25,
+  "lore": "&7Damage: &c+25\n\n&7&a20% &7chance of dropping an Apple\n&7when chopping logs.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SWEET_AXE",
+    "material": "IRON_AXE",
+    "name": "Sweet Axe",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 25,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DAMAGE": 25
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "EXPERIMENT_THE_FISH",
+  "name": "Experiment the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Fish me once, shame on you. Fish me\n&7twice, shame on me.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXPERIMENT_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 3,
+    "name": "Experiment the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

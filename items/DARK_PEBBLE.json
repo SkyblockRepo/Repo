@@ -1,0 +1,27 @@
+{
+  "internalId": "DARK_PEBBLE",
+  "name": "Dark Pebble",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&5X&5 Rift-Transferable X\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_PEBBLE",
+    "material": "FLINT",
+    "name": "Dark Pebble",
+    "museum": true,
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

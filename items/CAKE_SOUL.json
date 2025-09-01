@@ -1,0 +1,28 @@
+{
+  "internalId": "CAKE_SOUL",
+  "name": "Cake Soul",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7What does it all mean???\n\n&d&lMYTHIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CAKE_SOUL",
+    "material": "INK_SACK",
+    "durability": 9,
+    "name": "Cake Soul",
+    "tier": "MYTHIC",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

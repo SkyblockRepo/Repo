@@ -1,0 +1,67 @@
+{
+  "internalId": "VINERIP_LASSO",
+  "name": "Vinerip Lasso",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&6Ability: Throw  &e&lRIGHT CLICK&r\n&7Throw the Lasso at &2Forest\n&2&7creatures and hold them still until\n&7they lose all their &9stamina&7.\n\n&6Ability: Reel In  &e&lRIGHT CLICK&r\n&7Reel in creatures caught by the\n&7Lasso each time their &9stamina\n&9&7depletes.\n\n&7Creatures lose stamina &220% &7faster.\n\n&a&lUNCOMMON LASSO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VINERIP_LASSO",
+    "material": "LEASH",
+    "name": "Vinerip Lasso",
+    "category": "LASSO",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "VINERIP_LASSO": "ENTANGLER_LASSO"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "can_interact": false,
+    "can_interact_right_click": false
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VINERIP_LASSO",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "VINESAP",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "VINESAP",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ABYSMAL_LASSO",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "VINESAP",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

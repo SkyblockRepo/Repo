@@ -1,0 +1,38 @@
+{
+  "internalId": "PARTY_GIFT",
+  "name": "Party Gift",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Click a stranger while holding to gift!\n&7Both players get the rewards!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARTY_GIFT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUxMDY0MCwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhhYTJmOWJmZmQ4ODUzNjQ2YzEzNzVkM2RlNzFiODE4N2JkNDI2MzMyZDlmOWQ3MTIyMTZmN2U5MmE5MzBkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "v0kBy6g3dK+TYA2B7VobrOGaE4GMUXD2SQemaVMam5CSqiYf83UnbmfHhLdONsqd4EMF5aFX1xE5Er7VVoA5YBZt02e3BHGPUkjQsb/7vdmQ3yy0gk1PuFYchILeYbWwi8m1NYsLVsCKeFTm7/8MuWweZkJCEjBjiySKt/n7++2r4D2r86/jdhgZTUza5FtdubI7cqls2iY9jRTBDkzXEmeiQAQCimi6dcyN78eEyCR8V26tTahep0PytxB35JLWHbkYoq0TRMWUP9rH6OkVtu53DhyIV3mpJAyzsZ1OnxJyk8caZO8Yhsh+8oRLNGcpEhkYbrPZeEGlx7xBhZxutN23RDNIvswcCS0bBj460rpjLUDbUtPI5uw9dQ8jnNRUtQLVIrFhDKkkKGUmy8DLV9eCDeRR3/MxtOafARmRiom0g5tJV2+oHMK5iIF1C3lQ6Tab2inQAWpTnHeI28cKjhNA0XpYgALvDDhIyaGYBYyjN97lw1qRq+ezsqPy4Srlp79bONL8Ua0VaOgkVlOCX12d7q+OZBsmrkUynW1HqHLznHJLZMSQEf26PewO60DjjaUot39klx9jy2imJBu9YGDxik4J4/Pwyv04J/Csu9UECoFdh7Fovp/dnawJ1APdyB1fX1GdC2Tm/FjumlgsGjuafVVmjZoKDVytosIWOKI="
+    },
+    "name": "Party Gift",
+    "tier": "UNCOMMON",
+    "item_specific": {
+      "particle_color": {
+        "red": 255,
+        "blue": 0,
+        "green": 255
+      }
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "EPOCH_CAKE_AQUA",
+  "name": "Barry Century Cake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7Furniture can be placed on your\n&7world. Some furniture is interactable\n&7while some are purely cosmetic.\n\n&7Invite your friends to share a slice\n&7of cake! Eating this cake grants &b+5✎\n&bIntelligence &7for 48 hours.\n\n&7Obtained in &fYear 100&7.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EPOCH_CAKE_AQUA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQ1NjgzMDYzNiwKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlZmYwOTA0ZDVlYzY5MWRkOGUzOGQxZjYzZDM4YmVmMDQ5MjAxM2VjZTkzZDMyYWY5MGRjMDMyMDExNmM1OTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "HfXoKIBputdWnFSG5ZigvtVFNaWqlaFMvx8I3yjfAcFMMQ1kb/TaPeN3O5DfbmJGoH2pecTC6WnI9Hb2TEzeccd3OZqZTeSORmmM/ZMBW4LcyXknJ3uLON+a5zo1M6cf4/1x6f4R75wbZ44Bn+RSRGVJnXGAMErg5TW2ViYREdSaLCvMPnIaAzr8LMajatJkoGqYrqLFE2cTSVl/CXLXvo7HxAF+NweCeux0+zmbpHaHQT8REg4jtdV4UXHm/UmeRgRVhnDkVE9zhd3c1/vR8h9vdjrMjeJrOfcQd4bNTgKY08Jk9KRK1i/7dsn9u8ETcNHjAunOvpMZ33v/fZvKF2M56IobuWn0a1CTqmXi41TLAmmEzNsP2VnJG6bE1TB2YX1SKJlnlHynlL5BIqTGU9LSkrpulk39qOL5Q+pWRu1/D1G6vwc0cQy+8o+npf4ScWGBx5iReY1dEzYvFwSIAprRk9bNH+Qa11ArSliGV64EwjU4iCtXOUVRg65R7cVIiAe3l4zGv3w46jGDbozQtnzRf0YkQaR3BFQZ4pENsSLlgQi842X11PqfhmBO+90Pyj12K2fTrUbg1ARIxcCjSikfr2d5g+7XHhM2Hkc+nYElLHbeIDBfCr2v8k7qAYs7Lsh//LoC8fOAoa9kHJn4zYizYECNUXInHZQIHVI5jYk="
+    },
+    "name": "Barry Century Cake",
+    "tier": "UNCOMMON",
+    "museum": true,
+    "furniture": "EPOCH_CAKE_AQUA"
+  },
+  "recipes": []
+}

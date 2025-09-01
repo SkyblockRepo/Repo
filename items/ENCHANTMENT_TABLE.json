@@ -1,0 +1,25 @@
+{
+  "internalId": "ENCHANTMENT_TABLE",
+  "name": "Enchantment Table",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 40,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTMENT_TABLE",
+    "material": "ENCHANTMENT_TABLE",
+    "name": "Enchantment Table",
+    "npc_sell_price": 40
+  },
+  "recipes": []
+}

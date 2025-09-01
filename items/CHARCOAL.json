@@ -1,0 +1,27 @@
+{
+  "internalId": "CHARCOAL",
+  "name": "Charcoal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Increases the speed of\n&7your minion by &a5%&7 for 30\n&7minutes&7!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHARCOAL",
+    "material": "COAL",
+    "durability": 1,
+    "name": "Charcoal",
+    "npc_sell_price": 1,
+    "can_burn_in_furnace": true
+  },
+  "recipes": []
+}

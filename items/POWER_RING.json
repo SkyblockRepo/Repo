@@ -1,0 +1,95 @@
+{
+  "internalId": "POWER_RING",
+  "name": "Ring of Power",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&7❤&8] &8[&7❈&8] &8[&7☘&8] &8[&7⸕&8]\n\n&7Allows you to harness the power of\n&7&a4&7 Gemstones, although only half of\n&7the normal power can be harnessed!\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POWER_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTc1MjYyNDcxNywKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUyOGZlNWRiZTAyZTFkOGQxMjE4NmUyYWY5OGJlMTMzNGNhN2Q1OTZiNzAyMWVmN2Y5NzhjNzA4OGIyMzVmYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "vbnODZPxHO6jtxxhhC8zQnvUxDKmJOBwdvUPsBLYe2GsHHoHwlXUJm0RfqArHn/SX9sYNk5975O/yRxZ+25qWqrrJ3i/cRfNzBmeIqLKVmvrw7EDGB8m9r9uewDEYBZwLIiCmVyILzorOXDZKp2795xOz+Tj6aHfi3hk4z5vqBDmbaHQ5hkxp0Ly3j+dtcwrOXCyBRxCSp6m0GD0AnopGSxkh+cwqgsgQ8cNDWHLL5nMGN4kvSt25vsgWK3CW5vzl/88PoPfHdbn7DN+DQDNfrPXWZRavVqa4hVw7fbxtPk2DCsNFoWb3aM3veDEE7F0IH+IJ6pwRdB8+y/FjaheTQzcyZ9RytwvX6j9g7TYGcoT6UEkEmpKkcT50oNKg/tCyL/8IgpIon2hh0ln4ofRHfFui7VbQZ4Sk0Ma+5lNOP2r4OnN8etxt74iDHvwQjgQkIOjgPzOknTpcBGYkjxPE9EkhiDOT5j73DlSeShwrgdgyx9x6wqg/J0f/EY0CWmpIlFBM4rqtYKUDQeyiaN2vtw6RxQUn2DfKMhFlX4uUXrOT8jXG2Lq5K/gJhCPsVphHbXuIaJp7PZqVq5BxxbY8BdBy5uG13MkwwqnYi5UkfCdFaWVKhTDlZHOUhh83A0MUTWWs12eHRSlcaLk2p0FiRqFdceQOjlur3hNW4fXJrY="
+    },
+    "name": "Ring of Power",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "gemstone_slots": [
+      {
+        "slot_type": "RUBY",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "JADE",
+        "costs": []
+      },
+      {
+        "slot_type": "AMBER",
+        "costs": []
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "POWER_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GEMSTONE_MIXTURE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "POWER_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "FINE_RUBY_GEM",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

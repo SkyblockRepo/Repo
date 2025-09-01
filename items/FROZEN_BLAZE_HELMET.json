@@ -1,0 +1,191 @@
+{
+  "internalId": "FROZEN_BLAZE_HELMET",
+  "name": "Frozen Blaze Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 576000,
+  "lore": "&7Strength: &c+40\n&7Defense: &a+105\n&7Speed: &a+2\n&7 &8[&8❁&8] &8[&8⚔&8]\n\n&6Full Set Bonus: Frozen Blazing Aura &7(0/4)\n&7Damages mobs in a &a5&7 block range for\n&7&a300 &7base damage + &a3%&7 of their max\n&7&7&c❤ Health &7every second and applies\n&7&bSlowness I &7for &e4 &7seconds.\n\n&7Max &c500 &7damage/s\n&7Blaze Rod Collection: &60\n&8+100 per 5,000 rods\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FROZEN_BLAZE_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTA4NTAzNTkyNywKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDMxMGI1NWVlZDk1OGZlZThmZmFhZjcxODQ2NzE2N2RlYjFhN2M5MDQ2ZDY3YjI1ODg3YjU5NjkyNTYzNmJiIgogICAgfQogIH0KfQ==",
+      "signature": "KHvJIxo/NPtM0oNctgr+UVMr6UHjhBABr+eSrgr2Ne7hAqvokzCRlShl0pD1Ok71LjtMx/S2tuAJ6vHi5YeQ8YoOM80vi7Ka8nLryp7Rnss/NJfk+5oXVxidUvt9oNX7wyv7sBK+e0Qxu3VNbVeGGYfLARt5s9iv0QageFvTN1uwTDnJwlRP6qa7p7pPCpq5zErvijo1nr5KlMj01uneF2GFGa0igrcLpXBvodHg42Sp9ab7TR39llXokpvDOwtwVTtjaHlMB3017xckPiDk4V2NzNWSAX4KCgpzGBSHhHgvxoid39JzkwRXn9qGPrIDk001UJDS4LWVqfgIMiiJW8QYmW9YTzcFM6rkfXeERTlLBovJHzIt+l5+jhTONn0Ux3KHk7mj+5rgWG3QAWAMV3FGFBEk4h5z1rgErH185zaeHbsj8y9A8GQJpJU6AaElGve6/f+2NH4Yq0WCZo0eLLQttfDH6u3tMAs7q1KA9FJPSilcYTPxVIS+j0j1AjgFdzUgXyYA3Ejy3kylGYS6WHel66HcXAJlJRxmzDNGad8sZFQGuYWjDvpb3IFtBVFgKHOLdQgsmRpq43L3Om/q/tjyjNYcWJhDpuSZPGvS6Dan3WDoK5H8GWh5mWsCtbQsAnrdJhUErSB1/gyvnXUuV8UhgT1wa+Nl9qjjLCmp75A="
+    },
+    "name": "Frozen Blaze Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 576000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 5
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FROZEN_BLAZE": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DEFENSE": 105,
+      "STRENGTH": 40,
+      "WALK_SPEED": 2
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "ICE",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 35
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 60
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 20
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FROZEN_BLAZE_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "BLAZE_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

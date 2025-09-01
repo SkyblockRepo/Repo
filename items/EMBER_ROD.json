@@ -1,0 +1,42 @@
+{
+  "internalId": "EMBER_ROD",
+  "name": "Ember Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Damage: &c+80\n&7Strength: &c+35\n&7Intelligence: &a+50\n\n&6Ability: Fire Blast  &e&lRIGHT CLICK&r\n&7Shoot 3 Fireballs which deal &c30&7 damage in\n&7rapid succession in front of you!\n&8Mana Cost: &3150\n&8Cooldown: &a30s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 8&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMBER_ROD",
+    "material": "BLAZE_ROD",
+    "name": "Ember Rod",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 8
+      }
+    ],
+    "museum": true,
+    "stats": {
+      "DAMAGE": 80,
+      "STRENGTH": 35,
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 30
+    }
+  },
+  "recipes": []
+}

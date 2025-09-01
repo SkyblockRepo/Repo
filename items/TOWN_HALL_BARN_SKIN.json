@@ -1,0 +1,27 @@
+{
+  "internalId": "TOWN_HALL_BARN_SKIN",
+  "name": "Town Hall Barn Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Consume this item to unlock the &6Town\n&6Hall Barn Skin &7on &aThe Garden&7!\n\n&eClick to consume!\n\n&6&lLEGENDARY COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TOWN_HALL_BARN_SKIN",
+    "material": "GOLD_BLOCK",
+    "durability": 2,
+    "name": "Town Hall Barn Skin",
+    "category": "COSMETIC",
+    "tier": "LEGENDARY"
+  },
+  "recipes": []
+}

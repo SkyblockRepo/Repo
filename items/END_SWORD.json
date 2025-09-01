@@ -1,0 +1,58 @@
+{
+  "internalId": "END_SWORD",
+  "name": "End Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Damage: &c+35\n\n&7Deals &a+100% &7damage to &5⊙ Ender\n&5&7mobs&7.\n\n&7&8This item can be reforged!\n&a&l UNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "END_SWORD",
+    "material": "DIAMOND_SWORD",
+    "name": "End Sword",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 35
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "END_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

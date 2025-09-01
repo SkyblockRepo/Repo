@@ -1,0 +1,27 @@
+{
+  "internalId": "BUILDERS_RULER",
+  "name": "Builder's Ruler",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "\n&6Ability: Area Planner  &e&lRIGHT CLICK&r\n&7Right-Click the top of a block to\n&7place a line of blocks.\n\n&6Ability: Organized Builder  &e&lSNEAK RIGHT CLICK&r\n&7Sneak Right-Click a block to collect\n&7all blocks in a line.\n\n&6Ability: Built-in Storage  &e&lLEFT CLICK&r\n&7Opens the ruler storage. Blocks will\n&7be placed from your inventory or\n&7the ruler storage.\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BUILDERS_RULER",
+    "material": "BLAZE_ROD",
+    "name": "Builder's Ruler",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "glowing": true
+  },
+  "recipes": []
+}

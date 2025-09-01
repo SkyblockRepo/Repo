@@ -1,0 +1,77 @@
+{
+  "internalId": "ENDER_STONE_GENERATOR_10",
+  "name": "End Stone Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining end stone!\n&7Requires an open area to place end\n&7stone. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a16s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDER_STONE_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NjMyMzM3NTg0ODMsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmYmQxMDJhOTBlMmExOWE5ZDJmNWZjYzk4ZGEwMGI0YWRkYmZiMDI1OTNiMzQzNjdmZTRjMjMzOWMzN2VmZjAifX19",
+      "signature": "Mbh0ZQnQPDoE/IaaVPodKz1z8S4okWgsQ61wALk8iix8FWwBoIS89K379BFxcsj9oB/5LTMPMKYu/kgpucO3k8/j9LugfU/lscF4w2BDQ+mAnXbyRWuHmdkeSmfQIBl8PBHrcXXQjx3fFHaKjDBvKYmSURLbgvHaurt0I/PRRvNIdkKYXoEUXJiyRtDN6fy2Ad8WohtfxzAoSrzmSlfbfwveexkdtwrUM2a9pWZ9Q8OJbcuPrVxcd0qW6vPGTATeoPjv2wIRoaIjlQwqkZaBjh8uxYpZ4qrtPP4ThWOZMYmIy7u67gZKwUw1HFUXCUiXAoTxOpMemJVna2+T59rEcqY5cdux7vlgDyHwpLbavfpe5D15eKDquE2AAGrMfvuyjx7/L9oMcfhgqY0ajSG9l/vppY0AnOfXIx/YgqeneJLKtDINkU5GmFWTHZpdQvlAoZaeMQM4nx3Xn8xTDJXokkkN/DzP2iXpZp6+ncZf263mjfu/HdNMQ1RtPpYeYJM4BSbiHsRzUXBYi7PPr7Rb0RnJzrmId24o2zKnNcRhTAqz5bUlBNeqhzDaXrSmaLUnz3AVlNwPNm5Hde4bRRXvTiPaM6JgXBJ5svMl7X8zQNnJgFigP/9nmmEFmLU1pc47gcm2k4OyX1xjNy/nVUjL39lNvv6mbNPU1Ak2EFtU2LE="
+    },
+    "name": "End Stone Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "ENDER_STONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENDER_STONE_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENDER_STONE_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

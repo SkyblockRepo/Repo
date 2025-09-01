@@ -1,0 +1,91 @@
+{
+  "internalId": "ENCHANTED_SEA_LUMIES",
+  "name": "Enchanted Sea Lumies",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 480,
+  "lore": "&7&8Collection Item\n\n&7&7Luminous wonders from the ocean's\n&7depths, lighting up the watery abyss.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_SEA_LUMIES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNzExMzM2MywKICAicHJvZmlsZUlkIiA6ICJiYTBhMzYwZDM5ZDQ0N2JmOTNiZjBhMTU2ZDUzZTZjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW9sb3oxMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRiMzc2M2E3MDdjNmFmYmZmOTBlYmRkMjVkMTI3ZDgyN2ZkYzM4ZDM2Y2I5MWVjYThlMzZiMjg3ZGJjZTAyNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "tLvu55eWo4YqYrI7GAeLzi0glgTNLkv7mrwqF8X7l1s6Rd6ob+Y04agVkUloYbv86qd8uu81PiwcZHI6pJ6IrfUyrF1Z5vCcFy6ARXeS7DlFdzkSb2BYZacxBpII6w7bLZ882GBjfNRBozwH9Jm/lyQVe0qf4uSCdFXqhSCIXp2RhrRm4I1TPGRJ7/Rjgt03grt8FPblh9sjwYfD8mG9VRrxwjBfY5OjRSi9fmdExYCx8GvNMXEkMliJLsnoVG6I9fhNLVTVNAQGp5/q3zh4fGl48S6kB/gQdeayiNH/DnwpJdGdVXI2D6ZgEX3V3Lh9jAZ+8C1xyxyXtXtX9D2SMW81mFbhPLpmVxrldPQDR71G+7dVg4lfhvWFrm3UCymXOsVb/9E9v15qwlC5fIoS5lW9nKkUUYmU8Pzqf0gzqs+5fFOGSNNhz2VnoaFtEMU2iL2cMDvOHhS/VH7f79Qvg2qhyNK2ix+yRdWFTUehP5aGzTNJHOOn2KPVDmfLWocUkhEjnNahfOVuQ385IQJ4ycz5KcYK4fU2lEojx6nP31vv/4LwE++chpFdKhmuEQ5aTl2mmQEjTTwjdY9Ysa1R7ul8RbWBeMBnvCJhTwsCvPWtJJmtDmNMWdfNN6a4Cl9awyI2q9jJk2Q8TCYPmFXxhH8XtQQaYERQ381lF72VXPU="
+    },
+    "name": "Enchanted Sea Lumies",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 480,
+    "item_model": "minecraft:sea_pickle",
+    "description": "%%gray%%Luminous wonders from the ocean's depths, lighting up the watery abyss."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SEA_LUMIES",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SEA_LUMIES",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "MAGICAL_MILK_BUCKET",
+  "name": "Magical Milk Bucket",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Where do cows get their medicine?\n\n&7At the farmacy!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGICAL_MILK_BUCKET",
+    "material": "MILK_BUCKET",
+    "name": "Magical Milk Bucket",
+    "glowing": true
+  },
+  "recipes": []
+}

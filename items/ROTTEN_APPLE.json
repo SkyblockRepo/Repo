@@ -1,0 +1,30 @@
+{
+  "internalId": "ROTTEN_APPLE",
+  "name": "Rotten Apple",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROTTEN_APPLE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5ODM0NzgwODUwNSwKICAicHJvZmlsZUlkIiA6ICI2ZTIyNjYxZmNlMTI0MGE0YWE4OTA0NDA0NTFiYjBiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJncnZleWFyZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYjFhZjU2ZmMzZTJkZDhkMzE5NTk1OWIxNWQzYzQ3ODk2MDA4MmY0MmZiNWQzNzc3ZDM5ODkzZjNmNmEzZDcyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "ugnEMEl675cns1blxAjSbPOGjJmDChugC7jKOoxIYoARA8xsNuPMBgSRNsw++PZbHESH4i4QOli8Bo5NE9An/QDbjs4rjyBS9hjfHBGUDuJQR1HKKK0ZW5npwf0/qi+8thu4UT+sLqYs1AjUnhQ6ruLYeiecPo2xdeW3CHw2++Hqpkdc/i2avDwbEgTzlPjLKgQqFXxnOuIqicpO5kVXFmd96YaHYMao7odbcqJmvmcdvJAQFKqni/KLeSAemaJlpO9CSEvUw5MrTgi2EOazUsonXvi4McNzC+A2khQj/URwoPe4WcIw0IQKuF6pZzQNE/7Y7sWyo3+7rsM+pH+IGcDmNNDA/wui3ariv+oBizeq2lwLZs6vgkd3Q/F3d9d8jTyAH+ZwOcjkRjMLYmltmjo3zfM1MAoS2RFMXUnjdyokaGpz/SdWglDubhI7RzjnEvNH+RvFfWqM+s6qch/S4ieYIciK2MwMQR0hxRxnzdj65ZNVojxy984e+ruTn5r2Z+yOckVVjcHyA8mFqzTuIe7uzDF0rqxjp2piHV9foMd7amXSVTXvkmwwcOTXaNlMOnvrrwFCzdSNsd0Aod2nY2J52CbvMLhuzhEmxToy0o3X7fCjgSk7v7H5Tm9V9HG24crkJ9EE+X0pTdH1Li76lQaDcqI7MZG9AR5CRhI+N8A="
+    },
+    "name": "Rotten Apple",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

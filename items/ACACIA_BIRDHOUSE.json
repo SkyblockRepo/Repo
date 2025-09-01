@@ -1,0 +1,65 @@
+{
+  "internalId": "ACACIA_BIRDHOUSE",
+  "name": "Acacia Birdhouse",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aForceful &7power.\n\n&7At &6250 Magical Power&7:\n&c+16❤ Health\n&c+174❁ Strength\n&9+46☠ Crit Damage\n\n&7Unique Power Bonus:\n&c+4⫽ Ferocity\n\n&7Requires &aCombat Skill Level XX&7!\n\n&9&lRARE POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ACACIA_BIRDHOUSE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNjE0MDg1ODQzOCwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE5ZTMxNmJhNDhlNTFjNmViNzNjYjA2OGEyZDQ2OGY2NzhlZWQ4MmQ0NTI5ZDRiMTJlZWM4YmZhNzgxOWFhODYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "MUsAW1R17NNtYMJgmvpR07MHYJMxFNXSslD56Au5watlrWjllLOFwusAXQh44H9wcWpnGPu89H4QjN+ugnCaD5iL6HkzWE0Go+6x8wOsc10Lf38h/1/4tdB2RW95vfqnYnSy+BU/9Ngoz9sKgGNovzY60CurGYmeWEdyIf6UEI+OuQl8L0yQmEaMF6mOGv2edqCB419QJxYXOzGtxn3PGcH0RfcaJhzN8gRWicjGl2kLz/UwQFkjF9CMQJug/dPhqLNtjgDIOMNvyk2pqlYcG1oVP8ySZuHfJjptCCxtiz+29d9Lb8PWhOky1uqW0leb2Pw+ZDPY6GfKdCeYdo1050aRPBQdpwp0r/Y0LPVpBW6yyUA51pZTTO5md2B6F0IIRvuc1n062wd/rHFFaV4H4tSICQq541SsQcSUL9NHcfkYgSiPlwDC8ByKrpaeqQSHNCny9JoYhytl4oiAwKnyWcZ0kuziG16kCR6Por77nVXCBsbS2k/azdu7v0g1oet5/1LQdVOsstX5HQJ7j9UGFp2c87pOILv6Ktbbj1QyG2MThEUj0fpKAUA/lMS6Q01Ro75mkBE3mO9OkD7s93gvou3+8w8cnMrB7i84dS7LZYZ74b99ltOvRS4ntU1SHFWSObkvRHSGFTJ/XhOY3FqIZzc9HCtZfE39gkHAqOkwOLs="
+    },
+    "name": "Acacia Birdhouse",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ACACIA_BIRDHOUSE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "COPPER",
+  "name": "Copper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COPPER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MDIwNjY2NTkyOSwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhmZDk4NzlmODZlMjI5ZmU4MDNkNjFkOTNlYmVjYTk2M2IyMzIzZmM5YTU5NGIxMjFiMjI5YjVjOTI1NzBlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "SVjpYNEKEj/xKYaWwUWDQMXygZlKIi7pgrov7hYvMaMCUOlqfeug7r1B3hqQEdz2PT0FLG45HHgOQWb4elFw/W4wgwoRFpeV9Eyf+aZRnQMTqwLWMuNfs6lHPLrUXH1IsbS+FWfueUzrsGQ2doaGKMixc1JcLIQ4oWoHwqESym1hGipEYjP1I7628ab0oXWi15a3r0gREoa/OiEHgcXK26xaFiYr0UXmO23QbvuXmPh5vAJfrGsReLJBjupuBcD1EULmIoFOtND3iO/wyYmeZh4yczkEMZC1Bw/G3R6tS8jKVYnvfpBiaQoHqdqnbvBhjJRTL/P/9s9H1rCX+6vMBI0O3vc6lKq7QjkXsNLBjKgRUpO5ulcC722nhua8H+k49pARF3DG5EL2afwVHO8KeZ0Vj0gYvbX2aGIAwlWfvrpcf74ammI75JzmZpx3aZwTTAXDZRdn6xGjMr2Vc/DqacnJL9SjdVtVYFWPhsGMnHgxVqrngnbMeUOc7XJ644CicejfdCVoJsie2qLwej1+72Vi94XgErsndr3BuDzDwLUVF/zNwOJt3+pRPppZj96PfOcKV/1ITY7LF7nhYTcc1SFDPXhIZ0zJApkSnm9EJtUEd6iGKH5Imiaxb9yDcim/hv622FuyGJXmmXJcVyirOzqGkmV1w9isEHvNvEvSRUw="
+    },
+    "name": "Copper",
+    "tier": "COMMON",
+    "npc_sell_price": 10
+  },
+  "recipes": []
+}

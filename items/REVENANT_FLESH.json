@@ -1,0 +1,27 @@
+{
+  "internalId": "REVENANT_FLESH",
+  "name": "Revenant Flesh",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "REVENANT_FLESH",
+    "material": "ROTTEN_FLESH",
+    "name": "Revenant Flesh",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

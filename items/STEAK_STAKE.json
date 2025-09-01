@@ -1,0 +1,80 @@
+{
+  "internalId": "STEAK_STAKE",
+  "name": "Steak Stake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: A bit of Impalement  &e&lLEFT CLICK&r\n&7Stab a &4Vampire &7at &c20%❤ &7to instantly\n&7vanquish it.\n&8(Does not actually hurt the vampire)\n\n&7&4☠ &cRequires &5Vampire Slayer 2&c.\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STEAK_STAKE",
+    "material": "COOKED_MUTTON",
+    "name": "Steak Stake",
+    "category": "SWORD",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 2,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "origin": "RIFT",
+    "motes_sell_price": 15
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STEAK_STAKE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "internalId": "PUMPKIN_LEGGINGS",
+  "name": "Pumpkin Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 14,
+  "lore": "&7Health: &a+10\n&7Defense: &a+10\n\n&6Full Set Bonus: Pumpkin Buff &7(0/4)\n&7Reduce all taken damage by &a+10%&7\n&7and deal &a+10% &7damage.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 2&c.\n&f&lCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "237,170,54",
+    "name": "Pumpkin Leggings",
+    "category": "LEGGINGS",
+    "npc_sell_price": 14,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 2
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PUMPKIN": 2
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "HEALTH": 10,
+      "DEFENSE": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

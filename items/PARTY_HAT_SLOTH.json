@@ -1,0 +1,35 @@
+{
+  "internalId": "PARTY_HAT_SLOTH",
+  "name": "Sloth Hat of Celebration",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Magic Find: &a+1\n\n&6Ability: Party Time! \n&7Gain &b+1✎ Intelligence &7while on your\n&7head for each SkyBlock year you've\n&7been playing.\n\n&7Obtained: &e2020\n\n&c&lSPECIAL HATCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARTY_HAT_SLOTH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3NzczODc5NywKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmZhZjVhYjNmODE3ZmJlZDcyNjNmYzFjMTUwYjU3MWYwMWIyZjdlZjE3YmM1Nzk2MTBhNDk1YmM0Y2ZlZTkiCiAgICB9CiAgfQp9",
+      "signature": "OfpTsCm5HIY6RpjG2ViV0X8F3HOpUJD0wuZra89qSRKZuYMHtzYVn8avee/KBazVJXc66xoZHsT9Xw00xfi+HvbLVerkBSPAA+gXa4mdp7v/+oIbN/C9KjWiiRBk1X2Tj8s84O2LWR6Of+2uu+L7ne2+uyIOjs2zyQCfB/PWN9iUb6GTSs7WKUa1TRHtmRsDTKfVVywIVot698aWcTG8HfFrldPsEigRX/YMTWMoyblm0xfBGSdBOWpeA2UhTDXMzxMiyumFcQjDP4pikzLnxWV9jPKcj2q9ISGSTYGt941SFmcvNTfPM/8kVMQmEnUqYMpH7m+VmDo3Q0gzJ08mCjzpln/sUDmE29icoU4a2hfALTDuvnMIfdtERAg6qTEa2J5465P6R+iwrkmrVSoJ8wpVxJA/3C2nt+fJeyMug5yUMAv0vS0gHodzS2FeO01wneTMTNDGHuKZdYMbuKNe/aBZVhv+6siEWDwW3wC7vlyp/kNoCUoAy/EaAnNM0XZ34nZq33N5AHBQgcaCTE2NGiSjfDWEt6uuXJHQh+ti+BAu6WEVf0RaBJRrkGI4X0+NOVybm6nybbpqh/C8pY3mFjW9W6TJ24JRuv8HgMhQIwaVZNn03ojKxpfftlY4keF73Bb8vrLq7zdX4cERn3srhGXHQQ2mKA9zzstpfXFk7o4="
+    },
+    "name": "Sloth Hat of Celebration",
+    "category": "ACCESSORY",
+    "tier": "SPECIAL",
+    "museum": true,
+    "stats": {
+      "magic_find": 1
+    }
+  },
+  "recipes": []
+}

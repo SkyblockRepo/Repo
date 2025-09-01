@@ -1,0 +1,31 @@
+{
+  "internalId": "GHOST_PERSONALITY",
+  "name": "Ghost Minion Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7This Minion skin changes your\n&7minion's appearance to a &eGhost&7.\n\n&7&7You can place this item in any minion\n&7of your choice!\n\n&f&lCOMMON COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHOST_PERSONALITY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5Mzc2ODcwNTUyOCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZjYzZTgxZWZjMDMxMGI3ZGFiMmIxZjNmNzg2MWY2Y2RmZmEzNmM0M2Y5NWFmNzgwOGEzZTcxZWJhNzZjODJjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "CzVM5/dFV8eHrmMJWnzNJc1gl+Yk31W6hMAVYIYVe+wCArOdOGK60QKhMHdm5GDZQoBE7FuR8LkrzdawRHAFMHJ0cOnm8WeHeq03U+uRVMEEM3FNa5oApwzNtP/FxhoYNAIJIyTjvn23UJ7yCenhOyNilKhSeRGHPh6n1ilIb6hhx3k9nVfCMF6EHv19L+yoI63zU+nK+z2/uxi8gchwuCCLwZKBi67Rc81D61POvB2tRAE5Xpe1NfEiwJb2FyhjxDd9cxQ7U6O86xkX0JBXFJApBHL7Mi50jBxEJWZnzHzqdFJIDds19LTA9SNdLk+/96q7hDvXYsI+ePUq4WALun22HW9lSqrMHQshTg4HA+dXGkZpIkgXKy99HgvrPeiECibyV3YinFnJzDmlJoxQ1bYEC1+U4ydzY9ze12hnVbKGl7h758FZA9O0RBRbDcUyYWYfeSXjcvfh0nnhu7RA3CjmVJz3FzNGi+GjcezJmHqrfOu8O0Lk/q7TbDy71olawyxIeXte6Oy5BBnCZ3LcU/MSpP+HVkCCHdCqz8KyBaWdEk4KSvyehIVM8kUA7UsblICOI1z4Pm2SZsPraNpWOFejnrCYVPP1Q77vo56r2F0hkR2YuGLwPEG5/UcAFbcDoPwMdrNjf7wIS0fMqE5Njz+6FqwQ2wAGrNQsKil78qk="
+    },
+    "name": "Ghost Minion Skin",
+    "category": "COSMETIC",
+    "museum": true
+  },
+  "recipes": []
+}

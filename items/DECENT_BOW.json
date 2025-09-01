@@ -1,0 +1,37 @@
+{
+  "internalId": "DECENT_BOW",
+  "name": "Decent Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 99,
+  "lore": "&7Damage: &c+45\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DECENT_BOW",
+    "material": "BOW",
+    "name": "Decent Bow",
+    "category": "BOW",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 99,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 45
+    }
+  },
+  "recipes": []
+}

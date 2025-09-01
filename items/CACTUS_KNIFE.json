@@ -1,0 +1,70 @@
+{
+  "internalId": "CACTUS_KNIFE",
+  "name": "Cactus Knife",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8] &8[&8☘&8]\n\n&7Slices through &acactus&7 instantly!\n\n&6Ability: Swift Slicer \n&7Increases your speed cap by 100\n&7while in &aThe Garden&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&5&lEPIC HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CACTUS_KNIFE",
+    "material": "GOLD_HOE",
+    "name": "Cactus Knife",
+    "category": "HOE",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": []
+}

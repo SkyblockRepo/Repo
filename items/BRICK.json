@@ -1,0 +1,25 @@
+{
+  "internalId": "BRICK",
+  "name": "Bricks",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BRICK",
+    "material": "BRICK",
+    "name": "Bricks",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

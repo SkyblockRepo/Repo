@@ -1,0 +1,49 @@
+{
+  "internalId": "LAPIS_ARMOR_LEGGINGS",
+  "name": "Lapis Armor Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1750,
+  "lore": "&7Defense: &a+35\n&7Mining Speed: &a+20\n&7Mining Fortune: &a+2\n\n&7&6Piece Bonus: Magnetic\n&7&7Earn &a+50% &7more Exp when mining.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aMining Skill 5&c.\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAPIS_ARMOR_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "0,0,255",
+    "name": "Lapis Armor Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1750,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "MINING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "LAPIS_ARMOR": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "DEFENSE": 35,
+      "MINING_SPEED": 20,
+      "MINING_FORTUNE": 2
+    }
+  },
+  "recipes": []
+}

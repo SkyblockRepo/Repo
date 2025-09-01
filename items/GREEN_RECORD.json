@@ -1,0 +1,26 @@
+{
+  "internalId": "GREEN_RECORD",
+  "name": "Music Disc - Cat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GREEN_RECORD",
+    "material": "GREEN_RECORD",
+    "name": "Music Disc - Cat",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 20
+  },
+  "recipes": []
+}

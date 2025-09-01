@@ -1,0 +1,76 @@
+{
+  "internalId": "MEDIUM_SLAYER_SACK",
+  "name": "Medium Slayer Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBlaze Rod Distillate&7, &aCrude Gabagool&7, &aDerelict\n&aAshe&7, &aGabagool Distillate&7, &aGlowstone Distillate&7, &aMagma\n&aCream Distillate&7, &aNether Wart Distillate&7, &aNull Atom&7, &aNull\n&aSphere&7, &aRaw Soulflow&7, &aRevenant Catalyst&7, &aRevenant\n&aFlesh&7, &aSoulflow&7, &aSpider Catalyst&7, &aTarantula Web&7, &aUndead\n&aCatalyst&7, &aWolf Tooth\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_SLAYER_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTM3MjEwMiwKICAicHJvZmlsZUlkIiA6ICI5OGQxYTQyNmRlMmU0NjBkYjdjNWExMmY5MGNhODg0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLdWJpbm9TSyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YWZhZmRlNzg2ZDcxNDgxNGFlZTBlMWQxMDllNzI5ZGM1NTNlMmIxNGFhOTZlNGUyNmRkOGZlMTE4YmVjNjM0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "M5zxRP9VnEztYk/e0E50BcFP908cd54RYPiLcMW94xdD0KkGCpz1cP92SO+/lyUEthbVgXmeU+MCV7SAoPehXgS6s48QGC575BtfKA9ejxoYjYT/novbMCBZ23Oqw6qJxKdfHjZIwLxcJMhYGUziiJo6zV0CVnAzIEDmF/hN6rOKU9K/0IXOnLTA3N1jHRCSp88tKYSubnGOdXiTnB10ED5nBcz7D/pU6gMUhgFI28bW6AlP/9L/Bf53DgscTsdmSw1v1ncok5+ChRKE3NqMs3c3lexHnf4v4ZqEA0JGHHKAEF5/2kFV2btH4SNEvQazDkjfiN3MYWShpxzZ+F5lzvPswUVBm62ODrhU9P61BWVqKUOZVDq87uC92TxLGBUT2/H5KnTJUmHA/TQsTSRreDMPLEYqijF5nBYz2ofeM+4w9aDPwPeBLQrlhIMnbwI/xZtpzAt8feLQGjf2QN1zGewBfhEBKt8NLLQthFtpGQVVeD9ceMZa1k5TkfRG8iQCbEh8WZ/3smeArvJY556ktRZuaI6dcc4pKq1HXsISSmba6tX3YQaJmuZDE73SgQmZF/zq44Opf4Th0eApbjx4+aCzykUuK62enGcqG0GxUqkOQICPVQpASk+ltXsajcsjEQu5Mg5TwVy6TZB1dNNWLnCu8tI26QLREFGDJ05BLQg="
+    },
+    "name": "Medium Slayer Sack",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_SLAYER_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SMALL_SLAYER_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

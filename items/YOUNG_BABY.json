@@ -1,0 +1,32 @@
+{
+  "internalId": "YOUNG_BABY",
+  "name": "Baby Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7&7Item skins give your gear a fresh\n&7new look! Apply them just like an\n&7enchant book using the anvil.\n\n&7&7This skin can be applied to &6Young\n&6Dragon Helmet&7.\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "YOUNG_BABY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNjE4NDUwMDI4MywKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzNTAzZGNhYWU2YTZjZGUwMjczMTZhM2NlNmUyMDNiNjQzMjdiN2RlNzI0NDE4NjVjZmQzY2RiNDVkNWVmNDQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Rl8WPgLQddShfImUSBSWCf/xYUvb/ZDFgm6xNZJCA30FcuzUZgQWW1Cy9cxy2E0eNRAha+WIMVoFUu15we2ZkjgMqYysDdZWMJJqsBdP9ADLWIAw2k0IRoCs4rlVHZDgLHbVaBuDIWeD0s9r3TcJm0rlIXQlmnO+KoCaLCztl5aCkWXrj2at7As6j70CcEjLCS32+ROUXcMdkvvybuVsOKWeQ3En8ZPMvy6lG+x5D6sYkrTSqgN9qPouLzKmOWpY85MvQKsVnjGnDIPVKv9/eu5CztMdF7g87+EKDvbcpbqoNWBByEOcKm6/T5AHvPI/3d9hSa1C5NmaoBkJtmq58DLSUp5Rq8zofr2B73HL6KNipaQ5qMQT37XPXb8SomEue8TvHz0KrBv1++Wz6DGwzE046Lx+1jaMRG7LX5aVtJ/vEYwwnV/tz/qhB5DO+OQtZO/UkLcWKr/JRIaaZFiT3RHjNk+SGxP67/OINekcW8N1X8BoIa6LAGbn4SiBtlnIK5V8Ml1qWth7EWUvYDyAnU8KrLd9ryby5Ps73nj4a3vJbyA3tvBxUGehntQvACdHByDfIMZ1KMA4w4Vhn5DMofnQZKsQF+9FfPrLvAlqbvBE5Vey18QfSxwuEqqmWzxyEeiYh/zyo+3T/rT4qNzunITxtD/aWg9t/8jaqJFujhU="
+    },
+    "name": "Baby Skin",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

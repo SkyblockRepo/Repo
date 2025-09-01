@@ -1,0 +1,56 @@
+{
+  "internalId": "NULL_OVOID",
+  "name": "Null Ovoid",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NULL_OVOID",
+    "material": "MONSTER_EGG",
+    "durability": 58,
+    "name": "Null Ovoid",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NULL_OVOID",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "NULL_SPHERE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "NULL_SPHERE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "NULL_SPHERE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "NULL_SPHERE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

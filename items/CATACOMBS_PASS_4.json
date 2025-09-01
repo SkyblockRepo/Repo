@@ -1,0 +1,32 @@
+{
+  "internalId": "CATACOMBS_PASS_4",
+  "name": "Catacombs Pass IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CATACOMBS_PASS_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODUxODEzMjcyMywKICAicHJvZmlsZUlkIiA6ICJlODhjMjBiOTUyMTA0NTA0OThkMDU4OTA5ODVhOTQ2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTY2huZWxsZXJUYWc0MjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTcyMDkxN2NkYTA1Njc0NDI2MTdmMjcyMWU4OGJlOWQyZmZiYjBiMjZhM2Y0YzJmZTIxNjU1ODE0ZDRmNDQ3NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "KfRorQ8arhPHJwpDiBB7zSXK5NTeJfH69JdhdLIUo36qYBdcYRN+y9biSknh3mCRgxn+f9/eAFRDrkBG7T3j9x0GVeBnz28F4eeFzRW3teT+dO7c+izYcexy8cB3SSvxObeWEtlzF7CN84Uyn+FPmJhh1Fm7CMpn4GKTtSr8v/ACzafWaaC17lUMqu5UmOfolUciDxY2lNWhKZDWJsZCWr0kmzvp+gnDY7bj7P/hSCaxPpLM97+8xbwGudX2iqFfPdC3jyHe67GxfbJ1Gp21jG1nr/9ND2Ionty3/sr+T/4VTL7tbXBIEwGzqiJIrengfzU7pXEvPQT+gjIU7lANZQh6TMVnXxrbNO1XKMbDkDDkP5aqBVX7d5QAjRZX0UvWuAg1SJrly95+5MOu01c6nM2X9braUFLBGm4Qi21hPratt9DmVi+BB2yccN3fzzGbHqQRuUS+S95It3UXjrcmE+OnHOXTpl3i/O3F3HjzVQ17IMuXwI6McHZNc91MjcvkWi+UMuxm6MCv6trJtn6Gc+HhVuRXKPapOr4NRFxIIv5ZRZMyjNpmyq7xVYulKPYdhoR4ceVPP5hpSsA7aaU9nKsgGT1Y/Vyz45xGcSX/iBuwEPpHpqueEUbtqTGieeyFPuQK7AI7cdwdHZMhpQJcnUOMB/tUBU4s2jg10vgVEKQ="
+    },
+    "name": "Catacombs Pass IV",
+    "category": "DUNGEON_PASS",
+    "tier": "RARE",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,53 @@
+{
+  "internalId": "END_HELMET",
+  "name": "Ender Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Health: &a+20\n&7Defense: &a+35\n\n&7All stats on this armor piece are\n&7multiplied by &52x &7while on the End\n&7Island!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 12&c.\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "END_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTg2MzE5MjM5MDAsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3MTVjYTBmNzQyNTQ0YWUzY2ExMDQyOTc1NzhjMmVkNzAwZWEzYTU0OTgwNDEzNTEyZjVlN2EwYmMwNjcyOWEifX19",
+      "signature": "OLQYfVOcePA6i1gW1lpOhgsxfs1FcFEPsZR5LKj5tMZNE8zHdiognRMPmAn4HF4YRIX9cc5AjpmZKLV0lZpzrR5YUWAwkncyJxE3oS1ydQoenpsuLSsnKeTI5alDmhyqfQVwqtzdDiuiBzx7orTYLS/uuC9inCfz1LSIuuKEjjw5sXsg6GeWqp+szKnrUCjS4SOyYZG7M1nrW90EgYjWSJANimMtAxYPxaRPHqbODJM17BK4hvy+0CAj8A3nzXVz2e7gnOxp2SVe3FBBAIv1XdUbYBcTrbQPcL9e06QH+HaVryZy5w/hXZkRzK+lDmnOhw7Co4A876WH0c+gcARDKHn/rYAPOA+Nrcea5YetMpyZ6014GbUXd0ou4QHSOyzXnElqTRTmCJ0IwrYgmFOdsfVd2srxgEQP06X46ByoVMyRgVgI5OJhk4TFmiOQp4jnMZ9+zPCbvIGisZz98BpL0IEWApp2MjjETeMfUMj1IlsDDnv/C30AT3naJeFiknXTnF1pcoJDfcK08z5Iv4iqIG39XoESqNOCo99qWNBHbFIDs4DD27RILZGnDHiGUYpVEVSctBzvnywlSgs3Uz0ya1RNVZDkrnksRLPae+n/A7faBXmLX27T1rqQTOf2ooE3ETo5tv/dn+72GWmH7vsCYTC3vmc/xaKSgCg6rbQBSRM="
+    },
+    "name": "Ender Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "npc_sell_price": 10000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 12
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "END": 3
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 35
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

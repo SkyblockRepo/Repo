@@ -1,0 +1,36 @@
+{
+  "internalId": "MELODY_HAIR",
+  "name": "Melody's Hair",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Intelligence: &a+6\n\n&7A single strand of hair from\n&7Melody's head.\n\n&7Left-Click: &eTune up!\n&7Right-Click: &dPlay note!\n\n&7&4❣ &cRequires &dMelody Harp &7completion&c.\n&8&l* &r&8Soulbound &8&l*&r\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "MELODY_HAIR",
+    "material": "STRING",
+    "name": "Melody's Hair",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "MELODY_HAIR"
+      }
+    ],
+    "stats": {
+      "INTELLIGENCE": 6
+    },
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

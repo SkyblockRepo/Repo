@@ -1,0 +1,40 @@
+{
+  "internalId": "LUXURIOUS_SPOOL",
+  "name": "Luxurious Spool",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aSilky &7power.\n\n&7&8''Older Spiders often make better''\n&8''quality string. It is said that female''\n&8''ones are even more sturdy, but it''\n&8''was never proven.''\n\n&7At &6250 Magical Power&7:\n&f+6✦ Speed\n&9+220☠ Crit Damage\n\n&7Unique Power Bonus:\n&e+5⚔ Bonus Attack Speed\n\n&7Requires &aCombat Skill Level XV&7!\n\n&a&lUNCOMMON POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LUXURIOUS_SPOOL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA0MTc2Mjc2NSwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NGFmNWYzYjUwZTJkZWEyNjg3ZDI5MmNjM2E1ZTQyYzAyOGI4NjI2ZTYzODg0MmZiNGY3ODY3MWRlYmUyNzZjIgogICAgfQogIH0KfQ==",
+      "signature": "XS2qpxiBQSwIpmZ6JzeVp+wTT5Mt0GOleKDmpmR1DkU/Io4BnxV3fQv+gc8FHvSpP+eF32WTOh7jUsTmM0juzBsklBzcp0Ay3E+ql2hEMpucKA2s7s1bPQr+mGG6knH2WCeYccp+grKGoan6fblNrto6SsPShhgDE9bh1nJ/vobY1OOX9NKGGnRH8282mzAA/yBXOTyfEz9hMTZQYN6pAKNJdc+qE+nbHg23kIlvRT4ntJmEVygp1AA4YpdMJJEPig0KXtox/tvDoMrIoxp55bITRaNCjEQs/BtRPn20bkvM7HGnW7/ezOrnOoM1hHWEzQRUd6YchAk057d8lCE1cxbJcy6s/k+RqxvIFfcyoDxdl0G2Pa2tiJ0yBw43FWhiAGuTiffNtfCzzTKI5KqRVhvqfNrycyqJlWW4f+lJHcFQ6kCgZAoNE+/GBzBMq5OW7nr8+M3BCsRrclDB2ubmD2L9BcG8QKMqC/nhib1WXg+AepBokLkEln822oUjbAeUVGc18GKI+9MqxGTXDU1L6OayjDMKai74qsBtrYXnrhveXN/bi11znuln64nbolnAS7laudOAjHjFj4I/zlmviPKw1WrnAwWpAKH6B4x6dSOVCTcEBvDlIbI4wfrq+5YVP+SYGBjCyHdTH82PCytLmfiVOvpewW7bwB1e+Kpg7RM="
+    },
+    "name": "Luxurious Spool",
+    "category": "REFORGE_STONE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 1,
+        "essence_type": "SPIDER"
+      }
+    ],
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,30 @@
+{
+  "internalId": "DIAMOND_AXE",
+  "name": "Diamond Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&7Damage: &c+30\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_AXE",
+    "material": "DIAMOND_AXE",
+    "name": "Diamond Axe",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 12,
+    "stats": {
+      "DAMAGE": 30
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "CHICKEN_GENERATOR_4",
+  "name": "Chicken Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Chickens!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a24s\n&7Max Storage: &e448\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHICKEN_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzQwMTg5MjcsInByb2ZpbGVJZCI6ImRkZWQ1NmUxZWY4YjQwZmU4YWQxNjI5MjBmN2FlY2RhIiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkQXBwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTY4NDc2YTMwNmRmNTRjMjYwNTNiNjM5ZGU2OWUxNDczYjViNDUzYTRmODRjZjM3MWY2NzViYTc5NDMxNGRhIn19fQ==",
+      "signature": "qEQ+XNVO8Vo3ZNENbspJy7+CAC+SMnqtJlFdZg17av3XtS36iwdOkKGixuaFYKfnqLpFjgcV0zxtpohsGAdrt8u7NKLixSiVom/L4lHYjK0FryuN3VyySuotXsbAavDOSUuV0/CBmMLOpl1WV1ySrOai8VfS69thwJM6bfSLs27flQ1mpJrMIuaEOeNkTaAfHbWh59SLsgZxtmI5LWj0g6I35Akbp4F46b5i7jFvLfC9QPvfQv0aoVZPSttFaINl0HjOqcHNI5ns+/cGH7x3D4NxgrvMvgpSjOGb6xYhnRv91jjTok0X+AIzZNr+wqK7K1Gn/MncpimAqL8BJ631VHm0n8wJw5/l/W5JpsW+Pax6/9PDhwWqnNsFIxn3aQ+6jZl0+/ov9auyW+MiY5/vSRBvVz4kEAIpQc9Ovadf07suSoHl31Aql9Hx/Mt5+m47a0CWNd6xjUslw5ERlon6Y/qcy6alEHtJf7MuDfNYnQfAjXEEmbkyl0t1wvCCMGhXdjWviTUNGpxlwFyqUjCxgOplTqs/+V2siPpLGxvgxTqOF70NGdPzaY5Zl6C25Mdi5dBkzdWUbXlEQz/Mc7VYcm9zHEi3PH+be8/sjkBOZPYGHKaRNFZ82k/jmXtP6px59iku/oNpyZQvAGK1KJOHr1Ws1K6P84+A46XjyJ6ZFlo="
+    },
+    "name": "Chicken Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "CHICKEN"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHICKEN_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "CHICKEN_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "RAW_CHICKEN",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

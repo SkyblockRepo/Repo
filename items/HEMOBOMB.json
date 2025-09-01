@@ -1,0 +1,91 @@
+{
+  "internalId": "HEMOBOMB",
+  "name": "Hemobomb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240000,
+  "lore": "&7&8Collection Item\n\n&8Consumable\n\n&7Consume to gift &d500 Motes &7to &lEVERYONE&r\n&7on your instance.\n&7Cooldown: &a2 hours\n\n&eRight-click to consume!\n\n&5X&5 Rift-Transferable X\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HEMOBOMB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MDQ4NzMyNjMxNSwKICAicHJvZmlsZUlkIiA6ICJlM2I0NDVjODQ3ZjU0OGZiOGM4ZmEzZjFmN2VmYmE4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5pRGlnZ2VyVGVzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MDk4NzhiN2VjMjM5YmMxNTg2ZTIyMGI2YzEzMzdkMjI2MjY4ZWQ5OWQxMWZmZWMwMmRmZTNlNjBjY2I3MDYwIgogICAgfQogIH0KfQ==",
+      "signature": "G9vZ9MV6DoFifta/E5e9lLnN0xWi9+tCyOiISHWI5Sa6IjCtLQ4MxjgtgO6G9TwVz8eyTuwvygxA+wZ02IrrPQ1YmeaBrSG8/ViYjqfKub+0XkVdJTVZRXAFJ7p1IIBD4bimzWp7vh5in7XHbb/UZiJR/AKSJtDkKybP0GUt74VrRRA2eYFhpdGijay6OLzW+pdHFTsR6l698eZVATQcDeSaQqP/wPnH5ccgVHBbgqvFUVNRQH5S2OnT5g2b/z9bdiY55oTcBYY55b7mXebjdBGBADoYSbUYACi1FtGKlPyS0rATLq6RviPSG6kgq90JPtm+59qhHKLtAkwbJXzAZpB3p6wEHpyiRZqq3eHcdVmDDn3FB3/gpk9LTwPaJj66Dg8rN1Qh1nwY4GqQGqpJ7OH4aCI9l3+GMg7iwyX1YcLVM4HIlWaRFjLSJ1e9sR8fGW6LeAjd9c8TUAtnkPqIEqXDnMMCDoYjYqYNqpdUuqqHlxUI+yeBAejbe+MWI6rapiqwFQn5Q6tvoP45h/Y8OGBolelnooaY7nRwXxftVNOn4+Uok5pdRlvNf34uBfOREfzYnmDKQjafwtiiaCgDcdu2tWUp1NUtAHGGn0Xe3MG0OMGiHhK8ci5GorZn2XFoOoZOribgj6xMSFLdOo+kA4pjqoR+BO+F5HGHdVvDkSg="
+    },
+    "name": "Hemobomb",
+    "tier": "EPIC",
+    "npc_sell_price": 240000,
+    "origin": "RIFT",
+    "motes_sell_price": 400,
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "HEMOBOMB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEMOBOMB",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "HEMOGLASS",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

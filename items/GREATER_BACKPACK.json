@@ -1,0 +1,75 @@
+{
+  "internalId": "GREATER_BACKPACK",
+  "name": "Greater Backpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A bag with &a36&7 slots which can be\n&7placed in your Storage Menu to\n&7store additional items.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GREATER_BACKPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMzM4Nzk2NDUxNSwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGFlMTg3MTQ1ZWU3MzJlN2MwMDkwNWE5YzE2ZWQxZTQzYmE4OGQ1NjI0YTZmNGFmODI5ZjEwNDUzZmNjOTE2NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "AqmQGsnobrem45xPOgfr9ZMSm5KC4uA8ynPqniez7atI6XRFlKTLpaunDYSsTGlQ4axUsxkSRiGhvOu+f0DzIomA2iJQvW2GeB5CgpgbpVph+bHITv1Q7wa3o8sFmDPtay8aaKdMm7tRW4jTaij/AXfibXM9BmCz80rWqnp3Z39MM3heYI+9QRI4SNr1L8tMBDh/hyB5JBjRwxIW9hlIRdScid7twC+Uj0kHXZWPHiu7hAn9N58+N4C6wXVMVthB3dJZEcFouLnOAaRWTrCHdg/Jgld+qqUjXchXHFrDS5V/V7cVs/AFB3IbyVffnFdeL4yONRQgQYtarCOjXRHvQ9kO8Rirjn76xAPU3sJP18fZVZ1JTLZ6blw7Is6on+wpgu4SnExxvp/d+597fLMNYGiegmJPxIqSsAWi5KClTrTwDMSyFET2NPalBrG8qxsrHKZHtYTqlR4pEabrPJj0T34AA5GqgdcdQdr7qzRNoLunXp5GoJ2qt8FO6LD7MkMhCclz8WXnuuvtB7j9zO7ebPYyf7JaQjPhgkw/PoOHs8k8HrCq6qEPUejW35lZj2dxVHxltCpXBow8tVtwDKvqfxhzQZuwE2f+K7gNacSp284g3pC9OXq5PLoGYd36BAV16HyJIUKFrpmOdaZhE6Q+l52irjVGqChG5U/zUACXhsM="
+    },
+    "name": "Greater Backpack",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GREATER_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "2": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "3": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "4": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "5": {
+          "itemId": "LARGE_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "7": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "8": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "9": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        }
+      }
+    }
+  ]
+}

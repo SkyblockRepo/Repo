@@ -1,0 +1,72 @@
+{
+  "internalId": "PET_ITEM_TEXTBOOK",
+  "name": "Textbook",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Increases the pet's &b✎ Intelligence\n&b&7by &a100%&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&6&lLEGENDARY PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_TEXTBOOK",
+    "material": "BOOK",
+    "name": "Textbook",
+    "category": "PET_ITEM",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PET_ITEM_TEXTBOOK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

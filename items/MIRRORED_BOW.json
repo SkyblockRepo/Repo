@@ -1,0 +1,59 @@
+{
+  "internalId": "MIRRORED_BOW",
+  "name": "woB",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&f&lCOMMON BOW&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIRRORED_BOW",
+    "material": "BOW",
+    "name": "woB",
+    "category": "BOW",
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MIRRORED_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MIRRORED_STRING",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MIRRORED_STICK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MIRRORED_STRING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MIRRORED_STICK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MIRRORED_STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MIRRORED_STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

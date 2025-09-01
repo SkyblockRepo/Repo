@@ -1,0 +1,28 @@
+{
+  "internalId": "WAND_OF_WARDING",
+  "name": "%%aqua%%Warding Diamathame",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7A powerful artifact ingrained with\n&7protective properties.\n\n&6Ability: Glyph Incantation \n&7Activate &5Glyphs &7to imbue them with a\n&7&9Warding Spell&7.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WAND_OF_WARDING",
+    "material": "DIAMOND",
+    "name": "%%aqua%%Warding Diamathame",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

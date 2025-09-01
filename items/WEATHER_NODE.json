@@ -1,0 +1,70 @@
+{
+  "internalId": "WEATHER_NODE",
+  "name": "Weather Node",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Change the weather on your private\n&7island.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WEATHER_NODE",
+    "material": "LAPIS_BLOCK",
+    "name": "Weather Node",
+    "tier": "UNCOMMON"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WEATHER_NODE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "LAPIS_BLOCK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "SNOWFLAKE_THE_FISH",
+  "name": "Flake the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7I'm a special snowflake.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNOWFLAKE_THE_FISH",
+    "material": "COOKED_FISH",
+    "durability": 1,
+    "name": "Flake the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

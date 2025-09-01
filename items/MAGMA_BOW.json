@@ -1,0 +1,32 @@
+{
+  "internalId": "MAGMA_BOW",
+  "name": "Magma Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 61000,
+  "lore": "&7Damage: &c+100\n&7Strength: &c+100\n\n&6Ability: Arrow Infusion  &e&lON SHOOT&r\n&7Consumes 1 &6Magma Cream&7 from the\n&7&eInventory &7or &aQuiver &7to &adouble&7 the\n&7damage per shot.\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGMA_BOW",
+    "material": "BOW",
+    "name": "Magma Bow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 61000,
+    "museum": true,
+    "stats": {
+      "DAMAGE": 100,
+      "STRENGTH": 100
+    }
+  },
+  "recipes": []
+}

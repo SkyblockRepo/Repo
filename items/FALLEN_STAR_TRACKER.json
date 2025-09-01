@@ -1,0 +1,26 @@
+{
+  "internalId": "FALLEN_STAR_TRACKER",
+  "name": "Fallen Star Lozenge",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Rezonate  &e&lRIGHT CLICK&r\n&7Leads you to the nearest &5Fallen Star &7while in\n&7the &2Dwarven Mines&7.\n&8Mana Cost: &320\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FALLEN_STAR_TRACKER",
+    "material": "DIAMOND",
+    "name": "Fallen Star Lozenge",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": []
+}

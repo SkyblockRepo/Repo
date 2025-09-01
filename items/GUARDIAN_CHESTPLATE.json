@@ -1,0 +1,85 @@
+{
+  "internalId": "GUARDIAN_CHESTPLATE",
+  "name": "Guardian Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1200,
+  "lore": "&7Health: &a+20\n&7Defense: &a+50\n\n&6Ability: Block Damage \n&7If you are at full &c❤ Health&7, the first damage\n&7you take will be nullified.\n&8Cooldown: &a60s\n\n&7&8This item can be reforged!\n&9&lRARE CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GUARDIAN_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "17,115,145",
+    "name": "Guardian Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "npc_sell_price": 1200,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "MONSTER_HUNTER": "MONSTER_RAIDER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MONSTER_HUNTER": 4,
+        "MONSTER_RAIDER": 4
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GUARDIAN_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "internalId": "ZOG_ANVIL",
+  "name": "Zog Anvil",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOG_ANVIL",
+    "material": "ANVIL",
+    "name": "Zog Anvil",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ZOG_ANVIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

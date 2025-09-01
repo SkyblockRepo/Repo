@@ -1,0 +1,30 @@
+{
+  "internalId": "KEY_TO_KAT_SOUL",
+  "name": "Key to Infested House Soul",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Hold this item in your inventory to\n&7use the soul in the infested house.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KEY_TO_KAT_SOUL",
+    "material": "GOLD_NUGGET",
+    "name": "Key to Infested House Soul",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "origin": "RIFT",
+    "description": "Hold this item in your inventory to use the soul in the infested house.",
+    "motes_sell_price": 5
+  },
+  "recipes": []
+}

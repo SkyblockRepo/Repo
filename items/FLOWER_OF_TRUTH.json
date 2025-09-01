@@ -1,0 +1,164 @@
+{
+  "internalId": "FLOWER_OF_TRUTH",
+  "name": "Flower of Truth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Gear Score: &d460 &8(506)\n&7Damage: &c+160 &8(+176)\n&7Strength: &c+300 &8(+330)\n&7 &8[&8❁&8]\n\n&6Ability: Heat-Seeking Rose  &e&lRIGHT CLICK&r\n&7Shoots a rose that ricochets between enemies,\n&7damaging up to &a3 &7of your foes! Damage\n&7multiplies as more enemies are hit.\n&7&8Health Cost: &c10%\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLOWER_OF_TRUTH",
+    "material": "RED_ROSE",
+    "name": "Flower of Truth",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 6,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {
+        "FLOWER_OF_TRUTH": "BOUQUET_OF_LIES"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 160,
+      "STRENGTH": 300
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 800
+        }
+      ]
+    ],
+    "has_uuid": true,
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLOWER_OF_TRUTH",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "FLOWER_OF_TRUTH",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLOWER_OF_TRUTH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

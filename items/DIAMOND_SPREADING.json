@@ -1,0 +1,72 @@
+{
+  "internalId": "DIAMOND_SPREADING",
+  "name": "Diamond Spreading",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 640,
+  "lore": "&7This item can be used as a minion\n&7upgrade. Place it in any minion and it\n&7will occasionally generate Diamonds!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_SPREADING",
+    "material": "DIAMOND",
+    "name": "Diamond Spreading",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 640
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIAMOND_SPREADING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "VINE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "VINE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "VINE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "VINE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "VINE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "VINE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "VINE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "VINE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

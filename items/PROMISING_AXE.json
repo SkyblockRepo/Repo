@@ -1,0 +1,94 @@
+{
+  "internalId": "PROMISING_AXE",
+  "name": "Promising Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&7Damage: &c+25\n\n&7Gains &9Efficiency I &7after breaking &a50\n&ablocks&7!\n\n&7Blocks Broken: &a0\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PROMISING_AXE",
+    "material": "IRON_AXE",
+    "name": "Promising Axe",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 20,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DAMAGE": 25
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "PROMISING_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PROMISING_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

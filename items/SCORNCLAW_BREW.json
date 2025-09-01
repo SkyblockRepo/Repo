@@ -1,0 +1,31 @@
+{
+  "internalId": "SCORNCLAW_BREW",
+  "name": "Scornclaw Brew",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7The perfect balance between\n&7sweetness and bitterness, with a\n&7strange bite to it.\n\n&eRight-click to consume\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCORNCLAW_BREW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE0OTQ3NjcxNzY4MTYsInByb2ZpbGVJZCI6IjQzYTgzNzNkNjQyOTQ1MTBhOWFhYjMwZjViM2NlYmIzIiwicHJvZmlsZU5hbWUiOiJTa3VsbENsaWVudFNraW42Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYzZiNGE3YmQ4MjQ0MTYxOWJiYzExZDliOGUwZTY0YWU4Yjk1ZjJlNDBiMzkyMTM1NWZjYzU0MzQzMjYwMTcifX19",
+      "signature": "WkQ4iCMadEajZfltuHwvlkB2BpsMwXghYlYfX9RBXzA7xk5410KNfmmVk4lcTQ4v+73EErB5qhZtLwAe/d4V9jsSYqB1RmGlOJ2p0qROLv0vFjvDZAqBx35CTu8Zi6OWGSY7584ZhUofHQV13SlyabVoXUtPaLtNb1MSGC5QrmSosQuR5wLIfdn6W6RK+D5bOfVAWrv/YnYyHL15g/LBokvl5pmdDetf17XW5ig7NpOYg00AxggVYTh8INhwSB5s+hONdrJKcnwFPkaoBRMs5bk4s7G6rQRbL25kJr/R17Gvn6ogDDVEB78nmXRUUwbUgW3vIHBTrsSDnkf/G3MDidZcdJEGArYnV767tfng4wbm3R5mnmiF+JEqRpxlk/GuTTuJ4fVuXyfKbklt5QT5e8IxXsZ9scOfBLei6K46LX2k2DaqQ8AWejdjz/LEFIaMtdF1WCbIvDPfVmPYaBjV8CEGcazQYxlkGjateoH3ien+K7nFH/5eRoo4Smf2NGXJ6017pcRvu+flqIDmSnMPgmuGtuRVhIGSrTwdra6qHa7G5fU3rh58eboZBjgUI5EbruDl71pdedlZljCMuS7oWUggmBmOj3KbgBN7wck4d/2N2+dXQXPigzLLs1QmD4Mlvi3siQodebLGmhN6P/PNGDtTPrc4L7t2fvYPdz8ttJM="
+    },
+    "name": "Scornclaw Brew",
+    "tier": "COMMON",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

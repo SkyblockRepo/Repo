@@ -1,0 +1,26 @@
+{
+  "internalId": "SLIME_BALL",
+  "name": "Slimeball",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SLIME_BALL",
+    "material": "SLIME_BALL",
+    "name": "Slimeball",
+    "npc_sell_price": 5,
+    "motes_sell_price": 30
+  },
+  "recipes": []
+}

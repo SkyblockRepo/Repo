@@ -1,0 +1,65 @@
+{
+  "internalId": "EDIBLE_MACE",
+  "name": "Edible Mace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+125\n&7Strength: &c+25\n\n&6Ability: ME SMASH HEAD  &e&lRIGHT CLICK&r\n&7Your next attack deals &cdouble damage &7and\n&7weakens animals, making them deal &c-35% &7damage\n&7for &a30 &7seconds.\n&7&8Debuff doesn't stack.\n&8Mana Cost: &3100\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Wolf Slayer 5&c.\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EDIBLE_MACE",
+    "material": "MUTTON",
+    "name": "Edible Mace",
+    "category": "SWORD",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 125,
+      "STRENGTH": 25
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EDIBLE_MACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 9
+        },
+        "5": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 9
+        },
+        "8": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 18
+        }
+      }
+    }
+  ]
+}

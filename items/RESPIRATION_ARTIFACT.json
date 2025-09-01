@@ -1,0 +1,81 @@
+{
+  "internalId": "RESPIRATION_ARTIFACT",
+  "name": "Respiration Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3000,
+  "lore": "&7Respiration: &a+30\n\n&7You hold your breath as you enter\n&7the Rift, allowing you to delay loss of\n&7Rift Time by &630 &7seconds.\n\n&5X&5 Rift-Transferable X\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RESPIRATION_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDU1OTQ5NSwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhZjgzOWMxYmZhYTg4YWVmZTY1YTBhNzk5ZjRmMzJjZjM2NjY3ZDlmZTBlN2Y5ZmMyMDBiMzMwNjk3MjZmNzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "DNd3IFGhK2jReRniGc/dx7XMz+SIl5URihfApRGQv8qjGnDI3cBYW1H1/NXewjwmZd74FH/5ljMUdMnXsmqLBEl4HI76ANO0FJMhfA5WrNdL+CrJ6UBJWdZNa7jHxspYRispwcP4Xd42p/cjOc8IkixEbSRLuxvK9qpx1NQoPoY5oEQrMq70DPrKtc1SvIvpx2kgRNYjwFAz0Gk+EUe/Sc2TWZHRBaSbyRRsDAndsocAcDP2tbdYdh5G7Yk974DHUBY4uIo+WVADsrFr7jAdx+izgZU0Cut30XKYW5CveCSxX6Q7aRDgXB8dcAJIA2E6fSrMq9BrCu68huOzqILxs2fadhs6FJwGlL6N8wZLBT6hXEt+RHYU/eUWKBiqo8Sa5rkOiqUJ/zcfsx9g4FTkaxayFfsJ8AFCWMHcfDtfd6YnrGb2vpSyVPhisivN/ZhHwUq2P1C+gqEdwoSPuYaXFqCdf6581onWLa2SeIcenrgTTTsKcdliY3s5buzAT2hjvfXb9tBUSMD25JdgHsvsBA+/PI5Ki4JJehytTHZJXMr5vFQ9T6Jd2fajoOmM1jU0zd4lLt16SZXCbp60FXtWukWC5xuTnckdxYpxcg1LTuRkqsk3XuTg8gKZCToP37njmfa67/gOeAu/b2d6ekx4tOzlk0s9q4l6bd/w8UMaL8c="
+    },
+    "name": "Respiration Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "npc_sell_price": 3000,
+    "stats": {
+      "respiration": 30
+    },
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RESPIRATION_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "RESPIRATION_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "PUFF_CRUX",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "internalId": "MURKWATER_TRAVEL_SCROLL",
+  "name": "Travel Scroll to Murkwater Loch",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Island: &aGalatea\n&7Teleport: &eMurkwater Loch\n\n&9&lRARE TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MURKWATER_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to Murkwater Loch",
+    "category": "TRAVEL_SCROLL",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MURKWATER_TRAVEL_SCROLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

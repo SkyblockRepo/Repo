@@ -1,0 +1,149 @@
+{
+  "internalId": "MAGMA_ROD",
+  "name": "Magma Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8000,
+  "lore": "&7&8Lava Rod\n\n&7Damage: &c+175\n&7Strength: &c+175\n&7Sea Creature Chance: &c+6%\n&7Fishing Speed: &a+40\n&7Trophy Fish Chance: &a+15%\n&7 &8[&8☂&8]\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 27&c.\n&9&lRARE FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGMA_ROD",
+    "material": "FISHING_ROD",
+    "name": "Magma Rod",
+    "category": "FISHING_ROD",
+    "tier": "RARE",
+    "npc_sell_price": 8000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 27
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {
+        "MAGMA_ROD": "INFERNO_ROD"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 175,
+      "strength": 175,
+      "fishing_speed": 40,
+      "trophy_fish_chance": 15,
+      "sea_creature_chance": 6
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMP_OF_MAGMA",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MOOGMA_PELT",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGMA_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

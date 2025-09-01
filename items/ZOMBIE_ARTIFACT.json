@@ -1,0 +1,83 @@
+{
+  "internalId": "ZOMBIE_ARTIFACT",
+  "name": "Zombie Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Reduces the damage taken from\n&7&7Zombies by &a15%&7.\n\n&7&4☠ &cRequires &5Zombie Slayer 7&c.\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODc1ODkyMSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVyb2Ryb2dvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhOGVjYjM5MTYwZmIzMzcxNGU3YTFkZjQxOGRkYTQzYjU4NTk4MDY4ZjYwNTI2NzYzMjhiMjY3ZDAzMTg3ZmMiCiAgICB9CiAgfQp9",
+      "signature": "UoKInDOwEMN7WiTEk6ADxIk2uwv3UFTXD8o7ZrqOwzceAwmVlp1BSG2ynbe7gyJC6GV7tbmtvWuQjUHnocSw2uBduV+2iPhq4oPOvB9ObUlcQPqzQoRNp3ihXwGjquK04/d6ux1F0HC/xHDX/EHBC9OafmXptOGUoPUjpubKIkK3ViOBLmpn/L35yEJctbNbulYgsHhT4Axjd2c/O3qgs1eKWSbZGece/Iq97f3i16lMWxeinNmqHHbKWD1F/AmyYtIqf0dERqTx1zeQZpkQPa2popv0yo9Gib46x2asir80xVrpOpAogtj/6LJbhHbqmDfuNAG8fvFKthVE8LHaOoj+7J1whczsbCQKKNNc3IFXJw5Va1LK6zv+cwHlhiDkBUk4yzRAcn70hxW4iBFRhN3vnKVMb3mSJCyepqsjgQzUByEL37IDn2OIJW85sEs69Sp9YzryR2iyKGACOyoOEoNpT1kIJcolON8NPG0oP67C0N1ek2gMhqVmHfz4mUnovj+YlZfi1Zc4Fej1sU/jJJBPWGGI3UXUE+mDEuR29A7pZwMKZzyvjCiYzSwEVU6k2H+FzwB4Mfnfr90nnihujmNGgmvzrPVdR9TMocRRi9VJoxoRbvsY6X456c2JbBC/Z5MSG2COR23mlfLdvE+fpTpgv6zPWY0i0IswvxpcLFE="
+    },
+    "name": "Zombie Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "zombie"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ZOMBIE_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "ZOMBIE_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

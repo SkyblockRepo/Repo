@@ -1,0 +1,145 @@
+{
+  "internalId": "FEL_SWORD",
+  "name": "Fel Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20000,
+  "lore": "&7Gear Score: &d375 &8(408)\n&7Damage: &c+190 &8(+209)\n&7Strength: &c+135 &8(+148.5)\n\n&7&7Every &a100 &7Kills with this sword\n&7grants +&c1 &7Weapon Damage, up to &c100\n&c&7extra.\n&7Current Kills:&a 0 &8(&c+0 Damage&8)\n\n&aDungeon Healer Bonuses:\n&7&8- &7Increases healing from your\n&7&aHealing Circle&7 by &a10%&7.\n&7&8- &7Reduces the cooldown of your &aWish\n&aUltimate&7 by &b10 &7seconds.\n\n&eRight-click to use Class Ability!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 20&c.\n&5&lEPIC DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FEL_SWORD",
+    "material": "STONE_SWORD",
+    "name": "Fel Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 20000,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 20,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 190,
+      "STRENGTH": 135
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "gear_score": 50,
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FEL_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FEL_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "FEL_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

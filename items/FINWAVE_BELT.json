@@ -1,0 +1,198 @@
+{
+  "internalId": "FINWAVE_BELT",
+  "name": "Finwave Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9000,
+  "lore": "&7Health: &a+18\n&7Fishing Speed: &a+10\n&7Health Regen: &a+1\n\n&7&8This item can be reforged!\n&5&lEPIC BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FINWAVE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQ4Nzc4MTYwNCwKICAicHJvZmlsZUlkIiA6ICJjOWRlZTM4MDUzYjg0YzI5YjZlZjA5YjJlMDM5OTc0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQVJfRGVjZW1iZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1MWMwOTQ1ODg4OGRhN2I2ZjY2YzVjYjFiYTFhMjFhNTNhMjkwNGZjZjFkZmRkYTUxMDNlZGI3M2ZhZWEwODciCiAgICB9CiAgfQp9",
+      "signature": "Z4vKsFgMhctfEWOF2eN+yfKRFduj0hVLJJK2M5zAOELTYgksHhI2lq5GF3DIODM2vUcUyGBHoVYcd8cICCl+JOlciUovUPmHLUthqNRdKtOhHkBoupzyIJFzAo/Q1bcdjgRfEcA4w7pUPh1Ll//ZnV0AFw3qwxvRt12938Oo+yptJTJkFbxNTbcKlr6gAYpiGvjzXGRwNkuFkBFJNGf5hjVMYU/PAT0QHghU44kz6YedidS03czwc8PzHmQaeWOyhNYKqbQsBFJJIbQpDY1BXwqDa9sE3tWriMd4iC0IJ89wSEamKT4Cv0RxM1NMnFWVMLccrTso6rYBkdq8Ssgfz11EBq3Y4hov4XPAO2BlJBT75+yx0FrGclrk9oRiD08/K8oIvTkjG8FPHiVfKRs1zr9dsQmLHxm+KsQww57SQ95JC1L9f/z2LNfJSwCucv0qwxKtOFL8Z/PX0vIBdUcbCAy/cc3KiDe+1l9veQ+54xBoJzkuMQi/gwNqTD9b04XKhsy4nbeY6WS2XoaZ4P72gYbAH4v9Ow7Dq1WEofQx46ATkx4H4dV2/rHI3yLLRaV7UAn9c/wfBZVyLifW2oWKwn9VaQ+7KSvOreDkJREXMEcj3sNXVdMoKLK18qfE7S6kjoce+b1qfalba38gyxPu/OkeVLZ2UN5LLajyGzxPwoQ="
+    },
+    "name": "Finwave Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "npc_sell_price": 9000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "FINWAVE": "GILLSPLASH"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FINWAVE": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "health": 18,
+      "fishing_speed": 10,
+      "health_regeneration": 1
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMP_OF_MAGMA",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MOOGMA_PELT",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "CUP_OF_BLOOD",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "ORB_OF_ENERGY",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 8
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 16
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FINWAVE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "TIGER_SHARK_TOOTH",
+          "quantity": 6
+        },
+        "6": {
+          "itemId": "TIGER_SHARK_TOOTH",
+          "quantity": 6
+        },
+        "7": {
+          "itemId": "GREAT_WHITE_TOOTH_MEAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ICHTHYIC_BELT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GREAT_WHITE_TOOTH_MEAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

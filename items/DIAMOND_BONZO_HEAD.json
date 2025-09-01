@@ -1,0 +1,83 @@
+{
+  "internalId": "DIAMOND_BONZO_HEAD",
+  "name": "Diamond Bonzo Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d100 &8(110)\n&7Strength: &c+10 &8(+11)\n&7Health: &a+50 &8(+55)\n&7Defense: &a+20 &8(+22)\n\n&7Obtained from killing &cBonzo &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor I&7.\n\n&7&8Involved in the dark arts due to his\n&8parents' insistence. Originally worked\n&8as a Circus clown.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_BONZO_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzYzODUyNCwKICAicHJvZmlsZUlkIiA6ICI5YjhhN2NlMmJlYjI0NjdkYTJjZmU4MzQ1YTNjOTZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGFyR2FtZXJTaGFsb20iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFlMjAxYjA2ZjEwYjViNGViMDEzMGVjZDdkNTlmYWM3ZTRlMDEzYmJkNGY1ZDVkMDQ2MzU4MGZiMDU0OWE4YiIKICAgIH0KICB9Cn0=",
+      "signature": "aZs1idGGgV8PeTpnB69yX/xa+HmxAYs6Rq+fHC1DryvsAk12PiuzSb6j4i7MdVFQXU8lJqGHRfUerz8PNHofQ+lRLS4GtIpdloZsqk5gZEJiwrfJlcTSsxPZifuK4MQ+SeSc3Zzt4gZJ/0SlUdBHLhLs9yHYIo+HIMI2ZJy99EHTHKU4PtK/8jyiifnF4iQkFMbNb2uQNtu98sSeIQkDFsitx4UuAStd1FhN81vOlU2Dkz7jM0CHAA0pwOJxdS+FQtPIdZ1t2a9YHye0CzS8Ux4hgFaPsU5FUkzGi1q8bXDVqTxLQU/z0I019WLnOU6xw3PM7QRlWVgMsnfSjabeHlLg9FEOk8HCnAQPvnVx3HswZgJ9UQ+v/E2ducIpgGjs+GgbSDUolaVwFTD7s+rYKPEwTphaU7JStq/NZ3GYOHLGKQXXTgM7kLXHqd5Azfd36DBsq4lD+7rMdOWCyFz14maqj1ctV/OjE0gZ0STNPOSkejMwBYVpVz2+xbrYVGDH8UV8fodRpndrcOxB06UZ9sb3yo7uxuy0IhQXXcGvXtIg4L6RWTxsxudRXH3/7THsCzyCYRyXaULpSf/uwi98ryNbkZHZT+cpd9UwacagyFqsQvH9D83M2upv5VXsWmX+C5GdGCpu2C4Yy574KyU5c83m5pbTrMitlmlmnRpcGpk="
+    },
+    "name": "Diamond Bonzo Head",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "HEALTH": 50,
+      "DEFENSE": 20,
+      "STRENGTH": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 500
+        }
+      ]
+    ],
+    "soulbound": "COOP",
+    "dungeon_item": true,
+    "rarity_salvageable": false
+  },
+  "recipes": []
+}

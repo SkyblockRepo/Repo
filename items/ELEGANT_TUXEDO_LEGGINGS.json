@@ -1,0 +1,40 @@
+{
+  "internalId": "ELEGANT_TUXEDO_LEGGINGS",
+  "name": "Elegant Tuxedo Pants",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Crit Damage: &c+50%\n&7Intelligence: &a+100\n\n&6Full Set Bonus: Dashing &7(0/3)\n&7Max health set to &c250❤&7.\n&7Deal &c+150% &7damage!\n&8Very stylish.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ELEGANT_TUXEDO_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "254,253,252",
+    "name": "Elegant Tuxedo Pants",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ELEGANT_TUXEDO": 6
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "INTELLIGENCE": 100,
+      "CRITICAL_DAMAGE": 50
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "FISHING_GENERATOR_10",
+  "name": "Fishing Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7fishing. Requires water nearby.\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a43s\n&7Max Storage: &e896\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FISHING_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzYyNTQ3NzgsInByb2ZpbGVJZCI6ImU3NmYwZDlhZjc4MjQyYzM5NDY2ZDY3MjE3MzBmNDUzIiwicHJvZmlsZU5hbWUiOiJLbGxscmFoIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OTNhYTNlNGVhYTM5MTE0NTZkMjVhYWIyN2NlNjM5MDhmZTdhNTdkODgwYTU1ODg0NDk4YzNjNmE2NzU0OWIwIn19fQ==",
+      "signature": "vTkjKy+7NFhdsgNEBViZCQincdlZnJdT7Iua/kGDE6A5PZ5MIzAqW2/YXZ/WZWt4iq6eiUxdZYqmgrQSxHhTwmzi1CErI2l0evC2q2NrEySXHDF/6apdG3otXlsjXU52GlzQGhZCj+EGuWkttWm8kDQf0BGJ0M5VyWzRzHUf3YDTitwAxItWF1s5Zk0ZbLGqTZXOwImYhFgAV4FEhv5rm5E/4ZQRnOvB8nWQVywby5q3q4OzbNioe8gV6ee8hpfnru5HMRlaWUKZzfV1ze6W+4s0xtTdEraogiR/xudd+NXunhXyWmNP2iU3XTVsAMZ2klfukHTX0f5iQIrND3HQ5vyCCASPQopO4+xRbgpVyYxkz6lMWYCkOPvq1UaSoLgvdoCKYNpk2jMPmRT5Mb4rqYdx1p1udp6WDPmtWPevFrjT0vy3dOhZ2BN3I2ksKeJ+KCQt425hK8zuzIPEit4O563nzrYTD0EpMabPVZSD2M4l9WBfiKNpERX5dsTA6wPNTbGpdkSoueJiN45EgqkP7xOcoNCL9Cmua2yAYm7eioyHC8HpU2D3BqWoOr5M6Uk+npY4iwqDx76QjTOu//o+mn2SLEfi08FNpLLtJJk6WYkYuf/gmRNj8eXHiVAW75SQlaPGz8HMZNDbCKxbOl19tVlSHL0VteO0Ku8edPpUO2M="
+    },
+    "name": "Fishing Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "FISHING"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FISHING_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "FISHING_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

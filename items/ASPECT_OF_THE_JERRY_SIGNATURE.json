@@ -1,0 +1,34 @@
+{
+  "internalId": "ASPECT_OF_THE_JERRY_SIGNATURE",
+  "name": "Aspect of the Jerry, Signature Edition",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+2\n\n&9Sharpness X\n&7Increases melee damage dealt by &a65%&7.\n\n&6Ability: Parley  &e&lRIGHT CLICK&r\n&7Channel your inner Jerry.\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ASPECT_OF_THE_JERRY_SIGNATURE",
+    "material": "WOOD_SWORD",
+    "name": "Aspect of the Jerry, Signature Edition",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "museum": true,
+    "stats": {
+      "damage": 2
+    },
+    "enchantments": {
+      "sharpness": 10
+    }
+  },
+  "recipes": []
+}

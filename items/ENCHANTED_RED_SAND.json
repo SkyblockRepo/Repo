@@ -1,0 +1,85 @@
+{
+  "internalId": "ENCHANTED_RED_SAND",
+  "name": "Enchanted Red Sand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 800,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_RED_SAND",
+    "material": "SAND",
+    "durability": 1,
+    "name": "Enchanted Red Sand",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 800
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_RED_SAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_RED_SAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SAND:1",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

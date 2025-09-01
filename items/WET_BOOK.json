@@ -1,0 +1,28 @@
+{
+  "internalId": "WET_BOOK",
+  "name": "Wet Book",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 38400,
+  "lore": "&7&8Combinable in Anvil&8 and Reforge Anvil\n\n&7When applied to Fishing Rods, grants\n&7&b+1☂ Fishing Speed&7.\n\n&7This can be applied to an item up to\n&7&a5 &7times!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WET_BOOK",
+    "material": "BOOK",
+    "name": "Wet Book",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 38400,
+    "has_uuid": true
+  },
+  "recipes": []
+}

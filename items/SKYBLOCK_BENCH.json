@@ -1,0 +1,30 @@
+{
+  "internalId": "SKYBLOCK_BENCH",
+  "name": "Dark Oak Bench",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Seat\n\n&7This stylized bench seats up to two\n&7players.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKYBLOCK_BENCH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDA3NzkwMSwKICAicHJvZmlsZUlkIiA6ICJjOTZiOWNhZDgzNTA0MjgzYjcwNGI1NTdiNTRhYjUxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJrb3gzNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNTQwYjMzYTIwZGQzMDY0ODdmMjNhNGRlNTMxM2Y4MWI3NzUwYTlmM2FkNTQ5ZTUwZDJmMGEzZjA1MmEyMjc5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "BotTkNz1ls1lyCkM32uZdKpCJrmum+f/yySqJwu3uPnYZa7yA7yOnxaplA6iIkrG37x/j0JrPyt7qtvYkJNQEbn7C1gZhkCm7p/+eqWLmgCiLIUpKkEkyx/+y8f89eXGIHcNozsnVRi9L4w5XTWuROXqlTq3LM6gdGJxL++QDr8C6ofihhofwf3P77OdccYMCVav/o7bo13zOR6VkBbZAn2q2FuhnJZKfb/Y11G1IPGqjbh5M449OOHchmdUNu2ckRVVpWWAl2dgcZKTOuVI/xCAuPzTFeiTsJr/vbueXyBHwPdMFlPFf0f0yZqAxVtfhvu+38ilGA10lMHTRI/+cXTd2c5aKqmBtj9UAwZ6aY0iDrgXmRtznlASuFJBg4e30/y7DaxWlJ6hV2/uOIJpvdoQ1v6nOmI41d97sG4u/TYlLNEdl+onfTAhgcW2TeC3zwwtoayiPJdKjH2Fmyygtyz7wdYKpzdzby8CHgzYbpg22SYrZzwMLW6vATCdKLo6NbkT9NnCDPaS5wVw5bKqvP22i189+resvcERor0fj/JVjGEixO3C6MQqDvDBiDUl6J89zFHHGNn3mDRa8uyE9nwrp88J6v98euBNRlyhKHx8ZYI5xyP1YOsFszN4IDBQrbrogwcu1p+RYvUDzXQMQtLCcvVW5B/ZfNNng61fqc0="
+    },
+    "name": "Dark Oak Bench",
+    "furniture": "SKYBLOCK_BENCH"
+  },
+  "recipes": []
+}

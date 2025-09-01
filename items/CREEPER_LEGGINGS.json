@@ -1,0 +1,81 @@
+{
+  "internalId": "CREEPER_LEGGINGS",
+  "name": "Creeper Pants",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 71000,
+  "lore": "&7Health: &a+200\n&7Defense: &a+65\n\n&6Ability: Detonate \n&7Causes an explosion when dropping\n&7below &a20% HP&7, damaging and knocking\n&7back all monsters around you.\n&8Cooldown: &a60s\n\n&7&8This item can be reforged!\n&9&lRARE LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CREEPER_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "122,232,44",
+    "name": "Creeper Pants",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "npc_sell_price": 71000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "MONSTER_HUNTER": "MONSTER_RAIDER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MONSTER_HUNTER": 4,
+        "MONSTER_RAIDER": 4
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 200,
+      "DEFENSE": 65
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CREEPER_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

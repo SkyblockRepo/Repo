@@ -1,0 +1,92 @@
+{
+  "internalId": "VERY_CRUDE_GABAGOOL",
+  "name": "Very Crude Gabagool",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7&8Collection Item\n\n&7Compacted Crude Gabagool, use to\n&7feed Wisp pets or tier up into Fuel\n&7Gabagool.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VERY_CRUDE_GABAGOOL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTUyMjA1MzMzMSwKICAicHJvZmlsZUlkIiA6ICJhNzFjNTQ5MmQwNTE0ZDg3OGFiOTEwZmRmZmRmYzgyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcHBsZTU0NDciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzcxNzkzM2M0MGZiZjkzNmFhOTI4ODUxM2VmZTE5YmRhNDYwMWVmYzBlNGVjYWQyZTAyM2IwYzFkMjg0NDRiIgogICAgfQogIH0KfQ==",
+      "signature": "kK0ep93UU/kxJ6E8csLDrE9jvzaAgXH7QEP+tFdieITp5sHrZPpCk30XMTHFviuNqwymQBU9deVmeES1doH4qlTG54yUulrYAVc4GgEmPsJk40g46JuZLHqayB7CguJ8I5zesr/Scc/zsDss/HYSL7EgRMiNvFPi7nN7mz+xLcpXE2Bh2VLVNfkomKJFozY6fPbvMyZ7DM1FdSLDhCXZZPu9ees+kXifMFOX37Pxo4IvkqV1js7MUttQlU9vRPoLwz02uLkqLuCYSvRhVpoKEn/3GFkG3cuz6xPdaSl1nNNvptfC2xhQMdN5RyL85s+i3JuG1E3bVdAzaM/iVmXqt1z4iOqWCUV8DTzmSQYrBDUBEXQ1qN5CFFLqobqdQbQeBUBBz2JANEgU7+tjawkqYgcV/yuqMIeTKD4i2TSK8Vt8Gbhq+WYXfj034KTAvhKxKBKf7w+uPxLiiAfedAFNYaGHmlpR900FtK0PbrD5lmSI6RtPM8h7rbdqm+hMpwAOs2ZjfjT14bdixOrgj4/2E/JUQE88nmjUmv8JRdaFwubZ0ymkr8xBnn8jZcmdKd4H284+XUtLuNk3Gz8PAOdGQ3fSnruS9jL4tAZKiGfKmPyzoCkKJ+21UEtCWzLO2MCvPBLi2tpwf/jxyRqYmkOyRbfsRiGH9PgdQ4RoxB/i63M="
+    },
+    "name": "Very Crude Gabagool",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VERY_CRUDE_GABAGOOL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        },
+        "2": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        },
+        "3": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        },
+        "4": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        },
+        "6": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        },
+        "8": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        },
+        "9": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 24
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "VERY_CRUDE_GABAGOOL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "CRUDE_GABAGOOL",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

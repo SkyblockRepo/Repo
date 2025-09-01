@@ -1,0 +1,36 @@
+{
+  "internalId": "PARTY_HAT",
+  "name": "Party Top Hat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Tiered Bonus: Carnival Craze (0/5)\n&7Gain &a+4% &7more &eCarnival Tokens&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARTY_HAT",
+    "material": "LEATHER_HELMET",
+    "color": "0,255,0",
+    "name": "Party Top Hat",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PARTY": 3
+      },
+      "game_stage": "INTERMEDIATE"
+    }
+  },
+  "recipes": []
+}

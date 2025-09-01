@@ -1,0 +1,61 @@
+{
+  "internalId": "BRONZE_SHIP_HELM",
+  "name": "Bronze Ship Helm",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Ship Part\n\n&7Bring this item to &6Captain Baha&7.\n\n&7Grants &3+0.5☯ Fishing Wisdom &7when\n&7attached to your &6Ship&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "BRONZE_SHIP_HELM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDE1NjgzODc1NCwKICAicHJvZmlsZUlkIiA6ICIzMzU3MWJiY2UyMDE0MTRiYmNkMDYyMjEyZTI4MjBlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFkb21JbmF0b3I0NzgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ2YzUzOTNjM2M1Nzc0MmM5OTJjNTZhN2I3YThiOThkMjY3NTM4ZGU5NDdjMTA5NmZlNzYzNDE0MzEwMDhmMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "RB4+I7ewaYWy5iZgJqJuugpQx5SzyIN1/jeSOJ4tL8m+TLw0DiaI/LrIT1uU7BaK0ua5MJkxl3IrNI8A+6KA4f2qIJVy1aDStzuFglv22b3FQTcDd53+z26DipwnMFc1wzjZDK2KXU7SMAHFiRBCzzjjvOQirIYqU4dcTYFhal5pBTe6/kDrnhQr0csGmb477+hAvtfK5Hw8QMQTuT3nxeYj/H7V2582DkQRgnUnqiU49c1n2MNT5c/VvCJruRI1C3sH9BNN+oGFMQXnw1WaEDb8jVrPisUahMnWuqq91gFjUyJLpT/G+40nDSHwUVSemJ3lHR5vSBOWOKppCYaHGE1v4b1zZm+QFV+7aapQ9CIiNyFikqHQVQ0zU7gGujbLnAuh4UYtFqdTriMV40tlwP/gHPVjIyrF1NN7TJt3zcIHM5xgf25eAb5uh2hwa3v5zXybqK5OmyAOE+C+mUTGjQVH0H6RGcta3guP+By7sZ3v7Oez7KQZqPUNPGezDyItVAmGA1ewiWIMVOYYmap/vJNaS2gebDaAjA1sxRNbjlJKTgkMcx1SDNaJARbtqGqiptMmMV8+2KH95K5hqmKX23n84IBAfkW3u+xbO/u5LGmOT/HcMtnGTDscKIcnoPB2wPL6U453zTwlcHCkZTo4yMvDUiZQJA+6+HHndd/AZmM="
+    },
+    "name": "Bronze Ship Helm",
+    "tier": "RARE",
+    "unstackable": true,
+    "soulbound": "SOLO"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BRONZE_SHIP_HELM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "BRONZE_BOWL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BRONZE_BOWL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "LOG_2:1",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "BRONZE_BOWL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BRONZE_BOWL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

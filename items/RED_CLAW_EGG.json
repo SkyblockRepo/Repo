@@ -1,0 +1,27 @@
+{
+  "internalId": "RED_CLAW_EGG",
+  "name": "Red Claw Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Drops very rarely from Sven\n&7Packmaster. No one knows what's in\n&7the egg.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_CLAW_EGG",
+    "material": "MONSTER_EGG",
+    "durability": 96,
+    "name": "Red Claw Egg",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,71 @@
+{
+  "internalId": "CARPENTRY_BENCH",
+  "name": "Carpentry Table",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7Used for crafting furniture for\n&7your world. View and craft all of\n&7your unlocked furniture through the\n&7Carpentry Table.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARPENTRY_BENCH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDc2NjEzMDM3MiwKICAicHJvZmlsZUlkIiA6ICIxZjEyNTNhYTVkYTQ0ZjU5YWU1YWI1NmFhZjRlNTYxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNaUt5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzOWQ3NzhmMzk4ODYxNDQ2ZjU1YmJhOThmYjdmYzY1YmQ2YmEyMzhmNmNhODUwMTVlZTBkMTMyYTQ0OTMxZmQiCiAgICB9CiAgfQp9",
+      "signature": "TTKm6yLrZULbnHHudr6PiU0Mu1iGcH7/FtoAimXP3Z9WDN9nnIpiAN4UTeEjsYzV1o3e7eJAds4SV5B2913V7vGHDS6OQNV9e4K0Sa2FxCl8MGgprSJIwIWmVsIRP08oRZ2jVzXaq4FTpsvCvwhst+UnwNkRst7AGDyyJNJqZnVJhCkAGkJtv4fggAXoRMPLQHkihWrct4hawCDu3c5swreu7mzThqDBubMrpJkvE6UzqJSyycvfA4D8gL7nLhFb15dXp8GSoKvzxoMJ0z2qjZIzdPXxR9MeQmfdGGUNzG9RWOf0TwMDAX7B4tO/rvCIoXuzfO/s87RV4D0kYwHs65t73r+oGMWDpzVGJk4D1G2l66kqqu9aBZv/tY1BmP4oGS2x1Z3VEL3UAT7wG6/YexoOzCpcTVjHHiONQ/04IPQLOHjXmUD74/Nlao+Rw+0zNWRsehGY24NIM4VELY5SSvSLN3S1X9RiyqhuqLHO5lEclbk0zBN/E5M9XEZ7LqbrZo18WDe5Np3zY4LJyT8nEgWps9JfkRPp7vzl2MnXPIZDhQ6z6Ar0C/xBKXH49Y+fR/BKoIzE2ic2/pCrG7rCgsKrSFwoC8RrnJa6Oi/WXYNrcrVQN8Kdv3J9AmRnFJf7gHT4kPtxtnDyA75meT5gHZMoPs10RyK8zAcBJ5+iPAc="
+    },
+    "name": "Carpentry Table",
+    "furniture": "CARPENTRY_BENCH"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CARPENTRY_BENCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WOOD",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "WORKBENCH",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "WOOD",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "WOOD",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "WOOD",
+          "quantity": 2
+        },
+        "6": {
+          "itemId": "WOOD",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

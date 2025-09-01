@@ -1,0 +1,58 @@
+{
+  "internalId": "ENCHANTED_FIREWORK_ROCKET",
+  "name": "Enchanted Firework Rocket",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 41000,
+  "lore": "&7&8Collection Item\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_FIREWORK_ROCKET",
+    "material": "FIREWORK",
+    "name": "Enchanted Firework Rocket",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 41000,
+    "can_interact": false,
+    "can_interact_right_click": false
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_FIREWORK_ROCKET",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "PAPER",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

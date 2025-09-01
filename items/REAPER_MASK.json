@@ -1,0 +1,155 @@
+{
+  "internalId": "REAPER_MASK",
+  "name": "Reaper Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+150\n&7Defense: &a+100\n&7Intelligence: &a+100\n&7 &8[&7❤&8] &8[&8✎&8]\n\n&6Ability: Evil Incarnate \n&7While wearing:\n&2• &7Doubles your &a☄ Mending&7.\n&2• &7Doubles your &4♨ Vitality&7.\n&2• &7Zombie Armor triggers on all hits.\n&2• &7Store &b2 &7extra necromancer souls.\n&2• &7Summon &b2 &7more necromancy mobs.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Zombie Slayer 7&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REAPER_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNDc0MTY0MTc3NiwKICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeVV1aWRJcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZmMwMTg0NDczZmU4ODJkMjg5NWNlN2NiYzgxOTdiZDQwZmY3MGJmMTBkMzc0NWRlOTdiNmMyYTljNWZjNzhmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "iAhcGWvoQGy1jzvSgBsR8+MqXPlHvIkAMUYzWL4ZO6ABs/744vOhuzpsaNiGHL5lty0Bt7bQ0A2eCIY+T3oMnYxZ56WI29PSWMgKA02h+cOLGoLdtZmjB/ITJLYwe/4Sm8Nnhm2ujcjeYO+Ket/fIMmtimKfPOsfwfkq+vkaUnAzwl+moZX+TSMmOVEqfy7DxOVBqKXUOg9W/0byJzTdmSc9U9Qj5vq8v5S/EZRlRkno+5jNcZjsY3zVxiHcjqoD10CDhP3qSZaFFrG6ofJl3QI2VD9CBTw60bRuN8Rddu3yCymKIQKx90NDQzca2tIIENfHbpWxqvOZZxSR8p9Bsz9PcywQe3PprazEJjcsiWpH6+a7vUs9YdziNEMWLQtHukKBYvNdPCJBYq8qt6xQ+owpVLvhpFFLQ25r0QHwcG5IBiSfJy2wcmcuUAyeHloAQWd934/NcluS+bDeHxjDR4niZReOMOfId5ES/Kc7jKnUBo21g36EkfRhMdJhg+y2BWMqCyxMvdZVf3sx+TU3OCVCzfI0JmG0TC1cBkXT3xLUBzQF/c7G14Cn+1aaNdjECqMfIhn11k0Ch/4JUoh0mBKFTdAH/GV7taIrhIDIKopNcfEM8+klijG19kGdptcOYffDb5QB9r2U5yGV1oRqiUgtV/jiUKZFZk4PBqtOUDM="
+    },
+    "name": "Reaper Mask",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "RUBY",
+        "costs": []
+      },
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 150,
+      "DEFENSE": 100,
+      "INTELLIGENCE": 100
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 500
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 800
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 1000
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 24
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REAPER_MASK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "BEHEADED_HORROR",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "REVIVED_HEART",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

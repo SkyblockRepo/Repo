@@ -1,0 +1,31 @@
+{
+  "internalId": "MANA_DISINTEGRATOR",
+  "name": "Mana Disintegrator",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7Applies &9ᛃ &7on wands or deployables,\n&7reducing their mana cost by &b1%&7. Can\n&7be applied up to &a10 &7times.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MANA_DISINTEGRATOR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5NzgyNzMyNCwKICAicHJvZmlsZUlkIiA6ICI3NTA5NzZmODRmMDE0NWFhYTc0MzAwYWJhMzc5MTIzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwY2hlYXRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYxNTY1YzFjMjY1ZjUwMzk4YzA2NDZhOWI3ZDY0Mjg5NTIyYzBiMDg5MDkxYmE1YTA0ZjFkMThiYWE4NjBkODUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "GdSybCI6Ih2JB1gDD44o8NU1c1GX5K8ynuokIZfJtylwwqL4FFwUJLMoPAL6+h0uiLhugzFyddEmhFpWKaCZiv++Ia+xeJXXue/c59zFNuEBY5u2c5AuxW8XZtX/6Yk83xFOkS7xTGQwiNl2RbWkLFMpZJ87Xnf6jdMErJn1fsMI7hukYC2TpnZgLqQaQCQoPBxPk5ezlW0wWCDp3TUmtJN+zHFUTnbsE3adDrSDh6AJW0SG29EKvu7IH/9a/u0/QAb5IqTLjlkAkUVq+irOrIpt3fGz7lwD8HYc+40FjKohrH30uWbD8eTonoXYVKxEy6OmKs9oDuCnoNGqjLWCWaqUPH0Bkt1KqUaaONQLMhYYQHTWwrbImZD2IkXAuizuRMkflS2YDNKDXSEjbo/YL9Ng51PibLwbvxEa4R5LJOvuJ/9lbXA6UZtBaPUx4CF+NUWyRmLjQXmap9FSbeUCTLK7axSR2TZrDZNHiwwqkdbnzPFOrbOXFAwY1t3DN82btIMYUWBsALfP3FbdwVXKFS+f9VUyBWBlJ+EltUlCSxUqpcKcMgVhO7PI9W4xlv+oWkSQJ+oFfA4AkPH11EUBvQEg/Fuy+2SzIQEixDH4/ts2N7tYSXdPL+lGsEi22eYFPEz29NvlDZK5Rm0y7L9djxVEboSPbmmc61CuiaNNi2s="
+    },
+    "name": "Mana Disintegrator",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": []
+}

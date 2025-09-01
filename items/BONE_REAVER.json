@@ -1,0 +1,106 @@
+{
+  "internalId": "BONE_REAVER",
+  "name": "Bone Reaver",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d325 &8(358)\n&7Damage: &c+235 &8(+258.5)\n&7Strength: &c+90 &8(+99)\n&7Swing Range: &a+0.5 &8(+0.5)\n\n&6Ability: Reaving Strike  &e&lRIGHT CLICK&r\n&7Slash in a huge arc, dealing &c125% &7melee\n&7damage to all enemies hit!\n&8Charges: &e4 &8/ &a5s\n\n&7Deals &c+1% &7damage to &aUndead\n&amonsters &7for every &a1% &7of your\n&7missing health.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&5&lEPIC DUNGEON LONGSWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BONE_REAVER",
+    "material": "IRON_SWORD",
+    "name": "Bone Reaver",
+    "category": "LONGSWORD",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 4,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {
+        "BONE_REAVER": "FELTHORN_REAPER"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 235,
+      "STRENGTH": 90,
+      "SWING_RANGE": 0.5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BONE_REAVER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_BONE_BLOCK",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "SPIRIT_BONE",
+          "quantity": 5
+        },
+        "8": {
+          "itemId": "SPIRIT_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

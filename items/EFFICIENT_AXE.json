@@ -1,0 +1,36 @@
+{
+  "internalId": "EFFICIENT_AXE",
+  "name": "Efficient Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25,
+  "lore": "&7Damage: &c+25\n\n&7Drops 5 Planks from chopping Logs.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EFFICIENT_AXE",
+    "material": "IRON_AXE",
+    "name": "Efficient Axe",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 25,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DAMAGE": 25
+    }
+  },
+  "recipes": []
+}

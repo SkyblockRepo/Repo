@@ -1,0 +1,25 @@
+{
+  "internalId": "PUMPKIN_SEEDS",
+  "name": "Pumpkin Seeds",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_SEEDS",
+    "material": "PUMPKIN_SEEDS",
+    "name": "Pumpkin Seeds",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

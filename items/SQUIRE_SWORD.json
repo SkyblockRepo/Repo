@@ -1,0 +1,44 @@
+{
+  "internalId": "SQUIRE_SWORD",
+  "name": "Squire Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2500,
+  "lore": "&7Damage: &c+50\n&7Strength: &c+10\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SQUIRE_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Squire Sword",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 2500,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "STRENGTH": 10
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWLESS_ONYX_GEM",
+  "name": "Flawless Onyx Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7A near perfect version of &8Onyx&7.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&9☠ Crit Damage&7; others say it might\n&7give &ebonus treasures&7.\n\n&5&lEPIC GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAWLESS_ONYX_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzY0MTg1MDQxOSwKICAicHJvZmlsZUlkIiA6ICI0NmNhODkyZTY4ODA0YThmYjFkYzkwYjg0ZTY5ZjVmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbG8xNjA2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFjYTliMjg0MWY3MWJhNmZjNGQ2ZDJlOTdlODBjMTgwMWYzNmNhMzk1OGU1YTlhODFhNGY4Nzg1ZjY0MzQzNjciCiAgICB9CiAgfQp9",
+      "signature": "QLVaTko+9/A/bEwt6aDzN+OXAuUf/oI8rdmo7Ina4fr1aFJjFXSJnHXZg6ZQk09uSHyQZu36s+nE7kywDiQnA3DbqenxYkvrC0hz54kUWa3NL8lG2oZzc8+LiNcj/HbJ1h69+aGsNjkZMQAGNR4bh+jLqn0YoX4vbGgXdRIPNGTZKw/LjQVpq+WhB1X02cCFFoZ/9hfRFLMqyhFpr3dzQcB4mqnd16zzzyOqRJYI+wixKtxfgIUtm8JGGYX04ag5QSQFKkI1EiuQKn17zrK7ByfRtG5RkTHQmdVZTOKQAsCrb+9OvBfuBq3fS1lnLbrqu8vzRSPaNLoA7upOF5YyxNMHlu7E6XE+LoXXqzshml4wmmntYb6teHYb0PAHxNLl9PBBBEpFLB+/diT7h9g+L9SzSr7NDRPUeoZx1Ru65p7N01xsbwaEm9Atsqtbm77E3bTykw1Dz1aBXXbCC4AqPwJNjrr2cffsExPoIh/OfTCB8InBn87LAtpWlTiQE/YXWHkaE8iL10+66GdU7u5zX3DpLTG9fWeoBMDZXbR5Md0LQDluVSvHsMahUiUX6dOgxz1uOWGQNGgHYQweNLJIyvgtIieXEqkVOwE+7bTn31TWS63WPTeSQZx/o73Io9Q/jHKwxwBqOS4zzgn5oYJySdvhmgMm1O/sRYsfcpYBLCw="
+    },
+    "name": "Flawless Onyx Gemstone",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWLESS_ONYX_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWLESS_ONYX_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FINE_ONYX_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

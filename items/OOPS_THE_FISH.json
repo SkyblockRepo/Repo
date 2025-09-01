@@ -1,0 +1,28 @@
+{
+  "internalId": "OOPS_THE_FISH",
+  "name": "Oops the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Discovered in the depths of the Main\n&7Lobby during the summer months.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OOPS_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 2,
+    "name": "Oops the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

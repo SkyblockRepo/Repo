@@ -1,0 +1,26 @@
+{
+  "internalId": "DWARVEN_GOLD_HAMMER",
+  "name": "Scavenged Golden Hammer",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&7Bring to the &6Keeper of Gold &7in the\n&7&2Mines of Divan&7.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_GOLD_HAMMER",
+    "material": "GOLD_AXE",
+    "name": "Scavenged Golden Hammer",
+    "tier": "SPECIAL",
+    "glowing": true
+  },
+  "recipes": []
+}

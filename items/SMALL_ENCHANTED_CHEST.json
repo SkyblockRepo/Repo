@@ -1,0 +1,66 @@
+{
+  "internalId": "SMALL_ENCHANTED_CHEST",
+  "name": "Small Storage",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 65,
+  "lore": "&7Place this chest next to a minion and\n&7the minion will store items inside once\n&7its storage is full!\n\n&7Storage space: &b3 &7items\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SMALL_ENCHANTED_CHEST",
+    "material": "CHEST",
+    "name": "Small Storage",
+    "npc_sell_price": 65
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SMALL_ENCHANTED_CHEST",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "LOG",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "LOG",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "LOG",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "LOG",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "LOG",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "LOG",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "LOG",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

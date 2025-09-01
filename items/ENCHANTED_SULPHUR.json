@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_SULPHUR",
+  "name": "Enchanted Sulphur",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1600,
+  "lore": "&7&8Collection Item\n\n&9&lRARE ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_SULPHUR",
+    "material": "GLOWSTONE_DUST",
+    "name": "Enchanted Sulphur",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1600
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SULPHUR",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SULPHUR",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SULPHUR_ORE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

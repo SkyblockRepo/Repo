@@ -1,0 +1,51 @@
+{
+  "internalId": "SNORKELING_LEGGINGS",
+  "name": "Snorkeling Pants",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15000,
+  "lore": "&7Health: &a+75\n&7Defense: &a+85\n&7Pressure Resistance: &a+10\n\n&8Tiered Bonus: Long Tuba (0/4)\n&7Grants &3+2⚶ Respiration&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 16&c.\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNORKELING_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "0,0,0",
+    "name": "Snorkeling Pants",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 15000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "SNORKELING": "DIVER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SNORKELING": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "health": 75,
+      "defense": 85,
+      "pressure_resistance": 10
+    }
+  },
+  "recipes": []
+}

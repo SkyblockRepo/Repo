@@ -1,0 +1,73 @@
+{
+  "internalId": "BLESSED_BAIT",
+  "name": "Blessed Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 42,
+  "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Increases the chance for &6Treasure\n&6&7catches to be &6&lGREAT &r&7or\n&7&d&lOUTSTANDING &r&7by &a50%&7.\n\n&a&lUNCOMMON BAIT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLESSED_BAIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MzE5MDMzNTc4NzUsInByb2ZpbGVJZCI6IjkxOGEwMjk1NTlkZDRjZTZiMTZmN2E1ZDUzZWZiNDEyIiwicHJvZmlsZU5hbWUiOiJCZWV2ZWxvcGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMmI5MTBiNTg5N2NkYjg2YjIxZWJmY2JhNTQ0YWZhNDcwYWU2ZDIyOGJlZTM0OTQ0MjdjOWM3ZThmMzM1MDJiIn19fQ==",
+      "signature": "irrvqkdEU3s7jyLnl6X6i2V7E2j2d+PM7Ruw6ma5WcXowGhNkgIwHpWwWn0eO7iPImU7MloQFHFwE63WQl+5PMrfpORrOq5Z8L5FIonmevwR+VBfWguZE0a02JqM/+ZHNEI2Z/gYhzUa/5pPgDPynCeYpaWQLoGQ+6Rx+jNin+lHWkPWfHJTr/AYX6QPtg1GuJJZ+Z0Gvyf1i6rB+EUBWq4PVnOxSaO5TvW4b0zjoY7qfswBo1g86xJEwaHnqE/P8wHrVciUTb9fJrBq3Y5R/Mvwo5MGlGh3VbW/pH8ctxbShdHAhR5OLcXINhOuVeDi2O8Rp6HOJFPCdCCrIDbXkY4s/CRuj8GbJUW/bKV9AtKAD8qQ40uPF1d9hlQ5BYjK7qbLtAjhJGEQTX+JQgJmqpzA1I9JAmLuNgpkYIAojioi6st4Fw+YIorbecoPkS59xRBx9aya5ly4wzT7jjktUa6c6qejKRolEK0XRdLUTjmVtG6EMnTE+fbSnyo4bKxfJjFuy4xIwfCEQtvQ89+j0djYWsvldKIpMHQiZSxM4T5ibj08D7+NwBEiccsz9xCqUM8eOPC6L/agJV2BTMZMVM3ZhIP/NFlwvJofzbk6t9mdMYW+/ngibzkQtOpfrlatkdWEGUTZsjZat69LbAqAdPu1Lgz2ZVAZl6Pw2jtnxbA="
+    },
+    "name": "Blessed Bait",
+    "category": "BAIT",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 42
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "BLESSED_BAIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 9
+        },
+        "5": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLESSED_BAIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "GOLD_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

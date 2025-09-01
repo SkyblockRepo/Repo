@@ -1,0 +1,46 @@
+{
+  "internalId": "DECENT_AXE",
+  "name": "Decent Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+20\n&7Foraging Fortune: &a+5\n&7Sweep: &a+24\n\n&6Ability: Throwing Axe  &e&lRIGHT CLICK&r\n&7While on &2Foraging Islands&7, throw your Axe at a\n&7tree! It will sweep &c50% &7of the logs it normally\n&7would!&7\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 15&c.\n&9&lRARE AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DECENT_AXE",
+    "material": "WOOD_AXE",
+    "name": "Decent Axe",
+    "category": "AXE",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 15
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "SWEEP": 24,
+      "damage": 20,
+      "FORAGING_FORTUNE": 5
+    },
+    "can_have_booster": true
+  },
+  "recipes": []
+}

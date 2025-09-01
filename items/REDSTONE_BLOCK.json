@@ -1,0 +1,25 @@
+{
+  "internalId": "REDSTONE_BLOCK",
+  "name": "Block of Redstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REDSTONE_BLOCK",
+    "material": "REDSTONE_BLOCK",
+    "name": "Block of Redstone",
+    "npc_sell_price": 9
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "VIKING_TEAR",
+  "name": "Viking's Tear",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Experience potions:\n&7 &a+20% &7experience orbs.\n&7 &3+10☯ Combat Wisdom\n&7 &c+10❤ &7per second.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VIKING_TEAR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjcyNjU0NSwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0MjQ0Njc2M2UyYjQwZDBmNGNmN2RhZjg1OTkzMTcwMzZmY2E4MmFmMzFiOGQzZTliZmNmM2ViNDgzOTE3YSIKICAgIH0KICB9Cn0=",
+      "signature": "w9owVNnRwIvhs2y0U5amtizmWPWtgiKFYpZmD5J9fBVu43VPoxcTNeuMvOS2wcrR6jvfnSCWnMchFS2k6Xw7/e721FXtkmImEonUi4vwF1M0VqE6hhIWbOZxnCquPupBuCpqhfTJdy8Xj75PZyMI/BRSLI5WlsJ6kUX11WAzjujIbRtDYxrcy09KoXv0YlyDO4rncMyjsDx5YmBp5RbmCoMlatpMMl49G5tPSfq0AfQcREb3gEkxNKplYJvEQ0+yHlFd6+3U4BmpigrWv7h1T9ANry9qxGja+yH+cH7+ub/J2Tv8jF4jl2OTJr3idEIq+mA9x+aMdxbaaSbiwMXi/IV/M9N+k/YT3xR1dzi08yJ0F6ppw4RSyZ6Eq6VTHtwkCt9y6pmhpMTrKbZhRUuMCB9TRSb8egRL+w6f/K+sCXe8oA2iTebwzpiWcLxDWnCt7M7RD1FPVxs9OJRJKPoyx/kL6GvLOGsUTVkljXTsAxJEVN0i03neqtGInzcBFYua8lu3YlK1Ui/dFNEFYK/L8ywg1uy9ytjamDLn//mWxtc5yvs09868o+Gr0WBCdLKULEITGRify3gcY1KFkfKPhxontTzw2EmbvFangJDOwIndcs6X2edz5lRFtRjMz3u46mpp1i8s9ufw37K/boQ/XKD1MTsb72zmdRDJToxi6o0="
+    },
+    "name": "Viking's Tear",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": []
+}

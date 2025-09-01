@@ -1,0 +1,31 @@
+{
+  "internalId": "DASHING_BOOTS",
+  "name": "Dashing Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DASHING_BOOTS",
+    "material": "CHAINMAIL_BOOTS",
+    "name": "Dashing Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1000,
+    "stats": {
+      "DEFENSE": 1,
+      "WALK_SPEED": 30
+    }
+  },
+  "recipes": []
+}

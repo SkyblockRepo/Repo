@@ -1,0 +1,32 @@
+{
+  "internalId": "MIMIC_FRAGMENT",
+  "name": "Mimic Fragment",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7&8''Fool me once, shame on you. Fool me''\n&8''9 times, and you can craft a ''&5Lesser\n&5Orb of Healing&8''.''\n\n&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIMIC_FRAGMENT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDAyMDMyMSwKICAicHJvZmlsZUlkIiA6ICI1OTgyOWY1ZGY3MmM0ZmFlOTBmOGVhYmM0MjFjMzJkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZXBwZXJEcmlua2VyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzOTRlOGZkZjcyYTAyYzIzYjAwYTIwZDY4ZjBmZDhjMzQzYmI4MWYzY2EzNGJkMGY3YjRmOWMzZGE0MTZlNiIKICAgIH0KICB9Cn0=",
+      "signature": "hhrii+UK3nMqCgG2Y6AgSbTQpqPesw2A0T0BlH8G6PvsfWTb26NfiyOm4Dy74GqXVpcp2OjIsNK8LRp0z+zGOc2I1wpE+gIZMPM5gZ0vQenasLePUbBR7dbmyV1DoKZ7UWXTNipzBMV4UviG59cOOo1tH7Dc/PgsZ0Oq4BuFxgR0trmY5X5Eu/1QbMTLMMpNeIVNe7dJ1tk8UNb2Mou2tTL50eRoHNLl7W6HIleZGcUrIDRzy9ss3rHeJuciz8T9HQgbWa6/ver8qb0VuuHAXUzq43U+u7FWmGWmZ0iPmiFM3UuuzSQybJYrYURiIq0IyVOrysD3XFIA1mOcoXD+qXeSau042nSbty0ey0Ld4KWVYOyhgTgWx5LWncBt0esl7kuqUxG1Kj0T3lhkn7WoqkUSbsSw4JZjBn3HJdJY2jBMDZGfNMhjyRww9T7bSP/UM3RDlTT8cEpM7pTENKY8T6Albwq2l1U93p7ka3LVJjLjKFWJuCunduHovhdVpwfIJNERdsqNR0u5NaOQU2Qq+U0fRMbCWFBbyMlJ3lsTRQ9WfH+G1o/q3BEjL/Wlr+UAEl4pPi/TjvfoUsB5iwNhnrVqR/Obtq1fr+EFI/HVmcVYJPo09TJAyhnBIkvfB9ph2WsOnnYJHZAp8IJ2f+Nwr+nZdDbO/HRP3nKUrCS5MyE="
+    },
+    "name": "Mimic Fragment",
+    "tier": "RARE",
+    "npc_sell_price": 1000,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

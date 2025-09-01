@@ -1,0 +1,31 @@
+{
+  "internalId": "HIGH_CLASS_ARCHFIEND_DICE",
+  "name": "High Class Archfiend Dice",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&dStraight from Kickback City!\n\n&6Ability: Try Your Luck  &e&lRIGHT CLICK&r\n&7Costs &66.7M &7coins to roll between 1-6.\n&7Gain between &c-300❤ &7and &c+300❤ &7for &a24h&7.\n&8Overwritten by new rolls!\n\n&7If you roll a &c6&7, earn &6100M &7coins but lose this dice.\n&8Heavy in the hand. Could someone have tampered with it?\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HIGH_CLASS_ARCHFIEND_DICE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUwMjU5OTUwOCwKICAicHJvZmlsZUlkIiA6ICI0NmNhODkyZTY4ODA0YThmYjFkYzkwYjg0ZTY5ZjVmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbG8xNjA2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmZjdjNDEwYTRhOGI0YjUxOGI5NGQyMTQwMmQyODkyZmNjOGZhNjhjMzAyODQxN2RkNGVhYThiN2UzNWM1NjgiCiAgICB9CiAgfQp9",
+      "signature": "fJEJNaSBBQP4XvDDivy/KJRnWmi0tT26wknRVkgp6iPZqgd7joTmXovYWwy/O5USKTILwp3LFTDZ6kv263V+ka4xWS6EORBOGQKcf0/ngVvZt2PRTK/2vciKf2BqznzHtcp6vS+2MCpgYSN/RjaduxrksFgJJBM4v+W0boi5ZI4m1uCxU2R4oyt1+hJ7lP8xQuF2ZtjzdEohGYFo6GHiFH69p1IVgidDuJzbCcF+mnD4o3EYpH9eGhTkQX5C22c+E3ntz2wkughoHGnX5ZcXmAn17fTpFWo12epHN/c1s8nM+2+QQ3exaYCFwLpSRFTEnumpJvy21REJBFn8/ZAi1xH8rugRY9VJGdOO1p2klH9vtkO5lr88OR1pdXvBcA3WH9v1KCLKkNFeuZHChpU6Wl+I+VMrNE4Yve7WEVmdCzpE6pCdOneXn6vDcM9LfUUhNE7JzWZZYaiUQMqqNOEjAU0nQmgJhJS/w3myWU8ej400n0v2qXhU3jHXDfamm3mBG5QtMomsxyMGhm/HOEMdpkkiWR2JWmkoHSmakmxuhPH9nGiZ4HPLg20BIYYz+ague4gDwAUZsnloKILscyEVmDky2KODXloWu2RLfE3v4nFn6BQMOFaRGAW69fomc2Fd4o4ghmpp1GbH4w0x+zC4NJeWmUtTus6uMhAHhCnZrVo="
+    },
+    "name": "High Class Archfiend Dice",
+    "tier": "LEGENDARY",
+    "unstackable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "SPIDER_GENERATOR_1",
+  "name": "Spider Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Spiders!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a26s\n&7Max Storage: &e128\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPIDER_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MjAzNzk5MzcsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3N2M0YzI4NGUxMGRlYTAzOGYwMDRkN2ViNDNhYzQ5M2RlNjlmMzQ4ZDQ2YjVjMWY4ZWY4MTU0ZWMyYWZkZDAifX19",
+      "signature": "aMBj+dQGY0CS92zsxHRTL9B6HqADqHJGLd5wb70HtJUNG6m1u0T+R6Q9h+h01719AQUU2MUot5nna+EhEj3/DHKWQX63+jZVFqkbkqRy3nJ8U8yd/EmAXX3y0yd0x9t7cqQeoqQ7w+wQxYM5UxIrFKw74qLekjG5vzFSyj9E0F8lLppONr7+lsRGDe8NG3L036AFDkXR2mst/rY4umwkDrdrJI+CCRifExdcaFr3bnSO29XsxF2gbn3iXtRS8yaGNDENOYie5s6AH92+2KK/neol2Nz8lP3zXvhtHMSOxwQMANMUJD0uZkUILVEYc42KrvtM1hPXGs7XFrRnpbGXPcWdF/7DHu+AIKDBpSep0cT8BpQH3VgrJStczNIt/QiLIgCM6KPyLGxhULswA1OvwRU9pDoL07fpFuSNXkG3/iGBcIBWrou6EMhiXilaOjr1Mabxd87PSJ6sguhvrnEptJ4qGgkmblX+r6rKnEhPJZPk7+SNNln2LO8R5AePadVvj6eUXKCulx5cQMUp5k5JII5aAIaxyoA93uk4mbeoZdMnu7OnJCy+romCr/E5l7Q6tIi7cWnZesfZ1PjMgmsTYdFLXI3KCAofx3QoBMitVIlEgRQ4bBWuuX3XdacinKgXTiflh5MJ3lknEaW9zckVDv4dU3ukavJvTwBj59fkgaM="
+    },
+    "name": "Spider Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "SPIDER"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPIDER_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRING",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "STRING",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "STRING",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "STRING",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WOOD_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "STRING",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "STRING",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

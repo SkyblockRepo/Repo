@@ -1,0 +1,27 @@
+{
+  "internalId": "SCYTHE_BLADE",
+  "name": "Scythe Blade",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCYTHE_BLADE",
+    "material": "DIAMOND",
+    "name": "Scythe Blade",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "glowing": true
+  },
+  "recipes": []
+}

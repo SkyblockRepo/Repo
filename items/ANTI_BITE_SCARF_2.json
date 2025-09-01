@@ -1,0 +1,71 @@
+{
+  "internalId": "ANTI_BITE_SCARF_2",
+  "name": "Anti-Bite Scarf",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+110s\n&7Hearts: &a+1\n&7Intelligence: &a+22\n\n&6Ability: Helmets All The Way Around \n&7Regain &a+2ф &7when killing a monster.\n\n&7If you would take &c❤ &7damage, take\n&7&c0.5❤ &7less.\n\n&eLeft-click to pick color!\n\n&7&4☠ &cRequires &5Vampire Slayer 4&c.\n&d&lMYTHIC HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANTI_BITE_SCARF_2",
+    "material": "CARPET",
+    "durability": 14,
+    "name": "Anti-Bite Scarf",
+    "category": "HELMET",
+    "tier": "MYTHIC",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "stats": {
+      "RIFT_TIME": 110,
+      "rift_health": 1,
+      "RIFT_INTELLIGENCE": 22
+    },
+    "item_specific": {
+      "hearts_reduction": 0.5,
+      "rift_time_regain_on_kill": 2
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANTI_BITE_SCARF_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "SCARF_STUDIES",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ANTI_BITE_SCARF",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

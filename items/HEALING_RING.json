@@ -1,0 +1,64 @@
+{
+  "internalId": "HEALING_RING",
+  "name": "Healing Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 17000,
+  "lore": "&7Vitality: &a+10\n\n&7Grants &4+10♨ Vitality&7, which\n&7increases incoming healing.\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HEALING_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzQ4NDgwOCwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwMjQ3YmM0YTAxZDJhMjM5MWNkOGQ4NTQzYzlmYzY3M2NkYTc0YjA2YmZjMTI3YTcyZWMwNmFkM2VkNTgwZTEiCiAgICB9CiAgfQp9",
+      "signature": "w555aLtEtY+cPB3KJHBhEcOpTdmJ3nRmmq6Ni8L85APb02noKxeaZoN9gZ5/4rgjP6De/6YQm3T0Z7uF3ChO4MvMqLfnlgVMyWVgeE4PY+i0yOQces7AViDfO1Z9bnjzEYxgpIZrrNbm1UJ7b1/1isAMfK5pnzZVM8WN1gtnApyyZJs6s2evl6ei8EDedYrM6y17JMg8oAz8/pInEIXxdTY4s2GkPrSIw1OrfGz+lGFPblZoflBA96MDi8YMRTfviTpB3woVHebHMferEruc3wc9nTlWDtJXkdbG/nzzGs6wJjaFfFFEvrtk+uogqb5LY3Yun7FFTsIbT41EjvMHE1EFlL61O8SS9yXAlvWgRgrNVQkDu/k4LI5mNAlltxqweD2GFTc6fy9ozMAsIVI4VhfU9UmLLlceqS882IrC2m8St30nGufUGeuyVUg9AJM35fQvKVGYqilpwXqdnjO94kfVNjsdHGUM9uUJyq0hHj1IpQLcYPmhMi+t3w2s3xtExpApDfxWBYcTcegFihvVeurITANEoHJi9Qoj71n3puUtCH80vFnuOCvzwphqn+P5E7naFJvxyFJehAD6hTFCyaxZVmxLrP4SG5R0ibhWY6xVUy/uPrSa9FwfZGKUaFpbt/ShmcK1C1KdF+cNa36FlaViqjil31vdEJ8xOTowRgw="
+    },
+    "name": "Healing Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 17000,
+    "stats": {
+      "vitality": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEALING_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HEALING_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

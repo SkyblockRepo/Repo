@@ -1,0 +1,84 @@
+{
+  "internalId": "ROGUE_SWORD",
+  "name": "Rogue Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&7Damage: &c+20\n\n&6Ability: Speed Boost  &e&lRIGHT CLICK&r\n&7Grants &f+100✦ Speed &7for &a30s&7.\n&8Mana Cost: &350\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&f&lCOMMON SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROGUE_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Rogue Sword",
+    "category": "SWORD",
+    "npc_sell_price": 3,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 20
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "GOLD",
+      "amount": 5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 1
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 5
+        }
+      ]
+    ],
+    "item_specific": {
+      "mana_cost": 50,
+      "speed_boost": 100,
+      "cooldown_seconds": 5,
+      "effect_duration_seconds": 30
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

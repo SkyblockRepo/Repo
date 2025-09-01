@@ -1,0 +1,207 @@
+{
+  "internalId": "HOT_TERROR_LEGGINGS",
+  "name": "Hot Terror Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Crit Damage: &c+63%\n&7Health: &a+258\n&7Defense: &a+69\n&7Speed: &a+15\n&7Intelligence: &a+6\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Hydra Strike (0/4)\n&7&7Every &a0.2s&7, arrow attacks grant &c1&7\n&7stack of &6⁑ Hydra Strike&7. &8Lose 1 stack\n&8after 4s of not gaining a stack.\n&7\n&7&7Each stack grants &c+2.8% Damage&7 and &b+1.5%\n&bArrow Speed&7.\n&7\n&7&7At &c10&7 stacks shoot &a+2&7 arrows that deal &c30%\n&cArrow Damage&8.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 27&c.\n&7&4❣ &cRequires Kuudra Hot Tier Completion&c.\n&6&lLEGENDARY LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOT_TERROR_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "93,35,209",
+    "name": "Hot Terror Leggings",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 27
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "HOT"
+      }
+    ],
+    "stats": {
+      "HEALTH": 258,
+      "DEFENSE": 69,
+      "WALK_SPEED": 15,
+      "INTELLIGENCE": 6,
+      "CRITICAL_DAMAGE": 63
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 170
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 190
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 215
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 240
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 270
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 340
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 390
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 440
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 800,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 20,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "BURNING_TERROR_LEGGINGS"
+    }
+  },
+  "recipes": []
+}

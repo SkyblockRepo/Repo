@@ -1,0 +1,80 @@
+{
+  "internalId": "PRESSURE_ARTIFACT",
+  "name": "Pressure Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Pressure Resistance: &a+30\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRESSURE_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjM5MDI2OTcxMywKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3NmVkZjMyOGQyZjhlOGI2NTMyMzk5YzgyNDYxYTRlNDg4MDc1M2I2ZTlmOTI2NjA0ODg0YWVjZjBkZDVkMzMiCiAgICB9CiAgfQp9",
+      "signature": "vJuNCLVxEAsv0g302w1jvFNyMSHfa759SW6G0C+7aHkHy/uAksYsxsgh5Ic1LsPWnRSZqz1W4Ryv5CYGFsxHw2myMeIezHOQf+i5DE1d1SZa+FoaVVadmgzfCrWBEYvj5PxgHDLp58TAhJmRzvdF4ZZT26tHU7PQq6+hjmZuUfoB98NH0YOB+fDKaT1bmbHRaqv+stL9YLgHPAEPnABitUA1y5P4AxU2ULgp54Xm7nIlFAEkHI3Mft9OaVqr9vT9XAQaWVOKZdwzmPrJIowmoMxGMD15o2vVCXweRexRLi8t98foUzf/TihCOoCH+GWAGdMlGXrNC9c1XVkNPUog14N++TZAHfHfVgFISuBeKsgDKmVspWEHl5bidl2iiIbbAGtxIhuH4KaqHmoR/qtpYy1BY1PjjrvL+uHXyNBIkmhAUznhnS9abdNGqX2oDvO8uvInmWMcuvI05lJKDFm7i+1VdTvkVAcrt8NezEsswcJQBJDsVixxYja74vq8wMcuAYpfbWFFXo8K8+T47kYiPoCfXqwMDY4cTPxZdM8TykvyBvmQiv4sOKezuR/Thwy3JNrCjc+bXBdv8U8WAl1fNd5D65DA8NukGdqC54gb5DaVSXqtu0QQzDpYOyoKRx2kSYuY5+WXe6Gyb48cTzZ+APDQ3BCCf8D6KnpObUkdd1U="
+    },
+    "name": "Pressure Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "npc_sell_price": 1000,
+    "stats": {
+      "pressure_resistance": 30
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRESSURE_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "DEEP_ROOT",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "DEEP_ROOT",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PRESSURE_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "DEEP_ROOT",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "DEEP_ROOT",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

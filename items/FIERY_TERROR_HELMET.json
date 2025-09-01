@@ -1,0 +1,211 @@
+{
+  "internalId": "FIERY_TERROR_HELMET",
+  "name": "Fiery Terror Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Crit Damage: &c+100%\n&7Health: &a+320\n&7Defense: &a+100\n&7Speed: &a+24\n&7Intelligence: &a+30\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Hydra Strike (0/4)\n&7&7Every &a0.2s&7, arrow attacks grant &c1&7\n&7stack of &6⁑ Hydra Strike&7. &8Lose 1 stack\n&8after 4s of not gaining a stack.\n&7\n&7&7Each stack grants &c+4.2% Damage&7 and &b+2.5%\n&bArrow Speed&7.\n&7\n&7&7At &c10&7 stacks shoot &a+2&7 arrows that deal &c50%\n&cArrow Damage&8.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 37&c.\n&7&4❣ &cRequires Kuudra Fiery Tier Completion&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIERY_TERROR_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDEwMDgwOSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNDY5MDJlMTc1NmEyNDJmNDAxZDBjMjU2N2VjNjQ4MWM2NTA4NGFmOWIxYWFhYmI5NzMyZjU2Y2FkZTU0MmYzIgogICAgfQogIH0KfQ==",
+      "signature": "woJ8kMN2CLr+OAKX1/TSDLGjgWrrQhuOJhbHUAJ08KIIyOd64d806ajC8/MqZxj6zhxPseXpEvZNgYVN/KuzOYZj8h3bHYpYEHxi9ZSM8SG+WZlLenzfBfnYNE+VgIn5h/L1On7pqVvO6wicdf5dfY/ihx5NjOO/BVGA/dA7MU0HdqodpWdUprUu3WjI1M37QpLyQrHfGm+ynKbKlijUBTCSekz2MKN3qFH7K6qOLSiluCcy1fdenTUQm1c0WmomYfJCbfrB3IBiKqirghYMRN66IFaZHPiPI6OuN4di3kHbAlC9wbV16x0pOga6d20jX0UBhBYdjzY59+eg9xj7OYx/s/sP4KUOHeKlh3zFLmFGcjaJqL98+n6WuyXxFqpOdUsORurWld8azcOnO0ezSl7hC5De38ZsPBtWWbtRqwjistfBFZ1jR8qGpLz/FinqTqI+23UcFiyD+S1sVyZ6gw5qKrVaD3noNPNnjXUYSHrWk699fd1uPuhSCaVOxssrBf5ly4w2K8fiIdTbe8wNTaXT15irvOL7ve/4AErxynqhZLLohJVjNhIN2kHAnYfc+YM3KFeRP2ygAykSv2wIs6DDOMn3A3YCu3DA4UWCn8adeCPM8lK2ZRJsY+Q1J/g8Z53qbqFqFm2emwUSjZ4E0WD8CCUVGzCKnsI10wEyzPs="
+    },
+    "name": "Fiery Terror Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 37
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "FIERY"
+      }
+    ],
+    "stats": {
+      "HEALTH": 320,
+      "DEFENSE": 100,
+      "WALK_SPEED": 24,
+      "INTELLIGENCE": 30,
+      "CRITICAL_DAMAGE": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 7000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 9000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 11500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 13000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 14500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 25500,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 80,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "INFERNAL_TERROR_HELMET"
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,83 @@
+{
+  "internalId": "ENCHANTED_SHARK_FIN",
+  "name": "Enchanted Shark Fin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7A razor-sharp shark fin designed to\n&7craft powerful items.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_SHARK_FIN",
+    "material": "PRISMARINE_SHARD",
+    "name": "Enchanted Shark Fin",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SHARK_FIN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SHARK_FIN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SHARK_FIN",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

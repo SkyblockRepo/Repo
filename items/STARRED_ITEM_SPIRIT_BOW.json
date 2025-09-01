@@ -1,0 +1,121 @@
+{
+  "internalId": "STARRED_ITEM_SPIRIT_BOW",
+  "name": "Spirit Shortbow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "{{Item_starred_item_spirit_bow}}",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_ITEM_SPIRIT_BOW",
+    "material": "BOW",
+    "name": "Spirit Shortbow",
+    "category": "BOW",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 4,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "stats": {
+      "DAMAGE": 220,
+      "STRENGTH": 110
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_ITEM_SPIRIT_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ITEM_SPIRIT_BOW",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "THORN_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

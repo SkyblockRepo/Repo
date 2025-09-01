@@ -1,0 +1,30 @@
+{
+  "internalId": "EMPTY_SODA_CAN",
+  "name": "Empty Soda Can",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMPTY_SODA_CAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzU0NDU3OSwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhNDBmMDI2MTI0MGJlN2EzYTIxM2I4MGY2Y2NlMmNiMTE0ZDAzMzlkZThmYTQ5YjVmMjQ0YTE4MjVlZGNkNzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "fFBLlBin+NqDp33LbzaIELY8McXYkrJp9Z2ACT6o7DCq2X9YkLd3FPHTxMlqQVrmNt/sBwoLqqNjz05QHKmZd0QjknLLyI0uYh5P0Eyn2akVY5nI1DlzuRdN6Ll5aJLV/pQdeq/QVorM6s+Dcu491agzXmzvY7j9llfXXAphiAiTkKlg+J+/mih3oBu7P/+fucLPC3qMM7EMflsc2mKezSewkXlFeUR1wUo/N0SUrGs9paS405u88eDGe2Uq6qQdZ8OtUvFIDeG2hP+7SOegiwD+LJonFPbVZSIKsgf5YnikSI+EOZAdBJwzRhno4x4rnmK4IqHCq8buuPseklIwDByc5FwQFE0cAb2norDsXgXWKOMNeGjw8oKhAAnkS8mlG9CKf6v2SabBq5iQj5W2IORC3kc5YI0Fr8n5gfS0TZ+2YmZCISCs0F37r2n99Zc8WejMd3MDSlV92a3HvyouVGtHatYfoXJKujLPtbXWDELXlVqtmPwwlMlnZtcd2Qskff1eIrCAmq9gLPd5zmg0GYV5JQ97FfCfjHIY5qTF+i5lpOah0qWhQo1y84+JCTYhr1j67l9DOzEi/0GfpJgGkQsta2CT7qEum8gPsJ6JTEYQV4O3i942FWwTb7Q+nRgNBygQiigSTs9ttXfpMP2m4WFvEPeUsqAyLxNUR7Y2qbM="
+    },
+    "name": "Empty Soda Can",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

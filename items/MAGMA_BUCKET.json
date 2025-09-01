@@ -1,0 +1,49 @@
+{
+  "internalId": "MAGMA_BUCKET",
+  "name": "Magma Bucket",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "&7Increases the speed of your minion\n&7by &a30%&7. Unlimited Duration!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGMA_BUCKET",
+    "material": "LAVA_BUCKET",
+    "name": "Magma Bucket",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 50000,
+    "has_uuid": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGMA_BUCKET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_LAVA_BUCKET",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HEAT_CORE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_LAVA_BUCKET",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

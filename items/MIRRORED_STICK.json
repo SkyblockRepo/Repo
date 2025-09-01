@@ -1,0 +1,43 @@
+{
+  "internalId": "MIRRORED_STICK",
+  "name": "kcitS",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIRRORED_STICK",
+    "material": "STICK",
+    "name": "kcitS",
+    "origin": "RIFT",
+    "motes_sell_price": 15
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MIRRORED_STICK",
+      "resultQuantity": 4,
+      "crafting": {
+        "5": {
+          "itemId": "MIRRORED_WOOD",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MIRRORED_WOOD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

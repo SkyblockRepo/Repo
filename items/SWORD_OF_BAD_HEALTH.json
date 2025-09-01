@@ -1,0 +1,191 @@
+{
+  "internalId": "SWORD_OF_BAD_HEALTH",
+  "name": "Sword of Bad Health",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4000,
+  "lore": "&7Damage: &c+200\n&7Strength: &c+50\n&7Crit Damage: &c+50%\n\n&6Ability: Bad Health  &e&lRIGHT CLICK&r\n&7Use &c5% &7of your max health to gain &c+5❁\n&cStrength &7for every 5% of total hp you have.\n&7Capped at &c+100❁ Strength&7.\n&8Health Cost: &c5\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SWORD_OF_BAD_HEALTH",
+    "material": "WOOD_SWORD",
+    "name": "Sword of Bad Health",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 4000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 200,
+      "STRENGTH": 50,
+      "CRITICAL_DAMAGE": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 50
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 60
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 70
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "SPECTRE_DUST",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 350
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 5,
+        "essence_type": "CRIMSON"
+      }
+    ],
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "CROPIE_TALISMAN",
+  "name": "Cropie Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Wheat Fortune: &a+10\n&7Carrot Fortune: &a+10\n&7Potato Fortune: &a+10\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CROPIE_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjE3NDk0MywKICAicHJvZmlsZUlkIiA6ICIxMWY3ZTIxMDMyOGE0MjRmYTU0NmFlZDk1M2FkNGU3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnR1bmVkMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYzdkNTUyMGE3M2UxZDZkNzg1NDk2YjVmNWFmOGM5ZTE0YjQwZDZmNmViZDYyOTIzMWRkYmNlMjdkNDIyMjE0IgogICAgfQogIH0KfQ==",
+      "signature": "XVKUQ/e6zjUOuSJZ5Xca/0388Vot06qb+CufgqOAeeCCjO5t9q9mLlKLUYbQwIargeDKGl2XP+Gs00pt8JHZTlEHt1ko7s29hmeXwEnfIYNDu8GSuhlobqky4uZ+2Pb4cmtohF3QEUFX21UAcRNrP1dgVBzPMfOSL17Ik4qQpr2+b/1zwqllgzpgNWJkm80/FpNwsbzoKgroZX/lNAvLOycGqU9korpslV9XOS9VAnXvApK96VmRm6Zbz48YDpC75HaSO3KGCU9MAw/R14Q+G/rrWOPCOz8OQ5xk3kqAkR/fJ59gRrhK6o+I5HAFgiiluLKO0u110KxhMLhvHUSaIIKZQXgJXYvvjAAr71mhmanSz5J9WoP/+9IoOJ4kq3YL9Ff+/78UglF4kD94jepBo6/ekTk9CEZOfVDY8+Z7Q5Jv68CMLtX8QOf+Xztmh7RUqKbWkxkmlQSz5Dik9QP4LwUXoq/8Y3GCue8kyz1v1CHa7J75aG6O0ruFbyUJG9N8HRup0g2TpxArX3+1IdUXXsOs4+LuG5QN/bAwRJrFB9cvlbWL+MIGASxb1uBD3q42BHmN4FzXDW2Sk4DW0u1wmkN7WGtXgYS+gVGWOeYDreCFegwYDBeyaeaUiUtIYbpKDqtWx3sgvsHO1vvie+qGV7lC4RgKxTMb/POBhE/IMGU="
+    },
+    "name": "Cropie Talisman",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "stats": {
+      "wheat_fortune": 10,
+      "carrot_fortune": 10,
+      "potato_fortune": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CROPIE_TALISMAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "CROPIE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

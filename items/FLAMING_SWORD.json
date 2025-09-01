@@ -1,0 +1,38 @@
+{
+  "internalId": "FLAMING_SWORD",
+  "name": "Flaming Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&7Damage: &c+50\n&7Strength: &c+20\n\n&7Ignites enemies for &a3s&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAMING_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Flaming Sword",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 20,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "STRENGTH": 20
+    }
+  },
+  "recipes": []
+}

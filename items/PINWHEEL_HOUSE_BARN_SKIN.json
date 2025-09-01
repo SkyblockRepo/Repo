@@ -1,0 +1,26 @@
+{
+  "internalId": "PINWHEEL_HOUSE_BARN_SKIN",
+  "name": "Pinwheel House Barn Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Consume this item to unlock the\n&7&6Pinwheel House Barn Skin &7on &aThe\n&aGarden&7!\n\n&eClick to consume!\n\n&6&lLEGENDARY COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PINWHEEL_HOUSE_BARN_SKIN",
+    "material": "WOOD",
+    "name": "Pinwheel House Barn Skin",
+    "category": "COSMETIC",
+    "tier": "LEGENDARY"
+  },
+  "recipes": []
+}

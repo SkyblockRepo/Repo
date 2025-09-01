@@ -1,0 +1,35 @@
+{
+  "internalId": "ABIPHONE_XI_ULTRA",
+  "name": "Abiphone XI Ultra",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b6 \n&7 &7Maximum Discs: &b2\n\n&eRight-click to open!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_XI_ULTRA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njg5ODk5NiwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNjllYmI2YzQ1NGMyZTIwZDJmNTMxN2FhOGYwOWNkODMzMzYxNGRhOWViMGRjYzI3Y2ZkYzdmYTAwMDBjNGExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "lqwqWp2Bo+4QTrzKg7KF4OdlA0x/KVFmYAxSEycbB6FeF7LdA+gNOy9yEiAejqPiXxgagmiz9dJJ23TDe4Allq0+e1zdhy8zLQ6rOn+ZZ3DGReGu5GTBupb8m5puYRvS1aiXqsaoL6ZqtR1Ft1yOiW5SjCN70gQjpDurnpNgv7jKYuBKT/qGT6JemdKb6FmJqP+tSYuck5Uj5OCxAdqUYfBj2PuFwyLcoqaFS4RuANjTX0zkCjRo+sTrzUkwiUMCxJTKeRTHsvQo8XK6KokvrLoV3tmEjRzrOtupbk3RIw7Vl+d1hSwZIjzF04qU9NLqEyfv86+x0tc+UH6JQ2dFA4Awwz4Mdg4XqmeqhsTAuDv8KAPYu4Etjsn6YoeCw3M58BIQBwBPh+LlKdD1r4Sf3oX2ozTP1TIpHhVmDGvzkXlwphF8QDZK+8gAxN5hl+8VyabyRJCsmNqNmIVuG1nZ5nGcv0PtemO+AJP++ubm+GCuhf1bseY62bT8ZBYVCQpFJOxlWVybI2U4FQzZZ5jW5QADaE/T8DpVsL3z75iyP09cVaIpk4F1JzbPsm4CVEvRCoOQ2nb46eG4MeRCQLYkwTYa8WDHmUffhftwC/5QBsMz1Mkg26sDNyU5RAsg81bqbvlkQ6ds+3zCgC1KpNI4mMwEyHQ8Wpbyxn8o3xMJjms="
+    },
+    "name": "Abiphone XI Ultra",
+    "tier": "UNCOMMON",
+    "item_specific": {
+      "max_contacts": 6,
+      "max_musicdiscs": 2
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "STEP:6",
+  "name": "Nether Brick Slab",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STEP:6",
+    "material": "STEP",
+    "durability": 6,
+    "name": "Nether Brick Slab",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

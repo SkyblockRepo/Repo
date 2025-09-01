@@ -1,0 +1,25 @@
+{
+  "internalId": "IRON_DOOR",
+  "name": "Iron Door",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_DOOR",
+    "material": "IRON_DOOR",
+    "name": "Iron Door",
+    "npc_sell_price": 12
+  },
+  "recipes": []
+}

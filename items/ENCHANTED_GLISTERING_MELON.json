@@ -1,0 +1,68 @@
+{
+  "internalId": "ENCHANTED_GLISTERING_MELON",
+  "name": "Enchanted Glistering Melon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7&8Brewing Ingredient\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_GLISTERING_MELON",
+    "material": "SPECKLED_MELON",
+    "name": "Enchanted Glistering Melon",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_GLISTERING_MELON",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

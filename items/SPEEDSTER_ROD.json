@@ -1,0 +1,68 @@
+{
+  "internalId": "SPEEDSTER_ROD",
+  "name": "Speedster Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Damage: &c+30\n&7Strength: &c+15\n&7Fishing Speed: &a+45\n\n&7&cThis rod is broken and cannot be\n&cused to fish.\n\n&7Bring it to &2Roddy &7in the &2Backwater\n&2Bayou &7to convert it into a &anew rod&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 6&c.\n&a&lUNCOMMON FISHING ROD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPEEDSTER_ROD",
+    "material": "FISHING_ROD",
+    "name": "Speedster Rod",
+    "category": "FISHING_ROD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 6
+      }
+    ],
+    "stats": {
+      "damage": 30,
+      "strength": 15,
+      "fishing_speed": 45
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPEEDSTER_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "RAW_FISH:1",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "RAW_FISH:1",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "RAW_FISH:1",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

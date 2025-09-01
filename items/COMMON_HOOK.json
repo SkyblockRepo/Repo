@@ -1,0 +1,66 @@
+{
+  "internalId": "COMMON_HOOK",
+  "name": "Common Hook",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Increases the chance to catch\n&7&f&lCOMMON &r&3Sea Creatures &7by &a25%&7.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Hook &7to a Fishing\n&7Rod.\n\n&9&lRARE ROD PART&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COMMON_HOOK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM1OTI2MSwKICAicHJvZmlsZUlkIiA6ICIxMTM1Njg1ZTk3ZGE0ZjYyYTliNDQ3MzA0NGFiZjQ0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJpb1dsZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIzNTM4OGYwOTFiN2ZkMTMzOTcxNTFmY2E1ODBmZGY5YTQxYzJhMGEyOTdmODg3ODM4NzEwZjYyOWFhM2ZkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "K5Bssv29h39rY5GjSTDGlGSPKyw5qqa/OI42nkZNPDtea1IUTnJxYGWOQDHHqocgjipHCTxArbq8frMvsotayYwuocr2G46+avSXJ56HdgoMz8CenvAPyQbRymEFQmZGjuq8qLLJ8MVMM7ARl+bey/HzuDrYpbp2w4sOAe8n6WJd2OP6n/dfUUd2T5jiUKuCzIYjZLfwW9Klf/mhoWsqApVC8aV1cuBecxDfrMAqTE76HNari65gQbVyzoXbezDPZK+JSlPK1tNwHbMYJbhC5nP/Q+kGzUQamBbFbC3XmpCWMaKCiMbdRKTVGA81uABQmxTGcfQivLMm50tOO+00yyENxRrtbt1AiLIBqq4a7juEdLqR1ULOBzCuXzBiseyDlpD7sWKmc0vwoSHMBWVu52nV/6+Zom3wYNSPfdz83qO80CMhMH2rl99NQB2Pq3DtxynC2opf12fSWaKqWKT5NPJN+wxVePgh+UG0t8Pq9Cfd9t08lmi0n/SCfC8lFJ27qg7wOhz1wx2xF4wJnsa7QHA/Op6x1eF2WQfvADH+z3s7bYUlazBe6MBFrozqqaRZTqOjKVXcXxbCUvvD1hmZkc12ZXqQtN+aaiyxLUdNtC17BB9qZiUHjYpolgOZv2GGJFAzzSy57+41LcklAjR5M6ZUFXUeOlSB6q2pwon+uK0="
+    },
+    "name": "Common Hook",
+    "category": "FISHING_ROD_PART",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 10
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COMMON_HOOK",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

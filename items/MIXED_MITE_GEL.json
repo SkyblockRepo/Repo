@@ -1,0 +1,58 @@
+{
+  "internalId": "MIXED_MITE_GEL",
+  "name": "Mixed Mite Gel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15000,
+  "lore": "&7Use at &bKat &7to upgrade &eEndermite\n&ePets &7to &dMythic &7rarity.\n\n&7&8''Powerful substance combined from''\n&8''the plasma membrane of many''\n&8''Endermites.''\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIXED_MITE_GEL",
+    "material": "INK_SACK",
+    "durability": 14,
+    "name": "Mixed Mite Gel",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 15000,
+    "description": "%%dark_gray%%%%italic%%Powerful substance combined from the plasma membrane of many Endermites."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MIXED_MITE_GEL",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

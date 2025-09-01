@@ -1,0 +1,36 @@
+{
+  "internalId": "ABIPHONE_XII_MEGA",
+  "name": "Abiphone XII Mega",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b7 \n&7 &7Maximum Discs: &b4\n&7 &a&lContacts Directory&r\n\n&eRight-click to open!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_XII_MEGA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njk0NDczOCwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU4YWEwNmU4NmQ4NjcxZWFmOWFkZTViNmViOWUwMjhhZTU4MTAyYjk5M2ZjOTYxM2IxMDU1YjE0YWU5MTIxZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "wtjNOiK59Sj8jhCSRJ1sAAk7UlBujigwlLThEeC9Q0MTNVQt+BF/yDdEnG6tXnP8yEFHJmUqTl2cAVjd6ZivKwaRauA8Zamuhw2TJs8b94p3JTJgTvGhGUvJ70DrqmhVNmircO5J6fRG4t6oonc6FslArNVHaJxedwpgKCX05FFZ4lSA7lQz9LC1ugd0VGWLUt7untLA+zN9KObDVAO6VE8UJkbYPPS5wvdzeBZBwtpnShz/Pq1qCsBu3fZv+i+r3xGdJTp8aHgu2kPwRIKT45w31eQBFQYY+xm4n0n59wcylqcvZ9pJLYLPAVVvYDGP6aWfDYObPTLdci/NK+t4dBLxMq1kzPY1/NrfTSxgV9drsygj47F4zP4DuORf+2P9Aw7QonRwuXyvhKzbUPVzgUBcSKhC1W2xwQ1s7AOL1Y0/QbLrjV83WahC4je9ycqElKK8Qc2tPR5AfeYPDRa/I1iZJALc1vZRZmpOxsnXwvubeJX1sQDDfn2Mo99m3yMsQn09Cq8QK19oiSDN6PD4rYtKqyPnn7sDsOQEyt0T1x/XNTiOCouCwZ9bmjpHqLruvZmqi3gI9Ev1T60oow4kUuGmu2bHDYzUzjEuS+vtAYDWq/aOS5OQNoFjBGxbn6fLDCTIpi9ggY0eFns+KsDV9ngoJvjWlcJZi8g5X49az3k="
+    },
+    "name": "Abiphone XII Mega",
+    "tier": "RARE",
+    "item_specific": {
+      "max_contacts": 7,
+      "max_musicdiscs": 4,
+      "has_contact_directory": true
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": []
+}

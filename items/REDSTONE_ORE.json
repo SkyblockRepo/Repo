@@ -1,0 +1,26 @@
+{
+  "internalId": "REDSTONE_ORE",
+  "name": "Redstone Ore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&a&lUNCOMMON ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REDSTONE_ORE",
+    "material": "REDSTONE_ORE",
+    "name": "Redstone Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 6
+  },
+  "recipes": []
+}

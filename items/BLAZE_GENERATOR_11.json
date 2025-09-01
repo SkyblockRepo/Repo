@@ -1,0 +1,77 @@
+{
+  "internalId": "BLAZE_GENERATOR_11",
+  "name": "Blaze Minion XI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Blazes!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a16.5s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLAZE_GENERATOR_11",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzAzMjM0NjIsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3OTFlYjI2YjM5ZjE2MmY1NTJkNTM5YTRkMjJjNGJlZThhYTljNTcxZDlhY2Y4MmEwMTI1OTNiYjk0NWMzNjAifX19",
+      "signature": "YYdnzhZN3Ht0R9rgpjNXsfNH4koEh9mgLSJHl21I7uK6NYMYmZp6QfxwQw3nWCHqSfKp2BfFx8DnUDDJOH0ohVKXcyuOgA/C5nfKGxrglu6y42OCOl1CBa0GTX+hML5ZMKwy80Be/WUgk9n12b7I54WU7FFt8BNQzDapu7cE3Ub6CHYgZanXxEatVD3oVEWx/PCjDc4BgsfMhAWVYjGMMjMp2yWpeCjlYK69S1UWBkABgmYBYPKJx7ZrBwFF7cbahRO6HOO8psAG9rySBINQOXvtDniON7hlqLarh+eIrszPn0nIcNxvoRSQpVQc1Y6s2zq/pcsOlVuofMjt1yOelp7IuM28aL8eFYZ2cdRMegWP1PuM5h58ZOZsKFExxAWQ1KokmgEdc4F/0kgdOr28mgYkLweAwOgevhdp4Q2WbhR4ylEXxGzOabLh4hrtfcE+viJcynHpyWyEMxTJkGJ94STVXRYS7IEnJ38Lq5y13g7zwBiuKaUio2TAN5IeY/OXeKJsI+YfsJ1SYbBi1exoTm8N5OS4e2oz5bAEAmaulUU/1tWssdI6/bmR8jAsJjVvEx/npOkf4OeQCRyt7hSkJdyH977cg96rzb5fY45srbUJHFZzCMKV4wwRyi0n/dzgzDlBAKI71SxTaV3LeCX/+x5rZn9Yn/GyNRNKPM2i9J4="
+    },
+    "name": "Blaze Minion XI",
+    "tier": "RARE",
+    "generator_tier": 11,
+    "generator": "BLAZE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZE_GENERATOR_11",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BLAZE_GENERATOR_10",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

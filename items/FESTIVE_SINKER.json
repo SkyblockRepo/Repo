@@ -1,0 +1,45 @@
+{
+  "internalId": "FESTIVE_SINKER",
+  "name": "Festive Sinker",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants a small chance to catch &aGifts\n&a&7during the &cSeason of Jerry&7.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Sinker &7to a\n&7Fishing Rod.\n\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&9&lRARE ROD PART&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FESTIVE_SINKER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTg4ODYxMTM5NywKICAicHJvZmlsZUlkIiA6ICI2NDg4Y2VjMjc4OGQ0MTI2OTk5NWMyMmY4OTdmMzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBc3BlbjA1MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZjU4NDBlNWI3NmEyZWQwZGUxYzIyODBhZThiZTBlZGQ5MGQ4M2U1Zjg0MDhhZjlmMWU5MmYyZGI5MmUwMzgzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "RdPopHEsa2a6/5BGoYZGJEeoP8K4A+jA7p2HsPBHi2hUuRxOSBv0Rdu/V5n5dbCVkKEfW4p6gwRMJbe9VQwaZZlvBO8GqFh+6Phl4Yq68+jdPMyTARKgzbb5A+HoaR54TwLaGMu/Etm0H06kHH7v8TVaEzrjnnx+Nls4H3DoMCs+beu7UD+rVerpygmvshGuYHW9PFuHkaEkDPpiUscaX4xpB6bPwEnA8n++lFcsfnPXNyZl6xUWuDHKViQI1zQwqPdb5cqgLmJuT3DLleIvhLDiujMT3afSuOPdD6SnJJbnLMwGmSccoGfek/taFLKmkpFMPtaCuj/S6zIMFGmt3DeLvLfGiE1SCcgWg3DBIGe8m18bfqREfSAw6PN5PepAXzygLtZjb/B5vvPqQqxVxGVKSJvqcCqqFhE1aT2onQhd94F1Bj8PSmu+DBRbEOa8fdomrSHHcXB66pFcWiYeV8qsnmhaLD8PJQFFW+kX+XZM+WLNkCEPJ7JMTlVuMH0UgNk1mvB5dTbL43pDvwOCmWo43JeEdi8hbLETZp7HIqDMrZd5Q7lC+xc0aJ9NlANB+AEFhQo0zAZ2/G87qusnaZKdQ9X0fhMbpk4ewSf//W+uK3FeVCsdWAGyddVSO6diPFgWU3tBe05P7C0J0GeJTf1hjalGPHLKwctH/RlkrWI="
+    },
+    "name": "Festive Sinker",
+    "category": "FISHING_ROD_PART",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    }
+  },
+  "recipes": []
+}

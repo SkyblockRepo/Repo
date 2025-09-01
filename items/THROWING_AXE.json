@@ -1,0 +1,33 @@
+{
+  "internalId": "THROWING_AXE",
+  "name": "Throwing Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THROWING_AXE",
+    "material": "GOLD_AXE",
+    "name": "Throwing Axe",
+    "category": "AXE",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "stats": {
+      "DAMAGE": 120,
+      "STRENGTH": 50
+    },
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

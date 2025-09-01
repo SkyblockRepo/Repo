@@ -1,0 +1,95 @@
+{
+  "internalId": "ARACHNE_HELMET",
+  "name": "Arachne's Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Health: &a+55\n&7Defense: &a+40\n\n&8Tiered Bonus: Arachne's Faithful (0/8)\n&7Grants &c+5❤ Health &7and &a+5❈ Defense&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARACHNE_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjcxNDQyNCwKICAicHJvZmlsZUlkIiA6ICIwMDc4NzVkOTI0ZWI0ZGMxODUxZGY5MWFiYTdmZjg3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphMkIyVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMDUwNWYxZTk3NjVlNDdlN2ZiOTIwOGUyYWQ4ZjE3MTY2OGRlY2YzOTQ2NWVjNDBkM2E1ODlmOGNiZWI5NzIyIgogICAgfQogIH0KfQ==",
+      "signature": "aL2uouw0V34olY64v1gl6Gbb6d63BZNqXNckkG2YcxAmW/LDiOx1qiRUClIBHDNZE831yTu7c4iZ80prObX8ShEjKemPgD8c7ERH+9lzUMvCYSSfE3d2TOp+kjPp5HylFcSBWK9dC8m/GTO8YdiX781QW0IG36I2c3rk5jCwcwxnLvv7lN665iD9HIW2D8DBWwj82Vqdu+LmLGZtw8aw5NM95nRQhdB6F2GiL2WwsF8XIa5T8T1dYKbyQsdYUUuuXTpRxXr7zPvSWxsoJVuEbpwQ/ZTt8I9rmw+UI0uYJ/ZkND4KDrErHMkBdSpiamNfULMuzf18czNAveyYEryFObVt7o+iD2Z8ynmmlrZvKULkphe03Xq8DZQZLUDeJ9KO8XXuUFTtoxZS9tqFwNA5rW9bgmVL9lIzCYiQ30uCp1ZhHWWbxTNsNsvke4t+QCe8Wxh+oMmGfFrW5IGX8A1mIdXV8WJ5+VmBvPuUSTETaI2OxNE0ivspN2pqYHnjfemdAtVd23JRdRzEaKUZLXtjNeHbcKopyrgXTMBpxBVLLMUCYzXiT5yBEazHLApIqxLVGBoRw8NMM1j6OwVK7zZiXkVFWccIFQzo17Et9SMYmMItypa428qbgi/C/LTgERZT32QjlL3rZFJBtQoRBUFlT9ycAr8Gwq70iv5zjzfJQV8="
+    },
+    "name": "Arachne's Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 2000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ARACHNE": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 55,
+      "defense": 40
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 30
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 35
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 65
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 5,
+        "essence_type": "SPIDER"
+      }
+    ],
+    "soulbound": "COOP",
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

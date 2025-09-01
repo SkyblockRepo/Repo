@@ -1,0 +1,26 @@
+{
+  "internalId": "SILEX",
+  "name": "Sharp Rock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7A sharp rock with sturdy\n&7construction.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILEX",
+    "material": "QUARTZ",
+    "name": "Sharp Rock",
+    "glowing": true,
+    "description": "%%gray%%A sharp rock with sturdy construction."
+  },
+  "recipes": []
+}

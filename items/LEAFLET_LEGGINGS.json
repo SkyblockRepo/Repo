@@ -1,0 +1,77 @@
+{
+  "internalId": "LEAFLET_LEGGINGS",
+  "name": "Leaflet Pants",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&7Health: &a+20\n&7Foraging Fortune: &a+3\n\n&8This item can be reforged!\n&f&lCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LEAFLET_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "77,204,77",
+    "name": "Leaflet Pants",
+    "category": "LEGGINGS",
+    "npc_sell_price": 3,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "LEAFLET": 2
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "health": 20,
+      "foraging_fortune": 3
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LEAFLET_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "LOG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

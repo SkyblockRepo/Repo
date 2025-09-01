@@ -1,0 +1,76 @@
+{
+  "internalId": "REHEATED_GUMMY_POLAR_BEAR",
+  "name": "Re-heated Gummy Polar Bear",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7Grants the &aSmoldering Polarization\n&a&7effect. &8Consuming multiple stacks the\n&8duration.\n\n&aSmoldering Polarization I &f(1:00:00)\n&7Grants &3+10☯ Combat Wisdom &7against\n&7Blazes and pacifies nearby Blazes\n&7while fighting &4Inferno Demonlord&7.\n\n&eRight-click to consume!\n\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REHEATED_GUMMY_POLAR_BEAR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjA2NDQyNDQxMiwKICAicHJvZmlsZUlkIiA6ICI3NDhiMGEwNjFmNDI0ZDZmYjQ5ZjNhMWI3M2RjOWMyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVfbWFtYW1hIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzMDY1ODdlYzM4YzI0NDZkMzg5YTU4MWUwNjkxNTU2ZmE1OGZjZTBhMDJkMDg0NmQyM2ZkNjhlMzY1NmEyNDkiCiAgICB9CiAgfQp9",
+      "signature": "ElYndkRo7+TEiLcmhjDNQo5FdfCW/7yFyHmHTkKV7Cd6qFfJ3n2QuNxNa6rVKSmFzSiqeUmwc+zOwm+yAX1I9axlkmrV+5eMQOZSSwt6n1skQ3/xJ9QaRDVlI5eGc6Sx26ij9uhVyAt8koaUFDXfKeyzQRIfdstIfd177rQyzRGpWhzO6Hrad1J7mmIDs7nj8iMj84+lIu4Px5LxryqpYZI9v2xP7OyI2Pbc9ZOyh5NCkx4Alr4oYXzhvuxElF0vj51byNyV7o+4bfUNgxeszlFkXbM87kdGB1Carua5idUarMVcAajELnjkIDOVR+aX3RkLAoBOtklYI2t1gfkdmiRX5nML0TS2xXdnFV+1bGABYMziq8EBXaTQK+wA52zwfoks4HtOb3moFkOADwHSvNtJ99SWhBVJujWQvcfxtJ+2QnqDohHO0cB7Yvdntz0RjZBKmtafV4uR12b1slQ7W+otWg4c7NILWLIZsh497jJ8p0F5yQgcoFM2J9a5eqcpwztSuA6fQNYyNwNOdjgHIvIPJI7SgL7k5LNyOHEIxNb8F3ulwq5xtkxBdw+itxiNV4W/Y4CQ4+U5mOEXL8Ur89rCVR3iYnLHyQA3GmUcjrLl40JHAw3oJPTeKdLtmSf9pyNPOe23kHoCG3+OKmz58RBW4k+oqYrRLRGNZf7p9d8="
+    },
+    "name": "Re-heated Gummy Polar Bear",
+    "tier": "UNCOMMON",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REHEATED_GUMMY_POLAR_BEAR",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_SNOW_BLOCK",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_SLIME_BALL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

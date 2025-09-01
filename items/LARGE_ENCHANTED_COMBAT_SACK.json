@@ -1,0 +1,76 @@
+{
+  "internalId": "LARGE_ENCHANTED_COMBAT_SACK",
+  "name": "Large Enchanted Combat Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7This sack can contain all enchanted versions\n&7of these materials:\n&7&aBlaze Rod&7, &aBone&7, &aChili Pepper&7, &aEnder Pearl&7,\n&7&aGhast Tear&7, &aGunpowder&7, &aMagma Cream&7, &aRotten\n&aFlesh&7, &aSlimeball&7, &aSpider Eye&7, &aString\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_ENCHANTED_COMBAT_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTM0MTE4OSwKICAicHJvZmlsZUlkIiA6ICI3NzUwYzFhNTM5M2Q0ZWQ0Yjc2NmQ4ZGUwOWY4MjU0NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWVkcmVsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MyYTM0MjA2OTcyNTY1MTdkNTM2MWIzNDYzMDE5NjQ3YzA2ODk3MjViMzQ4OWY5ZGQyNGEyMmRkZDQwYmQ0MWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "IbGuQPCxMyPfcYDzzghnt4llaQaJ8V3eKq9oQqoy/QRJbigA2sFD4rIQoxh2aTs+6hRiJJPCEQ7PWl2a30JSpB1F0nThIxbmyNHumOE4HJyOw6WqwcJKuNQsw9VmfUbN0u4k07MRwTLNnMgyQQzEdpRAw9FvELbwYwjFy5wN/aMcYqxX3qfOHErUk9R778g+wTfvqdR2sKtWFlnJFhHpqMZ6JcP2HaVM3xOC3/Ws1gOcjjuFstJO0vfy/ibSnA3MaTVuuEGs/G4YXuDwbbWWlyVRqSqDCqwXCCKI041RDI/Xxi9ubXWz0fqytgZVQbSYb3vwDQPXL3zlCzYAosB2pqw7/ylocdAsgbOmWKL6IOz348k9DXYGutFJRe66rhOhkyR4Uj1E/Ora/mRKLCbxJicQjmVDCpV5fLQUuRGwiWBJQSuwqF5MwgCCY+LlpdIqW8pFGzzRDoK+7/fJELfr9bZIDGzBbmhgYm6OvcSohZytBOqrEX7gHSOM5EkkJyBPEkLxjKJKNrx7sBiPqlNBB5fj6k6b6rUhC8Q8wWfAguXjQ7NjwO7l0CRMuAgPKSxKMWvSreY81hLm+AoE4cthcTDSuqIaxueqIzHMgx2RiZ79rcUEihNKKnrWskpozSxRef+oBu0BwdVWyGHSofqsBfznyN7VzZkzdYJ5Z34l5x8="
+    },
+    "name": "Large Enchanted Combat Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_ENCHANTED_COMBAT_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "6": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

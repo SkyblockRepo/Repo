@@ -1,0 +1,26 @@
+{
+  "internalId": "MIRRORED_STRING",
+  "name": "gnirtS",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIRRORED_STRING",
+    "material": "STRING",
+    "name": "gnirtS",
+    "origin": "RIFT",
+    "motes_sell_price": 30
+  },
+  "recipes": []
+}

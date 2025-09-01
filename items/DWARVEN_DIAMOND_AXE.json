@@ -1,0 +1,26 @@
+{
+  "internalId": "DWARVEN_DIAMOND_AXE",
+  "name": "Scavenged Diamond Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&7Bring to the &6Keeper of Diamond &7in\n&7the &2Mines of Divan&7.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_DIAMOND_AXE",
+    "material": "DIAMOND_AXE",
+    "name": "Scavenged Diamond Axe",
+    "tier": "SPECIAL",
+    "glowing": true
+  },
+  "recipes": []
+}

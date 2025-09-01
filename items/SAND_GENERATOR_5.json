@@ -1,0 +1,77 @@
+{
+  "internalId": "SAND_GENERATOR_5",
+  "name": "Sand Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining sand! Requires\n&7an open area to place sand. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a22s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAND_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDU4Mzk1NzcsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MmI5NGRkZWVkZWNjZTVmOTBmOWQyMjcwMTVkZDYwNzFjMzE0Y2YwMjM0NDMzMzI5ZTUzZjViMjZiOGNmODkwIn19fQ==",
+      "signature": "HFey+s+NgGAUteLEkXbPL91afq4WS5km3YhanGgqyc9xcN1aYb4bidWJ+uvvX//kt24YaiPBqA2qnt+3uB7q+YvCZzUth1xuHTaTsyN1DtBRCvxKvEfDLNmP4xGi1zF7QkCmA9TMWeqkah1npWBqSW4u17QfRR+kkYKX9w0mjhiIMXC9+DQLMt4AhlZguvN/HT5lBI2wWCNU1w8KYx5GItkwD6bK1DHyTbGuJDB1iUREJsHmcjmNNx2YH/e/rdAnbWILUibf4cjGt14fdlibkPRFdWgGdcjWHo7b/Q8vhgADePBcBLkN9TuwkzIK4zYQmfbHsnpnXmKgmb7k0WP5sq3y7boglRWKzhX0Rkxq0/AF6THNmEGNd0LMbFEPx/lkLOFiLEyle8wJ+mf5XuWmlbgNS0hV7Biv7QTQpECj3PEkDbNCCEPs3prJp7sc7HB8hfbUG2iSqjlQtZfE1ZwhgxxZUuMpKZXouHzPSg+Or+jTC0I/cMx4TJh9pGL3caWQHc3cU4LvbVr5z3femcUV0yHz2oG++DX3aLioZElYw/WSnABzFH1nfnCfajLEuvRtelI6upgj9ioWrifTTvqyvw7HwvcAOuyqaBuRQE27VBp2VlGAw2K9LCEp/ZecEcUk984KBEN2WTDHVMRoW221P9j2NxnpcJL6YhsHDZXaX4M="
+    },
+    "name": "Sand Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "SAND"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SAND_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SAND_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_SAND",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

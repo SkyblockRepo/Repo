@@ -1,0 +1,44 @@
+{
+  "internalId": "ARTISANAL_SHORTBOW",
+  "name": "Artisanal Shortbow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7Damage: &c+40\n&7Shot Cooldown: &a0.5s\n\n&9Shortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&9&lRARE BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARTISANAL_SHORTBOW",
+    "material": "BOW",
+    "name": "Artisanal Shortbow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 200,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 40
+    }
+  },
+  "recipes": []
+}

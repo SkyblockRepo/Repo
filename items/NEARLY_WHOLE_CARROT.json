@@ -1,0 +1,85 @@
+{
+  "internalId": "NEARLY_WHOLE_CARROT",
+  "name": "Nearly-Whole Carrot",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7The whole is better than the sum of\n&7its parts...\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NEARLY_WHOLE_CARROT",
+    "material": "CARROT_ITEM",
+    "name": "Nearly-Whole Carrot",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "origin": "RIFT",
+    "description": "The whole is better than the sum of its parts..."
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "NEARLY_WHOLE_CARROT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NEARLY_WHOLE_CARROT",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

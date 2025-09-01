@@ -1,0 +1,77 @@
+{
+  "internalId": "BLAZE_WAX",
+  "name": "Blaze Wax",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 58600,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Waxed &7reforge when\n&7combined with equipment&7.\n\n&7&8''Used by some Master Blacksmiths to''\n&8''infuse equipments with an immense''\n&8''power. It's also a great replacement''\n&8''for butter.''\n\n&9Waxed &7(&6Legendary&7):\n&7Health: &a+12\n&7Crit Chance: &c+6%\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLAZE_WAX",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ3Mzc4MDA4NSwKICAicHJvZmlsZUlkIiA6ICI1YjY2YzNkZWZhYTI0NWMzYTcwNjM3OTA3NTQ0Yjg3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFuX1JhaWNvMDgxNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mN2JlYzM3NmVjYmVjNTRkYzY3OTVjYmNhNDkxOGUxMmIxNTNkZDM0YTA4MjdhYmM5YmE3YmU2M2FmODdjMDc4IgogICAgfQogIH0KfQ==",
+      "signature": "NvUGOt4cOWRrNmVUHK0isbMZ8NY8kSE3uZVMcJ+znjJNW4wbSh6DXkvrF59GGnP7hDuhu/BkPDi3rm5AxoKlZYROWY3vEO93t+7ClYv4b/UR63wysEFl0r1h8M/kZiywJXZsnqzgx7BGhLE+ny+fdel3bGe3WF8fbo+n5uVPM9aEqLkmXLi0xJB7tqDhJZ/LeWJy9NNjALK+sZmBE7vz/ROHYnfbCGf3yNAC7/TeMuyjbOn8tQc0rQBSeZ7Za8+MFx4SDA0hokmGUbtMgeo+aRDQd6Hp9G0+ZXWAR/DqYrcMgUfVXWgpb8lVNj8HyogO4lzftlacs4xe2/XKwzGdNR2qS4FQmNhdwtF0wj4SoIOgWuzFbPsgXwS+w/VzymFBn2bG6AnZBkDzqyxp6MA/0RxdAh34cWyhc47MeWdBfq1mKs5uCHXF9mu6T4FNMavMEf7jDtCIt3TxJPoqsJNvnLlMrte2gwOLgKkRFjXL06x0pccK+E3NY5lNANoAV1HUP7Y5f7aoIYwonn8F3efcK8b+TrsZ+Nvm64haDIiQj7DDpcuuSRVOKlf03KrPdy+LUipxs8k1SGtaMfG3tsyZ76s/eTYJQ5PnAUFWedK8wtWa/70ESMZDzX0ERG3OAhAJYt/LKoCYD45BBSS10npPWC+bqKLMaImAblfIjvgkKS4="
+    },
+    "name": "Blaze Wax",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 58600
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZE_WAX",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "BEZOS",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

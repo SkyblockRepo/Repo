@@ -1,0 +1,83 @@
+{
+  "internalId": "DIAMOND_LIVID_HEAD",
+  "name": "Diamond Livid Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d310 &8(341)\n&7Strength: &c+30 &8(+33)\n&7Health: &a+160 &8(+176)\n&7Defense: &a+60 &8(+66)\n\n&7Obtained from killing &cLivid &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor V&7.\n\n&7&8Strongly believes he will become the\n&8Lord one day. Subject of mockeries,\n&8even from his disciples.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_LIVID_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjYwNzEwMCwKICAicHJvZmlsZUlkIiA6ICIzMjNiYjlkYzkwZWU0Nzk5YjUxYzE3NjRmZDRhNjI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOcGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyNjhlMzY1MDVmMTMxMjM4NGViMzZlZDQ3N2Y0YzIwNTM1NzZjNjAwNThmZDI2YmVkZTI0ZDkwY2I0Y2Y3YmYiCiAgICB9CiAgfQp9",
+      "signature": "e1M262gvfrp61L7V8CDaQyynqXqKV7eiURg8A8aUAZJsqxK36Qquc4hEVSbZY3T/gOKT36E9LpyXAu94dTiew53j5HGP3lUQnpMTTkBjm/fSNstn9L2DAHE/xvXpQJ+YT4NWFA7gKL+fz5u2c64JqNwvuUw0VVGvYiAqCW63jKeaE49iZs+l3pksXrw2762Md8oru/rz1J8YOkO+pWAYo7h6TnmZ86OKGTKcNAKKxQq9Hr3Uoc5Y1ZbG3521LMLDQ9vRwiiWYh1C0epJwP1ZaSt3PBJYAlX2emLSmW/EB7cmMZDZjljB5Ma6nAABwUY3d/37HxFg5ECINy/zQ7Un4R/E1tos6zrVer+rftdpTPQBEuSolN3wkFLwfBydNJx+cFNF3TKQ8bpQuHenATw2Ps0xX20H82HA0WE9g9s2ok5ASp/+qdMZ0SPMO3GMpKHZxQxOuzacXLKFY7M1Et9K7ehkYyGDc3kp9v528rCSLzzYWOajdstbssoYAFTFzA7spy8eqGYYvGjfcEQZ2ZCXZ7Yf2wz1InkdTqTV/VwXh8q+cCTD/5wQW0t19cDYnPP0L3jz4MbW9Yc1JG9qxcX+B557CyCayE4K3iPDDygA+72S1U/fKwkScqyKsC8sRC2DVn2oMOJOvkdq/zFGhF3+8tvTNPpcllEa6DfGdjpxgRA="
+    },
+    "name": "Diamond Livid Head",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "MASTER"
+    },
+    "stats": {
+      "HEALTH": 160,
+      "DEFENSE": 60,
+      "STRENGTH": 30
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 500
+        }
+      ]
+    ],
+    "soulbound": "COOP",
+    "dungeon_item": true,
+    "rarity_salvageable": false
+  },
+  "recipes": []
+}

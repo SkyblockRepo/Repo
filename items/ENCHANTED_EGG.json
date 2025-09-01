@@ -1,0 +1,73 @@
+{
+  "internalId": "ENCHANTED_EGG",
+  "name": "Enchanted Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 432,
+  "lore": "&7&8Collection Item\n\n&7This item can be used as a minion\n&7upgrade for chicken minions.\n&7Guarantees that each chicken will\n&7drop an egg after they spawn.\n&7\n&7Can also be used to craft low-rarity\n&7pets.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_EGG",
+    "material": "EGG",
+    "name": "Enchanted Egg",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 432,
+    "can_interact": false
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_EGG",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "EGG",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "EGG",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

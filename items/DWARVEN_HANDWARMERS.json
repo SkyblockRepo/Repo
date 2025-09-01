@@ -1,0 +1,75 @@
+{
+  "internalId": "DWARVEN_HANDWARMERS",
+  "name": "Dwarven Handwarmers",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2500,
+  "lore": "&7Cold Resistance: &a+5\n&7Mining Speed: &a+45\n&7Mining Fortune: &a+30\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 8&c.\n&5&lEPIC GLOVES&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_HANDWARMERS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI0Njg1MywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMwMWQ5ZjliNmYxOGRkZWVjYzU3YjUyMjkxNmNjNzU2NmMzOTdkNjQ5ZjIzYzMxOGUzZjVlZjY3Y2JjZjI2NiIKICAgIH0KICB9Cn0=",
+      "signature": "qrE6sT7y5+VtWG/pWsUoxoTxp/aPXrpbbF5H6alxNRai2y3Syi1VvG380XLBqo5Pvsd/RAHq8AvkNYAJyFL0M4tkIdjmy4nCpIF0PC4vqf1Yph0opY55laeAhdbAzXBz9Bgx+yZDmVvqbIUWO30RwsHFlOPnqOH8VOOOEOdnYhdBcaRXhLlAY+yH1Hn5p9B2IfbZ9VEiAX5oXSuAxWvPbqumLtw+aQ21IF3Didu+RCM6OOmgbyxOL7HDQaKib8xeWzUGbHoX4K3I9c5cdbBFziOumh01droAULCptleJ/YX9hP3Gx9KBxtIZZNjB6ECN3QIX3i3ubYjzDiCNij5wJ8ZfuXuMv0b3BiaiQVcaQOTxFoygB/XD6bwidMxQxCTqZngCxK/oWyZ/KRuWNHJR+wcCM2UUpWcnrl4+vOvPjkWLCenZY1i5qYh3TfnUuFdKTvLFhNcDNZTcHxx99YugL4Bk8dDKbTvV//1iEQKHmAwqpEOTYBPo0XzQCZgB8dq1N9C7usRwoTvPtSzXR5yjnFMNQt6WGIElAva8JGSwXmpZiNNBgWVKzHSoT054yWp4AfMRw7dwXE1UCXQIuZ4Da+DL7SOEcLm0NiJiN6spAxxYkwIW2/jfdJ4SPcWYfy3CorkMSJsrXSczf16ugrFuAdoeRVTUNZIORAPkjae8PRc="
+    },
+    "name": "Dwarven Handwarmers",
+    "category": "GLOVES",
+    "tier": "EPIC",
+    "npc_sell_price": 2500,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 8
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "MINING_SPEED": 45,
+      "MINING_FORTUNE": 30,
+      "COLD_RESISTANCE": 5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DWARVEN_HANDWARMERS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWLESS_JADE_GEM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FLAWLESS_AMBER_GEM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TUNGSTEN_PLATE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "UMBER_PLATE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "internalId": "OBSIDIAN_CHESTPLATE",
+  "name": "Obsidian Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2500,
+  "lore": "&7Defense: &a+250\n\n&7While worn, gain &a+1 &f✦ Speed&7 for\n&7every &a20&7 pieces of Obsidian in your\n&7inventory!\n\n&7Bonus Speed: &a0\n\n&7Immune to Wither effect.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 14&c.\n&5&lEPIC CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OBSIDIAN_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "0,0,0",
+    "name": "Obsidian Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 2500,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 14
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DEFENSE": 250
+    }
+  },
+  "recipes": []
+}

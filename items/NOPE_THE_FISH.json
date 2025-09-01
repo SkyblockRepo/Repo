@@ -1,0 +1,29 @@
+{
+  "internalId": "NOPE_THE_FISH",
+  "name": "Nope the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Why did we follow Shrimp...\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "NOPE_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 1,
+    "name": "Nope the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

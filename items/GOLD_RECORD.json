@@ -1,0 +1,26 @@
+{
+  "internalId": "GOLD_RECORD",
+  "name": "Music Disc - 13",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_RECORD",
+    "material": "GOLD_RECORD",
+    "name": "Music Disc - 13",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 20
+  },
+  "recipes": []
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "FROZEN_WATER",
+  "name": "Frozen Water",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7One could say it's... ice cold.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FROZEN_WATER",
+    "material": "ICE",
+    "name": "Frozen Water",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "description": "One could say it's... ice cold.",
+    "motes_sell_price": 10
+  },
+  "recipes": []
+}

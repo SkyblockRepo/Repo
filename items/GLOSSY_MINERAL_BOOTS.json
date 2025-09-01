@@ -1,0 +1,86 @@
+{
+  "internalId": "GLOSSY_MINERAL_BOOTS",
+  "name": "Glossy Mineral Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Defense: &a+90\n&7Speed: &a+20\n&7Block Fortune: &a+50\n\n&8Tiered Bonus: Glossy Mineralworks (0/4)\n&7Grants &e+0▚ Mining Spread &7on &6Ores\n&6&7and &9Blocks&7.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOSSY_MINERAL_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "91,13,174",
+    "name": "Glossy Mineral Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GLOSSY_MINERAL": 7
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DEFENSE": 90,
+      "WALK_SPEED": 20,
+      "BLOCK_FORTUNE": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLOSSY_MINERAL_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "MINERAL_BOOTS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

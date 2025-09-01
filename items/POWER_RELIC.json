@@ -1,0 +1,109 @@
+{
+  "internalId": "POWER_RELIC",
+  "name": "Relic of Power",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&7☘&8] &8[&7⸕&8] &8[&7✧&8] &8[&7✎&8] &8[&7❈&8]\n&7 &8[&7❁&8] &8[&7❤&8] &8[&7❂&8] &8[&7☠&8] &8[&7☘&8]\n&7 &8[&7☘&8] &8[&7☂&8]\n\n&7Allows you to harness the power of\n&7&a12&7 Gemstones, although only half of\n&7the normal power can be harnessed!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 10&c.\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POWER_RELIC",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDEwODgyNzM3NiwKICAicHJvZmlsZUlkIiA6ICI1OWZmOTU1YzMxYjk0MWI0YWQwNDg4NDk0ODkzNzUzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdhMzQ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4ZmRjODcwMjNjZmYyNjM1NjQ3N2YyZTA5N2EyZGU4M2I1NTBkODhhNmYxYTg3N2RhNGY5NWM0ZGIxMTU2N2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "DbMVdT1onltjh1JOEuPTfQv0tCtTJzrAU8SfXJTzxz31LBk1pFspPzfYsXcZPUKCBuZSBZqGUIkmr/4q1zK1h+I+mU2IKxihHMo9WsmLI4OMQkz7y1bNoLrRTKrPocL7VpVfaB5e84gicIFHsfJkujCxpH9jbky3ex+rrnTVZNiEJI3UqCLkdNzg409TanzohtCsjDkrqGsc0n2CJUQgqycZLomgREE1oMJ+rV7tp/EtE/oPi9BMtxZ176uSszVCM0IVmuZFcmPvesONw04Elj2UuVPmwu4PIY7ItYiIHOlx3J5271ejk95f1EEwpdsis7GCyScBCz2O7fg8tD75F7AMGmlMtgJvXalflMifjyYv6B5vPl0+DsdOSoyk6rCkCit8+aDrhoqOnLIndOK5/aDRWJmzn3alahMUIzeJFj9l6nR87cGBjPVM5KZ3TW08ka2FGgZVnvKjp/7Vtiz/lRKMiT/NH/J+38N5hLujzybE2LvuT8FWmQVmZt0GmwvL5U+vL/lqdFlDWbeZhgnHqIYNemNlnY4doj9hs8o0dtThK+sCfpQP+gWmeRURiLHqSNHa+ajjt32jc1SLWE8yVCsxyQB1H/RUMejx/elGVC7huS6xQne3cB9Exh2o+MY8eSroYIeNDnGvRy+bPDyWMLJ4cC/zplf+unZ1bRTpm0Y="
+    },
+    "name": "Relic of Power",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "unstackable": true,
+    "gemstone_slots": [
+      {
+        "slot_type": "JADE",
+        "costs": []
+      },
+      {
+        "slot_type": "AMBER",
+        "costs": []
+      },
+      {
+        "slot_type": "TOPAZ",
+        "costs": []
+      },
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "JASPER",
+        "costs": []
+      },
+      {
+        "slot_type": "RUBY",
+        "costs": []
+      },
+      {
+        "slot_type": "OPAL",
+        "costs": []
+      },
+      {
+        "slot_type": "ONYX",
+        "costs": []
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": []
+      },
+      {
+        "slot_type": "CITRINE",
+        "costs": []
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 10
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "POWER_RELIC",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "POWER_ARTIFACT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PERFECT_PLATE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GLACITE_AMALGAMATION",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

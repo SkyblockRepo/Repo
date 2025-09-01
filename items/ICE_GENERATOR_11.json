@@ -1,0 +1,77 @@
+{
+  "internalId": "ICE_GENERATOR_11",
+  "name": "Ice Minion XI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining ice! Requires\n&7an open area to place ice. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a7s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICE_GENERATOR_11",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTk2NTk1NjA4NTYsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlZjQwYjc2Y2NhMWU0YmNkMmNiZGE1YmM2MWJjOTgyYTUxOWEyZGY1MTcwNjYyZWE4ODliZjBkOTVhYTJjMWIifX19",
+      "signature": "f9Bu3SIaAbqe+5WgElQihA8eThEtbJ9MCptlvapONMBHpXcvnz5W1Mewhsvzspm0LL/xStffGqeiGnqu6fTeVNNVbFCbm7gaKXwGQ2FObtLGBVwVDXugkzqnWQxs/Zexbr/liVmlWTzd//1Wef97zQxmky6l6DkjP1KJToR8Mhq+LMzDASn1LqhRIs2SNoc/UlLpAtfhh5QLEuqzzgITgFpUC890iWSTklI64GJS7R2vbInrrkkCiDVrINRitE8bL2t7Lr3E0PdfHMmdaorlCXnOUHFNSEkxhxgUS/Ai8eYyO03XHK9qqE+cZ7uwvQwdxUSGva2tEgfVKV/DRaTbvW7sxuYkLSkQU1A+odl7v+l9rO2jhpCc4Z6wzGZkXIPaX6qrd5n7lZ1juxozH4OAqRB1Klf5iNn0W0amrW0ZD7EsqFz05fB6flCAIxpKzhdnsE/qOmtyXMHFac08M73UUbmfWGWHVT3k+s9O6gJQzhI2jU/1n2CBPqELLxbXErAY05lgBndvTdiBhbrF5KYsGj1tIGV5NwuXR+LGkOLrlXaKOm+cncFsybrr0aFfQBWdrlxUbJbDlo56dZI0DkQryqFg45GrNX1+laXbVonUSZmkFOJWw/GK75suvkPi/lRRA+xjfybbdvXk47k3wxUhqjq79HghuPMdZaHyfu/n8w0="
+    },
+    "name": "Ice Minion XI",
+    "tier": "RARE",
+    "generator_tier": 11,
+    "generator": "ICE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ICE_GENERATOR_11",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ICE_GENERATOR_10",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "SIGN",
+  "name": "Sign",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SIGN",
+    "material": "SIGN",
+    "name": "Sign",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

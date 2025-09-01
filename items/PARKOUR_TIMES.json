@@ -1,0 +1,32 @@
+{
+  "internalId": "PARKOUR_TIMES",
+  "name": "Parkour Times",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Places a hologram displaying the top\n&7parkour times of players on your\n&7island. Click to select which parkour\n&7is displayed.\n\n&7&4❣ &cRequires &aSocial Skill 1&c.\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARKOUR_TIMES",
+    "material": "IRON_BLOCK",
+    "name": "Parkour Times",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "SOCIAL",
+        "level": 1
+      }
+    ],
+    "description": "Places a hologram displaying the top parkour times of players on your island. Click to select which parkour is displayed."
+  },
+  "recipes": []
+}

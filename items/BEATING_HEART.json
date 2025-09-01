@@ -1,0 +1,32 @@
+{
+  "internalId": "BEATING_HEART",
+  "name": "Beating Heart",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aBloody &7power.\n\n&7At &6250 Magical Power&7:\n&c+104❁ Strength\n&b+35✎ Intelligence\n&9+104☠ Crit Damage\n\n&7Unique Power Bonus:\n&e+10⚔ Bonus Attack Speed\n\n&7Requires &aCombat Skill Level XX&7!\n\n&9&lRARE POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEATING_HEART",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA0MTc3OTM0MCwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EzMzgzNDdjOGE4NDU2NjAyZjNiZDlhZTc4YWQzODNhN2RlNmI1NjliYjYwYmNmN2Y3YjQzNDVmMGVmNjQwNDUiCiAgICB9CiAgfQp9",
+      "signature": "ObRmGlx8xXuQ7R6Gy5j0B1zaFd8rAyCdoia7NVM75AdwR5kEqkohgBZlz2izxbaHuUOwFnj2k56LFgcrxm0H8L4keun+qWUQFQoYh07DxiVeWJkGt5yQeg4PMzlqVVRoc2mPwsq7fDXsnmyr/I/fjtvU15/DFuWx2O3dB6lpkKsSN6nool5RXAKeTlHfZVW99dauTdGXxgBCVdiCZHZp2YO8u7ETeY3iSfGRaSKZY+l/LJHsMEgkxIKnDreNcngjazgFag6xJd2GUMTAoRImkKFvJcelCwbG1X4/y7ikSakZxsrhq8KVnV1LXU08EphKm6Xm3s3yf7jfsnIWGg+lE4yyUwMCdMhYmV0KmqPh6ceXoqo5jJ1BBgafpN122mxTfNKwP+Peoodehv8+q2OIbFykHREhVvvnZTFhfSUGDIghyX4kZobvBoA+2viJS/slO4LyZmvMnyai6tP8oA6eoqxlB52zFEUwfOEsnugek2y9bfOnnE3M6oDfzPlWU/YD8N0B6UBneGVN9lqTe+uIA9DrkGuKe+U0ZpQ05TOdSmjidTdbxTPJ4UUHJvI6lnRKrK2GBV3oRF2AruZ4FFt3Jpshc3j7cYyrd1da/6Z5kP6ai1EmW74EID4CrJLc4M689EPJdO0mja4efQoWTfhbFsH724tDjeQS9Wpa6NuXZcY="
+    },
+    "name": "Beating Heart",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

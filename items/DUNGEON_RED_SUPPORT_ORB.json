@@ -1,0 +1,32 @@
+{
+  "internalId": "DUNGEON_RED_SUPPORT_ORB",
+  "name": "Support Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUNGEON_RED_SUPPORT_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDY4NDIxNTAyMCwKICAicHJvZmlsZUlkIiA6ICI3NzI3ZDM1NjY5Zjk0MTUxODAyM2Q2MmM2ODE3NTkxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWJyYXJ5ZnJlYWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWI4NmRhMmUyNDNjMDVkYzA4OThiMGNjNWQzZTY0ODc3MTczMTc3ZTBhMjM5NDQyNWNlYzEwMDI1OWNiNDUyNiIKICAgIH0KICB9Cn0=",
+      "signature": "bUyXfap9yE5VqvRADMLXGNBHP3tC5lEk44sX22f3z9UCVRWmedZtOg3peQEnLcaauJ2pO2NCwIxjL19/bb0YyjsczMa+od9mT3r3sOxo5bRGBkknYR18Ew8skDa6RQzqrWg7/lCdlgdUdVx7vM+1FeRdveR6CWkoi2ogGXxNZE5JqerAkt9QZYQjOY4zT7gqCmbwMdE2MIgrPaic9bLtVkUrhDnQ7zkHSnh5KwAv3WFffrnbE0l2rAQqNf3AF2FSOMIOHueu+n1GbtVDNE/a9dI2EZeMROwN2lZVZvyb7gI719Dw403H819rWZncWNl4Rm04cgYhRrF6ik13+C/Q3doLe1zKPdiVMV8DNKHuQv89c3Y8k4fX21x9D2jRP/t5mGIgWVEkukQhzy8cpe9g4xzKrf0ltizKM2X+k0B4mvGKrlNVxfwVQq72D5t2RZJvHxOhieVnQDm2G6PunSWLZXFH9zVTvhYL129b3ZUfgN8YfwY4RKH2vjj1ysCQps/jPMbf0R705fP7HARMOJ0wEEiubZmgzmzfppqyvZkI9ztPezxHDQgXDTvVv/DRKNYzmtu55HfZ0LiEhutEfhS5Ipffhinu5VyE87F5ZJHMAG6Y9tR/MGvpWp7SAhRKqUZgcoUBplfq/meVN0Lu5a+rp0pOJ9ho0Y86puW2NKtp74w="
+    },
+    "name": "Support Orb",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

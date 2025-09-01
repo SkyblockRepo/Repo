@@ -1,0 +1,28 @@
+{
+  "internalId": "RED_THORNLEAF",
+  "name": "Red Thornleaf",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&8Machine Fuel\n\n&7&7Adds &2+200♢ Fuel &7to a refuelable\n&7machine.\n\n&7&7''A leaf that grows on the ground.''\n&7''Really pushing the envelope.''\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_THORNLEAF",
+    "material": "DEAD_BUSH",
+    "name": "Red Thornleaf",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 20,
+    "description": "%%dark_gray%%%%italic%%A leaf that grows on the ground. Really pushing the envelope."
+  },
+  "recipes": []
+}

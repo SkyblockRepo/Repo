@@ -1,0 +1,28 @@
+{
+  "internalId": "ENDSTONE_ROSE",
+  "name": "Endstone Rose",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3000,
+  "lore": "&7\"The Zealots have shown me so much\n&7love, I hope this simple rose shows\n&7how much I care for them.\" -\n&7Endstone Protector\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDSTONE_ROSE",
+    "material": "RED_ROSE",
+    "name": "Endstone Rose",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 3000,
+    "museum": true
+  },
+  "recipes": []
+}

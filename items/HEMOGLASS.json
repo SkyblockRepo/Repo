@@ -1,0 +1,91 @@
+{
+  "internalId": "HEMOGLASS",
+  "name": "Hemoglass",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 16000,
+  "lore": "&7&8Collection Item\n\n&7Right-click to consume and heal\n&7&c0.5❤&7/s for &a7s&7.\n\n&5X&5 Rift-Transferable X\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HEMOGLASS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NDM0ODQwNjUxNiwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNDQ4YTRiYWUxNjQwMmJjOTVmZDJjMWUxYWU2YTYzMmM4NDc1ZDcyYmRmOTg2ZDM2ZjBiNzZiMWI3MDY2NjNjIgogICAgfQogIH0KfQ==",
+      "signature": "l/WMLDe5vx6Sw+zpe5NzxatUK4ULtwbKd8rTG8VdDzzTCLtmiHj3LBoOyxQDb76QRumHqP3uPxHaQJaaFcjGNRhMoKRCwNLgyot6L/U4jgblXR51KwjmjdeUVJl1Tj/v9U7gUHgvgbYr72pwlDMDLuUDGVOEExzf6GDBgWdcQuvnvtpB97o4Neyog9T+2QJ5OeBhFZO6+MowJezKb5+bWjJVnjcHX7tiLT735SZ6DcTiykOqJBbBLO7jAvWO/1Md9dTedcDZ2x043l6tzS65HWE8oc++dOpXXh6+fo/rRw7Cyh2doyF+OSnRA+xDzaZ37jwXdZB4xZY3YdiCRVmvNnRIfY84ZeomUBOFOEm/k4T7OX5keJFZxo6/vBSDtVmgQjajXKlew+M2FdRDTyQITAg4m82Wcjl8SDRTXaVTH6md/9DDWusr45+mLXYGTq/UVnTLzaoJUyNy7J/BlRtsntHtxjb2POrvSwCMnJ4itTjBHO7wYJk+Qdw1BOwM4a9+XVpVjLs3mrTDyIlFpZkdjuJSinRGu4jHrAs9zqwBJjOM+yO5e2/FfwptNGtj/9mo4MCh+qrsC1ALRtegLMSO3UuZ+q/u0Y+Rln3gNP2LdNnDYetfnfU4f38YXjGFzv6rsc7UDadyNqAhxfFt0xFj1Ed0LOeJbSVnnQauyMTNYsI="
+    },
+    "name": "Hemoglass",
+    "tier": "RARE",
+    "npc_sell_price": 16000,
+    "origin": "RIFT",
+    "motes_sell_price": 25,
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "HEMOGLASS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEMOGLASS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "HEMOVIBE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

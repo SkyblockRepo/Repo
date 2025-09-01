@@ -1,0 +1,77 @@
+{
+  "internalId": "WOLF_RING",
+  "name": "Wolf Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Reduces the damage taken from\n&7&7Wolves by &a10%&7.\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOLF_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MDExNzcwNjg4ODcsInByb2ZpbGVJZCI6ImJiMDgwOTFhOTJlZDQzYWQ5NGYxZWRmZDc0NmIwYTJjIiwicHJvZmlsZU5hbWUiOiJJcDRuZHgiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4M2EyYWE5ZDM3MzRiOTE5YWMyNGM5NjU5ZTVlMGY4NmVjYWZiZjY0ZDQ3ODhjZmE0MzNiYmVjMTg5ZTgifX19",
+      "signature": "a9GSClHWTJTFBwlDf7pi17yzX9hBfThvIw2H4YIhsyTadibmT5NnX8TEju5a0wXMoUJm1Ynq11E+IVgw7pVL2pf4nijloilgF0S4/PBopeRScoVJVvN/HWWsq1VF0RNXI1bP1cSkgXlQVxBLSH4//ydsrw1SMwN8cN2A+aoY88IcG9CDlBEFpW5izsk9HowwtaBJ1H70SEZMVOwMTpCO/cJb3cvmhvPsa7uComzKqahB6Me4nsV1bx3ScirhQLBBvz+Kz0FFKPAwJjjsVzb1N2IKMJx0uihKkvhOKjaSA2buDQKYPa2QwaCJtd3Tzx897k+nFxjqLTnxCGYfusjQy573vnT5jWIgvJs1EsMz3fyzv+MWItmlRXgQqiLaV+QkOqNsXU9dwZD1Kf8SJoLGfpqQoL3dzIvTE3Rz2Xk0ERAGhWjaWGhQVqP8QuQTPlJcNglRCnCwr9YrjDfg6/XyfqbeNtz/l8MGw0X6s/DkZ//pU0MRmgcZlpalHVoNw3hBsGNS7ILqRX84N1bpzbYVXff/D+WpfKpzdaY1RGLqeCHpl5mYFjgQ+gTK7euo3KHxqjM1Qp2wLEQVodEAUXB9olZUGZdIgb4DvyLrxhciDLULn42qtWNO5XmooUi+kRyoTnI5UXnXYz4keIoS/EmXTSr6ILE7EidwOyoSfVAiPEU="
+    },
+    "name": "Wolf Ring",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "npc_sell_price": 100
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WOLF_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "WOLF_TALISMAN",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "WEAK_WOLF_CATALYST",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "ORGANIC_POTATO_ITEM",
+  "name": "Organic Potato",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORGANIC_POTATO_ITEM",
+    "material": "POTATO_ITEM",
+    "name": "Organic Potato",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

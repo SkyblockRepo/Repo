@@ -1,0 +1,76 @@
+{
+  "internalId": "SMALL_GEMSTONE_SACK",
+  "name": "Small Gemstone Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gemstone pickups go directly into\n&7your sacks.\n\n&7Capacity: &e128,000 per gemstone type\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SMALL_GEMSTONE_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDA3MDU0MTI2OCwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY2NjI0YTdiZGVlNjI0MGRkZGJlZDgyNjgwOTBlMjM0ZDBiYTQ3MGVhODk2ZTg5MjlmNGVmYjIxM2YyMjY5NDQiCiAgICB9CiAgfQp9",
+      "signature": "HKeTtvSU93NSFY+SxDHh2IKb4iVaODEkL2ThbaIlAReLIvFBL4io+J8L7wE93epDLGYK5BeNEmpTDTh4QRUnBQPAIOjO/j4diXVifKbtS/AhTSRKRLUEyeVt8mr94+PT7Xje8vIqeWULnY9+PqwCkwwDdxhIEc9s/8Kyg3zzHxKnBScRyaIRfMZp8WZMcSxw5+Ll/ZdLaV2le0LdwBm8Ys44Vj5DVwMymBcf9gLBaBkxrs3fqtk6G0DlyaiK/gF36c+JFAyVfcpuvwHqtQZ0Ud1e1rzTSIpr/TvCyw3GocK3in4l8Rt79JFDtFy7Sso4GYH87znFtqq3g0NuuaPYcilTpXpkNlb7DiEUXfyHxMNwpe8bxfZronbtdZA7kCp/Tv0FtY2ooee6StwfXA1NiP40oZnfS6h5jO5/6Ye6JQj3QbgsLa5uqJi5MPf8+27D6slRZ+k0hDr/erl1GwEVUoh+zN69Dyq2GJrcylCzHBwzQa3Aky7IhoYvz2zLj8lq6uxwzUps8fkgc00mHFxcfKOr6OBtxeSjqhxyFmi/ied1WonK/vEuGGXw+jPPqgenIwqHhJI5hqXg08ZxU1gUOGC8VfFL9zr5/+r2ggR29BrR8zOwoHFpIxWyaVxXnTmnM0MZjqif+4iGIAYBgssQBfFHfDW1/CVHE2LEnwKXFB8="
+    },
+    "name": "Small Gemstone Sack",
+    "tier": "UNCOMMON",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SMALL_GEMSTONE_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "internalId": "MEDIUM_DRAGON_SACK",
+  "name": "Medium Dragon Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aCrystal Fragment&7, &aHoly Dragon Fragment&7, &aMite Gel&7,\n&7&aOld Dragon Fragment&7, &aProtector Dragon Fragment&7, &aRitual\n&aResidue&7, &aStrong Dragon Fragment&7, &aSuperior Dragon\n&aFragment&7, &aUnstable Dragon Fragment&7, &aWise Dragon\n&aFragment&7, &aYoung Dragon Fragment\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_DRAGON_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg4NzQwNSwKICAicHJvZmlsZUlkIiA6ICI0MDU4NDhjMmJjNTE0ZDhkOThkOTJkMGIwYzhiZDQ0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlT3dPIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmYWQ2ZjdhMjExMGJiMmJhNjZlZDRiMzRkZDZmZTE3OTRlYTMzY2U3YjI0Y2UzNGJlZjg2NWNjNGEyY2RlMzgiCiAgICB9CiAgfQp9",
+      "signature": "bl3qs/OXSoXqeruwAFC3Jvew3gQDOI9n7SJtLQXKY9hyHQEEPJVYhfM/xuhPA59o58yePaNgC/5bnuoU4twtWeG+Y/+AcRAgW65SoXHaieCRGy2brFMuzxSNlDOX/u3Ph80YXJKQdD1nJZKJiqQVPWY1W06Xhsgj+uIcXJCQjIHTWlRBDjaqwVmxDzxh6IrgmatMj2FKu+JSu7yPAdnIK5BegOz98Jz1bK61DMZCHNXrZrh3FLCblipbIhbRzrmxCv0Eb4HeugH/pwFJz4eH8HB9VbD0uHA6BwZUDPRkGeb22PXHlpAf0lPIC0OZ08zx7uQrAgCWMtly7D7OdJamR7OewFz/JFrj9iQRf7qqk2GFGPySGeM+wLg5LZ9Xh2T//qKqoEqQMVKnnTB3hymb1zKLxJiytBtkrx5RYLBhssd+4+GJwMAem1crUh3D3nojOAGUvPgXsIqgZgTXD2zYtFsZ8I/ByDlRDjrwWLggfHIrvc32Oi4dzqvCy8c6dKAQ2b/azkm948VDq9AE0qMnH9jMyuAkBROb+wT6KMWDW9VWsCQL2w+jEb3mmvMerbE708hja/GH5eqPVD9316JNhtHM9wQl/JmG6TyW/ixoAGCDnd+GJ5rumVHKX6tp7ytT4FtAC4+NBSt3gS1avZXDXWiq/PkNP0X1DQ7IjC5d7KE="
+    },
+    "name": "Medium Dragon Sack",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_DRAGON_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SMALL_DRAGON_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

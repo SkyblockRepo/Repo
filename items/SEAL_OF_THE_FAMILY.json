@@ -1,0 +1,32 @@
+{
+  "internalId": "SEAL_OF_THE_FAMILY",
+  "name": "Seal of the Family",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Get 3% off on most shops.\n\n&8&l* &r&8Soulbound &8&l*&r\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEAL_OF_THE_FAMILY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjMzMzIyNzk2OCwKICAicHJvZmlsZUlkIiA6ICIyZTZjZTU3MDUzMTE0ZmRiYjc1OWM4NTJkY2VlOWU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICI3T2ZDbHVicyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YWI4Mzg1OGViYzhlZTg1YzNlNTRhYjEzYWFiZmNjMWVmMmFkNDQ2ZDZhOTAwZTQ3MWMzZjMzYjc4OTA2YTViIgogICAgfQogIH0KfQ==",
+      "signature": "k3iO//R9n2y+zErakOdsWE2qwP+5L8GTf5JK2q3HD99fISvugsGZktxtqWuvi3LNQqBnf8yIhEQ4dg3pQsXZ5g1tpv9/umD7CRp3EuRX+58y8h+Ip7kWZRvoaCi40zWDRwv0vi+lE9A9d+NCoqC5p5dtwiVV47qRlIuEHl+Uwlr3ScZvgJ+4M56nxau8ZHQgx0maYBMyg8VdWfPgE8F09EPqgnO7u5WhjfeZGCSq19UGEYREFXuhEfuMkZ8uzy78ffbmQlNtTDF7hjU29VMLSG07wJr8MU/PpSPnoX685ssfATVcQjmwO4WqtBPwnYYtKgQExfMBByQZBtKpY0/2x7/m73Jl/tWBFz391Q9XlLVAYATGw7a2Q6OoCNBOQDUAenjiYbc3QOrhp4den5im9usIGiJ0Kg5r74tmf6EJpqX4D2P4Ri5AAgmghGOwTw3ZGFv7dVAImJUZ0UfTXhrM7F1+dtPUUz+iNcn1u3U12QLDx9FHfm5yuOjBFqRuTTG10l4BiLhCegY0StPt/GHAEIHikl1fdaiBXL4dcNj1TlkzeOix571GWvdPz5QwS/5DZ0RHCYzlPhR5s53/UPWCradz2DS2wg7JLDlt7a0J50YXd45koWhRpWOs9iDaulBZEbkIpb+0iashUu7CUe6sAW+1T5tFgm3YlK6LbJnZUFI="
+    },
+    "name": "Seal of the Family",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

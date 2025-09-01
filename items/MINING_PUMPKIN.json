@@ -1,0 +1,31 @@
+{
+  "internalId": "MINING_PUMPKIN",
+  "name": "Powder Pumpkin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7Effect: &2+5% Mithril Powder\n&7Duration: &a60m\n\n&eRight-click to consume!\n\n&8What happened to Malmar?\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 1&c.\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MINING_PUMPKIN",
+    "material": "PUMPKIN_PIE",
+    "name": "Powder Pumpkin",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 1
+      }
+    ]
+  },
+  "recipes": []
+}

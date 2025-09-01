@@ -1,0 +1,36 @@
+{
+  "internalId": "TRIBAL_SPEAR",
+  "name": "Tribal Spear",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+100\n\n&6Ability: Thwack  &e&lRIGHT CLICK&r\n&7Throw the spear like an arrow which\n&7will return to you.\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TRIBAL_SPEAR",
+    "material": "STICK",
+    "name": "Tribal Spear",
+    "category": "SWORD",
+    "tier": "RARE",
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "STRENGTH": 100
+    },
+    "has_uuid": true
+  },
+  "recipes": []
+}

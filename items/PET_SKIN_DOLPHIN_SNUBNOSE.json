@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_DOLPHIN_SNUBNOSE",
+  "name": "SnubfinDolphin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_DOLPHIN_SNUBNOSE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjQyODA3MTIzOCwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZWQ3MjVjZGVmYzAwZjdmZGU0N2NiNzA0OThlOGJmY2U0YWMzMDEzMzkwOTliNDEwZjUyZWJlMjdmOWEyYjgxIgogICAgfQogIH0KfQ==",
+      "signature": "H0l50jtVkcEQY3pgP1aG8wIoABDS9Pb59xY36mFmxc4ngi1f2Nuy+sJuuCV69a+wOzhzwvLeGcbHkT9Gxn96Y0HSZxn6MnV9cwDFGuKz7P2kNTuaDtNI5Ba5c/U9WrOA8PH/uRO20wZpYUimZtbIns2tIhK+rWZmzGDU4dcjMZpBkVk9e4o0yjadFYJ3VOakG9l4YPUfPTVBZ+SK/1+FBMJkQpXstSRKfO9hZjtiJzBDEJDJ5ce1qsHh9hNZsCa5riIeebKM5G/qcDM9NIN3TIEVUI4s7DR7wQv0KZucADxoIsmTBOLIWMAkMboWtxy2MvYgjX4a4sziP7SsDvJYAx7YGvFO4nMhw1UBDL+xp2QZNumZWk/HjPOfzJaLLdEITZRLte9NBkBjPAV5+pfJURnSsvlZu8076o5p/oql8Wfa/gA/GwavIvZ5kykA2G/LlxBNpfKmsc/IxAm1tmBxJTqwc7nqKadt2dISrzQK0pv4AZVzpWQUn68Nji7AO6ua+81XpqeYhcwMdvQvRDBKuwborl1xKL5JlPfHddWNCoricmW1TbhfWZ5f5/vmgPaMDrbpRx1CoX+6m+8lv4+L30+POVk6e+RU9iAWbYpMCOYqax85W82BWmayPQm6QqdotFjB6i1HNpr56PeQGXe9VxHInix1Wbtp83vdoB7VRhc="
+    },
+    "name": "SnubfinDolphin",
+    "category": "COSMETIC",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

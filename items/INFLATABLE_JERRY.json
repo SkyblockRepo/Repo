@@ -1,0 +1,26 @@
+{
+  "internalId": "INFLATABLE_JERRY",
+  "name": "Inflatable Jerry",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Brewing Ingredient\n\n&7May it be a light to you in dark\n&7places, when all other lights go out.\n\n&cDungeons only!\n\n&f&lCOMMON DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "INFLATABLE_JERRY",
+    "material": "MONSTER_EGG",
+    "durability": 120,
+    "name": "Inflatable Jerry",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

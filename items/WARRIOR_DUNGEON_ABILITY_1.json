@@ -1,0 +1,33 @@
+{
+  "internalId": "WARRIOR_DUNGEON_ABILITY_1",
+  "name": "Strength Potion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&6Ability: Buff Potion  &e&lRIGHT CLICK&r\n&7Throw a potion which temporarily gives all\n&7teammates in a &a10&7 block radius &c+30❁ Strength&7.\n&8Cooldown: &a20s\n\n&a&lUNCOMMON DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WARRIOR_DUNGEON_ABILITY_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODIzMzUyMzE5NywKICAicHJvZmlsZUlkIiA6ICI0ZDEzZWUyZjViOWI0N2I2OGU2NzhhMjAxN2VmZTc1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF5ZGVyZWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU3MGZjODFkNTQxMDk0OWJmYTYwNzMxNTZkN2Q3ODAyOWYxMzMyZDRjZjY0Nzk5MjYyNTJiMzcxZjVhMzJhNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "FlCSwN4UCFJiHF/XvE9JqY6HX4ld7hfe7K+4N7HmSIlypcF2fsbD4Av7CFiiTRjTu2IWxRE9GH1QfaU2YISgXgA0SCDEcR5hABxreboU14adt9HsO3GUnXFO5Z8Wxvmjq/advr5fczljSPFh1PZpCBad9eabi1Krat4Bt0dZ/35cc/3yLLra2Q4b6ULiGQgJKkDnX5UEprj68NMRL8vlAamA1gaUCITnocO+xBg9o6KudFdkR3am+ticMP+Zx22Cu86zHewFNHnCqNwY/hqKS/4a4d2lTf36aaUb4B5KBmlmLfX1gsev2GLzF0ErDvg55cqWRm18YzSsVbou4+hdguumWISC+fIxWLVV6f353otJL/95RwfG/SPrjkphh/mjzSIoUDha0HY4c8sI/z3f7GPfEfWr0gjUc4D2ShJrQUcyB8YOCV94kJ4N7DtuqG6iipUyzDScSBYghJJPEXNW036/BTQHIvEGAL96bQQQiclr81y3JDoziLKUsddfMqixfpAn/JF191gQMsjU+ZD9JIj9xq/RVIc6D14rE4drMi43gZraXQ2ixmJ6yV1d6cFs2CiV5qdsHoR7EXe5Etw8+UOsV7VtYPIeXxI1kdpYSs16npX236HNZGILUkilZsH8yAlRkKTxXN+VzLmBckvgSLFhsZoTBPGWkOs0VHC1WcA="
+    },
+    "name": "Strength Potion",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

@@ -1,0 +1,35 @@
+{
+  "internalId": "PARTY_HAT_CRAB_ANIMATED",
+  "name": "Crab Hat of Celebration - 2022 Edition",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Magic Find: &a+1\n\n&6Ability: Party Time! \n&7Gain &b+1✎ Intelligence &7while on your\n&7head for each SkyBlock year you've\n&7been playing.\n\n&7Obtained: &e2020\n\n&c&lSPECIAL HATCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARTY_HAT_CRAB_ANIMATED",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzMjY5NDY2OTQ2MCwKICAicHJvZmlsZUlkIiA6ICJiNzVjZDRmMThkZjg0MmNlYjJhY2MxNTU5MTNiMjA0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlzdGlqb25hczEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJkODdhNTlhYmRjMTJmZDlhNWVjODY1YmU2ZmM0ZDU3MWM4YzlhMjc4ZjQzNDIxNGE0NDJiMThlZDdiMDQ1N2MiCiAgICB9CiAgfQp9",
+      "signature": "X/msHwgWHMqOZqT9HXOSGiO7xxGHcBRyXPN1JF8x5gcQ8QRxw1eiBmYzodiHDYTOUEbGNhlQFX1gzEg3ZlAEq5VxvrFc3LjpuF/mBy7w6Mpy93IWN6t5T7uue0QyDadD+75+7cH7VbJrIc9Bybw1n/qcScaaHDO6QbTuYn7va1DyhlqK5vVMO8F9+wmNwYNJPQNTPr6jKJOn5JAjwByY5DkmJOnNUERVRnQUCa7GTP6h9na//x0SWpwdUYYjP0a2C7Fg95NxUtmA1ux0iCfoq514l0bkgDaGKw9abaUdf1TYEF/H9x12i5ndPGk7Mh4kYAa7EiSi9r5xtlQHwtb4gxLs71P2yfr/0kjsQ2iXyGcdzYXUDq27ozOZx6WhL8BN4MVlIClHST/6KQLOxuM5xHTDvLvAccWaW214TIaNxSbvj4US1r5KUHpqt5OyH1VzPG+jZAEZNt3fgvfLaiCCXuDrzLAzzA0CfE9pcGt63JauVmvjqc5Rf62OzLt63BqUwLKfSw7ceSevCQo/rrTVcvfKAzw+9J6W1O4abYcjyyUYXX6E6mXj+7Xauhh1svLHDabs7wLUBoy2sfiCnaphvUPH+F3odvadwvp3Tb6+bZyxqfKg2RY1ZwzSu3V2pieWiVqoUR/NrLiaYNiWDaicDXeC1/pKh6oELD9vOtdM6qM="
+    },
+    "name": "Crab Hat of Celebration - 2022 Edition",
+    "category": "ACCESSORY",
+    "tier": "SPECIAL",
+    "museum": true,
+    "stats": {
+      "magic_find": 1
+    }
+  },
+  "recipes": []
+}

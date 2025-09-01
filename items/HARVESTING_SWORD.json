@@ -1,0 +1,30 @@
+{
+  "internalId": "HARVESTING_SWORD",
+  "name": "Harvesting Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HARVESTING_SWORD",
+    "material": "DIAMOND_SWORD",
+    "name": "Harvesting Sword",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "stats": {
+      "DAMAGE": 50
+    }
+  },
+  "recipes": []
+}

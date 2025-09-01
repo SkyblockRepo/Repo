@@ -1,0 +1,25 @@
+{
+  "internalId": "STEP",
+  "name": "Stone Slab",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STEP",
+    "material": "STEP",
+    "name": "Stone Slab",
+    "npc_sell_price": 0.5
+  },
+  "recipes": []
+}

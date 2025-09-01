@@ -1,0 +1,25 @@
+{
+  "internalId": "DAYLIGHT_DETECTOR",
+  "name": "Daylight Detector",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DAYLIGHT_DETECTOR",
+    "material": "DAYLIGHT_DETECTOR",
+    "name": "Daylight Detector",
+    "npc_sell_price": 9
+  },
+  "recipes": []
+}

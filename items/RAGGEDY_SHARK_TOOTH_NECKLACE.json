@@ -1,0 +1,78 @@
+{
+  "internalId": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+  "name": "Raggedy Shark Tooth Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+2\n\n&7Grants &a+5% &7chance to get Shark\n&7Teeth during &bFishing Festivals&7.\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5ODI1Mjc5NTMyNCwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc3MzA5ZGRlYmJkYzI3OGVlMjc3MmQ5MmZhNDkwNWRkODUwYzVmMjEzYTc3ZmZhZWQ1YTY3ZWVjYjIzOTg0YSIKICAgIH0KICB9Cn0=",
+      "signature": "NGqEFkZL2qsVYDXFm0sZsaBb987hzvEvXyQA4F8jfQO57sqTPjyaXGIQT3stKhJJIOoQdruhYlzLtcWqL0+wHSOoQKxFYw6tI4zcRR+QjgPsvZ8ai2YCqg3mQ/zeQYbfB0x7902Mg85b3Ij87CR0lM5WbaCz4eyoDOJv+Wa7iExUthtajvGg0j/Xw1948HPGQ/5Sn64SHer3NBQiMBCg6kwOuAdl952xAlchYdJVPsJ4ib73t76MHaQlgYqduD1+3C5QoI7wPZwAuYGYtG902XWqq8RvUahicv30vc+dqDIqHrBmCesIaJnW/Z3bLNpxAtD47c1VQyUeXjY2PIhSsR3tJ+sxKLHEqrqyZUKCZjjMJmnyNfVanj912CfF9tu1m70Xdr8fvo7HNhqcM5rRG3t2kQYkvjb+77XYS1TDAoD8mEHCePktop7Aek3w5KkC++mwX6fAlfY0QvNuFMPS2+PHJIRslIw1Iit6kMJ7ZO+PyUhcnx+QyceELrYmitq+srODBvfeyIBJGJt6gB2Y4YNS4g5y3it5+6i13IHF9Ws4+Nc3MqsXhl3uLL3fmtC6CgXpIEV/nzpFlrUkupXZP70i+BsvPON2za6HVFFAAbynoJfOAHfYyHM0238Tm4/w+CVcsEh9j/dDp8ByHukeyvgi5Mg5J9yYtEUDALMLsRk="
+    },
+    "name": "Raggedy Shark Tooth Necklace",
+    "category": "ACCESSORY",
+    "stats": {
+      "STRENGTH": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "NURSE_SHARK_TOOTH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "SHARK_FIN",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "internalId": "TERA_SHELL_NECKLACE",
+  "name": "Tera Shell Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+80\n&7Defense: &a+30\n&7Intelligence: &a+20\n\n&7You can no longer catch &6Trophy\n&6Fish &7while wearing this Necklace.\n&7\n&7&8''Telling Trophy Fish to pound sand''\n&8''somehow elicits their deepest,''\n&8''darkest fears.''\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TERA_SHELL_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMzc1Mzk3NTExOSwKICAicHJvZmlsZUlkIiA6ICI3MmY5MTdjNWQyNDU0OTk0YjlmYzQ1YjVhM2YyMjIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0X0d1eV9Jc19NZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YzUwMGFkYjA3YTczNGZjNGNjZDg0MDEwYWVlYjRjMGQwMjhjNTE3NGIyNjE5Y2Y2Njc1NzBjZWQ1NzE1Y2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "oQUVBBeHj2aJ1MWw4twQa+mu3u7j37Ot/Zm1+mmmdNwLRCgipiVrYG5W9TxO5XZr5ShmyfOS6p606EXjxkUBeLC07GiAjVyelDcuhQltMS6CH0p+AgX10AHPFeyholUv+2kRk7favPR/pTmISmsHue2Oy74yqV3mMJkjwaQ/9TFwRyFJvGNDFlTqLVxJ2VkJ5mt7yVF2xHJPlyaD5xtM4OYwWc3Se2ACAVKsc1euOxOCmQzdmXRq9FOQKlKsABxQPj8tq9EqXim0wtrW3fxSuc8ANcm+qYQHMazQay4/2SqveLh+NEOV5F1LYyhxPQ1dLEzSO6pW1QJ6C6T4qBrioFchFjFAa/P7zJ3oxf9h5peQlaO/uoqjpLnqL0ZZ3/CX0Hx297SYP7ulMNHLqYOO7sgGaWCA5qFEJQLldCjgJ7r49Wkhz72ICN2ML1Xpv4tBMigRCTtO3ktoE5oDPeXRfHi21IAtlMH++4p6GxbkE2W1Clj6VWWRM+auNlcVgja0N3j1secBpHrE94FSS0ONUW7kwzoZQe7T+c48D37FUzUCFyfJiGBOvqa5E9km6jzMJKGJh+gNNBmYp+4SYveCV4HjMOiDxzoiYuIRGxF4DW8huZFpBkL+FXBMSzREVhtAx+pvZsm9LxUxgWNfk96Mv6wmiYY7dSZ1/hXru7yexnE="
+    },
+    "name": "Tera Shell Necklace",
+    "category": "NECKLACE",
+    "tier": "EPIC",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 80,
+      "DEFENSE": 30,
+      "INTELLIGENCE": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 16
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 32
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 32
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 64
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 12
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 128
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 128
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 256
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 256
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 18
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 21
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 24
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 27
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 800
+        }
+      ]
+    ],
+    "description": "You can no longer catch %%gold%%Trophy Fish %%gray%%while wearing this Necklace.\n\n%%dark_gray%%%%italic%%Telling Trophy Fish to pound sand somehow elicits their deepest, darkest fears.",
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TERA_SHELL_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GAZING_PEARL",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

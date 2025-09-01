@@ -1,0 +1,98 @@
+{
+  "internalId": "EMERALD_BLADE",
+  "name": "Emerald Blade",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 153000,
+  "lore": "&7Damage: &c+144\n\n&7A powerful blade made from pure\n&7&2Emeralds&7. This blade becomes\n&7stronger as you carry more &6coins&7 in\n&7your purse &8(Capped at 2B coins)\n\n&7Receive &4Curse of Greed &7when striking,\n&7&cCANCELLING&7 any effect modifying your &6coins\n&6&7loss on &4death&7!\n\n&7Current Damage Bonus: &a14.0\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMERALD_BLADE",
+    "material": "EMERALD",
+    "name": "Emerald Blade",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 153000,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 130
+    }
+  },
+  "recipes": [
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "EMERALD_BLADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EMERALD_BLADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "EMERALD_BLADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

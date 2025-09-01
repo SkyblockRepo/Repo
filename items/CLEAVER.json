@@ -1,0 +1,73 @@
+{
+  "internalId": "CLEAVER",
+  "name": "Cleaver",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&7Damage: &c+40\n&7Strength: &c+10\n\n&6Ability: Cleave \n&7When hitting an entity, monsters in a &a3&7 block\n&7range will be hit for a portion of that damage\n&7too.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CLEAVER",
+    "material": "GOLD_SWORD",
+    "name": "Cleaver",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {
+        "CLEAVER": "SUPER_CLEAVER"
+      },
+      "type": "WEAPONS",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 40,
+      "STRENGTH": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CLEAVER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

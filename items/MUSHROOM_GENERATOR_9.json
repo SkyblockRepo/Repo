@@ -1,0 +1,121 @@
+{
+  "internalId": "MUSHROOM_GENERATOR_9",
+  "name": "Mushroom Minion IX",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting red and\n&7brown mushrooms! Requires an area\n&7that is suitable for mushrooms to be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a20s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MUSHROOM_GENERATOR_9",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDc4OTEyMjEsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3ODVmMmZiOTQ1NTU5OThiMzgwZDE5ZGVmZmUxMjBlYjhkYmQxMTkxYjA5MjczMTIyMjFlMWY0Zjc2MmE4N2QifX19",
+      "signature": "MfY81lL3Grckqizo0BaG0EONv72TV/bPccsLkeKPwtIcFPp/DdSRd9U2mGv3sNkQEAase5iQt/HNGmbPL5sjhpmIK2oTm2UI+EV8cerTYZHC0P432LR7t/y6KKHGcNV7UqNKOjbgDyLShtvsab9M7CJv+97qKGOSCHF4GSapJ/f972P20PcZbxTP51U3EtvoMhHiQtgDhQUDi5JOyWPwoAB49ufdes6hFJjSece7KR2Ku/VaTh7q8qO3mEbhraNi6DwBRgSrAq19Y4Nk+OBXUrYbv7hWJSaMA5LirHpeQ5SBEO6iaTdThoRi6y4K/8iqygpZMakHxYkWeaCNrjIQLsIqPjdiayFOBFVEtqj0CeJFTJV60XmieTwXKNZO5H0WRIGxunQhWxKvQaJIxcmA/AheErbPcCPhMYQfYlzrPkhXGCvmESv3aKmB0xNwSaos6u9sRJBRqBS2dub2K0w8Wai3spjbKRucGmEd2O0ViX3K3rF97U9bjRzqcpxKJJSa9KxWI9Q+elcGyyp7Xv8jXCsaNW1OU73y6yyznpF12+KJ05oZWebL9E+nTaamOFtpyFa/IpY41sXcWOuaajkf1+2tZK3SpRwnwCSpL3yvabrQyEyA+T/JyzUgMECyKQQ+s6DWulxVFxpPlZFIdsJ1juUVtHm7v1EVJb1Ud22jkZY="
+    },
+    "name": "Mushroom Minion IX",
+    "tier": "RARE",
+    "generator_tier": 9,
+    "generator": "MUSHROOM"
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "MUSHROOM_GENERATOR_9",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MUSHROOM_GENERATOR_8",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MUSHROOM_GENERATOR_9",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MUSHROOM_GENERATOR_8",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

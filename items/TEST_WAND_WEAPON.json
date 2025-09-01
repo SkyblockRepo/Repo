@@ -1,0 +1,29 @@
+{
+  "internalId": "TEST_WAND_WEAPON",
+  "name": "Test Rift Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&9&lRARE WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TEST_WAND_WEAPON",
+    "material": "STICK",
+    "name": "Test Rift Wand",
+    "category": "WAND",
+    "tier": "RARE",
+    "stats": {
+      "RIFT_DAMAGE": 20
+    }
+  },
+  "recipes": []
+}

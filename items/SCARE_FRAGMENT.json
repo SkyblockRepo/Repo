@@ -1,0 +1,28 @@
+{
+  "internalId": "SCARE_FRAGMENT",
+  "name": "Scare Fragment",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7&7Imbued with the pure essence of\n&7terror, this shard pulsates with an\n&7unsettling energy.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCARE_FRAGMENT",
+    "material": "STAINED_GLASS",
+    "durability": 15,
+    "name": "Scare Fragment",
+    "tier": "RARE",
+    "npc_sell_price": 1000,
+    "description": "%%gray%%Imbued with the pure essence of terror, this shard pulsates with an unsettling energy."
+  },
+  "recipes": []
+}

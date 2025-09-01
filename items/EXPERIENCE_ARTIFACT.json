@@ -1,0 +1,72 @@
+{
+  "internalId": "EXPERIENCE_ARTIFACT",
+  "name": "Experience Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 115000,
+  "lore": "&7Increase the experience orbs you\n&7gain by &a25% &7while this item is in your\n&7inventory or accessory bag.\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXPERIENCE_ARTIFACT",
+    "material": "ENCHANTED_BOOK",
+    "name": "Experience Artifact",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "npc_sell_price": 115000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EXPERIENCE_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

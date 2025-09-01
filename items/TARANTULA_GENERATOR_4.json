@@ -1,0 +1,77 @@
+{
+  "internalId": "TARANTULA_GENERATOR_4",
+  "name": "Tarantula Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and squashing\n&7Tarantulas! Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a26s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TARANTULA_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NzE1OTE4NjY0MzksInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYWZkZTQyOWZmY2Q1MTQxZjQyYjNkNzU0ZDc1YTBhZDM1Mjg1OTQ1MDljMDliZTAwODNiYzJjOThkMzhmZGNlIn19fQ==",
+      "signature": "kSAlQa6Ki5HCEwcCC6tKUQt2nA5ky+LTFWsYOPEPvmzP7R8pDkaPk/Z6lHQvu4G7VL7X34bzrwU6xQ5xGBkhRyMwxBatKA7FocE1N5xyxI31MLVOGBzZRMifa7GCuEWQczkeY7uD+9CPmjeSYorRqHaStCLfVRMxBD0q3ssI2guemaxnOKf5hxZNpxVmsP4qcG3lf+yUJv4YDbevWq7G4u3Qv42XTk0xCnv9W3rXPcW6w3ILJyShnrbyhJAXqYkkzjL6CdTsuKIU5eO/8vIvDl5L3baQvmKtNY+jOUFjqZO3H3jtBXNkJ7GR260SsVvskAZNWu+B9x2rvI9UoAY8QQjWVY1/V9QiUqhgV73FcxQJONkGFzR0DnMmfzMDpHNjpOgqaKPWkQD5moMo+R6fnJo41tF+ffErbrRId+EANtPD5kCZyqdjOayVAk0jJltOO0vOkF3WLMvvmZx9hn8nY0KA1T1OFOVJlqrh9CVYBw0BOPuw0mNPKZrcRGdSOzn6aHX3ahvLXz7g71AzVlI/RUAT54SCo4sH9bACOJXTYlOcunPvDv40vqA/ldmD0VzFznp2rLQFSm79biCuXadQlddeo7IEEv5Km4zoWONvnN5h0d1rvVojrcLJXFqnfClvdZpsnA+0Bwxa9Tl4uWbTLosYvG4wmVbnR6LMnWQuEZU="
+    },
+    "name": "Tarantula Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "TARANTULA"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TARANTULA_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "TARANTULA_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "SPIDER_GENERATOR_3",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "internalId": "SKELETON_GRUNT_LEGGINGS",
+  "name": "Skeleton Grunt Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d127 &8(139)\n&7Crit Damage: &c+15% &8(+16.5%)\n&7Health: &a+22 &8(+24.2)\n&7Defense: &a+44 &8(+48.4)\n\n&7Increase the damage you deal with\n&7arrows by &c5%&7.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 1&c.\n&5&lEPIC DUNGEON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_GRUNT_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "225,235,52",
+    "name": "Skeleton Grunt Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 1,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SKELETON_GRUNT": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "gear_score": 5,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "HEALTH": [
+        22,
+        23,
+        25,
+        28,
+        31,
+        32,
+        36,
+        39,
+        42,
+        46
+      ],
+      "DEFENSE": [
+        44,
+        48,
+        51,
+        55,
+        59,
+        62,
+        67,
+        72,
+        77,
+        84
+      ],
+      "CRITICAL_DAMAGE": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        24,
+        27,
+        29,
+        32
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

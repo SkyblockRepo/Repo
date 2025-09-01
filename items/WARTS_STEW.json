@@ -1,0 +1,27 @@
+{
+  "internalId": "WARTS_STEW",
+  "name": "§cMushroom & Warts Stew",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&7Bring it to &eJuliette &7in &aThe Park&7.\n\n&7&7''Made with love, and an array of''\n&7''slightly more questionable''\n&7''ingredients.''\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "WARTS_STEW",
+    "material": "RABBIT_STEW",
+    "name": "§cMushroom & Warts Stew",
+    "tier": "RARE",
+    "soulbound": "COOP",
+    "description": "%%dark_gray%%%%italic%%Made with love, and an array of slightly more questionable ingredients."
+  },
+  "recipes": []
+}

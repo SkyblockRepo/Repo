@@ -1,0 +1,29 @@
+{
+  "internalId": "ARROW",
+  "name": "Flint Arrow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&7Damage: &c+1\n\n&8Stats added when shot!\n&f&lCOMMON ARROW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARROW",
+    "material": "ARROW",
+    "name": "Flint Arrow",
+    "category": "ARROW",
+    "npc_sell_price": 2,
+    "stats": {
+      "DAMAGE": 1
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,36 @@
+{
+  "internalId": "HALF_EATEN_MUSHROOM",
+  "name": "Half-Eaten Mushroom",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Bring &63,000 &7of these to &5Carrolyn &7in\n&7&5Scarleton &7on the &cCrimson Isle &7to\n&7permanently gain &c+5❤ Health &7and\n&7&6+12☘ Mushroom Fortune&7.\n\n&7&8''Whatever was tasked with guarding''\n&8''this valuable mushroom looks to have''\n&8''gotten a little hungry.''\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HALF_EATEN_MUSHROOM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY3NTc5OTA2OSwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyMTVlOGVmNzVlYjU2ZmI1ODU5NjljNDViNzA0MTA0ODQ3YjU1MzZkMGFmNzQ0ZTE2MTc2M2Y0MjExNDU2NzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "YAL84HCqdZCFPnZ3+6prqzPwgFouUfuDPcx5ZwlJ6HclpEa75+7DpFRg9vG6vTo7WMkQ6xNBhzhcyKpdSWB7Eh3sFlO3JXD0FvpyrHcOPjTwdiAAV/CNKxjzwlgAodRDE/uyv/AKm7OHYMIebVh1424IzHjtC7s/q//5GvbTdE0B5MBcUpUSEm5x1Ur7I9at0gnvfrBpneKvl+ZkfOmCzycgJWwUPAQo029gb51JT8Fsq9J0RghZW3R7e1fLEIS5ykGnT0QEPYRAAERWjveKmKFri4QG5YeTKeXZvmtdrmob8u9JgxsLnhdV+0J81gltT0fGddZF0lm1sblQcqH3od8QtCv8ZrqREs3V3dkghqYkWdAMWXzoG7H2zHc0M1WM7g7nfeSDvy200Id9axBFMDumw7JpdifpZSTNww6pniMWnGVjX4b3qd2kpLweBrW0r9fyRMUqyslmLmAXdDuDS/MCHUnoKlAkgighCSrVJ8tn7zLn1iWB3r1LaoGVntMEKmovw+hkAEn9NxF34PCZSiTBPccDGoVlzWK5wrohEj2ihF1vfp9hePWvhCkwUjF3FGdOZARKaKTtfnBYLSOtHH216eQM7UChclRJBWqD/STrBgwuA+goHFZtSPOcJ5PXanPD28PLubqAO/e+++/YmMYpdA9Cs1zAIrhaHsxKVXs="
+    },
+    "name": "Half-Eaten Mushroom",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 500,
+    "item_specific": {
+      "permanent_health": 5,
+      "permanent_crops_farming_fortune": 12
+    },
+    "description": "%%dark_gray%%%%italic%%Whatever was tasked with guarding this valuable mushroom looks to have gotten a little hungry."
+  },
+  "recipes": []
+}

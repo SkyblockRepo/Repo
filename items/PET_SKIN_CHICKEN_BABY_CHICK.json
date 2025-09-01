@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_CHICKEN_BABY_CHICK",
+  "name": "Baby ChickChicken",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Chicken pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_CHICKEN_BABY_CHICK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NzE5NDA0OTgwODYsInByb2ZpbGVJZCI6ImRlNTcxYTEwMmNiODQ4ODA4ZmU3YzlmNDQ5NmVjZGFkIiwicHJvZmlsZU5hbWUiOiJNSEZfTWluZXNraW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1MGNiYmMyYjU0YTNlNzkxMjYyZGNkNWUyMzQxNDg2ZDliMTVhNWRhNGY5OGZjMDM0NThjMDViMzk1ZjAzMzUifX19",
+      "signature": "irQK2f8Fe9whdUJJ6es6H9fd5k2RhumlSgS+T3GWSDfdAefmmwhs3N82erXNTNLKgIKLJAmgJAYu5HzwJeQuuVV8sD3Ax2Ky3t1VNNGj7eu9Hn8lziWFsJcw1dn0OdZGBUP5d9QoznXOeh15iw5bPi2FbmPNuE7I+bWKcI5lqLSl1rMdmNmfWQFEuYx6aRX+nIbNQ3m22RUa1otw9kU+xOwM0XFMrhUo5EAWnZMfLdfIWIU1Ncw2kYxQCt6stbP6a6H/VEESmB8ntN9DcLqDq9X1LiqjxIxIsZ15DbSxdNvIHdxqw5TxPLdcCsyqoi7rdqiVqIfd+eiM098F10hPnd6OT9/fxub8O9td4rlvV81U+sOEdmcBz/NRQiJ1+O1JDdBMSymycomGhbHk8ACemVDzNQBmfeST0H1XZK1cTBUjS9eDIlBrFlhyI2bDLWEM88awrLD1HLQLPlanmO/5pIgPWM0JjbTswVyjCDKwcQqgeBU+KCkoDWMSti3omZYdxPtjQUmeUtzv7p30/AwSnEs0TMjTu2JQJMcFEwOVE9r9DyNqWDWd2JySpeSEhsuJCcOAfSVhJBzL0PmCYnnTelDekWhZetFCWmGp4SF9a/YraJptblKFxLSDSm3jmI8ohkholKSLkILwAbB2ZWTYZghQFgpnso34z3MJt19aB+Q="
+    },
+    "name": "Baby ChickChicken",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

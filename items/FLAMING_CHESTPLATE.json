@@ -1,0 +1,225 @@
+{
+  "internalId": "FLAMING_CHESTPLATE",
+  "name": "Flaming Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25000,
+  "lore": "&7Strength: &c+25\n&7Sea Creature Chance: &c+3%\n&7Health: &a+225\n&7Defense: &a+200\n&7 &8[&8⚔&8] &8[&8☂&8]\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a5% &7and\n&7damage dealt is increased by &c1.1x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 33&c.\n&9&lRARE CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAMING_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "237,102,18",
+    "name": "Flaming Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "npc_sell_price": 25000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 33
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "LAVA_SEA_CREATURE": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "health": 225,
+      "defense": 200,
+      "strength": 25,
+      "sea_creature_chance": 3
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 15
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 25
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 35
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 45
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 350
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 25,
+        "essence_type": "CRIMSON"
+      }
+    ],
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

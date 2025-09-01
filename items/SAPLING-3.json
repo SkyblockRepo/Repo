@@ -1,0 +1,26 @@
+{
+  "internalId": "SAPLING:3",
+  "name": "Jungle Sapling",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.25,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAPLING:3",
+    "material": "SAPLING",
+    "durability": 3,
+    "name": "Jungle Sapling",
+    "npc_sell_price": 0.25
+  },
+  "recipes": []
+}

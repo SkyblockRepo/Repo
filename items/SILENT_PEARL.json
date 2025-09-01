@@ -1,0 +1,71 @@
+{
+  "internalId": "SILENT_PEARL",
+  "name": "Silent Pearl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Prevents pearl damage and\n&7Enderman from spawning when\n&7thrown on &dThe End &7Island!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILENT_PEARL",
+    "material": "ENDER_PEARL",
+    "name": "Silent Pearl",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 100
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SILENT_PEARL",
+      "resultQuantity": 8,
+      "crafting": {
+        "1": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENDER_STONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

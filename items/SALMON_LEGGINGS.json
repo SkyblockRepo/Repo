@@ -1,0 +1,41 @@
+{
+  "internalId": "SALMON_LEGGINGS",
+  "name": "Salmon Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 175,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SALMON_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "168,43,118",
+    "name": "Salmon Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "npc_sell_price": 175,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 13
+      }
+    ],
+    "museum": true,
+    "stats": {
+      "health": 115,
+      "defense": 45,
+      "sea_creature_chance": 1.5
+    }
+  },
+  "recipes": []
+}

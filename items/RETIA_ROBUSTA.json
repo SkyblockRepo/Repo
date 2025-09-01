@@ -1,0 +1,84 @@
+{
+  "internalId": "RETIA_ROBUSTA",
+  "name": "Large Huntrap",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&6Ability: Retentio  &e&lRIGHT CLICK&r\n&7&cTraps &7can be placed near the spawn\n&7location of a &9Shard &7creature, with\n&7time it will eventually catch it.\n\n&6Ability: Robusta \n&7Reduces the time to capture by &c20%&7.\n\n&7&7''In robore, fiducia.''\n\n&7&4❣ &cRequires &aHunting Skill 10&c.\n&9&lRARE TRAP&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RETIA_ROBUSTA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMyODMzODYzMywKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6MW5jcSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNTRkZDkzOTdiZDdlNjhiN2VmMmNjMWIzN2MzMzAxZWEwZWQwMGI0MzM3MWM2N2NiMjQwMzA2MzhhN2EzNTIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "dq9HCuS/DP/y9Wc3/ZwO32aQRKCfF4YTXRGTSUOem+rzaXCyTICQ6OFw2WpHV87jpk2uaNoyvg5uj+/Cz+4rEml9ptW1yTcIrVZZGYG9iOVD8L5rL0KPfqZgZeDJ85iiZlFV+OEvHrtwJQhFZq2VsQP7z0ZMBg8oK/I8QLOJZ0tw6uqUnQKaoWwYfb19rW4D2JE9GkVPd/slpkn4+h42yUo5BXHqoWL8zgvu4R4hV7iX6ip4rnlAdwzD1ftZ9/Jt6c/j/thfgokkzZVGLH2vmeCwRUSsilrr+oeceZJu8mYo2WDX7sDM1AGZQv9rutdxh8slKMAqJkR6dRhDEguODHawwCYQjaTxfkXJdxYMixSpYJsmaR1uvffCvIAZ9aBM97pQkkywh8+iWXEU/SW4xwTYpiAcHoVDcjZGfAPCQd5LvnVxV9pwuH4e37gXOCeArkMWE5XQpdE5RyWDC/8XdACHk4mHfdRRkHsgU5CKExl51p8pzW9X9KSbkdj0GWzmX3b4a5JjUPUcYFBBdBm2M3rAXrZt2rOKc1oim2rcDTTMT+Dhqaghr9z/ihYcllACvNfYHIKyXcBsS4/L3GicxYErb1C79kTtuVvuykwF0bUl69p58zxmD+eNQIXXZ1wlUJJOnrOl5WOnTsNX3zs38qwh1P6ykIAeXTUQ5xLXhCY="
+    },
+    "name": "Large Huntrap",
+    "category": "TRAP",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "HUNTING",
+        "level": 10
+      }
+    ],
+    "description": "%%gray%%%%italic%%In robore, fiducia."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RETIA_ROBUSTA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "RETIA_MELIORA",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

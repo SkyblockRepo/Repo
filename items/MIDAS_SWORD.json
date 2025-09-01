@@ -1,0 +1,138 @@
+{
+  "internalId": "MIDAS_SWORD",
+  "name": "Midas' Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+170\n&7 &8[&8❁&8] &8[&8⚔&8]\n\n&6Ability: Greed \n&7The strength and damage bonus of\n&7this item is dependent on the price\n&7paid for it at the &5Dark Auction&7!\n&7The maximum bonus of this item is &c120\n&c&7if the bid was &650,000,000 Coins &7or\n&7higher!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 20&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIDAS_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Midas' Sword",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 40
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 20
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": [
+        "STARRED_MIDAS_SWORD"
+      ]
+    },
+    "stats": {
+      "DAMAGE": 170
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "GOLD",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 200
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 17
+      }
+    ]
+  },
+  "recipes": []
+}

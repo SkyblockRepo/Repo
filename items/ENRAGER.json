@@ -1,0 +1,183 @@
+{
+  "internalId": "ENRAGER",
+  "name": "Enrager",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Damage: &c+270\n&7Strength: &c+150\n&7 &8[&7✎&8]\n\n&6Ability: Enrage  &e&lRIGHT CLICK&r\n&7Taunt enemies in a &a10 block &7radius and reduce\n&7their damage against you by &c10% &7for &a10s&7.\n&8Mana Cost: &3500\n&8Health Cost: &c10\n&8Cooldown: &a20s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 25&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENRAGER",
+    "material": "IRON_SWORD",
+    "name": "Enrager",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 25
+      }
+    ],
+    "museum": true,
+    "stats": {
+      "DAMAGE": 270,
+      "STRENGTH": 150
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 160
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 320
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 640
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 160
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 640
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ]
+    ],
+    "can_have_attributes": true
+  },
+  "recipes": []
+}

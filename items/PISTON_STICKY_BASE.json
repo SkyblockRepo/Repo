@@ -1,0 +1,25 @@
+{
+  "internalId": "PISTON_STICKY_BASE",
+  "name": "Sticky Piston",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PISTON_STICKY_BASE",
+    "material": "PISTON_STICKY_BASE",
+    "name": "Sticky Piston",
+    "npc_sell_price": 12
+  },
+  "recipes": []
+}

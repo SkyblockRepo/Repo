@@ -1,0 +1,33 @@
+{
+  "internalId": "LARGE_FROG_TREAT",
+  "name": "Large Frog Treat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Use at &bKat &7to upgrade &eFrog Pets\n&e&7from &9Rare &7to &5Epic.\n\n&8&l* &r&8Soulbound &8&l*&r\n&5&lEPIC PET ITEM&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_FROG_TREAT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFmMjczMzdkMWUxYTk3YjY3YmYzM2Q0NTE3Y2UwYzIxZGU4MmI3MGUzYmZkNDVhMjIyMDFhNGQwNTZiNjAwYyJ9fX0=",
+      "signature": null
+    },
+    "name": "Large Frog Treat",
+    "category": "PET_ITEM",
+    "tier": "EPIC",
+    "unstackable": true,
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "ORGANIC_PUMPKIN",
+  "name": "Organic Pumpkin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORGANIC_PUMPKIN",
+    "material": "PUMPKIN",
+    "name": "Organic Pumpkin",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

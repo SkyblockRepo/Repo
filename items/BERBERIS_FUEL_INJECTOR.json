@@ -1,0 +1,65 @@
+{
+  "internalId": "BERBERIS_FUEL_INJECTOR",
+  "name": "Berberis Fuel Injector",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This item can be used as a minion\n&7upgrade, only for &efarming &7minions.\n\n&7Increases the speed of your minion\n&7by &a15%&7.\n\n&7Your minion will occasionally\n&7generate &aLush Berberis &7items.\n\n&5X&5 Rift-Transferable X\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BERBERIS_FUEL_INJECTOR",
+    "material": "TRAP_DOOR",
+    "name": "Berberis Fuel Injector",
+    "tier": "RARE",
+    "glowing": true,
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BERBERIS_FUEL_INJECTOR",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 48
+        },
+        "4": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 48
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 48
+        },
+        "6": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 48
+        },
+        "7": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 48
+        },
+        "8": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 48
+        },
+        "9": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 48
+        }
+      }
+    }
+  ]
+}

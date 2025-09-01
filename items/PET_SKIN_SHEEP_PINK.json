@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_SHEEP_PINK",
+  "name": "PinkSheep",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Sheep pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&a&lUNCOMMON COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_SHEEP_PINK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjYzMzU4MjkwMywKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FmYTc3NDc2ODRkY2I5NjE5MmQ5MDM0MmNlYTYyNzQyZWMzNjNkYTA3Y2I1ZTZlMjVlZWNlYzg4OGNkMjA3NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "cUe2DP/8ldVsQk76tjR5OKTIt6nNdHZXTvPzTx3PCfJ62uk+Wz8aTmsQdTvNu5pnmZrVV8WeBNGt4S1u7Qz8VfeUMsIRGI3fIqiD+OOCXeb0qRWIIubiQrEjCG6q1hjcc3bDGZyj+KS2WtNNfyUNmgAri8dNXxP2HqAZiJLQ5iJdiR2bmVDDB2ikkPQIaAcKIEVkMaXu47qb28N6YogObExcAqa9GpA2qvEqFVKSuhsc/5NnFS2sUKDR4r9WUWD+nqbO4iL/yp8a6MKm4GgCGeFzXDspa091CB0O9SeGRogsFOB3X4mKUoQ/paLrhME3dS5oIRKPkJjyz3JqHUGJqWIJZsrPe3FQ6191uyDzgboGwhINDYaYoZd8Q+EM7jvD6uGRo2dAXuaj1o/0vc81Qesb16zs8cdxMzNbSGua/ldXsQDzgs8dabPGe43b+Y9d+dyvBlSKgAJkd7h+nLRP/5Zs5yo7BXGeT9sgUUORuqJ7Q0oXDGpKcWkyANivYQbZUQDpEAdyX6bLidP9yvKyxrPFhm5xvN9X2pHuyWkfT62qwQkm+CqptOvpiSgySnnx65fh2BQ13Otg0t0it2rl/9Pk9o1GIC/BkE+mtkwNmIUl4EZtwCHkWM9Faiy7VcFRGKxtX+2IKrTi5IFHLhUkYTq49MzAZmZPSj//yURGZyw="
+    },
+    "name": "PinkSheep",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

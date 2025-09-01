@@ -1,0 +1,99 @@
+{
+  "internalId": "ENCHANTED_JACK_O_LANTERN",
+  "name": "Lantern Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 82000,
+  "lore": "&7Health: &a+20\n&7Defense: &a+10\n&7 &8[&7☘&8] &8[&8☘&8]\n\n&7For every Farming Level, this Helmet gains:\n&a+2 &7&a❈ Defense\n&a+4 &7&c❤ Health\n&a+1 &7&6☘ Farming Fortune &8(Holding an Axe)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_JACK_O_LANTERN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjk2MDUyNzIxOSwKICAicHJvZmlsZUlkIiA6ICI5NGMzZGM3YTdiMmQ0NzQ1YmVlYjQzZDc2ZjRjNDVkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25Db3JsZW9uZTE5NzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEwNjIyMWNhNGE3MzU1ZjM0MDk4NjkyZTRkYTY5MWZlZjA2YWJhYzBiZjkwNDFkNTczYTEzZDYyY2MzMDkxIgogICAgfQogIH0KfQ==",
+      "signature": "v/jJbVYDCk9tbZdXFTIgi8tf139NPblgkFzJ6IWIBMQqheF1HqALuGKIDbIjWIPHZHr2zpNyMZqAufbakDJ6XNpSSYy8qTrSlB+1Y1StAceoEsS2zYbyzQmuyABG/tkX3pg/As045dojPgIIPgLpUPIeRFCTtp6A5KWUdUzo/WAE3r6LlD5k6VreFVxY5EXL2T4xX1W/b2/0EiM1aPdLB8krR0hfDFfCdisNjkr60sgdYS9I+f3QkIvKfsdCj1oTQsQXdoxki/OAJKX6G4ikc0WGb5FLuea7y5YgzDE4CSpAd1ltlRGmrX+6JR08yA5+4tXGcaZRl3+DcaCOuGlkNqtUZYKRUh9kD0bNqZ+OTI2o9h8FGjdvZa1UdUoSMXxwqQJcoM1ztkGljDoiUSJkjeGKKajiyMI8M7WOuV4PIqmonAwuEmcMwbULGM8VBS3a95ByyRKKSCsd+I0qrLmAs17tDfBoimqcizaMMXnexkWIDplw9v6vh50pnVoKps82sKz9BBVyOBlLr2WvZjMkZm/5Uc/0hORIdpAvJa8/aD2ehzdecAPMhn59kvdA9MzbI+onUwLGieBCNzn1zDEwk1se15VD+iLwANIpxndKFpZK4sT9I4T9sSo6NVJ3jULDEuEuGiGudcqrEBiKQMglKOQSU2yFgWMcclnecNiUJLM="
+    },
+    "name": "Lantern Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 82000,
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": []
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 15
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_JACK_O_LANTERN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "TORCH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

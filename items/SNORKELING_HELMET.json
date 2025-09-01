@@ -1,0 +1,55 @@
+{
+  "internalId": "SNORKELING_HELMET",
+  "name": "Snorkeling Visor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Health: &a+65\n&7Defense: &a+60\n&7Pressure Resistance: &a+10\n\n&8Tiered Bonus: Long Tuba (0/4)\n&7Grants &3+2⚶ Respiration&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 16&c.\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNORKELING_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjMyMzY3Njc4MiwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3NTQ3OGY5MWE1MWMyODEyNTU1NDVmZDcwMGQzMTU1ZDk2MjhhYzdmNmVjYWNiOTYxMTA0MTZjYmMzODQ5ZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "X7TQUpH7dEvVNiumdo3E2+YAfbWE0p2Os24z018iJbYWuPn5Bzn7Mh/dRtKbLLeNnGtNgWBE+b1RXs9+G3QMso0yWlcCaKapR+t2wrpG9KWCKdJ/MMvMOCAYki3cSSvbsp0hPwtHdYWndoJPxl0y3zacOg9mvLrqXVX8aUiTEEHQ6iDmQX0yqO0fGWBsfQ3njzd2p854lQ9JeojvxmQAPmdG78GAt/d/2Vy3oGuHT7flYvfbvyxS1+ji+iHARxGjFBjCl3dpE0UDQl1GU1S7VE3xTvFkRuvP3zMc9RaU91qVv21mElmmpmOKhfjk7D/jHn2DStPv5pRBPgGViagQNq/qCDM0nWvAVgO9PDPCZL1toIcxoqIfw5fpqkdUJxEnlGXaQKMV2z8zdz4GtVAve6LdruWbuRQoJoqX5KbWnYXOnIGvYcdX4/g5y0WCeKTxIDq9eusvFGmQbLA2fq0VejyK2X37aIginzX03DJcaF4PBPYJX/X18eVp4PkEwdTW4b8XFJsTzTWHSbtTW+bDweQ0xf9UaFVMrQqtvsDSgIVbU47OiywtUSP8QO9DJeX9sD3qYY90xpWPdUbOxW1WzX9fGU90zVsiDxzzDaa1iebi+KvQTcugBPbuJ4ZAmTF6X7dHXK3tqhILZdChB1qHjuT2SvaCwhOqJ+GHj0TAiaY="
+    },
+    "name": "Snorkeling Visor",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "SNORKELING": "DIVER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SNORKELING": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "health": 65,
+      "defense": 60,
+      "pressure_resistance": 10
+    }
+  },
+  "recipes": []
+}

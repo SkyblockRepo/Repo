@@ -1,0 +1,27 @@
+{
+  "internalId": "DUNGEON_LORE_PAPER",
+  "name": "Journal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&eClick to read!\n\n&9&lRARE DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUNGEON_LORE_PAPER",
+    "material": "BOOK",
+    "name": "Journal",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

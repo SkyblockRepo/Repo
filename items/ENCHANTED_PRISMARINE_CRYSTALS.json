@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_PRISMARINE_CRYSTALS",
+  "name": "Enchanted Prismarine Crystals",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 400,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_PRISMARINE_CRYSTALS",
+    "material": "PRISMARINE_CRYSTALS",
+    "name": "Enchanted Prismarine Crystals",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 400
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_PRISMARINE_CRYSTALS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_PRISMARINE_CRYSTALS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

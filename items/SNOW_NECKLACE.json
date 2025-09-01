@@ -1,0 +1,37 @@
+{
+  "internalId": "SNOW_NECKLACE",
+  "name": "Snow Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+5\n&7Speed: &a+2\n&7Intelligence: &a+5\n\n&6Full Set Bonus: Cold Thumb &7(0/8)\n&7Allows the wearer to shoot unlimited\n&7snowballs when using &9Frosty the\n&9Snow Cannon&7.\n\n&7Each piece grants a &a5% &7bonus gift\n&7chance for every present you earn\n&7from the &cGift Attack &7minigame!\n\n&7All stats of this armor piece are\n&7doubled while on &cJerry's Workshop&7!\n\n&7&8This item can be reforged!\n&9&lRARE NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNOW_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk5MzM4NSwKICAicHJvZmlsZUlkIiA6ICJkMmM1MThjMzJjNTY0OGJmOTM2ZjY0YjhmZDQ1ZThjZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmFjb0JlbGxzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxMmZhYTJlNzk4OTg5ZDkxMGVmYmY5MjgxYjhjYmEyNDE4NTYyMmU5YWEzNTdjNzUyODVhYTRiN2UzMzE0YmMiCiAgICB9CiAgfQp9",
+      "signature": "rNTRDkLGitTHKYq0EYtWUBPHj5ov2RxNCbuoF6H7RPyDilU72Yc27FBh1Mgn+RCkzZRL37fBZyH/fKLuYSCbeYQHbaDRvZnzVeyemGz5ubC4ZvwYSo5pN0KMzVJAW1ANrVmAK/d6co27BV3huXkqAxBrB/wfnF5y5EL7KaOMH6z/gsRpbT01/s23XBq7gMbCLgBCYzXQ+m5yCJcTZZ1anCUjL81OnPxpTBbrY4piVU7/SjTDChFmI/TImZ0vR53wpsiuK+iRil5/C+6O+qa3FnAXC0zs6bylIZNd0h+b4si4kYwz1ha8MuqaK8JMW+qPAcA29FfkgK1eeCZPzZ+Fzbm3ECCH2GOdjBjGULZ3mf8DqM1HmfxDAXgNn1eKR8MuaW3Rh2qJ3S7OWDlEd4ODFOukIB+CZ7vtemk5SwDDzRwZmWATrmUy6Oz07A10FTkHE+IbU0i9HNi6fu88Ga+MP0Xvu4o0pW3BFf9/IcPw+5We3m7BMyBG7iIfnGxpx2faO7g1YM5Kdz94lZrXaFCbaVT8v4uUer7DE8dQGTozLOwy7Xps7inGkIfz4YSP4B5o7x6FCtNIcdL7Xj2MvnM/7Taq1oxRq5VMwTjbT0G4XE4i4dzqGTkRPuRUvi+xCBlj/3FpeOTgOudeztI+dWHH+9pukz/3LX5fsgVmAa2f224="
+    },
+    "name": "Snow Necklace",
+    "category": "NECKLACE",
+    "tier": "RARE",
+    "museum": true,
+    "stats": {
+      "HEALTH": 5,
+      "WALK_SPEED": 2,
+      "INTELLIGENCE": 5
+    }
+  },
+  "recipes": []
+}

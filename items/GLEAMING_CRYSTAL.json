@@ -1,0 +1,53 @@
+{
+  "internalId": "GLEAMING_CRYSTAL",
+  "name": "Gleaming Crystal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Lustrous &7reforge when\n&7combined with a mining tool&7.\n\n&9Lustrous &7(&6Legendary&7):\n&7Mining Speed: &a+50\n&7Mining Fortune: &a+50\n\n&9Lustrous Bonus\n&7Grants &e+25▚ Mining Spread &7during\n&7&6Mining Fiesta&7.\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&5&lEPIC REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLEAMING_CRYSTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjA3Nzk5ODU0MiwKICAicHJvZmlsZUlkIiA6ICIxMWY3ZTIxMDMyOGE0MjRmYTU0NmFlZDk1M2FkNGU3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2lkd2lyZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MTU2MTAxMjk4MmMyMGQ0MGM2MDRiMmRiOWVkZGI4NDc5OTQ0NzE1YjkxZWZiYzEyZGZhYjE3NzVjODYxMGEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Cj8MA8X2PaIVmJiWzEICy8sd4+HuAi2hv7vskKP1/cWwafVNuQ8Mf+Nrb279W+MT2EVg3bvmfufnotLmFGICqlyA6Y0sNK2/EAf2oe3WoXR1zxKCx08fydpzis3Itj60IQBT0CWXckn6bLHqzugXc4nBf0ruXaPNyu7QQhClOmbIVtgVzAVexiKvXxQ7GzosFqnaM7CZrlyQCDBkX/lLyOLA53MmO1uaDgIhPI4KqT6ATBH0stcFpovjWfYdNppXQQTjRgG2kciD4ZHZmrlrBpumxvKJzRbXRZDklmdM9RjqKFdQEPY/PdJWz3tUevPyYkogHZk7yfoDCAgEtgtMgWabRzFcomTg33nMPF+jugXCBlCT4hWnsFYrIVmX57+Pt6nlA+Maw5PaquP/aU5/EL/ZzMuWD7Dy9PHrJ7Xe78yTuB1K5V4C83+7Z4rNRY5oiTeh7+3NgLl/pG+GAMGAcVI3K5k5UJ2ZAqqPNDEBSxFhJWcOOBpdHNGd28y2bCbEvesLxhpUhX3gG+XV9L7X+SVRLH3Lo/4cofja74dZoZakc2Tdw3F/RvkW97th7SpqyvIwwGr0YUQHDEufv+gHvqm3JgoYWdwoHNrZ6EU2zWFDdl76r03ieWKFRW1VGnmuD6zNEDUDRCduOMQodbzgQInhci85BhvCa0DqEBAyygY="
+    },
+    "name": "Gleaming Crystal",
+    "category": "REFORGE_STONE",
+    "tier": "EPIC",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLEAMING_CRYSTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "REFINED_MITHRIL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "REFINED_DIAMOND",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

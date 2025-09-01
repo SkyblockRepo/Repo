@@ -1,0 +1,80 @@
+{
+  "internalId": "BASIC_FISHING_NET",
+  "name": "Basic Fishing Net",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7Pull: &a+5\n\n&6Ability: Yoink  &e&lRIGHT CLICK&r\n&7Throw your fishing net at swimming\n&7fish to catch them!\n&8Mana Cost: &310\n&8Cooldown: &a0.5s\n\n&a&lUNCOMMON FISHING NET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BASIC_FISHING_NET",
+    "material": "WEB",
+    "name": "Basic Fishing Net",
+    "category": "FISHING_NET",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {
+        "BASIC_FISHING_NET": "MEDIUM_FISHING_NET"
+      },
+      "type": "RARITIES",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "pull": 5
+    },
+    "has_uuid": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BASIC_FISHING_NET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "SEA_LUMIES",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

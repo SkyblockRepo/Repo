@@ -1,0 +1,77 @@
+{
+  "internalId": "DIAMOND_GENERATOR_2",
+  "name": "Diamond Minion II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining diamond ore!\n&7Requires an open area to place\n&7diamond ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a29s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_GENERATOR_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzUzNjQ0MzAsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxMzg2OTJhYmNjZjBjZWJkMGQ5OWI0YTU5YTI2ZDQxZjc3OWFjZmQzNWEwN2IyYjUyNzU5MzM1NmJjOGVjZTYifX19",
+      "signature": "triRS8EFtG1IpeKyn5ukaybzMTCsHdtmPXwa9xnnex99/XzXIFxX0jSEXAeVFzMnWhtiELxWBOE4wjCMXUDS5ZR2FZqLaM5K2lP7juqOI7ly6z9DbH8+DztoHaYUVyJ/ojwUAZnbf7jxcNW+jL9kY2KClu6x9/vJ6Kv8C9RW25/p8/z7+FfbIdd5YJSN7ap2yKGx+kpmMlhXoV6CW/NENn/VXGrIf+JiRRO6b8dH54uVpk9663RbqgH8+Xvntysr0YQIktMSurBvNzX+Np7MDC86ExR/KJMXFkaN67lhQY8sdQzNwFE3uL3/jQw1SjAWZdNKl+WrXdc4O6VYtLDISDWbgJtFQ9fsXwohJZ1BWJVfPYmnA+PeaaFFSJTmlAvcAbTkhx/TMWiz//wR2o3v/BX+n1eDf/+7JFXMOp+ovF4Jj4DIzKueTmOGhzq+34iglt24v2nm2zSQlAh1TCmvn8bHv7vK2tkLM7eVsXj0ZKKhm56nb3LUOQAg8V7lqhy+CZ4klbrzVoQn5FLlBqPEFlPJtgXLSNRfv0Zj5zrEd1lJvRB1AUqaX88UoU62xPJKqVKCiKmFOWoxdLPi4pwRz2k8r4ygoWwlXbvZ58JUXKN2yMLny1nQLghtdNiUMM0QPf7ru/elELIY3Rd4BzSUbnt6U+ANTvUBLeJtx22gEM4="
+    },
+    "name": "Diamond Minion II",
+    "tier": "RARE",
+    "generator_tier": 2,
+    "generator": "DIAMOND"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIAMOND_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "DIAMOND_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "DIAMOND",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

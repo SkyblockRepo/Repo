@@ -1,0 +1,83 @@
+{
+  "internalId": "POLISHED_TOPAZ_ROD",
+  "name": "Topaz Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Lava Rod\n\n&7Damage: &c+100\n&7Strength: &c+100\n&7Sea Creature Chance: &c+2%\n&7Fishing Speed: &a+50\n&7 &8[&8☂&8]\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 19&c.\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&9&lRARE FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POLISHED_TOPAZ_ROD",
+    "material": "FISHING_ROD",
+    "name": "Topaz Rod",
+    "category": "FISHING_ROD",
+    "tier": "RARE",
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 19
+      },
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 100,
+      "strength": 100,
+      "fishing_speed": 50,
+      "sea_creature_chance": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "POLISHED_TOPAZ_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWLESS_TOPAZ_GEM",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "BEJEWELED_HANDLE",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

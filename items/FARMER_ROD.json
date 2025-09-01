@@ -1,0 +1,68 @@
+{
+  "internalId": "FARMER_ROD",
+  "name": "Farmer's Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1050,
+  "lore": "&7Damage: &c+50\n&7Strength: &c+20\n&7Fishing Speed: &a+60\n\n&7&cThis rod is broken and cannot be\n&cused to fish.\n\n&7Bring it to &2Roddy &7in the &2Backwater\n&2Bayou &7to convert it into a &anew rod&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 8&c.\n&a&lUNCOMMON FISHING ROD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FARMER_ROD",
+    "material": "FISHING_ROD",
+    "name": "Farmer's Rod",
+    "category": "FISHING_ROD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1050,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 8
+      }
+    ],
+    "stats": {
+      "damage": 50,
+      "strength": 20,
+      "fishing_speed": 60
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FARMER_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

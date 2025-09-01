@@ -1,0 +1,102 @@
+{
+  "internalId": "THEORETICAL_HOE_CANE_1",
+  "name": "Turing Sugar Cane Hoe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8]\n\n&7Gain &6+10☘ Sugar Cane Fortune &7and\n&7&3+1☯ Farming Wisdom &7for sugar canes.\n\n&7Counter: &e0 Sugar Canes\n\n&eReach 100k Counter for +1 Rarity!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&f&lCOMMON HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THEORETICAL_HOE_CANE_1",
+    "material": "STONE_HOE",
+    "name": "Turing Sugar Cane Hoe",
+    "category": "HOE",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 15
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "THEORETICAL_HOE_CANE_1": "THEORETICAL_HOE_CANE_2"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "THEORETICAL_HOE_CANE_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "THEORETICAL_HOE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

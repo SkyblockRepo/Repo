@@ -1,0 +1,77 @@
+{
+  "internalId": "CONCENTRATED_STONE",
+  "name": "Concentrated Stone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200000,
+  "lore": "&7&8Collection Item\n\n&7&7The purest form of stone. How can\n&7something so simple, be so heavy?\n\n&9&lRARE BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CONCENTRATED_STONE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTExMjE3NzM4NCwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhjODYzN2JjMDYyOGY1NzEwZjg1YjhkMDY3OWNjMmMxOWFmZTBlMTA4OWIyNDhiNmZkYjY3ZjY4N2FlODFkYzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "ribDkeZ/oW43vgFtttL3httMDQj61RoGXuSlyDN31MJLhK+w3xw4kcrySorrk48Rgi2LRJgvfYB7E19+vUM4YLAwlWCHh+i4Y8lm5bmYhtNBD1iSVMR0wE+3xd3AJ1Ho+zddDfo5yzVnR98MlHONCooWRmpe+gJfIrNuCX4J8VMD9mbDBCdm1f7VoL8OSHA+CBuGrpq4AK3p16XPhTRPuuWWD8/++OE/ci6vlWkw017b0Elhb/2Xp17UvRZ5VPp4LcU3LDMT2v6oAwu/BS/TZjuugdcX0P6ugEkbhEgYhhmlKqb4TIo6lPb1yeqTDwp/r/rS/bpJAwsbe97iXbsBZws/Q4HbzAcB7m9FbNAciyxK9vASkfCM49Bril69Aj+5Gkzv4eWzmcda+4uz0P99Br2zIkdSi9k94SVsqXkoXEcW7aZKu7rE52Jz781DOluPfDemRHilCBSkBVM+XwWMeX9uuGxR+dGAQkLRkNV5z9kn0oXWYeWqbJyczJtj2SMdXvk3uc9hbLKeEG/+4hYkpNT9ekXsiQrIUl0HHG4xuBGgUBqvgVOOIDj1R9MSlEqnkRilAGG46xMxhXmIoNXm/YPirg6vZW4SUeq8k1FB47eHNtr50B0V+dBpLo0BZxCDTXPoT0BrQDP1p19hZIgyzGYPR15nsj/zPqmPEIsvNuw="
+    },
+    "name": "Concentrated Stone",
+    "tier": "RARE",
+    "npc_sell_price": 200000,
+    "description": "%%gray%%The purest form of stone. How can something so simple, be so heavy?"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CONCENTRATED_STONE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "internalId": "RED_CLAW_ARTIFACT",
+  "name": "Red Claw Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Crit Damage: &c+5%\n\n&7&4☠ &cRequires &5Wolf Slayer 5&c.\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_CLAW_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTI1Njg2MSwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhZjU5YjhhYTBmODM1NDZlZjBkMTc4Y2NmODdlN2VkODhjZjc4NThjYWFlNzliMzYzM2NiZDc1YjY1MDUyNWYiCiAgICB9CiAgfQp9",
+      "signature": "kGMfO3jZP1j1l8Fe1WM7MdeuigoQ5dJoaiHaaHP0X37ApjArxF1/LT5LJdGo880vzBpun8barA7eKH6l+z9FqMY2QQsN52wvpYwkNyn1VQjRwKaa4apu88AArho+9GZRvAAtjIZFtsnlOd+M8cNjsyGYv6/ZyE0AkecnK9x5NJFGW1hZmuT3YyvVXpfw6ZeclQTZLzpECZoKRFieBEViPCR/rxwqzamVD9PeHUo6gAi6x6yZMtq7EiPm2Cv8SUnW1/TGPNGNF2EsdmnqjtOYcGNR46/gMtsdsTxoPd+2lWHXTm8d0QJl8e1Ob1ikUWfv21fmXGKUzgRvY1v9c5r4yVklzw4dXXxBNfkyUkHAOztWF0mAsXyaabtf9YNXE0yn5H2ClFyZI7qBlEs4EiIq5AiohycN8RdT1GNeqIL1z5bdg6XtXO9wXFtAzgZa8UKS8NuQugjXcHvQzqBSQCzuX+cWVrwn8YgzoiTuWlgN83kKXP1016Cbo8aOywUzEbDl36C8dDj3uhetsDboQGaKaM73AzPJuKvPS0NlaTJ6fhD/YlPp5cBRAO2g4VFk+tKGeli5gI/YlNZ0/3jxcxVQwdOmvnee5b/mwcRUpIMVT0cXaf2/+F7cIrmVSdr+PIet05SvlLDW2mDDAbYQQIDVJFMLdU6tSYS4ZlI9ljzz9Hg="
+    },
+    "name": "Red Claw Artifact",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "stats": {
+      "CRITICAL_DAMAGE": 5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RED_CLAW_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 18
+        },
+        "3": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 18
+        },
+        "5": {
+          "itemId": "RED_CLAW_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 18
+        },
+        "7": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "RED_CLAW_EGG",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

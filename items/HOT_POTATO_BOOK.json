@@ -1,0 +1,53 @@
+{
+  "internalId": "HOT_POTATO_BOOK",
+  "name": "Hot Potato Book",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 38400,
+  "lore": "&7&8Combinable in Anvil\n\n&7When applied to armor, grants &a+2❈\n&aDefense &7and &c+4❤ Health&7.\n\n&7When applied to weapons, grants\n&7&c+2❁ Strength &7and &c+2❁ Damage&7.\n\n&7This can be applied to an item up to\n&7&a10 &7times!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOT_POTATO_BOOK",
+    "material": "BOOK",
+    "name": "Hot Potato Book",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 38400,
+    "has_uuid": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOT_POTATO_BOOK",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "PAPER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PAPER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "PAPER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_BAKED_POTATO",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

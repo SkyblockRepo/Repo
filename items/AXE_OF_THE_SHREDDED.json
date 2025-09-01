@@ -1,0 +1,183 @@
+{
+  "internalId": "AXE_OF_THE_SHREDDED",
+  "name": "Halberd of the Shredded",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+140\n&7Strength: &c+115\n&7 &8[&8❁&8] &8[&8⚔&8]\n\n&7Heal &c50❤ &7per hit.\n&7Deal &a+250% &7damage to &2༕ Undead &7mobs&7.\n&7&7Gain &3+45☯ Combat Wisdom&7 against &2༕\n&2Undead &7mobs.\n\n&6Ability: Throw  &e&lRIGHT CLICK&r\n&7Throw your Halberd, damaging all\n&7enemies in its path, dealing &c10%&7 melee\n&7damage. Consecutive throws cost &92x\n&7more mana and deal &c2x&7 more damage\n&7than the previous. &8(max 16x)\n&8Mana Cost: &320\n\n&8This item can be reforged!\n&7&4☠ &cRequires &5Zombie Slayer 8&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AXE_OF_THE_SHREDDED",
+    "material": "DIAMOND_SWORD",
+    "name": "Halberd of the Shredded",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 40
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 8,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 140,
+      "STRENGTH": 115
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 500
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 800
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 1000
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 25
+      }
+    ],
+    "can_have_power_scroll": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AXE_OF_THE_SHREDDED",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

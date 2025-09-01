@@ -1,0 +1,97 @@
+{
+  "internalId": "GOLEM_ARMOR_HELMET",
+  "name": "Golem Armor Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12000,
+  "lore": "&7Health: &a+45\n&7Defense: &a+45\n\n&6Full Set Bonus: Absorption &7(0/4)\n&7Grants the wearer &aAbsorption 3&7 for\n&7&a20 seconds&7 when they kill an enemy.\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLEM_ARMOR_HELMET",
+    "material": "IRON_HELMET",
+    "name": "Golem Armor Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 12000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GOLEM_ARMOR": 3
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 45,
+      "DEFENSE": 45
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "GOLEM_ARMOR_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GOLEM_ARMOR_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

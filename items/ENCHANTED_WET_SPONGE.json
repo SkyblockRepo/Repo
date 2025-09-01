@@ -1,0 +1,85 @@
+{
+  "internalId": "ENCHANTED_WET_SPONGE",
+  "name": "Enchanted Wet Sponge",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 80000,
+  "lore": "&7&8Collection Item\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_WET_SPONGE",
+    "material": "SPONGE",
+    "durability": 1,
+    "name": "Enchanted Wet Sponge",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 80000
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_WET_SPONGE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_WET_SPONGE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

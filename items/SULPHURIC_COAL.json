@@ -1,0 +1,104 @@
+{
+  "internalId": "SULPHURIC_COAL",
+  "name": "Sulphuric Coal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2880,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SULPHURIC_COAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTk1MTA5MTE0MCwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IzM2FmZDU3ZWExNmJjNjZlZWI0NTZhOGE3YzEyMzQ2NzhkNTk1YTk2MDQ2Y2FkMzM2YzRmZGM4MWYwZGZkZjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "qj0t1SI+aKUvvtiDkWT+8yET3ah6qL10IE1RFyDduHxlognzqK+/Xj6W3dYar2Q8Cp6MCKq3P44pyFPXjHaYUGEGyGjvMX/Msplok34xl3bHtUE+FCXEuVpAdE73GFITKDAnPWj8kevTmFPbmJr/4iuflswZrrfpk54BcvIuZxihkIE7isOQFVRT825+A/BrHNcMx97KPrNdoU8HlR6oDxSklSRLYRauJ3ddEq44LwyxXbuHolaEPsUM/762JBpnRsvlO1zT364snCD9KcRr8W1ItgxgyEKsIg8tzU/DmGJLLpvHmtEvNr0+aj1u/l5xf1y/nCbf5mZ3mE/7RJ3cuMeTOUJ0RmSgMWEHrIra5nWxWXyNvmsf3yXVP+XoDLHNWM7PsNgrqEJOwfUiI9ELEjX6IVRx4vVrS7ZLkDkHBjzvhct/8b1/FBiYj6CdBG4GgqAFuWU8Wu2rOOYxXnyIxYJKx38FWK0oEQ79+ews9TqHpzGIS0aUgMfvzbyxWA4RjI87oLOfEcATbLlFgvB9zRRLAtQqbl8U2qbOuZj4IAeS/sBCw6fpGoDWT1tYbb6SY2JI8szGzxQks1YRi7zkJPcp1ob4iKvg3slzDPeHCBSSscFB01upYBbSRy1cUW29KRCrjjwDq/Elto6J6iZLNJXJxu82DPNduH2Z6YD1WO8="
+    },
+    "name": "Sulphuric Coal",
+    "tier": "RARE",
+    "npc_sell_price": 2880
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SULPHURIC_COAL",
+      "resultQuantity": 4,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SULPHURIC_COAL",
+      "resultQuantity": 12,
+      "crafting": {
+        "1": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

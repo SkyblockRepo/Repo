@@ -1,0 +1,45 @@
+{
+  "internalId": "MERCENARY_AXE",
+  "name": "Mercenary Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15000,
+  "lore": "&7Damage: &c+70\n&7Strength: &c+20\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MERCENARY_AXE",
+    "material": "IRON_SWORD",
+    "name": "Mercenary Sword",
+    "category": "SWORD",
+    "tier": "RARE",
+    "npc_sell_price": 15000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 70,
+      "STRENGTH": 20
+    }
+  },
+  "recipes": []
+}

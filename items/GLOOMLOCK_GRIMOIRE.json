@@ -1,0 +1,86 @@
+{
+  "internalId": "GLOOMLOCK_GRIMOIRE",
+  "name": "Gloomlock Grimoire",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Life Tap  &e&lLEFT CLICK&r\n&7Convert &3&315⸎ Soulflow &7to gain up to &3600ʬ\n&3Overflow&7, but lose &c25% ❤&7.\n&8Cooldown: &a1s\n\n&6Ability: Extreme Measures  &e&lRIGHT CLICK&r\n&7Costs &3300ʬ Overflow&7. Heal for &c40% ❤ &7but\n&7deal &c-8% &7damage for 40 seconds.\n\n&7&4☠ &cRequires &5Enderman Slayer 5&c.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOOMLOCK_GRIMOIRE",
+    "material": "BOOK",
+    "name": "Gloomlock Grimoire",
+    "tier": "EPIC",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "enderman"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT"
+    },
+    "can_have_power_scroll": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLOOMLOCK_GRIMOIRE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_OVOID",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "NULL_OVOID",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_BONE_BLOCK",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "BOOK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BONE_BLOCK",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "NULL_OVOID",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_GUNPOWDER",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "NULL_OVOID",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

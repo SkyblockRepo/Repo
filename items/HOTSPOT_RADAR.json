@@ -1,0 +1,78 @@
+{
+  "internalId": "HOTSPOT_RADAR",
+  "name": "Hotspot Radar",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A radar that can be used to detect\n&7active &dFishing Hotspots&7. Some &3Sea\n&3Creatures &7are exclusive to &dHotspots&7.\n\n&6Ability: Hotspotter  &e&lRIGHT CLICK&r\n&7Points towards the nearest &dFishing Hotspot&7.\n&8Cooldown: &a2s\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOTSPOT_RADAR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2MTI1MDE2MywKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjMTgzMTI2YWIwYWRhZTMyYmU4YWRhMjRmZWVjYzFmOTgyY2IzNzIzMzEzOGNkZGM2MDNlYmNlYTRmNjVmMWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "rHIi8SZa5crBtAkgYDL0fSn9Aakr/W65LyYJnnD2k3j0dPO66uDWXh8eI8rIBhUQvXEqhKDQ4QV0bPBoUbXw4pqwkNhvgg8P1Hk5eL4LKX5m8Mt9wJDAKM+ONJ5MsJjWDyeEbrJhIeXLcKcwQAWfHVeNkpXJAWhiINaS4N65kA0huPFI6IC2kmg1CcYkn44vfAsVHY58WPcuiFCEM3teiiiFwr9OFUBJuhKpQ7rmO4Ldfnb5W+5yqJO0IYQAD5jJIUkh2sdGQSBH3F6AmqzbBLxLweN57YtswjRJRwnTXdG7XMszIirBPnOTdiD18ng5hPmeKUwpBOUpqmdl8ijwruZkrcNF7EdZsOblPSznN0as/pt7psZ9xQxelz/Bhpc+s/TNWTFRKZu+/WlkNIxNjF3eYfCSV2Q9v47+xAhsAET+Jj3lAMU/Y3shvrQJhJorkqJ6Zn8yWjPcOE4R3/t10FyT7txn3gV9m3rhgigNGJ+vjG1PqAw3tHZbGcfFvz7t7aBOrKIVNWYL5r1dwtKS+flZDjE7kv7+a4QqiYBk78Bt24o2ccb798OONO+3p86Vz0MxaN3xUsxdyiPT9B2BNhtLcGlrdi4m51gnUAB6SATuy1/Er8EkGc4nLawqDag5AR1Ci7kF6PMReF5MeONwqfurXW2jR4haKemdWzZn+X4="
+    },
+    "name": "Hotspot Radar",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOTSPOT_RADAR",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BRONZE_BOWL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BRONZE_BOWL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "REDSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BROKEN_RADAR",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REDSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

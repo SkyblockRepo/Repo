@@ -1,0 +1,44 @@
+{
+  "internalId": "ENDER_CLOAK",
+  "name": "Ender Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Health: &a+15\n&7Defense: &a+10\n\n&7All stats on this piece of equipment\n&7are multiplied by &52x &7while on the End\n&7Island!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 12&c.\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC CLOAK&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDER_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzc2NzM4NywKICAicHJvZmlsZUlkIiA6ICIzYWJkYjI5ZDI2MTU0YTAxOWEzZWQ3OGRlMzI4OWUxNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmljSHViZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc3OGZiNmYyZTY0OWMwYWRhYmY1MWVmNDVjN2NlMzIzZmUxNzU4ZjZkYWM0ZjhjZDEzYWRkMWUyYWYyOWZmNiIKICAgIH0KICB9Cn0=",
+      "signature": "ZUhgbfBwEjQrOa7Z/PHhCYjU+7fjDWjFnyR6Da4CWoVWTIYuc/8POqIbElUMUbIYmmxqKqzx4yoLFOLuqJvxlB3hMx6vsnkEz5PbORzd0prZsuQWL9buzqXU6cald/2akHYq2NNsIbdgIjlB8Wc/8zc5RU/Eunf+9WU5HsDJeK2bwEESj6263tR29JBKOzYvNwsXat55WI5Am4h1f9Sm4wrJYjYBZUmc+ybCiP2Lu8UuF1t/wSeoRcb6TVrh2Y3v1u8muBzExJKPAMIxlrDEpz6ZsLp9sFsfXMXttu8s3TtlhZlISBjpsiVk3772hfJe9FH+psx3alH/Ko2n+6P8bzbH6ziUvYwccPdB0qq4tM30dCUS0gmoDGC5vAaldqcn4WpFRGDKspn5CZBRvLgo3Z02nobR5hqzfd+jr9cgCJD/WQHwbry7m4I+nh6kAlwIEtzFIa+12csFna+3eYx5aANTJ4NmOpxkeaos6Egl1+nXMk364zHDo0LCGvk/f/EwNLEiGLH88NYzc0ZPrR3w0oHaG4WxvR0Eu4DI7jKPd/fr4haPYKhORysPvRXbSQXwzV4MSV/hDNZhjcBJTFbXtSp+wWjZoAetys+tAewGBhN6/gRjep2jwjT1XMsPAKKOdkBx8p8uEFcPA9c0/z9/2kcE9RY1SBKLDhjFW+bF618="
+    },
+    "name": "Ender Cloak",
+    "category": "CLOAK",
+    "tier": "EPIC",
+    "npc_sell_price": 10000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 12
+      }
+    ],
+    "stats": {
+      "HEALTH": 15,
+      "DEFENSE": 10
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

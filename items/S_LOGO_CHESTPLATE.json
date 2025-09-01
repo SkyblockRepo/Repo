@@ -1,0 +1,63 @@
+{
+  "internalId": "S_LOGO_CHESTPLATE",
+  "name": "W Logo",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+85s\n&7Hearts: &a+1\n&7Intelligence: &a+32\n&7Mana Regen: &a+30%\n\n&d&lMYTHIC CHESTPLATE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "S_LOGO_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "255,215,0",
+    "name": "W Logo",
+    "category": "CHESTPLATE",
+    "tier": "MYTHIC",
+    "stats": {
+      "rift_time": 85,
+      "rift_health": 1,
+      "rift_mana_regen": 30,
+      "rift_intelligence": 32
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "S_LOGO_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "S_LOGO_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "S_LOGO_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "LIVELY_SEPULTURE_CHESTPLATE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "S_LOGO_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "S_LOGO_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

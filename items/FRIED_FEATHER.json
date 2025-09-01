@@ -1,0 +1,27 @@
+{
+  "internalId": "FRIED_FEATHER",
+  "name": "Fried Feather",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7&7A greasy feather, somehow still in\n&7one piece despite having been\n&7doused in boiling-hot lava.\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FRIED_FEATHER",
+    "material": "FEATHER",
+    "name": "Fried Feather",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1000,
+    "description": "%%gray%%A greasy feather, somehow still in one piece despite having been doused in boiling-hot lava."
+  },
+  "recipes": []
+}

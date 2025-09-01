@@ -1,0 +1,77 @@
+{
+  "internalId": "AGARICUS_CHUM_CAP",
+  "name": "Agaricus Chumcap",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AGARICUS_CHUM_CAP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTU4NjkxMjQzNywKICAicHJvZmlsZUlkIiA6ICI3ODI2YmJkOTJjZWI0ODVlYmIyZTY3M2Q4Y2E1ZGQxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZW1hcmt5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlYzEzMjYzZGNkZWIzOTc5MjU2Mjc5MTdkZmZhNzE4MDQ0OTg4NjEzYzhjYTg5MDNjYjg0NDE1YzUyMzdjZGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "EiA6x+1NsfAHL8sys5kgqJXUCN/ntZFVGu1d/F7SXtJpJ23DpLGZjxfhus9uGe11coyEyLTOluEsgG2WRPd7XCwlg5qGvrA2eu+zt5zGJ9z0vM5UkG7/2SEulXCK1FGZsDeClBa0m7ga6chHLnc3B/32Lpi+2P+jXJmBospTjAvKm5KL2GNEs48QPqjo7fffA+F8lhc9fmR2QrRETMRXnT6LyTCejJJ5Vyy9dmm2ixSVEb7FUnrqV4caA+27oJ+q3WVSxYvINPZAUCxhesRdt5VxfqmFYg515GovIc4K6AGKogQRoDgExg2yt5zyj2N1sUtGEwTI50UB94RA/XZ6jOAWRarXtmT1ev9qg2SHiuS9sPgLyJliVu/opkKLbN7HvU+Pu7wRTBAlVSIpmFkxoMwahroBjAtl/pxyke7xo7aFmKZnWWTSzkPgM1BZiVKtZr1bF9IqaBiImlMYTzRGyoyMLSH4BR1KSLdPkpX04thph+Xi5/GedM3TTfSKluP7cBgc+o7VXtQ6oy80QSW5UVC+XRgl0Y8UMGu7QBKHxliqd7BL1Dp8g+sM0LG/oK2YJ/Nlx8ASPqtXBwbN0V/B+4wWgXG/R7asC81W1kKKUiMus9mK7MkB9lkKUbhBNzQNFYSRp2sQM/iMsmjo0R/DmoTPyKs/J5K4u9S4aNVYWW4="
+    },
+    "name": "Agaricus Chumcap",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AGARICUS_CHUM_CAP",
+      "resultQuantity": 8,
+      "crafting": {
+        "1": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "RIFT_BUCKET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

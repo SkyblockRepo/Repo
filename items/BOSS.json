@@ -1,0 +1,37 @@
+{
+  "internalId": "BOSS",
+  "name": "Boss",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "&7Health: &a+1,000\n&7Defense: &a+1,000\n&7Speed: &a+60\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOSS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTU2MzYyNjcwNiwKICAicHJvZmlsZUlkIiA6ICIzY2MxMTY3MWU0MTM0ODM0YjhjMmZjMTY1OGE4OWU3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3NzaTU2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmZjg1YmJlMjlmM2ZjZmFiYTdlNmU2ZTk0NzYwYTg4MWM5ZWI2ZWY0OGNiNjBiODMyN2UwNzM3ZWY4OWMzNzAiCiAgICB9CiAgfQp9",
+      "signature": "s25OYGK7zWvBO3kVlzBRV8Z0fXZZ+h9uh1VE1OBYJEaHeQIgzw3o8Z4rtxHmZZA5/f37Ya8CYWVE+yhTMYwxsPo6n6A6LB7HnpC+DX061lXy0HHBkNl7ayJUFaBVytMJs/x4Dh0HaF8rVt/25YFol6n0UEAe2angIAEeFtKgPccGftGl51UGnQO20gTN+GsBB0cU+PZ426kR38TJIRmAYHmMx/zS95YroVAlKpR5jazQ/pXU8f3yMlHgJwSOiiI8KzxCtprrNuRDVM8ypWkkpscHd0WqAy+GMUJYES5/KaKXXznlOz7TrblJoMGCVv2lEb+EFtWcY/EGngHh7IV/ELpZM2Eepl+JNEoECAi1nLeh10f1EB9OXZqUva/dZ9+3PuUQgiba08h4rmMkK6imG9ktHaSsd0sSSyWhIW8RNESmJuG1G6DZcgMkHaBI1FX+95biNQ7J6zoMTt94QV18f5cv0bH6GshKYXK/OgKBSr5fLLxXVWY/LC/r4L2c6mE2IQOs0sIU/SoJqHRPX1K9SBR+yOboePYQxYcfiKo1LNG2Z/mruAa6NiJeaRCqcqKGdqQsLndl09cBiZOR8GvZ4Ef87H2ljZOZ36z81Dvi2ptThLDt/G/ytq+ur9MHU7ClWYtgqWJuRJzehYRHKYUQHy9mN/HP7rbOPdqy+8Rdluw="
+    },
+    "name": "Boss",
+    "category": "HELMET",
+    "tier": "UNOBTAINABLE",
+    "npc_sell_price": 1000000,
+    "stats": {
+      "HEALTH": 1000,
+      "DEFENSE": 1000,
+      "WALK_SPEED": 60
+    }
+  },
+  "recipes": []
+}

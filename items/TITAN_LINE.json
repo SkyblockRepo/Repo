@@ -1,0 +1,66 @@
+{
+  "internalId": "TITAN_LINE",
+  "name": "Titan Line",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &9+2⚓ Double Hook Chance&7.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Line &7to a Fishing\n&7Rod.\n\n&9&lRARE ROD PART&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITAN_LINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTk4ODE2NTA0NiwKICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YjJjYTExMTUwNGRkZTUwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhODUwYTRmNzIxYmMxNTBiYjcyYjA2N2U1MDc0YzgyNTEwNThhNmI5MTExNjkxZGEzMTViMzkzNDY3YzFhYTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "UDqI56vs0O7baXO0H13BQRnnaYi+itnqBqMzNcjxYBezZmFMbIs0IMqdoED8ao3ynVZzdpdr6n81bb+rXHHD0YUXtKvyEnmrr4sE0JM1XKzbMfkYYHJqURKrTW6CKbxdQZedI5KH4PNDazo0kuYMDQzFXAhwW+jBhre2PxZp8nrFZtyL3bKeF2hntkkxZtzkaJ/rphecxHzrfCoGp0Qj0kBqmp997raqc6L+ejSUxLMkgm2WlpuyKSbdUfSuyrgyLj0o64nkhAs8G5Efw+DL3Xkh0P9HTz3JufD9rey16pAkpOytJtOpkd2FqFX6nSNMVuYQKhCEDH3Yhqmab5lZCrbR2fT3PcMxTgurmVo5wEkGJEKB/DVgUJiW0W5z96fhrDMP8eJ8wGHW7zTmAkNbg7P19q8mS+/8YgbOM9LKP13KP4ttxN4UNXVbeEE6ZIc4tQI4klTfLjrdFF1lBjw2qsRVEwzOz83UFWL19sgm77nAAAm/G1KoguiMzCADrKiVxjdtVc3TEfLKilVfNp/PerQCEvweJJNPEkAnpWluLp2gikmiPPxanJo66ZUfM+2jCtyRUbASCaFL7on9zCG7ZCTVhJ0lR+QAkhQByHdQPkJwN9x+5ccG1X5L40tLla+V0ys5qAakzUio8keCU7lWM5Ob4iLdSqt0QUPQc55WCZE="
+    },
+    "name": "Titan Line",
+    "category": "FISHING_ROD_PART",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 30
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TITAN_LINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "BAYOU_WATER_ORB",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "TITANOBOA_SHED",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

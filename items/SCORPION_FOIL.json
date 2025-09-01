@@ -1,0 +1,137 @@
+{
+  "internalId": "SCORPION_FOIL",
+  "name": "Scorpion Foil",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+80\n\n&7Strength: &c+65\n\n&7Vitality: &a+5\n\n &8[&7⚔&8]\n\n\n\n&6Ability: Heartstopper  &e&lRIGHT CLICK\n\n&7&7Heal for &c75❤&7 and your next\n\n&7&7attack within &a20s &7is empowered\n\n&7&7for &c+250% ❁ Damage&7.\n\n&8Cooldown: &a2s\n\n\n\n&7&8This item can be reforged!\n\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCORPION_FOIL",
+    "material": "WOOD_SWORD",
+    "name": "Scorpion Foil",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 80,
+      "STRENGTH": 65,
+      "VITALITY": 5
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 100
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCORPION_FOIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

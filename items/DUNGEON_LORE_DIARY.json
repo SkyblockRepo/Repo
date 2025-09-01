@@ -1,0 +1,27 @@
+{
+  "internalId": "DUNGEON_LORE_DIARY",
+  "name": "Dungeon Journal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUNGEON_LORE_DIARY",
+    "material": "BOOK",
+    "name": "Dungeon Journal",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

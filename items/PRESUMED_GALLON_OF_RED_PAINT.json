@@ -1,0 +1,76 @@
+{
+  "internalId": "PRESUMED_GALLON_OF_RED_PAINT",
+  "name": "Presumed Gallon of Red Paint",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Blood-Soaked &7reforge\n&7when combined with a cloak&7.\n\n&7&8''Not sure if paint.''\n\n&9Blood-Soaked &7(&6Legendary&7):\n&7Health: &a+10\n&7Defense: &a+5\n&7Vitality: &a+3\n\n&9Blood-Soaked Bonus\n&7Heal &a1.15x &7more from &9Vampirism &7and\n&7&9Lifesteal&7.\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRESUMED_GALLON_OF_RED_PAINT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg5ODI5NjE5NSwKICAicHJvZmlsZUlkIiA6ICJiNTM5NTkyMjMwY2I0MmE0OWY5YTRlYmYxNmRlOTYwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJpYW5hZmFnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU5MGQzYzUyMmNlNTMzYjY1OTc1NTZjMDZkODBhZWJlYjI2NDBlZTBkMWJmOGM0OTg3NDBhNzYwZDhiN2MxMWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "roLWvLGjsjA+OxzSyYcUil4aYz/kHZKSQxiOx8iY9zkdDeQUA5KoLsfls2ePUdaJxq1Q+AlLBkRRHYiIdPtId+wb6gEJNO5M9zlAe004YYFhdUULLSuPKcGCaigolGXI2cIhaeHRPpsroR0zGDMY9mbJpuG/QL9fDltud0yy85+IoE3EwFU3MY+txESLaKPleaCtfw23ROhHNjarBg79OcyGT2t9+ASOFuCSm7KbyjbWM+VKJsGbJ3lhzQkaHVDOC4eCWAUy/m7RqAP+m4K/dtE1Zwi5hpO1MvzyEbQzrTXsjSx2BcsijTsU10NtM5CcLqPQM1NzZLwBqtT54e6VihUBg01p55ADWZmWbbIgWMj9OwOlM6l5v44t8WQoSGSPBhkRoX0jFzy+pAQx3y6o7FulpB8RDatPi9pxk962H7HRLwpxtKSKpWh/I4UUTJcOUVFHBo4I+CJdDq/yZWOoal67lMcQyPaD6C/rY7NxGgmQTnbkGwFGG5IkX9dKocBQdu6jm8YgK3QuA8jWXQud7ic5aCZU9NxzZamqO1UtyYBUzS1kQVvgafzVZZPAdQpe2GKKR5i89/+PkLvix2yHl2WT+kdbzN7o4g8qi3QrvskyMNkfikZ4jq+Wz6g0wn93jFwqduZWQRpyI9B+7AcB/xYnXvsbfw5TemgNJXnvxNs="
+    },
+    "name": "Presumed Gallon of Red Paint",
+    "category": "REFORGE_STONE",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRESUMED_GALLON_OF_RED_PAINT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "HEMOGLASS",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "HEMOGLASS",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

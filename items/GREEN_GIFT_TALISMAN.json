@@ -1,0 +1,31 @@
+{
+  "internalId": "GREEN_GIFT_TALISMAN",
+  "name": "Green Gift Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Gain &a+10% &7more &6Coins &7and &3Skill XP\n&3&7from gifts.\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GREEN_GIFT_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDE2NTExMywKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOGRjM2M4NDQ5MWM0ZmYxMDNkZTZlYTAxODgwZTJkODM0MzJjZDQ4NzhiODRkNmI0MzI1M2NjNTFmZDk3OGU3IgogICAgfQogIH0KfQ==",
+      "signature": "OWkj9LAbvRt7BADgkdNlfgcvjY5YFbWEeeWl0Fi/mVXP+3bpdAYdyHsmEfjarZxoZDqTjj21eWS+GvGpx1CN7Rmr738My60a9XXV5ci5QZL70x6NNd3ILE4vu/lWuHEnASW5Y1VUbwJHGStIeXGscP9qbWvXs3rvQ6lFJdLRTEPQoOyafv237OCWdLD/LeeM7BFYGxOexonbXYFQ53qZIx2/8jYCfq8/RICS/FsANH6SzIh6cIbTUVfNaSDT8WFy9Qiz0DitoTOuEPk1w3M2ZuFIx1r9kDsY9w4JObEjifPAqxMcHwG6fcbqgEmiNVfTbB9yFjJJIEHvJqlTYmNi2gdbW0YSMn5VJhVvLtsrlKVghbfP8wfgesoxLI/PeNI0bhC/eZorr+PCg9a1IksQAaB28JgqCXaEjwW5YT/vu4KoSL0kUktbmWSG3hcnGbA3wc76qPcrf+cr3LBpcPx38xsIYPRHPlf0sP+gFy2r6ZAE6yMo9Lso4xP6mJo4f6m/bAQMIUN6TTjJG+slewY19tCMJWtzBmmIfdb87zJGpmzTROP0nc2PNGBabCh+HNNNZMHNHMOxirnNKQ8gBdauIMQCqFTAxaZGnIDMS8/GTV6dYk028EVuDWW4uOEdZHu6rTbZUboccBjmOyKT2h4IaaHUjB/IPW+Lc7zGmyZ70I0="
+    },
+    "name": "Green Gift Talisman",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON"
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "IRON_ORE",
+  "name": "Iron Ore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_ORE",
+    "material": "IRON_ORE",
+    "name": "Iron Ore",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

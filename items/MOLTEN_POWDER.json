@@ -1,0 +1,83 @@
+{
+  "internalId": "MOLTEN_POWDER",
+  "name": "Molten Powder",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MOLTEN_POWDER",
+    "material": "BLAZE_POWDER",
+    "name": "Molten Powder",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MOLTEN_POWDER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "AMALGAMATED_CRIMSONITE_NEW",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "MOLTEN_POWDER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "AMALGAMATED_CRIMSONITE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "DERELICT_ASHE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

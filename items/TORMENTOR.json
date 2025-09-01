@@ -1,0 +1,199 @@
+{
+  "internalId": "TORMENTOR",
+  "name": "Tormentor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Damage: &c+525\n&7Crit Damage: &c+100%\n&7 &8[&7✎&8]\n\n&6Ability: Angered \n&7The damage you take is &c''doubled ''&7while\n&7holding this weapon.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 42&c.\n&7&4❣ &cRequires Kuudra Infernal Tier Completion&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TORMENTOR",
+    "material": "IRON_SWORD",
+    "name": "Tormentor",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 42
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "INFERNAL"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 20,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "MASTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 525,
+      "CRITICAL_DAMAGE": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 160
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 320
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 640
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 160
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 640
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 500,
+        "essence_type": "CRIMSON"
+      }
+    ]
+  },
+  "recipes": []
+}

@@ -1,0 +1,30 @@
+{
+  "internalId": "CHEWED_GUM",
+  "name": "Chewed Piece of Gum",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHEWED_GUM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwODIzMTU0NTAzOSwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJjZGQwMjYxMzQ4ZTk1YzNkMDVhYWI4YTEwMTM0YzRiMDM5OTlkMWZhMzZiOWZjMDgwMTU4NDk1MDg2MGRjMSIKICAgIH0KICB9Cn0=",
+      "signature": "H2BblWOB5YzyfnFQu+nBeaAHUDe171Xec1IE1xrJzJjj1cYmSIBfP175APVMyBrdH2vBZbzvydJIuRW2cjiiU4OhsOvrFINivggcTugzTU5RkX58OINQKBEHQlUm1hSh/Z2dRU8x69hmrGQka/Ln3xnRTrUP4E03oc751DGBpLq3BVhwbBdo9LS94VhhkCl62UGJu0Rz4trrGWV3zYCdA9nJhmk+1z7tfnOww0yV/fRqUOBErlevPsaFnbWNp/MBmCfeAJmMO9cnc1Y32WqaFg2IM8SMSgJPOg7/QzI4hb/jC3fNIas3zb1Rq/frZOsYePSVbBqIcB+V/3tb56FD5tMaIwJhAkLSVFcu5BMCvk9zh1zJlpQXUg5HuZW/pNWHc3TjVMgj9ohmyH4oHRy6z7qcomxwLrwcRT2gnvpN3RHzW3GhxU8tTUY8Qqk2rBi+CYo8lPiBw+0OiBzkDTI7gdYkmbdR3GNI2ySBRVvIOrLKw2rjC1ve/PMtYHsMGjCInIyFvAHLmJRv1k3btIkd/aosLtL2Gydi/aM5VVbDndbvzvUUDoulXsy1g5Bht8A5cU7XR6X53YiQ/UU8fFZ3HpHG62PJYji7jA44c7g5U4qPzgADrT6rz1VkWeEe1ehF1oE5jKuf00Lg8N7hePjwEd8/bohcniOfuQybpsjRQlg="
+    },
+    "name": "Chewed Piece of Gum",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "UNCOMMON_KUUDRA_CHUNK",
+  "name": "Kuudra Chunk",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A chunk of Kuudra's enchanted\n&7flesh, capable of upgrading your\n&7&cKuudra Pet&7 to &aUncommon&7 rarity!\n\n&7&eRight-click on your Kuudra Pet to\n&eapply this upgrade!\n\n&8&l* &r&8Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "UNCOMMON_KUUDRA_CHUNK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1ODYyOTQ1NjA2MTMsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMDkzNjhhMGRjMDNiNTdhN2Q2OGUyYjJjMDViNzIwNDdiZDY1YzI3NmMwMTRkOTkzOTc2YTc0N2IyNDQ2Yzk5In19fQ==",
+      "signature": "OoJuzySmuWfxs6mNwr/AYR5Fhn4sKc3t71iVMm6fXQo/fjPtfe5qjh4R5T8hAQUAqgHu3GyQIXYsjlvKRMafu+AZwk/BZavUXytSLNbhy7A6dN6/mn7z38eVQk9MVd7LdD5IeHvlOVTmFXpT8PUZmRQi+mIHDJInchoTPkSP2GqjaAh5jVLjTLTZ+l65MgEJdDOi9rf/y3Dz8Ca4hh6yFKKhCV8ovrC2YZ/V3gXPNAB/QBFb/cVjwuF6VmIq6/yHlRbZGCrfXTZ/uXmhIOJ3UYgc/ISvHlldQwGhTPw5xOS+aqbLFGA3gF5tAu6uF5Dhvr7FpaA/iTDbURER5/Zos8zxrs2hicO51xX4WU3rhly0hZSWlQFFhHg2SJRPRY7HnqgUY7f2HwtpqtDeX6YsAF3wLNx2xMhOabG+d83CEp2uaqHsIBzNrFHvSQbgkC03FIORbAGUOEHw1KGA8M4rzP3Bj7pHhRIbG0d0TnUfbDLEfEi7VtiOqwns/F8/PYRekpVKey7HAJq79V80BHwjCYNcnOkQP3Fx0mvBbx9OihcP6fP74rvobeYNaK7uxO+uFOxpxMCKyVQ8TkixWJ1zFZCg8wuN8UdyKmJo4drioM0fOXZ3elUNH4UgR+8uhBUY2F2gbcaYxC0zfRq8wJMWUTToB6roucUOP9Si3Rdf+Ms="
+    },
+    "name": "Kuudra Chunk",
+    "tier": "UNCOMMON",
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

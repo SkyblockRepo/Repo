@@ -1,0 +1,75 @@
+{
+  "internalId": "WHITE_SMALL_BACKPACK",
+  "name": "Small Backpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WHITE_SMALL_BACKPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUzODU0NjgyNywKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWVmYTUxMGY0YTkxMjJhNjg2NWRhMGIzNmVlZmViNzdkN2E5NzU1ZWYxYzUyOTQzYzI4NDEwZGEwYjEwMjIyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "uWuNLaNJS/Ewgna5j99F45pmknmqPoMuRvTaZjBvGSGzRFQUURHgU8RfBjxXJeBapSgDZQGVV472+8MW3vaOG7mCMpk3v0INW/xIwjzZeaNvVnxAHhkO2aNFX7JWpWD7yYnSiTBhQZjV4mWKzzJxrHCv1eI1QL2YYYFDQjHCmBIP4rKfPtNRcvC4oPhfIMoQtgSIjkxywIDHn+dWtqGB6utfyYWJQp/ZOFgGqNnEBDXZPtVfOmUDgEBiRJnLU7t6XQ5sS2BPzwJQSSWYYEElDp28NUgewxHzaQfpreb0/I6R9NGbjmSpYILdUZcJ2rTHSloZDHXFI/v3/t+F71mW1mYrUxypfYbaNx++P+u7UATJZqP6bcq0L94jk4xQ8CoyHXhzvvsVVjII8x2hJHD3ZcNihnA79cMwOUKW+cxHpz4tifCqkpWCnxRQjVIFxFI/w8MQrSbs54Qhk6lulTIo00s+cQ3OIYneMu4ZcFgV82y5S4crAQ6sL/TO/hZzAAuuyy52RhMjSjvt7P4WqvasIGLASK1Wvk1PORiL1W5yiM1w+b/dVi1EDanwlvAUKmn8uRToPOu6g1cHRQ4lN+TKpujzfu58KDnsAGoX3scxk0gMpJg8OCJ4PwiNIh8WRbilUfeR09AOQ2ZQjRixMZRBu7Y03HtiFQdejxYT2g6LcgU="
+    },
+    "name": "Small Backpack",
+    "tier": "UNCOMMON"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WHITE_SMALL_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SMALL_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

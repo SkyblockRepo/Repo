@@ -1,0 +1,221 @@
+{
+  "internalId": "GLOWSTONE_GAUNTLET",
+  "name": "Glowstone Gauntlet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8160,
+  "lore": "&7Intelligence: &a+10\n&7Mining Fortune: &a+5\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE GLOVES&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOWSTONE_GAUNTLET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ5NTM1Mjg0MCwKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNTE2OTE1MmEzNjI2YTE2NjliZmMzODhiZGU3NTIwYTNlYzVkZGYxMDY1ZmNlYTMzZTAzYjA2NjIzMjIwYjFhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "EiL7gheqqWgfYuid+Zlh1NisVV6LuoMTjhfrtRakNYSkQCl0jHcdCy/Ss/pZlyQAe45kFw4eZOJmcehzlAi9YrMlVFPSmq0ayicRCd2fhei7bQK2d9NwRrL3NeCNsnMgeKiAEOyNEAASlo5+d6BYBB3UsKLu6k4F2KHx+3U0F0alq1JxIaof6auWopUyO9EQUoKkDQdeOMWP8gpdv5inXKQqyH7wJ4vyq5gOfxCHC4wY5R7NmvtyFiahlgI/T6Y49sJBapO+mJdTd3Sw8p/qgpiyzNRtEUrNNSfX88JFoMsesBMs0GAydEHJQdtwHcz4iFhkPqvqaNerz/d71pa1s5dk4upH2sd6c0ejDSn+ghOofvjU5o/QQoqeMxUghRwGm0h9XARcaxjaPm38w3/Vg5gApOlM5OjwQ62X0X+/tTbACGzGHcRAqFDJAUi1RmP/EQ+nE5wmn35eZs9e3XmwwbRLI1hXQycXHunnniJwnGhGeGYPoO7po6LA65GZ7Nxl0j/dkBMouJZkVEdkjh72mCZ58gF3sK8CyAwk9242DGbYbAgq4EvNGCqcdMJzzIFgPm6tDT/+T7S0X2ItAsZkJYCKQ5l+DIKWIoOYx8+sNLjVAdEgM+LQNa1+6CrC0ErNppSn7qqxBIVw7uJCAdVQjBECBZloiKUlKmLfE8/ZtnI="
+    },
+    "name": "Glowstone Gauntlet",
+    "category": "GLOVES",
+    "tier": "RARE",
+    "npc_sell_price": 8160,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "CRIMSON_HUNTER": "VANQUISHED"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CRIMSON_HUNTER": 5
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "INTELLIGENCE": 10,
+      "MINING_FORTUNE": 5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE_DUST",
+          "amount": 1
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE_DUST",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE_DUST",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE_DUST",
+          "amount": 8
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE_DUST",
+          "amount": 16
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE_DUST",
+          "amount": 32
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE_DUST",
+          "amount": 64
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE",
+          "amount": 1
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE",
+          "amount": 4
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLOWSTONE_GAUNTLET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 2
+        },
+        "6": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

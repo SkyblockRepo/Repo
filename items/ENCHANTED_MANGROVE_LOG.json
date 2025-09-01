@@ -1,0 +1,90 @@
+{
+  "internalId": "ENCHANTED_MANGROVE_LOG",
+  "name": "Enchanted Mangrove Log",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1280,
+  "lore": "&7&8Collection Item\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_MANGROVE_LOG",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTg4ODgxMiwKICAicHJvZmlsZUlkIiA6ICIzNjQ4MzkyNGRmNjQ0ZDlmYTM0NjcyYTRhMWRlYmU2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdWFuQXRpbnM3OSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOWMxNzE5OGVhMGI2YmJhMzQwM2UzYzBlNGMzZGE0MWYxNjZkNzRiOWFmMTA1OGM4NmI2ZGM0ZDFhZGJhNWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "yk4SFp8oPh9zDK7XtXXmEsIgUvj/plHk4OfRE/wOFq8DoxgDd2mYS6XfbtwdhRUzMdb2tNhQkKUKed556PTabAnzoN04LNtdNCX8r/eLx8bEXZLSKjY2lNUdjpWueR3BNlwOObXlouz68wp85SG1YfhhRqYOs81N8nNScyAJgf4iby/RAWX+IFtEl7TzTLV9Ik1Wg0m88m9QROod3bNAdmamP1FyHdjlVpm+yn47rJSI4b79mJE1nGwkkBNi3eHjWwnmkJMFXuSCD4EBEjH+ulV+RJOMCsDTgoFbJptCJS1Aoo22W53XS627q9n9JlevNSDt7ntm1qhVp3YZecx2oAbU8jHkEEQiwSVaLGHoNs1BBO+XO5JgcnLXU27ZxoX41nEIveNOtwDeEpVkMlXyqlvr1o8KiavCRDlEdD2/SvAmAAR3GmqkonaHujGwGCkOFJh95L1BQzkd4CgIlGBiqa0NmiFaFlov+eWzK/Xx+PD4nGKbXTxyuqMdgioV1mvyvNFWTHNtFweY3bLYXO6SCvNBD9IvfiBrPJ04JL+MFTFcFhGkoGS4FGPy/K+evkMy9PyyeLAoprbByh7Ameo5RJvxBwTCApd7GNYX9GFCrHsJvDqJQTZF5Md3RpbsaH2IOuryYk8SQi5iao1k8n28uLw//39m/0NxnxFzLW2mGnI="
+    },
+    "name": "Enchanted Mangrove Log",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1280,
+    "item_model": "minecraft:mangrove_log"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MANGROVE_LOG",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MANGROVE_LOG",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MANGROVE_LOG",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

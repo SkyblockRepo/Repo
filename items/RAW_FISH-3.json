@@ -1,0 +1,26 @@
+{
+  "internalId": "RAW_FISH:3",
+  "name": "Pufferfish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RAW_FISH:3",
+    "material": "RAW_FISH",
+    "durability": 3,
+    "name": "Pufferfish",
+    "npc_sell_price": 15
+  },
+  "recipes": []
+}

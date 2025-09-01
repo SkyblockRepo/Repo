@@ -1,0 +1,27 @@
+{
+  "internalId": "ENCHANTED_BONE_MEAL",
+  "name": "Enchanted Bone Meal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Instantly grows crops and saplings.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_BONE_MEAL",
+    "material": "INK_SACK",
+    "durability": 15,
+    "name": "Enchanted Bone Meal",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

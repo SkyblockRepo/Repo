@@ -1,0 +1,88 @@
+{
+  "internalId": "WHIPPED_MAGMA_CREAM",
+  "name": "Whipped Magma Cream",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 204800,
+  "lore": "&7&8Collection Item\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WHIPPED_MAGMA_CREAM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1MTI3MTAxNzY5MCwKICAicHJvZmlsZUlkIiA6ICJjNzQ1Mzc4MDY5MzY0ODg2ODkwNzRkOTQ3ZjBlOTlmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjdWN1bWkwNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZGE1MzBhZDA5ZTY5ZTQ2NzhjNjljZjViOGUwZjA3NTFlNDYzMDM1NWZjN2YwYzIyNmM5NTViYWFjZTMwZmIyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "fb9ZdIqbLKGKbgSBtoUWe2GtSZviHBPk9nyTS8az0OJCYtAwNhqFvG55MEt6jTdk2d5HE22Sls4gUfaENk8SGbFT5nB0/vzf28YrKiYnvP+gx7PPvFih09BzLHJyOHDiLCIg4cvp5aICkYO7Y12trR5/axuxngXkA7RAfQVwc28Ocn+13gLH3xX9F7Dz0MEXK7ayruoLpRhAqZ1sJe1OLMeUABDa+Xj5bsdfEFfq2X+4g5ZbR9KYR9Y7obE8Y8hUedzawI7geh/Jt5Vdt5+XWQamwK0WE2rKzud5AV+yJ8bDTc1Bi0OshUrGJKrvuSF9YPIfq+MJZO1yL7y2br/DhaE7hv7PKJhebnSWooUcyPhrvgO0U9wkh0C9Z/1Xhs0w1IsNijHNdCC8l49YIcfQ2S+Jwtk8rT6tR1JeYaOj9uslfqWvuejkzMMs1mVniaTY2hcyJjXS9L1NpVyBkeDxQuCxI0OPbfpoGPRiYIul3JPHEImsCYr+eEabM2ikmfkhsoezihyxR6ncekJueG8WDUP7yantqg5hwLpxUV9DQ3y/RTnFNC/HKigh65bhBPnhyJGJtztKuTYqI1b3JT4lraAanHBl+b53l/v2MZeoTCIxddEWDSvTigYfIEv+6iqu0gtS5EgR/JSgc5NA0VUkLf+2R7pkPv3HnQzYQqQWiic="
+    },
+    "name": "Whipped Magma Cream",
+    "tier": "RARE",
+    "npc_sell_price": 204800
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WHIPPED_MAGMA_CREAM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "WHIPPED_MAGMA_CREAM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

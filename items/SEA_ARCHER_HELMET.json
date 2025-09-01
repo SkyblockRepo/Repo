@@ -1,0 +1,35 @@
+{
+  "internalId": "SEA_ARCHER_HELMET",
+  "name": "Sea Archer Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEA_ARCHER_HELMET",
+    "material": "SKULL_ITEM",
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NDAwMzY4MjY2NzIsInByb2ZpbGVJZCI6ImEyNjBjZDUyNjFmMzRhZDY4N2UxMTI4NzFlNjM2ZTIwIiwicHJvZmlsZU5hbWUiOiJTaHlOZW9zIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OTg3MWZiZGE4MWU2ZDRmZjZhNWU4YTkyOTg1ZmI0YzdlNGZiM2QxNGVjZTc2YjA3NzQ0ZjY1NGE5NThiNmEzIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=",
+      "signature": "sRFgpcU8MQWIlNJMAQaR96ZzCsF2Hx+SHrWi/H3Kbng4nqewkd/h/ygt5duqPlaGMTlgiywayQqvp1VRKoXyN3sTpv6HQZi18IgrRGGG+ysMC17TWL3nJYFSlu94LxgDU8YF2YB45QgPVcyMr98o41eShOQkZOkDLp1hroiNEXZQ/2JvYAOgIXFBWCJh4fTEabEPELv3Nkds16jvz06En6VqeVd3/N0SK4OhWuRMk03/dnKduaX96oH1OjRmiJ/hTnNFvUDoDtm6aqzMdc3++Cz8BRXq5T9YjAy0JzS54+I7YX1Z1ziQnkJJowvCip1Q7t4xPjm9uMq+IF668Y8pCFwGxG14EgGhqlIJSiFDJ0vT3OZStDsJvvWNwkW1N5PnarxUjWRm0HppLiy9vEhYIRvdD3edbkxPv5dZ2LspeugWSJywRhgDmGdDm7OrysYj9708GJ380TDpzcKgxls62VX1z5bTOvxLch4u6Q0X7IVASjhjjuRqN6xQ6iLZXr9QC8cOk8J3mtmI/YjI1pr8xSq4e2Hj9Lze9Lqxog0Z/i4lNAyo9hSQcVWz+5oK6ARfxA+xT08gWoHNjBwpcWNAR2wXfQwC36yHvpEw/Kagwkl6ekIm+rldH/RDkI/0+tZy23O/GEtnAZnpZwPpzX+m5XZ8V3u8PjsmMeMiex9tSZc="
+    },
+    "name": "Sea Archer Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 20
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,149 @@
+{
+  "internalId": "FLAMING_FLAY",
+  "name": "Flaming Flay",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+200\n&7Strength: &c+250\n&7Ferocity: &a+25\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&7Deals &a3x &7damage to &3Sea Creatures&7.\n\n&6Ability: Flay  &e&lRIGHT CLICK&r\n&7Flay your whip in an arc, dealing your melee\n&7damage to all enemies in its path. Heal &a1% &c❤\n&c&7for each enemy hit.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 47&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAMING_FLAY",
+    "material": "FISHING_ROD",
+    "name": "Flaming Flay",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 4
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 23,
+        "dungeon_type": "CATACOMBS"
+      },
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 47
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 12,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "MASTER"
+    },
+    "stats": {
+      "damage": 200,
+      "ferocity": 25,
+      "strength": 250
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "WITHER",
+      "amount": 300
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 550
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 750
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAMING_FLAY",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "BRAIDED_GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SOUL_WHIP",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "HOTSPOT_WATER_ORB",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BRIMSTONE_HANDLE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "LAVA_WATER_ORB",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

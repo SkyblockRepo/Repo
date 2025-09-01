@@ -1,0 +1,49 @@
+{
+  "internalId": "HOTSPOT_BAIT",
+  "name": "Hotspot Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Increases your chance to catch\n&7&dHotspot Sea Creatures &7by &a50%&7.\n\n&9&lRARE BAIT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOTSPOT_BAIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MTg5MjAzMTY2MywKICAicHJvZmlsZUlkIiA6ICIzMzU3MWJiY2UyMDE0MTRiYmNkMDYyMjEyZTI4MjBlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFkb21JbmF0b3I0NzgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU5YjE3ZGI1YzRjYWRlZjczN2UyZmVmYjQyYTAxMjNjMzJjYmVhYTFjYTg5MzI1NzllYjJmMDUwMTg2MTJjZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "xDvBYo0ZWUktkzK1Dlzkt8e5ahjJWdi/TUEBh3lVndms08Up51aPR+ZGhtukDHvpGHNTV56Ih3tonJR/6k/HrIXg9IXQLnxhS8Ktbvs+O3OKCSEaKUqTzZrGhAcLoNUefjECtOd+pQlce4HtC6K/UTXZrQGk8vo5kVqElwRTIwUSswVNX6W/cqpYbNq+6V4gQSBydVQ2BhYJS6zelPH1tf2RNB4Azqurw+GouRYgtowvXzN1BSmPFQiZlN0t78JHqPuY8sgNmy0B4LKHxuZljw5RcFIyuP4dHZzx+emyV5um03UhSYVsEAAoTNORYCd8Up2UxQ2IINilaDQ9iP9hE1ZkShYdQkhLRYconCG0VhWL/d9Bf/hcbNLXCN0WQB4C8PGseOp3BHS1ByGXvGwkHIsetV0jCZWgbvkRYbmCEudqQfV9WbwE6NdlHT15ySsl26E1h/qq/DbxIfm8vOE31k/muEaxG/hdCtpWlY5Ms3pkquyXat9HBFFk57HEoE6fIPrCOlVZVfOlosx2Kkd8jri0HFyduXy6U6h01VUjbjm9lfRYcbEvMNqQgchzwdocDeX9BDf7hC2HDtXaNLpFSaqMSHs61UC21Wxel9n3T9QvoTk97SuSsK47Jo6t9DiJtSdzD7JwpQOM4NJOowxiCjCoqs3yaen+VtzOsp6X9H0="
+    },
+    "name": "Hotspot Bait",
+    "category": "BAIT",
+    "tier": "RARE",
+    "npc_sell_price": 5000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOTSPOT_BAIT",
+      "resultQuantity": 32,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SCORCHED_CRAB_STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

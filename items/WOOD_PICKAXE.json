@@ -1,0 +1,31 @@
+{
+  "internalId": "WOOD_PICKAXE",
+  "name": "Wooden Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Breaking Power 1\n\n&7Damage: &c+15\n&7Mining Speed: &a+70\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOD_PICKAXE",
+    "material": "WOOD_PICKAXE",
+    "name": "Wooden Pickaxe",
+    "category": "PICKAXE",
+    "npc_sell_price": 1,
+    "stats": {
+      "DAMAGE": 15,
+      "MINING_SPEED": 70,
+      "BREAKING_POWER": 1
+    }
+  },
+  "recipes": []
+}

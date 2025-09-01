@@ -1,0 +1,83 @@
+{
+  "internalId": "PUMPKIN_LAUNCHER",
+  "name": "Pumpkin Launcher",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Shoots &6Blast o' Lanterns&7. Deals &a2\n&a&7damage to &6Spooky &7enemies and &c3,000\n&c&7damage against non-scary enemies!\n\n&7Blast o' Lanterns: &60&8/20k\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_LAUNCHER",
+    "material": "PUMPKIN",
+    "name": "Pumpkin Launcher",
+    "tier": "EPIC",
+    "glowing": true,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 3000
+    },
+    "has_uuid": true,
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_LAUNCHER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ECTOPLASM",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "PUMPKIN_BOMB",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ECTOPLASM",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

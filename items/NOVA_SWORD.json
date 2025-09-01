@@ -1,0 +1,33 @@
+{
+  "internalId": "NOVA_SWORD",
+  "name": "Sword of the Universe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+99,999,999\n&7Swing Range: &a+15\n&7Damage: &d+∞\n&7Clout: &d+100\n&7Skill: &d-∞\n\n&9Sharpness L\n&7Increases melee damage dealt by &a65%&7.\n\n&7&eOi you! Yes you. What are you looking\n&eat? Yes this sword has ∞ damage.\n&eKinda overkill? I'm lazy ok.\n&e&c(╯°□°）╯&f︵&7 ┻━┻\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NOVA_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Sword of the Universe",
+    "category": "SWORD",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "DAMAGE": 99999999,
+      "SWING_RANGE": 99999999
+    },
+    "enchantments": {
+      "sharpness": 50
+    }
+  },
+  "recipes": []
+}

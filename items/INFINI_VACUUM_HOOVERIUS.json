@@ -1,0 +1,64 @@
+{
+  "internalId": "INFINI_VACUUM_HOOVERIUS",
+  "name": "InfiniVacuum™ Hooverius",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+250\n&7Farming Fortune: &a+25\n&7 &8[&7☘&8] &8[&8☘&8]\n\n&7&7Helps rid the world of &2Pests&7.\n\n&6Ability: Vacuum  &e&lHOLD RIGHT CLICK&r\n&7Aim and hold in the direction of a\n&7nearby &2Pest &7within &e15 &7blocks to suck\n&7it in, dealing &c250 &7damage per second.\n\n&6Ability: Pest Tracker  &e&lLEFT CLICK&r\n&7Leads you in the direction of the\n&7nearest &2Pest&7.\n&8Cooldown: &a1s\n\n&6Ability: Stereo Harmony  &e&lSNEAK LEFT CLICK&r\n&7Plays vinyls at a frequency only\n&7&2Pests &7can hear. Certain Pests are\n&7more likely to appear when certain\n&7vinyls are playing.\n\n&7Now Playing: &a&cNone\n\n&7Vacuum Bag: &20 Pests\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 5&c.\n&6&lLEGENDARY VACUUM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFINI_VACUUM_HOOVERIUS",
+    "material": "EXPLOSIVE_MINECART",
+    "name": "InfiniVacuum™ Hooverius",
+    "category": "VACUUM",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": []
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 250,
+      "farming_fortune": 25
+    },
+    "has_uuid": true
+  },
+  "recipes": []
+}

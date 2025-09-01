@@ -1,0 +1,103 @@
+{
+  "internalId": "EXPLOSIVE_BOW",
+  "name": "Explosive Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 62000,
+  "lore": "&7Damage: &c+100\n&7Strength: &c+20\n\n&6Ability: Explosive Shot \n&7Creates an explosion on impact!\n&7Every Monster caught in this\n&7explosion takes the full damage of\n&7the weapon!\n&8Acts as Superboom TNT!\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXPLOSIVE_BOW",
+    "material": "BOW",
+    "name": "Explosive Bow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 62000,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 100,
+      "STRENGTH": 20
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "EXPLOSIVE_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_FIREWORK_ROCKET",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FIREWORK_ROCKET",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_FIREWORK_ROCKET",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EXPLOSIVE_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_FIREWORK_ROCKET",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_FIREWORK_ROCKET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_FIREWORK_ROCKET",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

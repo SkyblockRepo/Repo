@@ -1,0 +1,27 @@
+{
+  "internalId": "DRACONIC_BLADE",
+  "name": "Draconic Blade",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7&8''An extremely sharp blade formed by''\n&8''dragon nuclei''\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRACONIC_BLADE",
+    "material": "BLAZE_ROD",
+    "name": "Draconic Blade",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "description": "%%dark_gray%%%%italic%%An extremely sharp blade formed by dragon nuclei"
+  },
+  "recipes": []
+}

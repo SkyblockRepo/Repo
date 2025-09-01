@@ -1,0 +1,145 @@
+{
+  "internalId": "DARK_CLAYMORE",
+  "name": "Dark Claymore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d624 &8(686)\n&7Damage: &c+500 &8(+550)\n&7Strength: &c+100 &8(+110)\n&7Crit Damage: &c+100% &8(+110%)\n&7Swing Range: &a+2 &8(+2)\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&7&7''That thing was too big to be called a''\n&7''sword, it was more like a large hunk''\n&7''of stone.''\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cMaster Mode The Catacombs Floor VII\n&cCompletion&c.\n&6&lLEGENDARY DUNGEON LONGSWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_CLAYMORE",
+    "material": "STONE_SWORD",
+    "name": "Dark Claymore",
+    "category": "LONGSWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 40
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 40
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 7,
+        "dungeon_type": "MASTER_CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 30,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "MASTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 500,
+      "STRENGTH": 100,
+      "SWING_RANGE": 2,
+      "CRITICAL_DAMAGE": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 900
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 1500
+        }
+      ]
+    ],
+    "description": "%%dark_gray%%%%italic%%That thing was too big to be called a sword, it was more like a large hunk of stone.",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

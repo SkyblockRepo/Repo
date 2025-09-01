@@ -1,0 +1,26 @@
+{
+  "internalId": "QUARTZ_ORE",
+  "name": "Nether Quartz Ore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&a&lUNCOMMON ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "QUARTZ_ORE",
+    "material": "QUARTZ_ORE",
+    "name": "Nether Quartz Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 6
+  },
+  "recipes": []
+}

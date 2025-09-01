@@ -1,0 +1,26 @@
+{
+  "internalId": "RAINBOW_FEATHER",
+  "name": "Rainbow Feather",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7When given to a Pet, it provides &b+2✯\n&bMagic Find&7. Can be applied up to &a5\n&a&7times.\n\n&7&eRight-click on your summoned pet to\n&eapply!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RAINBOW_FEATHER",
+    "material": "FEATHER",
+    "name": "Rainbow Feather",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

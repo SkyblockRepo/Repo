@@ -1,0 +1,31 @@
+{
+  "internalId": "SCARLETON_PREMIUM",
+  "name": "Scarleton Premium",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Increases the effect of &4Wounded\n&4Potions &7by &a10%&7.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCARLETON_PREMIUM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzMDI4OTQ0MjkxMSwKICAicHJvZmlsZUlkIiA6ICI3ZmIyOGQ1N2FhZmQ0MmQ1YTcwNWNlZjE4YWI1MzEzZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaXJjdWl0MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTg0NTI4MzFjMTAwYTE0NzU2MDgyYzU4ODE3OGU2MjcwNGM2ZWJiNzMwNTE3YzkxNWNlMjg1MDQxMThhNTBhZiIKICAgIH0KICB9Cn0=",
+      "signature": "jh7ngsH79/YYRy8kicaWZhKxj5qZngtanjhBw+zq4VBEdraoRaqN8H0n6gGyux/XPq8OSORIN+mi/Q2yWnMWENScsiNAltFvcx6qIKlm6neTnIAWKOf0/wKPt0hb1ubnxwK6+VBbiCcgwilBwxSLEU9ipF4ulS0XpALKd+ntowGIOPggtHL4b3bf0ZBNm+Pl9kaHAqvXmVts9XTX1xd+k2fDovrP7MXDSfGkSpO1MD1zkFgcGSqagjRSCHqmTqF8jd1XtqRnPwL21uUdqfWFs63FAcnfgabEomtcXUpELc+q1jgVpXLnbInfjl2URIU8YDPZurmLs8gDiHtGcjfu7xyjo7iFdEoz4brYaaZkeObOZmX8YYAzA+shDoaX0/t7ktq5FWl3+zBaPO6toyZDf2jMWaAVGqMx9X2fZ6JEIH7dErsTKJcJUUUOuIneFyvgEoIxLl0ROoPpM2uoCegKPDuGng0uNxPclK5UhBO0ANdZ8yZAnegyg834sisMD8wGDlcsOi8ukTKpJnjBjxdKgfJ2yOT1zxO5b+ytqVJJVFI9ncDfr4JO6+4m22Br4Its5qjSk+c6hf8AguMiqIHW7/R7xF3DYxkqpyrP2nw33x/hwpOot/oCaZ53SH+jUGYUg9aM6HJJxEBUB0ddXbc40tC5VPBgyCvhtrT0XAR+BWQ="
+    },
+    "name": "Scarleton Premium",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": []
+}

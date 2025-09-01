@@ -1,0 +1,77 @@
+{
+  "internalId": "SMALL_LAVA_FISHING_SACK",
+  "name": "Small Lava Fishing Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6400,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBlaze Powder&7, &aCoal&7, &aCup of Blood&7, &aFlaming Heart&7,\n&7&aFried Feather&7, &aGold Magmafish&7, &aHorn of Taurus&7, &aLava\n&aShell&7, &aLump of Magma&7, &aMagma Cream&7, &aMagmafish&7, &aMoogma\n&aPelt&7, &aNetherrack&7, &aOrb of Energy&7, &aPyroclastic Scale&7,\n&7&aScorched Crab Stick&7, &aSilver Magmafish&7, &aSinged Powder&7,\n&7&aThunder Shards\n\n&7Capacity: &e2,240 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SMALL_LAVA_FISHING_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjY2MDc2OCwKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU4Y2QzZjU3ZDlmZTFhYzNjZDU0ZmI4NWYzYzk2YTk1NDc5YjE0Zjk5ZDJlNWEwMTE5ZjVhNTJjMjFlYzMyNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "jOZ3QE7PvzKGiy2WGoF+nRgCpgTWnbPCkrfQkQGni2pR9/FFDMzkJKNR4bCIyX04XNZXCtuP1B5/SZl1tcJDJt09BhEhUs6Sfc3/cdsxaDIXO5qHWYJM+4QxZ0bi3XJY8hmW0RKB+fdgdOkChxwMSp/8tzhTBm66WStAI+nIxfPSx0FVburKBXDxANOeZo/54lnSrZCQcJJvOz0uSTb0avdesFDRmWC18O3LpTIdRhERaHMx7nhlRZttzpU6IJTssu7prUxQ88SaLBV47qyKSV7zfDrRkvlKmCMGvfntrvB2c0sluP+qEH/eCPuBD/pqJe74gne9Js3A4aphnjfG5PYeoqFYAL5vbSbZXc5Ifz3+DqxqLsi7FNutrIYZgSW/zLhoXLonGs2AzQp6AuqFdaIvMgoAKeri+i0E+xA7dqIPiNZyV1mDLngE7+nt6zU7aNRKUQ5nyVsUjZd3IbD9mapGNiUijGhGS/9UHt6IF9FaiVRCAQULwQqLiS8YpybjN6Avz7YpuDjV1umm76b2Jo9U/48oIsq5EHk7pYCwRMyVCZizJfecSUeeC2BHOzbdn7YH2+WsyDUwVgJS80dfWetPDEjXM3wEE2FkS+HnYxpRaQYJK536YJCggaClojKvfPDX5yKsdUCTXAjfCQgXzZ2HnB1DeSY7T/Mvr+fg7uE="
+    },
+    "name": "Small Lava Fishing Sack",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "npc_sell_price": 6400
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SMALL_LAVA_FISHING_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

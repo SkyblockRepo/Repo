@@ -1,0 +1,29 @@
+{
+  "internalId": "LEATHER_HELMET",
+  "name": "Leather Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 7,
+  "lore": "&7Defense: &a+5\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LEATHER_HELMET",
+    "material": "LEATHER_HELMET",
+    "name": "Leather Helmet",
+    "category": "HELMET",
+    "npc_sell_price": 7,
+    "stats": {
+      "DEFENSE": 5
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,41 @@
+{
+  "internalId": "SPOOKY_CHESTPLATE",
+  "name": "Spooky Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Defense: &a+50\n\n&7Each armor piece grants &a+5% &7chance\n&7to get Candy from mobs during the\n&7&6Spooky Festival&7.\n\n&6Full Set Bonus: Candy Man &7(0/4)\n&7Grants a &a+5% &7chance to find rare\n&7Candy.\n\n&7&8This item can be reforged!\n&5&lEPIC CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPOOKY_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "96,96,96",
+    "name": "Spooky Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "SPOOKY": "BAT_PERSON"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SPOOKY": 7
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "DEFENSE": 50
+    }
+  },
+  "recipes": []
+}

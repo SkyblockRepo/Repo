@@ -1,0 +1,77 @@
+{
+  "internalId": "BAIT_RING",
+  "name": "Bait Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 23000,
+  "lore": "&7&a5%&7 chance not to consume bait.\n\n&eRight-click to view recipes!\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BAIT_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODkwMjczMSwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81Y2VlYzUzNDJhY2QzZjIxYjJjMWM4ZDU5MTMyNzdlNDZjYWVjNmM4M2I4NjlhMjBjYTkxYmZkMmM4Njc1NzVhIgogICAgfQogIH0KfQ==",
+      "signature": "JG/bxN8/5qd/nB+C7j08IFkaxD8vx/ynAAN4Qe1wgqW/QZLJF5mKBo8iJzrVUQJWPx5LQaSs/E4SlCJAU5RD9g91IllVpYBQRaQUso0sj7Q0sGFEFT8QK5sKaGSHtqwQIzd0YfM2dtXpgSCrSGjGCSswJfQz24zRnlVKn3gys1+OqXQebw9oyAhZUQGVrsYGKKcHpjbjTzA8YzauM43SZ+RGfpxr6LZntI+pjl8DtC1D8qoFwmve7oYAtO5wsKGija9gI5//eEMiGiqEDQ7SV6sMqQiaEZGGNC4+8MwFoYTR0M4vzE8i4bdvwQDYZbfM7PlplvlSTl+y7hwf3SS9VGHuxqbGOMp8rRJ/vRLU+XKWp2I94nZtWjnj6QN4GN+hR85aa6mE1+gVvnIvRetfrq8Rto/r+5BwJ3ZAAYtD0bqZjjgAfDa6EB4fs8qcmCMLcitQTPtSGeIkKJfF6BswrN3unk5TdWWchmXLz2fhH6vjBHBAF6XMzwb/QxcPWYLXUv7le5oq6m65Bwp/ByuaDQTu9TRLSmX+KAYEb5BDbWiuPhqb7jUTBvbCxf0J+p0yqNCJEWTx5a08nZ9iJy4eI0SNcjrXQ22YhXIytTgRf2dek6Ctmk6goMYE3kEAKIp7jeO2ndlePvVJsNmdfhTQ+FeBRW1RI3dYsFHWAY7bT9Y="
+    },
+    "name": "Bait Ring",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "npc_sell_price": 23000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BAIT_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

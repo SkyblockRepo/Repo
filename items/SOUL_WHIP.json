@@ -1,0 +1,136 @@
+{
+  "internalId": "SOUL_WHIP",
+  "name": "Soul Whip",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+145\n&7Strength: &c+175\n&7 &8[&8⚔&8]\n\n&7Deals &a2x &7damage to &3Sea Creatures&7.\n\n&6Ability: Flay  &e&lRIGHT CLICK&r\n&7Flay your whip in an arc, dealing your melee\n&7damage to all enemies in its path.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 26&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOUL_WHIP",
+    "material": "FISHING_ROD",
+    "name": "Soul Whip",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 23,
+        "dungeon_type": "CATACOMBS"
+      },
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 26
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {
+        "SOUL_WHIP": "FLAMING_FLAY"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "DAMAGE": 145,
+      "STRENGTH": 175
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "WITHER",
+      "amount": 300
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 550
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 750
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SOUL_WHIP",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ECTOPLASM",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ECTOPLASM",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ECTOPLASM",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

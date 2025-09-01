@@ -1,0 +1,121 @@
+{
+  "internalId": "PERFECT_CHESTPLATE_7",
+  "name": "Perfect Chestplate - Tier VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3276800,
+  "lore": "&7Defense: &a+280\n&7 &8[&7❈&8] &8[&7❈&8] &8[&7❈&8]\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&5&lEPIC CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERFECT_CHESTPLATE_7",
+    "material": "DIAMOND_CHESTPLATE",
+    "name": "Perfect Chestplate - Tier VII",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 3276800,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      }
+    ],
+    "stats": {
+      "DEFENSE": 280
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DIAMOND",
+      "amount": 70
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 180
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 14
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PERFECT_CHESTPLATE_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PERFECT_CHESTPLATE_6",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

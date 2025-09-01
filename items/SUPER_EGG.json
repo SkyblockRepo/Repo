@@ -1,0 +1,71 @@
+{
+  "internalId": "SUPER_EGG",
+  "name": "Super Enchanted Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7&7Used to craft epic and legendary\n&7pets.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPER_EGG",
+    "material": "MONSTER_EGG",
+    "name": "Super Enchanted Egg",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUPER_EGG",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

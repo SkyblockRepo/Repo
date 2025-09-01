@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_SHEEP_NEON_YELLOW",
+  "name": "Neon YellowSheep",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Sheep pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&9&lRARE COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_SHEEP_NEON_YELLOW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4Njk2NjYwNTg4MCwKICAicHJvZmlsZUlkIiA6ICI1MDBmZWZlMWUzZjU0NTA4OTc1YzZmMTE5ZGIyZDY1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWNoU2VlZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NDI2MzQyOGMyM2RhOTE2NWIyNjM5YThmMjQyOGZmNDgzNTIyNzk0NWM5ZTEwMzg0NjFjZjY0NGQ2N2NjODJhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "ZXyXbk8O31tX2KicTZB1aNDhKoCkTUxIgYZWh68nJRY+/CqMguYcLsBI7DtEk8YjXkjSnWaMnsWjkioMFqHFltLzAspKCfRRHUImfFmiydIUnQjFnvX1sZFzt22ZAQdMdrKDUbknFx6vzZqGrSsy+Cu/E2onHDXZ2o6HN0I5pddvIKDiaNGy/ZH+JzouRKBDGr5Nn4WWZk3fzn4hO1zEJAIEjN6ehqORHuB2ATLJl5vo2eTu6deYWbB7GUZ5cimSOTTEzti26MGA2tCyb9nbMAv5IuH/1lGv5pi19vAT40v2cQvUFZH8kjLVnhPzQQ7yVPamsUT+KcuRMnvXTMDIvbW0t4JJUTOCsyKZO1UKFrq50Hvza2CezDdEZW5nF3p9ImK0fezH6WIYqVY8CI+q17KH+3omYz+nUxuV1vh6NgOGbMQB1BZJd7hZKp/gK/UOT+cfU0+v4F8Sopq7SYv8/D25ryu2GtmPYrl19ckUob3mrqkZI0pC6jBqXfGlCl41AVS4KuhdtLLhnu3lld8btlCqe50Cp4NC/Vtmhq1GR5eUD8X1ZGhHYZ46HcsxDKC2n9Glsn48r/9aabc1RpH/uWj2+A65cR1kdkLzDG4Xb5nBTfl3regYxAHrjcXpFdeJneC11LRHB25Ui8XTQoqOY2I7tpjjfBCQNiy+M9l0bj0="
+    },
+    "name": "Neon YellowSheep",
+    "category": "COSMETIC",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

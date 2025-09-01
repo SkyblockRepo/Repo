@@ -1,0 +1,86 @@
+{
+  "internalId": "ARACK",
+  "name": "Arack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Damage: &c+90\n\n&6Ability: Venom Mold \n&7Grants &c+100❁ Strength &7while\n&7poisoned.\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARACK",
+    "material": "IRON_SWORD",
+    "name": "Arack",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 5000,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 90
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 30
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 35
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 65
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 5,
+        "essence_type": "SPIDER"
+      }
+    ],
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

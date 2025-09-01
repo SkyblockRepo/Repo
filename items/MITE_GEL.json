@@ -1,0 +1,28 @@
+{
+  "internalId": "MITE_GEL",
+  "name": "Mite Gel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7&8''Sticky goo scraped off an Endermite.''\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITE_GEL",
+    "material": "INK_SACK",
+    "durability": 5,
+    "name": "Mite Gel",
+    "tier": "EPIC",
+    "npc_sell_price": 2000,
+    "description": "%%dark_gray%%%%italic%%Sticky goo scraped off an Endermite."
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "CREEPER_GENERATOR_1",
+  "name": "Creeper Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Creepers!\n&7&cBEWARE OF EXPLOSIONS!&7 Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a27s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CREEPER_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MTk0MDIzMjgsInByb2ZpbGVJZCI6IjkxZmUxOTY4N2M5MDQ2NTZhYTFmYzA1OTg2ZGQzZmU3IiwicHJvZmlsZU5hbWUiOiJoaGphYnJpcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTRhOTJjMmY4YzFiMzc3NGU4MDQ5MjIwMGQwYjIyMThkN2IwMTkzMTRhNzNjOWNiNWI5ZjA0Y2ZjYWNlYzQ3MSJ9fX0=",
+      "signature": "kaW0KvJtMtPvq0Fz+BzUHGGxYjX77CkzTgIYzzqM9tLx+JQMYoR5REqFoMHTPCKyIX40Bx7jxzKxYgSvmz9W/7BSuekozmLet0ipgcNjB1f5r/F+q8OEo3z81m82wUQ7wds/LvXXK46qYxoEtEVWyAZbcbREevpFB9k+RS2fVWKSGzG6N4kr3ZIdTmurDiTn1FOHc3uv2tXq+MgFe6rluegHReVxXdi2ujlx4zXDJGNDFOgi79J1jrpK5iv2iRmXKD7QOIEsebFdh1yZmHmYpzmpfIHJN/jB3ely5PJ6ovcW+tycxpnF+9aXZ40sq0PQiRBaU/J0GkQd2SMrktK7kRaGElZjZW9VznySSNVCMEv7V3h1P4w4BsUkkNLxmxz84hg5mP6TZNpvH6tolFVuCHLyY90a9K1931ceOLgVLx0JgBqasZfETXH8ZaeaZc5gLO8FJo1KXPvJZyf/3zykCJRQbKY6+uA6+k7NEEv2sMqqh2rDCTmAvOp7ubnNx1NFfB/xwkXyljzT2cUPaXDMIPw3IFtHWpWhY/AJsBkOCR5gGI9es1+hpyzXjgM01CMbLgjH3cENaWwKLKTMH+4utmp2DaNC2+CVzs5RoXZAdUzG7+5tSDx9IQtZQNdHMFUqmIEQw80h2nh36HtUjtY59/sNMJcrFmvPHsczLrA70So="
+    },
+    "name": "Creeper Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "CREEPER"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CREEPER_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WOOD_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "SULPHUR",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

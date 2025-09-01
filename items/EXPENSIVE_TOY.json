@@ -1,0 +1,35 @@
+{
+  "internalId": "EXPENSIVE_TOY",
+  "name": "Expensive Toy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Commemorates your participation in\n&7the &9Winter 2023 &7event.\n\n&8December 31, 1969\n\n&7&8''This toy is said to bring''\n&8''extraordinary luck and prosperity''\n&8''to its owner. But remember, with''\n&8''great power comes an even greater''\n&8''price tag.''\n\n&c&lSPECIAL MEMENTO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXPENSIVE_TOY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTM5NDI1NDY1NSwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRhYmQ3MGY3ZDlkZmE0N2MzMGEwOTkyZDNiN2Y1M2Q3NGU3M2VkY2JiM2Y1ZmE4MDYzYjkxNDg2YWM5ZmY0YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "Nks4WpeMFZvBMSG2vpBbPtBUazZjTdsA/eD7c0oi1j4CKub8saJScLiDkxQyFqCz/eOAg1LMy3WaN97CfiTEUGrzU0/xQTXF3n4Yfa/MHlk9wzHxKGlEsr/NY17vpRwVF19za8zIP5kwLh3YbhJELqny31aoYPXgBixqTvQzIImFq1owQj7Tkaoi30Ix3fhUD3aI5HczJVhYT9jqlGz2ZHIhOWtbdlbZNORmTYPtf4BHUMhgaHeTJwuU9wSAgpFFtmt2yQokozm+n8XuD2bDAeVSNpV3HpRzv7CXFN2N5NYfpIXTc2Czo2EddQzvL5/gAJAAtDS06Yvjd9SW0IMZEQ8K/v5fV1n+4Js0isoZ6BTDy/C+w8X/bAhR7Rnchwzjcm8/bBRETk8dKj+qZ7Gv0UI+GzMDfBiFdwJpWp289jFCfwEpX5RP6hmTE9oa+bKp2MPMbRQT5pI83BGxETK/z+A4rSfgPJH+rHzU8AsmTcrDHkHOhtk7CFD4XF3B86vMBUCTauox4rYqqgMebtWjOKn3N0O0mmOoXxDbmAXfcvqDhvIL6ZNMLOVHKsAVZlXh8+v5oD178UzhKVaqNK/2HSUxZ4RL/VFcqQPtgjFvrV8OxzvRnOYUSXqy0dMqWdX6RUNOaYc/H/y5sFnH9iS5Mn5KE3sLWbFtCs3jkGwcBWY="
+    },
+    "name": "Expensive Toy",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "item_specific": {
+      "memorable_event_key": "winter_2023"
+    },
+    "description": "%%dark_gray%%%%italic%%This toy is said to bring extraordinary luck and prosperity to its owner. But remember, with great power comes an even greater price tag."
+  },
+  "recipes": []
+}

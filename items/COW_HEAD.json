@@ -1,0 +1,83 @@
+{
+  "internalId": "COW_HEAD",
+  "name": "Cow Hat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 16,
+  "lore": "&7Health: &a+10\n&7Defense: &a+5\n\n&7Grants immunity to de-buffs while\n&7equipped.\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COW_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE0OTg2ODk0MDczOTQsInByb2ZpbGVJZCI6ImYxNTliMjc0YzIyZTQzNDBiN2MxNTJhYmRlMTQ3NzEzIiwicHJvZmlsZU5hbWUiOiJNSEZfQ293Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZDZjNmVkYTk0MmY3ZjVmNzFjMzE2MWM3MzA2ZjRhZWQzMDdkODI4OTVmOWQyYjA3YWI0NTI1NzE4ZWRjNSJ9fX0=",
+      "signature": "OKbGpPO8wQDLCu/zeOrLBt9m6V29AZMNYR4gfumog1q5UvI/3if2IKdKi2X0UcJWyvgMlHW0y1OAGFsY5EZyL4Z+/+Ed2G5IFiMAQpq+sjqyiPgwIUixNLYdu7sMjxsuoRlzMe9y73tW2+Waxk4aWYbMCxGGQmgHv++L1gw+qiAzzFDs09l0GexVnLW8XO/baLAWD6DG7dpOieFVCAaap8cvw4ZVTF7jNBfr3dd3BkhkMbGrmS39WV5s1XsxkbomFRdHPCIh8ba/DEe5qYGhLNQe0mSHZS2k9Y15kMWiLEU+tTDa7UpD8ZYszvPbgbIEbVeKOIF0lGm7m/RIHHSTjSVzemTrYbXTkf54dcAdwsutd8mYm3yZDj8Iw/5y2X2qOalGVyDupFJcPJHabvct9uup7GaLzMBs1o3p4RjomtAdjQLlEX8ktY0YLExyKAhx8bfaI+67i1a7r2eh8eAMMY0A7WBnEJv9iO4vUtsOB0fKIiqbOIXGkUbaJk6Poj37CbNYQC83bSIzEcfXm4inytLwrTg3B6k1zrIL45SQ4XovItWfcWD+g1WzIEz7+LXBLaB8SRZT9EU7jA18GpazvhJBNlP4srIuE9AuVrNSNHg/LtA4FqFX06YhEH1/oxWOOO5uqS6ggUb0xiO6u6BbTLU/FQPh3GyytS76d2Dg0rk="
+    },
+    "name": "Cow Hat",
+    "category": "HELMET",
+    "npc_sell_price": 16,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "HEALTH": 10,
+      "DEFENSE": 5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COW_HEAD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "RAW_BEEF",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

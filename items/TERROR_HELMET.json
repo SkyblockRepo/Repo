@@ -1,0 +1,220 @@
+{
+  "internalId": "TERROR_HELMET",
+  "name": "Terror Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Crit Damage: &c+50%\n&7Health: &a+160\n&7Defense: &a+50\n&7Speed: &a+12\n&7Intelligence: &a+15\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Hydra Strike (0/4)\n&7&7Every &a0.2s&7, arrow attacks grant &c1&7\n&7stack of &6⁑ Hydra Strike&7. &8Lose 1 stack\n&8after 4s of not gaining a stack.\n&7\n&7&7Each stack grants &c+2% Damage&7 and &b+1%\n&bArrow Speed&7.\n&7\n&7&7At &c10&7 stacks shoot &a+2&7 arrows that deal &c20%\n&cArrow Damage&8.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&7&4❣ &cRequires Kuudra Basic Tier Completion&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TERROR_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDE2MDk4NSwKICAicHJvZmlsZUlkIiA6ICI4ZGU4ZWU3MTMyMTY0NGNhYTllZjJlNTVjODRjNGU4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIdW5kZXNjaG9uVE0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJhZjg4MzM2OTdjODFiNDZlODNjOGYxODk1MjY2ZTYwNmVmYmIzYTU5ZjFjM2I0Y2EyODE2ZGEyYmNmYTlkNiIKICAgIH0KICB9Cn0=",
+      "signature": "kq8TMKtiXQYy6IMi5fbdL1swRXTAytbvI5tq/uqChreUBEsXm9OEbcJ3xD3MAzWg7spu7UrLyFqS6vhUQVZ5He3tY/zWcBw35XFORYL1Nl0do6xDlRKKktPhIQG11XhA6Wsp2j8nur1Yoj3zxW1Kb/8EYWlMw9V2fJZe7/hV8eVvmdHgQSsFMCjOsfWysulpmxiPiQMk2YFKO/xa3xkjTCmPhvVVeyiHkXsB9qsBzeoeFb0wURR7ck56Ak6oNblL17iJu/tKzdJ3B+yptJjx1f9Mz0BA73IIAbuwEeAe+VRKBCEKaxlIZ5F0TPnXNO9pen82unSley39//EteKW3+8g/R8dUrovfK4dYDJJIXP56F1smAUIvGRDNDCRY98+G+BFJVLPunbp8EYL1jvz+7hbRqt4KS6Ek1rx7Y92LJOZzaOTIlGJKC1bNCe3pvkkZlQqSKrByMT/lxh4CkTDzSGne3sz4u9w8uszmDTdO8P+wDcTXDPXuj8StpyzllD/qru3M5fTk+YjjOy7YjDrfZjQZ6D//WqQ4y0bfxmN8WPGimP6PLAfGUVtbGvkIHVck+KpwMMesfUATXU97UdvNbcDJZxrqSkA3mWDe8X60w8bfbJPt/10xxRz+X+Plsk8r/Ug+b9YOtcdzJP6oEexzdz5PtmtLEeZor7ttTN8CG20="
+    },
+    "name": "Terror Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "NONE"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "TERROR": 10
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "HEALTH": 160,
+      "DEFENSE": 50,
+      "WALK_SPEED": 12,
+      "INTELLIGENCE": 15,
+      "CRITICAL_DAMAGE": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 35
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 55
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 150,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 10,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "HOT_TERROR_HELMET"
+    }
+  },
+  "recipes": []
+}

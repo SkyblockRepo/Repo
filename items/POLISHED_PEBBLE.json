@@ -1,0 +1,26 @@
+{
+  "internalId": "POLISHED_PEBBLE",
+  "name": "Polished Pebble",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8&l* &r&8Co-op Soulbound &8&l*&r\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "POLISHED_PEBBLE",
+    "material": "FLINT",
+    "name": "Polished Pebble",
+    "museum": true,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

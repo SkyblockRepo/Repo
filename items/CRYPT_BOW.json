@@ -1,0 +1,97 @@
+{
+  "internalId": "CRYPT_BOW",
+  "name": "Soulstealer Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d129 &8(141)\n&7Strength: &c+50 &8(+55)\n&7Intelligence: &a+157 &8(+172.7)\n\n&7Replaces the arrows that you shoot\n&7with exploding wither skulls!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 5&c.\n&9&lRARE DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYPT_BOW",
+    "material": "BOW",
+    "name": "Soulstealer Bow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 5,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "dungeon_item": true,
+    "tiered_stats": {
+      "STRENGTH": [
+        50
+      ],
+      "INTELLIGENCE": [
+        157,
+        171,
+        186,
+        202,
+        219,
+        239,
+        259,
+        282,
+        306,
+        333
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

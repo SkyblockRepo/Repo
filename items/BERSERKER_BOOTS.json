@@ -1,0 +1,291 @@
+{
+  "internalId": "BERSERKER_BOOTS",
+  "name": "Berserker Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 129000,
+  "lore": "&7Strength: &c+25\n&7Crit Damage: &c+25%\n&7 &8[&7⚔&8]\n\n&8Tiered Bonus: Berserk (0/4)\n&7Reduces your health and defense by\n&7half and reduces the cost of\n&7health-consuming abilities by &c20%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BERSERKER_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "255,212,39",
+    "name": "Berserker Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "npc_sell_price": 129000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BERSERKER": 14
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "STRENGTH": 25,
+      "CRITICAL_DAMAGE": 25
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 50
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 750
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINO_FIBER",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "BERSERKER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BERSERKER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        },
+        "6": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

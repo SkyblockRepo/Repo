@@ -1,0 +1,69 @@
+{
+  "internalId": "ABYSMAL_LASSO",
+  "name": "Abysmal Lasso",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7&7''This is barely holding together,''\n&7''seriously who made this?''\n\n&6Ability: Throw  &e&lRIGHT CLICK&r\n&7Throw the Lasso at &2Forest\n&2&7creatures and hold them still until\n&7they lose all their &9stamina&7.\n\n&6Ability: Reel In  &e&lRIGHT CLICK&r\n&7Reel in creatures caught by the\n&7Lasso each time their &9stamina\n&9&7depletes.\n\n&8&l* &r&8Soulbound &8&l*&r\n&f&lCOMMON LASSO&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABYSMAL_LASSO",
+    "material": "LEASH",
+    "name": "Abysmal Lasso",
+    "category": "LASSO",
+    "tier": "COMMON",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {
+        "ABYSMAL_LASSO": "VINERIP_LASSO"
+      },
+      "type": "RARITIES",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "soulbound": "SOLO",
+    "description": "%%gray%%%%italic%%This is barely holding together, seriously who made this?",
+    "can_interact": false,
+    "can_interact_right_click": false
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ABYSMAL_LASSO",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "VINESAP",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "VINESAP",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "VINESAP",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "VINESAP",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "VINESAP",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

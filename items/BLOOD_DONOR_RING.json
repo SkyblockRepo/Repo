@@ -1,0 +1,85 @@
+{
+  "internalId": "BLOOD_DONOR_RING",
+  "name": "Blood Donor Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Rift Time: &a+10s\n&7Mana Regen: &a+5%\n\n&7There's like 5 liters in you.\n\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLOOD_DONOR_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjE2NDMxNSwKICAicHJvZmlsZUlkIiA6ICJiYWRkZjIxZTFmNWE0ZGYzOGVjZmNkOTYwY2E0YzA5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbmRlckJUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzZTk1YzgzZjU0ZTI2NjJmMGIwZGYyODdhZmI1YzQ4ZDljYWQyZWFjNDZjYjgwYzhjYjRjNGY0NjhlMTNjMzMiCiAgICB9CiAgfQp9",
+      "signature": "XXkpN50EBD0jpY/3ZSQVuJ3xf4mby7UnLYQn1Rf/VSf6e+VdvvnP8JJ2VDi3mh+ttzvM36h1ZGANav7PC51udpsZGC7tSNaWUFA1ytENip/nGeHqOAl4YycejYplWEK6xFccfSF9jfN0okGHIZS708PyTbLwEqzVZl40NnYqQ/g/7Z6q5ux6KraC8A5L+LqEuaHQB7P37XVzWKBR6qU/+hX8+6nm76y+5qipMBAxOPfkFYHC7mnT5yirHZe7OWWsOHbWtSH/CkN2qd4irCM9b5Hf7lUhjwWKWmu8BIlgkCa6xSnt8dJC0eAfEUMd27YY9YJsutIlMC1IIOK0c6fXs9tywq6e/OnXrpWcu2JAsvbeHGbKxJB36bzk+GLHmqXjJkw+8xY/nYgUhNlNBG/Aja5EuXXFyds0Q/jv7aTR9aXKi6o9DsQMbaRY8WJg+zDzHWz0NnxmllIJp9guOetNXxCnKpaaJxWyFP483taFvJGpXOiticMsm+U83a00fACYeB/DZ/GidVwxCOwHZZpN1jQKyElz2VBFbK0xt8YlYp0uoev20EHu71LsSknTe6ac3ouqIqa3MEtgHne1kgMh7jSifGytUUhrPPfmLLSE5DKOImwjqoLKhslPQLeEmPNdoxjNyw5k+Gp10iiRrs61CejoitXML2WSJAc3YJK7d1I="
+    },
+    "name": "Blood Donor Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 2000,
+    "stats": {
+      "rift_time": 10,
+      "rift_mana_regen": 5,
+      "health_regeneration": 2
+    },
+    "origin": "RIFT",
+    "description": "There's like 5 liters in you.",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLOOD_DONOR_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        },
+        "2": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        },
+        "3": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        },
+        "4": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        },
+        "5": {
+          "itemId": "BLOOD_DONOR_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        },
+        "7": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        },
+        "8": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        },
+        "9": {
+          "itemId": "HEMOGLASS",
+          "quantity": 12
+        }
+      }
+    }
+  ]
+}

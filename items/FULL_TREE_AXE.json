@@ -1,0 +1,29 @@
+{
+  "internalId": "FULL_TREE_AXE",
+  "name": "Full-Tree Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Sweep: &a+500\n\n&7Breaking a block from a tree will\n&7break the full tree.\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN AXE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FULL_TREE_AXE",
+    "material": "DIAMOND_AXE",
+    "name": "Full-Tree Axe",
+    "category": "AXE",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "sweep": 500
+    }
+  },
+  "recipes": []
+}

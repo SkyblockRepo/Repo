@@ -1,0 +1,28 @@
+{
+  "internalId": "BOOK_OF_STATS",
+  "name": "Book of Stats",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7Tracks the amount of kills you get\n&7with a weapon when applied to it.\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOOK_OF_STATS",
+    "material": "BOOK",
+    "name": "Book of Stats",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "RECORD_12",
+  "name": "Music Disc - Wait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RECORD_12",
+    "material": "RECORD_12",
+    "name": "Music Disc - Wait",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 20
+  },
+  "recipes": []
+}

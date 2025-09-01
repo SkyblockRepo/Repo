@@ -1,0 +1,25 @@
+{
+  "internalId": "ACACIA_STAIRS",
+  "name": "Acacia Stairs",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ACACIA_STAIRS",
+    "material": "ACACIA_STAIRS",
+    "name": "Acacia Stairs",
+    "npc_sell_price": 0.5
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "JUNGLE_GENERATOR_10",
+  "name": "Jungle Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping jungle logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a33s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JUNGLE_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5Mzc0NzcyNzIsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2VlMzRlMTQ2OWRhMTFmZTZjNDRmMmNhOTBkYzliMjg2MWExZTdiOTg1OTRjYjM0NGQ4NjgyNGVlZWFiY2I2MCJ9fX0=",
+      "signature": "TZnXN4cSEeipNNkQ0ZDTrvu5bFCcBSeVGDlIYvcxhEsXG5hDvILdGt9ZZh2iurzZC9CnYvH60dtVlriCaTe/jxqPFNh6aBYxoeL4bpJ6dt1yHD2MMDZbrOIYeJO9RaupV8TTSAaYVww8rR79V85qZZJyF5Zr+m+xQtb4f+/p8ArrE5qni3QvM13NB0RbsVCvGC6PPfzMX2jV/E+hYqp7B5/P6wFIV6ywiKRihhLJ5aQUq30gws0un8TLF84ias71wJ/YzyiF4zAmmcxUlMC4dsYKdgxv2zC115VEXmxZOMdD13ian3stHbxvej+L+BsAPnAwPnq42UHqYWCNvg9UovAg/5FWQgeTj6Mfe9Mi8qua/HlPN5Bv9Zi03/9bZl/X8pLV8xQZVXMEmoAJSaxdD8PwYP/f/6Zi7YZECt4mB+AqBgDMD1rUkZXzOA4mgbtY2cCV4cKfvKFKqQgN2uO4Q1q/P+DHScYNmF6nUsa9amCXEjwjiMQE9dOPRfGyfujsJT/QjOQWgtKxTcMhC//iktJSweYPjqXvptSmoBDhmopX06VHSyFAniDGCnKj4TRw3vR2DebmfuJYrC5ySTpHBPDXX492O1q8356A0/Fx9ywPVSJxKIaigwYEZKCBf+K++bZDSSjyXGMb5XmfJoTGU3Q9t9G2P41PoXMFnOGvdlc="
+    },
+    "name": "Jungle Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "JUNGLE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "JUNGLE_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "JUNGLE_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

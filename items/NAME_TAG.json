@@ -1,0 +1,28 @@
+{
+  "internalId": "NAME_TAG",
+  "name": "Name Tag",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7Right-click to apply a name to this\n&7Name Tag. Can be applied to mobs.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NAME_TAG",
+    "material": "NAME_TAG",
+    "name": "Name Tag",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

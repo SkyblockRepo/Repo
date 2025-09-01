@@ -1,0 +1,47 @@
+{
+  "internalId": "CHISEL",
+  "name": "Chisel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Can be placed in the &6Fossil\n&6Excavator &7alongside a &9Suspicious\n&9Scrap &7to begin the excavation\n&7process!\n\n&7Charges: &e16\n\n&f&lCOMMON CHISEL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHISEL",
+    "material": "ARMOR_STAND",
+    "name": "Chisel",
+    "category": "CHISEL",
+    "unstackable": true,
+    "npc_sell_price": 1000,
+    "item_specific": {
+      "chisel_charges": 16
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHISEL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BEJEWELED_HANDLE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TUNGSTEN",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

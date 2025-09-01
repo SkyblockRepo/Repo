@@ -1,0 +1,82 @@
+{
+  "internalId": "SWORD_OF_REVELATIONS",
+  "name": "Sword of Revelations",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+180\n&7Strength: &c+50\n\n&7Deals &a+150% &7damage to\n&2✿ Mythological &7mobs and grants &b+5✯ Magic Find &7on them.\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SWORD_OF_REVELATIONS",
+    "material": "WOOD_SWORD",
+    "name": "Sword of Revelations",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 180,
+      "STRENGTH": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SWORD_OF_REVELATIONS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "internalId": "HEARTMAW_DAGGER",
+  "name": "Deathripper Dagger",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+160\n&7Strength: &c+75\n&7Crit Chance: &c+10%\n&7Crit Damage: &c+25%\n&7Bonus Attack Speed: &c+20%\n&7 &8[&8⚔&8] &8[&8❂&8]\n\n&7Deal &c3.5x &7damage to Blazes&7.\n&7Deal &c2x &7damage to Skeletons&7.\n&7&7Gain &3+45☯ Combat Wisdom&7 against\n&7Blazes.\n&7 \n&6Ability: Attunement  &e&lRIGHT CLICK&r\n&7Swap between &fSpirit &7and &bCrystal &7mode in order\n&7to attack through Hellion Shields.\n&7 \n&7Attuned: &fSpirit\n\n&6Ability: Wraith Drain\n&7&7On hit, heal &7for &c200 &7+ &c4%❤ &7after &a6s\n&a&7if the Hellion Shield has switched\n&7attunement.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Blaze Slayer 6&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HEARTMAW_DAGGER",
+    "material": "IRON_SWORD",
+    "name": "Deathripper Dagger",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      },
+      {
+        "slot_type": "OPAL",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 500000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 20,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "MASTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 160,
+      "STRENGTH": 75,
+      "ATTACK_SPEED": 20,
+      "CRITICAL_CHANCE": 10,
+      "CRITICAL_DAMAGE": 25
+    },
+    "sword_type": "DAGGER"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEARTMAW_DAGGER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "BURSTMAW_DAGGER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

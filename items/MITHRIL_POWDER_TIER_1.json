@@ -1,0 +1,26 @@
+{
+  "internalId": "MITHRIL_POWDER_TIER_1",
+  "name": "X Mithril Powder",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITHRIL_POWDER_TIER_1",
+    "material": "INK_SACK",
+    "durability": 10,
+    "name": "X Mithril Powder",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

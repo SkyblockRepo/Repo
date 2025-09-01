@@ -1,0 +1,25 @@
+{
+  "internalId": "ENCHANTED_BOOK",
+  "name": "Enchanted Book",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_BOOK",
+    "material": "ENCHANTED_BOOK",
+    "name": "Enchanted Book",
+    "has_uuid": true
+  },
+  "recipes": []
+}

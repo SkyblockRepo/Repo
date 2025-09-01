@@ -1,0 +1,26 @@
+{
+  "internalId": "TUNING_FORK",
+  "name": "Tuning Fork",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Left-Click: &ePick tune!\n&7Right-Click Note Block: &bTune it!\n\n&7Tuning: &4F# &8(Low)\n\n&7&8Earned from perfecting Pachelbel on\n&8the personal harp.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TUNING_FORK",
+    "material": "BIRCH_FENCE",
+    "name": "Tuning Fork",
+    "tier": "RARE",
+    "npc_sell_price": 100
+  },
+  "recipes": []
+}

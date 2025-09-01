@@ -1,0 +1,27 @@
+{
+  "internalId": "NETHER_STAR",
+  "name": "Nether Star",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NETHER_STAR",
+    "material": "NETHER_STAR",
+    "name": "Nether Star",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1,
+    "museum": true
+  },
+  "recipes": []
+}

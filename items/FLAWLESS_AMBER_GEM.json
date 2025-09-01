@@ -1,0 +1,87 @@
+{
+  "internalId": "FLAWLESS_AMBER_GEM",
+  "name": "Flawless Amber Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7A near perfect version of &6Amber&7.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&6⸕ Mining Speed&7.\n\n&5&lEPIC GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWLESS_AMBER_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTE3NjQ5NiwKICAicHJvZmlsZUlkIiA6ICJiNWRkZTVmODJlYjM0OTkzYmMwN2Q0MGFiNWY2ODYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXhlbWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkY2U2MmY3MGFjMDQ2Yjg4MTExM2M2Y2Y4NjI5ODc3Mjc3NzRlMjY1ODg1NTAxYzlhMjQ1YjE4MGRiMDhjMGQiCiAgICB9CiAgfQp9",
+      "signature": "Jk1MIoOsvvDGy5CCId3IjUV6DepvlusFIq1Ow1fQ14FqfsO1idZlw/AZYUAtzoiVA7QETs6ikn7JEzxI3UqH5Oo1eMX+Q7Y5/7AcIy496WykZLZFd/WpZ1OpIuhnBpZo8zUs0zM8yK1z78bbw1pqgblT1bs/4nanfCBZFcpXszXGozs+zcgzFlBmilRtNJeaApF+TrCvWml41PKsOLpsC4Y2wml3Jpo4HoJevVKC5bD5NxAmphH5/Y85evPMhmDMeMHa8i1me1ROOiF4BL7RstiXjF7Mxwz0zDBivbdoZLR0Jehk1UypaYgncSuD4dO7gb/7BbZm8I9lC4BLRFFcqlDkWLRUC/bgtWpwTNP/3yWAXZyIMM7b808sA6kikdQkQ1rCahCWbsPbpZmRgWVYKfjOWI71bt6muMEv4WgQlaZm5k+buwAjaZ19R/TLEzS9Ds54vCfGdocUvLO6V/sUTepZFQojdu+Dsr2eZ32aY8P+FNdS/HkWh5B/tPhWu2ZG2bNnBLf//FfsJHPcf7NX8mrtNzZw5lUA3xd61TpnGu45bE1BUfh083ZPjAVbm9s8APMbIzXWod+YjBO8bR3m3UoGnKAEefuyeUH5MCxwmb8Qjixd1qRI80yhihTIeQfzxkyNJFRXYGURyLk7cbrGkaUhny311syOAF5m/v6d4Ho="
+    },
+    "name": "Flawless Amber Gemstone",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWLESS_AMBER_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWLESS_AMBER_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

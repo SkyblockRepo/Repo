@@ -1,0 +1,32 @@
+{
+  "internalId": "OBSIDIAN_GENERATOR_12",
+  "name": "Obsidian Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining obsidian!\n&7Requires an open area to place\n&7obsidian. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a21s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OBSIDIAN_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDY1NjM1NDEzMCwKICAicHJvZmlsZUlkIiA6ICI2MTZiODhkNDMwNzM0ZTM3OWM3NDc1ODdlZTJkNzlmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfX25vdGFodW1hbl9fIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4MGMyNDE1Nzg3ZWYwNmM1YWVlNmRmMWQ2MGI5MTI4M2NiZjAyZGMyMmM0OGE3Y2QyOGU2NTJiNDVmMjFkMzIiCiAgICB9CiAgfQp9",
+      "signature": "CDFmeU7+ZFXh2YZW0de3+JkfTL/WVzdFJl321y10kQUeNoOh8liNY8pfLQ2EzFsiuJ87NyqHnV3Kek/oCVFTLdJnFB2cO592HOTmb7DeYleovCxiMkoHXcp4bW/FEnqcnWEJOoVjx+PzuBQJwxd1LejRYHsu+vk133PIkUcI12gvoKKdrmlNoUkK71vk+tjKq++Df5QiUMY21eLyOxjedyhSAGmnMDeI1gOmdC+nd6Nw/FBT+aEwmYt0/NZOHgwaoA7m+a3cMi9wxf88JmhCWJZKjuTqAZQzoQXB3s9R/5xWaoYFcZFc47Bgcfl/rxpFxEIoy3nDnn0j47d1ChEP9qGEq6U/zFO22xbCSw5R+Cap3Ecbuq4RZEc8ph+Zezi/Lsh13LzV54+JXf+01Rwuy5y/KAMvC/2CgcElhjZJetC9dNzRezg9DQSmFnr6E7V5igjTEQPlNXz49e1jYvY9e6s0yVi+8P2mSk/ZDWaSq9dAHylue13TGFcgxzjiRcSXcYYCGGeC9iX2ks/racEAOea7ofWVxI9WPUNzl6WoYBdd20tFUmzBydroG7L3KNa9pRzMMEHUZRD0xv6RMFj2Ha1DXvccZO3Gbj5JpsrwYel+LYfAoF4hUH+UHXkSiEKAWVBS0ovk9N/kjsThSwoQ56PY+gtyfbNQf/ehN2uixfM="
+    },
+    "name": "Obsidian Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "OBSIDIAN"
+  },
+  "recipes": []
+}

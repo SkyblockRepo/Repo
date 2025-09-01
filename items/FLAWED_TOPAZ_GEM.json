@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_TOPAZ_GEM",
+  "name": "Flawed Topaz Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of &eTopaz&7,\n&7but it could still use some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&5✧ Pristine&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWED_TOPAZ_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjM4MDM3MywKICAicHJvZmlsZUlkIiA6ICJmMGIzYmRkMjEwNDg0Y2VlYjZhNTQyYmZiOGEyNTdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbm9uaW1ZVFQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjYzOTI3NzNkMTE0YmUzMGFlYjNjMDljOTBjYmU2OTFmZmVhY2ViMzk5YjUzMGZlNmZiNTNkZGMwY2VkMzcxNCIKICAgIH0KICB9Cn0=",
+      "signature": "kaI7OwQuBZoE0Cj5AkenY4x+cgBCx/qUG5DWrcFnqgWH6/dUWu0WqIkJClAaXiP7GL8V6BXRwZ7/tQXiMQMO6kAaQX7ysJwxaQsYqqeiuvST6S2l5y2kNcOCsR9cxSCAIPU50F142taO7GYONe6IrFOPAx+4z3YmVh64X0rX+1g/dugg+nvx7OHYQgzqFmQw13QQQZuTioqQaOBDYupVcVC6H/Mf6NhzEfLUQl+iTEmc0JUaLl31yCfo1k8nPYjtjK6g0TkLNbwVsQ6nYk1uV2hGcLT6ov3vtxGZACGAy/bOfHYXnY1PaCs1Oex9YgAi3wL+QBhgU4bJ40tvFR1RDlTwlnoWMHO0CoUEL8vaDiEIOmmLBU8chaw+VxrOvzP41W7uuii9EW6paC7EL6FCWXzD7Vw38a+oKLK5LmuqVx9y3AONOzl5heqlFXwzwGLhbAxn2ufEpyXmNXprvbuFt9/bPv4HRgmq8NRGlhb+E4j1gRZwYWJjOKSuVIj5NHWi80x368xixzaMDqONudynWWBruhBiIdZhB1O/FA08VQyXJsGOf1hxiW4jIw/T9+OjXEF5zUL0JftI6+ZYNwSG49MKf2omff0/FjkmqJIFcYehJM5ufP+yFpq+AHT4wBTR25bkRVts+8G9Gaso4itCDImhthQd5BAG+DqlmH5Xa8E="
+    },
+    "name": "Flawed Topaz Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_TOPAZ_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_TOPAZ_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_TOPAZ_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "internalId": "WITCH_MASK",
+  "name": "Witch Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+66\n&7Defense: &a+111\n\n&6Ability: Bat Swarm \n&7Summons two bats that will follow you\n&7and attack nearby enemies, dealing\n&7&c4,000 &7damage upon exploding. Your\n&7bats will not spawn on your island.\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WITCH_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjU3NTQxMiwKICAicHJvZmlsZUlkIiA6ICI2Mjk5YzhlYzkxM2I0MzMyYjZiMDJhOTFmNDk2MzJhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIaW5hTGluayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMWM4YmY0NDYwOTJlMjc5ZTJjOWZlM2JjOGQwMmU5YzZjNDNlMWU0MGRlNTZmNTFhYWYxYzRmZDQ0MDAzNzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "xODnQtl7uKTAi53zHa+3/q8iI9FbkmSYjOHVNvhjudtdYkhixDB7CSq7AGTIim1sorS2SlJDU1Dw/l91M64gsAkMtomLHDm9dQfb3mr4MVHxREAV/fjI0B0amInnnax1MUCY7xsAv+jVvqn4GQXJkz6Pc78HPBsGEtyCgr+Zf3P/t015bKHl4x1WvddkaWhqZgiddYZyGLjUGXfFH2Ai4ONh0+Tp9Q+mo6f+2v039WVkDGKIV2qPkJ5aeonMBcIE3aAzXlDv3pTNMnQj6XtAyvUJhD5rBW8fcLBCGxcqClpmX5vh56/j7oxMsjlvb+VfErjTEVK8vGV4sgkM5tox/E88fEuONE4LY8xNoWmuhVbniBBJNXLiknI59USgCpp+Y2jYsv2ZS12H6xs8ChCyGyUAw7GjjvQdvAKpeI2TvfEWUnMsnopLcUFjHZVcPProhO2qP7FN/LeaemXIPQ6UHsQiaWNi+nOcXMQ8r/zMw54GkQLfUKmi7UFBCH1ydluu8kue094JKIMS327pcchogZYGH88L0hpw0pL2iN58Rg8Nb2c75WIitohJK0niYjCcuQneyqXSLl0e8O3m+LSZt3kr9JVUYsNyHwjdjyZVZQZ5j/vUTJwj4/95ev8kGrYPLayk0zKPGtGXlCOSbdFDY88OG6jV8w2ZvQm9h7P1vuo="
+    },
+    "name": "Witch Mask",
+    "category": "HELMET",
+    "tier": "RARE",
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "WITCH_MASK": "VAMPIRE_WITCH_MASK"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 66,
+      "DEFENSE": 111,
+      "WEAPON_ABILITY_DAMAGE": 4000
+    },
+    "has_uuid": true
+  },
+  "recipes": []
+}

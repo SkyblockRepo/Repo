@@ -1,0 +1,82 @@
+{
+  "internalId": "MEDIUM_SCAFFOLDING",
+  "name": "Medium Scaffolding",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&6Ability: Climb!  &e&lRIGHT CLICK&r\n&7Each click allows you to climb &a3&7 blocks, up to &a9&7.\n&7\n&7&7Jumping out will delete the scaffolding.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_SCAFFOLDING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxODkwMzgzMjY1MiwKICAicHJvZmlsZUlkIiA6ICI5ZDE1OGM1YjNiN2U0ZGNlOWU0OTA5MTdjNmJlYmM5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbm9uX1NTIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I5NzJlNTc3YjBhZjQ3OGEzNjQzZTVjYWUzNDMwN2NlNmE4OTkyMDM1MDY5ZTAyOWFmZGI5MzEyZTcyZjY2YjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "DfXfbXglBmjoa0vDG3MD8uS2tk063Ez72fak8gocQ1/VTIfGy8KX0qHxYTplzsLa9RmRZqjtT7Y4biJUDUXsSWupcQRW8j8sXvCAqPRhSjHvFsl5esJkFbckzaaQSLrkkXTnhwWObA3oYaasQzjgDDXAg/lOxSZdBXXZ5aA1Q3NkkKRwGzleow6oPiTbyxZd9OrJqpcAwuQfJE03Gbi//GBNUMLUBp+YjgXX6002c36pBG8E8bV4uww54uaOZJLitLAxNuqT6g5pwmlhQxFeYtD6kkBoUkLTY9WOBK5ICgFBtU2Xf00frJa2dZco5aazoa9zqPmN/UZy2LsO9qVJswsk9lXC651eeqveDC8gscvHyPWUbzferd2EtMqKqgp0jB/HswmXKDzkZE2UNiydgeDEM3RFr0NHG7Pcq+n08FxwcIgVlaRmi/XiA/Gsf5hHpyvPf7mt29KfWfs8x8iTBq5d1tG9Kucpgmk53r82/I8jxjdR70oifLZpb4O+x1ezjcPDmPGCxcmx3ijYGow1+mvgAfHeJs3p63NrTRwhDRlMawMWpfrhWszD2u3Bf7eXWvgd3N7cJ80/dlHN2c7t7YYmpfDaLr36HRJV2MN5vXQQmHdYE8OTKPTr+d771TvdLX2Sm/Dtbk4z1nm3rR0sCzc3wONlbB3YHYoa90DR/uI="
+    },
+    "name": "Medium Scaffolding",
+    "tier": "RARE",
+    "npc_sell_price": 1000,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "MEDIUM_SCAFFOLDING": "LARGE_SCAFFOLDING"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "item_model": "minecraft:scaffolding"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_SCAFFOLDING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "TINY_SCAFFOLDING",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "internalId": "ATOMSPLIT_KATANA",
+  "name": "Atomsplit Katana",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+305\n&7Strength: &c+100\n&7Crit Damage: &c+50%\n&7Intelligence: &a+300\n&7 &8[&8❁&8] &8[&8✎&8] &8[&8✎&8]\n\n&7Deal &a+300% &7damage to Endermen&7.\n&7&7Receive &a12% &7less damage from\n&7Endermen&7 when held.\n&7&7Gain &3+45☯ Combat Wisdom&7 against\n&7Endermen.\n\n&6Ability: Soulcry  &e&lRIGHT CLICK&r\n&7Gain &c+400⫽ Ferocity &7against Endermen for &a4s\n&7&8Soulflow Cost: &32\n&8Mana Cost: &3200\n&8Cooldown: &a4s\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Enderman Slayer 6&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ATOMSPLIT_KATANA",
+    "material": "DIAMOND_SWORD",
+    "name": "Atomsplit Katana",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 40
+          }
+        ]
+      },
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "enderman"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 305,
+      "STRENGTH": 100,
+      "INTELLIGENCE": 300,
+      "CRITICAL_DAMAGE": 50
+    },
+    "sword_type": "KATANA"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ATOMSPLIT_KATANA",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "NULL_BLADE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "NULL_BLADE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "VORPAL_KATANA",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

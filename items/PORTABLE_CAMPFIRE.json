@@ -1,0 +1,43 @@
+{
+  "internalId": "PORTABLE_CAMPFIRE",
+  "name": "Portable Campfire",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7Can be placed down in the &bGlacite\n&bTunnels&7.\n\n&7Interacting with a campfire belonging\n&7to you or another player will reduce\n&7your &b❄ Cold &7by &a50&7.\n\n&7Each campfire can only be\n&7interacted with once, and you can\n&7only place one campfire every &a5\n&aminutes&7.\n\n&7&cConsumed on use!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PORTABLE_CAMPFIRE",
+    "material": "FURNACE",
+    "name": "Portable Campfire",
+    "tier": "RARE",
+    "npc_sell_price": 200
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PORTABLE_CAMPFIRE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_UMBER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MATCH_STICKS",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

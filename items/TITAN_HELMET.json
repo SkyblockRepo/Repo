@@ -1,0 +1,38 @@
+{
+  "internalId": "TITAN_HELMET",
+  "name": "Titan's Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "&7Strength: &c+10\n&7Health: &a+150\n&7Defense: &a+100\n&7Intelligence: &a+50\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITAN_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MTI0MzQ0MjIzODEsInByb2ZpbGVJZCI6IjA2MzU0OGY3Y2JkMzQ1ZTJiZDBiYTZmNGE2OGJhMTg2IiwicHJvZmlsZU5hbWUiOiJHb2dldGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlODZlMGIyOTNkZWY1YzI1NzMzODQzYmJlNjc3OWNjZGE3NzU5MGUxMzIyNGEyZGI2Mjc2YWQ4MjNlZDU1ZSJ9fX0=",
+      "signature": "dyGUKJ/m5xOXvtxeHepXzsalG2qFCOgFPc0nU6untLwNMvkwXJ3L3iOis3HEdKMM0Y81/ASATYysLjekSq9tZnJ4Im83YhJdn/GsgUpExqK8zOQXYDNwGsXl2yymONdWcFpQ9LFoeIu8fzo5Lf/H35dmgY77VeeJhy+u8MgVXYncYs2ydq9VyrptMwPShwYb6S7hJclywZIZlNjpitkSoLCMalHVb2fkBbss81z6dzsJtjS6k9CyJlTJrqoXAyktV326CEYgaolxE9vvnsCpYhbzDdkGX4GXRVIFP1xYxV7/VvyUAKENu4vvrU9Z/AvSvzEJXBjTGYxx9DWur5XEmv2NxE/IQvLCKOkSAupXYDLFuKUxjh7nEUJ2wakaJJv+R67PoNZCs362gU/GgfpEIM8/KXlOMFKDV4H3EE5NxVY+1RtnMK2GUSeh5mVltffTdyAr7A2FpoLjuBlswiUpGQDrOPngJNvu+q99T5Myl4BxdpmDK/n6UxmzrsBNClXc/NNVEXd04IWNFq/Ocya7fpJ/k8eI2odlPaLLquRm5xDZYw7Zu/ph5wBY1l45CHTIZwksYp4wm18BHIQlqQCYcLqOfe6Q2MitAB2YdKWCEro1N7hjaNd+vIxtVQCy5ji+hgQ0P0AAPFNMyev4FXyQ0VLzSFfejDwdqxp+mvfww8o="
+    },
+    "name": "Titan's Helmet",
+    "category": "HELMET",
+    "tier": "UNOBTAINABLE",
+    "npc_sell_price": 50000,
+    "stats": {
+      "HEALTH": 150,
+      "DEFENSE": 100,
+      "STRENGTH": 10,
+      "INTELLIGENCE": 50
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "WITHER_BLOOD",
+  "name": "Wither Blood",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Withered &7reforge when\n&7combined with a melee weapon&7.\n\n&9Withered &7(&6Legendary&7):\n&7Strength: &c+135\n\n&9Withered Bonus\n&7Grants &a+1 &c❁ Strength &7per\n&7&cCatacombs &7level.\n\n&7Requires &aMining Skill Level XXX&7!\n\n&5&lEPIC REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WITHER_BLOOD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTU0MzQ1NTU3OCwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQyMGUwNjAwMTc0ZGNiYWI3NzQ1ZDk0NDgzMmZiMjA2M2MyYmQxNDkwYzY1MDU5MDFiMjhiZmFhY2Q4ZTUiCiAgICB9CiAgfQp9",
+      "signature": "qk6hW5mnB7KO/6kQfPQFzzSvMjkAgNFxi8tERewXMDCa2dcfNxrGY0uKnpmES7odK8b2tCnzK8xtxkGmXrK66Z60+TmKtR3QK3ZODxnvpaL22L2IanutpcYREPjnRkhFxX0PTF3RhQAYQnPge4LtMa3xgJC55K8ZYLGnkNloHrnRy6HqEiioLktYcnlDo8cybUhAE16FRnBlrUlgj3DOEbn252hIPEU+KspyZMdLSmEZgy2oi53++FZjk+CmMEaen2HFyrRSScF3SmmSaAvESKnq14PwNG2oD98jevzuN7diuqYDMPUYir9NFY/U3+MZTBp6hknLRdlApjfGJxm2gncmXsqoMpzuYmKJ/N14GKHr8F/71LKG6xDLic6HGS0Zq6TEBkpNQ7CH01HT/j3nFNGidKvfieLnaC3DFWpWhL0eeq+thhVhWUOpIMUZIgZwQXb5twTtzaXMFo8K9393jkfPwz3gluSIpKv1WNlsXp+giJx5MiIyOWnfgDfZfxiT7Q2q4ZifS5VF1IESEZM0lkth5X1V7caZeT6P5h1LwistSFEiOTJbUWD9fucvvMjuSYnVG+PC8eDaeeRzi+GYUAZBnZAxbgZqwp+tv9R3Yyz6ItqyMjZzF1BfMsl6TxKLXzeFaYlyFCRwMfB7mpt//JnZAzy+nhHoGd8QoS0Wc3o="
+    },
+    "name": "Wither Blood",
+    "category": "REFORGE_STONE",
+    "tier": "EPIC",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

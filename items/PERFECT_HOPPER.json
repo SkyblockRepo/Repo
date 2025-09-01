@@ -1,0 +1,27 @@
+{
+  "internalId": "PERFECT_HOPPER",
+  "name": "Perfect Hopper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500000,
+  "lore": "&7This item can be placed inside any\n&7minion. Automatically sells generated\n&7items when the minion has no space.\n&7Items are sold for &a100% &7of their\n&7selling price.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERFECT_HOPPER",
+    "material": "HOPPER",
+    "name": "Perfect Hopper",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 500000
+  },
+  "recipes": []
+}

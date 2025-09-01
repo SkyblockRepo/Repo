@@ -1,0 +1,32 @@
+{
+  "internalId": "SPECKLED_TEACUP",
+  "name": "Speckled Teacup",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&8Quest Item\n\n&7A garish ornament that is oddly\n&7beloved by &6Brynmor&7, owner of the\n&7&2Dwarven Tavern&7. If you return it to\n&7him, he will give you his &9Abiphone\n&9Contact&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPECKLED_TEACUP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczNjg5MTUyOTk5MCwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1OTA4ZWNmNGVkM2FiNjNmYmExZWNlZGUwM2Q3YTBkZDU4YjUzYWMyZTIwNjgxMjU1MjE5NjA5ZjJkYWM5NGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "siTzlJnSqQM++KpEa++n6XgYdeakdciXXHl8GS7rWfGiWSo5jX1KbVlvKxOBbN+PAhaKzZ6tc3Gm+G4Dzg2v6FaCRA4jVvLnqFYfxB7812oKFZiHO7H4EAOZI/31wMQzXHI0fW0bMKUhWp3uajRss2qLASN1oZAzCjUD+q7k/AA/c071XcxTpTVGxBF8Tgk3txQqgjCUldZgGcgYn10hKdim71lVmPltVUbqerppy0VgtpaQ7gmsNCYSyHYUEeN1XYAGu5XhnX7sg78v+gi9fCahmKNEEgZh0N7oWvAsYIq+GsZeG0UZTQ2JvobLj2nyuRuBp4EVXi/qU6lkqgD8Y+5JXxi+9Qs/Q+VS3lxRHw9HEujsoIzPLn8OkKxweMhaI/ofANV40YsoGrU/EuRMrgkEqvpNTTtRgGULK45Ma5nOb73UZS4C4V05VqSIlmYrDI3Z8Ta1Cc98qyEO+n8UiLuY5SNy2YYy5n7q1YofQ8w1TXdpv9qdl+L1J4f7fY0x+pr1UuD6HrlSsjAXbmn2lTe0AmZ3KSuErg0xFlrab4CmY1VhZUt3OT3spxalv/gth8smFqAikk/bDqJcS4a7FP1DoFixMs0OfjsTku1vMKdHmFGn/Hwz/mlCcinPl0xkBh0n8W6jv7V5cRoRKdbTMjeAJZdGQnRmMRmAqSy3KkQ="
+    },
+    "name": "Speckled Teacup",
+    "tier": "SPECIAL",
+    "npc_sell_price": 100000,
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

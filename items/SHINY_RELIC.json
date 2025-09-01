@@ -1,0 +1,33 @@
+{
+  "internalId": "SHINY_RELIC",
+  "name": "Shiny Relic",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A perfect replica of the Shiny Relic\n&7deposited on the Blood God Shrine\n&7following the Dante fight.\n\n&bExceedingly rare item!\n\n&7Found by: &cUnknown\n&7Date: &e2021-04-17\n\n&c&lSPECIAL MEMENTO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHINY_RELIC",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQyMTE2NTc2MiwKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMmRjNjE4ZTM5NmY5NmIwZmY3YmI1MDEzNWUzY2IwMGI3MWYwZDYyZjM5MmVjYjBmODI3MzJjZTMzOWYxMDIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Rm/JEnGuXCsYlmOn/3wCJrf27WhMIqjqSjRXHN1Vmx/xVnVbWiwj2LKxEoQvGlmQup3EB6ha+gKh0Gw0Fj4AOhbu2oxB/vq5cdQOnzSxBGMhwg3hESDDIQ40zkkttxVuWnpsTzbwTZFNak9ydnrImfs/g9l4qlcS2moCIvbhXTZA9tUP11uymOgJftUqFmK1eB7jlWuPMQVlAe66qvQ3sKPnzzd8AnPesjpyQRrXiG7/wMHhsBNWdVZxdJO7i8POvsI7YTLFksj2uYjEa2NBhPbX6ekijmrCLxcUPw4l49AISiGsRlHkVs6rSK6tZh4Fm6eAz2/Dq3OeCIs2J4x2WkIJKCoVUw3X40OpXOsz9Xqc1cFUBiK2w/RLQ0/Knkut44Zua+klaQPwmzjiyrMQLjLf6mnlC0+JtO/QaIOPTb2gwMy7wRnUASESX3vuz4UcAgdnwROkCmwFTNRmQef/lWJbujL5ItLWEBshKWuYCAFjjWuzmB/Qc8dGgwc1Oax/hlwkECjn2i6qw1aL9uPy92RWDZRWZMm1ayAK9DSpkYw8IswaBFxX6ITFnrAJ6iOHnPApooIfUxk6xdNmsMzb9JCxSd4hb5Zu/gdk4pGOT/hE+5F5E6hAyJycrt+uh+oGB28597ubd955JJhCqs9Qu+ZgAfnYup0fdli2tTJAkME="
+    },
+    "name": "Shiny Relic",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

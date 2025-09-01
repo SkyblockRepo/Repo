@@ -1,0 +1,162 @@
+{
+  "internalId": "HOLY_DRAGON_BOOTS",
+  "name": "Holy Dragon Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Health: &a+100\n&7Defense: &a+90\n&7Mending: &a+10\n&7 &8[&8❤&8]\n\n&6Full Set Bonus: Holy Blood &7(0/4)\n&7Grants &c+200❣ Health Regen &7to you\n&7and all players within &a10 &7blocks.\n&8Effect only applies once!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOLY_DRAGON_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "71,209,71",
+    "name": "Holy Dragon Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "HOLY_DRAGON": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 100,
+      "DEFENSE": 90,
+      "mending": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 35
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 150
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 10
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOLY_DRAGON_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "HOLY_DRAGON_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

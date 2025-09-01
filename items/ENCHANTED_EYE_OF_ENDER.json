@@ -1,0 +1,85 @@
+{
+  "internalId": "ENCHANTED_EYE_OF_ENDER",
+  "name": "Enchanted Eye of Ender",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3520,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_EYE_OF_ENDER",
+    "material": "EYE_OF_ENDER",
+    "name": "Enchanted Eye of Ender",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 3520,
+    "can_interact": false
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_EYE_OF_ENDER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_EYE_OF_ENDER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "BLAZE_POWDER",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

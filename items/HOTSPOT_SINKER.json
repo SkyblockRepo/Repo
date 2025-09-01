@@ -1,0 +1,66 @@
+{
+  "internalId": "HOTSPOT_SINKER",
+  "name": "Hotspot Sinker",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Increases the bonuses of &dFishing\n&dHotspots &7by &a100%&7.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Sinker &7to a\n&7Fishing Rod.\n\n&7&4❣ &cRequires &aFishing Skill 20&c.\n&9&lRARE ROD PART&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOTSPOT_SINKER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTg4ODYxNDE0NiwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4ODkxZDMzYjU1ZGQxNTcyODE0NTI3YjljMDI3ZWM3MjQ5MDljMjYyODFhMTk3ZDAzMDlmYmZhOTI1Y2JjZTQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "yNUv5Uod7d6H68ybWieZHbUklBXJViRLK9UtqZ2QQBjsM4wvsdloytwWFiGVptmXRXZ2Igt4PaCXaOmgga2j7WVerA8bwsQjqqDfn7CzWuiUKQDq/UDpoFW/6zuafp3AhKROW0ybpuG7upHf4yQvmy2SZ1EoFI+UYWDyAEhV050VTTE7bOixZVNiPIPGhn28ppBYAZIVTTc5F3Mi7Y+iH0+mHxZSHoswXl4MhBuLOR13m4voE6XQ5gxKeZ2KFN9OA4VXVHPNoIouHIS1Xuoy+NTOVoWOfdSsN0uWmfNXOkF4SXZdiNou918SKYyPjhBueLrzN3zEmhqDrhojmIsMXmBoTednahC+hQmrZn0mVj7ag8CrHUARjkcdhQbUQRv3Oe/ZuZlacOcQE4d4h+YVhEkBfe8gFupPqZn7KtDDbtqfPJAnGLhtz5OEuz3Oi94P1oUM6R6VqZh5EKpJsBEwDMoMClwTLLdkDjTkCkxmGonxhBHxN2ZBjPs8opVQ+lIr552y6VZ5POynSqFhLCDmsy5+XKQ+VxZjMlKc1ENthbemruX/BvjGNw5ahnOnbXrtU8BYPJNmPv9Cg/5VExTOYW2UnUtHHyZpQsyOl32PRr5LUR2SjbTc0xvmpgvakRJIboKqw6c9PmRRuaqzj6XAiFniPtAXd+TbiHkhSDUJEfY="
+    },
+    "name": "Hotspot Sinker",
+    "category": "FISHING_ROD_PART",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 20
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOTSPOT_SINKER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "BROKEN_RADAR",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "SINGED_POWDER",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "internalId": "ARACHNE_CLOAK",
+  "name": "Arachne's Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Health: &a+10\n&7Defense: &a+5\n\n&8Tiered Bonus: Arachne's Faithful (0/8)\n&7Grants &c+5❤ Health &7and &a+5❈ Defense&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE CLOAK&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARACHNE_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzkxOTcyMDQzMywKICAicHJvZmlsZUlkIiA6ICJhODUxNzQ0MDNlNjg0MDgwYWNkODU3MzhlMjI5NGNhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYVJpdmVyc09uZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZWYwOTU0OTUyODAwOWFlNTM1YTU4NjA2NGYwNjMxMmZkZjQxNWRhMjZmYzM4Y2EyY2Q0NzczODg3OTQ3ZWRkIgogICAgfQogIH0KfQ==",
+      "signature": "fXR5AZuWSpIxVv6NucNYn/8TQ9nermxpgIc8z8hN/LbxZbda1DZaQOCWM+nUeJo81EtkKhjwIGYvqEwOt2Gs2tTO+9lFWRIl+ekMXBulWiCvd7wQVAHtXJ9ThWc3OUSEygvkV9fqN2P77Sn4P4EGxH0zxauprfYpPOWd0WUq0lMIHkdNP/M8fhy5kaJy5kdF4Q84PxG7OuPOIfm5xQBl+0HP0G9XZo5U7LJzVvtMpIrWsxTebSx7GSEmuPDmUEvASGRKLcqtnxphDLzr38lvrQfzZkuYrsQVUma8dCq3k/e/Q9gnBlZb4QPUDbisCetYWGVyAHk0sYAfBZh7SFB3ASVP0cTrXGWINUy+iLuF/b3tVVDduyyNM7qdJ7s5gLfkCCBfgov50H0ig5gYelB9GW4ru66qop+huy5iIbIHunWX2rRTqnYRqyRnw8/kahafttFAuPYYz30z7cwHDBVI5/kVnJeMGVlYgm5PzUu/xFeGQViv/zSv0HegSlwP+AH6zHpufp6Tg+MAHryMXIKJ8fzRZ241Gs56l9QQcjrrXP7/NIcCa9qRy9nweNkALPE1K50AF8On4Mj65hPAAARN27RYj+RD7fWa9Devu8aCmd4EiVDMrDvuEEvxZmFLMcHb9i04o/x6iXhmRBJYJ06RrmpTvI8tLPqpUomanSJcC0A="
+    },
+    "name": "Arachne's Cloak",
+    "category": "CLOAK",
+    "tier": "RARE",
+    "npc_sell_price": 2000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ARACHNE": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 10,
+      "defense": 5
+    },
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 5,
+        "essence_type": "SPIDER"
+      }
+    ],
+    "soulbound": "COOP",
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

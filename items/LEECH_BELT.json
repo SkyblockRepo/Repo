@@ -1,0 +1,82 @@
+{
+  "internalId": "LEECH_BELT",
+  "name": "Leech Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+80s\n&7Intelligence: &a+5\n&7Speed: &a+3\n\n&7Monster melee attacks reduce &a1 &7less\n&7&aф Rift Time&7.\n\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LEECH_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ4MDI2MzM0MSwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmE2MzBhNzcwMzU2OTBlNjU1ZTY0ZTRhZDMwMTNkMzJmZTdhNGNiZTQzYzVmY2FiYTY0M2QxZjI2YjdhMDkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "Zla7FhL5IVWaNkj0/+F86uGWUx3ccmL0ZT3o9+XcuXnX7jMLcztMElRXvTRW8vjHdTjazUxLHT7HQAdNGjD+Z8Bc/aRE7YTKSE7eMD39bVJ+7yevW7+6Aq74uws1M8k+VknolKtnp5lQT8+EsoyCccWxnda2bz6iz9n50OatsR1K+ysyLClQ/WrBd5G44rxzuWA3yMOsakxkuffcG1mgfGCNjp7uGIhgyw09SlAAEBtBDPYeK/h1p0eWwJkjr5Hq7ajJrTjz7dQeMU+uNIApdPAf/3g4DnSwsIjppqGhd0pH48USBw93v7jqxHUc4vRUx8J/KTsxjmo0QFnjZvFFgstvJIgDFHuYSu7/M/orai9xDs1qslj9beesT7QbgaktZiKHqGOam4BTaDYs0aSB2OtU+vrCFblc9rP7JJFBGsOAG8a6UjHEfI7++7I1rwzKkm6bWZKe6ulGid7tz9WnwdhNNewOfAyz+NjIYRze3MlTi+DLt/0Bh7VQLGpulSbZhriryhAII0fFsrgDBpddsgwId1AlpgBzDRWXlYMCY0aLGWx4DLF5vcBG0G4E9cKETeqDo1b7MuHD/ux5IbeKPgp4mHAuFXBgUHU5pfcHeLrKvbuIt43TWewvjcKygdMKZR2qSLjPN0ZpBwypyut9FHGQQia5TvZENn7RrxsnynE="
+    },
+    "name": "Leech Belt",
+    "category": "BELT",
+    "tier": "RARE",
+    "stats": {
+      "RIFT_TIME": 80,
+      "rift_walk_speed": 3,
+      "rift_intelligence": 5
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LEECH_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SILKRIDER_SAFETY_BELT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

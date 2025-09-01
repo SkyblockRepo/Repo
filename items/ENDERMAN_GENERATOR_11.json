@@ -1,0 +1,77 @@
+{
+  "internalId": "ENDERMAN_GENERATOR_11",
+  "name": "Enderman Minion XI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Endermen!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a18s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDERMAN_GENERATOR_11",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzU4NTQwMTUsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2OTA2ZDdmMzRhZjY5YTc5N2RkZjViNWE1YjFjNDI4Zjc3Mjg0NDUxYzY3ZTc4OGNhZjA4MDcwZTMwMDhhZCJ9fX0=",
+      "signature": "vmmPMVS9/TgD8C4mIKUF7ESYMaA5Yr4S6C8VL7QFJmFAZiIyYV0xJ29tKViGTXvhsArSGpFmtjXJCCgoJ4MfQWChFy0RZp1pUuxJNEb5kOLD4e/f5oASBgGqurIWKU+FWt36bwmwbWUmDSyl7gG4xbRHPwE5lr6mQ5xf4HonUZC7gTges/SocoQ52WucPYT3Yi/3PkywZHUkT68voOEdsAAePlY4KOC+Hy/5SM8L4oPjWjAeXBbmmtZ0aY3mOVrLPZG3Sm0euqbDFIxrxeNX61cZsWJxxmR9Gp9UQmlWArR6UrqHuX1+y/vnzJeVA0ahm1cW8DazwljEiapRQ1hyJI0H8/sUuv/4j8UC8SwE6Q8s/eFaap6KTAxzhzMcoDh+4x1gurRaMXpD7m8GTcyxM94qM5y8XqUMNuOhFcZqaONIet+mYJHH/xu1Es6YMoZ5YH713rkvyCCYIcF9LG+9R59FnCGoGbV02o84BtvxTlyMPrs+86iVGx81RU1j/TUv1N1QTJMYtvaHCNCfS6ycEMEPgFJt93Ku9k3WEjN7pzMDGlzTZo/fnrYknZg/kaoXl4lqJDkkrtfSBWffy+gyTLOXqMIFDk1q/bYzQ4+5dJlbVNJWKLnaPt+rNeaceZCf+EWop6bJxI65ISuUPul3JLH1JiT62fC559GN1Io3ulQ="
+    },
+    "name": "Enderman Minion XI",
+    "tier": "RARE",
+    "generator_tier": 11,
+    "generator": "ENDERMAN"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENDERMAN_GENERATOR_11",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "2": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "3": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "4": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "ENDERMAN_GENERATOR_10",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "8": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "9": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "internalId": "TITANIUM_DRILL_ENGINE",
+  "name": "Titanium-Plated Drill Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 103000,
+  "lore": "&8Drill Part\n\n&7&6+150⸕ Mining Speed\n&7&6+15☘ Mining Fortune\n\n&7Put this item in the &6Drill Engine &7slot\n&7of a Drill at a &2Drill Mechanic&7!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITANIUM_DRILL_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzNjAyNzQzOCwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjkwNTE0ODVlMTU3MDA0MTgwMjJlMzhhNWRiMjhhMDQ5YTJlNjI3YzVmZmE1NmZkMzEzYmNkZWFkNDA2YThlIgogICAgfQogIH0KfQ==",
+      "signature": "O4Jmv1JiXuQIXnHo5cRoIwppUmK+lMhyXsrAfdjAaVx4GSna+/7OSoJ4UJ1Wx+CfFBv806hScJp2iiIi5sA2u95ln48U02/J8PAWSBZsLVjfIAqAQmrqa46kf09u/1qY5Cg2T2n08IGjDMY0g/SRaKBB0pJNxP1NyxetOYM8tuERyr+ce/9/jJz2UYPvWcjnRxVYBgTL/NZi3/tgvQy6utNdxDXSWqnLtdnsanBRysbE4cMNZv3MTMru9cvxhGV67gZ0lY3t3QGEQh/syZkBJIUiV1DEImVbWOJu4ql6s1g5MkgIswG3NnFHAhqTQZNfg/VljS46EUbF2s7ORxzQDetSvaA2XufNpEXjrjaAk4G5TtrIUnBYLVeQJ/uC1jKb7pPRRWewb9NGH8xV+XQkurNWjf85sFpWkD+i2TQNqV/DOGgZRnL79JLhpvyKthYZhILdKXB6XD9zuD53JKnDOWtIt7axoaBw2T0LSX0B8BjQngV0mCwR7xVAyUNGSRO/Wmu+zKDhvlugOCq2yWwXdKvEq5PhsC1g2u++n2i8fsdXMWbaJQ3wuWF1nbjuw6v2xgEX/YzyZZDZMWYUNs46atgSYlFp763f/JPK3F6Vp1lwpd/UBYe7++E4dtM0db6PH0NoXA0z7923FLe1pm3lGxeI5xUlRBEzYNXkglLeDcY="
+    },
+    "name": "Titanium-Plated Drill Engine",
+    "tier": "RARE",
+    "npc_sell_price": 103000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TITANIUM_DRILL_ENGINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MITHRIL_DRILL_ENGINE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "DRILL_ENGINE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

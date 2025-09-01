@@ -1,0 +1,210 @@
+{
+  "internalId": "HOT_FERVOR_HELMET",
+  "name": "Hot Fervor Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+227\n&7Defense: &a+126\n&7Intelligence: &a+19\n&7True Defense: &a+6\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Fervor (0/4)\n&7&7Every &a1.5s&7, attacking a mob grants &c1&7 stack of\n&7&6҉ Fervor&7. &8Lose 1 stack after 4s of not gaining\n&8a stack.\n&7 \n&6Ability: Ground Pound &e&lSNEAK&r\n&7&7At &c10&7 stacks, sneak to reset your stacks and\n&7perform a &cGround Pound&7 dealing damage to\n&7mobs within &a7&7 blocks. &8(Damage scales with your\n&8EHP).\n&7 \n&6Full Set Bonus: Intimidate &7(0/4)\n&7Attacking a mob has a &c50%&7 chance to direct\n&7aggro from 3 mobs to you.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 27&c.\n&7&4❣ &cRequires Kuudra Hot Tier Completion&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOT_FERVOR_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDMwMzExNSwKICAicHJvZmlsZUlkIiA6ICI0OTVlYTMyM2E0N2U0ODk0OWRjZmJmNDQxZmFhODM4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb29sZVZlbnQxNjgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAzMGMzMjE3YTJhYzA3MGU0MDRjZjhjMjFlYWZiYTNhMGY2YjU3OWRiZjRlYzlmZGMxNjMzYWQyMTgwY2YyOCIKICAgIH0KICB9Cn0=",
+      "signature": "EE2L+j0x8QVOQSnmpGkjTt4kO4G8L9qujkOyY/zp+njd8/UeRTJs8XZI6zVtI81GX1lwNL8eVMPykXC3iFQziQZ73DTk9Jxg5dcmHxem/FZLR2x8TDIzaOugAHo3mkGcYc51rHC7R6Nh24eKIXvl9VfgCSZLC0H3RTdpacMMTc689BeSmqUcNkbzdEugrvi5EdDirm5ouIddS1sZheDI1q0l9MrfdACDSNqbN7NvOCoShNLA8z8raHRwTCaBCJ2mbAmZv4WFDwkPEsTM9+o85rBUyhXElnBsv/7B/iTx4aks7TG8j07xBLA5N0zMNXG3GqpP1PKCR3wQyhi/NGvlrP3H27CO8iAFYcwAeVY8kqLd7fsxYOlHe7KPTn7y2CC4zsSUKkOubpASsD5F88/6L9BmIIAgwma/whGm79k+6aYZgdIwd5CGQiNFIv7MR6JM4mjg8Swn36d/SBj3BenS+rMwYKIQyWzoE3lvyn6G+cgNY93DLsKm0xVU2pIjWVqahvxDSMnzdbmRbdKASIPhdksidq0NE41bpgmAjAksJK5FsizSsXdpRnTnm9R0hfONMBjgLFBDC9569gCcLf4n3mm/2nY/w7IGuJgZZFjSOjCLueLjv77dgt8Q4e5LGvl/3bp8o6ePEBSBSJp0QCI02MBirnpwACEN85SfBYCh3eg="
+    },
+    "name": "Hot Fervor Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 27
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "HOT"
+      }
+    ],
+    "stats": {
+      "HEALTH": 227,
+      "DEFENSE": 126,
+      "INTELLIGENCE": 19,
+      "TRUE_DEFENSE": 6
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 170
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 190
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 215
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 240
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 270
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 340
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 390
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 440
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 800,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 20,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "BURNING_FERVOR_HELMET"
+    }
+  },
+  "recipes": []
+}

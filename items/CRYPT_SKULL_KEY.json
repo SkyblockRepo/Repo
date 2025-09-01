@@ -1,0 +1,32 @@
+{
+  "internalId": "CRYPT_SKULL_KEY",
+  "name": "Crypt Skull Key",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYPT_SKULL_KEY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAyMDEzNDY5NywKICAicHJvZmlsZUlkIiA6ICJmN2QxOWQxNTZhY2I0NDE2OGQ4YTAxYThkNWYwMmEyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVGbG9vZDQyNEsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJlY2FiMDNmNDNjMGRiNWNlMDFlYzZkOThiYTIyNzk1ZmE1MjY0NjU1MTlkMGRkYzk4YWJjMzcwYTBlNTA1NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "TY91hirvgTQ57BVO8WtSQLiZjMW63e9cvC8k/160jWvIsU8Q1rx68IJ2718/mG/2ocC4Cff36Hd4LrRyDq2bxnDBU1IXr7Dc74Jdii7+xOrwrsZgdPW7d8Cc8y2R2AILoL62gYFP0omWAgdcz74kYw4igxOfLr8ds+kNbJxyUTjXgb7A/f0i0eNNlMuOWMRkMMyBlB/e1yxtapvrRNMcBgV+9Ee4pXPpNTVWxu3QJIhqCqLseVqZSdt2G0nFf8XBuZ3qSGacSotpoS4SSxO1qyxNUrdFykLrFxw2GLRsm1B9ChVn0QBrA3+wvWbMTUqtvhRRzpFO2o/lajiS9GsZLRTRpZLarSV0j4yG4rciMMDuJBaMOFo6GFNMRSLRQ+JsDN43YeaFBo02m3+3dH1W7WrCS5C6/s/EWzKiKFcugYYobM7j/8oqWjqk9FYa44hvGW7qTG2haUGHoj2BUzUTw+A9CFRx1Zf2uAJnIh8HyA2iKVNJGJuoWIB2SV0yjdNR6pdhAq6A7haHjCxqvk2dVNJB54SZQZiEbbSYQl7FdIYYW7zK8XhCI/EK03o7kYdvTzPbCKB2WBq7Hn9bIaynMn0La4aGsn3y1MxG8/o7Ori/HrZlk4n087YNKe3sIlQ1Cq1fiDClvEO67uhjLlSnE0vgGQ3UphMx4T1rO/ROgTk="
+    },
+    "name": "Crypt Skull Key",
+    "tier": "UNCOMMON",
+    "has_uuid": true,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

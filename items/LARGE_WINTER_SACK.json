@@ -1,0 +1,31 @@
+{
+  "internalId": "LARGE_WINTER_SACK",
+  "name": "Winter Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aEnchanted Ice&7, &aEnchanted Packed Ice&7, &aEnchanted\n&aSnow Block&7, &aGlacial Fragment&7, &aGreen Gift&7, &aHunk of Blue\n&aIce&7, &aHunk of Ice&7, &aIce&7, &aPacked Ice&7, &aParty Gift&7, &aSnow Block&7,\n&7&aSnowball&7, &aWalnut&7, &aWhite Gift&7, &aWinter Fragment&7, &a&cRed Gift&7,\n&7&a&cVolcanic Rock\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_WINTER_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDY4NjI2MDEyMiwKICAicHJvZmlsZUlkIiA6ICJmMzA1ZjA5NDI0NTg0ZjU4YmEyYjY0ZjAyZDcyNDYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqcm9ja2EzMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYjMzOWIxY2Q0MDA1M2RlZmQ3ZDM1MjhlMDFmZWE4NzZkNDFiNDJmOWQ5MjY4NDYxZGE3OWY1ZjY2NzcxMjM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "eqApSbvoqYEhjX75R6lIqkVQg5oqOop3+H+d5aHawloQzrQJii7zrRwmNje+guFQjfphrssTs4Jpx3wLpgG7yHijzgDTMqPPgtxDT8c/eYtbP7gEv4U1czH+zQIs8pyKA86WCUDakawuBWRbkAgV/CgxshaEB1abanIpmLO2WWMkl5EmxlQ0U1kd1+XGdY+4dPC0HuXhN+oFL2wgfrrv/UzG7zyR4woZ17myqpFADGGZ1Znt3VkyMI32OyrVS4rfnNSLOTXgAy8NmPCQeus0PrS8wCpHC5ZZa+ZDt0HHE4pFOyb4BcyFJCXtiEjVAT4kt1QUDKxTo/jJ1Vd22/fXt39hJiAGAPSV7GJw+JRyEoWoch3fiu2e8hXVhx6JLOggyaN1nsg5gM0+mYZqRjWgGWURu2DxJ8ZXoqRlHjEJJstD2NKS82jB3V+nLJtADVr5sHPxBUYZCFY2btPTuCqeTf7ibLtyTZr+DcEKi8zH0lDYmjnl6bmmCRsatlC9qJQRCnKI1N77QEC+KipnOCAoOFikMylxS3mXu2r+OJypIfNrmg6EeSEgdulwi4wmuUai2xIhAEPOVd8BZ2yVXJgbbnL2590zaCU6ul9yUz6bLFnxD5qij0mF5u6MU/sk9QWKimHFjDuMuR9sYa8GQdPRYKg6WkIgSnhnkHTAP5BnCIo="
+    },
+    "name": "Winter Sack",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": []
+}

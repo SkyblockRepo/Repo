@@ -1,0 +1,29 @@
+{
+  "internalId": "IRON_SWORD",
+  "name": "Iron Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&7Damage: &c+30\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Iron Sword",
+    "category": "SWORD",
+    "npc_sell_price": 3,
+    "stats": {
+      "DAMAGE": 30
+    }
+  },
+  "recipes": []
+}

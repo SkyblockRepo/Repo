@@ -1,0 +1,77 @@
+{
+  "internalId": "LAPIS_GENERATOR_1",
+  "name": "Lapis Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining lapis ore!\n&7Requires an open area to place lapis\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a29s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LAPIS_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MTc2MDMwNDMsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRmZDk3YjkzNDZjMTIwOGMxZGIzOTU3NTMwY2RmYzU3ODllM2U2NTk0Mzc4NmIwMDcxY2YyYjI5MDRhNmI1YyJ9fX0=",
+      "signature": "emPFPtbtOAOo4hUpoytpDcdR7OWVxXXdawJPrd/xkf+XLvngg6ugatwtASVXhT7sleEko0f+2YVGyGi3vdQuyFmPJQiEqF/Ic3EVVCWOZjeVzHOKvG2ClV0kE24AB3RdkN5qi56snqJw5+lPI2A8pFOiVadX0d3Lv0fELUA5f9zAV1GHx0oq/oUwBbmOQY8i6nWyjdNOOaDOdSylJ6hOM/bFhaOe5Lz7G7JVP71bvlfWzUgJgnz6KWEd6Xi/XvgVTzWzcIsXyv4iMnyGOnOCe0Uoa8bX7dxzL9E0Z/kgr6F3C5bYJ+gPRizT8HlQ+peho8Yl7c5SgKJ5BqMfdgFq8ngBuez2DZehFBTy8dKRm6Gl6h0AXXBUAOPtimpfSwSAubm/D/P2mA8nJmF5wukk9uOMHP9UBOHFe+YfWnnT6VxOgu0DKLX2PxkScrc1XjMc9YwxGdtNJTbj3dmtkYpZA5G4d2bA8/+UxDxoryzWkwWdQw4cCKvQJ1253XRm5LMAS31PHz/w5UUKjlI36CV31efij++4xmW3xvvY/VrPB5ZoHdANoGvngFPVifTtGeKM36gQxwj+wwjEnJZnahwTld34rqjKGa+BO0q5VCky2OMliNgyGoxsCmJ7xCmjyVkfqr6q5InMH27AWYiXnNBNEK28CVzbxFJX5FMiv7GDV9M="
+    },
+    "name": "Lapis Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "LAPIS"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LAPIS_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "WOOD_PICKAXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "INK_SACK:4",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

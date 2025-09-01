@@ -1,0 +1,35 @@
+{
+  "internalId": "WOLF_PAW",
+  "name": "Wolf Paw",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Speed: &a+1\n\n&8&l* &r&8Soulbound &8&l*&r\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOLF_PAW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzc4MDU3NywKICAicHJvZmlsZUlkIiA6ICIwNjEzY2I1Y2QxYjg0M2JjYjI4OTk1NWU4N2QzMGEyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmVhZGxvYWZzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YWZkMjI3MDRlZWI1YzY3YmU2NDlkZGZlMWRhMGM2NTgxNThhNzA1OGQwMTczOWRlMzFjOTRmNmI5ODA4ODY5IgogICAgfQogIH0KfQ==",
+      "signature": "eJw/sOf9pip338AHDLzSLW2ZZpyGWpD1rOwlU+hTvDTjvXQFkoAPOccU7hEceNnC1h9j+LAAoxauufBeise2w6mZO1XaRZrV9Ew+VCEn+Hdy6AYsFTy7NGg4u7TrkIMKgZJdzFNBNln6v8oS1Q5e+otVWTmKlRr9H3ZLfySq5/m7iPdUOS2GAv6TkIx0x7+XgqTQRLJ9EI4oy5MQ3hcbWISQcwIUXN0FCoLlMXrgvlfQbZp4NqhEZZ4D5zWbFjA7ZmV+ZMpbD6Ew0915PhyI1Q6FLiwKceKjcpYrXdBH3gzbrC5iWwnxCaLOy5mdtl3eA4lZxNNg5mHFFf1JN0EavmTA/JBk0e6MJ0n3A+U/CauWmS+NV8mvO55mKA+tZ2KPj8KrYpULJVawemhKXdKRe5E26+DwmP3y5Z6QFCxzUhuQ3KlA+z4zmUxdVxyQi9ufGcaNRt1RB+QO3VkBjXipkPR3472IiSex4CvFXLTNEm31oTGfCmBM6dqFRXoTHmGm2ZfRYcpcUg9v8y6PXVb4PV2mFh/y16S7UmtpFbm+NbY8xRH3Ct4bPMi74Xtejv9PhAw5ZGNPvH2yLcwctdp1DxpuD6cA6b5SbXl/mAt2OJBfJSEKOCnx1uHv4WC5bYjyBywVC8MCiOZcytFhUS8/AudLhQDvKfFdE3/gW13xtdI="
+    },
+    "name": "Wolf Paw",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "stats": {
+      "WALK_SPEED": 1
+    },
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

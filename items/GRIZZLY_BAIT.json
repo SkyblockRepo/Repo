@@ -1,0 +1,27 @@
+{
+  "internalId": "GRIZZLY_BAIT",
+  "name": "Grizzly Salmon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GRIZZLY_BAIT",
+    "material": "RAW_FISH",
+    "durability": 1,
+    "name": "Grizzly Salmon",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": []
+}

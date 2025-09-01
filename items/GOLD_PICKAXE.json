@@ -1,0 +1,31 @@
+{
+  "internalId": "GOLD_PICKAXE",
+  "name": "Golden Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&8Breaking Power 1\n\n&7Damage: &c+15\n&7Mining Speed: &a+250\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_PICKAXE",
+    "material": "GOLD_PICKAXE",
+    "name": "Golden Pickaxe",
+    "category": "PICKAXE",
+    "npc_sell_price": 6,
+    "stats": {
+      "DAMAGE": 15,
+      "MINING_SPEED": 250,
+      "BREAKING_POWER": 1
+    }
+  },
+  "recipes": []
+}

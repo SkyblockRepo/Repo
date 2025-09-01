@@ -1,0 +1,30 @@
+{
+  "internalId": "MILK_COOKIES",
+  "name": "Milk and Cookies",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7Furniture can be placed on your\n&7world. Some furniture is interactable\n&7while some are purely cosmetic.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MILK_COOKIES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDc2Njg1Mjk3MCwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ViYTQyMTkzODBhMWU5M2Y2MThhNTY2MGEzZThiNGQ0NDM4ZGUxYjgxNWZkNTQzYzIwNzg3ZGIyYzcwOTU1ZmEiCiAgICB9CiAgfQp9",
+      "signature": "LRqRr4is6t7TnDfsNKFs48EUSn1pLjhqkcE8CDqHtH9lFoFpH0GS7u3Qg+G6J0WUf10yUrAVjltDaBgrJOwwiJ1Q+zxnwAwkBUt1OSaf85myD6in7jwtS5Jh9YIWJD1oevVFLKpfAnAWjvDHORsgYweeDPjTtyJ3K2exomWj2LEk3Y86Jb/gzrvZBvORo02XiT5EvT6joO33uRFz+z/l1kR3iv17xskY2h+BuRZsmyW8UDXJiW3Lh/PgYgXJniThuOnclFYyJMElHFLoVI3VRr9Ww+c9I5+utVlyL6Wqw8D6njioQDJGVHu6/tFbf6hyhYrJ6p4Otmy5DWkdqpRR2IAgxH45MlsNyNNkaBKd14ZrIZz3FBVLrOLhKWxw5P7WY/sfopoPnM7hdscm/ZjK1w3cqRbqwDZ5JkBJbWIMZjeJt/y4zt1Qj58WfaV1cqcwTLUC+9INSm8flMGksUso48YRF4sc1dWxf7N0lyQTzF3DPNSzdmNDL5rF3pNrrLAuU1gLnOdCLY3ZiC/eODXdGYly+WtmXBJIFMb9PSE1gp9uJqcgS1z6Rrv1WHoEc0YKlFVY26kcbs6x2n8+zAmpHsJ086esEX8Nwa3r0jk2ubnIDTec05urxLeWd7p1K3Qx5wj0+HFFZtpcQ5jf0KhsiIvuQSUNVPIejXM/f+omuH8="
+    },
+    "name": "Milk and Cookies",
+    "furniture": "MILK_COOKIES"
+  },
+  "recipes": []
+}

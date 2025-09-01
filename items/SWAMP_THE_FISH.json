@@ -1,0 +1,28 @@
+{
+  "internalId": "SWAMP_THE_FISH",
+  "name": "Swamp the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7I once tried a clear pond. Too shiny.\n&7Never again.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SWAMP_THE_FISH",
+    "material": "COOKED_FISH",
+    "durability": 1,
+    "name": "Swamp the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,88 @@
+{
+  "internalId": "ENCHANTED_SULPHUR_CUBE",
+  "name": "Enchanted Sulphur Cube",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 256000,
+  "lore": "&7&8Collection Item\n\n&9&lRARE ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_SULPHUR_CUBE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjMzMDgyNSwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjBjMjhkZmNmNDJkNGRiZDI3YzMzNzhmNjcxNzZjODQ4MDBiYzY5YjRjZDUzMTcwMmM5NWNhNmZiOTkwNDU4IgogICAgfQogIH0KfQ==",
+      "signature": "ef/lq5XMp15Lcu+KerqVlvacev6Asp96dsdvy/wSHJYPqG7++s7DjysnL7oJOBG2xTWLKB6ot+CyiGk4Hc7buCcABjdmOS8hiFbBie2KaFUtqoCgiHDULd3tqMktB6QE9a8hDNiu+MBLE8Y3qdGEm8Kg3aegLCStJ+hf2hR0JiKZ9Lc5SVtrMEz383H+a+WyuZjQrWCa+uaC67Igkqq4I5A/9Q9R+fd6y8IEvx9xBylFgeH1pVukCZ7b+8vvEP5iJZxg2RNu6WH4R09RLzgF06ZgkGhoiGR9JDXVDy5jjyufEY05gxaiQmgNn/cWKtrmny4+bY3HETXK40N5yTXO1/GXRyiFjKucaAL3NorTllAROjy9nMnF8fOMBqcWIJOkDutVj4uOfRBO8+k7GlmSNL08gYXC8nXoGDdxscDOS7EGThpSb91PmHhAfSUxi8cir4/JJxKf8H9rgBdh5Av/UKq2dToXnExZeuo9lE/CZSRK7kWEmXF6GMGsLSRfOaJFDOldMu9hHfJVr8frSH04zvSEssrTb730RLch01g4q6hWMM0xXxDzADvV2vTieI+qMP39/QDSa2swy4Q6rGk+LDqcaIhlrMKRQvx/6xFOaW25k+5v2fNKGCKCQ6SLWebyts+PvUeOk1+nMZ7TUupXvxNrbjZu+Nhk45MBVl8ESaE="
+    },
+    "name": "Enchanted Sulphur Cube",
+    "tier": "RARE",
+    "npc_sell_price": 256000
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SULPHUR_CUBE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SULPHUR_CUBE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

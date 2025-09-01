@@ -1,0 +1,44 @@
+{
+  "internalId": "FUEL_TANK",
+  "name": "Fuel Canister",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 510,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FUEL_TANK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4OTM4MDgxMTUxMiwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3NWI1ODZkMjlhYTRmNjMwMDY3MDdmYmU5NGEzM2M4OWMyMjVmNDliM2I0NGNiMTgxNzM4NjU2Yzk0MmUyNzciCiAgICB9CiAgfQp9",
+      "signature": "SycydRPreFK5H0CCA/i3fYCcyzIyoZyfqnkwFZ3eJHwOentVIgyaiEgcVw5/W77MzYTucnf/qCP5dHf4v940wB8/WR3O65no7jqllT5biPMwhnlxfE+PoACKK8Xo35Fob+QYY1ha5EvEpgV83AoyIq458B9d9EDT+jCPMOzxYfjOwdzFskqZ+5wa5CSimV1XVQh2NWxhbpY7o4b7p6nFYCJ4azFaoQWUODfpe5Ecu/HCbstlrI4Oyo66zeJRet7EKEjC+LqI+2ENJOWHVYNr4zDt6QAlcYtT9samlJYt/WGobfljZK186ubMjiAk28AnqKcEuKx8P/5gVaRGOwmpxeDMUQDEadiR3fRCVQ/NC5+76UWqpI/4ouMJkFCaggsHc6db35GZw+X2wkbT/x03U538wtudHrIt1+tm0PuQUYgQQRkEcw0L5OT3LiL+nx3Ba7QyRXy0Zi/IDXNShqLfIk+cYpPw60nJnhSmsBtil3CrfdgAMs3ZqfmI9YxXicEirYDAczMPWc3hyqBatdobvJJizvua5lFzZeSV/VkI4ux+7f6AtxBtTKFzCYQfGXbD9aq+KPzBp00qqe7kKDbkPW8CIEripOV9KtzpFiCMJfQ3egbnhuXmdGkru1U+7H4ixoyvHTcKH/3ck2gPmhEfep0FXcbiBccKLq/qS6mitjQ="
+    },
+    "name": "Fuel Canister",
+    "tier": "RARE",
+    "npc_sell_price": 510
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FUEL_TANK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COAL_BLOCK",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

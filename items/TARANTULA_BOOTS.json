@@ -1,0 +1,145 @@
+{
+  "internalId": "TARANTULA_BOOTS",
+  "name": "Tarantula Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+70\n&7Defense: &a+100\n&7Speed: &a+5\n&7Intelligence: &a+50\n\n&6Full Set Bonus: Octodexterity &7(0/4)\n&7Every 4th strike, deal &cdouble damage\n&c&7and apply Venom reducing healing by\n&7&240% &7for &b4 &7seconds.\n\n&6Piece Bonus: Spider Bulwark\n&7Kill Spiders to accumulate defense\n&7against them.\n&7Piece Bonus: &a+0❈\n&7Next Upgrade: &a+20❈ &8(&a0&7/&c50&8)\n\n&6Ability: Double Jump \n&7Allows you to double jump by\n&7sneaking mid air!\n&8Mana Cost: &340\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Spider Slayer 4&c.\n&5&lEPIC BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TARANTULA_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "0,0,0",
+    "name": "Tarantula Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "TARANTULA": "PRIMORDIAL"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "TARANTULA": 6,
+        "MONSTER_RAIDER": 4
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 70,
+      "DEFENSE": 70,
+      "WALK_SPEED": 5,
+      "INTELLIGENCE": 50
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 125
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 16
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TARANTULA_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SPIDER_CATALYST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SPIDER_BOOTS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

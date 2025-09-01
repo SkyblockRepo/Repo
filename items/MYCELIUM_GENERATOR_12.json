@@ -1,0 +1,39 @@
+{
+  "internalId": "MYCELIUM_GENERATOR_12",
+  "name": "Mycelium Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining mycelium!\n&7Requires an open area to place\n&7mycelium. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a11s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&7&4❣ &cRequires &c12,000 Mage Reputation&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MYCELIUM_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODk3MzM4ODE1OSwKICAicHJvZmlsZUlkIiA6ICJhYjlkYmMzZjk4NGE0ZWI4YTVmY2RlYWMzNzEzZWFkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDeWJvcm51dDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIyOTBkOTU2NGE1YTU3MDIyNjAxMjhmZThmNTY1MzJjZGVlMWYxNWVmOTlmMThiMTUyOGUyZWMxNzcxOTk0NiIKICAgIH0KICB9Cn0=",
+      "signature": "huY2aUSDvqyLaC3ubfz257HGPOHwLFWStolUDyZoVWDTdy1Jwa6xyNgRhBdYyW//NnfafJB6li+YHBPpQUHiGEFzvdf92Yi7I/p8kdir5F1cAmDlGaMLGLHSR1chqbcjBtbFhOVzMfgg+Z/x3Io7K9JF4RCDG7D2ef6JjSpLYJY5G9KEPSwTgDklekK4bNNbVJFeMGxU9cKBeME+GAMFEl7EC9inR1Qdvappt4uZdW8RJVfdNXKkonX5gu1/9mGoucArENouQnzN+LXdvVUAEtsgmaWx+2ffHNGpYyTuZsjFwLyOzr1owu8MEQNXILzjOBRvbpkDMKLFEsEeh9rNa6AkXSNwCDtsnypddtd0CX75loabVj2aFojMyjSVpB3YlQdrDxZeloVIn+K8VnY+VcrBo4BSTiDudfTyr0jk5TfUPdZcgmAVTkVwWConZU6EOqNZrwPRdtyH6aS7NoKbnt5aUzeYhFaddpsJpb7h9E+nUqPoIfGZtx9ErDwl2a5cXLvDby2wEBqSzO4wpbgu0rjoWMH+rOOI99ckdNMRnZNeVoG6lhCZYt68UPnO93Bp96VNM0IxvaW2TfUk3tirP18K0Z2q1Hq0dXaTxJkMbrew609Lr3EX+t08vpM56tV8Jnn7GF5CqMj+xGeSBWpe5Q7r+GrPRQsNZmI/QX2S3Fg="
+    },
+    "name": "Mycelium Minion XII",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "CRIMSON_ISLE_REPUTATION",
+        "faction": "MAGES",
+        "reputation": 12000
+      }
+    ],
+    "generator_tier": 12,
+    "generator": "MYCELIUM"
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "CRYSTAL_HOLLOWS_SACK",
+  "name": "Crystal Hollows Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aAscension Rope&7, &aBob-omb&7, &aControl Switch&7,\n&7&aCorleonite&7, &aElectron Transmitter&7, &aFTX 3070&7, &aJungle Key&7,\n&7&aOil Barrel&7, &aRobotron Reflector&7, &aSludge Juice&7, &aSuperlite\n&aMotor&7, &aSynthetic Heart&7, &aWishing Compass&7, &aYoggie\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYSTAL_HOLLOWS_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDk5MDUwMSwKICAicHJvZmlsZUlkIiA6ICIyYzA3NmUzNDU0N2M0OWU2OTMwYzQzZDE2MDZmYjI1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsUmVzdSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNmI0NmJlZWI1ZjZlMDAwNjE2M2VkYTRhNTA3MDNhNDBlNjU5MTA4MGIwZTY3Nzc5MzEyYWRjZmVjNDYxNTIiCiAgICB9CiAgfQp9",
+      "signature": "vqT5mT37VQT0TNXInJj01Co2GS87nTo9ZAK7UpUpO5CtDhcKcfFmmDHd9gnHGy95BqZPn21oFhTYYYjeBnbQ9PL+7n7r2OHJPbRU5eiBfe7K1YGT73tvUM6l0r+wp4aXzkmThWEIXp0K+Lak3MKmnHaFx0c+b5TbvzKliUqRIsGq1yoDz9vdaJO0kNURcbK+DRWB7AEJWHUEzHoOSvlEU80jtM9xA3F2i/gAlDLzaluU3scvs2Xqo91UeTwRYvn4Ru4hYlKrsfT7/kGswPmQla67q+HyYTl8pzvdFrUNlo7mGrRVp71BUbfVesrYaPZcqOUihgVgmncRcKXHItzlAF1NSPVyi5rF83YcFmxVcpZEWBFGKm2hmXNi3EzrP99dO1WQg5K1m08o3Yd6POh87DuoT4or/MixszyuJ6jHIPmPxHzjtdP8p9VnEuyyzWhIX0y3bfNjBS6X5GdBiTZX8ByYrl4KXyLePMAT43P54bqjuN80YMTeIaNbQ+hRrQxEWnOFp4f38JkxwyoZ+3OYspgEeR+q/9nAzFR4MFTIRUv0Se+MtiwOM8puE5Wjfin7YnafTuANWM9rd+a1XRjd8x1k/tyl9lVtSBFm2kAKrBPlenobANqikH0hg+68Oa+PyWtu/g1N3I/nmWJQ7lvqgU3SLa6s4Y1xA1oIv8jXUDs="
+    },
+    "name": "Crystal Hollows Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,162 @@
+{
+  "internalId": "STRONG_DRAGON_BOOTS",
+  "name": "Strong Dragon Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Strength: &c+25\n&7Health: &a+60\n&7Defense: &a+90\n&7 &8[&8❁&8]\n\n&6Full Set Bonus: Strong Blood &7(0/4)\n&7Improves &9Aspect of the End\n&8⋗ &c+75 Damage\n\n&7Instant Transmission:\n&8⋗ &a+2 &7teleport range\n&8⋗ &a+3 &7seconds\n&8⋗ &c+5❁ Strength &7on cast\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STRONG_DRAGON_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "240,209,36",
+    "name": "Strong Dragon Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "STRONG_DRAGON": 10
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 60,
+      "DEFENSE": 90,
+      "STRENGTH": 25
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 35
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 90
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 140
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 12
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "STRONG_DRAGON_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STRONG_DRAGON_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

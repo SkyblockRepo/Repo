@@ -1,0 +1,33 @@
+{
+  "internalId": "ELLES_PICKAXE",
+  "name": "Elle's Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Breaking Power 5\n\n&7Damage: &c+10\n&7Mining Speed: &a+250\n\n&7&8This item can be reforged!\n&c&lSPECIAL PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ELLES_PICKAXE",
+    "material": "IRON_PICKAXE",
+    "name": "Elle's Pickaxe",
+    "category": "PICKAXE",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "stats": {
+      "DAMAGE": 10,
+      "MINING_SPEED": 250,
+      "BREAKING_POWER": 5
+    },
+    "serializable": false
+  },
+  "recipes": []
+}

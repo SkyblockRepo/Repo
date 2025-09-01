@@ -1,0 +1,77 @@
+{
+  "internalId": "HARD_STONE_GENERATOR_3",
+  "name": "Hard Stone Minion III",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining Hard Stone!\n&7Requires an open area to place\n&7Hard Stone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HARD_STONE_GENERATOR_3",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTExMjc1NzY5NSwKICAicHJvZmlsZUlkIiA6ICJkODAwZDI4MDlmNTE0ZjkxODk4YTU4MWYzODE0Yzc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVCTFJ4eCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYTA0OGU0OTgzZTVlMDc5MGFhMzU4ZjJhYzE0YTVmMThiYTU5YWQ5NmE3NGM1ZDU2NDkyODgyYzIzYzYyYzI2IgogICAgfQogIH0KfQ==",
+      "signature": "cbTwo0Be6CGt4rKmskm5wAtLzfSxVIGzWbfU3un6Qe7iL3XnbMwB/Ub7e4Jzfs/nc3TQgPtWocM8VamFJdCZlLQzsUprLYceHsCBdh4LVYOsf516HFWKtD17je21q0kqXGOoWSxpN6V4u4ZDBd5PPjZnmMLK8HWqw6LpvHu15UruwlacTYF1Pq7HhKKcQDzgmShX+608/bXQEiDouklceUrQ9RfPd9o9RSN0xAAulkYQ5zT/6oyToQisgzOvpM35gMQytgq+MJuoHKfDZfpIQ4SEazC8mU/acoxhZpXot+VYgsUT1UuNXMQ5zNAo1NZblJL3wXtGWrNoJ/LvvlbsOdAB7A2Wyu6VIwVRw3v2UjD2rGLH+snDIH+UsEY/sccRFAke8LfKxf2VA/3rYjB9KXCNSf/dBOxZJzFwxRcECGcBOLXK2LfFvhIDKD+tuSGfaU8EBrIwqWoQgAiv/hjhTvEnXdNRaUD5ggfKiOLcMW6IdTaIXYhPO6N6GFck06YI0dq8tky7Q8N3danC2MQ0euIDIbWS76IW6XCNjBstZk7o1f2SzhwmcIDjJ1BKjPfxxZvJpUV4H1xs00z3+zG+sMDztLkipkSnryBE4ci4Bi1Z6zHUD4+YyPG24vCD4QGim7QArbNaFKUa6FAfyt9ybyEMdBUJPDFqX1VdV2sc548="
+    },
+    "name": "Hard Stone Minion III",
+    "tier": "RARE",
+    "generator_tier": 3,
+    "generator": "HARD_STONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HARD_STONE_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HARD_STONE_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

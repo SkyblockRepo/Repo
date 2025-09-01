@@ -1,0 +1,75 @@
+{
+  "internalId": "MAGICAL_WATER_BUCKET",
+  "name": "Magical Water Bucket",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 40,
+  "lore": "&7This Magical Water Bucket will never\n&7run out of water, no matter how\n&7many times it is emptied.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGICAL_WATER_BUCKET",
+    "material": "WATER_BUCKET",
+    "name": "Magical Water Bucket",
+    "glowing": true,
+    "npc_sell_price": 40
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGICAL_WATER_BUCKET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "MAGICAL_WATER_BUCKET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "internalId": "PRIMORDIAL_CHESTPLATE",
+  "name": "Primordial Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "\n&7Crit Damage: &c+10%\n\n&7Health: &a+150\n\n&7Defense: &a+115\n\n&7Intelligence: &a+110\n\n &8[&8⚔&8]\n\n\n\n&8Tiered Bonus: Octodexterity (0/4)\n\n&7Every 3rd strike, deal &c+50% ❁\n\n&cDamage &7and apply &2Venom&7 reducing\n\n&7healing by &210% &7for &a4 &7seconds.\n\n\n\n&6Piece Bonus: Spider Bulwark\n\n&7Kill Spiders to accumulate defense\n\n&7against them.\n\n&7Piece Bonus: &a+0❈\n\n&7Next Upgrade: &a+20❈ &8(&a0&7/&c50&8)\n\n\n\n&4This item is Arachnal Ж!\n\n\n\n&6Extra Bonus: &aAnti-Toxin\n\n&7&7Healing reduction is &a50%&7 less\n\n&7effective on you.\n\n\n\n&7&8This item can be reforged!\n\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRIMORDIAL_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "14,23,54",
+    "name": "Primordial Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AMETHYST_GEM",
+            "amount": 5
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 5
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PRIMORDIAL": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 150,
+      "DEFENSE": 115,
+      "INTELLIGENCE": 110,
+      "CRITICAL_DAMAGE": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 125
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 16
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRIMORDIAL_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TARANTULA_CATALYST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "TARANTULA_CHESTPLATE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

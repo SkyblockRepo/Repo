@@ -1,0 +1,73 @@
+{
+  "internalId": "BLOODBADGE",
+  "name": "Bloodbadge",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7You and killing stuff in the rift, name\n&7a more iconic duo.\n\n&7&4☠ &cRequires &5Vampire Slayer 3&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLOODBADGE",
+    "material": "INK_SACK",
+    "durability": 1,
+    "name": "Bloodbadge",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 3,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "origin": "RIFT",
+    "description": "You and killing stuff in the rift, name a more iconic duo.",
+    "motes_sell_price": 2000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLOODBADGE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "CRUXMOTION",
+          "quantity": 2
+        },
+        "6": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "LEECH_SUPREME_FRAGMENT",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "internalId": "PERSONAL_COMPACTOR_7000",
+  "name": "Personal Compactor 7000",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Automatically turns certain materials\n&7in your inventory into their\n&7enchanted form.\n\n&eRight-click to configure!\n\n&8Does not grant Carpentry XP!\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERSONAL_COMPACTOR_7000",
+    "material": "DROPPER",
+    "name": "Personal Compactor 7000",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PERSONAL_COMPACTOR_7000",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "PERSONAL_COMPACTOR_6000",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_REDSTONE_BLOCK",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

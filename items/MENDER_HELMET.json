@@ -1,0 +1,81 @@
+{
+  "internalId": "MENDER_HELMET",
+  "name": "Mender Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d80 &8(88)\n&7Health: &a+80 &8(+88)\n&7Mending: &a+100 &8(+100)\n\n&7Grants &a+100☄ Mending &7while in\n&7Dungeons.\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MENDER_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2MjgwODg2NSwKICAicHJvZmlsZUlkIiA6ICJiM2E3NjExNGVmMzI0ZjYyYWM4NDRiOWJmNTY1NGFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmd1eW1hbnBlcnNvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMzMwMTk1MGExZTgwY2RmZWU4MmNmY2E0Y2IwZDhhZWVhNzEyZmUzMzMxY2NkN2UxZTU1NzIyMjMwYmQ0M2ZmIgogICAgfQogIH0KfQ==",
+      "signature": "ltA4pbmBhrXlyNLtlEpI8fIUHNRkwrifP4hVaWGpEmfAHyvM/w7D8W8Gu6hnJHpeODH47X0gx31w0r7WOL/kTNogFKb97692ywOr6sO3TXgrsxumdubXtRgaa4lRWEpYTb7EcJ+xwZD3GrChkIv/6xIR9cCG+hdxiKqK1U7Z5sQZVUWOjGb4Wpw8nYSTKRsKEdbgXwSSW6Fufv/1K1xe4aDYOxRr5AZY7HgQZ9zY+awktn+9kaG0e+PlVn28XoayLWabOrmw274sGmW3GWqbdljO+2dXP9TiWE745ig9V7vHknx0M7o3n9eL8JNZ1O9eZnpBXOew59ZpocoZcIfMCSzwGlhDRu1tNqZHmpFkmCicdkrXqzIf7caf3V1AePySpuTSBxD0pXX/f71nOHBecvFvsL2x1S6eMRuv4i3IY1K+yV1UDecNZT/71OWJfYLVrIgL9rkvEhWohYXF5t3NdKNCdEjbgK8z5msRGXQPl78AzAfJgz8WUbG5aP2LUL08OUjlbq8PhWXDPstfGfwAEQgelT93CywHFrCR+xigju4Jhb1+oYSO182sFek7SRBByVxHQ3ySxo1IlYXwQGSUHxE+DC7AFDpxgPY90E5LIcN1GpGgTYVgHv7YA7guKhELPW82vDSbWvHA9LdudRCqkpv9TjrFpGByEXIBRmeIYsM="
+    },
+    "name": "Mender Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "MENDER_HELMET": "MENDER_FEDORA"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "HEALTH": 80
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": []
+}

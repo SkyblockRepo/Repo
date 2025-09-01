@@ -1,0 +1,56 @@
+{
+  "internalId": "GOLDEN_TOOTH",
+  "name": "Golden Tooth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 128,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLDEN_TOOTH",
+    "material": "GOLD_NUGGET",
+    "name": "Golden Tooth",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 128
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GOLDEN_TOOTH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

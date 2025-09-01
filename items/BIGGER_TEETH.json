@@ -1,0 +1,56 @@
+{
+  "internalId": "BIGGER_TEETH",
+  "name": "Bigger Teeth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Grants &9+10☣ Crit Chance&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&a&lUNCOMMON PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIGGER_TEETH",
+    "material": "GHAST_TEAR",
+    "name": "Bigger Teeth",
+    "category": "PET_ITEM",
+    "tier": "UNCOMMON",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BIGGER_TEETH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 6
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 6
+        },
+        "5": {
+          "itemId": "PET_ITEM_BIG_TEETH_COMMON",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 6
+        },
+        "8": {
+          "itemId": "ZOG_ANVIL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

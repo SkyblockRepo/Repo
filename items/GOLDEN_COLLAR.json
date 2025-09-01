@@ -1,0 +1,34 @@
+{
+  "internalId": "GOLDEN_COLLAR",
+  "name": "Golden Collar",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Commemorates your participation in\n&7the &bPet Care Expansion &7city project.\n\n&8December 31, 1969\n\n&c&lSPECIAL MEMENTO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLDEN_COLLAR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwMTcyMDY4MDY3MywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZGRiMzc3ODRkODNkYmI2MDcwOTZhMzZmZmExYTI3OGY2MzNiMDc3MGQxNjI3NDFlOTg4NjI3MDQzZmZiMTk3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "gYrka9cg5MNO99rdOzJRkpJtu2F6T6QtYCjApJXDIvwv0/BHf9LoPewrP42F3A2DRJodbZvUnGK9TcKS1Q4igwoUm0jrmpRVABuQEkyxgbBTPR/BAkwOa5+577KUtIo5HCrz6xeS9UoZkpDEa/v8C9abLiqkExPCbtmlMkrl5WT/hjSRJFMi+T/ubkZGG8RRKLZY81FBFPPr/ImztOWFxrSR25fdyHKvH1vMiviMU6PJwRx9HjxSLv32Qe+MF73HpPcsC6XVtCiyIUgXogvragfcsRrzXBcp8BWLAGag74KKVO6ZlJsH5uAtuB92j8L8dZ1V3j1hqn6O+11aTWEQjfM4NyMwZRI86yHPoWZxh1XgQMqjKnh1RWoDpUaw8R85jxRAB38PMOOdWxQS3gRo3155RP0/RF7gP5419jp1MiCeHw9fsOBTVvJ+298U4drkEuZ7sfqn8DxvKgFp32ou+prik525sCgxr6KXDVIU+K2zPNlqcUEf3rD+m+RsalfT5lMJkJbGfYCAhHRG5VuiV45crTNrd7eqZ0ysvdgFzUKneHMMpku6Dpwa1/ubdrPRSA/rHL7EonmhK9ssEx8V502xizqM53S9EyBhREs/EKEplaxktNs/B8ftcj6H0XNqsWHlj+uji0U0XPm0Rkd+KDVB6K82ow698d4B7dh/Bok="
+    },
+    "name": "Golden Collar",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "item_specific": {
+      "memorable_event_key": "pet_care_expansion"
+    }
+  },
+  "recipes": []
+}

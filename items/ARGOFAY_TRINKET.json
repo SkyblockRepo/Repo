@@ -1,0 +1,35 @@
+{
+  "internalId": "ARGOFAY_TRINKET",
+  "name": "Argofay Trinket",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Intelligence: &a+2\n\n&7Monsters you've hit drop &d+5% Motes\n&d&7on death if there is at least one\n&7other player within &a50 &7blocks.\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARGOFAY_TRINKET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTUxMjIwNzg5MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3NjFlMjM2ZDg2MWRiNGM4YzZhYzA3ODM4MDdkZDE5ZDQ0MGI1MGEyMDNkMWFiNzBmZjE4N2M2MWQ0YTUxNTgiCiAgICB9CiAgfQp9",
+      "signature": "pEul5D7HYIFFLw6i3ksUKIjD/RPWRYnOHIlSzX5nr3JVQOBC2PDoe9VDxCHp+MEGGy8//wKUvkhJnvKG9wtfZOR9FiPx2PUm7CZK9tAywqnVKp8S0sKRwUzzfqBvv6RXAo7gdu07iYI+aV9TyUq/hibkhDdWGWyY589uKNRkaCxX42M/hDtE4gBHZFDQnYT/8U8pF2k8nthm8HkabyQYubUCKQejFsP/EOx+c4K5TrwAKFOVu1Ttv8BabAFfCBbJnZ+xFdpll04ii7YlnkcuhDOEiD33x3yVv8BYsFmZNAQyLb/Gm/GyiIjyg+8PxB5TkxahidT3+jif/uNGonuS4QWQNKzjlRvHolDA4oeIKzWRFi8bjQO5gx3RMBMrN7bjyjgJpvUCoAH6PXU5GMT4FRDZQFILT3tJrL9j8Zn6WbwONb3MIrHHcM4sR2z6PlJbPSe8enVvawDK1DVdX2brovz5b2z02+stmh7DeOe2V2Q0KLGLomroSqvkyEAk8RJcYlvXvo11yIfgLLeVXx4Qp0Elfo5wst3RvnQeMgF0Cwtt25hqKeiepmaLnWHlC9vyZeRI9D0RHCJGl9ChNBIuz/zZG4zxtyj2psQckpncf5Qppqj8rYg9g0ua777BIRCAQV1/qvtP7n7mf+XlGma7wiCtu31fFUR+sxsLvFaD4lg="
+    },
+    "name": "Argofay Trinket",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "stats": {
+      "RIFT_INTELLIGENCE": 2
+    },
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

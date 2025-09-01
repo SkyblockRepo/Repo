@@ -1,0 +1,25 @@
+{
+  "internalId": "POWERED_MINECART",
+  "name": "Minecart with Furnace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POWERED_MINECART",
+    "material": "POWERED_MINECART",
+    "name": "Minecart with Furnace",
+    "npc_sell_price": 12
+  },
+  "recipes": []
+}

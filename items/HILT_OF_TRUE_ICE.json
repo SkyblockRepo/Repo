@@ -1,0 +1,33 @@
+{
+  "internalId": "HILT_OF_TRUE_ICE",
+  "name": "Hilt of True Ice",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HILT_OF_TRUE_ICE",
+    "material": "ICE",
+    "name": "Hilt of True Ice",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 50,
+        "essence_type": "ICE"
+      }
+    ]
+  },
+  "recipes": []
+}

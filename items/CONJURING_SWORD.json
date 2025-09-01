@@ -1,0 +1,119 @@
+{
+  "internalId": "CONJURING_SWORD",
+  "name": "Conjuring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Gear Score: &d172 &8(186)\n&7Damage: &c+68 &8(+74.8)\n&7Strength: &c+36 &8(+39.6)\n&7Intelligence: &a+85 &8(+93.5)\n\n&7&7Reduces the cooldown of Guided\n&7Sheep by &65 &7seconds, and prevents\n&7Guided Sheep from spawning\n&7randomly while holding this item.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 13&c.\n&9&lRARE DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CONJURING_SWORD",
+    "material": "STONE_SWORD",
+    "name": "Conjuring",
+    "category": "SWORD",
+    "tier": "RARE",
+    "npc_sell_price": 2000,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 13,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "gear_score": 25,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        68,
+        73,
+        78,
+        84,
+        90,
+        97,
+        105,
+        112,
+        121,
+        130
+      ],
+      "STRENGTH": [
+        36,
+        39,
+        42,
+        45,
+        49,
+        52,
+        56,
+        61,
+        65,
+        70
+      ],
+      "INTELLIGENCE": [
+        85,
+        92,
+        100,
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

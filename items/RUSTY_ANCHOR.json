@@ -1,0 +1,32 @@
+{
+  "internalId": "RUSTY_ANCHOR",
+  "name": "Rusty Anchor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Treacherous &7reforge\n&7when combined with a fishing rod&7.\n\n&9Treacherous &7(&6Legendary&7):\n&7Strength: &c+25\n&7Sea Creature Chance: &c+5%\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUSTY_ANCHOR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NjM2MzU0ODUzNzQsInByb2ZpbGVJZCI6IjJkYzc3YWU3OTQ2MzQ4MDI5NDI4MGM4NDIyNzRiNTY3IiwicHJvZmlsZU5hbWUiOiJzYWR5MDYxMCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmZiM2M2ZTY2NTU0ODZlNzY3YTYwZDg3ODExY2E1Y2RkYzMzY2NmZjEyNjQ5YTM0Y2I2OTY4NjFhNjNjOGM1ZCJ9fX0=",
+      "signature": "je+0ypU1bIPMAH2s6ozZfwsX/jFCmMgnpSCaBTyQvyWnLqFe9gidOeOKfc1Il/qLWG5DaWRn9HqylMaCsB4gTsPqtV+M7odjP1bExNx9vaSg5dnMSw1SjdAsp4K/+9ZrLibHxuZorKu3eRvlXrC69ALpRXGuVk+HvpDWV7DmvqhUFPRf9Ox22CF9Y7YO2ckZaBNRf0Pqvyi3lN0qblFCDxBAJavuHgppWZRZwXmX2n71Uky4cV5zOYjLWHfnXZBaQBN1mqf+tjzsPrOTCXA/6HZzHz+8C/Kp+l9/+XGIogbywePGdqWa+H9TacrQuQhBrp3TnvaiiSWtJ0HgXGDt5+msJdDZ74REWl/OQXZtL44xwTRmMJ5z34bzzYzYse8dWUoPhPZiue13+RJlch/+QjS/BXLq2pCt4vXgNyYnrnRJcvHmeuN5rkB983gBXuj4DTiwAA3SnouScDmvIjB5A2+FwLKh74g4o+ykf5zocPcGuqlr8H/x2wfE9vvTuCX9LDyGDw06P3T3XfWAvq+skXngHBNOIlCxiEILH9LPq5AVqnX7JQrIIGC0aXuLJntjj2NZHZoKqohaDYMhjVy9maQdElwmx/jiJJhnOBLZX45IwLArPcbyhwUgXCqvEE2uGj/gC2gLn27AFYfJ5IZu6FPcJ8XlOy5Ds0cwy/jQaiY="
+    },
+    "name": "Rusty Anchor",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL",
+  "name": "Travel Scroll to the Crystal Hollows",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Island: &aCrystal Hollows\n&7Teleport: &eEntrance\n\n&9&lRARE TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to the Crystal Hollows",
+    "category": "TRAVEL_SCROLL",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "PET_CAKE",
+  "name": "Pet Cake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Feeding this to your pets gives them\n&7a boost of &a10,000 Exp&7!\n\n&7&eRight-click on your summoned pet to\n&efeed it!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_CAKE",
+    "material": "CAKE",
+    "name": "Pet Cake",
+    "tier": "COMMON",
+    "npc_sell_price": 10
+  },
+  "recipes": []
+}

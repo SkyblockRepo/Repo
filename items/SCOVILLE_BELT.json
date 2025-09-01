@@ -1,0 +1,296 @@
+{
+  "internalId": "SCOVILLE_BELT",
+  "name": "Scoville Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 55000,
+  "lore": "&7Strength: &c+15\n&7Defense: &a+30\n\n&7&7Gain &a+50❈ Defense &7per ignited\n&7enemy within a 10 block radius up to\n&7a maximum of &a+1,000❈ Defense&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCOVILLE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwODAzMDY4MCwKICAicHJvZmlsZUlkIiA6ICI0ZjU2ZTg2ODk2OGU0ZWEwYmNjM2M2NzRlNzQ3ODdjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0M2IyODRiNDQ0M2YwZmQ1OGI3OWUxZWEwOTliNzYyYWFlOTVkZjU0YTYzNmQ5NWM3NTlmOTEwMWQwMWRlZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "r2bHHwGwQxDFfwNaNwrHWTHSrzuno9n/BtiZ9dJiBmqVYZvvNUbpqOu61nBnx9lgCpxmtdgonmiMuFNxicfZ7AblJcVca6IbB5w5ML7A6EjX7iC9ztmyT1BEmP9YaXMaY0TTWZefNpQxh0oswS/M71bTKmkrm82PUbsgkr4KDI8dNiGoScugtQ2SLqFZn4y9oy5oP9r+CR9ytwPcZixdhupTE/gw4oULOKUwNe3nSTMgGL2Ba1hUpawRS6A62SpygHHO9e66YdqM4Gdf3LyZD5YVz3ODugTFwsywJJoDTaAyrx3ATiLDz1HCuaIudJHWXzdOH92uB/tEtoVXz5pKKqu7RaGYWzYJ+zJYbOfyT2TpMl8/yHbWn7Wl3KgMaI8WDamxyJVsqSSZgpvbzUFN1EgIqW5P5t2lUDIJvy3jL4RjeuIWDD+laXXAHzZziWcpxqC1xu6G5dnDE+j6LDCElzgS+93D7mKg/IT++oHM/2kkQPUEZqkxV1ygweqKw6VyydtljxlNBgLK2/LjwUPHsJ2lrE4xJenkCgQYNCkXDhGNIIBlakKIgdDxSWjDuVcQpObiMFFS6OP74iO1ZCkSM7KKTxokqID4QVwdusVBhPgsBO7+fNmeZ+M0EC9tB6ufvX3GnTc0SdsMMf1uKwotnwIB8nF8A/uqpmSQVlx9yBk="
+    },
+    "name": "Scoville Belt",
+    "category": "BELT",
+    "tier": "RARE",
+    "unstackable": true,
+    "npc_sell_price": 55000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DEFENSE": 30,
+      "STRENGTH": 15
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 6
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 8
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 120
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 750
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 150
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 12
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 180
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 14
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 220
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 300
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 18
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 400
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SCOVILLE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "8": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 5
+        },
+        "9": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCOVILLE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

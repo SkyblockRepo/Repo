@@ -1,0 +1,77 @@
+{
+  "internalId": "ZOMBIE_GENERATOR_8",
+  "name": "Zombie Minion VIII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Zombies!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a20s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_GENERATOR_8",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzYzNDM2MDIsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0MGIyMGFiYTViM2MyNzlkZWU0MmIzOWQ4ZTAzZGUyNWNiZWFkMzQyMTY1NWYwY2YxYmVhNDNlZDBiNDI3MmUifX19",
+      "signature": "LqdWofnsox2Tdvn9qzjLTtaKDBt9Tbw3riSbt0O0VGah61y/ZkcMX13hDDqoD1Y8mrIfDZDh64wZvz/9jmGXNLDE1cNTgVvzRJoZBMIWVXKW5NuC4CuYms1lyIaP5zfJSPj6kL9FhEABQe5MN8tj5OXx1TJMDpqY8n0inKRCMIWtNicrIk1tSKK6u/nC2TCnZyMoc7SsGuOFeQaWo6uWvC+I6lH1H3ssr4OXGMDP8bk1r17ivp/d4vL9ufhX3cepg61g25kPbeWoVax+Yo/nOdbvXHFNLIQ88KymmZr2P/P60VDL+kwPsbn1dLbOKgLK/YydCn9jRvTHhQ4udxLjwQAlXGSEgvjWObjlkqEr8LihMMW2TYBryKPjGzHIUJ3ibKt5vcJpoUVElxcGVDtCNLHkpp4yLduChasngfi+YMx24LCZRmem1eKzroojw80ItKNu0S9EiKtGVdh0crRW3sZQPnhB33uTHhEwg8+eh6Q3NlpkZmrzESMtZatBQx6jVrTfCXbR4wpRkOE3MJWomdkWaXsLhnVi2KTrSz2DTHqGd+PZ1oe2HeVAvpMCxxoSAqbttmpuxBj0L83IrZTDkLFCI2lJKxBBrHn5Rua0rCKwX/PR9K1fWWiBZYy8yip/e+ODKo77tyPCDn7tQy7IY+lKwY8AurZjyBX+rDgtVOA="
+    },
+    "name": "Zombie Minion VIII",
+    "tier": "RARE",
+    "generator_tier": 8,
+    "generator": "ZOMBIE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ZOMBIE_GENERATOR_8",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ZOMBIE_GENERATOR_7",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

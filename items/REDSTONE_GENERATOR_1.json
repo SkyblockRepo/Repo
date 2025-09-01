@@ -1,0 +1,77 @@
+{
+  "internalId": "REDSTONE_GENERATOR_1",
+  "name": "Redstone Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining redstone ore!\n&7Requires an open area to place\n&7redstone ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a29s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REDSTONE_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MjAxMDg2NDUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlZGVmY2YxYTg5ZDY4N2EwYTRlY2YxNTg5OTc3YWYxZTUyMGZjNjczYzQ4YTA0MzRiZTQyNjYxMmU4ZmFhNjcifX19",
+      "signature": "nsDZdn0lGgZX8PsulgeCz+bt/annvokcukmJJv1XEY32V+S63yIZqc8wCSl6Ktd8yUEVtIZzCUUXLJulkac5ESW96ksWtjTQ/OA3bjr8Jrfp2nGr83vSQoHjhUktQv58ajUx8mDLIKq5OxJ7XVmIBXZD+e+sNEx/IimmZrkSowRlR9TUVZhcpucO1GRZO1fKAHN5Ek7JbzzYMGGS9L8lH4EBVcl0jRZvGfP1xy21MxplZLPV8AgMTWQCRXfnFi/9DgK2um0HxklTKrjnLD8u+L6+6FCL9l73NBN9QgMX2CyBGzWoebwMqU0k29PKpvNdBE23TY7YmGgeTWaEA7UEF6CoAbdPg5PrAcf6MBRLiNclCIATA+wBMCVY8+Y+PB6fkAjkCKHWM3kS/wrW8ZqKDg/qdYg4r954HamremqjbphZ9QVR3T8YIpyuCL8KRSwLYJJNuqgENl8u1hPSOiqpsdPo4aXX+O9IHN86Ory8LpyIpeooT2mcBPx2XQYW/o43XAnDEbWvcg34t+TcwxBI9FOJuYXnTeA/IuztbXq5znfMLIiYAHD6Rj6I9e/5pwoJDR1N4jXYOsTuNpwQ2yVgcjXtPyUIEq1TE7hETrS14NbC/WEX2MtPgV7S5JoJwTEG0+hpMQNcwb/s0KDIWoAiDLZT70O+Upvprhs/fb8KeV0="
+    },
+    "name": "Redstone Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "REDSTONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REDSTONE_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "WOOD_PICKAXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "REDSTONE",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

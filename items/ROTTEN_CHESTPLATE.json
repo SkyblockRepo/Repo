@@ -1,0 +1,110 @@
+{
+  "internalId": "ROTTEN_CHESTPLATE",
+  "name": "Rotten Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d150 &8(165)\n&7Strength: &c+20 &8(+22)\n&7Health: &a+125 &8(+137.5)\n\n&7This rotten piece of armor grants\n&7&e15% &7knockback resistance to arrows\n&7per piece worn.\n\n&6Full Set Bonus: Sieve Body &7(0/4)\n&7Gain an additional &e20% &7knockback\n&7resistance to arrows.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 1&c.\n&9&lRARE DUNGEON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROTTEN_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "1,125,49",
+    "name": "Rotten Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 1,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ROTTEN": 2
+      },
+      "game_stage": "AMATEUR"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "gear_score": 5,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "HEALTH": [
+        125,
+        136,
+        149,
+        162,
+        176,
+        192,
+        209,
+        229,
+        249,
+        271
+      ],
+      "STRENGTH": [
+        20,
+        22,
+        23,
+        26,
+        28,
+        31,
+        33,
+        36,
+        40,
+        43
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

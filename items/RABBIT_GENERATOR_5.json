@@ -1,0 +1,77 @@
+{
+  "internalId": "RABBIT_GENERATOR_5",
+  "name": "Rabbit Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Rabbits!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a22s\n&7Max Storage: &e448\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RABBIT_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDYyNTc0NTYsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q0NjVhMGU1MDQyODZiMGRjZWE0MjVlNTk5ZTgyOTZjNDQyMTM4Y2VmY2VhOThjNzZjZDk2NmZlNTNkMDYzOSJ9fX0=",
+      "signature": "rOi429BUBx1bNYLAVGSWXtPjQmwst/OYbPp0lX34nATx1TLsfBICDBBxvgpwzGYgKMxXM3RrGcXCSHLujp0SeGxT4zaODU/Y6nV+LNYJq5BVMcw0Mc/XXXSUAwn/SvOmFY9+mgp/gcZ7KptxJp1SlygIM6vmspepvYzTCdTWYsF7GJWWWMyaivaemPkeZAOSv1b51RHahum0wihjab8JRRssAS3JY/sCxlOuHWB2bxVfFOc703tH16sPf5s9FS4dV1O+ArWXzj/lz6Bu9n2wGMR+cRL8xnvohuTrdVMujV4FhN2vWLQa0QgCy6AHm94U1ezqm+ota/+/frj4S8Qm33/rsba1WecqVvmo/jRKAJq98cLlF1THEq6zFIQUQOgVAuB/3/DvLtTKNH4YOcn9ReQz3waO1jttXR9hxsLjxJt9VE9yL2iq/rWFdMvZpc2oq96/bXmKFCp+fBiiLv5TPDgX5ZZtObpFj9eVQtNHM04BroE1JouL8P3V6pM6kIL+pzXXg0UHuFk8Xd6b3tPvRHqixjmlzdoUgo1MfuxMpV89uPjwoPgDCMJ8yxNXxErhAz3iSw3vZ2gDSVrBmSaN1gOaFSPOj9lzDEB/zPHtXUMZhAZPE6dw/0DWGXn2Qqvyh366XCC48xEcOyPSsSb3oZom3I/uw5yhOB6iyi1Eam0="
+    },
+    "name": "Rabbit Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "RABBIT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RABBIT_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "RABBIT_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_RABBIT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

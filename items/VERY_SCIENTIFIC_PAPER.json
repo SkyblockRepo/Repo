@@ -1,0 +1,27 @@
+{
+  "internalId": "VERY_SCIENTIFIC_PAPER",
+  "name": "Very Scientific Paper",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Authored, peer-reviewed and\n&7published by Kay.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VERY_SCIENTIFIC_PAPER",
+    "material": "MAP",
+    "name": "Very Scientific Paper",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "description": "Authored, peer-reviewed and published by Kay."
+  },
+  "recipes": []
+}

@@ -1,0 +1,37 @@
+{
+  "internalId": "VERMIN_BELT",
+  "name": "Vermin Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+100s\n&7Intelligence: &a+10\n&7Speed: &a+4\n\n&7Monster melee attacks reduce &a1 &7less\n&7&aф Rift Time&7.\n\n&5&lEPIC BELT&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VERMIN_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MjA4NDU2MTY0NCwKICAicHJvZmlsZUlkIiA6ICJhODUxNzQ0MDNlNjg0MDgwYWNkODU3MzhlMjI5NGNhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYVJpdmVyc09uZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTIzMDVlMzA0ZTAzMTkxMWI4Y2QxZWRlMDZmNThmMjQ3YjMzYmFkMzFmYTFhOWIzZGQ5ZjZkMmQ4NDVlODA3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "TIqw7fJop9pzKd88rdhY8Cf53BEsTHRkf0VQU/H5FVjRFEG3+PNsCbvXnPlGu63GAukwKKCFrUN4790NJylZN6yPzLrioWpqvPgsik7qNbqbCQSusD/ZXRwBHTqkaLWuF24Gid2gaJ7v2uziQG3sXjivGN1ey2v5E/Q4AhtwoZ/m3cwiM3J2HmA7mlFG6Cg/+9wm9DRKMF1haYZ2zpLXytMH+dxmV3hD0meKoMeHIcLlXEcEsdT6/92USAh440XAd/JzcJS5M9WKYFf5FmPCv6cppVO7Ng4VuZzVu164+Ef71ca766sRpjRmFnZaIFI3V6rk/8FQks7W7mPK1ISYYqwXY6AXqtHUEnUThBUXtOAs+UAld87v+2mOBaRT9rxstiforjuy7EHCw21MHYqjPLQz5RNB7hHIDBGsYMYVmVCEKd7sGwqGJbO2HBgqJl5o2jncTQF6VSFyB+a2kbKyJM1P+ItAbL91RF2KypQchRszCN8Y0iDVK+DeNu7j24Lr9wvKQ+MUNYUKYFbCsptlZgebw97AGkMdbUHu2EZKPTAswIosN9L+tfJ7TcLAx1ArGRvORvKbLV2YF61oR9oVuJAxTQm6cM3mQxbB3CNw5aJEgcTC0Q/F8cc9TIWnRI+tZq0AzmsgUI57TuirUIY4MuBOPSoJ/4mCAPbhpgKA7Lc="
+    },
+    "name": "Vermin Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "stats": {
+      "RIFT_TIME": 100,
+      "rift_walk_speed": 4,
+      "rift_intelligence": 10
+    },
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

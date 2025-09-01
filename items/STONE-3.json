@@ -1,0 +1,26 @@
+{
+  "internalId": "STONE:3",
+  "name": "Diorite",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STONE:3",
+    "material": "STONE",
+    "durability": 3,
+    "name": "Diorite",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

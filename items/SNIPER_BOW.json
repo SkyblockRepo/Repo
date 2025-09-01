@@ -1,0 +1,106 @@
+{
+  "internalId": "SNIPER_BOW",
+  "name": "Sniper Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d95 &8(104)\n&7Damage: &c+94 &8(+103.4)\n&7Crit Damage: &c+1% &8(+1.1%)\n\n&7Allows you to shoot arrows much\n&7further!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 10&c.\n&9&lRARE DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SNIPER_BOW",
+    "material": "BOW",
+    "name": "Sniper Bow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 10,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ]
+    ],
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        94,
+        103,
+        112,
+        121,
+        132,
+        143,
+        156,
+        169,
+        184,
+        200
+      ],
+      "CRITICAL_DAMAGE": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

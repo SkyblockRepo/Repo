@@ -1,0 +1,31 @@
+{
+  "internalId": "ANTI_SENTIENT_PICKAXE",
+  "name": "Anti-Sentient Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+5\n\n&7Allows you to break living metal ore\n&7and &bYoungite&7.\n\n&7&8This pickaxe is not a particular fan\n&8of sentient pickaxes.\n\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANTI_SENTIENT_PICKAXE",
+    "material": "WOOD_PICKAXE",
+    "name": "Anti-Sentient Pickaxe",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "stats": {
+      "rift_damage": 5
+    },
+    "origin": "RIFT",
+    "motes_sell_price": 25
+  },
+  "recipes": []
+}

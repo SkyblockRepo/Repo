@@ -1,0 +1,65 @@
+{
+  "internalId": "ZOMBIE_PICKAXE",
+  "name": "Zombie Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&8Breaking Power 3\n\n&7Mining Speed: &a+190\n\n&6Ability: Rotten \n&7Grants &6+5☘ Mining Fortune &7per\n&7Undead mob within 30 blocks of you.\n&7&8(Max 25 Mining Fortune)\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_PICKAXE",
+    "material": "IRON_PICKAXE",
+    "name": "Zombie Pickaxe",
+    "category": "PICKAXE",
+    "npc_sell_price": 3,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "MINING_SPEED": 190,
+      "BREAKING_POWER": 3
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ZOMBIE_PICKAXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

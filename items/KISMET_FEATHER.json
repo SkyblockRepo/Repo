@@ -1,0 +1,26 @@
+{
+  "internalId": "KISMET_FEATHER",
+  "name": "Kismet Feather",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Allows you to reroll a &cDungeon\n&c&7or &cKuudra&7 reward chest.\n\n&7Keep this feather in your\n&7inventory or &6Dungeon Sack&7 and\n&7open a reward chest to use.\n\n&7&8You may only reroll 1 reward\n&8chest per run!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KISMET_FEATHER",
+    "material": "FEATHER",
+    "name": "Kismet Feather",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "BOOK_OF_PROGRESSION",
+  "name": "Book of Progression",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7This book, imbued with great power,\n&7upgrades as you do.\n\n&7&8''A wise novel once thought to be the''\n&8''cure to all problems.''\n\n&eClick to select modifiers!\n\n&8&l* &r&8Soulbound &8&l*&r\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOOK_OF_PROGRESSION",
+    "material": "BOOK",
+    "name": "Book of Progression",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

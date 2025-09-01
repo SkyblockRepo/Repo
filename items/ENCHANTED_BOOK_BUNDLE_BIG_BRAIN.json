@@ -1,0 +1,35 @@
+{
+  "internalId": "ENCHANTED_BOOK_BUNDLE_BIG_BRAIN",
+  "name": "Enchanted Book Bundle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&9Big Brain III\n&7Grants &b+15✎ Intelligence&7.\n\n&7Right-click to open this bundle\n&7containing &f5 &7enchanted books.\n\n&8&l* &r&8Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_BOOK_BUNDLE_BIG_BRAIN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MTgyODU4NTc4NDQsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1YmUyMmI1ZDRhODc1ZDc3ZGYzZjc3MTBmZjQ1NzhlZjI3OTM5YTk2ODRjYmRiM2QzMWQ5NzNmMTY2ODQ5In19fQ==",
+      "signature": "xyWiCC0hZjujkri7H0RdbdirsnW9VBXClLFYGe4tsRyJ6N8yoM3R7RRpbAnGh28nQbUbIc6kOEJvHeaH3zkkHTeQYG7f5D00y4JZ0F/uXTTdHt1orAHRphl7M9O5K+kw2t2bG4Nx7use0Ec6DRF2E7hNfC5fyiYxUXor7PFeIQNWF36MbzndfO0HV3HShR4mTNiCZJ1PohVW6InmFHVNuifk/x/B65TpM/xPlLFEykuHqOzya6C/e4PsYHgyVzIzF+Oz9lQfqOcskZ0BKEQjqWLfY+OhOW+4j2c/IE2HeKKMs9E5qHrhPy0VwIo6BFAwv/rj0X1EIyhVNrmgrRYlrSpOdtMm8U3j+84CY8Kin8P5NjcjFZv58gdsGOCkO+nJM0pTDR09MCCyZgJF95r+hQFFLYA60AO+9yU4mIOz4sSQ21Ab4b2dJiVyfz0NN4iWAaUatT2u9gO8MCzfz4xrVI1WAgxCEcrggEgFk9lWgxVcgJE8DNxO3K+pC3Y1MybOQBR/3ZgVAQcLrSr/F9F0fdjEPyEIXeU/a/IdtgSaVSa5yXYbmltCyMmm00fpXoy+oeSivEiCEhmn5MyblFhYPo8mrVHXKiYG90YyAEvTm9hAuyrYkx4lGrIsxoLH7UsCDVdFLQEkeLgexW03kQs6pn/7nmlt0pe5pMMkpIAI5kE="
+    },
+    "name": "Enchanted Book Bundle",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "soulbound": "SOLO",
+    "enchantments": {
+      "big_brain": 3
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "CHILLED_PRISTINE_POTATO",
+  "name": "Chilled Pristine Potato",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7Effect: &5+0.1✧ Pristine &7while in &bGlacite\n&bMineshafts&7.\n&7Duration: &a60m\n\n&eRight-click to consume!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 7&c.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHILLED_PRISTINE_POTATO",
+    "material": "BAKED_POTATO",
+    "name": "Chilled Pristine Potato",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 7
+      }
+    ]
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "NEW_YEAR_CAKE_BAG",
+  "name": "New Year Cake Bag",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Holds &cNew Year Cakes&7. Each unique\n&7&cNew Year Cake &7within this bag grants\n&7&c+1❤ Health&7.\n&7\n&7Current Bonus: &c+0❤ Health\n&7\n&7&eRight-click to open!\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NEW_YEAR_CAKE_BAG",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNjk0NzIyNzk0NSwKICAicHJvZmlsZUlkIiA6ICI0ZjU2ZTg2ODk2OGU0ZWEwYmNjM2M2NzRlNzQ3ODdjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkZTdjZGViOTcxM2E2ZjljZmVkYWFkZGNmZmIzNTU3MjE5MTFmNDlmMmZhMWNmMTE4OWI5NDllMmYwZDViMjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "wxB+lrXC6jZ6b7+S5o82ybH1zh53A21NRqhUxT4tB8lDSDa3jHTFEEFYWd92s66eDdtUd5UyaJUmYaTKiOB2OmzQtN3MG28l86WmZtLrugPvzGBaIzcQB9OnCIKSjZyPDjwDZMzhhWnhum7YPWy2MY8IE0bRYEqaBFCDPmu6d//MUJq0nyurzDVw8gILjnDO/HUBoXdeHo7MpPzHEMt1EIKpqo+38SaKd1TGI4AmNQgve8jZ0bFfh9QvPTfTeFxz6rNle10B9Bmp8SiJ2KVr37stoAQ13jYaHnwnomBBOq3/d89G4PgqbUPi3W9/nf3HshRzOS6P7Yu6J4jTeEc7xWumgQBqVHWR4fNOMT1CXMHfj7S6SgjtYf/Oq2nVZJLkFn3sgaBg4X5juh+t59EtU9vYOoCpSSKqPLvrErfyKULzmPdmbqKJ5jBAwekxWYenCBs3+CMEBOMYYLDzT8PMqnCIwJ/+vaNEQ4hDldz3WtmGZNHuIaXlTfCM4si76NjtigSrU0NtuWbT0KdI5NGbKCFOX2tK9HWmjt/0FdrehhM+xdBVB5MG0QSQix1yU0rersAgIj7bd41xmSY5j1IAPXUgCe/pnhnlpEgoy785OX7TiyvGArbL4CsHIVF2cytJbk9L1YtlSuguTjBB6o4MactF1lBJI+HKpc2pNajpRLE="
+    },
+    "name": "New Year Cake Bag",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON"
+  },
+  "recipes": []
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "EPOCH_CAKE_SILVER",
+  "name": "Corpse-Flavored Century Cake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7Furniture can be placed on your\n&7world. Some furniture is interactable\n&7while some are purely cosmetic.\n\n&7Invite your friends to share a slice\n&7of cake! Eating this cake grants &b+1❄\n&bCold Resistance &7for 48 hours.\n\n&7Obtained in &fYear 100&7.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EPOCH_CAKE_SILVER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTYxOTM4NjE2NCwKICAicHJvZmlsZUlkIiA6ICIzZGE2ZDgxOTI5MTY0MTNlODhlNzg2MjQ3NzA4YjkzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGZXJTdGlsZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OThjODhkYWZlMTMzZTc5N2YyOTk0YWNjMDUzYjM5MjZlOTI5MWQwYjcwOTM1OThiMzlkMjcyYzdjOTRhMzY2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "HxLo7Jxv+LEeoxdcvIWzYP/L3aK4oZIeJxX1dwXCHL7SVXHfwKWF5YqJoOt9F3SVlgNPDOcf71d/yFWSHgLnjBPfss+BZhtO9aFe9Bp1LkHFxZPKFKY2WcL7g/Frhd9We6D8eGJrLuKwoWrNkFAzwirHv0zC+UHimEvOZuhP3nQ7Wg4+V/NNvz/TV+fFxiAWHo64qhs5TCYYLV00UHKIaD44d5oZbnHbzyrQDy+cabxSDPFpFvROq9JlCTFi+N6aFf4AyGUW5hed4xwqNOqp8AeGQCTb62MVEhrOalWPm6MkhVcUnb6uPNBnF1pX+jvQh53aZUp2IR7G9o3U77MHithz5nhAzyLOBat6KjCqWDT3cf+8KPuV6eM/juK70pTXjo356f4jUQY0e9gv814jt2bOWcmHPMbNKwlcTjt0ICtk1x0nfMLmVHOfcFKuJ2juCERovGUjtYyGwvBnmNmHZruw5wnl1+0t3BzkaZpxnsenImpj47/m156+4nmI20XpB2H0GtoJ0PnKH0VqhjhcGUlcTf9cadyMKKl/xDLCIVInMIwFp66SJiLf8XT2XsyR4eTPAoSrtNp1WwlsVhQEABYvI8tEMy01JhJlLDtTdYBF7AQZ8rZI7/kBnNh/oK2tV8gbJYXgSjqgpqtd+G/3ENRcT8M/hZim4mfGIFVc5TM="
+    },
+    "name": "Corpse-Flavored Century Cake",
+    "tier": "UNCOMMON",
+    "museum": true,
+    "furniture": "EPOCH_CAKE_SILVER"
+  },
+  "recipes": []
+}

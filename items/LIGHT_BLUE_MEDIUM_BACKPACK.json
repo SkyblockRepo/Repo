@@ -1,0 +1,75 @@
+{
+  "internalId": "LIGHT_BLUE_MEDIUM_BACKPACK",
+  "name": "Medium Backpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIGHT_BLUE_MEDIUM_BACKPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUzOTY4Mzg3MCwKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YxYTIyYzllYjg2YjEzY2UzNDNkNWRkNWM2NTlmMDAwYzVhNzVhZTkxZTI5YTQwYmRkNDNhNjk2NDk2N2MwZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "YfKEyjF+ctZ5PdbB8YT/IwJ+kqF0Kc9X9hcHAjWmWhEIVuBf/O55KG919ZFxYLSM4ESoDnJ3JP36lG2eogPxbYghhCmrmOmm79x/+jCafp6ep4ksUPCKkIUBEDtobbrEGwx0UaECIVACL38u5rGFL+Mr4+C0Y6RnfrJ7W72deTBILgNHjdXcdaP3HD+W7o62arpjdGHdxWjZ6B24XCapXVy+OaIllQZDLzlr6Uy1GqzE9hIS3T0+QYEZ7qfURlWEncqeAJfQW5eRU1liigWxlK4NcSKMrHE6PF53sg/qZhsu/sBaw1MrDF+0ikwiFIlXQG/CrNX1p0q5kU9swr4Ea4gUk9uLUQwJ7Y1YH9wQX6xj2lDPjFKcfWr4STfL2FhmUNhhFCIsGTVEXwsBiLwE5ywBV+tK09FmJhdPzIV+WhbC22B5nWMesiyMZE0JfaGZJt7Bg2XbnlNgpa9XXG8r3PaP8++2y54pMJM4Qo2HxVVpNh2hBJ20/ZZ/UyfYP3ga1DR6Yaj74/patGef3ToyWBHRZsy6R5zo8cbf0vLYR8gAbRLCtJsAYm6twk8VQaFjOBHvC9PiCojNNXlJe7OreRLr9E4ZB8JYY2oQUNerpsAw7N0wOE6VX9f3tNdgAXq4boGc16dtXMNPsgM53ivoooFhSZdUpZY0o/h/urUjNXQ="
+    },
+    "name": "Medium Backpack",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LIGHT_BLUE_MEDIUM_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MEDIUM_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "INK_SACK:12",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

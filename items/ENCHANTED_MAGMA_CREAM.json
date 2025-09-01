@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_MAGMA_CREAM",
+  "name": "Enchanted Magma Cream",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1280,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_MAGMA_CREAM",
+    "material": "MAGMA_CREAM",
+    "name": "Enchanted Magma Cream",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1280
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MAGMA_CREAM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MAGMA_CREAM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MAGMA_CREAM",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

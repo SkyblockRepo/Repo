@@ -1,0 +1,58 @@
+{
+  "internalId": "GOBLIN_CHESTPLATE",
+  "name": "Goblin Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1500,
+  "lore": "&7Health: &a+140\n&7Intelligence: &a-1\n&7Mining Speed: &a+10\n&7Mining Fortune: &a+4\n&7 &8[&7✎&8] &8[&8⸕&8]\n\n&6Full Set Bonus: Smart Miner &7(0/4)\n&7Converts your Intelligence &7into\n&7Mining Speed&7. &6+&61⸕ Mining Speed &7for\n&7every &b15✎ Intelligence &7removed.\n\n&7&8This item can be reforged!\n&9&lRARE CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOBLIN_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "55,176,66",
+    "name": "Goblin Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "npc_sell_price": 1500,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      },
+      {
+        "slot_type": "AMBER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 5000
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GOBLIN": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 140,
+      "INTELLIGENCE": -1,
+      "MINING_SPEED": 10,
+      "MINING_FORTUNE": 4
+    }
+  },
+  "recipes": []
+}

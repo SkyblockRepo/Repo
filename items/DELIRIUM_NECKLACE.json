@@ -1,0 +1,275 @@
+{
+  "internalId": "DELIRIUM_NECKLACE",
+  "name": "Delirium Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 52000,
+  "lore": "&7Strength: &c+1\n&7Crit Damage: &c+1%\n&7Sea Creature Chance: &c+1%\n&7Health: &a+1\n&7Defense: &a+1\n&7Speed: &a+1\n&7Intelligence: &a+1\n&7Magic Find: &a+1\n&7Ferocity: &a+1\n\n&7&7Increase the fire damage you\n&7receive by &c8% &7per &c+1❁ Strength&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DELIRIUM_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU5OTM1NjU3OCwKICAicHJvZmlsZUlkIiA6ICI0NmY3N2NjNmQ2MjU0NjEzYjc2NmYyZDRmMDM2MzZhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXNzV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNGNiZTg5M2UwZjgyMzAxYzVjZGNlMWI4MTgxODAzYjRmYjgzY2JmMzAzMDRkYjEzOWEzM2Q1NjlkNGVkOGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "tqONtllprJr9+MZ2QsuJR5DPMzv1op9yN3GHmHfPcOe7VvHv6+++jWSQ6cwdDD7w0wzA835e4SnOYbLi26c44rAGd9bMsJDk6v4a9DWOqCYLClkZEWYq2Q8IJnM61BVcmLr2FK6qsSQyRfYf7fFX4HqhDLK2Lj4+dNy/5FS5kgVFuQGY5mZxlYlLFA646Sl31tMjxTndThZVROuZlv1ECVo4LwgZeyiiVCYMFTpeUmMx9mpmbQTjq3p1ijpYoQdoi6OYMPsHWqQgHVA5qNVjv5lt6jPB1lB/FeOfsRpFPhwhPbw9lprWVV3z6T3HinZLVzlPg7QRhc9TzhANAfRu+AIYzGd4322OfiBM5l40jcH7LzQdLwgQpDhxzekkb+C/dcFCvlfynlCv03fILbz0ga+vVSZfgxwKV9MoAT/pCxr5YQ2YJMamkd7jWbbUnSJKGNM/Ki5ku4pWRpF5Ep2RmBkaF2kFTrHkhx7x3QcWqdRU5VrQB3oVmEoYo9JUEbW2n/B5uXVH7Ek5n7Z6HW3ZKQDzt6fHH+mwkceTQbyoHAlQ5eadFHnUSHgW5MttjI4KwM2cEQofv8Bc86xNTrEfG8oztb1xQxtbefdP/EXF4oEBocPYMnXpZTnOCEealGau0ryFbStncjAd2xxafwmCMLG69j0x3TQxSjrZSgs7SF0="
+    },
+    "name": "Delirium Necklace",
+    "category": "NECKLACE",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 52000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 1,
+      "DEFENSE": 1,
+      "FEROCITY": 1,
+      "STRENGTH": 1,
+      "MAGIC_FIND": 1,
+      "WALK_SPEED": 1,
+      "INTELLIGENCE": 1,
+      "CRITICAL_DAMAGE": 1,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 6
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 8
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 25
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 750
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 12
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 14
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 18
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "GAZING_PEARL",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DELIRIUM_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GAZING_PEARL",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "GAZING_PEARL",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "GAZING_PEARL",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "GAZING_PEARL",
+          "quantity": 5
+        },
+        "8": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

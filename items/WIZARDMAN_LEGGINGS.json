@@ -1,0 +1,68 @@
+{
+  "internalId": "WIZARDMAN_LEGGINGS",
+  "name": "Wizardman Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+100s\n&7Hearts: &a+1\n&7Mana Regen: &a+8%\n\n&6Ability: Friendship is Power \n&7Gain &5+1❁ Rift Damage &7and &b+2⚡ Mana\n&bRegen &7for each other &7wearer within\n&7&a65 &7blocks.\n&8Max of 3 players!\n\n&7&dSame color = 2x stats!\n&eLeft-click to pick color!\n\n&d&lMYTHIC LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WIZARDMAN_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "name": "Wizardman Leggings",
+    "category": "LEGGINGS",
+    "tier": "MYTHIC",
+    "unstackable": true,
+    "stats": {
+      "rift_time": 100,
+      "rift_health": 1,
+      "rift_mana_regen": 8
+    },
+    "item_specific": {
+      "max_players": 3,
+      "range_blocks": 65,
+      "damage_per_player": 1,
+      "mana_regen_per_player": 2
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WIZARDMAN_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "TIGHT_PANTS_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "TIGHT_PANTS_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "LEGGINGS_OF_THE_COVEN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TIGHT_PANTS_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TIGHT_PANTS_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

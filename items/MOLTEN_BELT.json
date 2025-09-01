@@ -1,0 +1,147 @@
+{
+  "internalId": "MOLTEN_BELT",
+  "name": "Molten Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 93750,
+  "lore": "&7Strength: &c+20\n&7Health: &a+30\n&7Defense: &a+20\n\n&8Tiered Bonus: Molten Core (0/4)\n&7Gain &a5% &7damage resistance while\n&7fighting &6Kuudra&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MOLTEN_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQ4ODIwMSwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdmN2Y1NzIzNGI5OTg2ZTg1ZGE4NzhmYjNiNjY3MGYxYzcwYTM1NzBkZGRiZTlmYjUzMDkxMzA4MmJhNDRiNSIKICAgIH0KICB9Cn0=",
+      "signature": "k9Pphe0nOuyxTI+rM8z8uHDptlf2Zv5/LX+ZJh0ofNlVgyNDjsptrM/SXtUOgGOQOtIoM4XlMaDDIzRIk85GT/aaQ3O1CYKio9rhtRwlMmSAQ3wfGV7DjghkHBEjn0/N/aAEqZZrdr7d07alzXdcpp0xLNIX2WsKM+ejM8bxdhIIRqCz/bp6hZNaH+jZcKXE89SYfmJtq5XALD8NR1i3rVopg/xxSfVie+Y+apMUhZUvcnDeyMSP/ghiaZYKtoEKMCwM0/ZBZl8tKrt5q+XegsCPOOBuBMMrfdbry7AWXgFnKJivsn1+/BNmKh0vZsT6JIo4L78fyT1/67C0cTEbxoU9Dc4fj2IiGum5RNVlD2gqBf/EOh8rJU6GSwRzaQlpj7LgpSbCnPcs4xDGRTfMRrMD6rJR01NHoUA5/qHt33mYhEwLGOnX7AsKTSatfZVyPKJVdiqwR/1FuFVFO0Y/meELjbu5WJrTKMyI5QZZmsuX6iVy1WX/WYmbzXB8J0yqsTR1k5TlZKrEERTmOPfl8I36AvGDTR2+L2wTTf7U+mqqC2qCq/dFhuKw5UCSeS948poeQT/hPF84fFA0PyeVFpWIJKG1tvcZghzx2CbU+TT69GeKM+jTy7oIrTOrFpZxgIL3scNFmdQMDTqw/ARL3WlQJ/xss+PnkZJcxbY84Kw="
+    },
+    "name": "Molten Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "npc_sell_price": 93750,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MOLTEN": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "HEALTH": 30,
+      "DEFENSE": 20,
+      "STRENGTH": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2500
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 15000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 6
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 8
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 70000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 10
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 500,
+        "essence_type": "CRIMSON"
+      }
+    ]
+  },
+  "recipes": []
+}

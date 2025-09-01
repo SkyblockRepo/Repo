@@ -1,0 +1,113 @@
+{
+  "internalId": "ATTRIBUTE_SHARD",
+  "name": "Attribute Shard",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Combine with items in the &bAttribute\n&bFusion &7menu to apply attributes.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ATTRIBUTE_SHARD",
+    "material": "PRISMARINE_SHARD",
+    "name": "Attribute Shard"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ATTRIBUTE_SHARD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 8
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ATTRIBUTE_SHARD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_EGG",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

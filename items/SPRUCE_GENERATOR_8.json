@@ -1,0 +1,77 @@
+{
+  "internalId": "SPRUCE_GENERATOR_8",
+  "name": "Spruce Minion VIII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping spruce\n&7logs! Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a38s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPRUCE_GENERATOR_8",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDUxMjc0MTksInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQzZjdmNDIyOTg0OTBmY2Y3MWUyN2E3YjRjNWVkNWYyYzU1NmM1OGM5N2ZkMGYyZTM0NjA0ODhkMzI5MzhjNyJ9fX0=",
+      "signature": "QFtEnrSIzF2AweyQHWhUVC5IMO9gyZCbbCJGKa0ZPMtv234deve1S4ccPnc1thFA87f8m5RWiYowstaC0mMTlvnqGpqBmn8DLjylvZcO0VQN50WYF6h//NDWW5b6Vcza++BlrKZLOFwGqqB/zY3DzQpm5jcWkdKtxOx0VRawebgTSJf2dA/7633UvPxWuoWgxv5yPR9SzJK0kczf//wDfe5N/ELOPwj6bFf/zsD0eSoraIgbtwNJpRzrPXPOugxm9BWeOPMZp0FIysSEJsCjaRza2iWyeKNZ/DI8iH0N96lYkGtcn78eN/CH6C8X+aHpMH16bfloy0x2dod44fgAJm/BJL0KweLJeptbF5AuXBO62HWryqfDYsbPCsj6HJHJaecFOSmqoKr6Myneiuo+ojO5gAQxHRMvNxnz2UGcP4UtWXmBy4Cduo2j4zWuM9FGmZobC2LQ7HytkigGuidxqZ6moi43Y0SxGiSAy/GRmuzgXb7xkzUtf+qjBwfCzL/nqfCGDgmDFhYe/Z7vUWTBCGRxwEWX5AdEtMEh3MxEXmFPBOkl7FgZ+gbZbQUETmelXfCLWGA7pz/Web+6cHrUe3G3qTKuoy7q6uuZ3L8ftQ52dh/lbx22cCq7woVx9kQlby0XXh37bMWrf6xIoV68KYP7SEjSB30Oyzx3qSRcGc8="
+    },
+    "name": "Spruce Minion VIII",
+    "tier": "RARE",
+    "generator_tier": 8,
+    "generator": "SPRUCE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPRUCE_GENERATOR_8",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "SPRUCE_GENERATOR_7",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_SPRUCE_LOG",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "internalId": "VOODOO_DOLL_WILTED",
+  "name": "Jinxed Voodoo Doll",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Acupuncture  &e&lRIGHT CLICK&r\n&7Shoot arrows from every direction around\n&7the targeted monster.\n&7\n&7Monsters hit by at least one arrow are slowed\n&7and receive &c2,222 &7damage/s for &a12s&7.\n&8Mana Cost: &3180\n&8Cooldown: &a3s\n\n&8Who do you voodoo?\n\n&7&4☠ &cRequires &5Zombie Slayer 5&c.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOODOO_DOLL_WILTED",
+    "material": "RAW_FISH",
+    "durability": 3,
+    "name": "Jinxed Voodoo Doll",
+    "tier": "EPIC",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 2222
+    },
+    "item_specific": {
+      "mana_cost": 180,
+      "cooldown_seconds": 3,
+      "slow_duration_seconds": 12
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VOODOO_DOLL_WILTED",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "VOIDLING_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 13
+        },
+        "7": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "VOODOO_DOLL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

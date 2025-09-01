@@ -1,0 +1,32 @@
+{
+  "internalId": "ICE_GENERATOR_12",
+  "name": "Ice Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining ice! Requires\n&7an open area to place ice. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a6s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICE_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTU4NDA5NzI5MywKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZTljNTg1MDMxZTQ3MDU2ZGFjNWY5Y2QxNjNkNWZlNjQ0ODk5NjViZjllMjM1MWQ4OTM1YjU1MzVjZmExNzBhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "qT/mAlPoVhkB27qILOtvEVhiIed1rh1dO8gAlHXJdlbamY4m4MonpEdth2aMrao4naMdKlDPUBy3Qtm5ZGHXsRTUmI26oYak9bh6zphlbkLArALjouNI9AYqLduQSi/fqxxkoXz+Wk5865jJ+Ie/rdnspYTzXty7fWlTDfzVxqtXGuQVMEnCvQ7vct1TKUkdOSytbbdfCDOTQP21TXirbxvLb0DTtR6caxgWWxdp8a+4SrAhHG4SHDNsNgOM4oW9RI7ofxiAtePV0a5C1S55kkqvX62FW8iltRHrFLOG/DsLjsUPkdSOAgKQaPIXuNZ79dEiY4eCRLgZk4xu/kHRNj0qi5DJClaJlx2dUbgRolUCkuB3YQwcatdWiQAfYKxecBk1h/I4I9uCw57CDg5+AfOsf2f4EaLbwexSiqJFMHhyhUgEAoxLTaqO3V16Gt5zMF+V9N+rIMDCPm0aioqLuTVYK5ZWlrsVKsdtBmZuMAE4y1jM+TDtXu0UPMK8xRbBIkAnbY7jopsmb52ODNKm81IAVzJO7Vg+2XIZlyrtrI+TC+ttyQYVtDXx817iOt8iYKnydZog3Cl7POdKFN3p/Q7bEeFEkXX9X4W6tJ+YZWQEjl3w3ffMxTJVYB6RYw+JiTQN+07qGJP3SQlNVhgjYxyi4VunojHQF7e20IOVww8="
+    },
+    "name": "Ice Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "ICE"
+  },
+  "recipes": []
+}

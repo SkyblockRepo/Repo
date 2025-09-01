@@ -1,0 +1,27 @@
+{
+  "internalId": "ENCHANTED_CARROT_ON_A_STICK",
+  "name": "Enchanted Carrot on a Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10300,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_CARROT_ON_A_STICK",
+    "material": "CARROT_STICK",
+    "name": "Enchanted Carrot on a Stick",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 10300
+  },
+  "recipes": []
+}

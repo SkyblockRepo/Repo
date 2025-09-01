@@ -1,0 +1,31 @@
+{
+  "internalId": "BBQ",
+  "name": "BBQ Grill",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Summer Cosmetic\n\n&7This exclusive &aSummer &7cosmetic can\n&7be placed on your island or traded.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BBQ",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU4OTQwNTY2OTM0NCwKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTFlYWVhMjVmM2RmOGU1ZjAyODdkZWY3MmQ0NDZiY2RmYTk3YmUyOWNiOWU2MTVmNzc2MDFmMTU5MWQ0YzY1MiIKICAgIH0KICB9Cn0=",
+      "signature": "CkqqNQ/MKX34mMtmHvBb4QILGCU0ERh1+JoSIgw+b07X4EhxP/tc+DUBbia0unhr+rtuvRQubsNfDiNtXMUjPLbCdzgileYXXGofonbW4yW33SDbZ355x1YDTX8cX6LrtFK1XqbRe+CkQCvZHOjgmuEAvWysDxPlX0532Xei7/pRdK3D9+zGm0SLAU9SmQk5yhTlzBo3oczvQjGZRDurlpXrBSFhAKirn3humMIldL3tDNgQSLUZQ/ZdoLBdRScQxh3fzMLhDPPWTi33igUodO/lQRUGmE6pC+NBq8CHQNRJVC2G4S5H6v4kjCNqHTs5u/aiyqU+mWJAECeIsb8qAK57VWQtFmC3CYhQEi6im7NL8rAsn057x6j2txGfaGlXIPiYvYk4rmTL7wYMQyYnCJRDsM8UQlBeQ++INRVRTG35tHrRf0fqFnAKAgGQP7+rcqwZRXeFHIqD/M02CpZSNBEfPnf6jq+GO/Paj5R7zSlSS5pLmSEYl72hZnGL9KvPc+p34Jdkr9D5vJN6z0S6h2UiMn/HzOg4FBtBpaLJ40od486tn51b6045zdw6+hqqVnh+HtCNeJFP8ifU/wI8zPl8j0ut1T5Q/f5aY+AFyy4GiIAhvaNBQAmb4S3FggvhO4mFZeTepKjt18N1018KnHaG1ukCg8W8m586OaZqmis="
+    },
+    "name": "BBQ Grill",
+    "tier": "RARE",
+    "furniture": "BBQ"
+  },
+  "recipes": []
+}

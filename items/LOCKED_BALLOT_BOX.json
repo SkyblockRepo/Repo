@@ -1,0 +1,34 @@
+{
+  "internalId": "LOCKED_BALLOT_BOX",
+  "name": "Locked Ballot Box",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Commemorates your participation in\n&7the &bCommunity Center Refurbishment\n&b&7city project.\n\n&8December 31, 1969\n\n&c&lSPECIAL MEMENTO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LOCKED_BALLOT_BOX",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMzY2NTYzNDgwOSwKICAicHJvZmlsZUlkIiA6ICI2Mjk5YzhlYzkxM2I0MzMyYjZiMDJhOTFmNDk2MzJhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIaW5hTGluayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MjZjYWMxMDBhODhhYWY1ZWM0MmEyOWJjZjc4Yjk0YTJiNTgwNDM0ZWRjMTM1YTEzZDMxZTc0ZmM3OGQ4ODI1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "XqcP2PEC7Fwh4yFkyR+VueNIB8jgG5AlIofqQbyfkHRP6/rrIUV29vXNEC638pCDNZ7UqC/T1iG0EDKb57MDcwwzvmd44hNtmeFn70JWo3xpNeFqsZ84FNbfcU7K33sDR9x16Je2nk1r6TupQBjPNeqM6h9zANakjMPXI6+xL0WAEOQWvCWOlKnAVAMyIAmjou4U5PvpALQV4VdBmyFqziDhsrIKNdRC+7CgRaugmHCfpGhR8hR2nv2Zkq70+7ywGSuj19q2Q9pXx+X5xnc3dmaOMbdgR+C/5yFks05IXnIu/QiEw8BXA2u9PANiPhvdJkiGLKhFpL9Tbm5XrdIpneP7hQ2Kg2RVfykXkkM4N2KIJXkxA/pmC4CBMFm41YwpDxq/6NxTgf4Fc6arEmdjMYFBjf7fMmLTA6ptSdsUyHvyk/et3UZbn0jUe3wBxcfMebUXTsSD85nDmkLLXePbWsskU+eONdfSM7AmLKT/SA/CsT2aSNhFkjL0vED3iZr+ULMFL+CQnMgoUAtvtraoGe+7xtW/vKj3304vyCROB5bQhZkInN8jF//cvYvPOQZH0W1ImXvW7+2f9NWFxGae5/y32G5apxBYCZmUPLCxkaopfnd+ainTGnx/2XB+Imd72mk3NPn03EElN5aPb/v/40cvoD0R8LBJhWWlwK2qMsw="
+    },
+    "name": "Locked Ballot Box",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "item_specific": {
+      "memorable_event_key": "community_center_refurbishment"
+    }
+  },
+  "recipes": []
+}

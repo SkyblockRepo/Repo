@@ -1,0 +1,77 @@
+{
+  "internalId": "ENDER_STONE_GENERATOR_1",
+  "name": "End Stone Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining end stone!\n&7Requires an open area to place end\n&7stone. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a26s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDER_STONE_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NjM5ODE2MjkxODksInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83OTk0YmUzZGNmYmI0ZWQwYTVhNzQ5NWI3MzM1YWYxYTNjZWQwYjU4ODhiNTAwNzI4NmE3OTA3NjdjM2I1N2U2In19fQ==",
+      "signature": "Gd/WyrF0rdsgRpRnTE9MUicEo3TqZiJqZ0Gn7GGx88SL+oXrnHiq7Xl09ntz5Wqz6DGovjUosuYy5hs1/X+yL5tmc9PbNXczhKbg0T30LzcyXmixe4DjnR1zA2BanxYdoJXONWFHSOlItQi6P6dDhOU1xm22ciCFGWeOM7LXKorEEDcx9CULgLRCaAq+U+yxjjM9Zqu1NAYQKndAWprR9+m1XD8kTTozCwHeXglHfI4lLm/ofnwfQY9+MHim7TbENgM6bXDX/3tiu2X3LzP4C27lHzpj+TP8LH6dGZ33A/qJJSPYha3UWeZsd095SijfbT3pIWCwcMpT4IWHebUy2JrczaLHT5uu8gh6ArwM2KUZwJaKRsqfHq/OlwmwKeD5/qGfQLCpz0GXkaZpo17stjZ3UAG3UvFPS1ArgrdvxrSPcRXGFeyB/Ge9R8r97IJwYyt199P+I+GSX7HxFYP0bE48fJm9oqFW9nbTHirQgbqpBkf3FFe+yGROTlf9+zYoDzLiuHBRMbDh7tP0vVIIgViShyeVPEb2o9CTcgpse897DNEfh4nrRVAk8ZEUikvk71XX7jk6yu2T6NbtSngXx7tsjJDiSHWygOn2S/7qk7BECCilWaeel+PFPAXanDpBcTQQysNgRH/hRqpHDYP7/eRweNM/QhYmyP1UgnB/hKk="
+    },
+    "name": "End Stone Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "ENDER_STONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENDER_STONE_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WOOD_PICKAXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "ENDER_STONE",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "internalId": "PULSE_RING",
+  "name": "Pulse Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8000,
+  "lore": "&7Magic Find: &a+0.25\n\n&7Grants an additional &c1% &7charge when\n&7filling empty thunder bottles.\n\n&7Charge up by combining a &eThunder in\n&ea Bottle&7 (Full) with this item in an\n&7anvil.\n\n&7Charge: &e0 Thunder\n\n&9Reach 150k Charge for +1 Rarity!\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PULSE_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODY0NTEyOCwKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWViZjZmMTQzMDFkM2ViZDE0NTMzNTg3ZDJhMmQ0ODIzNDQzM2IxN2M5ZDJmMTM5MzRiN2NhYjQ1OGVlMjY3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "Hhc+fbvL0rLBQ9e09b/+ixpHImFnIejr5dulq7PHjNjqr+wa0NPfzJZr/xGeNVfemETmtLA/H0mbjvG4GgwXe0AIgne72amZpjDAfO+3HbFIC53C9Ia3pe66iVtohWIqMiTOwPrM+Njne0xdQAhMDjoCjlG5T70wetXBH+NOFAV/aeCBzcTYWN10+J6YVL1Ze50QpgX4aHME61Dxk/hZRyNi1Gqn4wezs62QqqnOZJpMwcNL3NcY4R5eLm47lrrIXp4HmbjjMpRZZ36TF2kpmm2vzIIKVIZMI8vvtSU5ayYdDcup4BtGAaPW/vceFdqmgpneseDfm2ZpblWX+S5RsFatTYNkSgIJxKydEso3PHUTVDUY8FtA+Gf1Mto4nAq3O/neadOEJ6kvTWgDp364AQPLvCLvBB4LzmvN2zcuueVFMBaI/+n6k1xjtBqLungyx3RqnZlVOEbpervlo8BylkOl4YgZIDFPzRCP3gn+6cMQILzPrN8Gl3c2hwpZMsTlsFnfzlrQXNGqHvoDUgHCXVnfOX0DHPYwZnVTggaPhap5bUSYgT7nx4Jymbzj+Ha8/xHZ6rZSej5ZJ1guh/CeXcKrrxMCQTFH7nRYG8+yOGIyYrdmIgdxLHUX739jq9lrnpTe5xVd1Q9x8ST6uP5crD5Um30XL4xD9+cLRSXA//8="
+    },
+    "name": "Pulse Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PULSE_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ORB_OF_ENERGY",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

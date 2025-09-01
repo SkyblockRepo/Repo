@@ -1,0 +1,69 @@
+{
+  "internalId": "CHICKEN_LEGGS",
+  "name": "Chicken Leggs",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+35s\n\n&7&8Sometimes you pretend to be a\n&8dolphin, sometimes a chicken. Cluck\n&8cluck!\n\n&9&lRARE LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHICKEN_LEGGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "255,242,0",
+    "name": "Chicken Leggs",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "stats": {
+      "RIFT_TIME": 35
+    },
+    "origin": "RIFT",
+    "description": "%%dark_gray%%Sometimes you pretend to be a dolphin, sometimes a chicken. Cluck cluck!"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHICKEN_LEGGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "VOLT_CRUX",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "WYLD_LEGGINGS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "VOLT_CRUX",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "METAPHORIC_EGG",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "METAPHORIC_EGG",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "METAPHORIC_EGG",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "METAPHORIC_EGG",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

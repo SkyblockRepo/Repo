@@ -1,0 +1,36 @@
+{
+  "internalId": "BAT_ARTIFACT",
+  "name": "Bat Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+5\n&7Speed: &a+3\n&7Intelligence: &a+3\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BAT_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTYxNzA5MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2FkZThhZmIyNTcwODZmYjE4NjFkYTQzYzhhZTQ2OGI4ZWIwNTc4ZmFkYTg0MzAzODU4NTE3YmExNzIxN2UiCiAgICB9CiAgfQp9",
+      "signature": "N/ZU9oQXnkWApXVx8Md6JM3obfI56QQZ7w6Cobs2KUn7TdwjC+YjWM/JUUGJ2GItSDysKnmu0Rd315RMv6fwbIY3LR6/Co+YKT7VOW7x0DYRQQMembyYNuwZwM0VWQrslRa6Aj9eGewggHP30PTS2PerdcJCpMQ6AfxCbNi+m0QAQAwvS5bn0DFuUfCIuPsBXXhm671cw5G6gkHsAyJ09zpYqf3fG6k8vGcLalSsyfb0UcZbzg3IaEcsw1G/l53Vz9YKl33c+Y31BirRBftv6mzT62haPopPm52fIogBFy8bNajKgjtB1C0E3M3ixHEYuwY6YI7Pb0Pm10piwbAcITjS3jghmF3hSnqOer31lBG/Oorw50CeHVjcj1B7E/wL5luWvjFMmbeE/zJDuwwhygCC4pqscvUuz+9IUEeScQLY3EPAYottyDoTBIfwdr7vdKGLs8UOS3RxePy45UPAjH2gio/VcnMxZbAqFuji0OMTDAxlUYdFvbvzfddvfWEtaSQsBb4XVpM5fbhPriI0DIl2IZvhUpx6WIfv1eHWufH1/pli2COuPOizOnxhQk8koVi1KJ4CWJnz5w3jLc96ZjHgzQRAirQ9/Dq/TTBok0kAz4gaBSIkr0MNmfW545/GjCym/+SGCeeH31lr5vctKhJMRAa7r+UYUjsmYpgRD2c="
+    },
+    "name": "Bat Artifact",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "stats": {
+      "HEALTH": 5,
+      "WALK_SPEED": 3,
+      "INTELLIGENCE": 3
+    }
+  },
+  "recipes": []
+}

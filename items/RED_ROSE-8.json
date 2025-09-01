@@ -1,0 +1,26 @@
+{
+  "internalId": "RED_ROSE:8",
+  "name": "Oxeye Daisy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_ROSE:8",
+    "material": "RED_ROSE",
+    "durability": 8,
+    "name": "Oxeye Daisy",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

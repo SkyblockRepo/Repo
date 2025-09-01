@@ -1,0 +1,90 @@
+{
+  "internalId": "ADAPTIVE_BELT",
+  "name": "Adaptive Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+5 &8(+5.5)\n&7Health: &a+10 &8(+11)\n&7Defense: &a+5 &8(+5.5)\n\n&7Grants additional bonuses based on your\n&7selected dungeon class!\n\n&7&bBerserk&7: &7+&c10❁ Strength\n&7&bHealer&7: &7+&c10❤ Health&7, +&a5☄ Mending\n&7&bMage&7: &7+&b25✎ Intelligence\n&7&bTank&7: &7+&c5❤ Health&7, +&a10❈ Defense\n&7&bArcher&7: &7+&92☣ Crit Chance&7, +&95☠ Crit Damage\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor II Completion&c.\n&5&lEPIC DUNGEON BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ADAPTIVE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0=",
+      "signature": "tzy5n27v67pfb6vcQ2y0YXI1CK60UBzYVBMluZVr7M/7l6L5hZkxVg5fcViEi8gcL26rCPc4QEJth6jW2kzmgjt1HOVrmenBY5/p+m0U0GD2jk4Zny6IHC0cAE8Pbi8zQwfRgi7au5Jv+N9WnbN3UMJ9W+VcSNG4DgYy6nO8aO/VwuFDoPwjqVOi3m4oXwGWTo/qWBSRQtNXPGeOfu+x4MGKKIAi4HyV5YsJCWA3NDBP4I02ntOIBw1jOHmn+Bsbc2mE+WV+nsuGUez1wQigDKJ1RUiNMc3Dv35bnZd3l86UwbX63M28KcLCSNmx+VBLyGXu4IxnMRWJ+foeOFLtwZZZ5Ia1LPO5dstNxpUgAIWOVWVDxJTx0z4K48CO7oNj9q82jNlfDLjg6ciXdYfCqKdXouUBZDxGgAabywyUxEzKrVsWj4M9AG0RnRhpppBzzUrSowUqavq+oqsL+vt3z4pI1GT/S2eWcPSkShfXmQNyjdwPD1T/hNzpe8rW8DQcwn18NHFTcS05lVBJ/SctfliPoTmG51IZtQhckZGlNi1j0mfWVG9juB99wGnGOb0DFo5hnVm1AtDRPQI0abFia8F2g8SE/gD/c8ApgcLQ7YDYyMRqZY+Igy2x/gPlLb2WU/baD2PgaZt3CnftwI2nvUm4QBwjRSkjX7FvadtP9Vk="
+    },
+    "name": "Adaptive Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 2,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ADAPTIVE": 7
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 10,
+      "DEFENSE": 5,
+      "STRENGTH": 5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 35
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 75
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": []
+}

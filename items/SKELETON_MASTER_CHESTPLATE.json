@@ -1,0 +1,134 @@
+{
+  "internalId": "SKELETON_MASTER_CHESTPLATE",
+  "name": "Skeleton Master Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d142 &8(154)\n&7Crit Chance: &c+2% &8(+2%)\n&7Crit Damage: &c+22% &8(+24.2%)\n&7Health: &a+26 &8(+28.6)\n&7Defense: &a+42 &8(+46.2)\n\n&7Increase the damage you deal with\n&7arrows by &c5%&7.\n&7Your bows don't consume arrows.\n&6Full Set Bonus: Skeleton Master &7(0/4)\n&7Increase the damage you deal with\n&7arrows by &c25%&7.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 12&c.\n&5&lEPIC DUNGEON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_MASTER_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "255,107,11",
+    "name": "Skeleton Master Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 12,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SKELETON_MASTER": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 240
+        }
+      ]
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "HEALTH": [
+        26,
+        29,
+        31,
+        34,
+        37,
+        40,
+        44,
+        47,
+        51,
+        56
+      ],
+      "DEFENSE": [
+        42,
+        45,
+        49,
+        54,
+        58,
+        63,
+        69,
+        74,
+        81,
+        88
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        22,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35,
+        38,
+        41,
+        45
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

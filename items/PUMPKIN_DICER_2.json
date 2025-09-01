@@ -1,0 +1,111 @@
+{
+  "internalId": "PUMPKIN_DICER_2",
+  "name": "Pumpkin Dicer 2.0",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8] &8[&8☘&8]\n\n&7&7Gain &3+7.5☯ Farming Wisdom &7while\n&7harvesting pumpkins&7.\n\n&6Ability: Roll em'+ \n&7Every pumpkin you break, you\n&7make a wish to &dRNGesus &7which may\n&7grant you with a few or TONS of\n&7extra pumpkins!\n\n&7''Someone once said, 2 is always''\n&7''better than 1!''\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&5&lEPIC AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_DICER_2",
+    "material": "GOLD_AXE",
+    "name": "Pumpkin Dicer 2.0",
+    "category": "AXE",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "PUMPKIN_DICER_2": "PUMPKIN_DICER_3"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "description": "%%italic%%Someone once said, 2 is always better than 1!"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_DICER_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "PUMPKIN_DICER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

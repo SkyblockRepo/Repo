@@ -1,0 +1,46 @@
+{
+  "internalId": "SKYMART_HYPER_VACUUM",
+  "name": "SkyMart Hyper Vacuum",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+150\n&7Farming Fortune: &a+15\n\n&7&7Helps rid the world of &2Pests&7.\n\n&6Ability: Vacuum  &e&lHOLD RIGHT CLICK&r\n&7Aim and hold in the direction of a\n&7nearby &2Pest &7within &e10 &7blocks to suck\n&7it in, dealing &c150 &7damage per second.\n\n&6Ability: Pest Tracker  &e&lLEFT CLICK&r\n&7Leads you in the direction of the\n&7nearest &2Pest&7.\n&8Cooldown: &a1s\n\n&7Vacuum Bag: &20 Pests\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 5&c.\n&9&lRARE VACUUM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKYMART_HYPER_VACUUM",
+    "material": "POWERED_MINECART",
+    "name": "SkyMart Hyper Vacuum",
+    "category": "VACUUM",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "SKYMART_HYPER_VACUUM": "INFINI_VACUUM"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 150,
+      "farming_fortune": 15
+    },
+    "has_uuid": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,84 @@
+{
+  "internalId": "HOLY_ICE",
+  "name": "Holy Ice",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Splash Yo Face  &e&lRIGHT CLICK&r\n&7For the next &a1.5s&7, reduce &c❤ &7damage taken by\n&7&a80%&7.\n&8Mana Cost: &320\n&8Cooldown: &a4s\n\n&7&4☠ &cRequires &5Vampire Slayer 1&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOLY_ICE",
+    "material": "DIAMOND",
+    "name": "Holy Ice",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 1,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "item_specific": {
+      "duration_ticks": 30,
+      "damage_multiplier": 0.2
+    },
+    "origin": "RIFT",
+    "motes_sell_price": 5
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOLY_ICE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 20
+        },
+        "6": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "FROZEN_WATER",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

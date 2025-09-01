@@ -1,0 +1,34 @@
+{
+  "internalId": "ABIPHONE_X_PLUS",
+  "name": "Abiphone X Plus",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b5 \n\n&eRight-click to open!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_X_PLUS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njg0MzAwMSwKICAicHJvZmlsZUlkIiA6ICI5NTE3OTkxNjljYzE0MGY1OGM2MmRjOGZmZTU3NjBiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmRpbmFsQ2FyZGluYWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdhMzZiMmU2ZTA3MGMzZGZhMWMyNTcxOWIzNzZmYTAyZDU4NGQ3MDIwNmQxOGE1NjlhNzliYWE3MmU3MDkyOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "B1a8h8rGNnvcJ9vkGGssjp7o8w5EGRdYHG8GIDQu5zio0SZVRugBr2dd2k7KyimW7Aiyu9Jbk3jxnRpERbQYy0utNquTR0q/G++avI62R6NaTk0YjQIJncH308v1w5Zxv2QUkCoxXRbGL5GOCUWtiYK+SwxKZsuoOjbzw5NQL+oza1Oyh7mYkHJf7GOcu4BLVgQwi10+WiWh/ejygF2Q0/XfWWMr6VxsM1gSj4xRyzwAo/7LvpunRuNTcGA52teCNz0nGDukNvnkmOn6maawperU6f+f26JYMpHPo88gKIJpjDdlm2VDN4XlmDCzMGzEXXx7nL7lfW+K14hk/nFb+rsARficOjhofOtgj1PZ2Eh/wT4/OKGbJn9xhsLqvHYHhNtvdqV2LHsl9/A95Oox3dD9bzQyC4g3jSFvCMTNitRAmgKSSlzfwVwzbo1Mm7faoe3AUs3QA0dnc6TH2moidSCrLpXO+tTOglLh81LW++ggEmWkV0ZE78AjjHlS7RjG93Z8dOWK8JTlseeiYZkwPJQFI/32yypq6Xmv7EqD+SsHDJJV7Q+47mlI4zhRlBkTsyjARI3JsD6EiT47ZaSf4Nw2G2pLw/ZceUQoJ3hict+ya3KLYz46XxZyJ916AtUOUoXcSUPqEaYgVUimoUMGvPWFtqw8Lq6oJ/nGwkrlMuI="
+    },
+    "name": "Abiphone X Plus",
+    "tier": "UNCOMMON",
+    "item_specific": {
+      "max_contacts": 5
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": []
+}

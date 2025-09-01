@@ -1,0 +1,85 @@
+{
+  "internalId": "GOLD_THORN_HEAD",
+  "name": "Golden Thorn Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d115 &8(127)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+50 &8(+55)\n&7Defense: &a+25 &8(+27.5)\n\n&7Obtained from killing &cThorn &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor IV&7.\n\n&7&8Powerful Necromancer that\n&8specializes in animals. Calls himself a\n&8vegetarian, go figure.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_THORN_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzU1Mzc0OSwKICAicHJvZmlsZUlkIiA6ICJjYzU2NjAzYmZiZjg0OGJmOTM3MzY1N2VjYzUyNGI4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpc2FhYWFhYV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQwMTY4ZTdmN2JjY2QxOWI1YTFlZGU5YTE5NmI0MWM1N2M5MTk4NWVjNzIzYmNmNDIyMDk2NzUyNTU4MjE1OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "CBLorpmKI0otT8UulMm0oCiKXwlom39MBFDQyVBtuzOdKNULIQdTpZEgqliegSyTEe2exem9TOYpu2O4zz/tViifMNuM2CM/pjXuxCCcpYp80nlmpyQ/MiqbeT1DreU3RFGpZybCt7pX391Yrdx6+dN25MHUN/pY5TOTbL8oypCNp9iXqXH6DPrqam67xDGhEYLRgAaQTnuLHoYsKtzy9nynh8LRuLdWzKlfXCS88es9D3U25gB18P8VTaQAm9PbMSfVmzUId6Kfo/0JLvXrNuWfGSzPz30jTPGaY9CXBAAuclTgSp2k9o3UCZEqca8XtcC3yR19zyTaLgQ+Tfquofsk7ueOoH5GItHt3HjiYzoddD6JCifTPzzL2AR5j6aNwstUxZqYIFPcSU24CEL8spjulLkV2t6n1UzSeggMqYHyK/jZoZmjXU2rOp7h1s87ntrkS3XLhs87xrBJ1lBGVcjsWRtd2UPCeBGvmyUFHiASMluMC1J5vsUQB+krW2XkBqR0Xgk6Q7Kr9Hva0h1YS0f6wUdte247LSKb/LRH3Wz94IPcONkbSQmXwZeI9NjhbcEju0AzlPZtvswTpVuHtss8sbaFCo+y/6tGglqf6mN1DPalko2MJNgQ6n5sjC0EBfzMLa+DU34gkY7kr6yXkJoY0ogyPmNS3jjzfJch0dI="
+    },
+    "name": "Golden Thorn Head",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "GOLD_THORN_HEAD": "DIAMOND_THORN_HEAD"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 50,
+      "DEFENSE": 25,
+      "STRENGTH": 15
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 500
+        }
+      ]
+    ],
+    "soulbound": "COOP",
+    "dungeon_item": true,
+    "rarity_salvageable": false
+  },
+  "recipes": []
+}

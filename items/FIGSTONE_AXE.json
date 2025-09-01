@@ -1,0 +1,172 @@
+{
+  "internalId": "FIGSTONE_AXE",
+  "name": "Figstone Splitter",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 480,
+  "lore": "&7Damage: &c+50\n&7Strength: &c+15\n&7Foraging Fortune: &a+35\n&7Sweep: &a+24\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&6Ability: Super Frenzy \n&7&7Gains &21∮ Sweep &7every &a10,000 Logs\n&a&7cut on &2Galatea&7. &8(max 20)\n&7Current Bonus: &2+0∮\n&7Next Upgrade: &2+1∮ &8(&a0&7/&c10,000&8)\n\n&7Logs Cut: &b0\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 15&c.\n&5&lEPIC AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIGSTONE_AXE",
+    "material": "STONE_AXE",
+    "name": "Figstone Splitter",
+    "category": "AXE",
+    "tier": "EPIC",
+    "npc_sell_price": 480,
+    "gemstone_slots": [
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 15
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "sweep": 24,
+      "damage": 50,
+      "strength": 15,
+      "foraging_fortune": 35
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 500
+        }
+      ]
+    ],
+    "can_have_booster": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FIGSTONE_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FIG_AXE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FIGSTONE_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FIG_AXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

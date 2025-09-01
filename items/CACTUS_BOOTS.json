@@ -1,0 +1,96 @@
+{
+  "internalId": "CACTUS_BOOTS",
+  "name": "Cactus Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&7Health: &a+5\n&7Defense: &a+10\n\n&6Full Set Bonus: Deflect &7(0/4)\n&7Rebound &a33% &7of the damage you take\n&7back at your enemy.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 5&c.\n&f&lCOMMON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CACTUS_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "0,255,0",
+    "name": "Cactus Boots",
+    "category": "BOOTS",
+    "npc_sell_price": 2,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CACTUS": 2
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "HEALTH": 5,
+      "DEFENSE": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CACTUS_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "CACTUS_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CACTUS",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

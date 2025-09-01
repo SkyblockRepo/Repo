@@ -1,0 +1,94 @@
+{
+  "internalId": "TIKI_MASK",
+  "name": "Tiki Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "&7Sea Creature Chance: &c+2%\n&7Health: &a+300\n&7Defense: &a+100\n&7 &8[&8⚔&8] &8[&8⚔&8] &8[&8☂&8]\n\n&7Grants buffs when fishing in a\n&7&dFishing Hotspot&7.\n\n&7  &b+10☂ Fishing Speed\n&7  &3+4α Sea Creature Chance\n&7  &9+2⚓ Double Hook Chance\n&7  &6+2⛃ Treasure Chance\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 40&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TIKI_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTYzMjQ0NTQ2MywKICAicHJvZmlsZUlkIiA6ICJiNjZiYTQ5ZWFiZWM0YmY5OWVhOWY5NDBjMTcxYTkzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXRlaUxpa2VzTWluaW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzVmZDZiOWE1OWVjNWI5N2RiOGJkYzE1OGZiZDVmOTFlZjdiMzE3Yjg1OWZjZWJlNmQwOWU3YmQ4MGVhY2E5ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "DcOwbvfUZ99UiGmeH6Sh74DGXwz3kiJh+yg8N5KJnnEvUYuapvFVHWzrHwPGeiCQFA9lYMuHhNjQOtjTxqGuD3ucKO8VLLSIpnNKZJ5D0y/xZs2ETYsOzHXSo9uE+QMFB0sS7Ve4MC9oJoBSVqKSjf+C5Oq8IL7fprR5KbvxTeEJv46FLl/3aD3h9qwWzYA8IJtRg3dQWtC5o2scsWqTtFo9/FNdpy1iPvDTwvuIapMBwW2eJP3ZiehHGMw1n3YQP/j7xcsgFMx/cvnCdZU0KfrMsSm68Hj7G5A24+FvmwoyBZ5ZSZyzWapX9+iMKnAx8NGIe7g/uqAWUTx6mbFrwbFbI49yN9uEYAio0jlOCcufU20x0ncDQM4qNK9gs7qc3T+87m8lqr3Znqo9JwiYpoZV6VA+k/1NzfjoZwQFijjNRjcEiMAhSWZFKjQbVJhVoQJJF8FcE6SheeR8JLO1e3ZFtP6b6mfuBdKvrW7JeSOoq4oLpatT1rvFtet3Z6C4KxbpctmDOiw61/rhi2n2wnmEO6jyJLnASb+T6roJYJnyqMSJ2sHB4o3VLuVu4JSqXBj4eEXFrIBo9mlW+1QaHStR8NOESTtyBtFyu36ZwscWbO9EluVfqCSqlZYHamAkBqnteK1Nvs6b6u9jmvFziNU7XbM6y0nkg9UeWN1+pmg="
+    },
+    "name": "Tiki Mask",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 4
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 40
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "MASTER"
+    },
+    "stats": {
+      "health": 300,
+      "defense": 100,
+      "sea_creature_chance": 2
+    }
+  },
+  "recipes": []
+}

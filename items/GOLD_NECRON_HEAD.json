@@ -1,0 +1,85 @@
+{
+  "internalId": "GOLD_NECRON_HEAD",
+  "name": "Golden Necron Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d175 &8(193)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+80 &8(+88)\n&7Defense: &a+40 &8(+44)\n\n&7Obtained from killing &cMaxor, Storm,\n&cGoldor, and Necron &7in &cThe Catacombs\n&c&7lots of times. Grants &a2x &7stats on &cThe\n&cCatacombs Floor VII&7.\n\n&7&8Disciples of the Wither King. Inherited\n&8the Catacombs eons ago. Never\n&8defeated, feared by anything living\n&8AND dead.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_NECRON_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzIwNDAxMSwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNjY5ZTBiNDFkYTRmZDU4ZjYyNWJmZDE0MGJiNWIyNGY4NGQ1NmVkZTY2NThiNjhmMTI0NDc4MDQyY2RhZmU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "t6o3A7qwMKETtC5HF5eeJ2tmhyqvkQmIsjwh1SAw8SMAxu3KUP6pwC+Kvt8s0pyu90FM8rvoIqChJHgg3NqpshQjIAoxTtvMrOl0hvNHaIMttTf/KTbmjs349XmIquKRJXMF7Av2stdr3ekZBYSMGfhhuhq2i+1WErXLtrK82vvIL4i1iYEUkQW6p/26GBCDkEIdnjUWcx/DbhaESA0IcxbLDk9nspBQU5JXxMxoDWKYwe2Xu4h1gmpbYHs7MMFTND9ZpeyqyTyn3vBrRVI2Jzf+c9gMK+LsYHSChdBMtGh/IqcJUWQLTqU6GLH8ttT1lRrZuIqGayb83rOPHr8hDesuIR9Lj4dP0yJkWkNmJseInN1qFOnKDSwjfHeW8MV98sM6LlAQknK0l3HUyu/neWfAtvon3TozLEe58sGoy5YxBbx7uTiE2kJDzNGlEr+bs+kEP9sT1vcN4ZA1laiXRCOWpwyQHf8ok4GVM42YxQ5Dxo42mckFcAg1T01RCbIRt866T9dXgns4c71rIJK1VQaLIsYwSlfOcFGqHqxyabC4idTZCNNPTprAXj8+T85nawjQnt7iC9eHQqGuM2/os0XZbQiWgtSeIyCVzG+Tmyhe8VKpZbuebJzslMhVLSsW4iIsMNoSAZn8L9XCuIgy/oAvr7umwSxzo2RAinkwAqw="
+    },
+    "name": "Golden Necron Head",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "GOLD_NECRON_HEAD": "DIAMOND_NECRON_HEAD"
+      },
+      "type": "RARITIES",
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "HEALTH": 80,
+      "DEFENSE": 40,
+      "STRENGTH": 15
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 500
+        }
+      ]
+    ],
+    "soulbound": "COOP",
+    "dungeon_item": true,
+    "rarity_salvageable": false
+  },
+  "recipes": []
+}

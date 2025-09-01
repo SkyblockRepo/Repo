@@ -1,0 +1,25 @@
+{
+  "internalId": "BIRCH_FENCE_GATE",
+  "name": "Birch Fence Gate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIRCH_FENCE_GATE",
+    "material": "BIRCH_FENCE_GATE",
+    "name": "Birch Fence Gate",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

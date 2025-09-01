@@ -1,0 +1,32 @@
+{
+  "internalId": "MILLENIA_OLD_BLAZE_ASHES",
+  "name": "Millennia-Old Blaze Ashes",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7&7''Despite being ephemeral creatures,''\n&7''blaze ashes are eternal.''\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MILLENIA_OLD_BLAZE_ASHES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjA3NjMxNCwKICAicHJvZmlsZUlkIiA6ICIzOThiZGM3NWVhYzQ0ZjMzYWEyMDBiMTYyNTRmMDhlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJa2h3YW4wNTEwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1MzVmODNiZDRlMjkwZDQwMGQ1YzhjNzE4MzA4Yzc0YmU5OWYwOWE0ODlkMGMyNWVkM2QxMjE5MzJjZmZhOGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "urBauQ3Ve+OhB+L4+h2qN8zZCnu7AuftYwIskmRid5JP/APe4mw/OfxHaK+H+5HzYwySjUXK1XvYBioGYGE9v8Ts59+SY9c4058F2+rD/rVkrJI92Fg8w/6wtyU5ePIpqEXdtSnA8I+hYngCMeeN/9/2FZwun+jh69Jkhljy/OjSnmGU5j2UGwfZWHh+zy/Iy+05mw1Kj9WTeQWVC6lZpc5erb7HWPlBUPimSuVRaHebQH26YlIt437PqAg63p4ptIKkI5Jcrw8Aog9xet6OttdGrjNcrAYMmlZYebrPs6cNeXQcQRJBoAvCla+H0ZmBJVGK8l261HasE0P9A3+hORwvVlsScwzzG6Cj5h/sgBeH7kEPGFUBy87yI/TD93wNRV5cLGP2fIMy+GlHL7gM+ApA6CfSr9wgf9RPuOy4dnbTgnBtpWdaSbxJsNC0A9waZdVv7gQP4TGirQ1NqNKPuLNG2nwFjmfkaLbRLx9kbKFv2b+xTdgrsxKl1tFYv6p5Eh2TVQ0FHqZVQjrRM2SmNMf7V0QytYdX8GuA2cBkyJureRnmQJi2mtReDPwvThqmZh2L2d+Cr6c0YOjgaj6Tl9ZTQtRiX1O2zwjw1vqgMJKs5STHAZITVAmLn7vKacVLnwmV+HWs0ko4O/V0cwbpESiQnqXGXAa1e/UwTpqcVUI="
+    },
+    "name": "Millennia-Old Blaze Ashes",
+    "tier": "RARE",
+    "npc_sell_price": 1000,
+    "description": "%%gray%%Despite being ephemeral creatures, blaze ashes are eternal."
+  },
+  "recipes": []
+}

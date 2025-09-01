@@ -1,0 +1,32 @@
+{
+  "internalId": "RICH_CHOCOLATE_CHUNK",
+  "name": "Rich Chocolate Chunk",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &a+6% &7chance to find a\n&7&aChocolate Rabbit &7that you haven't\n&7found yet and grants &6+30 Chocolate\n&6&7per second.\n\n&7&8''From the Factory's secret''\n&8''reserves, its rich flavor is a deep''\n&8''dive into indulgence.''\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RICH_CHOCOLATE_CHUNK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUxMDg3MSwKICAicHJvZmlsZUlkIiA6ICJkNWMyZjNmZWY2NjM0ZDk4OGFmMmJjMDkwNGEzMzAzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCTU1HQSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Zjk0MjcxNzM2NGMwZmVjZjdhZDExYmFjOGNkOThkZDdhZDRkYmQ3MmUzZDNjZTJiNTdlYjQ4NzEzODI0ZmYiCiAgICB9CiAgfQp9",
+      "signature": "x5z/RyVTJ4uplsR2Ws4Qyd98aEVKoZX44AZFw35xmFEl0GBlOFFmmnrEGsyvQyxYsDditUdlqHMv2qOlnZpjUkf2CMj+qejwIpbX5h8IGRe/igpiAVG+TLBmV3hP84veYqdqnPabuI5v5d5J8c8PrRLZCI+RABxCMG9BAYntfeGRmssvkMbCRdy5GkhgdCoW6JF/c6xDM7wGM6tsvbraJbWR15sN8yuFli0yViXAzto8kZe+rGWVNM4VBinbjgVyriYROL0Rg49iAX3ozQKlP2IFa9OFix/wq084T6UTmdn/RWB5PGxQfMInZwU8UNCBr5Q1/NtJi+T3t1IzOEos+mGZSNrT/9PpNYiwB4QT3FdJiaCWtmsxq2FOFbuCfyQpeS1TtoaaICTisedN9nsti0PX1rJfPOrFtwgEH7fIy75AN0g7YPvQHrTRGR529KN7YM4ytY1FlKPL64HwBTCH+PAkklzPkFMTmBGr/51POn2/zBbyGRajnoAU3LX+sVEv8ujAMOC/5FtqJmCbpBl3iIM5Rhry4uMu5y8+AU6O4OicSfKu2JGbgu5lkveP0UOUM1N/rTnXPXthPVNXB9//tfJ4rCskZs+xx0Xq7K8hdZzf/VxQQXZgSD7mjuKDYVdGTwCM3pYQ+hfqn66GpQuE7ruNSr3TkcVuHn9VmkFsLDU="
+    },
+    "name": "Rich Chocolate Chunk",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "description": "%%dark_gray%%%%italic%%From the Factory's secret reserves, its rich flavor is a deep dive into indulgence."
+  },
+  "recipes": []
+}

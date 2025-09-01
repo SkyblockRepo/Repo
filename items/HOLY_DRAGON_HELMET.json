@@ -1,0 +1,174 @@
+{
+  "internalId": "HOLY_DRAGON_HELMET",
+  "name": "Holy Dragon Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Health: &a+110\n&7Defense: &a+110\n&7Mending: &a+10\n&7 &8[&8❤&8]\n\n&6Full Set Bonus: Holy Blood &7(0/4)\n&7Grants &c+200❣ Health Regen &7to you\n&7and all players within &a10 &7blocks.\n&8Effect only applies once!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOLY_DRAGON_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzMwMjU2NiwKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTljYzhiYTI2NzkzMjE4ZjZmNjQ5MTk0N2ExODM3ZmQ1Mjg3ODcwMWYzM2Y3NmJiZTI4ODNhNDVhYmE4YWI4ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "oVacyvTlMDqtBZ/27qqTcxuNNmbEHkxlrPYHXGR46cRRlF/mYNlt4Ia647kG1dkcyS9a3H4ZOtzz6mishlv62vfUs3fVywMdkfg26Y6zQRyMs00Gq+cUVMcJj3EfvNnT/lydRBQFmy6tNpBqLauhHTUwjCnIiYWZHmQnoTaeu1I6wWqLyqF9/JsKIvHOfB31qV5Rg1I4UEDkLMZmw7zBq+LVNTKb8SSIpan5a7dFv9qh0lOf1KvbEkPXIR+GaA0MnrEN1OT2WasNoQExlntYWdTePrtX2WTTrlaG4QYclNoVkouhdCOkre1v5b0kaH6rJADNiyYM8E77Wal+5XDXVfYNlCQ3UIQzMuavYqwmYT2LHXMJtIeVNBzhhxboab6v3VI97p2hJWY58ARAJt1dibVpn6OpcTe84YlajLi6JPrgYHn3wj/luqX1dSvRFfcwsuNZTTCLjt7At/P/nq7oRfUcUwbHCGN8jYw+694CP30SKhSomErWHJPSN5fvNGi3iiDL4FCjrniqFpp33RTM14380BKqcHA60azo3vcwLeaP4BRTdDv4pEYy2wsYybOeAxLx7AlAdaHuPavvwaGmbKd4uYCx7hYX3HeRSLXO9+vroMv9iadS2x5qEhh+g5rfRsyxKZ0j3YGJ8W9ram1GWzDHKPbRyuHC2fVz0JL9HhA="
+    },
+    "name": "Holy Dragon Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "HOLY_DRAGON": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 110,
+      "DEFENSE": 110,
+      "mending": 10
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 150
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 10
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOLY_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "HOLY_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "HOLY_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

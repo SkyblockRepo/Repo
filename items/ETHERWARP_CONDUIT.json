@@ -1,0 +1,83 @@
+{
+  "internalId": "ETHERWARP_CONDUIT",
+  "name": "Etherwarp Conduit",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Ether Transmission  &e&lRIGHT CLICK&r\n&7Teleport to your targeted block up\n&7to &a57 blocks &7away.\n&7&8Soulflow Cost: &31\n&8Mana Cost: &3180\n\n&7&4☠ &cRequires &5Enderman Slayer 7&c.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ETHERWARP_CONDUIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzMjE0NTM4NDY1NywKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYTcwZTAyMDZmNjE2NjA0ODQ0MWRmZTA4ZTA1M2E2MDE3ZDkxNGYzNWM2YjFmYjBmNTU4YzUwNTc0Zjk3MGQwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "cxzfXI/frOWzg1yMF/mNqHQh1BPp8KvXHdKikFkdixZEAdz9xYByaZGIne7qwz9UZxVxtRXibITuhYsbk+nTV4lDdxMxI2E11M9UEnhftw4Tbgn+RYiT+z1Up7qXDIvbMzWac4CjC80Q6FYOte+3v5RuHTRLQ0E1l5YX2Ul3zjixrJQgVGgoHWob2nV3qwb1J27c9L2FfxIdQNwy96ELb6iJBpdeLmlwri8NtFRZjIuAgSJh5vb5Z3zbT4bmlo9yi993LbfutkxhVZk+z/sTzX2WwKMgXRRukObRDQHBvOAh1y8GftMOToJ4MHqcBPni6AcX0ECVcrYli/SO4EIrCmWQNtGCSf6d8uuHzKXzrPj9wgBfwWq8T3Qp2kxHcZDwTLNO7D0r3/G9re4al6RpiQVzu34UW8qg4VXgN2XQFv1VX2KtT155fe+aU2Mb3bYFl4661aI2hegLj9N0Mhl+3JpgEcKZz0rNkV9gSgKApWaMpe/JIJV0P47QiRS1PlYo1Wd3zipKg8dOfIGEECuxA2Eg0foytupIDDXyUVvS994wQLwlnW98Oax+WESPK6U2Lk8uIl9fSfR3eiS/rOfybeHFdkwD7KRwyqLx7T9pbOas5uijgVjFgJ5neb30QaIb7dD+zNJIMNWr4fy7s6kOABa/mZYx4pMT28HzNM4/dHY="
+    },
+    "name": "Etherwarp Conduit",
+    "tier": "EPIC",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "enderman"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ETHERWARP_CONDUIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "NULL_OVOID",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

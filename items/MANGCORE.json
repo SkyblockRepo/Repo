@@ -1,0 +1,89 @@
+{
+  "internalId": "MANGCORE",
+  "name": "Mangcore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 204800,
+  "lore": "&7&8Collection Item\n\n&7''Mangroves' finest gift, a shard''\n&7''echoing with tales of brine and''\n&7''bristle.''\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MANGCORE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTkyNzQzMSwKICAicHJvZmlsZUlkIiA6ICIyZGI4ZTYzYzFlMTc0NGE3ODIyZDNmNjBlYmNmYzI5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmtTYW5kYm94IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY0OGMxNmQwNDg4Y2YxZjE3NjdiNDEzZTBhMWExZTg0NWQ1MjNiZmM2MzNkYTBjOGI0NWUyZDc3MDZlNzk2NzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "PZ+sIhTk/6VUHx5TriPOghyKEbuBKpvvz8etMzwVDZIWf8T63lln6Yz4IrRQpvWRG/VZywmw51CpDTF9U6DeoachrZUGLwtrxXwBLCLgArzihV7u5wHm/V1KSvy330raapoTKp+V+jOqCYQoRp230RGldBYQw4P70XrTBV2Zw6Cdf+x2+gv3gR0aQjNDYm9JbFGEa76o6jZJ6dEHmc1wr5BuAQzEBbatNli72w9bsnFpLskAcG0YjTP0u6y2JgVIom3+0si3wFP0XQDj0HsjomsqzSdcu2hr/HvIUJmUhPhSn7WCjdRWb5IAwbFeZOu2nt+lKNKhqckyQfmjkesX6nJwtICTJiWaaJRkdJr/sYPDWa+qJVzQ8Z6X88YjdNPGUQ5swTiNXChKXnAh7UI7VVje70B1E2pr/99tESj871qPhAPYl5z3Feka8CV5CLSMg8O6p8Y2vRsQIJJauozOeFpFdIBCvAcQc9TckZsPcxww86qnTk+yXfeDLZnQ3QdB7wVcLqlwKhh5qtU3pU/IWmTN4LcOCBfhyee0Sfq6TRS6G3FH8k56iYhfHg20acnmH9rfnHSxCIVBuwsfK4c3COo8FrQ5mOfOV3XtHecQ5N82sJFSFEGi5myRBwJVEzAnI9genMrdnDh4PR3Wv6FFTREg6trC6UXptPydV/cHaE4="
+    },
+    "name": "Mangcore",
+    "tier": "EPIC",
+    "npc_sell_price": 204800,
+    "description": "%%italic%%Mangroves' finest gift, a shard echoing with tales of brine and bristle."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MANGCORE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "MANGCORE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_MANGROVE_LOG",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

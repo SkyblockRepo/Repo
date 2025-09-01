@@ -1,0 +1,95 @@
+{
+  "internalId": "PROMISING_SPADE",
+  "name": "Promising Shovel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Gains &9Efficiency I &7after breaking &a10\n&ablocks&7!\n\n&7Blocks Broken: &a0\n\n&a&lUNCOMMON SHOVEL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PROMISING_SPADE",
+    "material": "IRON_SPADE",
+    "name": "Promising Shovel",
+    "category": "SPADE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    }
+  },
+  "recipes": [
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "PROMISING_SPADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PROMISING_SPADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "PROMISING_SPADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

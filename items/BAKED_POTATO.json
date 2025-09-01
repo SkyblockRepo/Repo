@@ -1,0 +1,25 @@
+{
+  "internalId": "BAKED_POTATO",
+  "name": "Baked Potato",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BAKED_POTATO",
+    "material": "BAKED_POTATO",
+    "name": "Baked Potato",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

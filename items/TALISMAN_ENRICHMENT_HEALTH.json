@@ -1,0 +1,31 @@
+{
+  "internalId": "TALISMAN_ENRICHMENT_HEALTH",
+  "name": "Health Enrichment",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7Enriches an accessory with the\n&7power of &c+3❤ Health &7when applied to\n&7a &6Legendary &7or &dMythic &7accessory.\n\n&7Only &7&lONE &r&7enrichment can be applied\n&7to a given accessory.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TALISMAN_ENRICHMENT_HEALTH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODE0NTU3NzA0MywKICAicHJvZmlsZUlkIiA6ICI2MTZiODhkNDMwNzM0ZTM3OWM3NDc1ODdlZTJkNzlmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfX25vdGFodW1hbl9fIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0YmE2MGVjMTE2ODhiODkwODJmNGJjZmMzNjZhOGI5OGQyMjQxMGRhMDUxZWU2MjMzZjgxMWQyZWQ0NWVkN2YiCiAgICB9CiAgfQp9",
+      "signature": "Wcznf3CMIZ29PWdIqzjja3Ahx0YopY5i2K7zkhzLgUsW314q7JjFaBOUN9aDNwx4JLWpivVY5fJo+P5K507x1mlUnbDbfXKKRjadvo/aL1zJUpvJ+rkZg0jtSyfqQ6WVbcWwK9Vfnxi5RFF8sjTLUjGS8Zhu7oxkMtjuEXLF6javH4earH3CDzTdxsRprKUgbS0l5BK0PBfGJ+d6q52ykRe0nrWKljtBlhtjADWA0R6A2oaSmhFsU+DTfiiisUo8EiZytVDO8izZT5yNP4w6/3evEUpZsBj1X4+i46L0sesu1AHc6ulSWev8Jrvn+Jy5wBvMUDNXdiOMaMwemdWvNb17I1BP30cng9QEeKWBbwIfP2bTz61J9DYwTgoTQQX34P3q8Sc7xmcYxEknh9aVdoVFLGIaJfruQVeU8uFqlYBzMT8GIayP7pDt7lkVVqXFPNjGRpmW2uZGuT6qTc1B0ZJMlzUSlsDQD6r/sWQywlpr9vSdDCMgukV8ztfNJf73uMoIbMAl4b22A+T5bvlu3Trg9RETsv2EJ7+eO83nIfOhVnDAq9pHVeYENVeO7sBP3rQ/kbRtXHwZSEF5KNpmGSQ0pNMfDiRULxbK/H2WWRovuSrk8U43+BF9jZTFLT0lvozhROhvZuXMNJkYbI3jaOO7aQHe7ZEtzLebrlU1ZWo="
+    },
+    "name": "Health Enrichment",
+    "tier": "SPECIAL",
+    "glowing": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "NETHER_FENCE",
+  "name": "Nether Brick Fence",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NETHER_FENCE",
+    "material": "NETHER_FENCE",
+    "name": "Nether Brick Fence",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

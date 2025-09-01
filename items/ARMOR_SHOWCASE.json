@@ -1,0 +1,31 @@
+{
+  "internalId": "ARMOR_SHOWCASE",
+  "name": "Armor Stand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Item Showcase\n&8Storage\n\n&7This armor showcase lets you show\n&7off a full set of armor, plus a single\n&7weapon (sword, pickaxe, or axe).\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARMOR_SHOWCASE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDE1Nzg0MSwKICAicHJvZmlsZUlkIiA6ICI4ZTFjZTM2ZGE2Mzk0ZjgwOTFmZjZjYTZiZTNhZTA5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdWxsY3JlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MGY1MGVhNDY2NDRiZWRmOGRmYTUzYWY5NzdmOGMyMDZlN2YzZWU0ZTBmYWFlNmU1YzgyNzhkNzdjMjA3YWQ3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "cTSlUfYxxdvB3B4ZxYncSPRAUJ0susSFt61ya8QaffMaIBbxS1vAPeXMHTGES66xTCHJQGsD2StUBAQMLhBvF3IWqMzui1OkiFbzJ8eKyJgyZ5h4k9WH5RATZTDfjGfWoFlLhDzL2ED+0JufNsfORexFPbg/x0m0Pumuw+V1JN9AUlIcFbvdHeYuN/uOAOoR5W9eUyeBWET9V4KWIXI+PJ6RtNi14zcgdvd+KZ+LJMSTav0ccSRVVcITZtM37oNCHPnrSv/CvsSZSCFVYocceg2wAZSBTsDP9roHXpLXgEYwsZVSkoNHb+jGhGDpyH/EtiRe2G79S3mydU9K2+DycGOJHASo2cYY/NVmReQ92+pqTAI4kCGLGQ+fm9jrjY0/7q3ad2B+ELVDpiRs3CXLhGm0dU9POqB946y6hICHLKAJYb/Dxg8XEE6sP//Hd7sQPGiet2u3Ean0MIwsDG2aHvlMJBLvQEYer8qaSoB5F3OhfdhfSbVrCs0bZOTcOe6t5wLF6y/hLGIfg0dE0f3SPz85htZ96Ze99QpaPfDPJM0yChrdFWeN0hXS/FDu2FsCsb7vpeUXSqVAJSO1pv7L+J1eUf+3PsH61SSr0S+xypT3cUAM3zkVWju5lDq0gcRdpKs1vLU30BHaFcoHgpF8lVqwBaY6LG076io9QS3Wh4c="
+    },
+    "name": "Armor Stand",
+    "tier": "UNCOMMON",
+    "furniture": "ARMOR_SHOWCASE"
+  },
+  "recipes": []
+}

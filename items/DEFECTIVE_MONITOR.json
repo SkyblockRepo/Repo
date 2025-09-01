@@ -1,0 +1,37 @@
+{
+  "internalId": "DEFECTIVE_MONITOR",
+  "name": "Defective Monitor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+60s\n&7Intelligence: &a+6\n\n&7Obtained from a Kloon who doesn't\n&7seem too stable.\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DEFECTIVE_MONITOR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NjAxMDA0NTg2ODMsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMDFhOWNhMzEwZmI5NmU2YzBhYWEzZWExZDA1ODVmMmY0MTc2NWQ2YWE5OTcwM2JmODYxZjJlNzY5ZDI0ZGM1In19fQ==",
+      "signature": "K1JdPArzquX3UwYL1KoLlsCIDMwW/EIq9pz0zpYqZO4YyJJf9skpF8Y6LcfwK/dfWSULio8x5oZ8hC9ykevrn+2p6+BTre7iaL5qnh0+Ij5tCmREqy9WY03SiZLDjpcM6itNH97ArXrrVL+7k3OIo0WxyIxpxLglC0aSBdanwEroLBlY/6Xyu19bFkPGzAL8rr5tNn16nwG0wUPzVyuXTZO4rP58fruAfC7ck4DK42wm/MLrx58Hta/6XcQF0tZ1higgjj0qBwosPqiGEoZltboRN01KLY3ZT+CVWI+02ZYULs0HRC8nJSjGCyGfrWFgk2BNHCrcsQc0wA8cDiSYc6p0Ot4fLaNZZx1122Z7WxM6OsUbJZipOCjGlrpZpvJKBERoHdPOKTifKJfQjfU2JUnL8A6+vQzGZ6cwWWaOn0jxaPKO8dTYF+5+YpCtVGFEgB1Lr6WQRxUsFH+kCJpSzgpSsvjo/vPyc5n0Nl2+IZW+uyb7XsUP049NfJ6KG1ImCHJj6YXKN4wj25dM09+o7o9Cd/HjZJNyJR/kKC5km49AV1Z/xhSd6JIYNmnvS1mmhvbP3EWnvz6lf/4QRLdssuQYFqnCWZCNDtJqCrU7NaJ6vTQEYDCX22jhEGQqSDmz8ZNlTLTYvc9O2pnmjmMGVNmk8rlek1I++GNsgpqPdv8="
+    },
+    "name": "Defective Monitor",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "stats": {
+      "RIFT_TIME": 60,
+      "RIFT_INTELLIGENCE": 6
+    },
+    "origin": "RIFT",
+    "description": "Obtained from a Kloon who doesn't seem too stable."
+  },
+  "recipes": []
+}

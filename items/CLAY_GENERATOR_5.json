@@ -1,0 +1,77 @@
+{
+  "internalId": "CLAY_GENERATOR_5",
+  "name": "Clay Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining clay! Requires\n&7an open area to place clay. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a27.5s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CLAY_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzQxOTE2NDIsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5MzQ1MmRhNjAzNDYyY2NlNDdkZGEzNWRhMTYwMzE2MjkxZDhkOGU2ZGI4ZjM3N2Y1ZGY3MTk3MTI0MmYzZDEifX19",
+      "signature": "G7gWrRQ+XgWdJufLyJgSLCvoAd8pq1ZySMbVok5tYSicui/jG3TKUTvWVOCGtkpepdlcYtPdBBQ/ETkXJiG7uxlJyDWebJX0h7eUOz8InsqqZ8qKQ7rA6oE1dAoBPXmrYkQ1TTVo+q3gRpBjO8tJZutyN1kQd0tQ56teqI11DCbUqx7PzFBpJglyi2NoEIjbGrzO5m8TRc9tCx9GZJTgNRmv9Gn7/MoaqCOhm3H+Reu2wlRQywAm91eiI85Sz3yhX9TIAugd4N7u2a5Th171nCRflAellf88JV0cLd1Wgx4/prnD6IEctLC6YTczd62MU+pNqMBAsHMq0vSNLQWW7eJhCLl9QmD2SYGLR042f23rP17zaHIlp7vh5d7KnV566hfFX1BLuaPVjzkPhC4MIGVUWg+o6Z0I2VCEVIGAWTI4nQD/NbKFZczQzOkKKC2dcLDvLbpDAe7bAohd4yWRcKGkfbqCAHgQLWwWhsjUVJPBGwp0Ovp3F2myACriEXLSFJh6hLnmdVhXqtgaWTYG3nEv3oS8UlTFT7VD8FguHCbGl1HycP9rHyMsnRplzG8UZpzOMSKg7RE3sKRFa6iXA+q8DMs00iwCPc7Y/OvrNwJmxE/WfNSmx3JcQpDMrARm9IJJNeIQtYN4nDw7fydJopaHhIFLMbyzaEAx4VlGtwM="
+    },
+    "name": "Clay Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "CLAY"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CLAY_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CLAY_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

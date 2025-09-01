@@ -1,0 +1,67 @@
+{
+  "internalId": "AMETHYST_GAUNTLET",
+  "name": "Amethyst Gauntlet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Mining Speed: &a+30\n&7Mining Fortune: &a+10\n\n&7Grants &6+30☘ Mining Fortune &7while\n&7mining &5Amethyst&7.\n&7\n&6Full Set Bonus: Gemstone Gatherer &7(0/4)\n&7Grants &6+25☘ Mining Fortune &7while in\n&7the &5Crystal Hollows&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&5&lEPIC GLOVES&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AMETHYST_GAUNTLET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjYwNDI5MCwKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM5Mjc2MTNiNTI0NGZjODA5MmYzYWFjYzI2YTBlMmRjYTUxZjIzYzYzZTdmYTk1OTNjYzE0MGQwYjA5ZDg4NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "M/6Hkmk4wQBIwBGOpTteEBXnTq9YTwPCTHGVMYYj1RirE3Rs2YhYBMvijduBvTHC3+Zgz5GPQjyC1Lz5nTuhq0BPtOq7SU3tYi7gbf5D1rjZKuDN14JLFZM0nMeCXQniYthP/hx5d9pdWlE6Z36aU6hR6wWwhdvaTqvakbehXK9HO1UcbHzEQGMrXu7RMb28T8godMuJyxaRltHCmL0bxANS4cgmcCqGoVXnqAWTdQjSzGYIstcmqE6LdPWPeXbjWugqWhSvvNKC1pvgaHh5GF/jsvT1n4B1G+u8yMIRtwcn19TYyZLPFz+RKYznQM/+mM953bj3FT474HNxQQNhV0XXWoCVIN7qyebWlCgustFXV1ZNZOUf1aKFBpgwYmuv9r3SKFHuSsYWwOfdQbK89Ao0/O7dO2/NuGjm76lHFuePYhZE3eARj5buiFtUjT2KXbRleWim0HY+e4tfnzaIg3VB2SS1RfToMQkZjvMRS674PtHrBJh24nbWjQjC1csp1yBcHurmpC8GLmtb8IulFqtuddy98kZHBueTet9bAaCc33OJIYTzXukvsF6cphlKNR2MFSQO9mT0Dj7mIvZ0+KmVhtiDrNU3MksxPvVMb6TVEyKSe5HVbb2pS4Kpae8smzmsyqT1BdlX0dkGM134un3hq8Ec4z/kMACgeL6XMMo="
+    },
+    "name": "Amethyst Gauntlet",
+    "category": "GLOVES",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GEMSTONE": 5
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "mining_speed": 30,
+      "mining_fortune": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AMETHYST_GAUNTLET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLOSSY_GEMSTONE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "FLAWLESS_AMETHYST_GEM",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

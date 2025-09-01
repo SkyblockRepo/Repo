@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_ROTTEN_FLESH",
+  "name": "Enchanted Rotten Flesh",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 320,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_ROTTEN_FLESH",
+    "material": "ROTTEN_FLESH",
+    "name": "Enchanted Rotten Flesh",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 320
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_ROTTEN_FLESH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_ROTTEN_FLESH",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ROTTEN_FLESH",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

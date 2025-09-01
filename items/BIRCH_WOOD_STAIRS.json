@@ -1,0 +1,25 @@
+{
+  "internalId": "BIRCH_WOOD_STAIRS",
+  "name": "Birch Stairs",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIRCH_WOOD_STAIRS",
+    "material": "BIRCH_WOOD_STAIRS",
+    "name": "Birch Stairs",
+    "npc_sell_price": 0.5
+  },
+  "recipes": []
+}

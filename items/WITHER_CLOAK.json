@@ -1,0 +1,85 @@
+{
+  "internalId": "WITHER_CLOAK",
+  "name": "Wither Cloak Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Gear Score: &d875 &8(958)\n&7Damage: &c+190 &8(+209)\n&7Strength: &c+135 &8(+148.5)\n&7Defense: &a+250 &8(+275)\n\n&6Ability: Creeper Veil  &e&lRIGHT CLICK&r\n&7Spawns a protective veil that grants you\n&7immunity from damage for &a10s&7. Consumes &b20%\n&bmax mana&7 each time you block a hit. You cannot\n&7attack while the barrier is up.\n&8Cooldown: &a10s\n\n&7&e&lRIGHT CLICK &r&7while active to\n&7deactivate. Cooldown is halved on\n&7deactivation.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VII Completion&c.\n&5&lEPIC DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WITHER_CLOAK",
+    "material": "STONE_SWORD",
+    "name": "Wither Cloak Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 7,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 190,
+      "DEFENSE": 250,
+      "STRENGTH": 135
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 1200
+        }
+      ]
+    ],
+    "gear_score": 50,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

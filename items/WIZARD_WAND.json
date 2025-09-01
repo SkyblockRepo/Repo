@@ -1,0 +1,28 @@
+{
+  "internalId": "WIZARD_WAND",
+  "name": "Wizard Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7''A private joke amongst Wizards, but''\n&7''you wouldn't understand.''\n\n&6Ability: Time Warp!  &e&lRIGHT CLICK&r\n&7&7Teleport through time (a work in progress).\n\n&7&8This item has no purchasing data yet!\n\n&5&lEPIC WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WIZARD_WAND",
+    "material": "BLAZE_ROD",
+    "name": "Wizard Wand",
+    "category": "WAND",
+    "tier": "EPIC",
+    "glowing": true,
+    "can_recombobulate": false
+  },
+  "recipes": []
+}

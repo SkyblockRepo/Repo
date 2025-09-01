@@ -1,0 +1,47 @@
+{
+  "internalId": "BIOHAZARD_LEGGINGS",
+  "name": "Biohazard Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+20\n&7Defense: &a+15\n&7Bonus Pest Chance: &a+2%\n\n&7&7All stats on this armor piece are\n&7multiplied by &a3x&7 at &5night&7 while in &aThe\n&aGarden&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 5&c.\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIOHAZARD_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "255,172,0",
+    "name": "Biohazard Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BIOHAZARD": 4
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "health": 20,
+      "defense": 15,
+      "bonus_pest_chance": 2
+    }
+  },
+  "recipes": []
+}

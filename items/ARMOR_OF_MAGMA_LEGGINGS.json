@@ -1,0 +1,33 @@
+{
+  "internalId": "ARMOR_OF_MAGMA_LEGGINGS",
+  "name": "Armor of Magma Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 53000,
+  "lore": "&7Health: &a+75\n&7Defense: &a+25\n\n&6Full Set Bonus: Absorb &7(0/4)\n&7Every &910 Magma Cubes killed&7 gives\n&7the wearer &a+1 &c❤ Health &7and &b✎\n&bIntelligence&7 while wearing the set.\n&7Max 200 each.\n\n&7&8This item can be reforged!\n&5&lEPIC LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARMOR_OF_MAGMA_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "255,147,0",
+    "name": "Armor of Magma Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "npc_sell_price": 53000,
+    "museum": true,
+    "stats": {
+      "HEALTH": 75,
+      "DEFENSE": 25
+    }
+  },
+  "recipes": []
+}

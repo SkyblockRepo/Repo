@@ -1,0 +1,25 @@
+{
+  "internalId": "SAM_ASSISTANT",
+  "name": "Move Sam",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this where you would like Sam\n&7to move to!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAM_ASSISTANT",
+    "material": "MONSTER_EGG",
+    "durability": 101,
+    "name": "Move Sam"
+  },
+  "recipes": []
+}

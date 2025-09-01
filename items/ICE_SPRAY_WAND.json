@@ -1,0 +1,129 @@
+{
+  "internalId": "ICE_SPRAY_WAND",
+  "name": "Ice Spray Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Gear Score: &d131 &8(142)\n&7Damage: &c+52 &8(+57.2)\n&7Intelligence: &a+118 &8(+129.8)\n&7 &8[&8✎&8]\n\n&6Ability: Ice Spray  &e&lRIGHT CLICK&r\n&7Produces a cone of ice in front of the caster\n&7that deals &c17,000 &7damage to mobs and freezes\n&7them in place for &e5 &7seconds! Frozen mobs\n&7take &c10%&7 increased damage!\n&8Mana Cost: &350\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 20&c.\n&9&lRARE DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICE_SPRAY_WAND",
+    "material": "STICK",
+    "name": "Ice Spray Wand",
+    "category": "SWORD",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 10000,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 20,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": [
+        "STARRED_ICE_SPRAY_WAND"
+      ]
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 20,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        52,
+        56,
+        60,
+        65,
+        70,
+        75,
+        80,
+        86,
+        93,
+        100
+      ],
+      "INTELLIGENCE": [
+        118,
+        128,
+        139,
+        152,
+        165,
+        179,
+        195,
+        212,
+        230,
+        250
+      ],
+      "WEAPON_ABILITY_DAMAGE": [
+        17000
+      ]
+    },
+    "ability_damage_scaling": 0.1
+  },
+  "recipes": []
+}

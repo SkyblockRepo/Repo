@@ -1,0 +1,322 @@
+{
+  "internalId": "VANQUISHED_BLAZE_BELT",
+  "name": "Vanquished Blaze Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 250000,
+  "lore": "&7Strength: &c+5\n&7Defense: &a+20\n\n&6Ability: Blazing Palisade \n&7Gain a &a20% &7chance to reflect\n&7&cFireballs&7.\n\n&6Piece Bonus: Blaze Consumer\n&7Kill &aBlazes &7to accumulate &c❁ Strength&7.\n&7Piece Bonus: &c+0❁\n&7Next Upgrade: &c+1❁ &8(&a0&7/&c1,000&8)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VANQUISHED_BLAZE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ5NTU0ODQ5OSwKICAicHJvZmlsZUlkIiA6ICI5ZWEyMTQ0NGFiNjI0MWZkYjg5YjE2NDFhNDg2MGZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICI3QUJDSE9VTiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzIwYTg2YzFmNjhjN2I5OTlhZDA1MmM3MmQ4YTg2YzBiNmQwOGQyNzg0NDg3NmIwY2Q2NGQ0Y2EzZTQwNTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "k47jeS3rFPzMkEJUmicSUCxJqqYaGLre6SJS4UCht8Lwa1rSkY4aQQeTNPjbQZREyQab7R6vlJejKfr6mIu3E/KwakQ3Wsi/ZNmv7hjCD8r/7GTHEqtEipjQ4Sc9CCbGiDPpZQX26G3ZfR8AyG956SNYuiPa3E0i02UwivnkqHxKds352UnGZIsICbeMXkQFjv9SWG94tmkbt+sLASnAJm+dKuk/1DmnBjSahoeaoH//QNcJu5HZ24GVJf3jJP+itWWppTkh4beLCzwrGy4yLoW3jXfKUKw+sfgVVm/ERq1ZphwtRFbGprmxrLi4Z23y8wYgEEY1Oc8QOY42eAFq/xQesfE89KCw630aBcVZZ5AxPMW2rAg8DHWD20hcy/VIE4/EaMMLGEHzT7BB4A0+mrngx6jd5IETUCYRgesAdNs/zL/W/eKEsjb1EljI04judhKBqCZwq1HsbWii5XIyaL5znVjFyQEjVk2gqvqwuLMHzFGyKiqQYULl2MKHgcMX9ac5CuVQGSqmung+z6oqlqXd4nNeFaI+I1Q4oahlFX4bRWM7+taBFw3M4IoH/TwtewLQ/BnzdBMdp1Y7amVmky7ODdFgIf88hPJbtG/NxC9yyj/erPtPypNldGmGhbPMOJaNS0MkVHwCJKf/tbP+CGHhY7SgTwzIJGrTk11dM24="
+    },
+    "name": "Vanquished Blaze Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "npc_sell_price": 250000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "VANQUISHED": 8
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DEFENSE": 20,
+      "STRENGTH": 5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 6
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 120
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 8
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 180
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 260
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 12
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 360
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 480
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 620
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 780
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 30
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VANQUISHED_BLAZE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BLAZE_BELT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CORRUPTED_NETHER_STAR",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CORRUPTED_NETHER_STAR",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CORRUPTED_NETHER_STAR",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

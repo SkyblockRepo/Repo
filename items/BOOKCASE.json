@@ -1,0 +1,30 @@
+{
+  "internalId": "BOOKCASE",
+  "name": "Bookcase",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7This cosmetic bookcase will make you\n&7appear smarter to your friends.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOOKCASE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQ1NjY1MTMxMywKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1NTk2NjgwZmQxZjgzOGE5NGRjNjM4YWI2ODkzZjkzOTVjMWRmMjgwMjcxOGIwZWJiYTE5YTk5N2EyZDliM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "XmOUZumi7ejI/GlMQBBQ/KfuDXSKN8WwgaCX6sjFT5UOVDcakg4ImsXM8g7AAHg5EWmNt5hBb3fI+f7kmHcLpbL6eCsuKdmRstbuiySZlxFJi5X3ANKCY+yMmYWQsqkkBoci9yaM/WhwBJ8DMgP8yUEXfYfFvn5A5D/ptKq8qF7J0TkWMoNuO7yCxGk4j9ih8AP3rXHTcpXHDpkSqSfIQHkTQuoA9NFniCq8INHmD+XUbKOxMCR3PKdWEAZPRgTylnbXNDHu9JmYSJ31eIfWu0nM6H7OKnFTF/uE2N4TQ6+Ag6SQ+WENFXRUaVzbcj+NkUoHE0kQWkx2t9E9ArS7FyFpHgfxcGhgy2R8Lt+ur7gcsp+FnQzz6fn7kkyVUPv4rrsk2jXwz+43CrB11JyuU7136lMR/kis24BX7s9CCjnoKK2M+qSTfZYEniQGDyJHgvc3Ffhlj8Eh72XrDF2a8op7ghzl+LRE1Z6HnHCvmLwnFCzmKWe+MyvPYwv836y+EIZ+WFo1D+08avBjLEJ0V0vqlwPf27iAnCsw2DfUJCYXE1EfZjvLmOLkjm2EHCFLvSs6QJev/QlW+Bze4usYHAryeTFLtWD6u5veKin55H+pl4vq8VCKaNyoSMHgorphq7HA7A+IaFprTWwU+8dnWpKteHA4inQBBavKJTNKLC0="
+    },
+    "name": "Bookcase",
+    "furniture": "BOOKCASE"
+  },
+  "recipes": []
+}

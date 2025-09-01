@@ -1,0 +1,77 @@
+{
+  "internalId": "EMERALD_GENERATOR_3",
+  "name": "Emerald Minion III",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining emerald ore!\n&7Requires an open area to place\n&7emerald ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a26s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMERALD_GENERATOR_3",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzU1Mzc0MzYsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Yjk0NDc1ZjVjNTQxNDdjMjdjYmJhMDQzNGNhMGY1ZTRhNTAxYzdiYWU0NGM3M2QzNmVhMzYwMTZmYTQ3ZmVjIn19fQ==",
+      "signature": "WsMWKL6me/cRc9bNnbl9swSbD+J7L+Mvu5pXNYbkK/ni3bmLcITWAr2eiv1i1eRliSyQMrrZbcc3mb8cwtCI/AEqNW09AJmCUBaKa2ge3JN4EaQE9D/c1g/VjBIy1c90XFutKBFJ+gNsQxUCNzh3/b74gAHm64tBUjjf4E8kjdYxII6Q+f8guw6SGv4B+d89Rx5cAz595zN4Mie+u8rql9K9QAhfxsTAdRB5cw9BP0PlOH1yknTxbYz2p+lhZY9aCN/vxU1CbtyIreUwKOFAKG05UErZiyoKhmv02Cnqm69V9dQmkneqnsczxqhBEhnqyy0FwyMWtbPzgHbPE5t3f677xGKUMxHeVEwLhZLKqSt5XFEFh9V5unRk5dbkgqMDHzPT8/gAHD6rHuXbdxf6w/1AS5lEom25J135uJ8GiKPfCgbGsT89qNcOsTAWx3uaI6/YA4D7BXC/Or7IZBcutshfrd8T+Tri+XxttnCtTecprJvyCJNJzqbed44f30cxkoEDfJQJyQm8eyDw7xNNusYuXdjFIqNHp3pKP09Y4OBw81/oYor2wo2FvloJyG+XoYK7y/YcZ6AXLRniBakuAc0HmuyKo1a+3V/WLbcxGXe2HK3RSM9In3pWriHeVwctzzW/HF63hNWvT1ZeSUKM5EfOdasrSAPQdZHGrg4ansM="
+    },
+    "name": "Emerald Minion III",
+    "tier": "RARE",
+    "generator_tier": 3,
+    "generator": "EMERALD"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EMERALD_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "EMERALD_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "EMERALD",
+          "quantity": 40
+        }
+      }
+    }
+  ]
+}

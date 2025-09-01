@@ -1,0 +1,34 @@
+{
+  "internalId": "PESTHUNTER_BADGE",
+  "name": "Pesthunter Badge",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Bonus Pest Chance: &a+20%\n\n&7&7Can be used to enable or disable\n&7your &2ൠ Bonus Pest Chance &7stat.\n\n&7Enabled: &aOn\n&eRight-click to toggle!\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PESTHUNTER_BADGE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTU4NzAzMjUyOSwKICAicHJvZmlsZUlkIiA6ICJhYmRiNTFhYjE0Njk0Y2ZkYWU5ZjliNzFiZWJmYWI2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYW5ub3VfXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNGYxZjBjZjNhZGI0YWRjNmI5OTZmZjljYjRlNmQ5ZDg5MTJlMGE1YWI4NTFjMzY2YzhiZmJkYWY4YjJlZjA0IgogICAgfQogIH0KfQ==",
+      "signature": "UBXVpaV6UvR5sjmgPjS2WlwvmBv+R7RwQut5waHBCY0dXu8htKdltxSL9dthjiHFQktfoO18id3oarEWxfAJBGFf92tfTnR5OCl5yiOeFHfHzEsXs4kjvetF30LRSGTkyeJ1w0t8WG3r0rV6ULav7ClMQd26ku/Pq/BUc318eOtPzl4pmfFE/clS9/OTZKCcNo+3FApf2F1hb1JJhArrwtPqz/rXv92zmlTynVK9ZXc0k5KYHOy1kaX7Sz5MYzD1oAhvn+fLGh+lffG/vneOCfbetYs+MUZmh504b3VPttuwgtAihvkB9UqII6w0PgeIWPCtkQpbUHAiLH3ymr3lm6Xt+jEHoQrmJb3UxB3/B0VfzpahX++I5ZxeYERD7ZZIKdMwel4qF6WYE5nOh7dqjjFOExpGNqw97RVb1UO64zxrvbnSc8Q1ynLKT7w3dVr9yK2iq6coNHLQtsznWIXvVX/QUL7KHZPfHvdJisTZVj4g2U/BlhNY6tsQ5hGuSTvNOtysxc18akHuJ8riT760HVuzq9bFnCyAnUnKbwfLnzmw49cmKcZmNanU+Ms3uB3GsGHMJx38JPOH/giuE+uG0OG8t/13eewRKImZzYAI3cUbYKKNrSBol1xPZqQCFz0OF8rv7GOOoFgU7KbrKKbVAerV9OimNun8Ag5SIXMBAM0="
+    },
+    "name": "Pesthunter Badge",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "stats": {
+      "bonus_pest_chance": 20
+    }
+  },
+  "recipes": []
+}

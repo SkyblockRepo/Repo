@@ -1,0 +1,147 @@
+{
+  "internalId": "NUTCRACKER_BOOTS",
+  "name": "Nutcracker Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Sea Creature Chance: &c+1.5%\n&7Health: &a+75\n&7Defense: &a+30\n&7 &8[&7⚔&8] &8[&8⚔&8] &8[&8☂&8]\n\n&6Full Set Bonus: Cold Thumb &7(0/4)\n&7Allows the wearer to shoot unlimited\n&7snowballs when using &9Frosty the\n&9Snow Cannon&7.\n\n&6Full Set Bonus: Battalion &7(0/4)\n&7Grants &b+1✯ Magic Find &7and &a+50❈\n&aDefense &7to everyone within &a30\n&a&7blocks. Stacks up to &c5 &7times.\n\n&7Each piece grants a &a7.5% &7bonus gift\n&7chance for every present you earn\n&7from the &cGift Attack &7minigame!\n\n&7All stats of this armor piece are\n&7doubled while on &cJerry's Workshop&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 28&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NUTCRACKER_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "70,52,58",
+    "name": "Nutcracker Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 4
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 28
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "NUTCRACKER": 10
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "health": 75,
+      "defense": 30,
+      "sea_creature_chance": 1.5
+    },
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 15,
+        "essence_type": "ICE"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "NUTCRACKER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "SNOW_SUIT_BOOTS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NUTCRACKER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "SNOW_SUIT_BOOTS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "WALNUT",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

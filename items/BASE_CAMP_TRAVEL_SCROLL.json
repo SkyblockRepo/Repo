@@ -1,0 +1,43 @@
+{
+  "internalId": "BASE_CAMP_TRAVEL_SCROLL",
+  "name": "Travel Scroll to the Dwarven Base Camp",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Island: &aDwarven Mines\n&7Teleport: &eBase Camp\n\n&9&lRARE TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BASE_CAMP_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to the Dwarven Base Camp",
+    "category": "TRAVEL_SCROLL",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BASE_CAMP_TRAVEL_SCROLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWLESS_ONYX_GEM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

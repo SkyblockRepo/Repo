@@ -1,0 +1,36 @@
+{
+  "internalId": "RING_OF_ETERNAL_LOVE",
+  "name": "Ring of Eternal Love",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+80s\n\n&7Ramero and Joliet's love transcends\n&7the boundaries of time, space, and\n&7fate itself.\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RING_OF_ETERNAL_LOVE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyODQwMTMxMzQzMywKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0YjNlMWY2N2ZjYjg4MWQ1OThjZTE4MDU2Y2I5ZWI2Y2I2NmFmMDExMWYyYTVlYjY4ZTFlMzU1MGM2YzM4ODEiCiAgICB9CiAgfQp9",
+      "signature": "x7vB4w3ojZsJNYVU5AnOh/nRnyHHlmEttLkaDHeHhiprtWhXcYe2V2rzeQz7DhD2OidF9RVn8AAq0yJ8DCinRf24gVmLloyC9cL27NUmCvAYxunGOd3+ePapyGddVaBfrPxc732lCdCFya0fBZ0qA5AILMg/YxWOofHV6X6v5TqZoAD0jjZYXzjGlVLu0/g2xzIZA+fPhR9TO05YxR9ZuNB5x/Nj9E1dxXYqveb5x2PSg+th+SFk+eqW6yEJST4vecxL7hx1YSqtNS7vRQYj1AdVH4jKexEVy8iG61WHe0k1qz6SEEf2e24FB0Nvg3S1r76SMHIH8o+LRUXgANSK2FslHQP6pxSwx4Feu1CWFO8SHcSrJuMN3Vx5xtwE/C0T/A3fcbCaE41C9Frds7vsvyz5NbDySiUzVsu6b7//gg0npJ4XGvIBCAPrdFSvf0T7ULx8oh5yQimh9NwRvOkAuXCm8oQgNdpEGOv/1cXdkYggxEMJ4ph8+8qGUxqAGewaVGr85zS3U8nyxLccgI5e7aZ5yYcGBh8tB0xSFhhnyl6JpjxbE2JcNpR9B0QdWzHXzGiJ+MYgacaIbDpLIpqR3Ut8P9so6BvEV2oVYyeNrqLNT7x3euCNyVCte3OVISl8Cz7IW0bVsey3sTXsFv6bdMd28OVZ6rdmeys6a5CU3Yo="
+    },
+    "name": "Ring of Eternal Love",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "stats": {
+      "rift_time": 80
+    },
+    "origin": "RIFT",
+    "description": "Ramero and Joliet's love transcends the boundaries of time, space, and fate itself."
+  },
+  "recipes": []
+}

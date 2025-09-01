@@ -1,0 +1,25 @@
+{
+  "internalId": "QUARTZ_BLOCK",
+  "name": "Block of Quartz",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 16,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "QUARTZ_BLOCK",
+    "material": "QUARTZ_BLOCK",
+    "name": "Block of Quartz",
+    "npc_sell_price": 16
+  },
+  "recipes": []
+}

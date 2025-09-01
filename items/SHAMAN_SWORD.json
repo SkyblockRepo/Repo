@@ -1,0 +1,68 @@
+{
+  "internalId": "SHAMAN_SWORD",
+  "name": "Shaman Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+100\n&7Strength: &c+20\n&7Speed: &a+5\n\n&7Deal &c+1 Damage &7per &c50 max ❤&7.\n&7Receive &a-20% &7damage from wolves.\n&7Gain &3+30☯ Combat Wisdom&7 against wolves.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Wolf Slayer 3&c.\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHAMAN_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Shaman Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 3,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {
+        "SHAMAN_SWORD": "POOCH_SWORD"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 100,
+      "STRENGTH": 20,
+      "WALK_SPEED": 5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SHAMAN_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

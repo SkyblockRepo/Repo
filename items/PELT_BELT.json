@@ -1,0 +1,45 @@
+{
+  "internalId": "PELT_BELT",
+  "name": "Pelt Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Farming Wisdom: &a+1\n\n&7&7Gain &f+30✦ Speed &7while in the\n&7&eMushroom Desert&7.\n&7&7Earn &5+1 pelt &7from tracker quests.\n\n&7&8This item can be reforged!\n&5&lEPIC BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PELT_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzM4NTU1MjgyNiwKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjM1MTBjMDg2YmNmZGJiNmNkNWM3YTk5ZDMzNGYzZTNkMmJiNThiZDEwOWIyOGRiZDE4MWEzODQ3MWE3OTk2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "caAVhqdh6g+2Xhvi6mDTB9Yw+f4DTSjpQPPQ06f726Am42tx2JUAXCtPOxzPkpP9r1VPBPj+7vEx0LF9c+frYYTzgRHF7yrs/rB/MBdG7OK1YWDJF2iu49UO6vs2rJfkmWlEa+6+yGoqWBAPKt5Rv7spc4VnzMFS1K5SJgt3jl8Z4sfUHiEOBQoRCSsQFjG8KeESm2S0ZMyhjoc2i1iCni2p502soyrGxyOm8sbdvWvF2qIMywWz13zk/2HH0lsmJB/3OaPmZr2+tfq2jTEYhJt78gz1/5/cNMwAZpPV2b3SyKTvUFkEOSX3acJ0Mjg9wU8/Q0/2yn0JUDHYpmjfJdKEFM1rc6JaYs38VCnPpmL7Ff2Kr3lw3BO77BCZapxdgUYSEVckNdS7zQiN1sq3PanAVHEdlQ1n5B0SqrOJSkLgLVQ9CWqR0Vj66EXZ1CPy5g+T4gubPzzUsUdnqLtxSTaai5SuyX+mwuCRoKR/dzkG0kLDqoKouu8CniLehzl0xv7ZKjX23ZzlgO7L3tgaKsQ3aiaE5R1gHl8/c7aEv0D+x7jr5E/8Q8dqwehiLIaRB0ET+QwMe+tEDkLUu2onTzw0Z6TJ2tCK4KyV83+ayCl4IcGN5kiQoCuLAWqydFkdL759uOwgZlBJUi6oaPwL4cWCirpWRskqOBwRy7Ibke0="
+    },
+    "name": "Pelt Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "farming_wisdom": 1
+    },
+    "item_specific": {
+      "extra_pelts": 1,
+      "speed_on_farming_island": 30
+    }
+  },
+  "recipes": []
+}

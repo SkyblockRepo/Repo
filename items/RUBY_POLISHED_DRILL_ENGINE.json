@@ -1,0 +1,62 @@
+{
+  "internalId": "RUBY_POLISHED_DRILL_ENGINE",
+  "name": "Ruby-Polished Drill Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 103000,
+  "lore": "&8Drill Part\n\n&7&6+250⸕ Mining Speed\n&7&6+30☘ Mining Fortune\n\n&7Put this item in the &6Drill Engine &7slot\n&7of a Drill at a &2Drill Mechanic&7!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 7&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUBY_POLISHED_DRILL_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjY0NDU1MywKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdmMGI5YzQ1YmJhZTExYjAwZTQzMjNhZjAxMTljMjc4ODNkMzY5MGU4YzQ4YjQ5Y2YyOWIyNDY5ODExNzllMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "KDobNyNBagA9wosYDzZsXOq6DDa+PJEJw14mHqKCMq3tfGWQDeFRgFybe+IY2GiJKZmnMC/EpzkuR5XZuNi0xQHCZaei1BD8JU7gdgWxS8bi5d5nh61097aolQECk1lCRkzPtlfW7CNEPLQjanE4tY3Jl7hRNJx0YC65cvqpwvk9DvErJvfqapHLyZWQIQ39W+fDHT4o0lr+F7ia4Zg6XdDZ/5FqiO+thgxaUrBK/3prFtjIBdyxD9uFTDnjM/RXqkCoLf981lVil6HQ/gsvJmlgFP+IvKwNf48JeM6PNYIdRkDeSe8IYu52iqIFU1R3RqdoH5fvwmHylHP9/gtR0+gwAPyzpPa+uh1BMmjSS94QBTu6PheytzJcLoTIOfF+aMnYkhTNu3/U9yk9XFMN2E55DiflDILDT6OeHYzlsnw4KHxGURw5JntCxi1lbGm7saWCSm7K58B2/kiKQN9kNLghirD76+Xu2AeNlKDEiRqeRTYkTNBB3EY2t0qdjVD92lBIKyWYMvyzswMnP1NGU08+pw7DGF2hICrDOqF39SFI2AFtZwzCmGFTP2gGoM2nuELGDMZ3X634w0noYGmJFAPKDQp3133glsKHpGE4kzhPLJtiANjpUoFuW2woWlUIEFTt8eoVPmrjfjRy0ZfUxF9h/9weouJGZwMUb2VGiyY="
+    },
+    "name": "Ruby-Polished Drill Engine",
+    "tier": "RARE",
+    "npc_sell_price": 103000,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 5
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RUBY_POLISHED_DRILL_ENGINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TITANIUM_DRILL_ENGINE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PERFECT_RUBY_GEM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "PRECURSOR_APPARATUS",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "DRILL_ENGINE",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "internalId": "PESTHUNTERS_BELT",
+  "name": "Pesthunter's Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Bonus Pest Chance: &a+5%\n\n&7Decreases the spawn cooldown of\n&7&2Pests &7by &a10%&7.\n\n&8Tiered Bonus: Eradicator (0/4)\n&7Grants &6+0☘ Farming Fortune &7when\n&7vacuuming up &2Pests\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 5&c.\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PESTHUNTERS_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczNDUyOTIyNTQ1MSwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhYTk2NjFlMmM2YjEwYWE3NmE2ZTgyMTI3MzJhOTg1ZjJjNTQ2MzA1ODVmMjJkOTgxOWM4MzFlYTY0MmRiNDEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "dU+KV3BGbN3y4GHkRc5WIzts/MIM1XBHuvf3YM+dOupBHoSQnZs6EXeiBmvDExJOk4ntiekvrqNRzwBeBZN326tLDPXYK9Pf69LuSR3+7j/0kUry2Dntkmai7ulI6tLR07sqrPpUYuooXZTM2sAHRwoSH5jG3PLps+QLph2sdtwnNhInVYY4alrJ2EG61Z1b92iXQD58E9DZ9xbhdEIYzFJtJC2W66jvscoQ0bVgW1K4g8Qham6LNVCfk1o2OoiTJ/Uy8bH1QeBGfuT/DqRZ8e4Ynwe/5VrLsCuxRQGEL9L8dom7mgzeegEuQGdkvxLF8gg5/Jp6pi6nMzmQZ1ODjyeIPdI+Cs27mIayfIeqWvz0Q7PLS/j0SEVB3zYC5m4n1CQk/musrlbfpSovq8euGsOhJrk/IYA1DHpFA3n1C/bD9UJTY3FGBdk0mfRViW8nh9txB2lkiPlik6NdxIDdUzlQJND0stD3Dughkxfy79LZGP55DkHUSB2ztXeuOL/1b40iAQmKCjEAaCpPa8goveI8VM2YtHgQV34S29UxQRKJQy3NGtij1wMwQVDLixIHBMTf5wXZ9vBQpaEXBr8CJoek0T4OAxbpb4liDCdmey9+cC7YM2gNfJ8n1UB6Ev2CLj+TzMAk0ZGZf1fOoUhEYWJLokGlIIgFiq8c3Sjzbj8="
+    },
+    "name": "Pesthunter's Belt",
+    "category": "BELT",
+    "tier": "RARE",
+    "npc_sell_price": 5000,
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "bonus_pest_chance": 5
+    }
+  },
+  "recipes": []
+}

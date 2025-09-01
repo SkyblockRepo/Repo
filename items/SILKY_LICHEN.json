@@ -1,0 +1,27 @@
+{
+  "internalId": "SILKY_LICHEN",
+  "name": "Silky Lichen",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILKY_LICHEN",
+    "material": "INK_SACK",
+    "durability": 2,
+    "name": "Silky Lichen",
+    "tier": "RARE",
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

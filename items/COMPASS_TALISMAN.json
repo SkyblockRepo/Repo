@@ -1,0 +1,27 @@
+{
+  "internalId": "COMPASS_TALISMAN",
+  "name": "Compass Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 85,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COMPASS_TALISMAN",
+    "material": "COMPASS",
+    "name": "Compass Talisman",
+    "category": "ACCESSORY",
+    "glowing": true,
+    "npc_sell_price": 85
+  },
+  "recipes": []
+}

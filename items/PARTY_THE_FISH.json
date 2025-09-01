@@ -1,0 +1,29 @@
+{
+  "internalId": "PARTY_THE_FISH",
+  "name": "Party the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Big fan of parties, yet it's hard to\n&7enjoy them without friends.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARTY_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 2,
+    "name": "Party the Fish",
+    "tier": "SPECIAL",
+    "unstackable": true,
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

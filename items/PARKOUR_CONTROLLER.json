@@ -1,0 +1,31 @@
+{
+  "internalId": "PARKOUR_CONTROLLER",
+  "name": "Parkour Start/End",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Create the start/end of parkour\n&7courses on your private island!\n\n&7&4❣ &cRequires &aSocial Skill 1&c.\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARKOUR_CONTROLLER",
+    "material": "GOLD_PLATE",
+    "name": "Parkour Start/End",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "SOCIAL",
+        "level": 1
+      }
+    ]
+  },
+  "recipes": []
+}

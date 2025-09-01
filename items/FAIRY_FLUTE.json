@@ -1,0 +1,27 @@
+{
+  "internalId": "FAIRY_FLUTE",
+  "name": "Fairy Flute",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FAIRY_FLUTE",
+    "material": "STICK",
+    "name": "Fairy Flute",
+    "tier": "RARE",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

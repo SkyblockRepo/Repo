@@ -1,0 +1,27 @@
+{
+  "internalId": "LARVA_SILK",
+  "name": "Larva Silk",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Click two ledge blocks with this item\n&7to setup a &eSilkwire&7.\n\n&7&8May the larvas which died for it rest\n&8in pieces.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARVA_SILK",
+    "material": "STRING",
+    "name": "Larva Silk",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

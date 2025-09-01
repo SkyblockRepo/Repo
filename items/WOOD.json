@@ -1,0 +1,26 @@
+{
+  "internalId": "WOOD",
+  "name": "Oak Planks",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOD",
+    "material": "WOOD",
+    "name": "Oak Planks",
+    "npc_sell_price": 0.5,
+    "motes_sell_price": 30
+  },
+  "recipes": []
+}

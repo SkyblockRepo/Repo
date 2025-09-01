@@ -1,0 +1,39 @@
+{
+  "internalId": "VELVET_TOP_HAT",
+  "name": "Velvet Top Hat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+25\n&7Defense: &a+10\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VELVET_TOP_HAT",
+    "material": "LEATHER_HELMET",
+    "name": "Velvet Top Hat",
+    "category": "HELMET",
+    "tier": "RARE",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SEYMOUR": 4
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "health": 25,
+      "defense": 10
+    }
+  },
+  "recipes": []
+}

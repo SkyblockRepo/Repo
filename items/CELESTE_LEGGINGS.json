@@ -1,0 +1,49 @@
+{
+  "internalId": "CELESTE_LEGGINGS",
+  "name": "Celeste Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3500,
+  "lore": "&7Health: &a+15\n&7Defense: &a+15\n&7Intelligence: &a+40\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CELESTE_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "255,142,202",
+    "name": "Celeste Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 3500,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CELESTE": 1
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "HEALTH": 15,
+      "DEFENSE": 15,
+      "INTELLIGENCE": 40
+    }
+  },
+  "recipes": []
+}

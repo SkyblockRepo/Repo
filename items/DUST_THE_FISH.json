@@ -1,0 +1,28 @@
+{
+  "internalId": "DUST_THE_FISH",
+  "name": "Dust the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Pretty sure they forgot about me...\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUST_THE_FISH",
+    "material": "COOKED_FISH",
+    "durability": 1,
+    "name": "Dust the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

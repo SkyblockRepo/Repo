@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+  "name": "Foraging Exp Boost",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+    "material": "IRON_AXE",
+    "name": "Foraging Exp Boost",
+    "category": "PET_ITEM",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": []
+}

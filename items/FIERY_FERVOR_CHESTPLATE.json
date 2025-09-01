@@ -1,0 +1,206 @@
+{
+  "internalId": "FIERY_FERVOR_CHESTPLATE",
+  "name": "Fiery Fervor Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+530\n&7Defense: &a+280\n&7Intelligence: &a+10\n&7True Defense: &a+10\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Fervor (0/4)\n&7&7Every &a1.5s&7, attacking a mob grants &c1&7 stack of\n&7&6҉ Fervor&7. &8Lose 1 stack after 4s of not gaining\n&8a stack.\n&7 \n&6Ability: Ground Pound &e&lSNEAK&r\n&7&7At &c10&7 stacks, sneak to reset your stacks and\n&7perform &a2 &cGround Pounds&7 dealing damage to\n&7mobs within &a9&7 blocks. &8(Damage scales with your\n&8EHP).\n&7 \n&6Full Set Bonus: Intimidate &7(0/4)\n&7Attacking a mob has a &c50%&7 chance to direct\n&7aggro from 3 mobs to you.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 37&c.\n&7&4❣ &cRequires Kuudra Fiery Tier Completion&c.\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIERY_FERVOR_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "240,71,41",
+    "name": "Fiery Fervor Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 37
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "FIERY"
+      }
+    ],
+    "stats": {
+      "HEALTH": 530,
+      "DEFENSE": 280,
+      "INTELLIGENCE": 10,
+      "TRUE_DEFENSE": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 7000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 9000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 11500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 13000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 14500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "prestige": {
+      "costs": [
+        {
+          "type": "ESSENCE",
+          "amount": 25500,
+          "essence_type": "CRIMSON"
+        },
+        {
+          "type": "ITEM",
+          "amount": 80,
+          "item_id": "KUUDRA_TEETH"
+        }
+      ],
+      "item_id": "INFERNAL_FERVOR_CHESTPLATE"
+    }
+  },
+  "recipes": []
+}

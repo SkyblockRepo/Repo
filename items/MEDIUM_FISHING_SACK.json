@@ -1,0 +1,76 @@
+{
+  "internalId": "MEDIUM_FISHING_SACK",
+  "name": "Medium Fishing Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aAgarimoo Tongue&7, &aAlligator Skin&7, &aBlue Ring&7, &aBlue\n&aShark Tooth&7, &aBroken Radar&7, &aBronze Bowl&7, &aBusted Belt\n&aBuckle&7, &aCan of Worms&7, &aChum&7, &aClay&7, &aClownfish&7, &aGlowing\n&aMushroom&7, &aHalf-Eaten Mushroom&7, &aInk Sac&7, &aLily Pad&7, &aNurse\n&aShark Tooth&7, &aOld Leather Boot&7, &aPrismarine Crystals&7,\n&7&aPrismarine Shard&7, &aPufferfish&7, &aRaw Fish&7, &aRaw Salmon&7,\n&7&aRusty Coin&7, &aShark Fin&7, &aSponge&7, &aTiger Shark Tooth&7, &aTorn\n&aCloth&7, &aWorm Membrane\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_FISHING_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTM1NjQ4MywKICAicHJvZmlsZUlkIiA6ICI4YzQwMGUyYTNiNjI0YTkzODBkYzdlZWNkMmE3NDNhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJaemVydnluIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZmNzU4NzFjOTBiOTRmNGZiYzE2N2UzNTFkMzZlOGFlYWUxY2MyZmVjMDNiMTY2MjkwMDdmNzRjOTg5ZGU2NDgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Cdn10aZxufOz9BFrbyRipKMeFxpBBUWlxAIRiZREqzw41FBDG/7IUHGhB2GVjKXSTG8a4XJloxVDhqk+U4mOo9E0ZnX3vxRZsa76EbP0MQ/HoGZ6QynJDOLftv4NymfsmBJ7W37XKsPybGW5bDT8vSRB0XMS67zvRkdsspMRKECZFqPxddEfYTM107VjVHSxxfPJupqDa9f0ISeHpZwrBe9E/9KtuE8et2zjNXBqRWZe/XzqT/3m+Y1Jq2wnal2kF79kw/R9dBzroudPKg6hPrL0xKVkCZSQExiSfbayWGs9Zr6SZ04nr315c6V6etwdI8TOC0b6km+ZUsXKnakWUJjlaLGeklpsJ/s1IyzoKoBFx9pu4Sl8m3pY1o8W+3MU5Ja2C12xniRzmhqXRokBNgqRQqH1Awg6/pHt9AVRyL57wM6pwkc0lMWkKj2qnLGP+FpmBOlR/uUqVQ++GeSJcXSiXTSbrAKzMAsXJOz6YtpsPb7Z/X/Ft2pcyLE3iyfkLoROQosW16HSDG7YrZL7STN3JTh0o8Yl5joLEeQqSu/Gv1zOEiykiSKMtAc6/E9QrIEG/gvMHvmVeY1fgPY1KExHtrCiSlwOFym9E4tdPqg94ogcsYEWsKbx88c5a08MHNN2XX3CxnlsENz1IFbh7NdzDk1r76Wga8M1gKJo7Wo="
+    },
+    "name": "Medium Fishing Sack",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_FISHING_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "SMALL_FISHING_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "GOLD_LEGGINGS",
+  "name": "Golden Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 14,
+  "lore": "&7Defense: &a+15\n\n&7&8This item can be reforged!\n&f&lCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_LEGGINGS",
+    "material": "GOLD_LEGGINGS",
+    "name": "Golden Leggings",
+    "category": "LEGGINGS",
+    "npc_sell_price": 14,
+    "stats": {
+      "DEFENSE": 15
+    }
+  },
+  "recipes": []
+}

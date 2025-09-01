@@ -1,0 +1,27 @@
+{
+  "internalId": "DIAMOND_HOE",
+  "name": "Diamond Hoe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&7&8This item can be reforged!\n&a&lUNCOMMON HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_HOE",
+    "material": "DIAMOND_HOE",
+    "name": "Diamond Hoe",
+    "category": "HOE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8
+  },
+  "recipes": []
+}

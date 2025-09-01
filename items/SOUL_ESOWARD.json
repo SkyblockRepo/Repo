@@ -1,0 +1,79 @@
+{
+  "internalId": "SOUL_ESOWARD",
+  "name": "Soul Esoward",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Soulward  &e&lRIGHT CLICK&r\n&7Become &9invulnerable&7 for &a5s&7, but can't deal\n&7damage.\n&7Halves your damage for &a2s &7afterwards.\n&7&8Soulflow Cost: &310\n&8Mana Cost: &3350\n&8Cooldown: &a20s\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOUL_ESOWARD",
+    "material": "SAPLING",
+    "durability": 2,
+    "name": "Soul Esoward",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SOUL_ESOWARD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 18
+        },
+        "2": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "NULL_OVOID",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "NULL_OVOID",
+          "quantity": 6
+        },
+        "5": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 14
+        },
+        "6": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 11
+        },
+        "9": {
+          "itemId": "NULL_OVOID",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

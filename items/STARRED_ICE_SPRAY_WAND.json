@@ -1,0 +1,165 @@
+{
+  "internalId": "STARRED_ICE_SPRAY_WAND",
+  "name": "Ice Spray Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Gear Score: &d148 &8(160)\n&7Damage: &c+60 &8(+66)\n&7Intelligence: &a+135 &8(+148.5)\n&7 &8[&8✎&8]\n\n&6Ability: Ice Spray  &e&lRIGHT CLICK&r\n&7Produces a cone of ice in front of the caster\n&7that deals &c19,000 &7damage to mobs and freezes\n&7them in place for &e5 &7seconds! Frozen mobs\n&7take &c10%&7 increased damage!\n&8Mana Cost: &350\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 20&c.\n&9&lRARE DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_ICE_SPRAY_WAND",
+    "material": "STICK",
+    "name": "Ice Spray Wand",
+    "category": "SWORD",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 10000,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 20,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 20,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        60,
+        64,
+        69,
+        74,
+        80,
+        86,
+        92,
+        99,
+        107,
+        115
+      ],
+      "INTELLIGENCE": [
+        135,
+        147,
+        160,
+        175,
+        190,
+        206,
+        224,
+        244,
+        265,
+        290
+      ],
+      "WEAPON_ABILITY_DAMAGE": [
+        19000
+      ]
+    },
+    "ability_damage_scaling": 0.1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_ICE_SPRAY_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ICE_SPRAY_WAND",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "HYDRA1_BOOTS",
+  "name": "Water Hydra Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HYDRA1_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "16,21,85",
+    "name": "Water Hydra Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

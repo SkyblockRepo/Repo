@@ -1,0 +1,32 @@
+{
+  "internalId": "PREMIUM_FLESH",
+  "name": "Premium Flesh",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Undead &7reforge when\n&7combined with armor&7.\n\n&7&8''The Zombie it came from was''\n&8''probably a great warrior before its''\n&8''death.''\n\n&9Undead &7(&6Legendary&7):\n&7Health: &a+25\n&7Defense: &a+25\n&7Strength: &c+5\n&7Bonus Attack Speed: &c+5%\n\n&9Undead Bonus\n&7Decreases damage taken from\n&7&7Withers&7, &7Skeletons&7, &7Zombie Pigmen&7, and\n&7&7Zombies&7 by &a2%&7.\n\n&7Requires &aMining Skill Level XVI&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PREMIUM_FLESH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNzU5NjE0MTY2MiwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQWFkxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhNzVlOGIwNDRjNzIwMWE0YjJlODU2YmU0ZmMzMTZhNWFhZWM2NjU3NjE2OWJhYjU4NzJhODg1MzRiODAyNTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "ak3ra+2WKPJkvBJrvUuaj9FYGZZe+q93GstIHcb15+5p+KgW3muA/dVtsRBWcJVRftj4Q5cgVegKwIoVR6wYy563gWw0L8oYUeCTzZ25L2LYjJUkzvHZ2NCpR4JRa3ryyREZemOwJVBQoMRHeT/B7EyRD+bDCpNjMceWETkevxqE2MX+JYyPhnofhUrfioyExaCWVK+0vcCG+HvY6peW5RqwvDBSC7SobwW4HsbJ0l6JYBPExFqMurZtOUvqCZiTg+5ycakKVJBZIe7IvRZFKAaD3hlaMIdV3xWsSah8VHWPk78sIQ4tHbbL5JpzPDKUc+cS8xVvIZgjrrYEvvlIicccDaN9Z3TRDWdQIG+hoKU7ify5ULttsB1HIgnV8ukNAjPcaZ0gD+fHSiELR8Zv1zr4/xzK8hqElrycBuUKPFMONct/x+EYFB23qpWOo7UoectsmnjTiQxEIwkU9Yk+0/tP7oNonAENlFJzhmfolmKWwtxzgqNSW+uHEs//qpqiyQiNZjFo3J0rgZtFW2Ws0UNSthLDCOQhnUzW/Cy84B9bRpXHQ5VpXwyBBm4G5V04jfcA74MLFF+J/RwnCcrAM3ZfbyKhh/ZOwvmTuIWEGzZowtGJSXbpnIbPN+XVhRmkKpEfRKlezbvZOAGOz7BcYhEDZpbvFPQD2Rn7FP51B3o="
+    },
+    "name": "Premium Flesh",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

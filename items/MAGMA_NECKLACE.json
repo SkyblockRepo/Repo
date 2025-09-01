@@ -1,0 +1,219 @@
+{
+  "internalId": "MAGMA_NECKLACE",
+  "name": "Magma Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8180,
+  "lore": "&7Health: &a+15\n\n&6Ability: Cube Fanatic \n&7Gain &a10% &7more &cMagma Cream &7when\n&7killing Magma Cubes.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGMA_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ5NDE3MzMyMCwKICAicHJvZmlsZUlkIiA6ICIwNTVhOTk2NTk2M2E0YjRmOGMwMjRmMTJmNDFkMmNmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVWb3hlbGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzZTIyMzdiZWY0ZjRmN2U5NWJiNmVhMjliNGZmNmY1ZGU4NmMwZDVmMmQ4Yzk5YzE2NGEwYTk4NDhlNzg3MDQiCiAgICB9CiAgfQp9",
+      "signature": "QeGNHVinSe3WZzz0/aGYmUoNAIB0wt7LGUGkt1fki1FkI1bpE9+Nk4MTEFjidenNwvqnSt3ZDKVdrE6Wbpho67GbnixbzDq/s84z0mrI5bceasAyqRXA59Hzzdf3LtvB/ZEbV9nwYk9uIZYSrzS+Y2JzHZqclEN33S0uNNMolBESM3/ikl/KS6TRl29hDXO8VpLAQI9HM8/faxSPR3w/XHd50E2UZTO2mph1P3nQFEEsKxFXgP0j7sByOcQbHKnlUOSi12Okbnxky/qrW76fWH01pxbR++np8JNkR5btYf3bLccxbdcGOyWa1ThzZn3fKxb4kVxgojBrCCGJh0opNMN7NnfE1zZwLybW3Qn7x4icsSspnDMNQqxf2OOVTxAmySA04mMXKe2IVcfTXY+KVpD6poIwFJnxdHBYt16FOG0rw3ZK9/TYeU7+qLWD0i9EX0GuvQreF2yQeYJUACZ5mh1Nl8s8KDMCIq+8HHJBeIue0vDC0NVzZGpx6L6W8VKIpRzMItD2A3RcFt8g6GUl3kcuePkwvnm7SvN0EBECaA22WZ6N9XQ1ezEwF1KQKvbz1evs9rPKasQRgjN/QH8FpKt8GJLFsLmS5RMFJMVdW0CxLkLpitzMUbAe/oXT5x7JwprLPkds7It1EMQ4c5bX3FpmjDa6JmNjCoI/Jq5jOyY="
+    },
+    "name": "Magma Necklace",
+    "category": "NECKLACE",
+    "tier": "RARE",
+    "npc_sell_price": 8180,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "CRIMSON_HUNTER": "VANQUISHED"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CRIMSON_HUNTER": 5
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "HEALTH": 15
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 180
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 260
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 360
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 480
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 620
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CHUNK",
+          "amount": 780
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGMA_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

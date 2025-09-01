@@ -1,0 +1,32 @@
+{
+  "internalId": "DRAGON_SCALE",
+  "name": "Dragon Scale",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Spiked &7reforge when\n&7combined with armor&7.\n\n&7&8''Some people say it is harder than''\n&8''diamond. Hard to tell, really.''\n\n&9Spiked &7(&6Legendary&7):\n&7Health: &a+8\n&7Defense: &a+8\n&7Speed: &a+1\n&7Strength: &c+10\n&7Intelligence: &a+10\n&7Crit Chance: &c+10%\n&7Crit Damage: &c+10%\n&7Bonus Attack Speed: &c+4%\n\n&7Requires &aMining Skill Level XX&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRAGON_SCALE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA0NDYxNTA0NCwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2FkZGU1YzMxZmJjM2NiZWM5ZmY2NjM2MGM0ZWZiNmU4NjU4NDYxNzE3OTYzMmZmMzhmZWExZTU1NjY0OWIxOSIKICAgIH0KICB9Cn0=",
+      "signature": "A2qDQOpfU8GpsLykLeLIxXoTgSX+WZvvQdxAQQAS+6WXFEc/gCXvYxpbIoZgqgFV1QhX6lla846lExaWqBklVUC5d2Ir3u4db6qc61MFqdE6igG8cBsyWYgEaSeyCePcN/j+zvZXTi+PSriJBb7synK0dOOjImRnuhGbOsOm5Zty64pR12XaiD96/6u7zrKe3U1IazU0ZzrjdmEcT1+KCd4FwKEKHgThb5rMi1tlTNi84Zhl5bP1zPggbkVxYf5UpqZGrGIIED7aomr5PLOf7GRdYLQLMg9AAtauz0lfa2HeORbKKnYQsRtx2icy8ttMHAUNqxZZ6rZidmN6OJZZtOBMf7rwhAfhzbnUIDRv/AhePZZiv6xdG+mD3F0KGYsWhjxVrNJ5pIcw0A538ourQSWNT38bCjMRWj3sBvEyVE/jDN0erESyyzOl3KA6Ar0NdTjRoMpMW67vU/5YZMT614NrqmrojCyq/MuD3FxO212dUXcJHlw4lZ0PiRXCE7iIRliOAn/+IPdmk9tPmIDM/BfambAMINrgtn1fQ8CLQ7OEoL9kdaKx9jauEwpukCKCoS1REMCKyaO79Jcta+iILD6DqnrlMKU+vQXGD/QgXDta2L8dVNLjG/snlmlj32VQ71jSuVfH/IrheJ9nWbT/ABhhAwQ1IAkmsXI6/j2hj2Q="
+    },
+    "name": "Dragon Scale",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

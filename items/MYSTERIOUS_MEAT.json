@@ -1,0 +1,25 @@
+{
+  "internalId": "MYSTERIOUS_MEAT",
+  "name": "Mysterious Meat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MYSTERIOUS_MEAT",
+    "material": "ROTTEN_FLESH",
+    "name": "Mysterious Meat",
+    "glowing": true
+  },
+  "recipes": []
+}

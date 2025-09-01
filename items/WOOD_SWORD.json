@@ -1,0 +1,29 @@
+{
+  "internalId": "WOOD_SWORD",
+  "name": "Wooden Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+20\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOD_SWORD",
+    "material": "WOOD_SWORD",
+    "name": "Wooden Sword",
+    "category": "SWORD",
+    "npc_sell_price": 1,
+    "stats": {
+      "DAMAGE": 20
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "REDSTONE_GENERATOR_4",
+  "name": "Redstone Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining redstone ore!\n&7Requires an open area to place\n&7redstone ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a27s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REDSTONE_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDYwNzY2MjMsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiZjgzY2IzOGJkNjg2MWIzMzY2NWMxYzZmNTZlMjljYmM0YTg3YTJmNDk0NTgxOTk5ZDUxZDMwOWQ1OGQwYWEifX19",
+      "signature": "oCHBEj5+txet8dsyuHM2LvbHrU7a7Lc7FtBao4WIeSapxn5oXf8bITiEayFPC26yN1U7zL6YMdeA6CRuvLXvMoY4Xns3ImZBIwD7hI8tK7ZlLax/dCgLQdmBOlFXSpuIo3DWgVpDq/H7+nvZE6YAcIQqDvL4O8dDs7cELkaN56wEwOfhindHMyUGmYYWfJh+02NF16dkHMulV8x+ZyqqpAKI4BbGWa38SSWvpKKB1ic9uXBgQmGdLqpS2CWx+ydPyCwlsusq9UjC5V34v8ScHqzZVqjidUG7xgDoj33Ltyb1XTFjf6UTWQcMoJp83khrK1yLH7S11nZ6ssKLt9joZRxphmEJBar252fvmRn/iUoxtfblyXNmxzowVlKS6LKeD9wgYVZABYfYCwgbLjam1l5K0nSiwjfAO0n2HnRKowXFwJpBsine9A7fiP62KUJvj09hly39g98w2eFSCUZ9iYNoIXY62nGkLreE6omBCw7KEpu5cddLBmUp+0bxfc5IZBGQ+Wci3dsTnYpaJKtZ8l0zy5jzHdzTUspnp+lAjnA07JWflBmxBGMAjTu3hP5YbwJhOve8pYNkjYqhZusecKMoHCiLqo7QkK9qOQdCo/Xf/Hd+4rzdgMOj5FfcPMCGSRMXUVHWEw+oKcezadsOCrZL2ZvmWVEjhikEg0oeRB0="
+    },
+    "name": "Redstone Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "REDSTONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REDSTONE_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "REDSTONE_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

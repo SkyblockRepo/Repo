@@ -1,0 +1,90 @@
+{
+  "internalId": "PRECURSOR_APPARATUS",
+  "name": "Precursor Apparatus",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Can be given to &9Professor Robot &7to\n&7complete the &bSapphire Crystal Quest&7.\n&7\n&7&8This decaying piece of machinery\n&8was once a part of a large robot\n&8known as Automaton Prime. There's\n&8still a lot of good stuff in here.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRECURSOR_APPARATUS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NzI3NDE4NDc4NjcsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxZTcwZDM5MzU3MDFmYTBlMTI5YmI2YWEwNjU2MTY1MzEwMTNjY2Q5YjZlMDBhY2VjNTcwYWVlYTNlZjUwNTIifX19",
+      "signature": "ccAps5hTWVAZJfbXw3NtPv+pklgUczdsWjnnefkhAOGBKzV3SwWkxx5uYDHAr3TnQbLqurXfJqd+CqR6UwL2bSrN9ks7TjX6wCDAZMmtRUfA8oKL4Xhiu9fmRYLAP+J+hR3S8MzyT6SpgflPmE4hipGz/vSUY5iqSQk46m2Nmr4t/88PB23M0z269f7RWNt5m9rKRrw6kv04HD/lMgwWZe5Fk4SlL3iQ69C/+eOR7qqQlJAheSAZ1foJVyaHH3MHK2r9zZJ0QuWx3BS1MxxRed1llcwDuebWGmcM8+hygeM3llHJ8Pzp04OO2iDtIZBFlCS8rIW6ORAnWK05/J/0kusC72GHtRENv4kXUbcqtBlbG4sjZUu8vis6RGGL2rylBcT6wAfXhgLsnbilbB5aHOi0c6vSHt25awuMzVvAPs+XAkFMubzUHJ2Q+kW/lymcrkDuP8sjXLP2eN/VwMHQGcXb/L7JxH/Mmr5bRn6315yYUCjJ4uZBR5zank1Roso0ahy4SK81CuPHN+w0hvgV2NWfdgstFMpqZdAgkttg2CapQC1jnriSEkz1OGQCjxBKu/6LyXN9IBWp4V/TgM9YQ6e+7NRqWbSDD2TGj2FTLblOVdWkl5w2K2Ef3Cp8czwxyPIP49Ii4+Vb+nsSz1BuxB85ogxJh1LUdu0bkuyiSco="
+    },
+    "name": "Precursor Apparatus",
+    "tier": "EPIC",
+    "recipes": [
+      {
+        "matrix": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          " ",
+          " ",
+          " "
+        ],
+        "output": {
+          "item_id": "PRECURSOR_APPARATUS"
+        },
+        "ingredient_symbols": {
+          "A": "CONTROL_SWITCH",
+          "B": "ELECTRON_TRANSMITTER",
+          "C": "FTX_3070",
+          "D": "ROBOTRON_REFLECTOR",
+          "E": "SUPERLITE_MOTOR",
+          "F": "SYNTHETIC_HEART"
+        },
+        "allow_quick_crafting": true
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRECURSOR_APPARATUS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CONTROL_SWITCH",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ELECTRON_TRANSMITTER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FTX_3070",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ROBOTRON_REFLECTOR",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SUPERLITE_MOTOR",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SYNTHETIC_HEART",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "internalId": "BONZO_STAFF",
+  "name": "Bonzo's Staff",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d285 &8(314)\n&7Damage: &c+160 &8(+176)\n&7Intelligence: &a+250 &8(+275)\n&7 &8[&7✎&8]\n\n&6Ability: Showtime  &e&lRIGHT CLICK&r\n&7Shoots balloons that create a large explosion\n&7on impact, dealing up to &c1,000 &7damage.\n&8Mana Cost: &390\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor I Completion&c.\n&9&lRARE DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BONZO_STAFF",
+    "material": "BLAZE_ROD",
+    "name": "Bonzo's Staff",
+    "category": "SWORD",
+    "tier": "RARE",
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 1,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": [
+        "STARRED_BONZO_STAFF"
+      ]
+    },
+    "stats": {
+      "DAMAGE": 160,
+      "INTELLIGENCE": 250,
+      "WEAPON_ABILITY_DAMAGE": 1000
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "dungeon_item": true,
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": []
+}

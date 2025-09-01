@@ -1,0 +1,77 @@
+{
+  "internalId": "VAMPIRE_GENERATOR_7",
+  "name": "Vampire Minion VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Vampire\n&7Scions! Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a140s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VAMPIRE_GENERATOR_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDQwNzU4OSwKICAicHJvZmlsZUlkIiA6ICJjYjYxY2U5ODc4ZWI0NDljODA5MzliNWYxNTkwMzE1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb2lkZWRUcmFzaDUxODUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmZlZGQ5Yjk0NzcxYTZkOGMzODI5NGU1MDg4ZDQwNDQ2OGEwMTJmOWRlYzU5ODdmM2Y0OTI0NzJmMzBiODNiMyIKICAgIH0KICB9Cn0=",
+      "signature": "s1moIhYyeKWyblgSyXc8shjgi562/8LuGtpmwCqrXlviZ9OUvZSCIeJOxijlhzUBe7XLbYIqTfOBXmF25a+5+DaFbwzrPko8NTXG+Xro/pY+kl0/BOns0hcryyEnRxWLkNhLvhxDxrY7OQVaYInfZIWBbuI51XoMRFqeuW8xtwndBvz8NQYUGyJubKo4RPtlJ23nCLsd0vbN1eYO8YNc/HwpfDu/hD8g0AveRsmWP5xjpoqbmglanrh+ojTf0wqz/eVGyRisv0i6gbqN9I77GMD7eLi7abnRRsCgjJyC2+qRGTOO8dAalLLDo/uHibxd98puAlqiMcHxhuH3pb5MEQBJtSkooZ21U+28o8PTbwNKR0CGsJiUl/doi0SYOH2ShwqU0GOb1fYDqvDYCF7AHh3Vx6e4Rc7rRehJxCurOLYNchhFPxb1sS5ddnJlW8VLk0RgRyTqqMj+R/f3zLpwIZm4DxyOwp11ifzrce44HI0QAzWQIFLc7SGYXjxqDC99uPkKJQbzMzKrlWntLRFS3yBsomwUdCpfbRXGymK9WdRUaxp0C++4AdUzfqD7X5gOKolLC6wnh13/lJmNzuKY3FzI92Fg1xw299QGEwarWY+knlg8eNQYSMbzw1jZYV8xqAvmM18rI5GkMcSrs3oXatEGutDXRaT7M2Iv7qX+8o0="
+    },
+    "name": "Vampire Minion VII",
+    "tier": "RARE",
+    "generator_tier": 7,
+    "generator": "VAMPIRE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VAMPIRE_GENERATOR_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "VAMPIRE_GENERATOR_6",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "HEMOGLASS",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "internalId": "SATELITE",
+  "name": "Satelite",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7High altitude, slow attitude. The\n&7procrastinator's dream stone.\n\n&6Ability: Bullet Time \n&7Slow down the loss of &aф Rift Time &7by\n&7&a20% &7in elevated areas.\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SATELITE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzY2NjUwNTAzOCwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYmU4NTRiMDM4NmRjMzg5Zjc1Zjg3MTRiMjkyMmFjZDI0MjE5NTEwMDFjZmFiYTRhODFhYjY3ZTMzOGI5OSIKICAgIH0KICB9Cn0=",
+      "signature": "bQzhbea5/OGE4tv0Xzvoy7aKJ9Rj7ABrX6beJgJxhIFJnQNPCuFe65heCcvuRAtB8kW/qaPikSwvYUpy2/azbtoDfZE8KSzWgQhNIGnH/PO7EdPa8+VbDE3cl/6bKTi8n1JK186kKznkZN3wlf/FtwU5BdOOAQiRu62kKo4Ychtt2tZAMKs3GuX88gOxzD8Ufc7qISDtwy18b+dyMvWBT8UVTcjQt86Jt8EnxPdMrLh35sX+ORwoGun/PAS7dY1mEobeCOcf6Gwb4NBU0o/WICDvH/GFw2rIEzB1ETqZ6si3TMH9uo2Ue67uPHGBsOrGmYJIXQIHr/xWCe5or0mCju4R4ituB4hYCs5Ott0eJZGxLoxwTtU+1nw135TtEn77ck/IN9E1ibhr1UbV5PL0MHzXFbCeIsl97lrMb/VLsVBaunFvcq7midoNS9E+8gziaOV2/f3+VJWRQYkShV/y4xJj4GHpHZDvr7Y+Qtzv+rGkHusNLiAfzCH81p1jqMs2FBqPlw1TEmKsB7gZyDS2dmc+WI88ab+3gjllyK2z3a7RZCXz/+Fp2x1xn9woQRfnIhYTw0cqD0R+vMQ52rl+BIdiCyjfh7r/Zas9pRXew6oXZoptC5oQSXSeQZF7HyHZWUUPflmj7qF/tw4+bt8yY0pxN1yWBppROjVVWBcFQ3E="
+    },
+    "name": "Satelite",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "origin": "RIFT",
+    "motes_sell_price": 37800
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SATELITE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "YOUNGITE",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "TIMITE",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "YOUNGITE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "OBSOLITE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "HIGHLITE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "OBSOLITE",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "YOUNGITE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "TIMITE",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "YOUNGITE",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

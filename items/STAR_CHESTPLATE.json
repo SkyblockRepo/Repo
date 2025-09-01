@@ -1,0 +1,31 @@
+{
+  "internalId": "STAR_CHESTPLATE",
+  "name": "Chestplate of the Stars",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+20,000\n&7Defense: &a+5,000\n&7Intelligence: &a+2,000\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN CHESTPLATE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAR_CHESTPLATE",
+    "material": "GOLD_CHESTPLATE",
+    "name": "Chestplate of the Stars",
+    "category": "CHESTPLATE",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "HEALTH": 20000,
+      "DEFENSE": 5000,
+      "INTELLIGENCE": 2000
+    }
+  },
+  "recipes": []
+}

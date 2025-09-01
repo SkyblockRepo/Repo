@@ -1,0 +1,76 @@
+{
+  "internalId": "SMALL_FORAGING_SACK",
+  "name": "Small Foraging Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aAcacia Sapling&7, &aAcacia Wood&7, &aApple&7, &aBirch Sapling&7,\n&7&aBirch Wood&7, &aDark Oak Sapling&7, &aDark Oak Wood&7, &aJungle\n&aSapling&7, &aJungle Wood&7, &aOak Sapling&7, &aOak Wood&7, &aSpruce\n&aSapling&7, &aSpruce Wood\n\n&7Capacity: &e2,240 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SMALL_FORAGING_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTQ1NTMzOSwKICAicHJvZmlsZUlkIiA6ICI3NmM4Y2ZlYjE1N2U0MGEwYmNlNjQ4NTgwZGEwNmQwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGlrZWhpZGRlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80Zjk2MGM2MzlkNDAwNGQxODgyNTc1YWViYTY5ZjQ1NmZiM2M3NDQwNzc5MzU3MTQ5NDdlMTljMTMwNmQyNzMzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "EQ3oUnYht4QLwUtM/a/Lbe2T14ATAE/kXFyGkFY2L/R5OLhom64e+qunAavYlH30DQHrZZ6rWYrlPvjDCtokGdYogj2Uv5j9weOnypeTW9O0B4Lj4fxvJptwSPSfCRHMdPcZLq5Wvx6Jt26uZY1oGSagMdYEyDR5/ZUsVf5cq8ESeSN7Fiw7hJvBToqKkBHzn2MmNqm+PzAoRsEPihwAFJKi5LbRqWrAT01UfvI4jE9jFs1Um85T5XKEBvV3+UeSikgiv+F78YRMYmbZQPwmdTEX3hxY8JtWmudBSbB2Trin2h6LpG0q/iOfFDCSPqCN2R/dZp9S+ASmkyXL2LGy8b2lVfMEExusefGVJ/qFCb9TYwj1Unw9zuqqAKO6Sr7f+qd64qcndZC9B6hiWAWKIOZs9zB/mtzM2qHgxtmqnwjIRTpeIhMiNM6VhtvFMXC6WoRgpE9IkPY46YoKR19Lvx2Mzxl1P1aOfFK/yWfSPp0l/pNARRtNmxeK63Yl76K9FuyWS9CC+GsoYzB6db2+PeEW0Pi0yGKXBdQlhWQImeheKr2pxCZKymccclD1eaGs9ppYd6KL8Kg+kBDPz30zmjtckdzTP/Jy8tHXGd76lhPdDmDXpxKHPXP6TczHsUPtYUo7bTPid9MPD6JFI5gt2+hGkkhNIBfW6fZiR0wa8og="
+    },
+    "name": "Small Foraging Sack",
+    "tier": "UNCOMMON",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SMALL_FORAGING_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_BIRCH_LOG",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

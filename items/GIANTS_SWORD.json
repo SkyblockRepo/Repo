@@ -1,0 +1,116 @@
+{
+  "internalId": "GIANTS_SWORD",
+  "name": "Giant's Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Gear Score: &d600 &8(650)\n&7Damage: &c+500 &8(+550)\n&7Swing Range: &a+1 &8(+1)\n&7 &8[&8❁&8] &8[&8❁&8]\n\n&6Ability: Giant's Slam  &e&lRIGHT CLICK&r\n&7Slam your sword into the ground dealing\n&7&c100,000 &7damage to nearby enemies.\n&8Mana Cost: &3100\n&8Cooldown: &a30s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON LONGSWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GIANTS_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Giant's Sword",
+    "category": "LONGSWORD",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 40
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 6,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 500,
+      "SWING_RANGE": 1,
+      "WEAPON_ABILITY_DAMAGE": 100000
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 1200
+        }
+      ]
+    ],
+    "gear_score": 100,
+    "dungeon_item": true,
+    "ability_damage_scaling": 0.05
+  },
+  "recipes": []
+}

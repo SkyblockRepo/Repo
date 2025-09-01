@@ -1,0 +1,149 @@
+{
+  "internalId": "DOJO_GREEN_BELT",
+  "name": "Green Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+20\n&7Defense: &a+10\n\n&7Reduces damage taken by &c3%&7.\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&a&lUNCOMMON BELT&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DOJO_GREEN_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU5OTkwNjU5MiwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3MjAzZDJmMDhhN2QyYjdjOTU1MzI4NjVlYjJiNTkzZTUyNmRkYjkyZmQ1Y2NhOWU3ZDdiNjIyYmM1Mzk5MDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "ejX6QyczthLi6UK104jI8w4e4FmibI7dKXlckiUUctlw/5pdUa5PLO3M/Hxxh19qUWvKJd013ExsAEjiEBSg+bhnjhffHhHHSMey9JqLxxkLhy4xRQ554cgBcKikmix5UB3Oe6AWrsWMlyBe+dWnIke8HGXvA2uc3VykaAmZ7/9JLTWyDb0oXJTdqxVS/eCTqzbD3FNniIfuPp5+1AbxIBXNCafqZ1/rqFpHHoqOCKYwFicUpYd4EwGeECK1IbmrJHou48upYq82zeqUVTc063Zj5btj08sQfORlM2sPWinQqT1twKDl2kFgmMC15tM9EfscliMmC0PWQm1UXhKaTMHYDtRdgj72p9JCDyrbFDio/ArRG2pFmYFUmKjuMfeoiO3zK6c61ypFfSiFO9gHH943L7SWPzltgzgbsDtAAcIpXEL2w1UOkjlRGqqMShbis6PAzl5yRenncVoZ3+OzSdSgP92xOhTTd6fjUWlElPb5E/qsk33DKb00b3/O1kKhXdtu/PSffTankqxr881Sn6QF3WFJW2aP196TAJxcCp4ggRSBxUrmBrEXmhN2I3CC2zoh7KQ4aTgHkaLFfIo8z9maFshzKmUzAXlexHtxLEgkMD7p8/qHEpRtUNvWzWSVf9ka0ygAOrKkkw3N+UQIAlPBiOljmakjh3sj2Y42XnA="
+    },
+    "name": "Green Belt",
+    "category": "BELT",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "DOJO_GREEN_BELT": "DOJO_BLUE_BELT"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 70
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 120
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 150
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 180
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 300
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 350
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ]
+    ],
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

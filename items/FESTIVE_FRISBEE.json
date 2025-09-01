@@ -1,0 +1,27 @@
+{
+  "internalId": "FESTIVE_FRISBEE",
+  "name": "Festive Frisbee",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Doesn't do anything... yet!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FESTIVE_FRISBEE",
+    "material": "IRON_PLATE",
+    "name": "Festive Frisbee",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "description": "Doesn't do anything... yet!"
+  },
+  "recipes": []
+}

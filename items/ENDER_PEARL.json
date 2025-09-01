@@ -1,0 +1,25 @@
+{
+  "internalId": "ENDER_PEARL",
+  "name": "Ender Pearl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 7,
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENDER_PEARL",
+    "material": "ENDER_PEARL",
+    "name": "Ender Pearl",
+    "npc_sell_price": 7
+  },
+  "recipes": []
+}

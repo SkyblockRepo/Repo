@@ -1,0 +1,26 @@
+{
+  "internalId": "CANCEL_RACE_ITEM",
+  "name": "Cancel Race",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CANCEL_RACE_ITEM",
+    "material": "STAINED_CLAY",
+    "durability": 14,
+    "name": "Cancel Race",
+    "serializable": false
+  },
+  "recipes": []
+}

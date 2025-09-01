@@ -1,0 +1,90 @@
+{
+  "internalId": "VAMPIRE_WITCH_MASK",
+  "name": "Vampire Witch Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+132\n&7Defense: &a+222\n\n&6Ability: Bat Swarm \n&7Summons two bats that will follow you\n&7and attack nearby enemies, dealing\n&7&c3,000 &7damage upon exploding. Your\n&7bats will not spawn on your island.\n\n&6Ability: Rejuvenate \n&7While wearing, drains &a5 &7health per\n&7second from all monsters within &e8\n&e&7blocks.\n\n&7&8This item can be reforged!\n&5&lEPIC HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VAMPIRE_WITCH_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzkyNzg2NiwKICAicHJvZmlsZUlkIiA6ICI3YjA5ZDg5NWQyYjc0NTU3YmM0YTkzNWYyNjU0NWNjNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJwbGFuZUdvQnJyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZmNjYzEwOTUzZWViNzMzMDBiN2JmY2FmY2QzZmQ2NDFhZTczOTU1ODY2MmY2MjU2NjdhMmU5ZDMzY2RlNzQiCiAgICB9CiAgfQp9",
+      "signature": "uaT1qL/uYAjafowKHuYySoafx2o+JRI2hu8mVHmJKaU7kfGzGYiQP5Fkcj6/FiGZUFzjvrToyg7QWLzhX47E4HhM5DctXBJL4ipUU9rrbx/YO0ohFeHX5YCwcMFsttGcQzP0fEzSwG/alQ2/KwoelRPaeUCv+l/sdIApAVLpTaR9TwwvYletO6xHix5F+aFzSnvIV17q5jvtdJN+tO0ERydTEVNIMj6a/XH39/to3EBBaTaLDtSQH4ejQnnpkV64yg0Tk9mNj74sRq6E/WghYg+/xeb3eK00IfmP12JlHtSuGeNAHazY2xSCZxHFX27YxTprV6dweB++kZq7fiV3zhSbxmoJIBwLdwBCI5OOHY6J22c2nOIX7j21/WZK7RShZKMRpl1d0JfpZxXmLVGnFje/ffLiDvyc94CGSMHc0h6hxQmavkS6A0wt0e0BiFr1/ORjQV0X8x5WTxY3N8PRphYED/6VpJOPLSP7LN5Wo4qfBOuiOmaFZqhRRm5N5mEStjRcJm2LBgxa1rJtGDGe/aeNcHHfl0lEVFyAdNzv0rTEktoDSxSTLNJDcI8Vn6kYY3xIyTlx1KnC7ecniCIQHR0XKxrNcBwdKTHNQL+4vOGpFxzeTAV8g1viVJeijuqqbvdnPRJUqjuVkLU6qbpzdMvIXHO/TGIgHfjCyPhwFv8="
+    },
+    "name": "Vampire Witch Mask",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 132,
+      "DEFENSE": 222,
+      "WEAPON_ABILITY_DAMAGE": 3000
+    },
+    "has_uuid": true,
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VAMPIRE_WITCH_MASK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ECTOPLASM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ECTOPLASM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ECTOPLASM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ECTOPLASM",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "WITCH_MASK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ECTOPLASM",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ECTOPLASM",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "VAMPIRE_MASK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ECTOPLASM",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

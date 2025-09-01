@@ -1,0 +1,80 @@
+{
+  "internalId": "BLAZE_TALISMAN",
+  "name": "Blaze Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7True Defense: &a+3\n\n\n\n&7Reduces the damage taken from &4♨\n\n&4Infernal &7mobs by &a5%&7.\n\n\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLAZE_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMjE4NTU4Mzc3NiwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRlM2E0MDdkMmJlMzg3YjQ1YmViZGQ1MmQzZDRkNzVhNmExYjQ3OWUyYjhjMDMyNjdkMDIxZDRhZjMxZTA3MiIKICAgIH0KICB9Cn0=",
+      "signature": "cPhHgE0h/qaDg/fvSFA9oGYuIk3IKJzC3PX+LZNtQN+StEqL0Dxwsin6ZPmrQmjd8GSBDutU3vhH0ueXJ7qwxLBNcMEOMxbNdsWTxKZnJIwKErnEBObgBmrKP7v99wGB+ycsF8JSAZRRMLYVoR45eh4fw7denIk8GMHZh1VsHtb69MftIOssMj6/cCPuOgd/7Bzceomp3cn/9e1row44Y4fbzHwTWyTAp1waPAdCjXhuz5qTOJV3by77eaHkbuaSjjJj3c7hPybmVKYlSlWzakp51T6iVYqFCDaNExHtMR3bwlQlHhk7cz+9iITlNFDdEBFHmZKU9YRvoEKVEGYlq7Tx8OLVxNMz6OGixpoKxwA3EEsCE/3uCUy/HdQL8+ERO87BAN3oOVmJCUthfTT2ZtRs2B/ck43gEoJ6a7DoIOyHPdHUMRhMuqm35f+QfCOP1qXtUxp7G9MjRUP2+icRxCBmTPRbnvSUYPWW+vBoxZy8pYK9p0m0vr3jx7Oj9xF+Icwq51bbBsUs5ZJTBi7KxAbQC1qAV1O2kdnBhciAkYFnyDavJSkfCwMGkcVSp+3sqEUHPxy/bvwNWh/n2CXadY1WrYEqudiHtsBZbkDI7yLSMFQ6ADpgM5WZd1D67YL+Sk/9Urj5pbFzqL0zxz2PtjtOH4x+RRr2B/DYuuEmyzE="
+    },
+    "name": "Blaze Talisman",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "unstackable": true,
+    "stats": {
+      "TRUE_DEFENSE": 3
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZE_TALISMAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MILLENIA_OLD_BLAZE_ASHES",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

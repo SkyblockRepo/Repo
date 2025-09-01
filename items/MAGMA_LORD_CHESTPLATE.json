@@ -1,0 +1,288 @@
+{
+  "internalId": "MAGMA_LORD_CHESTPLATE",
+  "name": "Magma Lord Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 350000,
+  "lore": "&7Strength: &c+10\n&7Crit Damage: &c+35%\n&7Sea Creature Chance: &c+4.5%\n&7Health: &a+275\n&7Defense: &a+225\n&7 &8[&8⚔&8] &8[&8⚔&8] &8[&8☂&8] &8[&8☂&8]\n\n&8Tiered Bonus: Fireproof (0/2)\n&7Provides immunity to &cCrimson Isle\n&cLava&7.\n\n&8Tiered Bonus: Lord's Blessing (0/5)\n&7Grants &3+1α Sea Creature Chance&7.\n&7Grants &b+5✯ Magic Find &7on Lava Sea\n&7Creatures.\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a15% &7and\n&7damage dealt is increased by &c1.3x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 45&c.\n&6&lLEGENDARY CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGMA_LORD_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "111,15,8",
+    "name": "Magma Lord Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 350000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 4
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 45
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MAGMA_LORD": 20
+      },
+      "game_stage": "MASTER"
+    },
+    "stats": {
+      "health": 275,
+      "defense": 225,
+      "strength": 10,
+      "critical_damage": 35,
+      "sea_creature_chance": 4.5
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 240
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 320
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 7
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 600
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 800
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 12
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1600
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGMA_LORD_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MAGMA_LORD_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

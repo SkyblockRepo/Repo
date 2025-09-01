@@ -1,0 +1,65 @@
+{
+  "internalId": "HEALING_MELON",
+  "name": "Healing Melon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Succulence  &e&lRIGHT CLICK&r\n&7Take a bite and heal &c7❤&7.\n&8Mana Cost: &350\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HEALING_MELON",
+    "material": "SPECKLED_MELON",
+    "name": "Healing Melon",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "item_specific": {
+      "heal": 7,
+      "mana_cost": 50
+    },
+    "origin": "RIFT",
+    "motes_sell_price": 5
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEALING_MELON",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "VAMPIRIC_MELON",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "VAMPIRIC_MELON",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "VAMPIRIC_MELON",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "VAMPIRIC_MELON",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "VAMPIRIC_MELON",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "VAMPIRIC_MELON",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

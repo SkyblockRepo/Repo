@@ -1,0 +1,78 @@
+{
+  "internalId": "CRYSTAL_LEGGINGS",
+  "name": "Crystal Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3500,
+  "lore": "&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Full Set Bonus: Refraction &7(0/4)\n&7The stats of this armor change from\n&7&a0&7 to &a200%&7 depending on the current\n&7light level.\n\n&7Current Light Level\n&c0&8 (0%)\n\n&7&8This item can be reforged!\n&5&lEPIC LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYSTAL_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "252,243,255",
+    "name": "Crystal Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "npc_sell_price": 3500,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CRYSTAL": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DEFENSE": 30,
+      "INTELLIGENCE": 100
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CRYSTAL_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

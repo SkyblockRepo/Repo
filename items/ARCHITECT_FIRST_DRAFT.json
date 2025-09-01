@@ -1,0 +1,26 @@
+{
+  "internalId": "ARCHITECT_FIRST_DRAFT",
+  "name": "Architect's First Draft",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Can be used to reset a puzzle room\n&7when in dungeons.\n\n&7A 'reset' button seems to have been\n&7hidden somewhere in the floor, just\n&7in case something goes wrong...\n\n&cDungeons only!\n\n&5&lEPIC DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARCHITECT_FIRST_DRAFT",
+    "material": "PAPER",
+    "name": "Architect's First Draft",
+    "tier": "EPIC",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

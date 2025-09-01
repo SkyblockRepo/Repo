@@ -1,0 +1,131 @@
+{
+  "internalId": "THE_PRIMORDIAL",
+  "name": "The Primordial",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+15\n&7Crit Damage: &c+20%\n\n&6Ability: Forced Metamorphosis\n&7When Killing a &cSlayer Boss &7or &cSlayer Miniboss&7,\nhave a &a10% &7chance to cocoon them!\n&7Cocooned enemies will quickly hatch, and can be\n&7killed again.\n\n&8 An eye torn from the Primordial Brood sits dead\n&8center, patiently observing. Are you truly the\n&8one in control here?\n\n&8This item can be reforged!\n&6&lLEGENDARY BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THE_PRIMORDIAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczODkzMDcyODU0NywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkYzEyYjhkZjJhMDlmMDkwZDNiZjU3ODAwNWQyN2RhMGNlZGRiZWU0NzkwNDkwZTExZDE0NDkxYTM5MzIxMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "BMzmpIPvd3nfqW/AbKQ5lbFGFxtn1ojz1D8FjguVNgVrl52zW7wKrklGgiRBubW2S75hzwWPsH2/Mmk637HOvsF03JMKvRKQiVrCHtza2qorM1U3Kg2GiSNKdXjx3Itt8RxdP9kACzgdoRDDJwQ7G09PtPrkdQukfTkD/YYAr9L9uTZrfGKp7IqSJ7X4K3w3NpYjXkjKii7Sc/OOuS53aL78RCRAEG3yKe7M/anFF9juOtZ5WMM4WfVbVNiFigvTsawKRF1CI64rhYQLJT0zpeq/cUtGVy5qG2amBQo+z69iG6e6AFEUcZV/2nWD6neX/zagRtU0LWVSJ31hdKU/x5eTzsjcY/WBMxAX+HAy53UmG+u1hA/aGaJ6Zk5N+5+XLB3a5QuuYH+At7tKMt7VMI7F6i14AkmF71ufmxLl6AtXtqz8PDWYVUKE0chzSF6sDt8Y57YYTbfAmR5Ul/HSaoAciRmcPoUwbNlitULNEkx25hbDW91DF+NbMOm0TCWfGVXEVTvIWY1R+YR6YEVObFMVTQUBYFGuLi7OUBfBTiL977DISC+L/wLTBI5esEqSlB7cVDX1ndz2YZ4msduApdUHCoudxzMXrNQA8DYPenxCI79rYUs6o+SnCSXJbcRb2st4dsePm78bFPcuY2VwJMf3ZRdZnhrloemwbK+ItP0="
+    },
+    "name": "The Primordial",
+    "category": "BELT",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 8,
+        "slayer_boss_type": "spider"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 12,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "STRENGTH": 15,
+      "CRITICAL_DAMAGE": 20
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 750
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 1500
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "THE_PRIMORDIAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "SHRIVELED_WASP",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "PRIMORDIAL_EYE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "SHRIVELED_WASP",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "internalId": "ENCHANTED_QUARTZ",
+  "name": "Enchanted Quartz",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 640,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_QUARTZ",
+    "material": "QUARTZ",
+    "name": "Enchanted Quartz",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 640
+  },
+  "recipes": [
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "ENCHANTED_QUARTZ",
+      "resultQuantity": 4,
+      "crafting": {
+        "1": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_QUARTZ",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_QUARTZ",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "ENCHANTED_QUARTZ",
+      "resultQuantity": 4,
+      "crafting": {
+        "2": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "internalId": "MAGIC_MUSHROOM_SOUP",
+  "name": "Magical Mushroom Soup",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&7&7Consuming this soup on your private\n&7island or garden allows the player\n&7to fly for &a2 minutes&7.\n\n&7&7Leaving the island will pause the\n&7effect!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGIC_MUSHROOM_SOUP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzQ5MjQwNiwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI2ODMyODZhOTEyZWVkYzIyNDk3NGIyZDRhZmI3ZmE1NDViMTNhZTYxZDE5ZjNjZGY5OTBlNTFhNTA1YWVmMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "ovbBgvvlDXnZ05DMOx31uWpA7PSPbymrXk1fwvvC+JJZ/ZqmVC705fFStU+RNXGrtzzV+M7/h/I3uRzNujoqQHYDeWtqC52OFYVpTM9TIJQvzRS6aJOs5LjQ9TzeZO3NiP2gRdplyZiCNgteUqG0y/iZvhb+Nj2CCzzl3fqrHqJKaEEzbdlV9QjMNWlfluU+6+Cn/NBl9cUAu+0nzx28NeKERZxcdbO3iLgqfpUmo0YEXurQNVR8+d31ejQ+/wx/QVxENe9/X2Yv4YSFzB0XnKIadTyOdOfk9L5KwE68LAK8Iajzu5mHQm71cLMTlB0SIygH3KJ/fYH0zl2NWhEUmrdNx0R98dP1yFmnJ6vCU5d96l8WMC/l2m2szoRP6CuUgtxtJFUeMgcGqhQgCi58rnkNo2kKnhnl0sMOsIOJpWnLYoxOQSjtCp0ljrTaM/uNZVLtliplViW0sb9clQFNUJBZ+YbtdfX+nWhuFiDoKrWjM9sDiQhves1dIB6BsD1G7D79pD/u2lZ/C1MtpW52mSycB0SEP8HmFvyS+Px0XEAK17EA54VXYeF2rofEAGakg0dewyCkTLZWIjeyuqAvMgilW8BYcjHzs0y8qZo8VD+inWNqkEoecsyVipaTvZXD7JKaehiA5sqrYe/Cpj7Z/EDaQ9TTUI9hqvBW9IDRTLw="
+    },
+    "name": "Magical Mushroom Soup",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 4
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGIC_MUSHROOM_SOUP",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REDSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BOWL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

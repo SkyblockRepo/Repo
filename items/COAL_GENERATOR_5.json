@@ -1,0 +1,77 @@
+{
+  "internalId": "COAL_GENERATOR_5",
+  "name": "Coal Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining coal ore!\n&7Requires an open area to place coal\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COAL_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzQzNjgzMTAsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1ZWJkNjIxNTEyYzIyZDAxM2FhYjdmNDQzODYyYTJkODE4NTZjZTAzN2FmZTgwZmNkNjg0MWQwZDUzOTEzNmIifX19",
+      "signature": "U6R0VBq8zF/OylzmV/0jdSryHbtGaHeO748/n1uxUtOs0P8uGKKaocsciQ2zF1iHUhPlhtnML+6fZiX8eTyZxjU1X1yuvpsdcc2Of/t3axsJVGxqTTuRcdmmxUra3FnUXd/nSp+EJQWEMAkcGDFEDTWghDxN71tDj2rmTGQV1HXWEMakRfkSo9PKG+zNHYxzjd9DRLPLkFgHNK2FgdpawDMgI/piPLkFkWo3vUrcINo1Yfhqiiz/oRlak7vjpsYiTviQY4T4d4o4OvL8zrK1+3Kk+If/ewOf9eG1CfpWBS4Ytz/8QUMnJtpKFn3979mGDU/9S+ygMpjKktoLg/gn1EFOfcFlLhyl1o2n0w7uw08GM36O/s53XaWapyBUYUw9uvPYc8mW+UVal/f9Xz2xLTE15yGPOsEURc5QnD/v5RuF9DCrAFF44xarKzCiG9FCiSjcQ+ZNqaxk0SF6z4F2yYo6uiam/3+FwzCPNK8XZxrblnpjJtk9h/8G6Y5RWKEOC/umzISlQut5x28L6GPH4Yc5EhD9YbSBAC0M5RyVCpQzSGJ/BMS9o15vMyXSQRGBSUQMaou+bvdWZctt8isCzWVcktc+Y6+qXydu65bJX+bhaUGAurtppF/iwrBmnh+VTHal0PzI2LJ+RZnPz7af+eXWKEf8w7byT62R8FAYxCU="
+    },
+    "name": "Coal Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "COAL"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COAL_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "COAL_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "internalId": "DEMONLORD_GAUNTLET",
+  "name": "Demonslayer Gauntlet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Crit Damage: &c+25%\n&7Health: &a+40\n&7Defense: &a+20\n&7True Defense: &a+5\n\n&7Deal &a+10% &7damage against Blazes.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Blaze Slayer 4&c.\n&5&lEPIC GLOVES&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DEMONLORD_GAUNTLET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk3NTU5OCwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84M2JkNzI2Mjc5MDg4NWUyMzIxYmM1NzcyOWU3NGE5ZjY4ZWFmMjZlY2NlMzY5ZGJiMmZlOGY0M2MyOTgxZDI5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "EbEIl56fQagMpOzMSwCHF3wrUbWewdyzDWIefb0HUzkYZPZPeMTjm1dhpZQDi7bIallmQ5zUD5XhZf0FNDSmMqdkmVus34ZQHPMnZNzuf3klTw9pTCORXCiDNZ5SSdaEvlOQTMkDuzDU/B6r3t5GZE51YZLZlC9qamMsXLL5aIhF6h88BLXnl1WnXhaS+CTQvoydF4lVBQH28Drgyc6ThLlsu+sRuE50bGPBgP2JYxZeauEHL1mYlSW1dkmciPnT8wwHp+qozFd30yCJFdwENoe8ynkmVibGoe308jcUq0MYSscck+s9Z3sKVew8celYTvHinVon9mC59heJc2puUkecg92IYuVohQ7rcnlTSF+DNZuG0qzoqXSoWqcXyRqBmKOHuOKY6brcU96t9Ctpu6tWp18aNzCwt9/fE/pxQqQZ7L3kVFKa65hKZ6GOF4By0DA2Qlk02HpdqCUnJrq13AZFrnew82YXfOK88+19OcomzfELpfI1VaDQZkqYaRRy3dsEOaylV+wXSAf0r7YC1o1o3rGbqCk/G0+m/+5Jpzt9/hNdQODcBczts2bl/a1iW8UwcuRavHTyQaUMnNDHeIngKIn4zZEM6nkWxPxWvycTCiJLuJ+k13jw/RxPUHq1RaQhsIN53o90+Fkh60Ch0Vos+h8xBPk9XN/JT8sagOw="
+    },
+    "name": "Demonslayer Gauntlet",
+    "category": "GLOVES",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 12,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 40,
+      "DEFENSE": 20,
+      "TRUE_DEFENSE": 5,
+      "CRITICAL_DAMAGE": 25
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DEMONLORD_GAUNTLET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_RABBIT_HIDE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_RABBIT_HIDE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_RABBIT_HIDE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "internalId": "HUB_CASTLE_PORTAL",
+  "name": "Portal to the Hub Castle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&7the &bHub\n&bCastle&7 for you to use whenever you\n&7want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HUB_CASTLE_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTU5MzM4MzQxNSwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8zMDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI3ZTEwNTZmMmI3ZTk4ODg0NWY4M2RjYWE5ZTY4Y2I4NTFmNjE0YzA1ZjcyMjdlOGM4N2MwZDhmODdkZjUzZiIKICAgIH0KICB9Cn0=",
+      "signature": "Lppk5MuRLIvTWK8rbk5gOalDNPMvgshBR8z/5zBkuw/QNhtr6MIDV3EHArsPPSylwM4rKmIJkmZxLUvjbDX2d9k5aNaDEpUPHVyW0GLbawdYj2Z+O7qo7EAY9p0cICBAg4dd36tpZuyuCIL7RLRycTNNbJ79/kQK+c4Ei9xY4DxxA+9EE+OK2OOL/LpHBQRLdfhvKIJaPU+Yhlc9CVtorMWKC9hpcNvIjDRKFvUkriw47Dg8yDI/gqTawdgNlssF4uYXlEwd/xxr1CxU5HYSBsYhvduyAB/uO2j9Ni035UE81mkbpOQQ61+t0S048xWRNLysEh1FeXAffFYxb23qQdUvlEpUXQjvllZVVNlNnwNpIy4QPGWmpQtGSBYD3quGSmwaRiUcIMhlsOko9UuififH3s3/bVRKpaVxFWquTExxTKLIbUxrvE/vs3CDCZH2yB+A7IuAUlVVBYqzlrv5JKhQpRhC69GCzaMb7ftbVb5JIMSW2NGmZ0tkCGtst6B9QVfEU8NRl9kRON+vApwGZ5qv5P7EBrarVL/s0DxsNlXS8na4Dl/RaEbv69m0PqRfqdifhZzTyZgMxACJRKwYJMxvWhagYL7y8G5xAz80JzoTJbNP9HWhDU95Q0rrgiFtQprG09niBAhA5ik1mD3+EnACkK2nVwEndaz2T4iRAhc="
+    },
+    "name": "Portal to the Hub Castle",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "NEW",
+        "holo_name": "Hub Castle",
+        "location_tag": "castle",
+        "schematic_file": "sb_portal_hub_castle",
+        "description_name": "%%gray%%the %%aqua%%Hub Castle",
+        "destination_mode": "hub",
+        "skill_requirement": {
+          "level": 3,
+          "skill": "COMBAT"
+        }
+      }
+    }
+  },
+  "recipes": []
+}

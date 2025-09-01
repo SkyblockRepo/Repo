@@ -1,0 +1,45 @@
+{
+  "internalId": "REFINED_TITANIUM_PICKAXE",
+  "name": "Polished Titanium Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 14500,
+  "lore": "&8Breaking Power 6\n\n&7Damage: &c+65\n&7Mining Speed: &a+200\n\n&7Grants &6+100☘ Mining Fortune &7when\n&7mining &fTitanium Ore&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 4&c.\n&9&lRARE PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REFINED_TITANIUM_PICKAXE",
+    "material": "IRON_PICKAXE",
+    "name": "Polished Titanium Pickaxe",
+    "category": "PICKAXE",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 14500,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DAMAGE": 65,
+      "MINING_SPEED": 200,
+      "BREAKING_POWER": 6
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "COOKED_FISH",
+  "name": "Cooked Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COOKED_FISH",
+    "material": "COOKED_FISH",
+    "name": "Cooked Fish",
+    "npc_sell_price": 8
+  },
+  "recipes": []
+}

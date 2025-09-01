@@ -1,0 +1,102 @@
+{
+  "internalId": "ENDER_BOW",
+  "name": "Ender Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1100,
+  "lore": "&7Damage: &c+60\n\n&6Ability: Ender Warp  &e&lLEFT CLICK&r\n&7Shoots an Ender Pearl. Upon landing you deal\n&7damage to all Monsters in a &a8&7 block radius for\n&7&a10%&7 of their &c❤ Health&7. &8(Max 500 damage)\n&8Mana Cost: &350\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&9&lRARE BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDER_BOW",
+    "material": "BOW",
+    "name": "Ender Bow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 1100,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 60
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENDER_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENDER_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

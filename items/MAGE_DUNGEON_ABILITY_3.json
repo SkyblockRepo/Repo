@@ -1,0 +1,29 @@
+{
+  "internalId": "MAGE_DUNGEON_ABILITY_3",
+  "name": "Fireball",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&6Ability: Fireball  &e&lRIGHT CLICK&r\n&7Shoots a fireball, dealing damage based on\n&7your Mage level!\n&8Cooldown: &a15s\n\n&a&lUNCOMMON DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGE_DUNGEON_ABILITY_3",
+    "material": "BLAZE_POWDER",
+    "name": "Fireball",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

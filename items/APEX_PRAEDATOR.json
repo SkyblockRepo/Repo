@@ -1,0 +1,68 @@
+{
+  "internalId": "APEX_PRAEDATOR",
+  "name": "Savage Huntaxe - Praedator",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7Damage: &c+20\n\n&6Ability: Absorptio  &e&lRIGHT CLICK&r\n&7This weapon lets you absorb &c20% &7of\n&7the basic combat stats of any\n&7weapon.\n\n&6Ability: Vis Temperata \n&7Each strike of this weapon has its\n&7damage capped at &c33% &7of the\n&7enemy's max Health. This weapon\n&7cannot cause a fatal blow.\n\n&7&8''Supra omnes, Apex Praedator solus''\n&8''regnat.''\n\n&7&8This item can be reforged!\n&5&lEPIC AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "APEX_PRAEDATOR",
+    "material": "GOLD_AXE",
+    "name": "Savage Huntaxe - Praedator",
+    "category": "AXE",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {
+        "APEX_PRAEDATOR": "NEX_TITANUM"
+      },
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 20
+    },
+    "description": "%%dark_gray%%%%italic%%Supra omnes, Apex Praedator solus regnat."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "APEX_PRAEDATOR",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_VINESAP",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_VINESAP",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CURSUS_FERAE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_VINESAP",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

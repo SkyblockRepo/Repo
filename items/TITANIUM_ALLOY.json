@@ -1,0 +1,31 @@
+{
+  "internalId": "TITANIUM_ALLOY",
+  "name": "Titanium Alloy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITANIUM_ALLOY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjQ0NjU0NiwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZGYyMzI0NTcwMzBhNjY2N2U0YzY1ZmY5MmU5M2M2Y2VmZmIyMGMxMzMxMTA4NDQwMTJlMGE5MGZiYTc4NmI0IgogICAgfQogIH0KfQ==",
+      "signature": "k6ftSkf2h9/9ZMKildHk11x5MTxRyh0rZeHhsj6bCV+QIGOzvINvpj26q2PeTUueZIMIRY6a5lXTzffWoNxNcnD5ZoEdvJUmyl1GI9JHCGXKbrsqCE4ESgftlTEL8M+y+dR1c9wjAtwgum7QHTI8iANo917kTfaim8/hnGHHPn2lzi6/EEe7Im3pcSd5Gwuw/9dmrlMXLGEuIaRYraegPCUxmnMFHsv8ccd6oUXqmhQchQhrlwH61vq+w5zHaEGV2GjIg0lFYivjaQL/mx8hNjmhnKDNWEGogV6n6x3r5gBgyJ5Mg1jbngSOV/Ubh74g+0vKLW/e73/4hhVithPolyOivn7wMBE4KZ2el4faF3KQUMTpRyOvJXKAidkDPyMjQqGbTyKudrzkll78tBCLxP+RvkAlHU2vhKPr+87A/l4B/cRnspi09zY/mKT02jlpEk9XEqLKCWOADVqe0mfepbsHgu9cYChcoMmFRHbRbV70iObuekwAH4Jd8JN0HEEYvscm9uoSFXdjbhQxKQ2ya8YwzIQXgIOZiidnUwiBudjj8rtYvJgUtiXUxyMgsN2HKWjkhI9R0b4QNNGkfPqcRXbSwSFowo/8aRvFd4NKaMopnaUYS7Iqh0r+RAHw8iJPP3ep5A61LXF1W+ochGW8BnFlYsvsQosNbt7hXBHcY+U="
+    },
+    "name": "Titanium Alloy",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

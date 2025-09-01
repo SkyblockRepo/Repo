@@ -1,0 +1,32 @@
+{
+  "internalId": "NIBBLE_CHOCOLATE_STICK",
+  "name": "Nibble Chocolate Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &a+2% &7chance to find a\n&7&aChocolate Rabbit &7that you haven't\n&7found yet and grants &6+10 Chocolate\n&6&7per second.\n\n&7&8''A delightful treat from the Factory.''\n&8''Its crisp taste sparks joy with''\n&8''every bite.''\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NIBBLE_CHOCOLATE_STICK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjU0NzI5MCwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ODgxODhkNjI5MDhhZjZlMTE0ZjczYTEwOWUxNWFjN2YxZmFkZWQzOWFiZDZhMjA1NDAzNGVjNWNjNzBjNzI3IgogICAgfQogIH0KfQ==",
+      "signature": "wk3rbczMqpr3XLIdnadtASpG2lcnk7O+lAgq9rScHdf4ujuPOBLduBwgV2vvKnFxTmcMs3Y3zZJ3hzqjUAaA9e0UqqISCqkaPbAq73ldpEMgyHhzYQprRmIvQKwvO+APXF7krYlI63yxO8XvDrVPeJDP3KU4898AqqmEmiU0HL0gQqYXwXlD1VBT5Beg4iIS+oEEBpCP+B0pD+qrKRRpSIdgU1CvvARZDMKSDQtRVnje7Ut9kF9oG2S+5ali1/qtGJIeLl5fbVXPX+zPppf4WUOdsG+kFoZ3VllWOTwAmefHLohmxDxUyGA0J7nGx9Tq3xrqPazCiTPuLYXb7NsFv3DdSGPiqHty04+v8LzTK/Vygawv15ATY5I5Zi+U9AHNIdX5xmrzF6xScquh1rZx1dyUoRUtItqZXZpHvjfmotQ5MTTdBz1OzTSQviG/6E8ya/3MUrtbJTxlCcHRf22AeKevDm+5QNDddSXfScDOzlFz118sfUWRjKKuXqtLtNCtprcQMPRDq9xxg2VWu0r49zgy635hCbWPjzPC2/F1GkyG3hLKHYUr2mpm9vRSgNKffvds/H+OjE2cOxntd5Ocq7Bxk28EhroDJ9dD5uZHh6hFScJEqQDMWwxmfE0jqV8nof2g4aGypJ51tzsfLI2r0/d+NkYXl8N5tIAGKtDPed8="
+    },
+    "name": "Nibble Chocolate Stick",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "description": "%%dark_gray%%%%italic%%A delightful treat from the Factory. Its crisp taste sparks joy with every bite."
+  },
+  "recipes": []
+}

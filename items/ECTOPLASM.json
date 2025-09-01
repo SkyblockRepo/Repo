@@ -1,0 +1,26 @@
+{
+  "internalId": "ECTOPLASM",
+  "name": "Ectoplasm",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Spooky, yet practical.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ECTOPLASM",
+    "material": "PRISMARINE_CRYSTALS",
+    "name": "Ectoplasm",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,68 @@
+{
+  "internalId": "PROMISING_PICKAXE",
+  "name": "Promising Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&8Breaking Power 3\n\n&7Damage: &c+20\n&7Mining Speed: &a+50\n\n&6Ability: Stored Potential \n&7&7Grants &6+10⸕ Mining Speed &7for every\n&7100 blocks mined.\n&7&8(Max +250⸕ Mining Speed)\n&7\n&7&7Blocks Mined: &a0\n&7&7Mining Speed: &a0\n\n&7&8This item can be reforged!\n&a&lUNCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PROMISING_PICKAXE",
+    "material": "IRON_PICKAXE",
+    "name": "Promising Pickaxe",
+    "category": "PICKAXE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DAMAGE": 20,
+      "MINING_SPEED": 50,
+      "BREAKING_POWER": 3
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PROMISING_PICKAXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

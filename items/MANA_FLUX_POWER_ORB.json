@@ -1,0 +1,94 @@
+{
+  "internalId": "MANA_FLUX_POWER_ORB",
+  "name": "Mana Flux Power Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Place an orb for &a30s &7buffing up to &b5\n&b&7players within &a18 &7blocks.\n&8Costs 50% of max mana.\n\n&9Orb Buff: Mana Flux\n&9• &7Grants &b+50% &7base mana regen.\n&9• &7Heals &c2% &7of max &c❤&7 per second.\n&9• &7Grants &c+10❁ Strength&7.\n\n&8Only one deployable buff applies.\n\n&7&4☠ &cRequires &5Wolf Slayer 6&c.\n&9&lRARE DEPLOYABLE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MANA_FLUX_POWER_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTM0MjI5MzI5NiwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyYWRhMWM3ZmNjOGNmMzVkZWZlYjk0NGE0ZjhmZmE5YTlkMjYwNTYwZmM3ZjVmNTgyNmRlODA4NTQzNTk2N2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "jUK32T2ftwO8VZN9Ph4ICtX+drdqIVRz+U/h+uQMO5hAUesqEAdRkCos3qoqcAjGym7epEu3nc4Fr5ULlJK49ssAh5G44pyn4lGOJ6pTQ6s3bbY0Pn/COj57DocMKyYoeUUaZtCUUTcZTVDkp0TswnUTmu+jHQ8SCkDiCAWae6Z26SjVCVsj9z4jsIQoe7HVY1/rnaT2bigep5XZCwgqx3uI8qWM4m6FJQ1u4IQrMva2byvBI2zV9oduTN7PFji6Ndks0Db03R5Zvfrca1ZKTs0H9REKjIFsnxfvmkmm25h4h92yEz2IKS5Zspf0woYp+Zb8je5QIxsARzNih1qR8EA1ZFvtgPcW5Rb420NcP2C3ifJGvqwxWa3Gm3KqepyAy4VAPv32RW8eOKgj3wJIGYqlf545B6wuwb7GTZpWNIsTGkxE/AxXmaoT51D3bXm+cob7S53e14wwam97//JLPOyfkhWiWyklnZlXatShXxwPFyxfV6a3ucJJeTxhHO/0fvKE0BT+cYYMDd+crJkucOuO8zaRFF9kqkhaWUFndGxZetlr7L61BPU0bpep8SEgUq3j20t2FLKYrX0b4MVYsXufeft4/UXGK2YdXigj/IyEfV16ozjidpUEqpvWlhqnLNRaFrKrJA9Eaepu/QCrdLZZKR5moPApi1XlCY+ToC8="
+    },
+    "name": "Mana Flux Power Orb",
+    "category": "DEPLOYABLE",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "MANA_FLUX_POWER_ORB": "OVERFLUX_POWER_ORB"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MANA_FLUX_POWER_ORB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "RADIANT_POWER_ORB",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

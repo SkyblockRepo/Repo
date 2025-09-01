@@ -1,0 +1,230 @@
+{
+  "internalId": "VANQUISHED_GHAST_CLOAK",
+  "name": "Vanquished Ghast Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 275340,
+  "lore": "&7Health: &a+10\n&7Defense: &a+10\n\n&6Ability: Blazing Restoration \n&7Restores &a1%&7 of your maximum &c❤\n&cHealth &7every second while worn.\n\n&6Piece Bonus: Ghast Blaster\n&7Kill &aGhasts &7to accumulate &a❈ Defense&7.\n&7Piece Bonus: &a+0❈\n&7Next Upgrade: &a+1❈ &8(&a0&7/&c1,000&8)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VANQUISHED_GHAST_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ5NTQ0Njc4OCwKICAicHJvZmlsZUlkIiA6ICJmZTYxY2RiMjUyMTA0ODYzYTljY2E2ODAwZDRiMzgzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeVNoYWRvd3MiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc3NDQ4OWM5NGIyMmJmMzE2OGFkZDEzOGM1NjMyOGU3OGRjZWM5MTM1NDIyYTYyMWE5NWQwZmY1YWRmMmY3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "dD4ejMlUSGzxRrd/cMlQP6Kc/Uzp4j9mjJDeRIYOkC4M58VRwM+nA0oXlg2Aat6xOxyirIlhJ7FjQCmQClRUCPyRtyh7dW1z32WvjuVp2A2lqZ5/tQWDJ+Sg2GCuD/PemWkOpt84m7wzvpNXfG0JnbLaqdqiC2DVkeKbg+I6mWDeXiy89Igkl1nuVtjhptP6E4SJHqqS6FsLSou+vEIHIifCh1PkOVBgBN0jZDZEP/FyqMw6leDVXpnn+QDPveW/Q0fZs2/6CaZS4p9SDUOwHGQKjDmavRf5BinqMS5JB82pjswFmdxvXIZO8UOmjXYTL2SXh/XBL3p9YFQ5rMk5B/8j7lN5RSwAmXHE1kQVjcen0Q7nWR3pwm9VFwtoPqHUU6HTfBnjpobSRRKe7wssODV1h6HI9ukX0mKULAC7q6fkEHCZu/1D//Ai5mP/qRy9mGcGBHVsFFnl+HnmfnvlXrbEjXH2uJAcGnB/bKuLvp/1lB+PppJ3vJEjwliO7lxAOGdeSfXkORaMQ1KZwcbULZeZst93/8OCVcH1wfdCFKAbWlbLDfvACWD0yq7BmYBwtVOLVahhYSm/hk1GqmkQo6G1s0kTfwD2a948P+maCWz6eoKKmVF6/XthmDQT/TDCwEQMmh9WmF0G8z0ZVgn5TBVj9LZtnY61ko16MyQpih0="
+    },
+    "name": "Vanquished Ghast Cloak",
+    "category": "CLOAK",
+    "tier": "EPIC",
+    "npc_sell_price": 275340,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "VANQUISHED": 8
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "HEALTH": 10,
+      "DEFENSE": 10
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 90
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 130
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 180
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 240
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 310
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 390
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VANQUISHED_GHAST_CLOAK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CORRUPTED_NETHER_STAR",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "CORRUPTED_NETHER_STAR",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CORRUPTED_NETHER_STAR",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SILVER_FANG",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "GHAST_CLOAK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SILVER_FANG",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "SILVER_FANG",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "SILVER_FANG",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

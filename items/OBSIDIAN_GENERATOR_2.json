@@ -1,0 +1,77 @@
+{
+  "internalId": "OBSIDIAN_GENERATOR_2",
+  "name": "Obsidian Minion II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining obsidian!\n&7Requires an open area to place\n&7obsidian. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a45s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OBSIDIAN_GENERATOR_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDcyMTQyMjksInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTgzNDgzMTU3MjRmYjE0MDkxNDJkZGExY2FiMmU0NWJlMzRlYWQzNzNkNGExZWNkYWU2Y2I0MTQzY2QyYmQyNSJ9fX0=",
+      "signature": "skh8eaTXGcO6ytkUcdQ2c8mIWgTW0c2Ff7FkqJlBCahRBW75VdRXW0onR5khvbRy+YZVNvkFJHnz8XNY49gXlv7CnNVlxPtlhRQduQ3VpcwHjxbM3GzMn5PKZCaWzl5lYAsz2yDUPaQl/Md11nCAb7Cx7T2MO+u/O3Ehum5e5Fs+dViAMdSZfy/xoa3D6+G3isLMXrCGFkd8yshdpx7tegNsoPPWNq9yO+v+wtooWZK+4r+pysb1AR+vuvYm55hT+2FupZ9cepezQS3WP6zD9PUAZ6Bn5qLgeit3veRxjkcI+beHPBbexybadD6n1weDSCbPvU/19DExQJGzob77phYGyLPxrbBYDiajUr6XoY8k9kbMrqXVnqzpmfaUsEYAubYRtzxX7Hcn8gKYQVumHnGBVlo9QSwTfGlPHBkIceCMNofLGwbWbtLbwwweyGrABjmt6V7Nb5PjNvoRAbvUCEesNGzv9ne4zKXAyd0HXPre7ZgTT8aE0zYPuoJIyhDncvvP92whR16Kn5OXKeGqpuCITxN06seKrEWPGRIApHxwUYrmXNToc2hHkcwBOqAYmtZhM/ZD04XqLu/zhaD1jRjT4SR4gcmThhZv350/jjz1b59YNDSW4tzSVS3/HqPvnL21OlY2oBEcpB3NMzjUs2E8pJpQ/7uNmLEvmyz1Yu0="
+    },
+    "name": "Obsidian Minion II",
+    "tier": "RARE",
+    "generator_tier": 2,
+    "generator": "OBSIDIAN"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OBSIDIAN_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "OBSIDIAN_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "OBSIDIAN",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

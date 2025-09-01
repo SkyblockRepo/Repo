@@ -1,0 +1,84 @@
+{
+  "internalId": "HELMET_OF_THE_PACK",
+  "name": "Helmet of the Pack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+70\n&7Defense: &a+65\n\n&7Gain &a+50❈ Defense &7against animals.\n&7Gain &f+5❂ True Defense&7.\n\n&6Full Set Bonus: &cArmor of the Pack &7(0/4)\n&7Gain &c+35❁ Strength &7and &a+80❈\n&aDefense &7for each &cArmor of the Pack\n&c&7wearer within &a30 &7blocks.\n&8Max of 3 players!\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Wolf Slayer 6&c.\n&5&lEPIC HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HELMET_OF_THE_PACK",
+    "material": "LEATHER_HELMET",
+    "color": "255,255,255",
+    "name": "Helmet of the Pack",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ARMOR_OF_THE_PACK": 7
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 70,
+      "DEFENSE": 65
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HELMET_OF_THE_PACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

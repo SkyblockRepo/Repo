@@ -1,0 +1,28 @@
+{
+  "internalId": "GIFT_THE_FISH",
+  "name": "Gift the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7I'm empty inside.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GIFT_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 3,
+    "name": "Gift the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

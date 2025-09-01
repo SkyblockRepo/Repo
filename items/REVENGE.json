@@ -1,0 +1,27 @@
+{
+  "internalId": "REVENGE",
+  "name": "Music Disc - Revenge",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REVENGE",
+    "material": "GREEN_RECORD",
+    "name": "Music Disc - Revenge",
+    "tier": "SPECIAL",
+    "npc_sell_price": 20,
+    "museum": true
+  },
+  "recipes": []
+}

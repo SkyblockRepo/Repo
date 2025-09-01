@@ -1,0 +1,255 @@
+{
+  "internalId": "WAND_OF_STRENGTH",
+  "name": "Wand of Strength",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Damage: &c+50\n&7Strength: &c+20\n\n&6Ability: Life Blood  &e&lRIGHT CLICK&r\n&7Use &c10% &7of your max health to boost your\n&7nearby allies by &c+30❁ Strength &7for 10\n&7seconds.\n&8Health Cost: &c10\n&8Cooldown: &a1s\n\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WAND_OF_STRENGTH",
+    "material": "STICK",
+    "name": "Wand of Strength",
+    "category": "WAND",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 10000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "STRENGTH": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 12
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 6
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 14
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 7
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 18
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HALLOWED_SKULL",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SPELL_POWDER",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WAND_OF_STRENGTH",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "SPELL_POWDER",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "HALLOWED_SKULL",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

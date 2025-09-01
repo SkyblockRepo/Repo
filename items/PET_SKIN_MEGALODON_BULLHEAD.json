@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_MEGALODON_BULLHEAD",
+  "name": "BullheadMegalodon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Megalodon pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&9&lRARE COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_MEGALODON_BULLHEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjQyODA0NDIzNCwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTZlNmZiNjZiZmU5NzM3YTMzYmE1M2YzZDVhOGI5ZmRiYTFjNjVhNWQyNzYwYmNkOWE2ZTU0OTI4NTI3MTAzYiIKICAgIH0KICB9Cn0=",
+      "signature": "Uw29bLNkKeaEAdcs44Qnd4XyD/0X89tdd693qYH5QmyX0/VXOe7dQisGxQgyZxVHRRusGwzr+jq4VQ+6cLZ4Gbe/iqNdfAoLQ4iE4Ll9DXhzuWOm6K2+XcUj5f/Y6943cTOo4wg2Ji/5In+4IKHMuK9LAt68i82zACCsLXf9sgT4dtJ/hffEfMgEj+NtEw7CyTJAJ8mfL49Fhgl8Q96DuOvL6C83hXytMDimgw3OTuc8U7ILsr0uhSTCQxj8hGCGExgPH+usfUDTtzNgclwsIg3JvMg/Rj4RpfRbsNGWdfWWJ8OI0ftKkDJ3aAje/tL+bbHWMdeBDlOAxELqXzpdJ3sEtS7SzM8PF49akd+YI9PL34f/pYYIwThOau/xJlPtjhEvBPXe+wwl29TB/Ukw9wAJCFjb51fadq4K21fsg/dTpeUHcPohM4vAP1rZVIve/7ZPauSacK6Zya5PMDaVoX0ud5eKnkkKSIUtztYtANfOK5WVB0HJqtIt+uYepjAoTHeMLJ9sE5TjSBHu1pLVbkHJqIJNeo+v6Gx0ClGay7CQTz6k3yN/7WeyNZwx1KjfMTlEbR4z15uyk0Zu8vUseh6UKPRr8q6wCYb/32Odt+8lmg/8lrzcpn8zPmDXKXvIB+HHSMa1S0Ac8081uQIGcc5LJKFPUzcrjZXmrrWnvfM="
+    },
+    "name": "BullheadMegalodon",
+    "category": "COSMETIC",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

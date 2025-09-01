@@ -1,0 +1,76 @@
+{
+  "internalId": "BEASTMASTER_CREST_LEGENDARY",
+  "name": "Beastmaster Crest",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+0.3\n&7Intelligence: &a+0.3\n\n&7Pet Exp Boost: &a+0.5%\n\n&7Gains stats based on how many\n&7mythological creatures and Minos\n&7followers you've slain.\n\n&7Your kills: &20&8/25\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEASTMASTER_CREST_LEGENDARY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE0NjQwNDA4OTY2ODksInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJJbnZlbnRpdmVHYW1lcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTM0MTU2NjdkZTNmYjg5YzVmNDBjODgwYzM5ZTQ5NzFhMGNhYTdmM2E5ZDJjOGY3MTJiYTM3ZmFkY2VlIn19fQ==",
+      "signature": "SAgJTjTdp1/Ln/7LgTk86I9iaGYfQuWtltcdsdZNEHIJEFqEbXk34eFeYNbZw4qvw2sSg9fdhYvvKswS4DEpq4Z+T/1CPd10IaXW4UlcUshi9fPO3PtSQJcRKDzkxa2p1IhHivsmKXn/QwLN5krcW8Un4YyXaaNy8gKgBq/PGpbktmHjGdBOEozvo76zmgrclKfBD8A0+0wofPjTADJBP5ItrdWfjZ1w6T4K2khakH0yFvmixRd9Z8bxgA3we4ew5hsMGWzvlej/fvRnlrd5dtgtlb4M3OA9gNTA7loBVzpPeQX+Wxq0G4We8PJiKa4Jopuw2NcnrRFzs9AiSCbShmfn23jK2vBnwBDrkxUIluF7aKRnB7FWX1svOoTMWUCfgN47POQY52d9aivXaRgozK9XlcAIIAE1YKTk7Oqq9AhqLcd8r4jcLrfyj9NJr2ZeIY3/IPz5yZvp9YSXmGPUqGehARNNDVsc1qzxnel+llHAArBOTXO3Iow3oKtaCUd3mAx96LkdGc/kgOzHJYU3QOgJuBFkC2o5c4gz1CV0Ncj7aj+OHv11p0MZz7+XEm9fA8T5MLJMzTb/8W6TmYTuaqA+Xue2ITesTxDrgN70XPoP87bwfB5fkxhVFSJVa5h9/Jre/wI6Layn1BD6doM9jEISLKQHl7nkA9zIKNUKq+E="
+    },
+    "name": "Beastmaster Crest",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BEASTMASTER_CREST_LEGENDARY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "BEASTMASTER_CREST_EPIC",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

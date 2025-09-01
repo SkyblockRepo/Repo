@@ -1,0 +1,71 @@
+{
+  "internalId": "HUB_CRYPTS_TRAVEL_SCROLL",
+  "name": "Travel Scroll to Hub Crypts",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Requires &bMVP&c+ &7to consume!\n\n&7Island: &aSkyBlock Hub\n&7Teleport: &eCrypts\n\n&5&lEPIC TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HUB_CRYPTS_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to Hub Crypts",
+    "category": "TRAVEL_SCROLL",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HUB_CRYPTS_TRAVEL_SCROLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

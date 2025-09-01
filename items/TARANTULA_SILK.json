@@ -1,0 +1,56 @@
+{
+  "internalId": "TARANTULA_SILK",
+  "name": "Tarantula Silk",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 128,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TARANTULA_SILK",
+    "material": "WEB",
+    "name": "Tarantula Silk",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 128
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TARANTULA_SILK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

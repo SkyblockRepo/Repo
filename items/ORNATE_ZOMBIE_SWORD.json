@@ -1,0 +1,129 @@
+{
+  "internalId": "ORNATE_ZOMBIE_SWORD",
+  "name": "Ornate Zombie Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+110\n&7Strength: &c+60\n&7Intelligence: &a+50\n&7 &8[&7✎&8] &8[&8❤&8]\n\n&6Ability: Instant Heal  &e&lRIGHT CLICK&r\n&7Heal for &c144 &7+ &c5%❤ &7and heal players within &a7\n&a&7blocks for &c48❤&7.\n&8Mana Cost: &370\n&8Charges: &e5 &8/ &a15s\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORNATE_ZOMBIE_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "Ornate Zombie Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      },
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 20000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 10
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "ORNATE_ZOMBIE_SWORD": "FLORID_ZOMBIE_SWORD"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 110,
+      "STRENGTH": 60,
+      "INTELLIGENCE": 50
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 90
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ORNATE_ZOMBIE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GOLDEN_POWDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ZOMBIE_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

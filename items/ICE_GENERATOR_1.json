@@ -1,0 +1,77 @@
+{
+  "internalId": "ICE_GENERATOR_1",
+  "name": "Ice Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining ice! Requires\n&7an open area to place ice. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a14s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICE_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTk2NTkzMjk0MjcsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUwMDA2NDMyMWIxMjk3MmY4ZTU3NTA3OTNlYzFjODIzZGE0NjI3NTM1ZTlkMTJmZWFlZTc4Mzk0Yjg2ZGFiZSJ9fX0=",
+      "signature": "fg6LnYG7sdThKJU84Y4QR55ulKzez9vVBNJleZ6Y/IbN9Od+Rj9qZwtNY3bJfu98MGaqRCs1YLXb0k0TauONncbdD//gjxr+jxt1hD+ZUSFMpSFriPFYQo8eQQ25moPLjxn5pVRNuZjXb4Uv9kPBNHd1Q9HzkiCf23okMVmCY/o4utsrrFPOVv6Ei+TJ40wbnbsJsPYWIwUWuIpHocJSdMvsMNP707sKEccs3C1t4apRprEDknl9e3u8qcxbUcMYhckFr6N7FYmajQ8RWVGztBqUtKcwuhr/CpZTf3vNCVbgyhL4cZQ770q88bdMbO/5x4HjsIrRLmH9tcxsUbYFm9dLKPj30dwg25e2egcrfs6K6pPiCIGSm3v6+VTOd0p+8unnikhGn+CGsHRmjS1WPjS7Y4ofaGERckxnbXWcK/LzzqknZpKz+WtmxQYdK3Vd61TnLNc9MFDSxu6eTVkuYEkGw6ibqRFYczxD9QOeHoKVHj4e9wtFIu/ASQyI/8AdpxPMgVwfCUovDVzMOnK5DuHix02OS+oVgJaQZrMUixi7naB365skxuSSGfXAkvtxTUwc5Hxph8EX+B9PmCD5Vcr7eCQk6ffBVzb931Q5Di2KYd5vxfSnYlGanK3YzkWxXylDWG5w07vF/eaDjTFa2jfSq7Y6zGOafKnDWBy5jjs="
+    },
+    "name": "Ice Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "ICE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ICE_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ICE",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ICE",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "ICE",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ICE",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WOOD_PICKAXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ICE",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "ICE",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "ICE",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "ICE",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

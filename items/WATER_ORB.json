@@ -1,0 +1,77 @@
+{
+  "internalId": "WATER_ORB",
+  "name": "Water Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3000,
+  "lore": "&7A perfectly smooth, highly\n&7condensed orb of pure fish matter.\n&7\n&7Used as a core ingredient in high\n&7level fishing crafts.\n&7\n&7&8Smells like fish...\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WATER_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTUyMjM1MDExNCwKICAicHJvZmlsZUlkIiA6ICI1OTgzZjkxY2UzY2M0MzdjYjc0ZTZlMTJmNWY0YzNlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaW5nYV9LaXR0eSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNGMyMmI4ZGYwYTg1M2E0OWNiODJlOTBhNjE4ZDY1MDEyMTIyMzYxYzgzOTgwNjJmY2JhZjc0ZDU2OTZjMmE5IgogICAgfQogIH0KfQ==",
+      "signature": "KDlEOzqhlMcyTmtfdV4HIvJtz7uU8MplolT0F01suNU10GBNFTjwXX8JRX3+X9VxlJy0Y52ZYvNMn/ZNabS33weiAp8ZsI4mgtG482q/tD8nEAOGjjmmtd6R0OND2fmHkjQtIUNQEah3nknZHFi/aGptTjJtLJEJfw8zpgXPG3oDw39zZMjMRiMSbmOM9Zc5elC9PPrh+Y2FIcZGgK1C7OkGQxVcFU5VB8kgsFiCR1sfi/YSu98lGaKMN8x1tO2p/uNC8jm/Eui7qTt1N+NwXlh13OKNlHNXblQL4ObPTAgQU8B0yS6VywT4BsEEKsjAtqtX6v6xOO4bMGmDyXdXTpd3qE3eTAtjxKJuL/XHNOSC8EI0HRg8/NerVWcUVsHa22PeIzPErj+fcviaBk+ToUjc315YhlNpuLGV5K7NU4NeM17BjDvuPR7bQTpkAEzKfdRDIyUX8zZKn/pbFLDZbgyCN4dXAZpu3dPIt1ILTohn03kRKeruhCioOZSIU8xHe0lvaAYH/xCa38vmTa2131NZaXdTwl7svGVdD/FhHwat+rHwjySJk8/bOpo3KnucCNcTy7Rj4v5cCqduXkhFmSt3ubj4w28xwXFnyIuBG/zdT+4krN0Q7FvN8a274yxdJRm/TDKrDxcglOx9FVWTAYtZBZfzUjArXVtXawYhKSA="
+    },
+    "name": "Water Orb",
+    "tier": "EPIC",
+    "npc_sell_price": 3000,
+    "description": "A perfectly smooth, highly condensed orb of pure fish matter.\n\nUsed as a core ingredient in high level fishing crafts.\n\n%%dark_gray%%Smells like fish..."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WATER_ORB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_PRISMARINE_SHARD",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "DIVER_FRAGMENT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_CLOWNFISH",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

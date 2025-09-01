@@ -1,0 +1,25 @@
+{
+  "internalId": "BREWING_STAND_ITEM",
+  "name": "Brewing Stand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 12,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BREWING_STAND_ITEM",
+    "material": "BREWING_STAND_ITEM",
+    "name": "Brewing Stand",
+    "npc_sell_price": 12
+  },
+  "recipes": []
+}

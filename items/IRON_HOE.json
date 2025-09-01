@@ -1,0 +1,26 @@
+{
+  "internalId": "IRON_HOE",
+  "name": "Iron Hoe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&7&8This item can be reforged!\n&f&lCOMMON HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_HOE",
+    "material": "IRON_HOE",
+    "name": "Iron Hoe",
+    "category": "HOE",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

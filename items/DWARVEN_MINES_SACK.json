@@ -1,0 +1,31 @@
+{
+  "internalId": "DWARVEN_MINES_SACK",
+  "name": "Dwarven Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBiofuel&7, &aGlacite Jewel&7, &aGoblin Egg&7, &aOil Barrel&7,\n&7&aPlasma&7, &aSorrow&7, &aSuspicious Scrap&7, &aTungsten Key&7, &aUmber\n&aKey&7, &aVolta&7, &a&3Blue Goblin Egg&7, &a&aGreen Goblin Egg&7, &a&cRed Goblin\n&cEgg&7, &a&eYellow Goblin Egg\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_MINES_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDc1OTM3OSwKICAicHJvZmlsZUlkIiA6ICI0YjJlMGM1ODliZjU0ZTk1OWM1ZmJlMzg5MjQ1MzQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTmVvdHJvbl8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFmOTcxMWQyMzFlM2FiZmI2ZmI3NDQ3MTFmMGQ4NmU2MDQxZWUwNzdkYWUxNmRkYzcwM2E3YjRlYTE2NWQ1OCIKICAgIH0KICB9Cn0=",
+      "signature": "ErWoL/UrpG4gd72d/LKLifg4O4iZScMUbgjXeWCIzoT4eFhdFTsmA8wwk5+yif467nKGfnqI53MB9idcfCtyQqiCm97DZyIlsABf0loCEU1Wj3yR3c57U7gR3/jSlWPlwVd6X33hIYDW+NQyopMpEH7Kiszl22Bnz4NSI4GRK9hknU1x1DOkILec/GOPPTwSw/9ha9agEtA6b2fyrCNqCKQ0yctrsjXbMw3X/dxY/cdGBTE32/HTDC6qifBeVN1w0E9RUFHqtR+aYCPyy8lq8l+iBih7pMwgmiBn81Qz4Pl9m7M4QVs+kD92DtFwSGH7pV4YjcNYQFS8BBmpHdziwDc9FgMLBCRQg+dRGEVR+CZlQ8DOYM8aCGYBZX1rOYuoMTeoLO5m7TWPvdNRLyDXLpYE5Hg3ex+6NKT108pafyKqEowXjMcheoxCBGJXMrxRZa56nNl0d2VEpgGtLXixvi2oLpzek3tRT+kDzgAbmXesQJgsVBIrv1+7ZltTu7DX7caDn0ODfcOP16k8/Q9Ljcm68Rc+HS20TboWz6kh6KprMPhNg4DSbMW+VHo+90zfG9ilHekD8GeZ1B0yFCXswOVosYZfngXPd8LlU23m0+RL8BZtYn19Wtp3inoUM6tRbw4ybKYooEGosmWvm4K09dcDk4KNzNaixwXxXF6pV6E="
+    },
+    "name": "Dwarven Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

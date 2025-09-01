@@ -1,0 +1,88 @@
+{
+  "internalId": "WEATHER_STICK",
+  "name": "Weather Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 160,
+  "lore": "&6Ability: Weather  &e&lRIGHT CLICK&r\n&7Allows you to change the weather on your\n&7island.\n&8Cooldown: &a5s\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WEATHER_STICK",
+    "material": "STICK",
+    "name": "Weather Stick",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 160
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WEATHER_STICK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "WEATHER_STICK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "WEATHER_STICK",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

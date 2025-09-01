@@ -1,0 +1,51 @@
+{
+  "internalId": "OPAL_POWER_SCROLL",
+  "name": "Opal Power Scroll",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7&7Gain &f+10❂ True Defense &7for &a5s &7when using\n&7your &e&lRIGHT CLICK &r&6Item Ability&7.\n\n&7&7Can be combined with any &bitem &7with a &e&lRIGHT&r\n&e&lCLICK &r&6Item Ability &7at an anvil.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OPAL_POWER_SCROLL",
+    "material": "BOOK_AND_QUILL",
+    "name": "Opal Power Scroll",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OPAL_POWER_SCROLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "FINE_OPAL_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

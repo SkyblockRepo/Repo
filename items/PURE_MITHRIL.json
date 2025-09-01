@@ -1,0 +1,45 @@
+{
+  "internalId": "PURE_MITHRIL",
+  "name": "Pure Mithril",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 29000,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Mithraic &7reforge when\n&7combined with a mining tool&7.\n\n&7&8''It takes a few hours of forging to''\n&8''purify Mithril - the impurities extract''\n&8''themselves while the Mithril coalesces.''\n\n&9Mithraic &7(&6Legendary&7):\n&7Mining Fortune: &a+16\n\n&9Mithraic Bonus\n&7Grants &6+30☘ Mining Fortune &7when\n&7mining &2Mithril &7or &fTitanium&7.\n\n&7Requires &aMining Skill Level XVIII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PURE_MITHRIL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MDg5MDE4ODM5MiwKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQ4MGQ1N2IwZDFkNDMyZTA3NDg3OGM2YWVjNWY0NWEyY2U5OGQ5YzQ4MWZiOGNjODM4MmNmZjE3MWY4MzY5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "lOTYBr9WNNlgIknk2dyHLb/+1h/auJ3OHAhYnNbX/JU/nglAKPZvjaNJbbr2T5Y/YM/uOswG6cc1+bUMXH0kS7h8iO7MuEO4GaglEiCqoyeCVBCu5kZ9FXMxPhnnJ+pDL1wQYiSPdb0dgP3+wFKLD+d5qzDRMCqAkCQkZXS8XoVIZKrG6YYMUgEVm8OTMKzUsEAjsv6YuQQwQDvIRsNMlfBcp68ElpwS5F7WCzbcSxytTRZi883SX4Ak5aWLkeJ1ug3C86SDvbtVuApD50CtwZoEv5Usmrp+dg25VNMlea8AJjw8A1keClKDeUJFM5dGI3u1POE99Y9HgumyNaeeApENpSCNgp9PhZVy5eOefjux/qi74O75rf0ai/KWnoLnlx7Sk49m+194gcVerfFi198Rj6R2bO7Vy75Gx0sqMsW33siZBw24WEmS1h8bkVsTFZa2Pl/doWxil4krcJWpmG8pfIeu6EiJ4dNLxQyA6b0pLiWie/7clg+co7Up6ZF2BSpTxBr0dk1j8nP2oiHswYhWSsJ2Pe4FrotwLVzOM1bn5PEfZwuweR4KqBzhamc/q6lZ/sqRBj41iQcbmumJBO+aCM0pfpxAMQA4vqXq5aiKP97CVqExiNzUTVdHPUmJRQsAuUcECEN53J47KQwgNRNRH3X6Ke9zWQ+NivyGZfc="
+    },
+    "name": "Pure Mithril",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 29000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PURE_MITHRIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_MITHRIL",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

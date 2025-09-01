@@ -1,0 +1,86 @@
+{
+  "internalId": "WILTED_BERBERIS_BUNCH",
+  "name": "Wilted Berberis Bunch",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7The plant equivalent of... ALIEN\n&7revenant viscera?\n\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WILTED_BERBERIS_BUNCH",
+    "material": "DEAD_BUSH",
+    "name": "Wilted Berberis Bunch",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "origin": "RIFT",
+    "description": "The plant equivalent of... ALIEN revenant viscera?",
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WILTED_BERBERIS_BUNCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "WILTED_BERBERIS_BUNCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "WEDDING_RING_4",
+  "name": "Modest Ring of Love",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants a 1 in 100,000,000 chance\n&7to deal &c+100% &7damage.\n\n&7&8True love is tough to find, but\n&8finding it hits you hard!\n\n&7Requires quest progress!\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "WEDDING_RING_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQyMjE2ODIwMiwKICAicHJvZmlsZUlkIiA6ICIyMmNiM2U0ZDdmOTY0ZmNjYjE1MDIyNWIwN2YzMTEyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0dWxleW1hbkIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY5MGMxOGUyYjg3ODBjOTI3ZmQxMjFkNWEzNjE5NmE1M2E3MmM2NzBhODlkNzg1ZGVlZGVlMzE1NTAyNGIyYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "n5QHhMVcGLMHOZSlpgFgVxX0pcoCPPckS9x5623EDm5p8LV/iSTlU6xGziadGsTB/QbTZfHWtDQ/Qz+xh5ZcQBe/5sIi6VV48uuFYUQ+CdfjEEkAWi2em1AQdpPs2lBGeMCJ8j96T5LgTIbrx217wLFHzFvbPgRADGnVNaxHcIDCB3b73DTyggUVDIvqDR5DzEVCgEW0wclVrV5rKtVv4KRxCpaN6gclrcfiIiWPSHWjN0V9GghevJIM0+NYnxLQNQBYWPdipPIY/GkS1P/XOZ1ACaPwfT3A29uFmSNa4fPvN0gmPI7oO+4q2v06MtWs11QVyAQqeJXQaoNIfF8Mx+NSj1NoV/b5pY6mcx/zVErRhCyix9iIqpZXeroZeqBaVt+oo5k7B8ITQSX3fU/vbPBpY1XKdXabUtXe3t6uyzfSy4RgTWzxKFkBk8FGwVto3p0cyubVnGgDV4CFDF8qUQamhWvLdW/JIJgo+0zXsk3AW4tav4MZk4u16u0yMXYXjZIBaK/H/Nta/zRjbzOQvGk2cNl4661+/YALIdQ9j7gP/u2e0xcJzXugMeTYngRmZmh40AeAg+qhsnoTeakhiYIouaJPCUFYAcZeM3KDeG7WJUkfVK3UhmPahDAkxFdiWAbR2o0kJxNjQo5ZojVaTORAod6xxGtUpRUnbyYbS1M="
+    },
+    "name": "Modest Ring of Love",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

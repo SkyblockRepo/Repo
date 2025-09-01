@@ -1,0 +1,38 @@
+{
+  "internalId": "HUNTER_KNIFE",
+  "name": "Hunter Knife",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+50\n&7Speed: &a+40\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "HUNTER_KNIFE",
+    "material": "IRON_SWORD",
+    "name": "Hunter Knife",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "WALK_SPEED": 40
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

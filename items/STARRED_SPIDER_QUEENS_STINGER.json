@@ -1,0 +1,115 @@
+{
+  "internalId": "STARRED_SPIDER_QUEENS_STINGER",
+  "name": "Spider Queen's Stinger",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8000,
+  "lore": "&7Damage: &c+600\n\n&7Arrows shot using this bow have an\n&7aura around them that deals &c600❁\n&cDamage &7to nearby enemies instead of\n&7dealing impact damage. Arrows travel\n&7through enemies.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_SPIDER_QUEENS_STINGER",
+    "material": "BOW",
+    "name": "Spider Queen's Stinger",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 8000,
+    "stats": {
+      "DAMAGE": 600
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 30
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 8
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_SPIDER_QUEENS_STINGER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 30
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
+          "quantity": 50
+        },
+        "4": {
+          "itemId": "DARK_QUEENS_SOUL_DROP",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SPIDER_QUEENS_STINGER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 50
+        },
+        "8": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 30
+        },
+        "9": {
+          "itemId": "SOUL_STRING",
+          "quantity": 50
+        }
+      }
+    }
+  ]
+}

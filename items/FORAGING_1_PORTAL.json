@@ -1,0 +1,93 @@
+{
+  "internalId": "FORAGING_1_PORTAL",
+  "name": "Portal to Birch Park",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&aBirch\n&aPark&7 for you to use whenever you\n&7want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FORAGING_1_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MTc5ODAwMTc2NjQsInByb2ZpbGVJZCI6IjQzYTgzNzNkNjQyOTQ1MTBhOWFhYjMwZjViM2NlYmIzIiwicHJvZmlsZU5hbWUiOiJTa3VsbENsaWVudFNraW42Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMjIxZjgxM2RhY2VlMGZlZjhjNTlmNzY4OTRkYmIyNjQxNTQ3OGQ5ZGRmYzQ0YzJlNzA4YTZkM2I3NTQ5YiJ9fX0=",
+      "signature": "GImGiiYIddvYtp4cV7aqYdsZ/K1VvfNabqXU8p2p3ie8OUwYKTgWVx4brMrPPOz/45sDGZMd3bAW5zeR6nFipo4LHd/ke1rx/iO68wl9TpUU/gPLg60rWAvvh47FbVzxicu8zIzyANon5qgXsutRS9lkyvxUk4fIgK7gbvmqcfuOVBny05MVA28ZXC0pFAyQ36zf8gB5jZsvaj7ZXn0hCBObumR7YXWysIgVXemyij/q3ERFkdtfg0rOaOxTRqMd6li6RBurt9VBGsGbwzSfJQLv0ph5OtCu6jK5kIgKkTCJugZe29bJZ+NA6v+9ipRi45JJ+MGuMWNJ+u/3LBVaSXyX9jE9ZldnhqBS76Uz4wuSRHDk0DPdMJBvcu1fsdwaLslPChM/hJl38hhG7+rUK1rQHELFmrB2+jRSl5+ilDDIk687ryg75hBOCpcuK/gtBWRVcxp4bE6j8VZctFh1knxHic1ScdAB9wM8GR9m092OH5tqFOcgAs5HJgKiGMd+jY15auZSTKqzmGPRD5OClr+PlWRATqKgREo450jCcenGiIOygxNpiZyMWAoEUkRMJjfc7zZwMjv5sr+WG067kra7j6UPcZmoa1zVwpuuF3OlWvZJi+KsMLZRfoeZvobs509psv6i079rJ6V4fklUTsXro+v42M3Zei+r7O91K60="
+    },
+    "name": "Portal to Birch Park",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "FORAGING",
+        "holo_name": "Birch Park",
+        "location_tag": "birch",
+        "schematic_file": "sb_portal_foraging1",
+        "description_name": "%%green%%Birch Park",
+        "destination_mode": "foraging_1",
+        "skill_requirement": {
+          "level": 1,
+          "skill": "FORAGING"
+        },
+        "objective_requirement": {
+          "objective_id": "warp_the_park",
+          "objective_status": "COMPLETE"
+        }
+      }
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FORAGING_1_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "LOG:2",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "internalId": "BACKWATER_HELMET",
+  "name": "Backwater Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Sea Creature Chance: &c+1%\n&7Health: &a+30\n&7Defense: &a+15\n&7Treasure Chance: &a+0.1%\n\n&8Tiered Bonus: Swamp Soldier (0/8)\n&7Increases damage dealt to &3Sea\n&3Creatures &7by &a5%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BACKWATER_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxODk0MzQ1NCwKICAicHJvZmlsZUlkIiA6ICI2NDg4Y2VjMjc4OGQ0MTI2OTk5NWMyMmY4OTdmMzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBc3BlbjA1MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNmY2YzNlYmFiOTA4YTE4NGQ0OWEwZjhjODVlZGQzZWQ0OGE2NWQ2OTIxM2JjMDM2N2RiNjdhN2ExYzBjM2E3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "B2Zn3N3E4sRsXxyXOZ5HIWcBh5lxvut+cM/NU7tutTSbpY6BrkQmOonQKu7xoMTgmqDK59BFdzOL2lwNNye2m/dunbSVG2bi7lphVOF6WApLGR1jp5aDdqg+LjpI5pfKCnt+RsqmKHJ1mnPeX0x1+lEAr9LHEZ+vCR1i0YnXNdwLqYRJMlS9NMGXnBHxEnE+qEGz3oZfdNtgQOdAVRaXv1bomcOrH5mbrPlfTGs3fRIj/9G2jGgHlchtD0thGyDacCfW1hEpmksK/hEhoiVAeHuBsIJsyJO6kGYNSwH+jaakj3PFc7AGQFHyVqQ+EKN6E/LMQXG3DeqDfzcP1/eI84N1oG7Zj8S4bqaVT2w22mY96bMHYA3Jabp7wfMBA+QP7rp1pUt9gqYX9HzuBWMsm/VYHLEOVmffsv3PqiEX44r4eo8RjMiG2mpUPpn9rtX8Z7ezgAGx0qhQgUf4jiGz5LEQo1y+FX4GOSEfWkF0d5mNqJWcbOrc10dg15uOcsexp9Ilt0VkvqP6prrfzvmI8ag6GlrCXFO4AGsIc8O96VZU7k/ksAjycgVKoW3MkxDdT3uXHRbcxOyNT3AUei52007OUoOuMTW7/k2R/n/li9ROtshtn5+HsSqBuTlftRFQREhcSrxlj2f8PELWUaVwoAa8WHWb+/v0nO2Hl5k15jg="
+    },
+    "name": "Backwater Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BACKWATER": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 30,
+      "defense": 15,
+      "treasure_chance": 0.1,
+      "sea_creature_chance": 1
+    }
+  },
+  "recipes": []
+}

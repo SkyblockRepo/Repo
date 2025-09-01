@@ -1,0 +1,26 @@
+{
+  "internalId": "DERELICT_ASHE",
+  "name": "Derelict Ashe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "DERELICT_ASHE",
+    "material": "SULPHUR",
+    "name": "Derelict Ashe",
+    "tier": "UNCOMMON",
+    "glowing": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,315 @@
+{
+  "internalId": "ASTRAEA",
+  "name": "Astraea",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d985 &8(1080)\n&7Damage: &c+270 &8(+297)\n&7Strength: &c+150 &8(+165)\n&7Defense: &a+250 &8(+275)\n&7Intelligence: &a+50 &8(+55)\n&7True Defense: &a+20 &8(+20)\n&7Ferocity: &a+30 &8(+30)\n&7 &8[&8☤&8] &8[&8⚔&8]\n\n&7Deals &c+50% &7damage to Withers.\n&7Grants &c+1 &c❁ Damage &7and &a+2 &a❈\n&aDefense &7per &cCatacombs &7level.\n\n&eRight-click to use your class ability!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VII Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ASTRAEA",
+    "material": "IRON_SWORD",
+    "name": "Astraea",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "DEFENSIVE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 2
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 7,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "ASTRAEA": "SCYLLA"
+      },
+      "type": "WEAPONS",
+      "game_stage": "MASTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 270,
+      "DEFENSE": 250,
+      "FEROCITY": 30,
+      "STRENGTH": 150,
+      "INTELLIGENCE": 50,
+      "TRUE_DEFENSE": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 900
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 1500
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "ASTRAEA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SCYLLA",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ASTRAEA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "NECRON_BLADE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ASTRAEA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HYPERION",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "ASTRAEA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "VALKYRIE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

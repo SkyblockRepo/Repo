@@ -1,0 +1,39 @@
+{
+  "internalId": "THE_SHREDDER",
+  "name": "Shredder",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Damage: &c+120\n&7Fishing Speed: &a+115\n&7Ferocity: &a+50\n\n&7&cThis rod is broken and cannot be\n&cused to fish.\n\n&7Bring it to &2Roddy &7in the &2Backwater\n&2Bayou &7to convert it into a &anew rod&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 20&c.\n&6&lLEGENDARY FISHING ROD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THE_SHREDDER",
+    "material": "FISHING_ROD",
+    "name": "Shredder",
+    "category": "FISHING_ROD",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 20
+      }
+    ],
+    "stats": {
+      "damage": 120,
+      "ferocity": 50,
+      "fishing_speed": 115
+    }
+  },
+  "recipes": []
+}

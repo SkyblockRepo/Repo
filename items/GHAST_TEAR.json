@@ -1,0 +1,25 @@
+{
+  "internalId": "GHAST_TEAR",
+  "name": "Ghast Tear",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 16,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "GHAST_TEAR",
+    "material": "GHAST_TEAR",
+    "name": "Ghast Tear",
+    "npc_sell_price": 16
+  },
+  "recipes": []
+}

@@ -1,0 +1,101 @@
+{
+  "internalId": "INK_WAND",
+  "name": "Ink Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Damage: &c+130\n&7Strength: &c+90\n\n&6Ability: Ink Bomb  &e&lRIGHT CLICK&r\n&7Shoot an ink bomb in front of you dealing\n&7&a10,000 &7damage and giving blindness!\n&8Mana Cost: &360\n&8Cooldown: &a30s\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INK_WAND",
+    "material": "STICK",
+    "name": "Ink Wand",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 10000,
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 130,
+      "STRENGTH": 90,
+      "WEAPON_ABILITY_DAMAGE": 10000
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "INK_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "INK_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "INK_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_INK_SACK",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

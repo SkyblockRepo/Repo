@@ -1,0 +1,26 @@
+{
+  "internalId": "TRAPPER_DEN_TRAVEL_SCROLL",
+  "name": "Travel Scroll to the Trapper's Den",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Island: &aMushroom Desert\n&7Teleport: &eTrapper's Den\n\n&9&lRARE TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TRAPPER_DEN_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to the Trapper's Den",
+    "category": "TRAVEL_SCROLL",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

@@ -1,0 +1,76 @@
+{
+  "internalId": "UNDEAD_BOW",
+  "name": "Undead Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d80 &8(88)\n&7Damage: &c+80 &8(+88)\n\n&7Deals &a+100% &7damage to &2༕ Undead\n&2&7mobs.\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UNDEAD_BOW",
+    "material": "BOW",
+    "name": "Undead Bow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "UNDEAD_BOW": "SUPER_UNDEAD_BOW"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DAMAGE": 80
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "dungeon_item": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "ACACIA_GENERATOR_3",
+  "name": "Acacia Minion III",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping acacia logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a45s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ACACIA_GENERATOR_3",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5Mjk3MzUxMjUsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg1YzY0OTJlNWIwZTMzMTVmYmRmZDIzMTRlZTk4MDczYWJkY2RjYmVjMzZiNDkxNWI0MGUwOTQzYTk1ZDcyNiJ9fX0=",
+      "signature": "v5FqGuIxfyViFiB+OLm+2tUSMIl8KJNrTBP5AZ7BQKGRlimbaYEI8DGds+ZfpQZ+snsqYnBOuDMN6Ccl3auwrfULO4wcrt1B8zpHf6I+KRoc0Ko4fJEYQUC7ODft7sG02iWQ+BW59qYrqHgAhhhA3PsZPGpXQF3Ex2pB/SjIFmcYOzRoMSuAoRA37EjE3V4+rXSpy7YtY7/aWuswX00Sfvmf0XfLnLMSEVWP3B1RgM49/ig14hUlzRq7gC1ShIdyq+fQdVq1UanxZdnoDgPb8OBl0CXuiftUlTuNTRogB43Sm3OOMLE9Xh6X9fBEVBQG1AdP2JyvA5hCRXPDQ4bHWq78LKuBTs8MwbknayoVZiwmAwoAdgoXp6wY02iaC3GGYklVOBTkdgu5IwHr+Cy1n+JbpuZ8d/Oj4T3ma2kZ52x3KoII65aFeqbRAhghNW/DTJhXo5kl9tY7wT/56KmVkOdPD6oAVORThsy559xB+fGTRYKRN0LTZ0U1KikWpsradsDveBgnCtJHVCgbhizFc4IZ3iMIniY1ZbjgAhVjk4b8dvlkGKVTFmd+U06QNgzDSj8cCUU053ruW/jeH9aqCu8uBnUHSgRG00Yz5QPyPrJ15ZBV4c+tpiVh7uWf6mvPG5G6k2Z7x1PFEkRZm3L+uhjYloP/g/gjbPTfinXh9cI="
+    },
+    "name": "Acacia Minion III",
+    "tier": "RARE",
+    "generator_tier": 3,
+    "generator": "ACACIA"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ACACIA_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "ACACIA_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "LOG_2",
+          "quantity": 40
+        }
+      }
+    }
+  ]
+}

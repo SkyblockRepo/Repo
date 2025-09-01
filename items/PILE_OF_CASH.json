@@ -1,0 +1,32 @@
+{
+  "internalId": "PILE_OF_CASH",
+  "name": "Giant pile of Cash",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000000,
+  "lore": "&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN DUNGEON ITEM&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PILE_OF_CASH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTY1NjI2ODg2NTEsInByb2ZpbGVJZCI6IjVkODgxNDRhMzhjYzRkZWVhODA3MzYwODc2YzIxYzU4IiwicHJvZmlsZU5hbWUiOiJSZW1WTiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdkN2Y4ZmQ4N2ZlN2UzNGY5MTEzZGQzODVhYWI3YjI0ZWYyMjFjMTlkNDU1MTc1YjI1NzhhZjdmZjQ2ZWVjZiJ9fX0=",
+      "signature": "OtMbP45stGgcsi7R++Tk+NbwgciDDUwCRmRixn59+MSaS9VAzjEeo41uXxcCqff06MbZYKYqgJAagOYrR1qzaYH69kPQG+Uao4jAQ8r7d/beZ2InJwrhitIPDds6VMx5qq9tnDoUV0yCgn3+7SBSmlgwVGRmB2iwsM5UenOliObbQBBUXntV478S7ibI787uv1yt+bEX278xJznzWJduwxqlaZgM5chJ5TZSbev5zwDGQ/iyb2JXo0ov7S3hiIrUHBWWzX0gVSjdgOyoLOoNvy95mt2Oye30zlrpTh+qiii/nsJmLabk+Y366C0i5pt7A7INs825BRfyrwpe/jHeq0meEia7YdOuv65HGled1D1+px6ikCnxaSh5NI0JAe7KZQstzsWq9eYSHkaHnyYZXqL+70BZBEFDAfdEUhdVLDkNbPmUbpHHHR9fXzrne9IO8oWZ9ucV3gg7xC4VxrzCWTcI9+U8R15WlSfVFNEKOGjqs5y8N15xAEIHBN2fG5hplGFi5qryVk90TOknjgi3EMxCKvS+wMmSvx5/suJCDLnQgfrSXoPhyPAiJYChBsGiOQEe+fbd+MbWIpVL4IKKWNoPWlTqENluAO5Z2V3ZIycBLh5R5GIpG4Mj8a6A/0krYf0KX/r8jlUnKav5GSUlcA1hIzKO3IQfvGrEziKG/Ms="
+    },
+    "name": "Giant pile of Cash",
+    "tier": "UNOBTAINABLE",
+    "npc_sell_price": 1000000000,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

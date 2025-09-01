@@ -1,0 +1,77 @@
+{
+  "internalId": "CAVESPIDER_GENERATOR_11",
+  "name": "Cave Spider Minion XI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Cave Spiders!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a13s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CAVESPIDER_GENERATOR_11",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzM5MzE2NDYsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2MzAzZmM3ZTIwNDY4MjJlYzc5YTk1Y2U1YzczNTBlNThkYWJkOGQ3NzZlNWMzNjY2OWY1NDA0NTgxZDA0NTkifX19",
+      "signature": "HcuUjfBYckA5YjD1ZqNvvHNB9HJzPg5dJbPAZlBTIDDFDq2Od1og5PAlwKfJygZOe0H9uxzlIGWE9tbtBm0opu+26SIp8qoN6z946A+UXjuR6n5u47HeNzWiIdwr486KR3BCO+lqfOenr5cdhSt295xQ2ZsngPN3WWiSBw2kq9+M1rKb2sUB/bZSzYG5wUZCIA63cE8ho3iByGC4JDokhFvApkbnnrkFSDD2NUCGFxLHCVS/3GzdwsM6A7D7CAZX4GAvDTN0BOXY9ruur/4MOK+wy02T6wH6OCrGtGaK0c0w9k1OC7DEy9SGj8kYGb7i3kP+IjshwVsuPrQxpAsSOa2p7XGpiOTbSkhxjw23y/l/8tKG7Ih0SFZjVWKyNWaJW4582TIVrH4J7zCtRDHOvgge2AOZheYyWEmzb/9VN/irtY1YsIiL5kA+/rYN4FcYYZ61yQ74iK+sif+hbhZyptGp3qh80MXPUrstDa6yajTRFCPIPNYgNK9d7uW4zG3UIH0ihQBHnmklSylCgeghM4Y+e6GyAuqgTrz2aQw/j+3SsYV8NbimOLfyB7MkOzItAfmztl5KYlYo0GdkxRB6bEINL5sh57y61/xG4ZiHypOQyvTNJ0qkA1HrXxXJtxxABa8x1+DP6Kof49/m6flY1zXzSaYG2bWCAMcxSIU85m8="
+    },
+    "name": "Cave Spider Minion XI",
+    "tier": "RARE",
+    "generator_tier": 11,
+    "generator": "CAVESPIDER"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CAVESPIDER_GENERATOR_11",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "CAVESPIDER_GENERATOR_10",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

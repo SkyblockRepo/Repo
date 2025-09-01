@@ -1,0 +1,73 @@
+{
+  "internalId": "FEATHER_RING",
+  "name": "Feather Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1800,
+  "lore": "&7&7Increases how high you can fall\n&7before taking fall damage by &a7&7\n&7blocks. Fall damage is also reduced\n&7by &a5%&7.\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FEATHER_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDE3MjAzMzgxNywKICAicHJvZmlsZUlkIiA6ICJjMWE3ZjlkZjgyYTU0NjZmOGQ2YjdkYTk3OTA4NGY0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2lkU25pcGU5NzIyMTMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I2ODUxZjRlOWE4NzcwN2FkNzJmNWI1Y2QxN2VmZWNhMzZjMmMxOGNjOTlhYWFkNzEyMWZlNzJjZjc5YjliMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "MIhKfIuMbt52Ym8lAdLRAqLKI6zB5ORSCCI2P4MGKYjwayL+3QYEp/uWHMV6og2R3iqaQHkRb56lD89fknni0yCBSOrU6aLub/a/excwc38vJnKV9uJJKF+/BVaY3GQmcuzeL8nWJQ+izrXcx24LloIu5BNU/02aiBPIp1oQ4ahxfHjzCZfv0a8SFpgaRhGEUFGlD8a55YjW3N26nFLlTY6eH7PN1YwN/5i94tShovh+cttEfCJomvYSNUoEXKlzeWWMm9xvgQ4pyHOzjNXdFa8qym55rBjvkcjTi5lbb2xSBxQJnUxm/qrfrbaoCCHhVo0Bt8rjVh7ODn5yjWKyA7srM9NUiSBH58bilcy6MIcT9mASbOIG8nPr/gaed/JqzJeavj4XVPVDiB4Hhdp4ngFwoc/0przvg/xz4X449WtrrRgR7Fwb3unaYv4x8LvrOfMIFpXkU0wxvxNCKcHkftFKFq4lrE4EMDFBnX0wGikp7/1I6CsY2qGLQ8CrwODaG0sjzdYbLFZh5Ez6BMKQpQMS3hOYOCDRxVPrj5d53GQHCoiOEaq+yHazndRzIFbnAHET0zmYy/tOpLi6TsJHU9QH3AOTqjANwN9DU57MFq0LqlgPK9CpKnaVR8KZ0W38KaW3tkkjkPs5SgJMNWQlgCEtoZqOWO/HDGJHrk0RZhY="
+    },
+    "name": "Feather Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1800
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FEATHER_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FEATHER_TALISMAN",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_FEATHER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

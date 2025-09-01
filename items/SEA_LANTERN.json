@@ -1,0 +1,25 @@
+{
+  "internalId": "SEA_LANTERN",
+  "name": "Sea Lantern",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 45,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SEA_LANTERN",
+    "material": "SEA_LANTERN",
+    "name": "Sea Lantern",
+    "npc_sell_price": 45
+  },
+  "recipes": []
+}

@@ -1,0 +1,78 @@
+{
+  "internalId": "TITANIUM_DRILL_1",
+  "name": "Titanium Drill DR-X355",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 36000,
+  "lore": "&8Breaking Power 7\n\n&7Damage: &c+75\n&7Mining Speed: &a+700\n&7Mining Fortune: &a+25\n\n&7&7Fuel Tank: &cNot Installed\n&7&7Increases fuel capacity with part\n&7installed.\n\n&7&7Drill Engine: &cNot Installed\n&7&7Increases &6⸕ Mining Speed &7with part\n&7installed.\n\n&7&7Upgrade Module: &cNot Installed\n&7&7Applies a passive upgrade with part\n&7installed.\n\n&7Apply Drill Parts to this Drill by\n&7talking to a &2Drill Mechanic&7!\n\n&7&7Fuel: &23,000&8/3k\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&5&lEPIC DRILL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TITANIUM_DRILL_1",
+    "material": "PRISMARINE_SHARD",
+    "name": "Titanium Drill DR-X355",
+    "category": "DRILL",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 36000,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {
+        "TITANIUM_DRILL_1": "TITANIUM_DRILL_2"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 75,
+      "MINING_SPEED": 700,
+      "BREAKING_POWER": 7,
+      "MINING_FORTUNE": 25
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TITANIUM_DRILL_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "REFINED_MITHRIL",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "DRILL_ENGINE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FUEL_TANK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GOLDEN_PLATE",
+          "quantity": 6
+        }
+      }
+    }
+  ]
+}

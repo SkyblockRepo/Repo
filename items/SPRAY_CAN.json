@@ -1,0 +1,71 @@
+{
+  "internalId": "SPRAY_CAN",
+  "name": "Spray Can",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&eSelected Spray: &a&cNONE\n\n&7Right-click on any wall of your\n&7choice to spray.\n\n&7Left-click to access the Ink Manager\n&7and Spray Selector.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPRAY_CAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NjMyNjI3NTk0NjMsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwNjRkOTc5NmVkNWZhYjQ0NWRiYzkwYjQxNjZjNGUyNzQyMjg4MzI3MTliNTMxOGEwMDEyNmEyOTA5NmE0ZjEifX19",
+      "signature": "QDMRN45EfQkYikUTPF3PtY3uKSmLGjoxBc2HzSBPG51t7VvxDLazZ6JOucji3ZmOSGFT2UAcf+1H42w7QUTSjCLUUfYY6DfFDImgG2nd3MzkSwC/y/7tVPV6Yqx8asilOg2TGTbADV01gWOiT7O6XDMmQIe5/kIhYoaRLxJpeWvPwyohqEImtG8qQbicR8P1n74xYFiwnAkEao07vwoUVIPWrbjnjNNEznypu/C75twiPj73IS4asTACVVRTy/QxxMBiNCAyiTiL62PxCKIzDvJb+ZfZCg3gfaE98dDlSJ4oSQYbLq4UATSKQwT6UWfG5ERy6DLjFg5aMpl6VOkHD9Ww6VKe5P1rrgSPXlkfIOYaCgHU9ybCkyt7oFR0j9QNKNuy7u93vDXUOSHeFo2qu33qtS/70fxufULBd24Nq6f4ufWQVM4ZR/LuEaKYxyWx7uFXooJaOUxD2/UuZpFhfxuvJt/RyVkl4ZoQDRJ78VHWdSJV3jTw2ubEYKQ5D4w5Zj/Ig6HWWq7gjEHceRFDuXMkfdoFFx4uVomOz5JLa0jLz8XqVC8l/NJwlJDe9Sn8mzn2uDeu0yJ9zJM6dpptZCHQeuM++EvqmUK8QYANn5LTSEW1nrf3rxc0KcCvZHFuxRiSAxK5gWc3+DvoykyicH0wuXgWGW8oaUd21NJKWVo="
+    },
+    "name": "Spray Can",
+    "npc_sell_price": 5
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPRAY_CAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REDSTONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GLASS",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

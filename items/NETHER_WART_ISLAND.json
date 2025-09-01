@@ -1,0 +1,75 @@
+{
+  "internalId": "NETHER_WART_ISLAND",
+  "name": "Nether Wart Island",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this in your private world to\n&7spawn a Nether Wart island!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NETHER_WART_ISLAND",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDcxODEzMDc0OSwKICAicHJvZmlsZUlkIiA6ICIzOTVkZTJlYjVjNjU0ZmRkOWQ2NDAwY2JhNmNmNjFhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFyZXN0ZXZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlmODZkY2JiNWY1NGNhYWYxNDdmMWMwMjAxNGZlMDg1M2I2ZWJiNTk0MWY2ZDNmMThmMTY1N2JjNDg3ZWIyYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "T5W7El8tdIxoS1JvQqyiBgpwgt11ArUmtVpp1xspcdAaJWhzyjK6dtWapctypEQpZFdK+PfnXWweBA5wZEXxlmJGtmd7cRpFMNNbTYmiGgG/daGPG8WztOp8dsfb8A7OLQQ6S2G4+XT/0pD0IGRlrgr7sKK6q3IvFjWO1nEZEdg1JKQf5UgbUTIm1+RncgtFLfu/9HkIJmCniZQlIIHFCUqBCwEvLEcVsJs6g8lzMcI1lwiLxZ7Xg/sMSz7SxlZShMbHrEpYeW9/ZJU4cmDsdFKD2y8BhXsaanvvE7ZwafPaAejF51hi9ws8JxY8BWNzSfu0V1zl6ZdXf/EVLw1A5B8wzfVvlavnNesF44uW5uDCFnbUn7JKeb5GA5/qq52i8prhdbuploMeUSrZvDHVJt8fSpSrOxJE4P6R82wQAWhAkhAC03TQ5mH0Uvh0eatWgea6wzPNuHgA68DoQpX7zMslfIuE3O7cy9RtjlgQeYPStzYRl4cEykG2JO0Q2R2c3gmkoldkMqnyCOV2YgSsJPTOhiV3+pWjssytZigI5I2XLYHr+dZi+7dC9J5pC2jpEmAHHbx9+wM1zxLyrmiSABIWYGSTOyhmIyOocsKN0JBRKrV8t/IR/jm8tllx+U/BcEs0IbTXXBc6X0cDOtDl8rf9emHGBiQawShl33MqTtY="
+    },
+    "name": "Nether Wart Island",
+    "private_island": "NETHER_WART"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NETHER_WART_ISLAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NETHER_STALK",
+          "quantity": 5
+        },
+        "2": {
+          "itemId": "NETHER_STALK",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "NETHER_STALK",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "SOUL_SAND",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "SOUL_SAND",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "SOUL_SAND",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "SOUL_SAND",
+          "quantity": 5
+        },
+        "8": {
+          "itemId": "SOUL_SAND",
+          "quantity": 5
+        },
+        "9": {
+          "itemId": "SOUL_SAND",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

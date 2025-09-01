@@ -1,0 +1,25 @@
+{
+  "internalId": "WEREWOLF_SKIN",
+  "name": "Werewolf Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Dropped by Werewolf sea creatures\n&7during the Spooky Festival.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "WEREWOLF_SKIN",
+    "material": "LEATHER",
+    "name": "Werewolf Skin",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

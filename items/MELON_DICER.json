@@ -1,0 +1,51 @@
+{
+  "internalId": "MELON_DICER",
+  "name": "Melon Dicer",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8]\n\n&7&7Gain &3+5☯ Farming Wisdom &7while\n&7harvesting melons&7.\n\n&6Ability: Roll em' \n&7Every melon you break, you make\n&7a wish to &dRNGesus &7which may\n&7grant you with a few or TONS of\n&7extra melons!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&5&lEPIC AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MELON_DICER",
+    "material": "DIAMOND_AXE",
+    "name": "Melon Dicer",
+    "category": "AXE",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "MELON_DICER": "MELON_DICER_2"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": []
+}

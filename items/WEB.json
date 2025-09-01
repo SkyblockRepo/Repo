@@ -1,0 +1,71 @@
+{
+  "internalId": "WEB",
+  "name": "Web",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WEB",
+    "material": "WEB",
+    "name": "Web",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WEB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

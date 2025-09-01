@@ -1,0 +1,25 @@
+{
+  "internalId": "JACK_O_LANTERN",
+  "name": "Jack o' Lantern",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JACK_O_LANTERN",
+    "material": "JACK_O_LANTERN",
+    "name": "Jack o' Lantern",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

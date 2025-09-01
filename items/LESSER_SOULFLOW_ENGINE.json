@@ -1,0 +1,82 @@
+{
+  "internalId": "LESSER_SOULFLOW_ENGINE",
+  "name": "Lesser Soulflow Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This item can be used as a minion\n&7upgrade.\n\n&7Placing it in a minion will reduce the\n&7minion's output by &c50%&7, but it will\n&7start generating &bSoulflow &7items.\n\n&7&4☠ &cRequires &5Enderman Slayer 2&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LESSER_SOULFLOW_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjAyNDE0MCwKICAicHJvZmlsZUlkIiA6ICJmYjNhZTU0OTU3ODQ0MGVlODIzODJlMDY2MzlhYTkzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZWx0ZXJ3ZWlnaHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2QwNDVjYTNlOGEyOWUxOTkzMTY1NjM2MmUxMjQ3NzYzM2E2ODljNDgwMWQ4ZTIxZjdkYTBmODBjYzU5ZTU2YiIKICAgIH0KICB9Cn0=",
+      "signature": "PW0xTIvDdfURMYtAY2x6reVUR8W/HSCbwQj5LotgLykHrvrjxA+fBIV6xawZH/wOBcoHNlBo43cb+7utffJOVfCuYu9gf6haFO0yDoQY7sSU6V/OEGQxBT4zDQtiqWXU1XCWxs9iZ+uHLqOOeKH182klSvEdu+9r5n40ERSapkMWOQhN4ccj3dALN1XJDKqu8reczMHy0Av5oLqLbQXR5YEBFCVbnOuGm7RfVUJM24PassanXJk67M+PEf4i0bQvoJE18RqKMB90qO+EN99mr7mnbcazXsMUS5yigrHV+UOGz6fQRB6nG4NehHorkbr8/d0/NGVWvV8Bf1RomOTwvi95VZSQ693fjPew96lt4eTwea/urtmloSXc4Tgc0QnWCTwv8D820cjIvb7RGfFlMZihyMS+78ss6Qxn3nPC/cCaA4gmibZ8uHI2V4Z+xRkf7u4cqvkk2zTCv4TiiMaO/je23fqaVZQJhV5QTtFpJDyldtStBSvjtaIbdRz1OnKda9kCKm+8oiSbymnK0rngkDa/z++CQbn2x1tlpUV/sVim1OdHIl9raZE4WS/6evcnifnGTwcDKMueWruN1IIH1KxHAkfxYtWoQG0h5dRNCmahnhJQI7n9h1B/xuS8iQzY7aaTK0QJTnH5wRfcAzDchd2JgODHSJjWOF+OP3FloOU="
+    },
+    "name": "Lesser Soulflow Engine",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 2,
+        "slayer_boss_type": "enderman"
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LESSER_SOULFLOW_ENGINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

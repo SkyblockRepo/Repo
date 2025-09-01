@@ -1,0 +1,275 @@
+{
+  "internalId": "DOJO_BLACK_BELT",
+  "name": "Black Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+35\n&7Defense: &a+25\n\n&7Reduces damage taken by &c6%&7.\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&6&lLEGENDARY BELT&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DOJO_BLACK_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU5OTU2NjgwMCwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiMGQ5NjIyZGY2OTE1OWMyMDcwNmU5YWY0MDBkNmJiMzA4ZWJjYjc1MjAwMjVmNTdkOTc3YWQwMzRmNmI1YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "bHGpIKCPsXmADpQy4+oEzpTy8Mt0bbtlrbFHJ1h7JXvUhRJoHTY4Zv+0kzDHJwhCq0jAE174hSHGwukM2Gm1D2B+gtjdmloa6+Xx5wShOf4xJJjYKD74RiInE8cE798IqpOX3Rt5KnuEaFVihMf+URPr1Ri9s+g/dCTFhLdIZ3QrahZiQGZtwyrVvBdGBifqcJYvhtlMvyfxKsN5wpszUQdVlReqa9UML9ovZIwAZmdY/qiqRZo8g+pKgUNAK+8+8lt24TbDr8RYIO/nFFxE61Vmrh9lZsxbzV38GoT4nDgb0XqJAbQRoAG7VWf22zjHkw/ZEbcLiXswtaPwiJuuWNEikNTy1KAmQcZ+YzYcTJ+4vJDV7/96Vh3VSye+/QqCEJkit0DlcY0Zpdwpim48rVWJaXLuMr6iyj1GUkHsP21GdjTVSRat6F+veJXI7Hc6Z2btEB2GqS5AY2EViKNE9q7k6D9BuHX0LrHFiT0g1z93gYE0f9HUazbg0uuhXbd0+aYNuE6G0jJruLElCtcViiq5h5wRJeejcErDyYpiZ+6bj34eHNZBY4G/n7Kr6fJK6PUm+b+kzp01ID/pzfM/UWViIl+IJ9My/2GyvcHA3q35Is02OKbiFSG/zLrpWo0FqjZkldt4cq+0h4Snd0pvQJ4IzHssrtV85jz7QdE+9kw="
+    },
+    "name": "Black Belt",
+    "category": "BELT",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 12,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 35,
+      "DEFENSE": 25
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 70
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 120
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 150
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 180
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 300
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 350
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 400
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 500
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 600
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 700
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 800
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 900
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 1200
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 1300
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 12000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 1500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 1700
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 15000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 2000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMAG",
+          "amount": 2200
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 7
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 17000
+        }
+      ]
+    ],
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

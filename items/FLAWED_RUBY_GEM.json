@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_RUBY_GEM",
+  "name": "Flawed Ruby Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of &cRuby&7,\n&7but it could still use some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&c❤ Health&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWED_RUBY_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzU0NDYyMywKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZDgxMDY4Y2JkZjRhMzY0MjMxYTI2NDUzZDZjZDY2MGEwMDk1ZjljZDg3OTUzMDdjNWJlNjY3NDI3NzEyZSIKICAgIH0KICB9Cn0=",
+      "signature": "YphJyLXOzu/8I7OdBg5tIoj/2aMi3jbcGDeo36EW5+N4SllXhstRdLvxHFsRZlrnKrXX2jLn4wq0dGslOCSTl++K7rqvIZW5FUkh4O9itV6iBzWPveTwZrMBWGgF0CfNPQ7iIB/jrhblhcBYiaLElWkI5OdmMdi6r9VuQYY3k+87q2yPgipm0QfetXEjRKcRrJZDtRO6DZgXFNwgp9R2h8BTi+Wg+wdG287ksgl8JYYtZnM0D+BPuR44lLgGVgUk6njhlrDzHeoV3HlReVnPYvkpcweXiueabhQrOpWyiQ0yh8q+mrx00xblDh/rfwwtNVqyATlOfw9x0IYX7L/9+GwaF8Cr1zLLKPw7lpzGOX5EBxB25LVKt9CjSXCvLPEvI06AnnWMaA0JDa0EjspOB0BEb0fCPITaHP1JLD3cEWlCTM9L3Z/51m2vUbqF4J0muw7nt32A4ltIoNj6GwoQCAPx5/vWbu0BNuibc1t1CuHcdfCjiLB71Q9XYFY1yfkKO3TMlPwoHRllB4XFAWOgvLlzOztOO8Qqeo8zYhEVeniQJQnhieRMKVvjO1vIe6tC2jJoEmX180QQnUXEcu3m75pVz4e9uLZM1D72vyAKRazh7COS5x8cbr2gcnAatPVPmkSGZ+u35xmrlwcvcfeOaRYWqdzByjA+tmcdCCi3Q8Y="
+    },
+    "name": "Flawed Ruby Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_RUBY_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_RUBY_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_RUBY_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

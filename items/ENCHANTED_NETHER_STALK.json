@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_NETHER_STALK",
+  "name": "Enchanted Nether Wart",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 640,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_NETHER_STALK",
+    "material": "NETHER_STALK",
+    "name": "Enchanted Nether Wart",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 640
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_NETHER_STALK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_NETHER_STALK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "NETHER_STALK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

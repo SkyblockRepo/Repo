@@ -1,0 +1,25 @@
+{
+  "internalId": "SLIME_BLOCK",
+  "name": "Slime Block",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 45,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SLIME_BLOCK",
+    "material": "SLIME_BLOCK",
+    "name": "Slime Block",
+    "npc_sell_price": 45
+  },
+  "recipes": []
+}

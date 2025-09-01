@@ -1,0 +1,29 @@
+{
+  "internalId": "QUALITY_MAP",
+  "name": "Quality Map",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1337,
+  "lore": "&7It took motivation, skills, effort and a\n&7lot of love and caring to create this\n&7map. By far the best quality on the\n&7market!\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "QUALITY_MAP",
+    "material": "EMPTY_MAP",
+    "name": "Quality Map",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "npc_sell_price": 1337,
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

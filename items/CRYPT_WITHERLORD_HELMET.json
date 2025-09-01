@@ -1,0 +1,48 @@
+{
+  "internalId": "CRYPT_WITHERLORD_HELMET",
+  "name": "Crypt Witherlord Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYPT_WITHERLORD_HELMET",
+    "material": "LEATHER_HELMET",
+    "color": "69,1,1",
+    "name": "Crypt Witherlord Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DEFENSE": [
+        70,
+        80
+      ],
+      "WALK_SPEED": [
+        5,
+        6
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

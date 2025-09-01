@@ -1,0 +1,33 @@
+{
+  "internalId": "BOBBIN_SCRIPTURES",
+  "name": "Bobbin' Scriptures",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 35000,
+  "lore": "&7The sacred ways of bobbin', written\n&7by a long-forgotten worshipper of\n&7Kuudra.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOBBIN_SCRIPTURES",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzMzg5MTU1OTQ3NywKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZDllOTU1YTUwNjAwMGYxZDhiZmM2OGVhYWZlMDRjYzdkZmI0NGYwNjIzYTFiM2QwYmYyMTVhOGQ1YTg2MWMyIgogICAgfQogIH0KfQ==",
+      "signature": "q41SCjgBziXkDCPf5XpbgU9HwYl214twK0Ix5rQMxLEQr5+L6A/MuzeG3S+cJkzebM2krTn+6BGRrr5xGMSpWLyOHeoRi0dwEQkwAiA6Q7gNnSzn0XHmLljFEhEtYdg4/PCayMcyluk2HxsxgiCNOWO0SDIECDlRga7m9hgXABsvZBEETWfnNVysSawLEUytJveEGofsoImH76f4kiReNsu5GTzO5l5h3m7h0p46+YJkh99e6nlbuq/852KXg+AQqw1aiZN23noMmZDqs+r5+FwBEHSai0DmNNNLct2Ho3PGuqlkj8CbvCLmnxJFoaoakJN7+oh+MrABft9Il8tm0OviykRkz9/ojrXftPbV7x9t6ftyHXlrkxQmOl26y6ThjhvI+mJ+I/PeaOnEoW3FslUJ3KAYOtyGQ8FlnC5HnbhRYtvv/52PY0SM6OdbMjqwOzC4o0NE8Co9MQNVrbG3i4KiJv9B851Iy2LW0Cw801+1zur2M6kGNFyHcOmbttmkxV7I35N9kJD7TT3Mgqh9ML1HK/8IyoF0bRMwbyhwysiTShfrjHtt8nHx0mFf4BmrkRrgGsE4gvCb3bvdI9roMyS2oOq/J9U9wm+q9BS94lssw84LVew64DkdlvbFN1QpXnccXbPDYi91KuFsMw1LezGuYTGIp5k+lvNUwBAySNM="
+    },
+    "name": "Bobbin' Scriptures",
+    "tier": "RARE",
+    "unstackable": true,
+    "npc_sell_price": 35000,
+    "description": "The sacred ways of bobbin', written by a long-forgotten worshipper of Kuudra."
+  },
+  "recipes": []
+}

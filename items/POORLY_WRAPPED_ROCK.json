@@ -1,0 +1,31 @@
+{
+  "internalId": "POORLY_WRAPPED_ROCK",
+  "name": "Poorly Wrapped Rock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Quest Item\n\n&7Bring it to &eJuliette &7in &aThe Park&7.\n\n&7&7''Uneven, unkempt, disjointed, and''\n&7''that's just the guy who wrapped it!''\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "POORLY_WRAPPED_ROCK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNzQ3NTIzMzg3OSwKICAicHJvZmlsZUlkIiA6ICI0ZDEzZWUyZjViOWI0N2I2OGU2NzhhMjAxN2VmZTc1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF5ZGVyZWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY5Yzg1MjY4MmRiMzA2M2M4MzkwODM5YjlmNGNhMTY3MGEwNzIyNmNhMGE0YTkwMmYxZDlmMDZiMjMzYzQwIgogICAgfQogIH0KfQ==",
+      "signature": "U4zz9kWcyWAv4wM+m6XlyYF/21SpkFCwIL9BP0Vy6PGtwMJSeAZZPXj/seI6devPdsh4q9maSyALmOKBhm4aIDqbt8++yB2cY2pnVUQhlJW9L91ulr0hzF+8Qxxr/NVAwUVHo8qmsModL6v+L/TcupaWaCMKiTJqX3B9XwsxRPayJAkVfHWZZobBKuPGli8OvfHY7Vu3y6twA9jE/tG3yDJ4vBfgGDxYSkeZiFb9vhZgeNKnWoKEp91f6hkvz7xAPUE6e+rY/rNNQjY/aFwu4BBcETdQDR7g00hA3PK0VxiMbVx0WlfoRfak91ueM1l3eB4yXaiUAReeM9yWU1MzZ5dhDKgv9U0MadXD7HcaRRnZuHhsxNr350juaJyGc4YfVamuS5cUQQ7MAmFc/lzPnxyUC8aS/ILE+ffpdZyFEBvOWlzPAAZRO/t2yqjFoq4j56+17I2CtBpI65xojITGIDwCUsJY87j2ayqdxfKBHlNhGQ3kfGO/B2pkjja4ikXulr1gTmxKqbvIoBxGDUbMa1IjBDGJnLRtPL5vmfJwSvyXVB/B7mGDZMiO+DtvEzLxRIGi8DukkMB7CeSTd5YNesBl5pTrCfSB3NlLTEa9mbrmpnhPbbT897HqT154gyq4qNzbS3iEjjLfIyXqQKCzQM1AjDLgDOMUxrlIccWNzDc="
+    },
+    "name": "Poorly Wrapped Rock",
+    "soulbound": "COOP",
+    "description": "%%dark_gray%%%%italic%%Uneven, unkempt, disjointed, and that's just the guy who wrapped it!"
+  },
+  "recipes": []
+}

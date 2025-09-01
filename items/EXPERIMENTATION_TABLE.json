@@ -1,0 +1,76 @@
+{
+  "internalId": "EXPERIMENTATION_TABLE",
+  "name": "Experimentation Table",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this item on your island!\n\n&7Conduct wild enchanting experiments to\n&7gain bonus &bEnchanting Exp &7and &eitems&7!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXPERIMENTATION_TABLE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMjcwOTgxNjYwOSwKICAicHJvZmlsZUlkIiA6ICI2MTZiODhkNDMwNzM0ZTM3OWM3NDc1ODdlZTJkNzlmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfX25vdGFodW1hbl9fIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxYjg0MzQ1MTE4NGE4Y2NkOGU2ZTQ5ZDBlZGYzNDUxZDNkZWE1MGZkZTViNmEyZjk4YWI3Y2YxMTM4YmNlY2UiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "ECBuODqWVuLnI1FZcgJq+PWktDnIa+mxnZcIvodcvysw7BNA7PuP3iyYQzzdPqn35zONMEEcEwXhnyLirhbEjJ8NwvUaey/Wiu4VRpX15+NMa3AIGbTri//vL5eygRGAjskQ5Ub4hvYsrOnEMwc/5ukeCwwl+epvj00ubZBCzOfgfCb6N0ZLvq3W7Y+osL7S85wu+mxQH4eM1MJ+enG2BU6QzGaENOdxpFCF4j6m6TLDZpizsACRfKS/A10PFSM+EW2q/AZKSFdb0wU+GXYXhlSmTIwRG0LaXiixdDoiV/a9pLmPtGDBICmyh4kYAp4jxk5xLMrPV3MNnQbC0MC8ecYiKNCEFrMWzIi9tAXT03DTizEaMJKu7kYf78EZhkEla0Cl6gPGanTvN9SzS+6AB6hvsiacWn4D3suD+fyLRTtbm+gaUyokWxseBAyq6s9w0fnpHiKEqlrmNjS0LwFSpXNkt2Y/Za61Hjqhg28Pyqk7/LBsTnVhc5r1Pi5IshzW4JkAM7cgPgDZAaWGe+bDBSZ7oOkzowY0mq3KP/81YTLutoOG2bzRUSIo0Hi2zZSLC01w+wEMxiJFZQjYTjF2qxdJOr3td6YU8bIqW9EQKjUQd6PmxgXnhPjUIkfZo0gR8XVutAm6971dqSGu4ZwQy3aHuem5B2emKNGBthQmkMw="
+    },
+    "name": "Experimentation Table",
+    "tier": "RARE",
+    "furniture": "EXPERIMENTATION_TABLE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EXPERIMENTATION_TABLE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "EXP_BOTTLE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "LOG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

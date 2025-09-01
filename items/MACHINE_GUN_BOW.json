@@ -1,0 +1,117 @@
+{
+  "internalId": "MACHINE_GUN_BOW",
+  "name": "Machine Gun Shortbow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d105 &8(115)\n&7Damage: &c+75 &8(+82.5)\n&7Strength: &c+20 &8(+22)\n&7Crit Damage: &c+12% &8(+13.2%)\n&7Shot Cooldown: &a0.5s\n\n&6Ability: Rapid Fire  &e&lRIGHT CLICK&r\n&7Shoots &a5&7 Arrows per second for &a8&7\n&7seconds! Arrows deal &a70%&7 of what\n&7they would normally deal.\n&8Cooldown: &a100s\n\n&9Shortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 2&c.\n&9&lRARE DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MACHINE_GUN_BOW",
+    "material": "BOW",
+    "name": "Machine Gun Shortbow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 2,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ]
+    ],
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        75,
+        82,
+        89,
+        96,
+        105,
+        114,
+        124,
+        135,
+        146,
+        159
+      ],
+      "STRENGTH": [
+        20,
+        23,
+        25,
+        27,
+        29,
+        32,
+        34,
+        37,
+        40,
+        44
+      ],
+      "CRITICAL_DAMAGE": [
+        12,
+        13,
+        15,
+        16,
+        17,
+        19,
+        20,
+        22,
+        24,
+        26
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

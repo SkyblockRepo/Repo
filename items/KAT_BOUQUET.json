@@ -1,0 +1,28 @@
+{
+  "internalId": "KAT_BOUQUET",
+  "name": "Kat Bouquet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Give this to &bKat &7the &aPet Sitter &7in\n&7order to skip &95 days &7of wait time\n&7while upgrading your pet!\n&7\n&7&eRight-click on &bKat &eto use!\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KAT_BOUQUET",
+    "material": "DOUBLE_PLANT",
+    "durability": 4,
+    "name": "Kat Bouquet",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

@@ -1,0 +1,30 @@
+{
+  "internalId": "VANGUARD_CHESTPLATE",
+  "name": "Vanguard Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VANGUARD_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "53,136,255",
+    "name": "Vanguard Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "stats": {
+      "COLD_RESISTANCE": 1
+    }
+  },
+  "recipes": []
+}

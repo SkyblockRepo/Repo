@@ -1,0 +1,80 @@
+{
+  "internalId": "TWO_IQ_POINT",
+  "name": "2 IQ Points",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Increases your total &aф Rift Time &7by\n&7&a2%&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "TWO_IQ_POINT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyNzU4OTI2OTUwMywKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1MWM1MzQ3MTllNmY4OTM3ZTJjOWM0NWM2MDFjZDVhZTdlMDZmZmQ3ZjQ0NjM2NTljMDQzMTc5MDI5NTA0ZWEiCiAgICB9CiAgfQp9",
+      "signature": "Ble49zN/oEh2muV1TnSCDwcv2fp89plDL8a5+RWduCVMm56TRXUeX22ZPALjhU/jH4kCZO9aIpx33dgu3As/Zl7BwABJZWsZ9rDJxxrJl6yfeGkuxpHvAIEelAXg87c+oEi2UjGTuB/+7GxOwhRa8mOWGyIdy4L4+UoG8n+ThmkZSoEqjJ6+k5lUEdAfk+TYFtePrsO0Rt0nZaYkg7tlQqCPpgznj/zMb2uZCE5oDcoZ6I/7vXLqwOlBIweTtT4CAwCkyYby2r8W0UKQXVvTFzw6sOqcGKefh/TtmUl5lPq58+SjUWNEEj7wH3HV6L96sNorPAZ+StHXTKYmGT/BFu0solp2qKoqyBn8h4jOGP0EvzRCbJPZgRHOttWi3mjnphUSDw21y0xLUDGxt0qC/zHkVjS4AZi3bwgcyHaAqUP3m0DqPLx3G9LSjLY6LCnTAPTlZY0kkmfCZ6pwf1SSVjSd72ozD5jMcz3IOXImSabz1x+B/aj5IKfYTisguZRI+5eP9A3FBGH/dkM3th2EwIHI4DNNbE3NEkBM9Jkm1H3Y2GI9xrxfnhDsxMzK75JFgCGTfiafiO3NIA/XG0g4VnoXOK7tEhIkATeWXi1Fzy4GUI4HIkCmfegN82t6e6zipeBevAbLD4plj3CRRKTR1+6ZVT7j7v4BLYGmw9fhY3E="
+    },
+    "name": "2 IQ Points",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "soulbound": "SOLO",
+    "motes_sell_price": 450,
+    "rift_transferrable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TWO_IQ_POINT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "IQ_POINT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

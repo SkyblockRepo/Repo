@@ -1,0 +1,67 @@
+{
+  "internalId": "GHOUL_BUSTER",
+  "name": "Ghoul Buster",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+140\n&7Strength: &c+90\n&7Crit Damage: &c+25%\n\n&6Ability: Spooktacular \n&7Deal &a100% &7more damage to &6Spooky\n&6&7enemies during the &6Spooky Festival&7.\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHOUL_BUSTER",
+    "material": "IRON_HOE",
+    "name": "Ghoul Buster",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DAMAGE": 140,
+      "STRENGTH": 90,
+      "CRITICAL_DAMAGE": 25
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GHOUL_BUSTER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ECTOPLASM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "SPOOKY_SHARD",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ECTOPLASM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "SPOOKY_SHARD",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "PURPLE_CANDY",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

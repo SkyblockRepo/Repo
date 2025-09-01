@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_GHAST_TEAR",
+  "name": "Enchanted Ghast Tear",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 80,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_GHAST_TEAR",
+    "material": "GHAST_TEAR",
+    "name": "Enchanted Ghast Tear",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 80
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_GHAST_TEAR",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_GHAST_TEAR",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GHAST_TEAR",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

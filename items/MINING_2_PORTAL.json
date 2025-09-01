@@ -1,0 +1,88 @@
+{
+  "internalId": "MINING_2_PORTAL",
+  "name": "Portal to the Deep Caverns",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&7the\n&7&bDeep Caverns&7 for you to use\n&7whenever you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MINING_2_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODk5OTIyNDk2OSwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NDIxM2RjNmRjNGIxNjQxZGVmZDMzM2Y0YTQ3MzJjYzcxNGRkNjc3NzE4ZmExMGYxNDBhNjkzOWMxMmFhMzJiIgogICAgfQogIH0KfQ==",
+      "signature": "MfHuurT1rG6wffS55ZFIDdYeWgoaTsUisgxOGPiBXtGfigXnEHSZgwhPVU78iLrk7mQLo6T1vdXtrzNh8xL9IQoy3jE7/MLSZXlFBxc/DkTYoyGXZlWjm8Bk/CFmpNnk4IPYn43jx/Jdb8x8WMaYC+wiGvOqrv0wVq7kABLldf6Hu2lb56jwhuAsWx2RBH/htkTOg/S/bZ9mqOQjZpyBP32mo0u66eK4L8dwUf+8R9/dD4xXmT9kVx0VFubOZ+ig46nX9aprr6rzWESQFL37k6EK7zyjvoQ23Et19zQAT0b43TLQzx0EOVcgB1Ryo3YqMeZKQCA9MvMKfBwN0swrGhH52Wo6VQoWxLL+qTpq01TMuuy0EHliMajVZK8chUFuNEepMAHYF781g00dUlU1m0hBXNB47uk54owl3ScDylXBew2zvyHIfuIg0a8LkMfvrQSZWN541N0wss3IUUB5QDt1LD4H2mWY/Dm8JUFecpDbJB20ce6Ob16H6rmDMLJgFwKT/dwWoJEKqyYs24/PSA+YThhUcpZKS2ufNBelMJRly0Qz5N2R02mbeY2U/gsyGFuiPtq1WW2MAOAevdAnTykN8thRmVXAK2BpnzDPWAaFDQTfkIKO5s1Jq7xNutkFAYcVWknOxwz8R9chJU9udK7m9bpcEoIZSEC1+eXvfKA="
+    },
+    "name": "Portal to the Deep Caverns",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "MINE",
+        "holo_name": "Deep Caverns",
+        "schematic_file": "sb_portal_minelapiz",
+        "description_name": "%%gray%%the %%aqua%%Deep Caverns",
+        "destination_mode": "mining_2",
+        "skill_requirement": {
+          "level": 5,
+          "skill": "MINING"
+        }
+      }
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MINING_2_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REDSTONE_BLOCK",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "REDSTONE_BLOCK",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "REDSTONE_BLOCK",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "LAPIS_BLOCK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "LAPIS_BLOCK",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "LAPIS_BLOCK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "LAPIS_BLOCK",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "LAPIS_BLOCK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "CENTURY_TALISMAN",
+  "name": "Talisman of the Century",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7What's better than a party? A party\n&7with free goodies!\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CENTURY_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTY3NDM5MywKICAicHJvZmlsZUlkIiA6ICI4ZjE5NjJmYzE4NzY0MDU3ODYxMmIxMzNjODE4YmY5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaW9uXzkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwYjc3ZWFhNmJjNGExODNhNjg4OGJhNTJkZjQ4NDE3YTZlMzg1YzNiNDYzYWM0OWI0MGEzYjk2ZTBhNWI3NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "XjfIoxGJ7zMIHjaJToB2CXxHUrmIx9pMIiZToFvsggH8KS0OpB9Z6P1i1rpPRycSNWpaxCLxePIDvLDlzq6K0FDwu6TWKJAt7AiQ+DGjlPz4c5NHiCJOiyUywxqErtekj/zW1ff5HoAWGuYr203H/wajfaAW4XPkKRE4rcyKyIKQ3RYabOKaQrOcoCM5ukzIa/kVfZAAy1gH4i6yF+iHUP48TUV3kY2fXWYHkLjJujxy3CAYAeKfn6MngOWmfoYRZV+iwZrLb5mrnq5j4kW0JP8eq2R8KSP4T2Bvy8vZnS8XCRusE/M3Ns26iO6S6uYEueVkS9PMGjfAp6mDy0Gpe1oa/aw4EtNH1dX9UKfnQv6h+8BPd06MKJES+fLeBR1opCQmEidSR4ZYqD307TjQRGkPx9XMsdN2u2WSzyjGXGMQ7U9MAuG8VwL8brNe7Yn0bJN88uVVjI6mxlqCFYut1Is3h5kEgLBlxcnWxx3srjeHTFgPMC+gaPa3cF4GCVLRVthBeXlZZlgpDEeHlZMEqMtf+oC5JwvpMRb6+JSxvvzNSgtawIO6zBW8B/PNAieZO0IuewhDZU+wq3xcwdl/KP7XqlRIMytjE7G66Lel5Ba2y5Oh3JGybqHlxybg7yxm8+t+bFyqaDwfhbHc8sEm7WpgrE0Eq2pZkYridEUWC5A="
+    },
+    "name": "Talisman of the Century",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "description": "What's better than a party? A party with free goodies!"
+  },
+  "recipes": []
+}

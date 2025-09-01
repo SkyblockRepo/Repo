@@ -1,0 +1,77 @@
+{
+  "internalId": "DARK_OAK_GENERATOR_9",
+  "name": "Dark Oak Minion IX",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping dark oak\n&7logs! Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a33s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_OAK_GENERATOR_9",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzUzMjUwOTIsInByb2ZpbGVJZCI6ImU3NmYwZDlhZjc4MjQyYzM5NDY2ZDY3MjE3MzBmNDUzIiwicHJvZmlsZU5hbWUiOiJLbGxscmFoIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMGNkZTY5MTMwMDYzZDgwZGNkOTc0ZDk2YWMwMmFmMzU1ZGVlYjFhNTM5MWZhMTRjYmFiZWNiNTMwOTI0YWQzIn19fQ==",
+      "signature": "dQWfmQVMg7xsSnHtTcDMG9drlC5jJerIQQxeofuDqkelaGFeeQmKGMdEGdDQBQrtncuwG6oLst+WH/TtKtAqqnZ+H5sIlbBvkChGqwQm0zZK++uuS2RejEZ6kV6Sc5L8Xc7gSlp4TmBlSz5suFeJ9pp6JXaghAX0IhsTGZZO54qFWfXBJuKuMLIXfYmHcULTimZQ5//PSI3eq8z79pb6EJ1/vGxTdNGtgtyHoyDXsYMccxQyiB07RK8QxVnhh4mzasr+udHRmH74jmS4NavlTYWJ/+sKS4JQiSz6qgqZovSHiksS5l0qDUeuiXdFe9Dwmrslbrn/2h/v+J8VP6uPBoODjKK3FsTBGONd1+gEMpypAfhboFWCZ79yXGNt0zfhZSkk8f6+hfsySv52nKr2Gph548OfG0rDr8tnWFPvuMJSpGGMumy5fSVnIiNi8kD4xY8Ewej8ZCO+AMUCNFvjIOkT50xrJLtYUwwUInSMvPlL1PzlfflaC1XQcw1r387G2Qzalx/DM7fNLsc8JRMe51aC2mnk9IbnqofmRkZjlFhemx11Ae6d0VP2hVWG2jxssSlrKJWXcpUNrVdiVmy84nyDdz7LgNHglBXmo5AU5as4E7CMM8R8KqkWr+25hvupmfUefz5bOrKk7k67wf3e9Cm/OKRbZIvpu1XYMpk3CqA="
+    },
+    "name": "Dark Oak Minion IX",
+    "tier": "RARE",
+    "generator_tier": 9,
+    "generator": "DARK_OAK"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DARK_OAK_GENERATOR_9",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "DARK_OAK_GENERATOR_8",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

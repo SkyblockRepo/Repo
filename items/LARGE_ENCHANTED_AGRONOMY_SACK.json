@@ -1,0 +1,76 @@
+{
+  "internalId": "LARGE_ENCHANTED_AGRONOMY_SACK",
+  "name": "Large Enchanted Agronomy Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7This sack can contain all enchanted versions\n&7of these materials:\n&7&aBrown Mushroom&7, &aCactus&7, &aCarrot&7, &aCocoa Beans&7,\n&7&aMelon&7, &aNether Wart&7, &aPotato&7, &aPumpkin&7, &aRed\n&aMushroom&7, &aSeeds&7, &aSugar Cane&7, &aWheat\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_ENCHANTED_AGRONOMY_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTQ2MDY2OSwKICAicHJvZmlsZUlkIiA6ICJiMzMwZWE4OWE3MTY0OWZjYTMwZmI5ZjU5MTQ5ZjNjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfX2FicyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xODRkMmZmMWUxNzczNTc1NzRmOWY3MWUxOTM5N2ZmZjNhMjEwYTk0ZTc4YzBkMmE0MzYwY2M1ZGYxZWI4MDdiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "xJRsAhuHGNOtylVlxZbOkNYi4KGjVicBQW539lOEGuablaevMudu6pXhoKgEOCmJU4BnGLlabp4HK/3BilBvz+7GuGIyD7Bjsp8FonN0SRdOFpJX1vzFM7L/Nc7xOpmhUpZMr6pCK+oCq8Nk3voZw/0h4nl7jfZErCGBHS+2thOrMnrPx+sF9tVp2r1iOBaQyK/TOiiVlyiNUE0FYLpgWLdIoSC3IxmzB8xHlzZpjGeq7qUPrQYcZuUtPK71QMZ3m9hSR4Vv4cxk2lOAs5CSl8GDUiT++qhtu2quNlY3z3IAKOi1e0mOi+TTC/G6mscK6wFQD43tHuC3FqpyVOVf3Z2KaB2Is/+WCbxlw1x4C/7Mg0SrBO/5Ps+lDAzKQqfSfVA/crB2RqnBQaykQXSzKBvUB2q5yaPv0o1rKfZSkLw9H2+KQHJ5ynVWq3It1P0fmS/FjJ9FAtSoZaiDoff3WLH6XSfc/ucsb5YJ2Idke/Vh/uQXDSOze5ra+E8SIIv1z9G/YNIwcNZTp3q1od4X3SQEqlQuOHVJLAt5cL2PiHAFr8rnZZ9xgX/A8PCA2IXxRakKFRcSg1GW8kjQ6N6m++uRAcc+0qaX08U6l0F5OW8FdKH8x0k2bU2jpM2NR4RqNwMRAbNkqzFx/5p0yO0O4/5vVF+yaEahNCuR5bfUA4g="
+    },
+    "name": "Large Enchanted Agronomy Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_ENCHANTED_AGRONOMY_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_HAY_BALE",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_HAY_BALE",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "ENCHANTED_HAY_BALE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "6": {
+          "itemId": "ENCHANTED_HAY_BALE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_HAY_BALE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_HAY_BALE",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_HAY_BALE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

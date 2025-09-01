@@ -1,0 +1,74 @@
+{
+  "internalId": "ANTI_BITE_SCARF",
+  "name": "Anti-Bite Scarf",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+100s\n&7Hearts: &a+1\n&7Intelligence: &a+20\n\n&6Ability: Helmets All The Way Around \n&7Regain &a+2ф &7when killing a monster.\n\n&7If you would take &c❤ &7damage, take\n&7&c0.3❤ &7less.\n\n&7&4☠ &cRequires &5Vampire Slayer 1&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANTI_BITE_SCARF",
+    "material": "CARPET",
+    "durability": 14,
+    "name": "Anti-Bite Scarf",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 1,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "stats": {
+      "RIFT_TIME": 100,
+      "rift_health": 1,
+      "RIFT_INTELLIGENCE": 20
+    },
+    "item_specific": {
+      "hearts_reduction": 0.3,
+      "rift_time_regain_on_kill": 2
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANTI_BITE_SCARF",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "DETRANSFIGURED_MASK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

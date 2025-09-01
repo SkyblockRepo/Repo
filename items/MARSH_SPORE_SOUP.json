@@ -1,0 +1,25 @@
+{
+  "internalId": "MARSH_SPORE_SOUP",
+  "name": "Marsh Spore Soup",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumable\n\n&7A bubbling soup filled with poisonous\n&7mushrooms.\n\n&eRight-click to consume!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MARSH_SPORE_SOUP",
+    "material": "MUSHROOM_SOUP",
+    "name": "Marsh Spore Soup",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

@@ -1,0 +1,339 @@
+{
+  "internalId": "HELLFIRE_ROD",
+  "name": "Hellfire Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5634000,
+  "lore": "&7&8Lava Rod\n\n&7Damage: &c+225\n&7Strength: &c+225\n&7Sea Creature Chance: &c+14%\n&7Fishing Speed: &a+60\n&7Trophy Fish Chance: &a+25%\n&7 &8[&8☂&8] &8[&8☂&8]\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 35&c.\n&6&lLEGENDARY FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HELLFIRE_ROD",
+    "material": "FISHING_ROD",
+    "name": "Hellfire Rod",
+    "category": "FISHING_ROD",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 5634000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 4
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 35
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 20,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 225,
+      "strength": 225,
+      "fishing_speed": 60,
+      "trophy_fish_chance": 25,
+      "sea_creature_chance": 14
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LUMP_OF_MAGMA",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MOOGMA_PELT",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "PYROCLASTIC_SCALE",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "CUP_OF_BLOOD",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "FLAMING_HEART",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 50
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "ORB_OF_ENERGY",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 60
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "HORN_OF_TAURUS",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 70
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "THUNDER_SHARDS",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 25
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_LORD_FRAGMENT",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1600
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HELLFIRE_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "INFERNO_ROD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "MAGMA_FISH_GOLD",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "HELLFIRE_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MAGMA_FISH_DIAMOND",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MAGMA_FISH_DIAMOND",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "INFERNO_ROD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_FISH_DIAMOND",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MAGMA_FISH_DIAMOND",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

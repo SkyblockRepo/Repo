@@ -1,0 +1,61 @@
+{
+  "internalId": "SUPER_MAGIC_MUSHROOM_SOUP",
+  "name": "Mystical Mushroom Soup",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 640,
+  "lore": "&7&7Consuming this soup on your private\n&7island or garden allows the player\n&7to fly for &a200 minutes&7.\n\n&7&7Leaving the island will pause the\n&7effect!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPER_MAGIC_MUSHROOM_SOUP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDEzMTY4MjkxOCwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWU1ZDBjMjNlYzFhMWY4MTNjMGM2M2YxMTJlNTViN2IxYzg3ZmVjZDMyNjljMGZkYmNlOTZkMDNiNTU4YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "IDAm8VKKJV5wxajOokIau0e7zldGEXyvrWe//STB/zq3BrhPavjeus4rny40ufKHG5dTj/HjN9E70fRKOJrlpNJxjCh1F35Y3hS3a65muzwXbGOqZzPayWNj3hDtGkeubE6S55tujAbHCtZf1m6UtHvAXSQeZoMOmzFRx27VmxgbRxgjhjQFNCgX/03oAwe9GeZhnjSc9sTsrdpWqdzU4I3eA3/+PgDHv8dzunD2hqthJkETt7CZ/ApxEOY0rULZzwBWOiDh1EEvH5BoBkvGNjbjwoCWJaBGkebWyU3s4DIDrZekjyW+dH0Rut5jxzaRgxaY+69rZa4msjlfZiTzZcnmaieC5wmxi9X/ssHCPq/TIfqcRm0cRhZHVwgX4D6fAuReSWk8g09OAqverEEKmXJD4B2SJp/RaXcSW3DmVgqrDj30H4O6Zdv1JCB6wMZ6g3WujLdxX2IsQTCVJ/qak4mx8F9JB4T9vGCeKEUxbKeoMixQbZPJ/mYHR6FQjMKsKYLf8xbU/n4S4b9CUTtrj27PRNJ8MVUvzSsJ86g8UEcx0oh3dAp3DKSBDJAlo1SRfYZI7af8geYPUPG3tAGCI+AxEgSdHKiJii1Hqr96lzg7/EVuOMEqw+q8kAXvgM8MK3OYu5/xHZAjA0Zebzy7fW5y5Y/KHOdrtT5nSM7EIrY="
+    },
+    "name": "Mystical Mushroom Soup",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 640
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUPER_MAGIC_MUSHROOM_SOUP",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GLOWSTONE_DUST",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BOWL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

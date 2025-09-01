@@ -1,0 +1,42 @@
+{
+  "internalId": "PARROT_MASK",
+  "name": "Parrot Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+1\n\n&6Ability: Party Flock \n&7Nearby players within &a20 &7blocks gain\n&7&c+1❁ Strength &7for each upgrade of\n&7your &6Intimidation Accessory&7.\n&7\n&7&8''Squawk, squawk!''\n\n&7&8This item can be reforged!\n&9&lRARE CARNIVAL MASK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARROT_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjI2NDM0OCwKICAicHJvZmlsZUlkIiA6ICJmYjZkM2E5Zjk3MWY0ZTdlYmQ0MjE2Yjk0MjE5NDA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJjaXhkZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NGI0M2ZhMzAwMThiMjc5NGNiODJjM2VhYzhhODllODdiMWEyMzA4MGZjZTgwYzUyMjQ2ZTMxYzUzOTQ3YzBkIgogICAgfQogIH0KfQ==",
+      "signature": "ALlFhkForVcehfT7YVNL/563GJx6lavOOqjrtw/AzfofsxLi/qoWAZ/3I7tbvBKsnVm+DELDFu+RLRkCFTjI2chKrBhy3PajjleyAprXJFPITMEnLfq2Y5OVkUW9vKaxw4FxLC0Tj1wH314ahjGzGlHZgZeXSoV4Ls7y6QwCSWf5HowLEgV9FXPxvcbmoehT4YawMpxEqA26XuEqGsJh5h5aBYKnrSNuM6aRy5Xemw8aa0K2/U3X1lsIq168+0i4tNFLNBtCzkXkD+6orW3rpDb+EYbHCeA4kLF5AJJnvwOXNja0bQe0N3jhSPjYgv3mZGgDGLu4xtJSbdzAuE2Rf6wSFYQZK+6gzKUSqFVMIx40PqfTMRTraoq4TnKUQHZmAThs1W5qTIPgxN7YibkvozibLoyFSgiDp2WaG4IDaRu/HaKoiXKJVn71NYz3VWcDjs6hWlBqTaOC1Jm5siG9Jf+u6jEfjjxPxQ74SiJurvyS0F2Jcq5sUQCKRLfP2d5VtbXR+wBbbS+yo1wFSeh62YozKVc2se3hds61tvuyTyHvxf6ZspfEXOmCzmf+EnSbaDlFI166aDbEddNAUyIlHuw4Xz1MasiILOR/bPHdWjBnUAMQF07FuWeDPFJD54y/Zy18/3WkD5osbvtgX7ZaEsX+mRhzxQfXhAk7BYwVZzM="
+    },
+    "name": "Parrot Mask",
+    "category": "CARNIVAL_MASK",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "health": 1
+    }
+  },
+  "recipes": []
+}

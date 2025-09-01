@@ -1,0 +1,33 @@
+{
+  "internalId": "MAXOR_THE_FISH",
+  "name": "Maxor the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Dynamite fishing is my favorite!\n\n&c&lSPECIAL DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAXOR_THE_FISH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE0ODEwNDc1OTIxMzAsInByb2ZpbGVJZCI6IjM5YWY2ODQ0NjgwOTRkMmY4YmE0N2U5MmQwODdiZTE4IiwicHJvZmlsZU5hbWUiOiJNSEZfV2l0aGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZGY3NGUzMjNlZDQxNDM2OTY1ZjVjNTdkZGYyODE1ZDUzMzJmZTk5OWU2OGZiYjlkNmNmNWM4YmQ0MTM5ZiJ9fX0=",
+      "signature": "dV4JFH3iS5ckbe/4F9FxoCMBP2alS2wmoYOcPVsaVxQIYIcyP+TyQQuuq4dwdBOsELbgU8vavYYk9oUa81ZBvKYO+Lv3sX6gyO2e/pjl8C6KqnDXjbMTWwqW57UEnQVYjk75gs7jdW6QGh96VKGL91LRFErutY2cNOSvBXnd0Q4k6b35ElHJQMlApJsm/6Z63yWKIyVXxsLXMbiYqTAUepEQVcaFq+Q7UURs4Hee3e1h4hpk9+0uDvkx1aVgo7LXT0iqXOwvA4yChQJBeYB1AIJzeYr4D785MqUObPyfbx8kqut0FtbUBOtlBAaw34j7LcdehD1N5H9WI05nGbjjfnqPUIH9TxtnPQgQjo04SNmzxi5M+UHjwD3sVjZ6uJzN2RFjjAElZdPO9r6A4dA/bnZ5ud7QLOPAj32p9MomQebocKBn5Bgry2bm9fsi9pcsy1x8UGLD45KoeDOiuvkpmTHjh0K4Nw77s4ONxRR9HzaUkJbdTTdqlfldGjBrIMnnApZky+NaL9YaVGS4BLgfymS11enGRXrWgs9opvL7oDHmqQnxqAxG3gzeEH+/8AMXOxOOhKnhuk0sh2DDgp74wQQdsn4wdOTjB6xxPdal8G2fgQPyo1/1gqUFNFKdIddxI5qEhC28Cxx2kPO/r2oadIZLo1/Kf4uU+WIz62rM3T8="
+    },
+    "name": "Maxor the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

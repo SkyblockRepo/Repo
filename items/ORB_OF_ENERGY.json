@@ -1,0 +1,32 @@
+{
+  "internalId": "ORB_OF_ENERGY",
+  "name": "Orb of Energy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7&7''According to Professor Selta they''\n&7''are 9V batteries and can supply''\n&7''about 50mA of current. Professor''\n&7''Selta is currently in a mental asylum.''\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ORB_OF_ENERGY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODU5OTQ1NCwKICAicHJvZmlsZUlkIiA6ICI1NzdhNGViOGFjNzE0Y2M0OTQxOThhOGM2ODkyOTkxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1wYXJvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzMzYwNTRjODU4YzBhZDY1MWYwOGJhYjZjNmIzZmRmMWM0N2Y1ZjY1NmZkOTZkNDU0ZTk4MWQzZmNlYjk5YzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "tgxJLzXfpxv8SbE/j2+HZwvAnCR2p5M29REJAlCIpSoTARFbIJPKjrm1Bd9pUtcNyBoxCpFrFCw9ZB/wMAYxzIWZTeA7ULIJwsgPZnn2zLGPrgCHXpqRmyZblvdSLQ5SNwJDojkBwdqyZIiG8UDTDTwrL9O3r6GdYtRyXUUKwRCXgLcHvpixWBAlaNAwtsEz00dsIYN05lCqLy9ITIWY91XcBTKPKL/4l4PCwbku4EfR7uGpBYP91ixCzpFfeySMZlymBMuaWN1/SB/O+ss8MxOe79EpV3FxgtYV+Rz2ViaA0gKKWMxEiEfVZ1zvLlpdnPI2l0fW6EynyUDruPftBdwbjRdAEOoZTaGXyoshyEOOldKj2JgLy1FZNznJdxsT6tkgrP7miePLgu4lfbYjCZaxoxohySeB/kPioyLPfra5MhRDOfc5RLK9VJJcZissc3F1v2mF9hTGTRTG0NhqvtkqmbNbvN5X8V6M7bvkFoJ6j/HldrqgEVUD5HUzzzd2B69Dzsi4HCcyhczDIGKDVKOwhGeIW8GxsSzoWLH1KySNY8GBSmkH2ZcELe1vi1RpDL3Nq/jFPbzq5GewD0q2/rESOo1MMb/E8o9NEwITu/NY3fo6zxtYobIs6+PTt31ljkPDg9H/vJ1c3MY4mPYZ+QTNA/0EemchKIqTvOcBu0k="
+    },
+    "name": "Orb of Energy",
+    "tier": "RARE",
+    "npc_sell_price": 200,
+    "description": "%%gray%%According to Professor Selta they are 9V batteries and can supply about 50mA of current. Professor Selta is currently in a mental asylum."
+  },
+  "recipes": []
+}

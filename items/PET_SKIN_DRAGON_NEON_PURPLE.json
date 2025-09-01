@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_DRAGON_NEON_PURPLE",
+  "name": "Neon PurpleEnder Dragon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Ender Dragon pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&6&lLEGENDARY COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_DRAGON_NEON_PURPLE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTEwMjQ2NjQwNCwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0YmRmNWJhNjI4OWIyOWUyN2M1N2RiMWVjN2Y3NjE1MWMzOTQ5MmQ0MDkyNjhlMDBhOTgzOGU4Yzk2MzE1OSIKICAgIH0KICB9Cn0=",
+      "signature": "XftJqJjgOEIFA4Pf+6nEtXTjtFNrDUuhxNYZxZt5gXVrxl3VinTKwCV6bbWJHKOQgFuzwDF8dCHcfhO9xmcgTu6pjkubYheeruTr2ZhiXle2flvlsnW3rJF22XAO/KMUUQ44YddJZZYo92uMju9OUBVhJR8tE4nD9AZVE5ljypliS981HYCiyQ+oQGJnnI9BdevVUbVY+pyySh8ggzDk7A+YjyQMofDbe5Q4Ce2URvCJaw1PzA9X1Pdy1O4SG+4iTZZrTxU0ZDwPsQlNvT1heNtO1FEYaI2q8NrieYuVOTlZIQq0Aip6X0jGNN5Kam8fPEys1dOKX625/64HkM7ptsvCZ2nIixlFes5+44dGeqd/bEV+5Y8QVmwg0XnuXJfqP8CawmQBbfaZC9/fI6wbv3DZKNzDicBlCqvWPkRIMiMtLFabPsXy3wGjdiNFzKE3jufLc7m7AMTHA3MLfzENUFjM/Urf1W91Jroi5YCiABAps7bENzsuoq8URhs0hmu3jWymCEw3mQ5tszcVjAG08oT5IZmn4yRawsaC76uDDKwl6V77WTcAcl9UboiATXjSATMYKvs5oTotxerTUk8pm7zj43vz/nZwp02ZnnwzzMl1DjPfEC9W48MeyGI3H08/q7Qql9UaepXyYXfqPNPENhwMeFN/IxCzFNmgjwBfYek="
+    },
+    "name": "Neon PurpleEnder Dragon",
+    "category": "COSMETIC",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

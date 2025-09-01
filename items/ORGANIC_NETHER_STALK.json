@@ -1,0 +1,27 @@
+{
+  "internalId": "ORGANIC_NETHER_STALK",
+  "name": "Organic Nether Wart",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORGANIC_NETHER_STALK",
+    "material": "NETHER_STALK",
+    "name": "Organic Nether Wart",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

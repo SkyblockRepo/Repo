@@ -1,0 +1,93 @@
+{
+  "internalId": "DIVAN_PENDANT",
+  "name": "Pendant of Divan",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Cold Resistance: &a+10\n&7Mining Speed: &a+100\n&7Mining Fortune: &a+25\n&7 &8[&8⸕&8] &8[&8☘&8]\n\n&8Tiered Bonus: Legacy (0/4)\n&7Grants &5+0.25✧ Pristine &7while inside\n&7the &bGlacite Mineshafts&7.\n\n&7&8''An item treasured by the greatest''\n&8''Dwarf who ever lived. Why would he''\n&8''leave it behind?''\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 10&c.\n&6&lLEGENDARY NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIVAN_PENDANT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI2MjE1NywKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWM3MTM0ZmI1YWJmMGE0OGM5ZTk5Y2I3OWQyY2Y3NTk4YzljZTI4NTkxMWMxOTMxZDQ1ZjgyODhiOGEyMGJjIgogICAgfQogIH0KfQ==",
+      "signature": "xKffTyh5mJMYN1kkfYkGjQP1kCcpDuW54z0aYwKf5mHR8vurL4NLqnTL4lLq4E/Fv0qdcYFSae0J6gJP8juyicrAdLhIasJ8rEf9Ot15iKBL3vTWwP4MQnxuMKga4yj31GOV+7fvakKBWDMv5ghrwtLkKZAJKaTCQvlN2U9pIQreBNCbOJlwmyyHLDqqMqHdpLJzY0g9ZzU2RkW1W+WFGFJeOI/pOTBzbqNoFiTCMvy9XURjAfhPsJnX2oYdo5IZ5MG9H4rxHUkvTnPIDvnRbMHRFX595zCofRHrB9IvIaCnGy3N7xrtfsV7QVtQn5QMGZg8O7G9P5c4j8jC4GesNJvcRIFUR5O+55nzzzw9B5subZ5unbh2upel47p9GNgUcuMNTp/4Ps806gN4WmbyFq5lYBU+7GeQAMYs7hR+ZktwwEI0XSfTCzrDooL4EkA52hZZp/sjkPSnjlYzsec8dS1bBe0gLxY9oxwwSYhIRvOjW9Y3X1XBYTbvd9cG4fIh61xnO5a2A9IknCNHlxeZBl573LlgIFyOQym+LFYSXLvpIPwV5+z6m9ToxIP7ImwglLaOnAuJ1J1zQo5InRdDZZwbPXRBcHRJSmAe99NI2SjrKBQqyFLdpqHoSHft7iMKMoZWy89utQxqw2qTYHhWIgA8I+M4pFXGyRcqgGuUwZo="
+    },
+    "name": "Pendant of Divan",
+    "category": "NECKLACE",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "AMBER",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "GEMSTONE_CHAMBER",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 10
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 25,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "MASTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "MINING_SPEED": 100,
+      "MINING_FORTUNE": 25,
+      "COLD_RESISTANCE": 10
+    },
+    "description": "%%dark_gray%%%%italic%%An item treasured by the greatest Dwarf who ever lived. Why would he leave it behind?"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIVAN_PENDANT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SHATTERED_PENDANT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PERFECT_PLATE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "DIVAN_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

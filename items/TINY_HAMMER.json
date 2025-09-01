@@ -1,0 +1,57 @@
+{
+  "internalId": "TINY_HAMMER",
+  "name": "remmaH yniT",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7.wohemoS\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TINY_HAMMER",
+    "material": "IRON_AXE",
+    "name": "remmaH yniT",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "description": ".wohemoS",
+    "motes_sell_price": 495
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TINY_HAMMER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MIRRORED_LEASH",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MIRRORED_BOW",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MIRRORED_BOW",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MIRRORED_FISHING_ROD",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MIRRORED_FISHING_ROD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

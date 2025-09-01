@@ -1,0 +1,91 @@
+{
+  "internalId": "ARACHNE_BOOTS",
+  "name": "Arachne's Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Health: &a+45\n&7Defense: &a+30\n\n&8Tiered Bonus: Arachne's Faithful (0/8)\n&7Grants &c+5❤ Health &7and &a+5❈ Defense&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARACHNE_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "139,0,0",
+    "name": "Arachne's Boots",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "npc_sell_price": 2000,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ARACHNE": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 45,
+      "defense": 30
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 30
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 35
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 65
+        }
+      ]
+    ],
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 5,
+        "essence_type": "SPIDER"
+      }
+    ],
+    "soulbound": "COOP",
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

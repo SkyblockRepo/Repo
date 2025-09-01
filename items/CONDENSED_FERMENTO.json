@@ -1,0 +1,76 @@
+{
+  "internalId": "CONDENSED_FERMENTO",
+  "name": "Condensed Fermento",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2250000,
+  "lore": "&7&8Collection Item\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CONDENSED_FERMENTO",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2Njg4NjkyMDczOSwKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODIzM2QzYTcwZDgyZWVlMWNhYWE1OGMxNmI4M2VlNjIyNGU4YmZjN2NkYTYzNjc5Mzg1M2UwNDFhMWZiYWE2YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "xw8NX81IKiWWencME+amjyu23vEerRUc0z96xi+KXjiXCS8rHkgV4mo1yTYd0kdxvyhRYYGt73M8H+N1pAqmpe28cL9LHaXRuvlNc7o8VZo0fRyx9GTq7sJvk2fhD7d+A294dxWqAMrpJSlvcO9pLAoX6NJLqitLLZMjStvaKcdIOfwIpF7QZtVd4qOFzbY4D9eYVTJcXvqppzKpXj3F/gF12mdbYE9NF3yuhTUZcYmye5k3f3CRnmXmuhMCD3ayXTW1NfWyMQII9v5XwAV4uXJ/+6k8tGcMH/f46uy10rn9l+nZR/btebuPLgZRJWOD8uSNGQa/TTY8TdV72++lY+hj5d9j4yiahq9ImA8K9EmZH6H4z4L+4/z6acG6CEiVQVUjU7KquvqOpLLQ4GHHfXqDWgsgbEW5Qpj4eBnrfKjIj1oNtdZtl6FjQ42QOsmgxKR+Cb9+AwxQHqC70h6sZ0iYYlaEI1Bm3D0izWxHHHIxIriYbOS4+VCF8BhYZcbZlaEVhBHMs35FXdCewFGZef4fmmIOmLFpIdWxiuym9Te0cHOSatgYzncGvb93pz/g7WioeQW334vGz6QN+jFxJ4I7kedBMEPWSkl2SSdw16sMMAUftL+Eynub5kh/NoetTHFNKX6UmceN4x85S9fQ/eWIokb76YUFq5ZuOWF2skk="
+    },
+    "name": "Condensed Fermento",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 2250000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CONDENSED_FERMENTO",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "FERMENTO",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

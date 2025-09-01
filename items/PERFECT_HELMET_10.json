@@ -1,0 +1,121 @@
+{
+  "internalId": "PERFECT_HELMET_10",
+  "name": "Perfect Helmet - Tier X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4198400,
+  "lore": "&7Defense: &a+290\n&7 &8[&7❈&8] &8[&7❈&8] &8[&7❈&8]\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERFECT_HELMET_10",
+    "material": "DIAMOND_HELMET",
+    "name": "Perfect Helmet - Tier X",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 4198400,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      }
+    ],
+    "stats": {
+      "DEFENSE": 290
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DIAMOND",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 150
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 18
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PERFECT_HELMET_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PERFECT_HELMET_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

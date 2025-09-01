@@ -1,0 +1,69 @@
+{
+  "internalId": "ASPECT_OF_THE_LEECH_3",
+  "name": "Aspect of the Leech",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Weird Transmission  &e&lRIGHT CLICK&r\n&7Teleport &a5 blocks&7 ahead of you.\n&8Mana Cost: &350\n\n&5&lEPIC WAND&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ASPECT_OF_THE_LEECH_3",
+    "material": "WOOD_SPADE",
+    "name": "Aspect of the Leech",
+    "category": "WAND",
+    "tier": "EPIC",
+    "glowing": true,
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ASPECT_OF_THE_LEECH_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "SUPER_LEECH_MODIFIER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ASPECT_OF_THE_LEECH_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SUPER_LEECH_MODIFIER",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ASPECT_OF_THE_LEECH_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SUPER_LEECH_MODIFIER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ASPECT_OF_THE_LEECH_2",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SUPER_LEECH_MODIFIER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

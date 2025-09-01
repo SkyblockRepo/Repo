@@ -1,0 +1,25 @@
+{
+  "internalId": "KEY_X",
+  "name": "Key X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KEY_X",
+    "material": "IRON_INGOT",
+    "name": "Key X",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

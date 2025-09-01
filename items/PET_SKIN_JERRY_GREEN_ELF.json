@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_JERRY_GREEN_ELF",
+  "name": "Green ElfJerry",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Jerry pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&a&lUNCOMMON COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_JERRY_GREEN_ELF",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODUwODQzNDQ1MSwKICAicHJvZmlsZUlkIiA6ICIyM2YxYTU5ZjQ2OWI0M2RkYmRiNTM3YmZlYzEwNDcxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIyODA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRlYzU0NTVmNDM0MjZjYTE4NzRiNWM3YjRhNDkyZWMzNzIyYTUwMmY4Yjk1OTllNzU4ZTEzM2ZlZDhiM2MxZTQiCiAgICB9CiAgfQp9",
+      "signature": "IdgU3jCChx7o6k2Au/qT1vxJGvlViuuyURlWgkQnIhHP9BvfKN7o3hQ5a5RgDLJRrIC542lXOzJf9wFS/U30+SaQDNRpCZ01AzjTUk7uvWXQGlETDcxXLcMjp9vWrvxnsFQ+oS5FTOyhvT96WixFe1fyPeiZjw9QxyjkywNgk5OKtkX+6BcDuh7EYips6JDY7jKF9QbdeszgO1HqbCDNW2llmK4BlAoRPfFC6Tkt880VUpe1m5ErbN5o8lvQQZGjdPg+6Syyyrl0xIlBQfWskGZm53+Kh/sJZxtx6fpVxZfWJInQy/j1CqlBzH+rPjaSYfPFV0FENKon6zAxPQi7XDD175PzwtDxviwhjCYjOgBXocv7GAewvAbgy72OsTSMXn92v6fsh73n4jIlHEJaEtHAowglYkzawIrSDqirGwDnwYwrezMiw15C6a6rU+LkhnWfjNrBLy4gd7Foq8J5Q/e1WM+su4qlS/XXPI/XkHuOgjkvmT0kNUnIjo9jaQUozhn/actnQEkSukscZKqsBbnt1Q2gwHT8fJqGGhli2T//WbqeV9HyFoRTjeBpctq+fqOJL0hxWMTa2+TshLaZ9LZu5Z6r5KNvRzFzNlb1BKBMPS9nkuXCkheEldEQpAJUw3eRsapkgRk28UXvVLx1KzX3gr6T3kTo+Di8Fc98gQY="
+    },
+    "name": "Green ElfJerry",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

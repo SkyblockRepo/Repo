@@ -1,0 +1,25 @@
+{
+  "internalId": "APPLE",
+  "name": "Apple",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "APPLE",
+    "material": "APPLE",
+    "name": "Apple",
+    "npc_sell_price": 5
+  },
+  "recipes": []
+}

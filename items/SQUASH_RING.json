@@ -1,0 +1,84 @@
+{
+  "internalId": "SQUASH_RING",
+  "name": "Squash Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Wheat Fortune: &a+20\n&7Carrot Fortune: &a+20\n&7Potato Fortune: &a+20\n&7Pumpkin Fortune: &a+20\n&7Melon Fortune: &a+20\n&7Cocoa Beans Fortune: &a+20\n\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SQUASH_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjI2OTQ0MCwKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjg4MWEzODgwMGExYzg2N2QyYTFhOGExMGM4NTQzYWU4YTNiOGE5YTg3YzFhYzU4YmExZTI4M2JiMGRjM2Q2OCIKICAgIH0KICB9Cn0=",
+      "signature": "YDhLWKUctyU1Ozu6lJzYw2LV71Up+nQQUGEaYyULdvXLpStsLNm+x0ZFgtWgCfXqPTips+1t93j6b6sBYZ9NS0ZS0oC1K9HC6Ps56uKH7dUzyJyk3d0OzvOVQebn5E1PXRI403e5d8Ge8E90guIITMM9wOiKiolTZ3x9mvScf7oNagvYwrHKRHp/qIQgEQVYBifYwmlipAgzHA9te3Zk1XpkyBd3HfW+rab2jTgw6xsptMBnwFh7mkdm0bkcV2r76kkbqSh45RiVg64s79X/Nu+igho6g7f7gbhlRpve0PAaWOlymfeQrRYwbgCyS+MPxnCgEimXvt1p7w79GJUkpIR8McgtXkiW/dsLsMhKTr3sJdIWl6lT4nvb8zHicwH21nap8E1viEzl5oXrb0OZilP9v92mTF8cd+Vv3Tsy/E4eOvc4yyoQwWYHJWboV7i/2fKqoq9NXx7RwXe9n7LaJC/2T2S1HmZQHM+2gyoE7RDwgi8dw8X+y7Byd6My5UO9TIwIXOjmouBnQt9pwQ1ZUJjDCg4zAD0wR9sQiIRnnN9vBfv0KOTcX3wY+QdbJUe7Qobze2ows60x2ChmcEKlhEqNCAoY9Qr4xLhr27C3gUeiG6AR6YAGRuZ93gvNmyWciQfYLjt8RzThoKB7F0CN0QLbGJ3zsjMsJmuCfQnrJSE="
+    },
+    "name": "Squash Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "stats": {
+      "melon_fortune": 20,
+      "wheat_fortune": 20,
+      "carrot_fortune": 20,
+      "potato_fortune": 20,
+      "pumpkin_fortune": 20,
+      "cocoa_beans_fortune": 20
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SQUASH_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "CROPIE_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "SQUASH",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

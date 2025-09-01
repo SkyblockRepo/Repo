@@ -1,0 +1,284 @@
+{
+  "internalId": "GAUNTLET_OF_CONTAGION",
+  "name": "Gauntlet of Contagion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 201000,
+  "lore": "&7Strength: &c+15\n&7Health: &a+20\n&7Defense: &a+10\n\n&6Ability: Contaminate\n&7Killing an enemy causes an explosion\n&7dealing &a10% &7of their total &c❤ Health\n&c&7as damage to all enemies within &a2\n&ablocks&7. Enemies in the blast radius\n&7will also be &6contaminated &7causing\n&7them to explode on death.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC GLOVES&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GAUNTLET_OF_CONTAGION",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDUwMDQ1MTI0MCwKICAicHJvZmlsZUlkIiA6ICJjMDNlZTUxNjIzZTU0ZThhODc1NGM1NmVhZmJjZDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXltYW51ZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdkNzViOGNmNzY1N2IwZGI3YzhmMTJjOGM3MzgzN2FhYTQxMDQ4ZTIwZTMzZmQwNTJlODU1YTQ3YmMwOTc3NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "W5HllbRQ4F3zOr1zHL8PxcX7j30uuckKpZdo1wHlFDiB+5w5R8lzEKpSkNRosjoDSgPmwust8exfrJDSPNxkeST16q96xd1Reo8C83BVvZ3uldQk3FrF9XacEVpQVKt+TJCg/5FGefmbQFfwjCSuvoaM2Mn4RRCijKZj8Q8+sVhrDawMRhmOsYLsntPadPxCRO1aTOiVWRx+qxl4aFWiogsPi0veGt+QpbeyTd0nxY9lDPfW5WouZOgokvFO6Erk7RIqRDjnmes0bMyFcpyaUzq5gcI0mmMDU+X2ZEIKm/IJ+QLFSTTY3CZYii+N1cSeU+WjECCLHCPJSXL9fK9IfPo0i61rMBns5WUhXMl93EJ+s121NTh7vy71P5JGsNGIp/xB3qelqfCPuCBHYRp0fodGy5QHFBNiOEXjCy5vzmzhVUSvabKA78TrsHcgOIin1/6JnRmPG5wZAbR8WTUubi89C9kPP7UaIi2tlPWtz7hxvozUEtWkqnV3p6r8oNbNYy+Yy2uYWgVqPWVmtfS4gF9hXHrqyT21SpV3d8Sb6qMF5+pEAg7jEZqNfJjv4zdi88y/JjA0WHbiI5mji4a3qZzc01zMQMH/Dqx4oh1oHYdiIfepwfZsBYw0vwfunbhBjRFyooT7aU+GAV0iOJq7+w9LipGSCzyTvbfbFJCKyQw="
+    },
+    "name": "Gauntlet of Contagion",
+    "category": "GLOVES",
+    "tier": "EPIC",
+    "npc_sell_price": 201000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 10,
+      "STRENGTH": 15
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 15
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 32
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 12000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GAUNTLET_OF_CONTAGION",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_MYCELIUM_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LEATHER_CLOTH",
+          "quantity": 6
+        },
+        "5": {
+          "itemId": "LEATHER_CLOTH",
+          "quantity": 6
+        },
+        "6": {
+          "itemId": "LEATHER_CLOTH",
+          "quantity": 6
+        },
+        "7": {
+          "itemId": "LEATHER_CLOTH",
+          "quantity": 6
+        },
+        "8": {
+          "itemId": "LEATHER_CLOTH",
+          "quantity": 6
+        },
+        "9": {
+          "itemId": "LEATHER_CLOTH",
+          "quantity": 6
+        }
+      }
+    }
+  ]
+}

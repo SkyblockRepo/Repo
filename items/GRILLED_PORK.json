@@ -1,0 +1,25 @@
+{
+  "internalId": "GRILLED_PORK",
+  "name": "Cooked Porkchop",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GRILLED_PORK",
+    "material": "GRILLED_PORK",
+    "name": "Cooked Porkchop",
+    "npc_sell_price": 5
+  },
+  "recipes": []
+}

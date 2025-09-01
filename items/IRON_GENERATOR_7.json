@@ -1,0 +1,77 @@
+{
+  "internalId": "IRON_GENERATOR_7",
+  "name": "Iron Minion VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining iron ore!\n&7Requires an open area to place iron\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_GENERATOR_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzcyOTgxMzIsInByb2ZpbGVJZCI6ImNiZGViZGRjODNhNTQ0OWFiZDFiOThhNzBjY2E0ZDhlIiwicHJvZmlsZU5hbWUiOiJDaGVja2lkb2lzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNThlNjYxN2NlZmU1MmVlYWNiOWQzZjdmNDI0ZDUyZTRhZTFiOGU4Zjc3NWMwYmZkNjA0NWM5OTM4Nzg1MWFiIn19fQ==",
+      "signature": "XxZWGvG15GfiSRSSufAypBusCw5wv7QGYdSg7UmQ6R5Xiwcj1lRDUiBIGN80elRKHsq8gK1UmMLymF6DCB0iWcl5uGDLJYyyCE5dSqyOKd+NLCeUWxvWPtCw8ZA5b9AeOdhSs0hTlKINBGuYRcUwxXR6n0UST93pQAO2udKEvtw01olqUC6gAhlBERsP5NoXjsmH0bEBeLAqv5EUaMRnbI7gMSo4aSnherU4gKK25Ox/LBAalJlojA0oiHA9D2KAkylMEtKNkBnuDrTF2tvqjxc6iZYFz09cwjE1SbdftNDp+wZpDMAnu/vMtI/4xypXYu86HohOLXsLRpgcstmXwkqFNSzbr84zDl/mf1wnjqxo4EqHSpeLuU0160Ax/tatjTFXgbZgW1Z6UUorB71Pw1yyD/ZR5CdVt+8O77rN1RLtEuim6/vOAR35u+AAjOMWYEll23P2LCE7I5pw4fcaXqSnwyZBRllNuIwf/kDLI/5RfwQvxjBYSpMc+izvpJQ1LdZ9unWo99rfR0o8HxCD62zTLUlWzPpcOrw4qlbVyBaUkdMKiV6zK1ofJLZYvYfw2n/8Nd0QSrq4g9ROdEQUDiibLM46/oawlboaHA0EetEkr3TAMQozXclfqVUOLjiKiCXSVAoBTj+RiucD7N9EDc83qS1/kvrJxQz/0/2U9dQ="
+    },
+    "name": "Iron Minion VII",
+    "tier": "RARE",
+    "generator_tier": 7,
+    "generator": "IRON"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "IRON_GENERATOR_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "IRON_GENERATOR_6",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

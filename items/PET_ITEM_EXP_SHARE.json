@@ -1,0 +1,64 @@
+{
+  "internalId": "PET_ITEM_EXP_SHARE",
+  "name": "Exp Share",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7While equipped in an Exp Share slot\n&7this pet gains &a+15% &7Exp Share rate.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5&lEPIC PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_EXP_SHARE",
+    "material": "YELLOW_FLOWER",
+    "name": "Exp Share",
+    "category": "PET_ITEM",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PET_ITEM_EXP_SHARE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 12
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 12
+        },
+        "5": {
+          "itemId": "PET_ITEM_EXP_SHARE_DROP",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 12
+        },
+        "7": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 12
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 12
+        },
+        "9": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 12
+        }
+      }
+    }
+  ]
+}

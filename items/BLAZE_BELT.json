@@ -1,0 +1,321 @@
+{
+  "internalId": "BLAZE_BELT",
+  "name": "Blaze Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9265,
+  "lore": "&7Strength: &c+7\n&7Defense: &a+7\n\n&6Ability: Blazing Palisade \n&7Gain a &a10% &7chance to reflect\n&7&cFireballs&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLAZE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ5NTQ3Mzg4OCwKICAicHJvZmlsZUlkIiA6ICIzYjA1NTdlYmVmYjc0MDdmYmFmMjVhN2IyNzYwZTZlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcl9JY2VTcGlrZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjA0ZTU4NTdiY2I0NTNjZTlkZThmYWQxYWQ4YzAwMjJhZDU2MjJlMjcyZTQxY2Q1YWM4OTBlMWZiOTg5N2RmYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "Uqx2ZaKM8EMe2/cvmoVfAsanxCFqUW0juvEftCQ7iXazRCCAcQyRiMxSZk991zrGoVi8pL/b4uWCBzgsnfZqmfRTYC8KQ0cFA1C1mrtRRG7jjPAyPNoQbsjC0azJxSGaa852/n+/hOEphuL83pmcByMjwPSYWKfZzrYC8a23Ji2XADS7Gk25MRsspT9GpWs0uI7ffz5hpgyyhuzRAPC41ILfrphPMOjE4xVf3ulkAo93u515d+ZgQQJsRWc1U5oL0QUvv8IbPMDTQBd8Bb1mLj9koRxpZz8Q/JoVpuHTA7wuriP7y1CamsVe1xiVwNArsRjfqFTUOJRlcO+ZzgKMA2FBL+v/rmv5QyfagpLYQsGwTcdZtafVPTJ1c16CFXJX2bx57ioq/Mqn+rJadsa+acmUeGucc7AVNa5XUlvdiFgB8HV5u5gk2+P3+Gck7I3zZFzW73otiuQ3+DSAuld6Wwt2bIcNlk80H35ZCSrtlH9iatTaR95YqgxZ9RmGsDRIPwLaGZYeN65KgtBE7TJEP8M8cBK3YbP1XkV3kOkaMBtcsX0F7xRc+Jb2bTU9q1QbZGNSkGW/tYqbIIf3OTLqbJkN8Q1BGOw7jYdZa74qqRPU6LmqU0WPLzpHHFHY8RDsXyeX1nCM4QfGi7Nm0mnXOwzkFmEnGlHDMmr7lUMGFAs="
+    },
+    "name": "Blaze Belt",
+    "category": "BELT",
+    "tier": "RARE",
+    "npc_sell_price": 9265,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "BLAZE": "FROZEN_BLAZE"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BLAZE": 7,
+        "CRIMSON_HUNTER": 4
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "DEFENSE": 7,
+      "STRENGTH": 7
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 6
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 120
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 8
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 180
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 260
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 12
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 360
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 480
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 620
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ASHES",
+          "amount": 780
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MUTATED_BLAZE_ASHES",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEZOS",
+          "amount": 30
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 25
+        },
+        "9": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

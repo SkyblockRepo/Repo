@@ -1,0 +1,62 @@
+{
+  "internalId": "SCULPTORS_AXE",
+  "name": "Sculptor's Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 64,
+  "lore": "&7Right-click on any log on your island\n&7to turn it into a 6 sided log!\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SCULPTORS_AXE",
+    "material": "STONE_AXE",
+    "name": "Sculptor's Axe",
+    "category": "AXE",
+    "npc_sell_price": 64,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "STARTER"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCULPTORS_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "LOG:2",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "LOG:2",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LOG:2",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

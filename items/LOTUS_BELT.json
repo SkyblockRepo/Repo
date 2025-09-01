@@ -1,0 +1,57 @@
+{
+  "internalId": "LOTUS_BELT",
+  "name": "Lotus Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Health: &a+10\n&7Farming Fortune: &a+5\n\n&6Piece Bonus: Salesperson\n&7Complete &aGarden Visitor Offers &7to\n&7gain &6☘ Farming Fortune&7.\n\n&7Piece Bonus: &6+0☘\n&7Next Upgrade: &6+1☘ &8(&a0&7/&c1&8)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aGarden Level 3&c.\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&9&lRARE BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LOTUS_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjUwMjg0NTQyNiwKICAicHJvZmlsZUlkIiA6ICJmMTdkOWJlZmM2NGM0YzA4ODVhYWU3NWQ0YjhiNWE0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaXJCYW5kZXJzbmF0Y2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNlOGQxOWIwMTYzZDFlYWRkZTU2MzM3NzM5NGIwNWRlNjM0MjdjNmUzZjhhOTQ5ZTBkZmEzMmJiMjBkN2YyZCIKICAgIH0KICB9Cn0=",
+      "signature": "d021FDu+FkHMio8zZuFphjYClLqeb7r4l00GycTxzP2K4rcSYHL2MQ1JeVQ86G7tAlsUYGNsBgJc3RHeK0/fxbUxTskEz6+6jChvj7WCKO1jWt2WluCJ+YUYhO+FsK6WjMXjsCXdzTl8tqSxgjuvTalVRDjfekaLXYYZh1b4lm6rj6VddLg8bTyWzpalKXQmubeRe6/yUHySSjY183J01w0/u5kzANpvHUc8mJRqXUKsTmLm5zpx+luX7YgHOg1KwIGHOMcYpl1EuVM9hNvsvpZ2gJbyO+g5xKKy+CSXLX96YdauuMX1PmUGCtsZLtyw/8n3ZQ+Wf7Dsa7Z9LRW+DD38TwkYTRNL/rgwWPOi8huZ0rfbbuQg351Rj/JbtTBTfmqSTwb85WRDAVgsH9v00Z/Hr4g8olW9pjbuHeTVicqt6A8asRNHhhtAn7T9dlc2YbkEbVh8nrJK9nOKAhNYsLaN+9Te4aDbPYGLlZVstzPgy5TKT5pMHuS2AIdf+iNH9AE5fB10kQj2J4S/W3M6oz0OcT6L6QSRea4AVDg41RhF9E+Pv2zYLQEw8UgpYlDkbufgKo3dD9eLokA1RE1to0mEl3fAk0n2dqAEVgP0uHhYlcvwIXPUn4Gw1VJDGjk3RWIWckwLdjAQduRTgq4bdCAuDQxyon56QNyw1fgRThA="
+    },
+    "name": "Lotus Belt",
+    "category": "BELT",
+    "tier": "RARE",
+    "npc_sell_price": 100,
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 3
+      },
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "LOTUS": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 10,
+      "FARMING_FORTUNE": 5
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": []
+}

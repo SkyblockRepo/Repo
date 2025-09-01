@@ -1,0 +1,84 @@
+{
+  "internalId": "MEDIUM_FISHING_NET",
+  "name": "Medium Fishing Net",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7Pull: &a+25\n\n&6Ability: Yoink  &e&lRIGHT CLICK&r\n&7Throw your fishing net at swimming\n&7fish to catch them!\n&8Mana Cost: &310\n&8Cooldown: &a0.5s\n\n&7Throw Distance: &a+50%\n\n&9&lRARE FISHING NET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_FISHING_NET",
+    "material": "WEB",
+    "name": "Medium Fishing Net",
+    "category": "FISHING_NET",
+    "tier": "RARE",
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "MEDIUM_FISHING_NET": "TURBO_FISHING_NET"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "pull": 25
+    },
+    "has_uuid": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_FISHING_NET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLEXBONE",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "FLEXBONE",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "BASIC_FISHING_NET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "STURDY_BONE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "STURDY_BONE",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

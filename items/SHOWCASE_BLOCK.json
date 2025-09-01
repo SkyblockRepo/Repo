@@ -1,0 +1,34 @@
+{
+  "internalId": "SHOWCASE_BLOCK",
+  "name": "Showcase Block",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Show off an item in this fancy glass\n&7display box! &e&lRIGHT CLICK &r&7to put in\n&7or swap an item.\n\n&7&4❣ &cRequires &aSocial Skill 10&c.\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHOWCASE_BLOCK",
+    "material": "GLASS",
+    "name": "Showcase Block",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "SOCIAL",
+        "level": 10
+      }
+    ],
+    "has_uuid": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,72 @@
+{
+  "internalId": "MINION_EXPANDER",
+  "name": "Minion Expander",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4000,
+  "lore": "&7This item can be used as a minion\n&7upgrade. Increases the effective\n&7radius of the minion by &a1 &7extra block.\n\n&7Increases the speed of your minion\n&7by &a5%&7.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MINION_EXPANDER",
+    "material": "COMMAND",
+    "name": "Minion Expander",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 4000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MINION_EXPANDER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "ENCHANTED_REDSTONE",
+          "quantity": 2
+        },
+        "6": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_QUARTZ",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

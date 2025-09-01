@@ -1,0 +1,61 @@
+{
+  "internalId": "HARD_STONE_GENERATOR_10",
+  "name": "Hard Stone Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining Hard Stone!\n&7Requires an open area to place\n&7Hard Stone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a8s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HARD_STONE_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTExMjY0OTI4MiwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVjMmUzZmY2ZDEzMTQ0MDIxMWRmZGZmNzZhZDE1MDA3YmM5MTI0M2E4MzU5ZDZhNjdiNzg0ZTM3ZjkwMGQ3ZjAiCiAgICB9CiAgfQp9",
+      "signature": "IJCtphUaaD58yMxHT+UXvkSTOVbKofyBcyJwygrgOKAHCXsHe+6iW23aEq2/wrRoGWWqgeNH9VVm0bgK+4/pudZ4NQ+Qcoc6civpdeqGWPx+9OFmghRUanf33NrVJeliXCKwJ1Big46LI8HwF1KT6CP41vtFghFjSsoPZjYPj2V/eAe5yP5yngdCjhn8FDr1s2USmkivBDve2HL7joNaDbeuWnPFFbu5Zrbo6ZU1jhRwTl3A7VVmFRTfbc+Pc71yfTVNrIByXDoBFKzS8Fkp8aMhg7H5166XFIm3Ck0y6K6/JOWHPRYVCGQVvRDDv9BDqTAgoyDGrhpWceWgT5mMIqPX2+51Nu2nsn+oZbSn6ltU99lBea7m011Rm7AsVaXn3c6Gv7vXYc6GqQjCjc06sYr7R9YkXV81xI7cFw7KnCy3Nk6mLfT2y7zghmJjxyQnGb7S1Z7mCIQzpkzNYLey7/Jq7Jtb7V7KnrpjaeB7TcnXXs0zNUDPua0jIgQdZNU+2If+YdoDntXq//dYKLOIG486ibQejEkfTVpbA60pHyTl6x6TC5hYTLlZ2E6ItpPpK0TKGxOJ1eexqFNx7gt0Wdi20+SeijdRGXp9ar3GcjAQFYYuXxR0n1GveMwTt4TQB5FvJ2Gf8TrLCKbodzS9tTS7adsM87wxYp/JtHp4j8g="
+    },
+    "name": "Hard Stone Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "HARD_STONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HARD_STONE_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HARD_STONE_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CONCENTRATED_STONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

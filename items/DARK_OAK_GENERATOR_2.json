@@ -1,0 +1,77 @@
+{
+  "internalId": "DARK_OAK_GENERATOR_2",
+  "name": "Dark Oak Minion II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and chopping dark oak\n&7logs! Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a48s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_OAK_GENERATOR_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzUxODMyNjksInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyNTg2MGNjMTQyM2FiMDEwY2YxNzY5N2IyODhmZGQzZjVjYjcyNWVhOWFiM2U4OGE0OTlkYzE5MzgxMDRiMDIifX19",
+      "signature": "JN7zXEGSRuSWvzwi64076cXOdVEC4ZSbZn7aa2ILddWMvjJUp7Xo1SubZBXoOhzadZLp1mgnMahxM69/iK8cLO0Cj8NAQcZkDr263cGrVdBbqDGannCZT/hrNGYp+pI41A9z450wwY6dKtjQz59Lj591GmMfbrAf63oixtnoXxYnoTUu0qBalnE5HLGkXRdDEfBu+q2g8ZnpGpEB8J3Unx9dyFVQBkJyQ7BV8X5iFveHIaJSQmNvsTG+tWSNO/miUuDf3aBCWWh4oMqNeJ3OwotinVWoI6044KofoZTB8UBNAS9fT3L96wzbxTQXDUsNDOAiXGHxOZe8HtaPqE0lGS8P3DSUpgeCdnIL0VZ5DxnegpHU7wYC3M01/5UK6lfxN8pZO0lKKs/anOmM2bQMMRq3yfaPTO+Lz0YdkoQ2FN65wuWg0LK9/jJ75shHeNEL6x7vr6gFieyLZV+T5Tdgtd7w/DxVA0fRKUa/QpMcm9ZtNji92crAag2MZ/RtoU7pSgZL3yBgR71E9LnbWoHxvkTZMCRJ1nRWC/eQWE1UodqGSojUGiYCgPVXcMG5nG6Vz12pyej2kvx+EuuvJjQ/JdNpQKN2QVyEa9/RQ7pBc7XZX8wVywg9wlhcMFACFzm2kx0g0nze0UZHw2K6tsCM9PFW45tsy936rcJo+XWVDBY="
+    },
+    "name": "Dark Oak Minion II",
+    "tier": "RARE",
+    "generator_tier": 2,
+    "generator": "DARK_OAK"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DARK_OAK_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "DARK_OAK_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "LOG_2:1",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "internalId": "REAPER_GEM",
+  "name": "Reaper Gem",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Gain &c8⫽ Ferocity &7for &a5s &7on kill.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&6&lLEGENDARY PET ITEM&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "REAPER_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzg1MjU5NjMwNCwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmIwNTVjODEwYmRkZmQxNjI2NGVjOGQ0MzljNDMyODNlMzViY2E3MWE1MDk4M2UxNWUzNjRjZDhhYjdjNjY4ZiIKICAgIH0KICB9Cn0=",
+      "signature": "VANetSOoyPYkbAXV6af7QcCAdB0jf+pLdRJsVlKwfBYggx3aunNrQ/AHVkjX1wsl+Dec3PBLLW+0f44HJwXUKz/pkoGIvsTczIEQqzN91I6vC7j8hd95DBWKqwtcAPO1yu7xcuy8+ah42YJs240404TVZW0CH09E9Wxql643XDgeheKbjcCAQfd6+kVB182PLSE0BYIsXkhwwbGcHhCxwMefqXssUsC4THeAEL16p2aMvt1V1s42y1ceq//cH900mHpKYFBilQ4YrWTQJ1u21tPd2F5qqOaoRr8k1ULM437YlFhr6dL4BPTjDyc8QWaN+RTZYwCylWr8y5SCei6GGxAXhYmuPn76u4iBW55Zw13bB9w/7ZXpK7xvuF1/pYxx49uvBz8Pl40l0YZyKDeNV17jBdSTRxuW/dB/YZRLMc/xEoDxp8nfELYIXSHRD9j3dvLN9Inn/6viGLcHd37RMYz7GK22/rEr+0k8Lkc478h/uJ29I/Cmox7cQMNr2Ji4wwQ1s43+/abw5rVqUjP3NTQGuxRCSFUFCaW+iQ5tc/gka2wUrFldcPeGWYIXeyrZFTa81N6fQB0pRYG3qigP9QVLVDjkcBCwdIBKG3pbhrjj5X+yiXi6EJAyfv7nCD4UJDPWgOF4P8Z2uCLdMxBFvUUb/BYTi/AA87o7iA+bSis="
+    },
+    "name": "Reaper Gem",
+    "category": "PET_ITEM",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

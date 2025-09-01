@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_WITHER",
+  "name": "DarkWither Skeleton",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Wither Skeleton pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_WITHER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjY4OTM3ODY2MCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyNGMyZDE0YTAyMTlhZjVjY2ZjYWEzNmU4YTMzM2UyNzE3MjRlZDYxMjc2NjExZjk1MjllMTZjMTAyNzNhMGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "f5Jxb9O9j0ES3K2XyfctKzlljYHMx24MWNxBijlT77qr5eDp4ldfE7YREsKVnfQImps+flrf2/MjyHZGmxDXZHlLz4G7fsMTef28Xsu3WCWOpJMDfbUgRSzB8sryGojySELYjodS6xm+GzFVlclyuhaVk7ebtDhTT/yCZD8j2m53H3swxHaoi6FcXIgWQ5d4XetdFqOhMvZiv7XhAiYF2k9S8YhMuItGeLxhs+Z2WOKE2op6MVMTfWZkq/D6l7jN/rHA9sxkr8vYv6/QIDfcdLXtAh9ZgCA1WJAnm69/4uHJ8gY+GGI506eTQxBjGuaoIXeH5SLIBvHE5gl7Vi5GdIjV/RoYHRVMNT/Gd7R5BgDmFwU2/s+WaPvPXw4iaMK8BmLwk/uKLgUenhjWfD2bUtIA7LtAmpbWimqv5M/9SIY+TwLhZwsHWOiDSZNamj/kRYjNDrBXzuvbJG/Ia79QLrBi3nagnE52rEfwonACMrbvBxDrTT8CLYE+YMNpRJBnhRo5dYf2yDqs01zkc6JsOfggsGOmkNI9RM7eSVVp1+HzJftzU+Vlx8LR0u2qJ079WFRc8C/HpiERgR7MhrfOkRVfAg5heTeqj92AdDkkFj49nDKzqyBpWGITdzxRglJQG93KjZIomgakmYXhL6sK9fXyJLjMVJmnOwlGCGC3zZQ="
+    },
+    "name": "DarkWither Skeleton",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

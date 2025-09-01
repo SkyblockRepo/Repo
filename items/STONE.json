@@ -1,0 +1,25 @@
+{
+  "internalId": "STONE",
+  "name": "Stone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STONE",
+    "material": "STONE",
+    "name": "Stone",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

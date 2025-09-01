@@ -1,0 +1,74 @@
+{
+  "internalId": "THUNDERBOLT_NECKLACE",
+  "name": "Thunderbolt Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 75000,
+  "lore": "&7Sea Creature Chance: &c+1.5%\n&7Health: &a+40\n&7Defense: &a+30\n\n&8Tiered Bonus: Static Charge (0/5)\n&7Gains &c1&7 static charge every &e30&7\n&7seconds.\n&7Hitting a target will cause a\n&7discharge, adding &a15%&7 damage to that\n&7hit for each charge collected.\n&7\n&7Maximum Charge Capacity: &c2\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a5% &7and\n&7damage dealt is increased by &c1.1x\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 36&c.\n&5&lEPIC NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THUNDERBOLT_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODY5MjYyMywKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZWVkM2IwOGZhMzQ5ODJiYzNmYWFhOTkzNjk0MWI2Y2QwMGFiZDM3MTczZWU2N2IzY2UzYjllMThiZmNhNmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "R97wds8zinBU9iA2FKdYHlECJ7q3aVqfJJhseuiJCwUkLiK/rtA7K3w15kT7/7ftZLft1lBEbHeNcCBOUrznvZTJek4zwHEDO4DA/l7qUvy/CITTSTalYZh++ZWVe/e3eus+pzAskM2GHn2SGKkZsxUYJJc8lqELu1xHfjYBQe9dG6VMYjEc3rjXDaaHxeSC7Mgw6ZL0TZaObtwUjOEbW6lk1Hylbt+S9LgGkfUCLXfyPtA/oMSqqshRomW8BEWFDXG06zwiAvUzN9xv+BldaMxwGD0ZvOj8Sfyj4D3An4pNZj2TVmyc5d/Rz6E52pVgR/S1xTn7rSAVtG3vIHXOJt1ovT5qiEzJhRfR5AK/o7QLA0uiaI0940t7ztXzujry0/nqX+FJtCXsgDeyyfW7xoEmu/Fy70ljdJyJ54qPFQ8IDsRLxtDNiJynj14uNNsQCbCdOwmB0h3d3m/M7Wm4uJ6SqHqlJAqej/ptKREnlOa/LmhlYcyTZMNoBM4zZHU+hTEqyLqpKE7Kdexc6P/23j+pwj8BdxucVVfEhcY01yjNo+ZZo/6L9r0cJzptCKrxG1WcQXJfxTTmH/tpJG6PGHFuy09AqvBx2AavPQfrFlijb4LmIhGw26AIG2Hqro3whsUsN5FBTaFuYyFy+/cM0Z7bUqeiwuIMXrQGjJbWIRU="
+    },
+    "name": "Thunderbolt Necklace",
+    "category": "NECKLACE",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 75000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 36
+      }
+    ],
+    "stats": {
+      "HEALTH": 40,
+      "DEFENSE": 30,
+      "SEA_CREATURE_CHANCE": 1.5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "THUNDERBOLT_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "THUNDER_SHARDS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "THUNDER_SHARDS",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "THUNDER_SHARDS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "THUNDER_SHARDS",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "THUNDER_SHARDS",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "SINFUL_DICE",
+  "name": "Sinful Dice",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "\n&8Snake eyes!\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SINFUL_DICE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNjQ2Mjg4MDI0MywKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMyZGVkMWI1YmQ3ZTBhNTIwNTBhYTZlY2E0NjU4ZmQ4YmI5ZDQ4YzNiYzUwYTAwOTk0NjQzYjEyOGEyM2RlMyIKICAgIH0KICB9Cn0=",
+      "signature": "RrEHzS0aW1Haw2avg5pAur5EmaA+cF8bTJRuDi0/zpcccY4mE2YoPCOoJ2FGhfJEvhSnqXJxXEV9qnVcHK9QupYns0UmLp5NQIYf2Q5GihIJEksmGOg6ZT4ES+/Car7UOfzgD/1UKQEZkkcqvRgQ/c1xUH1w7FOVLu9OUPREXVK2M0/YzRCj+6AIBmi0lvyh33lhBw+3OaVAPRAojxIxNvNEWbN91N3NEktrNOPQa6qBtCFXpcEIO4xsHXqgsOJAdKns2hKijh+QJQl03l6vSFWchB+PAL7RCwcx/a0kwIE5nm/05L+/UArLRbmpaEvT2CEqEKge+6mItNwyPCeHd79uwf4Nyu+6Lj6zP3zgey+X3Ymi/xh96WDclwlohmAMdyutekpXm8fKfxb8dz6zFXDjcHXcKaYs14kQISHuNcVjZIYBeRgqZM3fE6ObT9xwNJj+Sl1LR4QbgV4wtztNZxAcN9vUF39YcbBLWJdK7Xh2fH+QCHgiRzGJAKrO3fZTUSLPw2N3JYNzhxQyiYWKXRHakSuONtnLyGpPmX40aY7fMFD0QyBlRxkwGPeJ3NGtdCWPMbRD/hBgJjdsR91NEXvqIgg/Knvku6OZCgR02YwlDt/tj1FSnu0wbDKaUQr5G/MrXgg9FCBi+VVHLYJdHoU4rBI9epdDuhWo4/aGK3c="
+    },
+    "name": "Sinful Dice",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

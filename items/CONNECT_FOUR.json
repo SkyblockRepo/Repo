@@ -1,0 +1,37 @@
+{
+  "internalId": "CONNECT_FOUR",
+  "name": "Four in a Row",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Click another player to initiate a\n&7game of Four in a Row!\n\n&7&4❣ &cRequires &aSocial Skill 7&c.\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CONNECT_FOUR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNzQ3ODMxNDYzOCwKICAicHJvZmlsZUlkIiA6ICI2MTZiODhkNDMwNzM0ZTM3OWM3NDc1ODdlZTJkNzlmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWxseUZpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjM4OGYxNTk1NzQwNDBmNmRlMDc5YTUyZDk1MjI3NmQ4ODgwZjU4MWZkZTg0NjgzODRlYzc0MTY2ZmU5YWQiCiAgICB9CiAgfQp9",
+      "signature": "bl+LFn/zFaxF3CraMs1J6TT+EhkldbCb2TvvhKMiJ3dA5Vp7lLDgsxmeuyArbeYHNbW4A7UcZ+4sH9ZIPrO9GtYqhiCwteIIALNKCNRyS8KwqyvmQQ5ZU4qoaIus2Xrdizog9V89nglbxtYVwjhjEUJSb1c6asqJ3xLgRbi3m3fzkdQuPanQWSuNDiWAf4RYafULoD3cupaNu4jDlpDSs161gbFjHLBt5oACP1CdeDTdAtS8WVusbDP/Xj7qwc9Hwy5XM7A+CcuP7yPKLgK84ipSkmuUSvkixsk2lDshcC9FlvHgafTAUx6vgQRm0hQrQQJJdurfiJBtYnmF1/bxq3S+1S2Es05c7Ziqc+ZvalBycANbcCQiMGuT1U3VtXUQXpQJ7aUtsSjqWL1b3nC1wuzq7IyfEV6jUD7Q+Bd+wcfjRyCV29dZe9wonz2ZkE+FsJaHU0qEu076+gZqXK0FKBx2PKpjSUt8u79xObifk/M9WcJVkCLmDHE01us1bx7HESDMAEt/8oQZIzwkFVFNQx+lHal0lh5j0BbTC0EVRnmO+5SXweqay+TXG4+PJFl4kzSOUyVixw1zyytZI0QTpe0jgMRYMeN6CN3qx8fi9CDm+3/YJiqhgcmCW/TEqYwGcr+UlbFt1yldREawpYWGPYwyhOWzcdeKvXe/3VMjyZc="
+    },
+    "name": "Four in a Row",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "SOCIAL",
+        "level": 7
+      }
+    ]
+  },
+  "recipes": []
+}

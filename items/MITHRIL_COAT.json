@@ -1,0 +1,79 @@
+{
+  "internalId": "MITHRIL_COAT",
+  "name": "Mithril Coat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25000,
+  "lore": "&7Defense: &a+125\n&7Speed: &a+15\n\n&6Ability: Mithril's Protection \n&7&7Any damage taken is max &a40% &7of the wearer's\n&7&c❤ Health&7. Gain &cRegeneration &7when this ability\n&7activates.\n\n&7&8This item can be reforged!\n&5&lEPIC CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITHRIL_COAT",
+    "material": "CHAINMAIL_CHESTPLATE",
+    "name": "Mithril Coat",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 25000,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DEFENSE": 125,
+      "WALK_SPEED": 15
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MITHRIL_COAT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

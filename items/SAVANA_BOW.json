@@ -1,0 +1,102 @@
+{
+  "internalId": "SAVANA_BOW",
+  "name": "Savanna Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Damage: &c+50\n\n&7All damage dealt with this bow is\n&7&adoubled&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAVANA_BOW",
+    "material": "BOW",
+    "name": "Savanna Bow",
+    "category": "BOW",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 500,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SAVANA_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SAVANA_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "internalId": "ANNI_PODIUM_MEMORY_SECOND",
+  "name": "10th Anniversary Podium",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8&6Favorite Memory\n&8&e2nd Place\n\n&7This item was awarded as part of the\n&7&6Hypixel 10th Anniversary &7Social\n&7Media contest for Favorite Memory.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANNI_PODIUM_MEMORY_SECOND",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTg1MTQ2MywKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzIyYmE1OWUxMDhlOGI0MGJmYzdiNjYxZTI5ZjMyNDBhMWU1NTI4OTY1MzFmM2YyZDNjYzZjYzliZWNlODk2IgogICAgfQogIH0KfQ==",
+      "signature": "tx16agINRGQ1YCjzpBIYkENqXCCPZbeS39msx8uBWSeisl2QTPOcce9x+T/DqW743rHBLO5znBvAMh7rgETsgpV22QiUrrheOdKmXnhtlyvTq6/UYh0rROGVqpKRzY8F9cPZWDMLHjmQJfOnCL0Mh/nESXaEIp4kHi7pOdj3xnbKIu7i4f42rfmhRTfVxkLTKG4XrYldT3yoaLU93usMvUKqdr4kyVR2pZLcx+OnL2cZh4ni1KB8BdND6r6daHd3xMROApfXlVmbm/pLx9vGFiOPPKPWdlBmpu5/ch9ieLH2DOKjpwaUDT2WmUmBC2pUo+dTLR8+h3ljfj0GemGiOgpM5ZyK/n+UpWTGwKLW3NiK/cQmBSk46XUpVFNkpJB9hpiT3sInFdD/HyhD586A3P6UNe/gZbBma4PUdfLxqKJLpnUcKNfyvsEHcIADDWAKxnr2T87GPoTgIdFaIqI43hM2ZxdljZT8AMCoc8t8t/h15c0KJcWrC5Ih7SqYW7rXtZyM7VE3Ra7Krr/cUU21qLlwT9ZiOjDEGADoOxFtMoWAGQKMvNdcnGI4sHWycdMW0ZbEbzcy1zb9Wn/QzgDAKFwfIl3DPncOLb4DQO0pRDRjyLvdtRUbzBFGMhEMrzyVUo5bn+A6ZkQInf9w610v9H5vOmw8JaFrRnCO4bw6f7s="
+    },
+    "name": "10th Anniversary Podium",
+    "tier": "EPIC",
+    "unstackable": true,
+    "furniture": "ANNI_PODIUM_MEMORY_SECOND",
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

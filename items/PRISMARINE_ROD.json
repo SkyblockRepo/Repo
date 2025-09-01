@@ -1,0 +1,67 @@
+{
+  "internalId": "PRISMARINE_ROD",
+  "name": "Prismarine Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Damage: &c+15\n&7Strength: &c+10\n&7Fishing Speed: &a+15\n\n&7&cThis rod is broken and cannot be\n&cused to fish.\n\n&7Bring it to &2Roddy &7in the &2Backwater\n&2Bayou &7to convert it into a &anew rod&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 3&c.\n&f&lCOMMON FISHING ROD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRISMARINE_ROD",
+    "material": "FISHING_ROD",
+    "name": "Prismarine Rod",
+    "category": "FISHING_ROD",
+    "npc_sell_price": 10,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 3
+      }
+    ],
+    "stats": {
+      "damage": 15,
+      "strength": 10,
+      "fishing_speed": 15
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRISMARINE_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

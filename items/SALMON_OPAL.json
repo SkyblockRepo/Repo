@@ -1,0 +1,32 @@
+{
+  "internalId": "SALMON_OPAL",
+  "name": "Kaleidoscopic Mineral",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Headstrong &7reforge\n&7when combined with a bow&7.\n\n&7https://en.wikipedia.org/wiki/Opal.\n\n&9Headstrong &7(&6Legendary&7):\n&7Strength: &c+23\n&7Crit Chance: &c+15%\n&7Crit Damage: &c+42%\n\n&9Headstrong Bonus\n&7Deal &a+8% &7extra damage when arrows\n&7hit the head of a mob.\n\n&7Requires &aMining Skill Level XV&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SALMON_OPAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDc4MzgwNzYyMCwKICAicHJvZmlsZUlkIiA6ICIwNTVhOTk2NTk2M2E0YjRmOGMwMjRmMTJmNDFkMmNmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVWb3hlbGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVmNTI0MTY2ZjdjZTg4YTUzNzE1ODc2NmExYzUxMWUzMjJhOTNhNWUxMWRiZjMwZmE2ZTg1ZTc4ZGE4NjFkOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "UxTaZT+VEdWrzAW4hVJ3zfxZJM5VuhvowtJVrIXJcq4BuGryoZRwRggFKkq5twjUI9uvHvIKbqYQBCIerAXC4D2md/IipiV5AYZlDJS9pVL17L9hqJG0wDspkq4YE4+L3bY3R/+qvxhgEd69HHsWyFTwZduoaWXQxqDj4v6qYmc4GTpjrpNmbkSuvbCUKWTTtpg269v9v2UIJcmqiGCJPs8XNjm0nmyu6nmFSZ5PVNNWkZYllyfMmt+oG5QrjGzs8HIKPWZ2VyPh28ouDARu+flidKW17Iy0tZMQ1RJNEZmv2xa2Fk69z1gkENWt6O8Tapfig1W0DX+b/EXedpiySnLjP512hmGMpkVfoKfAORv8TwH5U09uzMm4z9KvPAARWZldrNsgDu6pMmdFPw02kZLOkTeh7UeBP7KhB143hJM2jBSqPe0+0zBPTHi67OmEmUfpJdUMfrZ5840m8t4BpqiVrDq/a3jZOXb297UZEUvKDZxxnckmrPBHrV0km63ZNCaX2et4OVic8JyD0svKrG7rUKjitqxfPXD/6p0BTYpZVtEZV40Z9IFqeGZ/RxXLofEvMSUjYcPHi1xDXNkkv07E2BelHrgx7Qvj3cGYazW0MAf0ZQaLJHn+CaZOxxhgh90sx/TJ8D6yNdzoIKEK5g8filrmH12EXutCOUxtNhg="
+    },
+    "name": "Kaleidoscopic Mineral",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 2000
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "FLINT_AND_STEEL",
+  "name": "Flint and Steel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 7,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLINT_AND_STEEL",
+    "material": "FLINT_AND_STEEL",
+    "name": "Flint and Steel",
+    "npc_sell_price": 7
+  },
+  "recipes": []
+}

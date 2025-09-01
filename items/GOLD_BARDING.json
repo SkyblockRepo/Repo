@@ -1,0 +1,27 @@
+{
+  "internalId": "GOLD_BARDING",
+  "name": "Gold Horse Armor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 750,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_BARDING",
+    "material": "GOLD_BARDING",
+    "name": "Gold Horse Armor",
+    "tier": "EPIC",
+    "npc_sell_price": 750,
+    "museum": true
+  },
+  "recipes": []
+}

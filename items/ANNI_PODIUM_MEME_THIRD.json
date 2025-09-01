@@ -1,0 +1,33 @@
+{
+  "internalId": "ANNI_PODIUM_MEME_THIRD",
+  "name": "10th Anniversary Podium",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8&6Best Meme\n&8&e3rd Place\n\n&7This item was awarded as part of the\n&7&6Hypixel 10th Anniversary &7Social\n&7Media contest for Best Meme.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANNI_PODIUM_MEME_THIRD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTgzMTY2MSwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJkZDJmMTE1OWRmNWRlZjQ5YmVmMWJiYzIzMWMwMmM5YmYxYmJhYWMxMWUzY2U2NGUzM2Q4OGNjNmQ2YWE3ZiIKICAgIH0KICB9Cn0=",
+      "signature": "GuwvovFGEkVrEE8Y7IP1YQU7ll5a2fl4pV+lC/+lp6Lpn4egLBBW1Kl1U+BkOjhuXoFSsKLXbedKVUk7gCKPO5L9PO1YK8fcrP9WBYg5FITKwEC2GclZH+j1jz9SoLNIhdbi+i+YS5/xYfNjsKn9bHSJ8HdihzAcjm257PdVkFeV9WX+DQwqsbzBUvE+jbT4iJKTC7Wdvx0NEGehfKBoL0RtDrETtVFGwVZ2YG/TBlWcoJLptVOpPxD3ba9mnGkFUGqh0tj5BmEeJ/d13g4W0ZjOUiwjo0HOSS83WFwVEnTrqaPs5TwuYPr1WtrIA1BhXbMKVOGP8FwtmFYgVsvP81c9mcnOLwfxUmmkZ4JS8UlY7azVuvhF1BD62/06hWZdmH+z7aWld6b2Tk/tO8WTTeb4ayiN0iISsJKN1ef57uV9P+p+R1j7ALL4nhDeaP1UWmspMQvf+X9y92PXDmO711Ff2zVhWEdo3v+WcvXb+l2u1/6i3v5KuPfR9+G1GIJIq3hVIYFr2u08L+Kpa3ag9DhQ2chhoStgNZ1qrzeT9NiT9OwyYC7/HaU4WCaJqoSMNXx6RMUlfqs75XGXnBv32gfSV84UQ8aflqU/kV4v8oqpLbZO5tsdXb+BPU/JiHp/ui2bx4EnMaFzvT2q5oUfWZROGHZSKp1fb5F44nG9VfU="
+    },
+    "name": "10th Anniversary Podium",
+    "tier": "EPIC",
+    "unstackable": true,
+    "furniture": "ANNI_PODIUM_MEME_THIRD",
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

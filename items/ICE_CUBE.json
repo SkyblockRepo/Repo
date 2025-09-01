@@ -1,0 +1,70 @@
+{
+  "internalId": "ICE_CUBE",
+  "name": "Ice Cube",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Prevents all ice from melting on your\n&7private island.\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ICE_CUBE",
+    "material": "PACKED_ICE",
+    "name": "Ice Cube",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ICE_CUBE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PACKED_ICE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_ICE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

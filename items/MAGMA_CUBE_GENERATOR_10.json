@@ -1,0 +1,77 @@
+{
+  "internalId": "MAGMA_CUBE_GENERATOR_10",
+  "name": "Magma Cube Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Magma Cubes!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a22s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGMA_CUBE_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5Mzc2NjQ5NDEsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U5ZTY3YzM4NjBjYzFkMzZjYjQ5MzBlMGFlMDQ4OGM2NGFiYzRlOTEwYjQyMjRkYzkxNjBkMjczYzNhZjBiYmEifX19",
+      "signature": "qT5eOXSD7w+wjuq8BEmt59dT8LhKx6m5fE8MSTkJn2SqdauY1kdUAkOkAINv4AkPRgf7/AHXvL8msAEV1QFGxBo8m00aK64GRgVOx8ax5Cp1V2i+CGjgX2kEc7BksRXTaHZm891zTFCR+Rtov1Pvs/C3uVk2hXS9a5ZrY41ks2ma9ZuEqrtVb9I+MEcRsE5V/R/M6HaMHI3anGQJ1HZOHICQfaot9udwrQqPUNiNMl0jhaKPt7LQl1gH5798oSmdXnzpPX0vNyPHf8XonGBMXAwS1xKJ/71LuPKdYPXHj4KzlP91Kf2bYPVy7xiL71wEn7lKRbELrQPBU7SmYm5B664DrnHD1Pridu1EGN/UhQPyiRrZ6Bc4L7Z//O+8p3nSTEbq29q4o9l1oAKK8zvqregCQQrkKS740ezVfqUCJ1A4dnMndEMSfd6D/aIEXIC4lMOv46Y3RNKB3Hr1jGdPGJB4FITzCC/49p8Yw6iKb6EcvL3hPFsu9zyrYPppG13O5Tjp3PlCgChh9i0gWhjyGcZn23IJctAKp77b+Z84cTwaJDNL15R7YoSdDcodGDcey4m5IZXcWgW+ETBKMwrR7dWxkmIDBEq4XE7a1FLD8BpTIFHbreHcjvOEq/+KQCKJuBCXsRK0C0kqqJJ6OC2H9r8ujMBdQxavRt1k09mr734="
+    },
+    "name": "Magma Cube Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "MAGMA_CUBE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGMA_CUBE_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MAGMA_CUBE_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_MAGMA_CREAM",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

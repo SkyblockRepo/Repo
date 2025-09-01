@@ -1,0 +1,71 @@
+{
+  "internalId": "LARGE_ENCHANTED_CHEST",
+  "name": "Large Storage",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 40000,
+  "lore": "&7Place this chest next to a minion and\n&7the minion will store items inside once\n&7its storage is full!\n\n&7Storage space: &b15 &7items\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_ENCHANTED_CHEST",
+    "material": "CHEST",
+    "name": "Large Storage",
+    "tier": "RARE",
+    "npc_sell_price": 40000
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_ENCHANTED_CHEST",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MEDIUM_ENCHANTED_CHEST",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_OAK_LOG",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

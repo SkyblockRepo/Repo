@@ -1,0 +1,32 @@
+{
+  "internalId": "BURNED_PANTS",
+  "name": "Burned Pants",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a-4s\n\n&7&8Maybe encouraging him wasn't a\n&8great idea.\n\n&9&lRARE LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BURNED_PANTS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "12,12,150",
+    "name": "Burned Pants",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "stats": {
+      "RIFT_TIME": -4
+    },
+    "origin": "RIFT",
+    "description": "%%dark_gray%%Maybe encouraging him wasn't a great idea."
+  },
+  "recipes": []
+}

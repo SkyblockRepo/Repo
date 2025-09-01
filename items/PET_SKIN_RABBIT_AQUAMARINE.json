@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_RABBIT_AQUAMARINE",
+  "name": "AquamarineRabbit",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Rabbit pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&9&lRARE COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_RABBIT_AQUAMARINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjk2MDMyODc3MCwKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNWEyMTE5ZDEyMjk2MTg1MmMwMTBjMTAwN2FiMmFmZjk1YjRiYmViNzQ0MDc0NjNmNmQyZTFmZjA3OTJjODEyIgogICAgfQogIH0KfQ==",
+      "signature": "eSsMlUD2a5vanD+OX6Iy/fkVWdwz+UbE42FWiIrrieE5TNsDEU8BdsQAOFWNWE5yCuezCNIkvkIcd3Gda87KXYFUw/TBPWyLbf+c0dU2V7bdfN8hMTQnq4I05XCTgSU0zzXuPJj6Pz1MqrihjeqijRivPoO9Cy+XUgVCFVR9lqsPZ4qV+gzCgozaTZinR4vRspuSGs16wVPw1A5A5reooCm+LPxa+HjEdEijcVHgDZPwRrKBmL1wlXN+OEncVlNnm9NU4mJnX3MuLX7+SJ53vixN96BEyAJRidOQvF69sITWvFJ23X3f+PY96KYZzEKe0Tzl13coYXIG1K6Qj9VoW7sVPiUU5JdqADAQUK65DbmH07YJwBxjGtUz9L41xLV9w5VgWrV4ijeMfoF5ADIHPY1yTohW4oM6ST9plep6moAgPO2Q+I7E6jycsUM2P338hZ34h8cMC6GBJ7s8IjJd15qi7lYsoawTEl9a/gHm3UeqVQ08qfSAzXwPDJcXjgGf4moyM1uS3klNzHlo2hXTBfXMSkyC0bRCXPhj5bRLUMIbgKMMUrX01HRAJsHhhjVqjxuNLhlCjxuXvmxickR688E89dmOoNVCUlPPNXm/2p2DVp+yT/GUMTz+SDTZ+r/gpWVCrZjKDEJA1I5z9cDEb/t9k/Jbvm2T/0CqRQuwm2A="
+    },
+    "name": "AquamarineRabbit",
+    "category": "COSMETIC",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

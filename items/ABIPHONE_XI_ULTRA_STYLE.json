@@ -1,0 +1,36 @@
+{
+  "internalId": "ABIPHONE_XI_ULTRA_STYLE",
+  "name": "Abiphone XI Ultra Style",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b6 \n&7 &7Maximum Discs: &b2\n&7 &a&lContacts Directory&r\n\n&eRight-click to open!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_XI_ULTRA_STYLE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0NjkxNzgxMSwKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NWExZjE4NzMxODM4OGVkNWQwMDEzODNlYTQzNDNiNzg3MWI4MzI4NDM4MjE5M2NjNjgwMjc0MTA1ZTFiNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "d4XNxfXT0xguf0ZjleqDyrUrlGJXZ0nGRdLM+btkCskHpgMsXcpbBI23iSsR1XJAP+Ea9S3MCSNx0PUXJB5LzaiblK31YyGNMKH88z+fvSeIFJjq+qBO3ZDrqvn+gqgsRIU773Dagv5uF1jAsqP9cOZtuxeO5jv97gjoVaLPM1LyZyhsUGW3dsC2/x2TbJUsfzsxgAZ3gQ3IHfoui6YkTO4AQU+ShESMqaJY6n98A68yiHYNdbmkJBN8VgtMB07wtOByQQjG4ANNfyxbidib8pDaCq85RtO7kOcJZkOiSUdbSKaIINvIfo7ZGzwICrADt/xLEoQ12pjJUOrom1X+007xkyMz6x9t7s52BPWrzQ3EwOQx7kYMlmHxWHVIc6rw6028wpCwnLSHj2nWOFN425B1y3P0v7Zq0xPs8+77Jo/up0w74sFXZNJpU4SuDtmXuhJyPMxO+Q6bdax8gzs2iBczBXM85l52b09GcuV2SSDHOD+5WqsKfr+RtyHiSy5zOBm+cCbm5LzVNEM04lDm81dlYor498VO2R/vvLV2x4viQ/K7E68IOQnA5YoHvLCrSoQSgHGgSL5BQ812dA/U7twBQ4vlB+Ggw3hIFfWH6gmH6T44EeM0mhHfPyXG2H5ayrWEh5yxx25DQ3IPbtDF/2yPRTahv3W1quAHu7w/yw8="
+    },
+    "name": "Abiphone XI Ultra Style",
+    "tier": "RARE",
+    "item_specific": {
+      "max_contacts": 6,
+      "max_musicdiscs": 2,
+      "has_contact_directory": true
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,162 @@
+{
+  "internalId": "DIAMOND_HUNTER_HELMET",
+  "name": "Diamond Hunter Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+125\n&7 &8[&8☂&8] &8[&8☂&8]\n\n&6Full Set Bonus: Peace Treaty &7(0/4)\n&7Gain immunity to Sea Creatures but\n&7they are immune to you and you can\n&7no longer catch them.\n\n&8Tiered Bonus: Odger's Blessing (0/4)\n&7&7Grants &6+0♔ Trophy Fish Chance&7.\n&7 \n&6Full Set Bonus: Star Fisher &7(0/4)\n&7&7Grants &b+1☂ Fishing Speed&7 per &6✪\n&6Upgrade Star &7on your armor.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cMaster Trophy Fisher&c.\n&8&l* &r&8Soulbound &8&l*&r\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_HUNTER_HELMET",
+    "material": "DIAMOND_HELMET",
+    "name": "Diamond Hunter Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "AQUAMARINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_AQUAMARINE_GEM",
+            "amount": 4
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "TROPHY_FISHING",
+        "reward": "DIAMOND"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "DIAMOND_HUNTER": 25
+      },
+      "game_stage": "MASTER"
+    },
+    "stats": {
+      "health": 125
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_SILVER",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 1
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 2
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_GOLD",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_DIAMOND",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_FISH_DIAMOND",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ]
+    ],
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

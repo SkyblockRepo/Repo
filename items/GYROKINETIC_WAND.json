@@ -1,0 +1,87 @@
+{
+  "internalId": "GYROKINETIC_WAND",
+  "name": "Gyrokinetic Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Gravity Storm  &e&lLEFT CLICK&r\n&7Create a large &5rift &7at the aimed\n&7location, pulling all mobs together.\n&7&8Regen mana 10x slower for 3s after\n&8cast.\n&7&8Soulflow Cost: &310\n&8Mana Cost: &31,200\n&8Cooldown: &a30s\n\n&6Ability: Cells Alignment  &e&lRIGHT CLICK&r\n&7Apply &aAligned &7to yourself for &a6s&7,\n&7plus 4 nearby players on grouped\n&7islands. &8(Catacombs, etc.)\n&7\n&7&a<nowiki>",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GYROKINETIC_WAND",
+    "material": "BLAZE_ROD",
+    "name": "Gyrokinetic Wand",
+    "category": "WAND",
+    "tier": "EPIC",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "enderman"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GYROKINETIC_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_OVOID",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 30
+        },
+        "3": {
+          "itemId": "NULL_OVOID",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "NULL_OVOID",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 15
+        },
+        "6": {
+          "itemId": "NULL_OVOID",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "NULL_OVOID",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 15
+        },
+        "9": {
+          "itemId": "NULL_OVOID",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

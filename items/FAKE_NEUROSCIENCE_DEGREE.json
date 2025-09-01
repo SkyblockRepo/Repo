@@ -1,0 +1,34 @@
+{
+  "internalId": "FAKE_NEUROSCIENCE_DEGREE",
+  "name": "Fake Neuroscience Degree",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Use at (the real) Kat to upgrade a\n&7Spider or Tarantula pet to &dMythic\n&d&7rarity.\n\n&7&8With this fake diploma you can\n&8somehow talk spiders into uh...\n&8upgrading their rarity.\n\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "FAKE_NEUROSCIENCE_DEGREE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTQ4NzkwNTk3NCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNzc4MzI4MmUxNzEzNjJjZDM2ZTQzZGZlN2IxYjBkNmM2ZTlkYTQyY2I1NTMzZDI5MmE5NTc5YTY0NDU3MDk1IgogICAgfQogIH0KfQ==",
+      "signature": "awFHk57eZIRvXDmUeZg+RPvxnufrdqMiNkKR95SdBmRUrSvTAAYDzcFFNr25/9ss7JViyZp0yzDPRfE3QZIjn2ZazgGy2U4nlKJ/G8ZXssFn/TV4G1DWu9FkjiGDa6V6mexMcMMm+nM8n0aZkpkRoO6myzcA2VR6HgpeSE2CZ4yut5B2bzxsEXeF3NCHi2tjm6gc//oExa/t+0J2NAopPDw8QDDIYz6qeW+bNOroGijYx7hVOlnFL/eYMo+8H0oH0bCYWgY9yCp0vweAf/YPxcNcFamJJMeNn6gisBi8e2AsNnTfxYSVdH5JitOeqceEKXfoZoJCeAWtKgD1f0HymBVg4KVQ+GZqUpcfc0D/nl/Xta1C9uzKzZLIZAwfSZ9zDPFujb4OEM9xtEac3Q0ykDafwh37uWcdKSLbr9L/q7wMqxpKE0nI+oPe982gAgvdJEipHZy+2ZPdYw2jVNkmd4x5TM2wnyVbSmVG7NMS0g5QJrnS8K93Hgmo3tOpchNOLWrClmTwFfsyGmPdJGs7QHbyyYwgucTCRXSis6BLtMZHvcF9oae1Td8uyPEONvi6L/XVVIqjSP2PIeonNxLVrtdZnk8VDnIPzFGoDdO5FcHh6naqGb9PFIX1zCdVTL5OM3ke5If7AH5xT3MggbVw8VK2pyfxaGI0ngvMB7/5K8A="
+    },
+    "name": "Fake Neuroscience Degree",
+    "tier": "RARE",
+    "unstackable": true,
+    "origin": "RIFT",
+    "soulbound": "SOLO",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

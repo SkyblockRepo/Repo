@@ -1,0 +1,279 @@
+{
+  "internalId": "IMPLOSION_BELT",
+  "name": "Implosion Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 512640,
+  "lore": "&7Defense: &a+70\n\n&6Ability: Consolidated \n&7&7Increases all explosion damage dealt by &a25%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IMPLOSION_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjI5OTA2MSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFkMmIwMzZkZDY2NGJiOTBjOWQ0NDNjMTk5OGZiNTI2Mzk4YWI0ZGRkZWI3OWI4NDAxYjE2YjlhNGQxMGJhMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "hsaI8rrPogngwsjOsDSjpIvTF+sKj/i5fPcuUdZMIDHdSXpBIdUa4EIwhDngP502jr06MlfNuKz5NhISmuc4EKTBmRtLnh5kIiGAyvrafMbniwnwacxDUs2Yq4Ryh1mx0KUNzkymEKG+qBbEjP9yCHBT1y8uGH31XPZZCNXlttDFJkJpCgz2qAg7bYlNh3aZF1ZZFsmEfM7ygBwSEQ+vxG3iMcCeBFnUGdwejXWLAu58MK60j2loxMGF/EFPX0qFwd1V0+flgJT3RzNRqbJFDyGUJYacnQtIAPN5NqrHzTPpo9dh4KItfg7GPnyC8/1gjEcHEMecRyYwXybhJ65pSl9PDRl40KkTBTPZxSQfcLMDRApFnE+lH8Z0MEUny5cWHhVuKkHmrzCPTq7tr3aD5QSpoh09sekhVwYASYZyv8SUz7CpArGAzExgOfs+appC61vfsRHKAgxY0BbZiwOmhWutjWMpnN6CD8RP2/81RIB/eZmumpMAVqFs4VbStcKzpl9NoejWz0bmC/2/9q1WL03UmY1205Ja2cE3XRcGsByhAC5n7ZHeJT4iRiuvkM115GRUDVYDmL1B+x+kx97lL0/k2fArzUOqA0TawOr8e+xIlGQlfQi/d2Fe54B3Lh1L2OotbyuXoOq0WDhCTtTBe0sh10JXcfdOAHD51ebX6Vk="
+    },
+    "name": "Implosion Belt",
+    "category": "BELT",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 512640,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DEFENSE": 70
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR",
+          "amount": 60
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 160
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 640
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 1280
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 2560
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 32
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "KADA_LEAD",
+          "amount": 5120
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 12000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "IMPLOSION_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MATCH_STICKS",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MATCH_STICKS",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MATCH_STICKS",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MATCH_STICKS",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

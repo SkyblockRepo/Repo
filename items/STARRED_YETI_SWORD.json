@@ -1,0 +1,156 @@
+{
+  "internalId": "STARRED_YETI_SWORD",
+  "name": "Yeti Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+160\n&7Strength: &c+185\n&7Intelligence: &a+50\n&7 &8[&8✎&8] &8[&8❁&8]\n\n&6Ability: Terrain Toss  &e&lRIGHT CLICK&r\n&7Throws a chunk of terrain in the direction you\n&7are facing! Deals up to &c17,000 &7damage.\n&8Mana Cost: &3250\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_YETI_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Yeti Sword",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          }
+        ]
+      },
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 100000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 40
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "DAMAGE": 160,
+      "STRENGTH": 185,
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 17000
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "ICE",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 300
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 22
+      }
+    ],
+    "ability_damage_scaling": 0.3
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_YETI_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "YETI_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

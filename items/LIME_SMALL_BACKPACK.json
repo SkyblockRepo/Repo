@@ -1,0 +1,75 @@
+{
+  "internalId": "LIME_SMALL_BACKPACK",
+  "name": "Small Backpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIME_SMALL_BACKPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUzOTgwNTI4MCwKICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5NmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA1YmQ4ZGQ5MGUxZjRhNTYzM2RiNjljNWZkYTYzN2MzMDdjODhhNmMxNDM2NzI1MmY4MzNjMGFmNGMyMWE4ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "DAdyCHnIzCtnnHbU3tepZCjYj3qIBPiCWZga3zOEG3+sTRIW5/e1pewWNVK3rnq13xjlGKHufgIDZSOdzndjkXT7aZCsySa/FECUw3k94dyoY9Ck4UdRUhZoi0hGLx1PIjjtF9vzH00LA8t9iXWBXF2i6yzoZ9oVGC/KRybsMsM548avo0VUa0/qCDMwl4eNEB7V+pZoFld8r9b7lNmgbiSO4cAokmJ8OHdY6bLcqJX4ZsXFyAAAveTcxtYj3FjmaYyKpYxKhTdSLXmwDo4MuQnDZNvq1D8UfpU8aWWPv99wZ9Z+aOej08Au2EyzXj9ihWByXGLd+zhvIaIrmuDx4AuSfGGJm01nhw0yYpKYfWP7oxBjgX6qkHg17bOSEu7rpzcvrR9gTdIITEGJtkmjO1ZxUVo0tSXMA0e8kqiMdquDkeFtv466wJOs8pDJdXtoRpSF9nG5I4Ch2shTRGaEf+mZDEyqJeuOH1p7drZeCPvSC1mYWeDK3bEjDG7DpDynnYZ12Zky7wB8V7MyXbzDQH/P2zSKHXJpUrMvp38XzSVWzp8QIHZMhwQDEvR+ILN3N/q43VHzkWNWhvjiTCMXEkyiXczCU/7/R+6VA7zqXm8fkrcrhBwOxguTRcK/0SLy9gqgSEw4k7tPgEwOEOb0Q7hoEjSEeEBlhRs4+TZ+4iQ="
+    },
+    "name": "Small Backpack",
+    "tier": "UNCOMMON"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LIME_SMALL_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SMALL_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "INK_SACK:10",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

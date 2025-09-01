@@ -1,0 +1,77 @@
+{
+  "internalId": "DIAMOND_GENERATOR_1",
+  "name": "Diamond Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining diamond ore!\n&7Requires an open area to place\n&7diamond ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a29s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MTk0NzI5ODEsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNTRiYmU2MDRkZmU1OGJmOTJlNzcyOTczMGQwYzhlMzc4NDRlODMxZWUzODE2ZDdlODQyN2MyN2ExODI0YTIifX19",
+      "signature": "U5k3G9FXTB4AtMgwFoq8bopiJ6BDByaJLxKwjRDQ2DUl4bKZ5rfAVLpJHZ/zQXd8OqETR2hRRYma8VBIXEkunXzcR3RBnbGSPs8SJn9Bg3U4Q3SE4oEZ47C44vcZXptrRawd1Oe/kIGWDesZ8+7w6KevzeOiJYG6jovTmYu2+ZHiHJRAAt+cDkrvNs3G65eEyMcbWPOtu99CKQlRVgX/PAcoCzdc+LTtvlxrqA2eIO3BKzu2Gc0s/WJGmBfdILQh8mn9j9Ny/CaLUgfRnp2/1aJWzaOu9Rb4iB7Vg61QlYE4asM/9/19lY3yNZajzdXy8xGm9+WL9lHND+saggJ5tVNIl09Z6nF09/DUIPhgfZkJgsAgFGO5xOnxJ9N+wfbkuVw7tsQucJjqfirLtp4lFHgyqjgyja7mohF1PMMhwmTlQxKSTjrwRK+bwwkW1+hyhOUhxbiDZniwR0k+V110psPvO3WOs8t817iTjmxBwVz7SZ2eNpyuv4DkaQdxn4eJKliAMW1np77p9CV7S4EePiDHFlUcDV/RXUPqr6e+F/EKJRzXiQyuJwj9AlA5KlwzTsgM/7OrE3xoZM0KCE6t2UWRXt/SXHMaU7HZaCcscl94JOxoy85rFnHtiaaxy7TW/Gz+PGBkaJzYbXdrV6ekLkJjlo/gPVh6UiHdGO8VSL0="
+    },
+    "name": "Diamond Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "DIAMOND"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DIAMOND_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WOOD_PICKAXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "DIAMOND",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

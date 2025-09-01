@@ -1,0 +1,84 @@
+{
+  "internalId": "RED_SAND_GENERATOR_8",
+  "name": "Red Sand Minion VIII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining red sand!\n&7Requires an open area to place red\n&7sand. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a19s\n&7Max Storage: &e704\n&7Resources Generated: &b0\n\n&7&4❣ &cRequires &c6,500 Barbarian Reputation&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_SAND_GENERATOR_8",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODk2MzMzODA5NCwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NTM3ODAxYzEyMDcyMDYyNTc0NjYwOGUyZmNlYWYwNGFmMTZhZWFkMzQyOTZmN2M5Zjc5MGM1Njg3MmFiYmRhIgogICAgfQogIH0KfQ==",
+      "signature": "oZZA5eEJFsG2KKjQjIN1qC1XzRqd635PF+pEk9vRlnWPgl3z2GS7y+wuMa9dpzAwVxEpA3cL5hF3FiAJ4pEp0JcFdTam6Bfzi2AwOKqpR0u5LgnFEwZqUjSyWcpL4Swjocbpc5fnHEMegzGM7nE653tPXnEStjIDPZxDY1sRZPZFD0Ri2dULueqhJU712jKIo0ozJqMc23CyCBvVSPSNFGcyzt6NfJNalHreZWWgkVH/jYEBinYIb3YjxQTvbFSRaVjh+ucBnswLL41zFL9FMwfVp1J7/4gDYM0gvU9Fj1cR1XDFodtgr98DlZWg/V6NtaFO1U9nlkxlY5xs/F/GvDK3kG6P65DAPXbjozi5WV2fvpis16XGJmb3shkyFKhrxOY03w65EYriGHJ7HbvgGlopcgLmo6TKTGuwVkZ3zMDbGAAyCLRl9DdbXWqKEoIFEft4nRGjIchEBJ1f5qY8dUDRTOMdmVTeh7oArAYMi+oBwjv9leBwZ4drdIrw1xcBFQ/W3tuRPyxpyKO4tYlgu3zYoGwATBEJCEPSdqXoKTxDTtmdeDiBRlvK/uGpLu+od5l/ar6iM1iNijPOyc4XiCUnbea485OrzOszsrchcRfWPlN/0jWGkbIRQWz7zbJml7h5UN8a3WQ/+zWnIatAwE4Wk9CW3QGLPV2Iu8JaZHE="
+    },
+    "name": "Red Sand Minion VIII",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "CRIMSON_ISLE_REPUTATION",
+        "faction": "BARBARIANS",
+        "reputation": 6500
+      }
+    ],
+    "generator_tier": 8,
+    "generator": "RED_SAND"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RED_SAND_GENERATOR_8",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "RED_SAND_GENERATOR_7",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

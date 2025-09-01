@@ -1,0 +1,91 @@
+{
+  "internalId": "PLASMAFLUX_POWER_ORB",
+  "name": "Plasmaflux Power Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Place an orb for &a60s &7buffing up to &b5\n&b&7players within &a20 &7blocks.\n&8Costs 50% of max mana.\n\n&6Orb Buff: Plasmaflux\n&6• &7Grants &b+125% &7base mana regen.\n&6• &7Heals &c3% &7of max &c❤&7 per second.\n&6• &7Grants &4+7.5♨ Vitality &7and &a+7.5☄ Mending&7.\n&6• &7Grants &c+35❁ Strength&7.\n\n&8Only one deployable buff applies.\n\n&7&4☠ &cRequires &5Wolf Slayer 7&c.\n&6&lLEGENDARY DEPLOYABLE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PLASMAFLUX_POWER_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzIzMDc4NTkzNiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNlZDRjZTIzOTMzZTY2ZTA0ZGYxNjA3MDY0NGY3NTk5ZWViNTUzMDdmN2VhZmU4ZDkyZjQwZmIzNTIwODYzYyIKICAgIH0KICB9Cn0=",
+      "signature": "qp3Uwj1daJ3ApXYUSUaRm1Zzrkl8tGEL9I+w9gUf7zwrtQGUL7ebTcnlIgKhCiSqSwcYJ958i7TfTakT6qQasxeU+uTIUpyJZ+qR2yf2i2xg/Xth8/AbrCdSgvFbwGVVsLVqDCC3W0BxRiLEA9iNQkbFf02kHKg3SaBvYNrdt0SEQUeCTrAU5E52gYsskBC0LLkt0GaaJ6y3MdicYCTlnTgTaM3TytVPo1v8CB0Cng1Ablf/7ifSnqFXPG3oqUcJISCbe9gUO9ZTA0036B2ypH/JjNPxP47P9t/RMQzMQ0KWwhea6Cmo6FUSyWOj5t8LMMKBqCVqHZwEcci2AYJl8nfSVPOUdqf1aLk2yzEbdRonqkvzssLysGF93NCSABQ7YfxOsaB2d+USWleDcz47MTW7JHYuFZkYUMlsbjxjjZi/2UnBvJ1WldDTA7LKoI0BlGz+z4vliVQifPeimBodsTC7LDOaF5LFuh8fYK7Q54eCy/Z08C30s3QKqZFlxr6rVzmQ7zr1d/uCHIlHOtJTiJyWT/dsDjJLvkPDQJ2K2D+CxlZmuCqkEfcIV+lPBh23funBNAANTljapOgjHOGo2xLZiaMgBu5Wy9U/k6vGyLH57SKmdE2R06EacMZmIyNd0OQpSx0mUVwMEs6tQ8MY3adFyZbOp2laD7HfNTWTDpU="
+    },
+    "name": "Plasmaflux Power Orb",
+    "category": "DEPLOYABLE",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 15,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "MASTER",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PLASMAFLUX_POWER_ORB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "PLASMA_NUCLEUS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "OVERFLUX_POWER_ORB",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 24
+        },
+        "9": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

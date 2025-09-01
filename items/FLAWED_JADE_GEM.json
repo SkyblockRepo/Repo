@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_JADE_GEM",
+  "name": "Flawed Jade Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of &aJade&7,\n&7but it could still use some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&6☘ Mining Fortune&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWED_JADE_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTYyMTA0NSwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMjgyYzZiYjgzNDNlMGYwZDYxZWUwNzQ3ZGFkYTc1MzQ0ZjMzMmU5ZmYwYWNhYTNhZGNkZjA5MzIxZDNkZCIKICAgIH0KICB9Cn0=",
+      "signature": "UTnSTJQ6sONvF4aEK3pf2QnnbKoB/Po4jGY67iPRCWqoVyrV4ockSI4mrFwy1cvadF2HjWz2SuWoTa3MIWryKr/i1+9oqEYrb7ngJ/GoVAutBpFfzW6WcrOQz/R4TDN4iLPonWEbd3UfkgN7rhmeGYk9B2W/IiRoVzcDcoNw32ClkW7/rzKcpwqBheoxLp281DleH0983/qdlpCBnRPz06vn5+cOBNfVAzi1KOfuz71FogocZFawFZfEceaXGH6guXvvcSa6/o5HUZA4TRBp6IuTzz0etxW5QrZlq0wT1ZENDqvU1op0HA7kaIL0GEu1uEPd2amNEwFuQRACY21F3dSbEQFqUc320s75zz367O9/GIzEr6YSh0FCz4U6/cGHGq8xVDrFuHujZfBmNvH9h9csA0ijUYCxMqwwuHVCXnbku4evbLuezFF/6jZvpia17WBCaESZqex+CDnD/4VUxz1q6pmjxEHsVAUZblOfE+rJXwquYHqQUAewd6pTMsSyMgdBhXajIeCTqeDT5xw8QfpfzqlK9iWYwO17xfcjSdoxl4yaNmX84xSlD11MtwNMMLBVa41+MlEILE6AILEMat6wUF2FrImRarMrwy41JUk6oCQQzXJ3GULyE6jW2ORp3HUsI8JUlsNyLdB81klDsD8gDcGjH9EJXQQlc55Upow="
+    },
+    "name": "Flawed Jade Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_JADE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_JADE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_JADE_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

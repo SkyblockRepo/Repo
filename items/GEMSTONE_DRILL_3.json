@@ -1,0 +1,95 @@
+{
+  "internalId": "GEMSTONE_DRILL_3",
+  "name": "Topaz Drill KGR-12",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 253000,
+  "lore": "&8Breaking Power 9\n\n&7Damage: &c+75\n&7Mining Speed: &a+450\n&7Pristine: &a+1.5\n&7Gemstone Fortune: &a+100\n&7 &8[&7⸕&8] &8[&8☘&8]\n\n&7&7Grants &d+15% &dGemstone Powder&7, and\n&7&6+800⸕ Mining Speed &7when mining\n&7&dGemstones&7.\n\n&7&7Fuel Tank: &cNot Installed\n&7&7Increases fuel capacity with part\n&7installed.\n\n&7&7Drill Engine: &cNot Installed\n&7&7Increases &6⸕ Mining Speed &7with part\n&7installed.\n\n&7&7Upgrade Module: &cNot Installed\n&7&7Applies a passive upgrade with part\n&7installed.\n\n&7Apply Drill Parts to this Drill by\n&7talking to a &2Drill Mechanic&7!\n\n&7&7Fuel: &23,000&8/3k\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&5&lEPIC DRILL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GEMSTONE_DRILL_3",
+    "material": "PRISMARINE_SHARD",
+    "name": "Topaz Drill KGR-12",
+    "category": "DRILL",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 253000,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMBER",
+        "costs": []
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JADE_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {
+        "GEMSTONE_DRILL_3": "GEMSTONE_DRILL_4"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 75,
+      "PRISTINE": 1.5,
+      "MINING_SPEED": 450,
+      "BREAKING_POWER": 9,
+      "GEMSTONE_FORTUNE": 100
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GEMSTONE_DRILL_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GEMSTONE_DRILL_2",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FLAWLESS_TOPAZ_GEM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GEMSTONE_MIXTURE",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "MAGMA_CORE",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

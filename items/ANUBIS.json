@@ -1,0 +1,35 @@
+{
+  "internalId": "ANUBIS",
+  "name": "Anubis",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "&7Health: &a+3,001\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANUBIS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjY3MjgwOCwKICAicHJvZmlsZUlkIiA6ICIzN2JhNjRkYzkxOTg0OGI4YjZhNDdiYTg0ZDgwNDM3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb3lLb3NhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJkMjUxMDdiMDgxM2JjNjk3YzlmM2Q1NWZjOWIwNTQwNWE2OTZlOWJkNTBhZTFjMjQxNjc4ZTI0MDU1NTc1ODgiCiAgICB9CiAgfQp9",
+      "signature": "OIb2IeO/qV+jz4AE1794+JaPqsUPCupnpVkbPNuekg6e/5mrRhox0RtcW/GxHh9qoSZSjVvrd7vRMqmiUoLcZj5EnLXKKlmjt+ZIWJisY4c2+UcMgEWoPRwZy5A5fxNEdebyveWcfVb6izgIWzS8kP2CP9yoJhCX8pi7QJ2Xb5VpjbNPeJMZqFRRExt69nS2HynDCq1fZDKgBEjJdtXbH9SO5/x0DY7AtXcmTx2tWOaklKEnkov9QpsFZvMwwdjZoub2WVYohs+xxVCUTagUgcTmNhD3OYn/UzfOk+Fx3OBOcZXB5/CLosRIrEMiR158z4wAaatB7d97jZ1yf2m5/hHWb8by56u5lMRPZx8clxMtFBRfoTGlGoQ5eUnISMFHv3HnFjZyHAoCHme3HBzImqbLM8yFda4TzSI1pz/uFpQopWy9SR6XsJO36MFEeC6ZE63srdPhcFhHZ225ws+p0yddk2vQQ/wugrHe0M501KMLrxhKoRbi4o28OVyRmbvD7v61lYyKHp5LwPbadao7vgMsTRy2J/n+8fWk0gxLFlzccpe1D9w8gmXyXiVRcdL8Pwkca9HDUK8OEqNAykg4PTGGLUR2pzyDZYe4saB9FrUTo/JW6tQ7bomrajyfnWnJfjV72DA225Z52fHhkq9rreSK7MtgdIzX7KJN838UT6c="
+    },
+    "name": "Anubis",
+    "category": "HELMET",
+    "tier": "UNOBTAINABLE",
+    "npc_sell_price": 1000000,
+    "stats": {
+      "HEALTH": 3001
+    }
+  },
+  "recipes": []
+}

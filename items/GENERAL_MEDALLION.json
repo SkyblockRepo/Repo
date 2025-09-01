@@ -1,0 +1,33 @@
+{
+  "internalId": "GENERAL_MEDALLION",
+  "name": "General's Medallion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Increases the base stats of your\n&7dungeon items by &a1% &7while in &cThe\n&cCatacombs &7for each digit on your\n&7secret count. &8(Max 6%)\n\n&7Counter: &a0\n&7Bonus: &a+0%\n\n&7&8''Once worn proudly, now covered in''\n&8''filth and soot.''\n\n&9&lRARE DUNGEON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GENERAL_MEDALLION",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "hy2sGkycr9wLybZMxWH8+vMZtbq2gaCPuai5lugOgZKi9fKa+3uk9nSxuIO+KdN6ipEKfsJDlzi9bBkaH5qEKY0bDpzYT7Rwha7aKAoc4o0LExNVtsQLUTYlkyuYx8xX0WVFNzAujikmFQ6QJ+ejMtDxD73sPIA4dqu/VN3PfvMlbk6LhPDlnIMS9b1Bo4qA2OLI+oxiQV1D/BAfCfeP7/Fzyhs1S03X156nxReXqqy4aJohRlVHsA828Elsk5f3hOBSx6lQsl55JQlaL1KNrW4n+lMhpliBs6OeLIAKp3kKLu7UIxLO0nMbm+Yp6qaDYvArV7+xedBZCvWf3YOikazAD77mt5AENt3t6IQepfdEgjGrsFbln21AzencNt3BYy77906osw4ZC2dc6mN5hZ/ZQi3C20LiNmdLoE9uJ6jaP7D5fqKkNzuy2On5km/N6R3z/8cGzoAuQ9XndDcaP1Prb1l8NNZFHFfViZbAPugkUjPaqqnQAANUaHz/bJeiiBFp2r/kZ1G8wek3ZK9dJQGPMtlmrpHZD1lFK4LaS5PdWeF4mpzjGSeyZHeUE/2BvJ52+d9TjSlRw/czOR2iAyuI11uieTxj91dIshukgKIwVWsFbv2qTsXYv/zyS6LmwdJZiTwLNTU5mB1Z69I1k9Dk9EP5PgOf8klHXwL4PEU="
+    },
+    "name": "General's Medallion",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "description": "%%dark_gray%%%%italic%%Once worn proudly, now covered in filth and soot.",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

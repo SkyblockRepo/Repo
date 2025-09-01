@@ -1,0 +1,87 @@
+{
+  "internalId": "CLAY_BRACELET",
+  "name": "Clay Bracelet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+3\n&7Sea Creature Chance: &c+0.5%\n&7Fishing Speed: &a+2\n\n&8Tiered Bonus: Fisherman Set (0/4)\n&7&7Reduces the damage taken from &3Sea\n&3Creatures &7by &a5%&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BRACELET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CLAY_BRACELET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwMzE5NDgwMzAxOCwKICAicHJvZmlsZUlkIiA6ICI1NzgzZWMxNDgxMDI0ZDJmOTk4N2JhNGZhNWNlMmFmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlUGhlbml4NDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ4ZTRhNGMyZjc3ZDMzYTQ0MDJmNWUxNzc3ZjkyZTRiM2Y3NzYxZWUxYjE5YjNhOTlhMzBiMDAyYTY1N2FhMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "M8mP2fO39kfeBSUBO2wa0BSYb9F9b+n5gWlW6hDQ32t68sPRrpqxOvktDjZn8CmAiTogh9m3srIEEAFGvgndydrYJtY3jYZBWif956BYyilvH9G6aXBtohPfGd9g2oJuCXb4/I5p618Fl9XSb2/H8OsAu4wT78vF/zx3tTpYpupSXK/RtP0bGNSbZhui1ue5qB4Vq6tTAhoBlBP5le1YWFPzzWMH2o5SqWoHQjG7yaPgUMJ7reRdHftWr0pB0lGiFAfFq1+nW8HrTj1qKyUVWbguOfsw4UCUkivFvsOS1KfwLr0/JpATxS7Um6egXzuWySUkVTr+pNahP2y/ldlHZHy0SKxrMFoq5uyMV+DKSL7xCQD0xd4JmUtLEZM/T0IvQYFP6NNsL6aRYTft7qXy8bjGTkcPWVw0SjEbLVws4uoVUXSJwAe3L1cQFuaZcY3f4sbH6x0IZqcrxCy4Q0AdKW9UQQ10iASiok7aIjSOtHOkWZbFCIfPPy1AGGcHqql6fFhx2QLEjTHSHBtvZ+afs50jQ2M1XuzSU21eRMZh5zo4th1i0R7AiDVkmJchqv65kHIzRk2JOuc/H8VGkvVafjElkEQlRB0C1NOPdu49wveFonHDrOnQ+Okd6YHqg+WKSIf0+WmUzSSze+EaXuwdBlw+ciUiLYnPeN9LObghRoc="
+    },
+    "name": "Clay Bracelet",
+    "category": "BRACELET",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SPONGE": 5,
+        "FISHERMAN": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "strength": 3,
+      "fishing_speed": 2,
+      "sea_creature_chance": 0.5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CLAY_BRACELET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CLAY",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ANGLER_BRACELET",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CLAY",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "CLAY",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "CLAY",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "CLAY",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "CLAY",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

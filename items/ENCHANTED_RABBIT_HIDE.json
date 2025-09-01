@@ -1,0 +1,56 @@
+{
+  "internalId": "ENCHANTED_RABBIT_HIDE",
+  "name": "Enchanted Rabbit Hide",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 800,
+  "lore": "&7&8Brewing Ingredient\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_RABBIT_HIDE",
+    "material": "RABBIT_HIDE",
+    "name": "Enchanted Rabbit Hide",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 800
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_RABBIT_HIDE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "RABBIT_HIDE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "RABBIT_HIDE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "RABBIT_HIDE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "RABBIT_HIDE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "RABBIT_HIDE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "internalId": "CADUCOUS_STEM_BUNCH",
+  "name": "Caducous Stem Bunch",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7Bundling what bees find attractive\n&7together in an industrial production\n&7process is definitely what nature\n&7planned.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CADUCOUS_STEM_BUNCH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3NzI4NzM0MDYzNywKICAicHJvZmlsZUlkIiA6ICIwZTM3MmZiOGEzOTk0YTkzODliMGY3NGUzZmJlZjY1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBVVNUSU5MT0wwN19ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzY3MzkxNTk4NjgwYjQ2NWYyMTA2YjcwZTIxZWY1MTk2ZGExNGYwODdkMWU3NzlkZDY1MGQ0MzIwYjY5NjJhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "i4NREpyiZbcduMg7BNfKgqdGr/kcbBfunzwXJqtiUMFXuE9qi/Y2VTfo2DlmN8TAvgQB1I+fEepBnGcxntCKuf88JHqKQby2yZ0dM5GnsTYsJoPOnyY3XsLDDOoiXpxN13Q+byGU49mDc0lMAnHn0dm/T5SK+r8R7MTAFUxWBfaO3Ya0cKW7DVN9znfEEcjrxkLqUrYXjgClw7DYOc2YyeyxvnvjrX52u6Ot0Xcd1NEfMn1vmOcmQbQq+XEfjxvzCD/ilsMzqEmMbPA6gKoqe419STtUxPBbX37zx3y8tOpYWUTXqCHmW/KdUCqAgclMBP0b1koEZTMarAv+NoumvjMX9WC3vkQPVCZEW2WPyViNh7/5qszXBNGeVq+kX66E8C4R86Hjzk37YXs2mlEdU3O7ah+/Zz98y31NK8rJZrlkdR7LEmA1NML27AActFiRVfVBO9c4fOS3Wz9kXr859xfdclWDasgKZ643mDYmHZNYi3C87goE3l3FCUohlcM1RjvsFeEKc3rxilo8TpKuxzHGmzqXSguLN11DQLK2thOHU70jvdzUmpbtz1Dvi0Hi0A98oW8chRW5h25WqzHY8Zf/2RlWJep/kU6eS7tCwg58CMw2M3iM5enCReQ5k82vf0O/tZmUwnf7jqPAIYcoji0QbBCeJqSrbgQzdL/q2Wg="
+    },
+    "name": "Caducous Stem Bunch",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "description": "Bundling what bees find attractive together in an industrial production process is definitely what nature planned."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CADUCOUS_STEM_BUNCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "CADUCOUS_STEM_BUNCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "CADUCOUS_STEM",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

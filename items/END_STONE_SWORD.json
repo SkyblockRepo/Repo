@@ -1,0 +1,99 @@
+{
+  "internalId": "END_STONE_SWORD",
+  "name": "End Stone Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 20480,
+  "lore": "&7Damage: &c+120\n&7Strength: &c+80\n\n&6Ability: Extreme Focus  &e&lRIGHT CLICK&r\n&7&7Consume all of your remaining &b✎ Mana&7.\n&7For every &b5 Mana &7consumed:\n&7&7 &7 Damage Reduction: &a-0.01x &8(last 5s)\n&7&7 &7 Next Hit Damage: &c+1%\n&7&7Capped at &a50% Damage Reduction &7and &c+500%\n&cDamage&7.\n&8Mana Cost: &320\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "END_STONE_SWORD",
+    "material": "GOLD_SWORD",
+    "name": "End Stone Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 20480,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 120,
+      "STRENGTH": 80
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "END_STONE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "END_STONE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "END_STONE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "ENCHANTED_ENDSTONE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

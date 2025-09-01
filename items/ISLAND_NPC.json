@@ -1,0 +1,33 @@
+{
+  "internalId": "ISLAND_NPC",
+  "name": "Island NPC",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Spawn island NPCs for your private\n&7world! Right-Click one to edit its\n&7settings and add dialogue.\n\n&7&4❣ &cRequires &aSocial Skill 5&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ISLAND_NPC",
+    "material": "MONSTER_EGG",
+    "name": "Island NPC",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "SOCIAL",
+        "level": 5
+      }
+    ],
+    "has_uuid": true
+  },
+  "recipes": []
+}

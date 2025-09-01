@@ -1,0 +1,31 @@
+{
+  "internalId": "STAR_LEGGINGS",
+  "name": "Leggings of the Stars",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+15,000\n&7Defense: &a+4,000\n&7Intelligence: &a+1,500\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAR_LEGGINGS",
+    "material": "GOLD_LEGGINGS",
+    "name": "Leggings of the Stars",
+    "category": "LEGGINGS",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "HEALTH": 15000,
+      "DEFENSE": 4000,
+      "INTELLIGENCE": 1500
+    }
+  },
+  "recipes": []
+}

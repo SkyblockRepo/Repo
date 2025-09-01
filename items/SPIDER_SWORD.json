@@ -1,0 +1,140 @@
+{
+  "internalId": "SPIDER_SWORD",
+  "name": "Spider Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&7Damage: &c+30\n\n&7Deals &a+100% &7damage to &7Cave Spiders&7,\n&7&7Spiders&7, and &7Silverfish&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPIDER_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Spider Sword",
+    "category": "SWORD",
+    "npc_sell_price": 5,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {
+        "SPIDER_SWORD": "RECLUSE_FANG"
+      },
+      "type": "WEAPONS",
+      "game_stage": "STARTER",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 30
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 250
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "SPIDER_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SPIDER_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPIDER_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "internalId": "PRISMARINE_NECKLACE",
+  "name": "Prismarine Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Sea Creature Chance: &c+0.5%\n&7Health: &a+7\n&7Fishing Speed: &a+2\n\n&8Tiered Bonus: Fisherman Set (0/4)\n&7&7Reduces the damage taken from &3Sea\n&3Creatures &7by &a5%&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRISMARINE_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwMzE5NDQxOTc3MCwKICAicHJvZmlsZUlkIiA6ICI4NTZkNmYzMDgzYWY0MDNjODUyMTRlMGQ3NzFhY2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLb29yeEF0aWxsYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kOTE5YzM0ODhmZTlmNDkzNDQyOTg1NmZiNDNmODYwYjhkYWI2MDk2NDgyZTg2MzIwNTA4MTBmNDRlZjdjYjE3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "CyrVoqp8VZzAB77TYh8VGM09iasWm+kiFyYz6W4vXohyRP+tGsEmBfftgb1EEuf3XTcWnwKtKOYtv7k1L0q6KQ7cfTcz+vSde6ij1f5ih3hm/3qWzy60JJNaU3AS/TYtOeLhDueWvOEV/nTQHu2KFysIS/GcU1cBGSf1BTKXCGkzRBn4AJC0FJhA7rSsNmwlAz9lIMo7pqleEF9qWB9j60fHQ/CYFQRjkiB2fFfJLY6Easl53JYRuu3zh0Bvd/3UfzRKsVYdi3JAIeXeSg3Fxor7MgcxuVujDp5Eli+DLGs+pPJHttNjZYxDBi+mL40tybYtkN21xK0qMWnVQKAZQQ76n6Bp/glb33QPZGD+fk03KwP63yNDGie6WbVPVk9kO/4KI2gRL/H8U6qUEwHYZ0Ra54wQk8bCj2WeP8tVio2XhQZY5dUTB5Ys3oI1Jcd6GrpFc9jhtZdBRGMSGM4kXQma6PyvyEAiFfj4kKrLjG2VkEMUAmdwENCuLZvWr8L159c9hB/Ay5nIqYYIKOTH5BDfXb6EVeX28kPLfYCle5vP7n1NESQmDu4UZVxlQiGfVtzAsbCw8af+CGdWrQS0q1RVd6LfFl+k2lBgrCoEWpShxBKt7xpsbOs6Bfy05/G65wQVq8Sne2n99X1ryvZjzQTJIzIwiciagqGHG7ZnWGQ="
+    },
+    "name": "Prismarine Necklace",
+    "category": "NECKLACE",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SPONGE": 5,
+        "FISHERMAN": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "health": 7,
+      "fishing_speed": 2,
+      "sea_creature_chance": 0.5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRISMARINE_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ANGLER_NECKLACE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_PRISMARINE_CRYSTALS",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

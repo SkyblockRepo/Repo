@@ -1,0 +1,134 @@
+{
+  "internalId": "ZOMBIE_COMMANDER_BOOTS",
+  "name": "Zombie Commander Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d116 &8(124)\n&7Strength: &c+8 &8(+8.8)\n&7Health: &a+32 &8(+35.2)\n&7Defense: &a+17 &8(+18.7)\n&7Intelligence: &a+4 &8(+4.4)\n\n&6Full Set Bonus: Training &7(0/4)\n&7Every &950 Zombies killed&7 gives the\n&7wearer &a+5 &c❤ Health&7 while wearing\n&7the set. Max 500.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 18&c.\n&5&lEPIC DUNGEON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_COMMANDER_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "213,18,48",
+    "name": "Zombie Commander Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ZOMBIE_COMMANDER": 8
+      },
+      "game_stage": "SKILLED"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 400
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "HEALTH": [
+        32,
+        34,
+        38,
+        43,
+        48,
+        52,
+        59,
+        65,
+        72,
+        80
+      ],
+      "DEFENSE": [
+        17,
+        19,
+        22,
+        23,
+        26,
+        30,
+        32,
+        36,
+        41,
+        45
+      ],
+      "STRENGTH": [
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        19,
+        22
+      ],
+      "INTELLIGENCE": [
+        4,
+        5,
+        5,
+        6,
+        7,
+        7,
+        8,
+        8,
+        10,
+        11
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

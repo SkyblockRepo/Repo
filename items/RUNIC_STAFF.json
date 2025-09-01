@@ -1,0 +1,77 @@
+{
+  "internalId": "RUNIC_STAFF",
+  "name": "Aurora Staff",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 46875,
+  "lore": "&7Damage: &c+20\n&7Intelligence: &a+250\n&7 &8[&8✎&8] &8[&8✎&8]\n\n&bRunic Item\n&7Use with &6Aurora Armor&7! Cast Runic\n&7Zap while matching the rune of your\n&7targets.\n&e&lLeft-Click To Swap Rune&r\n&7 \n&6Ability: Runic Zap  &e&lRIGHT CLICK&r\n&7Fires a beam of energy, hitting the\n&7first enemy on its path for &c10,000&7.\n&7Deals reduced damage past &a10\n&a&7blocks.\n&8Mana Cost: &310\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&7&4❣ &cRequires Kuudra Basic Tier Completion&c.\n&6&lLEGENDARY SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUNIC_STAFF",
+    "material": "BLAZE_ROD",
+    "name": "Aurora Staff",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 46875,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      },
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "NONE"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DAMAGE": 20,
+      "INTELLIGENCE": 250,
+      "WEAPON_ABILITY_DAMAGE": 10000
+    },
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 500,
+        "essence_type": "CRIMSON"
+      }
+    ],
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": []
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "IRON_BOOTS",
+  "name": "Iron Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&7Defense: &a+10\n\n&7&8This item can be reforged!\n&f&lCOMMON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IRON_BOOTS",
+    "material": "IRON_BOOTS",
+    "name": "Iron Boots",
+    "category": "BOOTS",
+    "npc_sell_price": 6,
+    "stats": {
+      "DEFENSE": 10
+    }
+  },
+  "recipes": []
+}

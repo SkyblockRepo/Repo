@@ -1,0 +1,76 @@
+{
+  "internalId": "LARGE_AGRONOMY_SACK",
+  "name": "Large Agronomy Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBrown Mushroom&7, &aCactus&7, &aCactus Green&7, &aCarrot&7,\n&7&aCocoa Beans&7, &aCompost&7, &aCropie&7, &aGolden Carrot&7, &aHay Bale&7,\n&7&aJack o' Lantern&7, &aMelon&7, &aNether Wart&7, &aPoisonous Potato&7,\n&7&aPotato&7, &aPumpkin&7, &aRed Mushroom&7, &aSeeds&7, &aSquash&7, &aSugar\n&aCane&7, &aWheat\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_AGRONOMY_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTQyNDMyOCwKICAicHJvZmlsZUlkIiA6ICI4MDBmNmU2ZGNiMTk0Yzc2OGE1OWU1Y2Q2MzFlNjI2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXl1dXUxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmODM1Yjg5NDFmZTMxOTkzMTc0OWI4N2ZlOGU4NGM1ZDFmNGEyNzFiNWZiY2U1ZTcwMGE2MDAwNGQ4ODFmNzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "nkTWeQ6ue/RhTmWnMvvqJD1vSTjep5H5MX03pxcxKnSto03aC+KCX0a8G4PG5AME+Y5ZKcjSePmIZ7BAIUlArMMEnZRyx0v36fdNPR+bbLGStLg01iZXTfMr4esCn9MaRTlg5/XfQyIWCmc6uLnaUcg47IuZ5+hCUtyqiEpxvTgg2593SEb2FvT7Abyv0csZI5mmnaXF5HfemFGGBfwgPmmrRPRu5vTp+vi5eBSdcU2DnvmYnu1d89bbl7FYYtldypmkXWHlzpBi74LSH2l0K8kLX2BUfbX/O7UO5bsd60H8vSeEtvKQuyGsSj1hP8Vuarh9Cilj25cjoGgkK59D887AdvN9Y7+t77FADJn0VCVWdWc8/4RjAIR0lxEc7Idg7D7P7yZ2WYWw2x3pbH8gRYLZZe+c8J0qlCkWMaHXcM0ST7dC9ZoMl4O7qKiWEFKJrI+59p5OD9OYgdG1Xz0Jz0Af4X5It7xi/0bXY/y6F3puA4/ryPa+BuxgYcNbRKKM+b4ZN9eI7EKIofXgdhMjIkUTGODqJ4I5VDJy5zOWvWtqS8HYZjU7ssmQ4I1C9kFSG+dFHS7ttgDZ4qb/yyCh08oCAeFakKf9oOmgKkwRqK8O0ctAbinTzkGul/8/cHnLutXx4PO1mXNXx28OnQt2d14NGKjaqzXkAy/hqkRDRuA="
+    },
+    "name": "Large Agronomy Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_AGRONOMY_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "MEDIUM_AGRONOMY_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

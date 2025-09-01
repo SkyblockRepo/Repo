@@ -1,0 +1,26 @@
+{
+  "internalId": "DIAMOND_REFINERY",
+  "name": "Diamond Refinery",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1300,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_REFINERY",
+    "material": "DIAMOND_ORE",
+    "name": "Diamond Refinery",
+    "tier": "RARE",
+    "npc_sell_price": 1300
+  },
+  "recipes": []
+}

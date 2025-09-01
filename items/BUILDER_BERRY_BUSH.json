@@ -1,0 +1,30 @@
+{
+  "internalId": "BUILDER_BERRY_BUSH",
+  "name": "Berry Bush",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&8Decoration Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BUILDER_BERRY_BUSH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzE1OTM4MjI1NCwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NTNmODM4MWQ4OTBkNmRkNWIwMzhiYzdhM2VjOWQ4ZDA4ZTJkN2RhM2RlYjE3ZjA4MWI1ODAwZWVjNTA1ZGZiIgogICAgfQogIH0KfQ==",
+      "signature": "praX0opzk6agI+wgJHrCGzt+jwLBzXrJ99qNG8EztidpAOfa4RxZchX95Hkvc0Lu/UbHc90pEa46wL6Ec9DQXI/1zUysRu6C7VecAauiF0AMBXHzmT9knCdi0T1CjEL+PZCYbhid96phyKgsqQxZTMPyZtuH2S2igxDxECezJquP741XW4k3gQ2CMSzw73vSN8tIHnxti4Dc7zgS55S6iZPuCD6qvMJ2G3sPwqQVbxwIzS2Wc25Y8XS5vzuKJWsRylSIS93HBM62q3Rm5JE/fA74h0mBNA7512CqJaOueubH2uURXWnECwykc7pb3IZC8y+qz2jwPU5ayfhlN8U70HSTDIaJfTBgFws1Mpxcb6LRI+lbQpYtd54WyfsPLqlwzj1CjwPh5rJm87DBBXj6wZpALM8qShx2pkP+C8HXrIRimzvq42Qio4AEGamYWrVGlX5rVt4P/n+F4y1nv1Qju/15FsTabYWXkCnvDDSoTEPAtaUjzPgWFbXffGxDJ23iWf6srDFRgNzd+lxHPiropbJEIYIZyU17/fjzq+67vJsbGXzLr45rhmSNkXpWst4+CwdHMh+lug5+pWzNhZt1wRUNyoZtCufxEvyOb71SJ5GawoNqCKsSdFaDGy/bHzs5BD2rn4+B7M7wv5McHGBdRZDR8CIBYaZm7q4ImbzFbHc="
+    },
+    "name": "Berry Bush",
+    "npc_sell_price": 10
+  },
+  "recipes": []
+}

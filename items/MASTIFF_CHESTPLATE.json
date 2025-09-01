@@ -1,0 +1,143 @@
+{
+  "internalId": "MASTIFF_CHESTPLATE",
+  "name": "Mastiff Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+500\n&7Defense: &a-1,000,000\n&7 &8[&7❤&8] &8[&7❤&8] &8[&8❤&8] &8[&8❤&8] &8[&8❤&8]\n\n&6Full Set Bonus: Absolute Unit &7(0/4)\n&c&c+50❤ &7per &91☠ Crit Damage&7.\n&7Regain &c2% &7of &cmax &c❤ &7when hit. &8(1s cd)\n&7Receive &a-20% &7damage from wolves.\n&7Your &9☠ Crit Damage&7 is &950% &7less effective.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Wolf Slayer 4&c.\n&5&lEPIC CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MASTIFF_CHESTPLATE",
+    "material": "GOLD_CHESTPLATE",
+    "name": "Mastiff Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "RUBY",
+        "costs": []
+      },
+      {
+        "slot_type": "RUBY",
+        "costs": []
+      },
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 5000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 20000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 4
+          }
+        ]
+      },
+      {
+        "slot_type": "RUBY",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_RUBY_GEM",
+            "amount": 16
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 4,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MASTIFF": 8
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "HEALTH": 500,
+      "DEFENSE": -1000000
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MASTIFF_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "GROWTH_CHESTPLATE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "GOLDEN_TOOTH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

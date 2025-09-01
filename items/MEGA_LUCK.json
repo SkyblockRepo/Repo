@@ -1,0 +1,34 @@
+{
+  "internalId": "MEGA_LUCK",
+  "name": "Arenjey God",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Magic Find: &a+900\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEGA_LUCK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MTU0NzE1NDI4MSwKICAicHJvZmlsZUlkIiA6ICJkZjY2OWIyOGFmNWE0MTNjODFhNjcwOGQ0ZDIyM2FlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbW9fbGFuZyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZGM1YmNkNjNlNGE5ODgwZmM4ZDc5ZWMwOWE2ODQwZDMyNzM2YzYwOWI4OWRmYjQyNzY1OTM4MWVmYzY3NTRkIgogICAgfQogIH0KfQ==",
+      "signature": "bJuCvllkKb5QYP85Jq3hAXDHXs3EXXcHOa5HGQ1eWHuscLqMWvJ3z4sydCOtZKb3dSDODXdHPwqlqk13KOp646Ys194BcnMX3oMoIxdQLmqycQemLOzwRQj4xmTLH2AhtUd8dJiiyt/smhBb0RsvMaenymKL7sB6jLlqatAAaNq92ydgnAf9jClUHDwLqXZyB+snvAqcMwFQmr9tcJN9215c7dYQm1qCC3woXOOWAXrWcP78XXkuLgEn43kcIdNoeq5gOmzj1HkTL60dcD9Z59wlC6Jagl+4HOjhaQDH52Fbe9a80iMmOhfV4tJPmvDSHRU8xYWvP43RFszMC8DM0Jty6x9/lusVgwMuklEHc7GfbcdQhZp5VXuTInAIPEeEhi77yWuuh5Qi6a9v3th4IJUN3juAdLRyisht95gmhXIrIrHDLlem9sq07nlRbkZOUBSMnhgVNtEk8Af2JqDywe/djfLJjgYZG456WH4WQO8FcA5EHTwjQIahA3kIyJT7vUCnP14gvHR6R85MzwrjGSlj+S40JUV7jL7zS9dl/0V7Y1RvjKKieQfyhTQP4W0Bk5jeXRsYsEveLb6or+HnWkWxQp/d3wqJmnkXct2CFnEsY6cDGMPnL2QxOlgT5v8QYZ66ZI6F/Oe8sIKVtbHrnIU4C5uv5MF9+vrM17P/y5E="
+    },
+    "name": "Arenjey God",
+    "category": "HELMET",
+    "tier": "UNOBTAINABLE",
+    "stats": {
+      "MAGIC_FIND": 1000
+    }
+  },
+  "recipes": []
+}

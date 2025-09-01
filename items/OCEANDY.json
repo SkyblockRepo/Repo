@@ -1,0 +1,73 @@
+{
+  "internalId": "OCEANDY",
+  "name": "Oceandy",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7&8Hunting Tool\n\n&7Grants you a &a+1.25% &7chance to\n&7charm the &aSea Creatures &7you defeat\n&7and capture their &9Shards&7.\n&7Duration: &612h\n\n&eLeft-click to consume!\n\n&9&lRARE SALT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OCEANDY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MzUwNTQ2MjA0NiwKICAicHJvZmlsZUlkIiA6ICJmODY0ZjY3ZGJlN2Y0OTBlYTZlODQzMjg2M2NkZWMxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3lmcmllbmQ1MDY1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxZDczMGM3NGRlZTg5MTA2MDc2YTJmNDdkODRlZmYxNGJhZWFlNmFkYzUwYmQxOWI3YTQ1YjkwZDlmZDM0MzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "gg/cSSONpxGO+b4iwUPmYsWmwBdimdEVS2zw84pgwKop6NCxCMCm47kjIZc8qMqsW7uoxVyStzX6rYtKvZTjrPvwYx/utmdUXi77M4dRYmHtRzpXAgdcRhy1WmkvFTvSe8lIVgkjaVlNRqoAUP9ZTLja9ExyTS3ID6A5wMDtDGHt36F+WsRM0/Y2xrvLCJVwh9IoLHEOf+wQ1cjQ1yOXKxmF0K4eB+qeW9Kr1F01ltQT9yYZ7G8TaIHV5CORCLhsWg4KMye2nFfVK6wDoOrEEtTyJBVSiziglST9PG9b+nGE9QifThcw1e+eRdqZDwKmJtE+tiIdBuHs5a+cvujnuesIu6mLucka1Y8l3v3kQo2rCgW6A6VMYtdoXH6OlvtEbbyIYeUKCDDhcDeuHbFfWUk1g+ofsECJOM3ctUKSCCZaFwmeHeATQVZK7VP12I5qEhWHIjVKmT7aRH6Y1K3Kq6v0kO0rJC9qB8hNPzrVwMgJHLy5g1VuJ4CAlwhdNzsBfE5T6pFO2CqdrcMkNN9WH1f4NIeOiVLsvaqjNVzHqjWeaAhrRWEusLYVU/lhnrJOhY0GoFKleCr1pPdtI4fOxt4VH2VnLIMUUPFVWQQVKSV3JgkrzqT+IYBunoGCMagaq0DVM7RJx5llJasR157KO4ijJv4EZDK/UHwKiS2UNQo="
+    },
+    "name": "Oceandy",
+    "category": "SALT",
+    "tier": "RARE",
+    "npc_sell_price": 200
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OCEANDY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WET_WATER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WET_WATER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WET_WATER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "WET_WATER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "LUSHLILAC",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "internalId": "REDSTONE_TIPPED_ARROW",
+  "name": "Redstone-tipped Arrow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+15\n\n&7&4❣ &cRequires &aCombat Skill 13&c.\n&7&4❣ &cRequires &aTarget Practice I&c.\n&8Stats added when shot!\n&a&lUNCOMMON ARROW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REDSTONE_TIPPED_ARROW",
+    "material": "ARROW",
+    "name": "Redstone-tipped Arrow",
+    "category": "ARROW",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 13
+      },
+      {
+        "type": "TARGET_PRACTICE",
+        "mode": "I"
+      }
+    ],
+    "stats": {
+      "DAMAGE": 15
+    }
+  },
+  "recipes": []
+}

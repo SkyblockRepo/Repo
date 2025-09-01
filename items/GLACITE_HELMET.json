@@ -1,0 +1,70 @@
+{
+  "internalId": "GLACITE_HELMET",
+  "name": "Glacite Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1750,
+  "lore": "&7Defense: &a+70\n&7Speed: &a+10\n&7True Defense: &a+5\n&7Mining Speed: &a+10\n&7 &8[&7⸕&8] &8[&8☘&8]\n\n&6Full Set Bonus: Expert Miner &7(0/4)\n&7Grants &6+2⸕ Mining Speed &7per Mining\n&7Skill level unlocked.\n\n&7&8This item can be reforged!\n&5&lEPIC HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLACITE_HELMET",
+    "material": "PACKED_ICE",
+    "name": "Glacite Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "npc_sell_price": 1750,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMBER",
+        "costs": []
+      },
+      {
+        "slot_type": "JADE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 5000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JADE_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "GLACITE": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DEFENSE": 70,
+      "WALK_SPEED": 10,
+      "MINING_SPEED": 10,
+      "TRUE_DEFENSE": 5
+    },
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 2,
+        "essence_type": "ICE"
+      }
+    ],
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

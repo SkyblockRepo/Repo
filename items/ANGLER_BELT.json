@@ -1,0 +1,47 @@
+{
+  "internalId": "ANGLER_BELT",
+  "name": "Angler Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7Sea Creature Chance: &c+0.5%\n&7Fishing Speed: &a+1\n\n&8Tiered Bonus: Depth Champion (0/8)\n&7&7Reduces the damage taken from &3Sea\n&3Creatures &7by &a3%&7.\n\n&8Tiered Bonus: Deepness Within (0/4)\n&7Gain &c6❤ &7per Fishing level.\n&7Fishing: &eLevel 0\n\n&7&8This item can be reforged!\n&f&lCOMMON BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ANGLER_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTM1MDA3MywKICAicHJvZmlsZUlkIiA6ICI5N2VmNDYyMzdhNGY0ZTQxYWY2ZTljYjg2MTdmNzc2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdWthcmlLYXplIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0NTFhYmQxNWJlZmE5YTQwNDYzODIxNDk5YmY0N2YxMTUzOWYyYzAwZGUwMWJhNDdjMGEwOWU0ZTBlZDhlZjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "w5oJGpUC7UGS3h8sj6a9PgcR7Amh+ut3Mm4NRVQQzBTqgGZiVeyZ77itaSURhnVV5JlXkwsRBSKo/ddL4rwOO/xlq0+n3kH1hYPAF7VLLcWtBTC42SJ0W6N4jCmqkFMhXk3M8XP5tSf/Y4tkLruoeRKpViP62oKgHJBVTjn7Jwd5d3t9q7uHG9++AwCDW8yI5+cN4yWBbM+10kYyB/OobQUbRGCSIwCWuA9p6pe2sXGeSihEatUZEhkO9md1ypdKEIbOA/OLYaMcS9v9qCMncrQbT7iLdjLIcOKe05awuNnnEiqfxqH6jyy2fSTywCZrOS5DxdvsIRPO4JsUMPQWclzLSJ+Nlm6JuyY3w+Yui9iXOBZJEViiSKRin86jIRYkB13jPxYKDnKfqwK/2dX0jmSgAYuRH8dgx4ihmJ2cUonrr13jjahmfryiUsw8KCd1l7x1mCMc/GT2tYfT3CJlDhxPVXtv/mLyjDeD88RXMS2g5zQJysdbQNr6Z2RJs3M4ySbioK4XM7/Zx/zCpPCOZEoiDdvnoYn8RiYvi2T4Lbh61lMOO73oLUIMkuy4UJTQidMlw6rFlQmUMiPzRMIfX7JM0AoXWV7CH/4WkmTnGCYsz9KWRwSnX+jxhEd+b/wIIBx3uNtndHbIw0TfAk1p/BsSSXCGI2gJEJAW5b8OMqo="
+    },
+    "name": "Angler Belt",
+    "category": "BELT",
+    "tier": "COMMON",
+    "npc_sell_price": 50,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "ANGLER": "BACKWATER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ANGLER": 2
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "fishing_speed": 1,
+      "sea_creature_chance": 0.5
+    }
+  },
+  "recipes": []
+}

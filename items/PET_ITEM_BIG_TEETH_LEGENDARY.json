@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_BIG_TEETH_LEGENDARY",
+  "name": "Big Teeth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_BIG_TEETH_LEGENDARY",
+    "material": "GHAST_TEAR",
+    "name": "Big Teeth",
+    "category": "PET_ITEM",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

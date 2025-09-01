@@ -1,0 +1,71 @@
+{
+  "internalId": "ETERNAL_HOOF",
+  "name": "Eternal Hoof",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gain &a2% &7chance to find Trick or\n&7Treat Chests.\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ETERNAL_HOOF",
+    "material": "GOLD_BARDING",
+    "name": "Eternal Hoof",
+    "category": "ACCESSORY",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ETERNAL_HOOF",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "LUCKY_HOOF",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "SOUL_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

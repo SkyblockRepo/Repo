@@ -1,0 +1,121 @@
+{
+  "internalId": "ZOMBIE_KNIGHT_LEGGINGS",
+  "name": "Zombie Knight Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Gear Score: &d195 &8(214)\n&7Strength: &c+15 &8(+16.5)\n&7Defense: &a+85 &8(+93.5)\n&7Speed: &a+5 &8(+5.5)\n\n&6Full Set Bonus: Zombie Knight &7(0/4)\n&7Gains &a+50❈ Defense &7when used with\n&7the Zombie Knight Sword\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 14&c.\n&5&lEPIC DUNGEON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_KNIGHT_LEGGINGS",
+    "material": "GOLD_LEGGINGS",
+    "name": "Zombie Knight Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 14,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ZOMBIE_KNIGHT": 7
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 160
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 320
+        }
+      ]
+    ],
+    "gear_score": 10,
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DEFENSE": [
+        85,
+        92,
+        101,
+        109,
+        119,
+        130,
+        142,
+        155,
+        169,
+        184
+      ],
+      "STRENGTH": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        25,
+        27,
+        30,
+        33
+      ],
+      "WALK_SPEED": [
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

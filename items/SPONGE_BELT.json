@@ -1,0 +1,83 @@
+{
+  "internalId": "SPONGE_BELT",
+  "name": "Sponge Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Sea Creature Chance: &c+0.5%\n&7Health: &a+5\n&7Fishing Speed: &a+2\n\n&8Tiered Bonus: Fisherman Set (0/4)\n&7&7Reduces the damage taken from &3Sea\n&3Creatures &7by &a5%&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPONGE_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwMzE5NDYwMjk4MiwKICAicHJvZmlsZUlkIiA6ICIxZjgyNTE2M2U0NDY0YjI2OTZlOTcwNzQxOTZiNTYwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVCZXN0RGFkMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNTkxMzMwNWNmNzMyMjMzOTg1MWEwOWRmOTljZjc0MGY5ZTU4ZDQ4ZTZiN2RhNDM5MzAzNTNhMTY1OTQzMTgzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "Yar2uruYQUGhAyHsUWNgYoAJzkiZbQrBtN9rOa4/bi/SDzF7guklOJs++Cw5hemOVjFliAA39TLVloE/C6pOtvsso5Zszi9T2Y1uvhGyrdAD/BsCu4l321XEzuuQflW90g8XeuXJir+JjkywakIDy2Ch87D2lXuR8UAB/8cqtrAFN5UdVqiX/FjO5EtCkzqA0Bn7ueDSmKm5og+DaFYKZvsZBNgKRB++qgNhUyrO9zyWqcgoUsUPeh3N6abzYAnYSv3HHkcpGXbVi1VTfkVwrYBZEK/gVY03fCKkj6jLszsb2QkvpiYgeNIqSsOCbJf4d5637GpG+2LfPaXzlj3/pyja5ccWnjxk0QCjSHRSrOhG747ou78TM4TflBxE7YhsXwAXrvBmum3254SBLPpiNAiXdufGbRx59xIl5fNS1RcrPFfPt8h0gSG1OiMCKnoZGsOqp3JX9KW0ExBrSlZM8WRs/tz8MWZtus7FC+FwvxmClsikvCYZbV+8MA5tjbcC1uqJALsE48mi4yQPBAapqG5PHb8B6oXSQ38fOyZMWvEGAUljIeDJZAeVR9qJrLfnzMPqBaHv11Ei2TUtAyf+e7pY7h1lShgwd+RqtiwUO262FF6/6c0xyaH+idCkw/RJHT9fxlfU5M6XEWrIlLSrIy6bD5qzt5S3V8ULR+cwrC0="
+    },
+    "name": "Sponge Belt",
+    "category": "BELT",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SPONGE": 5,
+        "FISHERMAN": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "health": 5,
+      "fishing_speed": 2,
+      "sea_creature_chance": 0.5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPONGE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPONGE",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "SPONGE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "SPONGE",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "SPONGE",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "ANGLER_BELT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

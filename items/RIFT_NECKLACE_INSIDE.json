@@ -1,0 +1,109 @@
+{
+  "internalId": "RIFT_NECKLACE_INSIDE",
+  "name": "%%light_purple%%Rift Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7The most powerful necklace ever\n&7created by &dElise II&7.\n\n&7Becomes more powerful as you fill\n&7the &dRift Gallery&7.\n&7Secured: &c0/8 Timecharms\n\n&8&l* &r&8Soulbound &8&l*&r\n&d&lMYTHIC NECKLACE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "RIFT_NECKLACE_INSIDE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "FzgY6lZN6PQ1XTZPQoqvDUTMg6uM8Q5g6DMJi2LfxqOQKGgcV1exkBxRJDEzlPZafg/anFsxaovU6wocV+naHSqLiltkJAbTEByg3IKXfT3mThzVfVckZDJ1xo1SfspYlw60P15oquJ8oE9KLZDGTr4VL7r4ps51df8QyVDZ772qW5mOHzwTuarFoH6zJyz/DjFTAPBOKeV790yuGKIeS69K8L/cVHjR8c5SqEDvVYdjXNHEk9q4q+FX0FInxuw1JkjYOIHXrlYwj2OJpIAMjHXBbCyhCrkZnq7uEJ46XJ02SThjL6ozKUh3ueda7ReKtP7YypOTy96FScf7+jgPr6OlS/fKLNHowABLfC1nb7iKPWENTxE9l/EX6Q0GKoGzO0oxDxGk6YGk4XQjfTa9dOh2v8IBPVYayGlkHNaEkLgcq7z94a83X/NFq8kw6oD+nNb+COhVU7hDud2e+a7Ij79XdA2oziX/PZFq5vQNbKT9yAHPomhCrPszdbs5Re34kpo8z93UKRrWuPEWb+p1Xyr4kB8M5xkJlaYO/JIJ/C5/7/S7S+SvM5Eg7KS/KjBgnnt3hyVxdDTVCfUs9dvLs9ztbYnPoY0lL8BddGN6DnbV1Ejk1GzBGu2+AhRbICRy7/vx+2E3UrurIRJZs91hS2oSZAV6Jxh5RITzzDdwhs0="
+    },
+    "name": "%%light_purple%%Rift Necklace",
+    "category": "NECKLACE",
+    "tier": "MYTHIC",
+    "item_specific": {
+      "scaling": {
+        "tiers": [
+          {
+            "stats": {
+              "RIFT_TIME": 60
+            },
+            "numeric": 1
+          },
+          {
+            "stats": {
+              "RIFT_TIME": 110
+            },
+            "numeric": 2
+          },
+          {
+            "stats": {
+              "RIFT_TIME": 155,
+              "rift_walk_speed": 1,
+              "rift_intelligence": 5
+            },
+            "numeric": 3
+          },
+          {
+            "stats": {
+              "RIFT_TIME": 200,
+              "rift_mana_regen": 10,
+              "rift_walk_speed": 2,
+              "rift_intelligence": 5
+            },
+            "numeric": 4
+          },
+          {
+            "stats": {
+              "RIFT_TIME": 245,
+              "rift_mana_regen": 10,
+              "rift_walk_speed": 3,
+              "rift_intelligence": 10
+            },
+            "numeric": 5
+          },
+          {
+            "stats": {
+              "RIFT_TIME": 290,
+              "rift_damage": 1,
+              "rift_mana_regen": 15,
+              "rift_walk_speed": 4,
+              "rift_intelligence": 10
+            },
+            "numeric": 6
+          },
+          {
+            "stats": {
+              "RIFT_TIME": 335,
+              "rift_damage": 1,
+              "rift_health": 1,
+              "rift_mana_regen": 20,
+              "rift_walk_speed": 5,
+              "rift_intelligence": 10
+            },
+            "numeric": 7
+          },
+          {
+            "stats": {
+              "RIFT_TIME": 380,
+              "rift_damage": 1,
+              "rift_health": 1,
+              "rift_mana_regen": 25,
+              "rift_walk_speed": 6,
+              "rift_intelligence": 10
+            },
+            "numeric": 8
+          }
+        ]
+      }
+    },
+    "origin": "RIFT",
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

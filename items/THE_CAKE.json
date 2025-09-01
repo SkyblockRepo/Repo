@@ -1,0 +1,29 @@
+{
+  "internalId": "THE_CAKE",
+  "name": "The Cake",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1337,
+  "lore": "&dThere is no cake.\n\n&8&l* &r&8Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "THE_CAKE",
+    "material": "CAKE",
+    "name": "The Cake",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "npc_sell_price": 1337,
+    "museum": true,
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

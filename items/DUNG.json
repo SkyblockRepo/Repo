@@ -1,0 +1,27 @@
+{
+  "internalId": "DUNG",
+  "name": "Dung",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Can be spread across a &aGarden &7plot\n&7with a &aSprayonator&7 or used in &2Pest\n&2Traps&7.\n\n&7Attracts: &6Beetle&7, &6Fly\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUNG",
+    "material": "WOOL",
+    "durability": 12,
+    "name": "Dung",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 100
+  },
+  "recipes": []
+}

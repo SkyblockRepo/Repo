@@ -1,0 +1,26 @@
+{
+  "internalId": "EMPEROR_LEGGINGS",
+  "name": "Emperor Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMPEROR_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "153,13,0",
+    "name": "Emperor Leggings",
+    "category": "LEGGINGS"
+  },
+  "recipes": []
+}

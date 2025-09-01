@@ -1,0 +1,36 @@
+{
+  "internalId": "ABIPHONE_XIII_PRO",
+  "name": "Abiphone XIII Pro",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b8 \n&7 &7Maximum Discs: &b10\n&7 &a&lContacts Directory&r\n&7 &d&lTic Tac Toe&r\n\n&eRight-click to open!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_XIII_PRO",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njk4NTU3NCwKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hODQ2ZTdmNjZiNDNhYjAxOWY1MTYyNjZlNjc2NDZjODZjZTM2MDJhYjg0YTQ0MzQ5N2Q4YjE1ZWE1NDZjMjFmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "cW4cMEjExhT7vLQfEEq8ZVIOpyHhY63PuDgOusC+wUTngfHxorQJEvu8APZW5waLdg8PGFTpMZKIUPfmIU/pwkT8HWVwE5uWAkvF/RchoAkE4zp96Xbx+gc6K1dCMcEcOi5MoizkBnrgpN0lBjeXnMUrmNFzdRy3I4D0PH0mRbv1I0+CyVgd56TSloSl59yoCpYjXVlbQcU0QK3fYshg3Kb5BzlpDhVOutPEYVnpNsBEbfj62jnSsN+B2l0PqM1B3twLF/6V8BPSxhBOUxiJ1YtcbNWp3jUjYrBk4uqiIr1Q9KcSxzi/R3WSmkzOZXQ5RixwLZUQ6Ftv56FmHBRT4thQmPLuRxxv2hsxbmSdvELEr+BUk5QB90LHhC0HefIWzaLMgae2HGtxo6q6L/rc7c2gKd566qy2M4k3gs+yRN91fEF48wVPSGboD7xU4uFWzguMly8aOhXswQtrcqhdbg34XjpyfYpkZlfm7ESFaSwPun2Xlr2aOxijITr3UQGWZJpwqRiC5h1WgcAbkJaXAkp+3sY6J3gZ2ghwgZ6ZVi/bRMHxvdh0e81J9xLQzCsLA5MBQgZHIro2sUlOqlwrV/30wzV0dkgEyRe30mAZCqZrc5E53vNPMCE2bmDPoNtXYWdIB9yvKjAEqJbuJij4JkfPTnCAF9COeklUJZPVdks="
+    },
+    "name": "Abiphone XIII Pro",
+    "tier": "EPIC",
+    "item_specific": {
+      "max_contacts": 8,
+      "max_musicdiscs": 10,
+      "can_play_tictactoe": true,
+      "has_contact_directory": true
+    }
+  },
+  "recipes": []
+}

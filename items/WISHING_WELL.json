@@ -1,0 +1,31 @@
+{
+  "internalId": "WISHING_WELL",
+  "name": "Wishing Well",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n\n&7Place it down on your island to\n&7accept wishes from guests. Acts as\n&7a cool guestbook too!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WISHING_WELL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjM1MTQ3NTQxMCwKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTA5ODZhZGRiYTljNjE3MjIyNGI1YzEwM2U3NmJmMzIxZTE5MWVkNjczMzZmZTY3OTY4ZDRiNDMzMTVhZTc2IgogICAgfQogIH0KfQ==",
+      "signature": "HTVZsvnBWipuG8qgBb2lzycgIQlomnY4X5MbeEjorsx5uRQmkdaH8E5bUGcMyS4VetogOGpMO9b8K26ZN3exomPp+l0e+0pvyduQR0uwdz1XOQfBl2CjumXEs/NkfdlfH5BHChkGBXLTNAa2gnZ/ox/w9QpuNF9TYOvUj0S1JI6nJO/wT5b7MSxDiri1y78ltOt+AFZt2NdRj99rYAvHhmEvo2uVXM/Bmfc6G/IvRtUor11mJF/18OifSYdK0L9RNT8ReChnAoBu7iFhhYVuCi0ZsLU0chhjxtrS+1T2wX0MRUQ81vbHqCC48x9d8S2JTBwjIKo4Enu7ttJE0jGQkBgwetbmPf9GPveofcBFqmnVW47m0PFg0bvWCVvj6DQcmx9IgFJMtVxq+Oi9ap+wTnQ+bu8BfI4+VJnF0C5gXWvr6OLfYUMmjrBHtpmZYaQRCzYGZaYiA/pDpR13YuPxKv62sEpPi7PsTSQdQpPTy/+FnJjk9NEnfYi6sNJ7GIvtdJNb3qE4P5iz0ZZoiOggubRmahU5nIxTlfrhzeAnS+mUHcVdPWt5AQcYAmC5L82LObTZ0H+r9CihoJfrfxqZYUL2Fe5GoMjkvxHGW3KTs1iNtqwLpUXEkq/3F1yv0W+ATLHVVngF1bNpj0QKOmca09AHUJw0CxT313rXccQQ0DQ="
+    },
+    "name": "Wishing Well",
+    "tier": "LEGENDARY",
+    "furniture": "WISHING_WELL"
+  },
+  "recipes": []
+}

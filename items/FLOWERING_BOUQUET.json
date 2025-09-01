@@ -1,0 +1,32 @@
+{
+  "internalId": "FLOWERING_BOUQUET",
+  "name": "Flowering Bouquet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Blooming &7reforge when\n&7combined with equipment&7.\n\n&9Blooming &7(&6Legendary&7):\n&7Speed: &a+6\n&7Farming Fortune: &a+5\n\n&7Requires &aMining Skill Level XIII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLOWERING_BOUQUET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjIwMjcwMSwKICAicHJvZmlsZUlkIiA6ICI5ZWEyMTQ0NGFiNjI0MWZkYjg5YjE2NDFhNDg2MGZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICI3QUJDSE9VTiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOWZjZmFjMmNlNTczY2EzNTEyMmE1MTdlNDMxMTc4Y2E3YmY4OWQwNzkzYWY3NjVmZGY3Zjk0OWM0ZGQwYjhlIgogICAgfQogIH0KfQ==",
+      "signature": "bdxDfc2KOlN9t8OF7wDVbpU/8LRS0V+QKfty7J9/jANn5rlcE6EKjniB/fDFclbtkKQan+ihy/n++krhPtR9oqqjuO1s1cWy/uFu13VZQWKal63rYbsq6rYmWKv7q6WF6t19azlJqJhkN8NeOCWR/bQaBLs4LhJxodgEQ3o77068UCium3ynsksjRFOBAB7UVeTtpWucg9Yc+yHTA8Kq+JG1fhYQAx9+QDQLL1naP8bHc37bqpatBoZ/KT1/ziXMsaZMLNwzkOeILXCENbKNkR3lKGe6DdhAQyCmvsLzcoGrOX1SRZklxGztpHZMomJtDDi7ncPTTPE+m4JMbkxhFYcRcgnn71XbVlGbkNS0C8DeLO5b4tuCbVgfkFKQ+kjVmwA9r4ucWdF1hoDyyrj3IKrWNSofCUL3RaQBC5ZCecllGEm9nsE9OeQLUsB0CRb0HHIuOq5SD7/bFU4JUqg6VwW3RZto7aqltTZpAd/DutAFayAai0uzC/WOxrES9CxtCJZcft9xxbj2Krzg7bMmlissgLn5etgjyweeeoANp5AmyVShC2Ha1+bshAGnTAHDqFy4zkgT/jQx7yZGr9MpkKBIeq4WZkbVW2hr0pr0494DnQ62oLDM0gbjvAnz5YZayQK2Z13+fX5UoY+XJOIRhlFEqEDEfS/X7XjxaGrXVFI="
+    },
+    "name": "Flowering Bouquet",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

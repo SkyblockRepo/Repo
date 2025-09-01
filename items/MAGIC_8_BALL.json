@@ -1,0 +1,31 @@
+{
+  "internalId": "MAGIC_8_BALL",
+  "name": "Magic 8 Ball",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+25\n&7Combat Wisdom: &a+1\n\n&7Every &aSkyBlock Season&7, the &5Magic 8\n&5Ball &7will grant one of the following\n&7bonuses:\n&7\n&7&7✧ It is certain.\n&7    &6+25☘ Farming Fortune\n&7    &3+1☯ Farming Wisdom\n&7&7✧ Reply hazy, try again.\n&7    &6+25☘ Foraging Fortune\n&7    &3+1☯ Foraging Wisdom\n&7&7✧ Don't count on it.\n&7    &6+25☘ Mining Fortune\n&7    &3+1☯ Mining Wisdom\n&7&7✧ As I see it, yes.\n&7    &b+25☂ Fishing Speed\n&7    &3+1☯ Fishing Wisdom\n&7&a✦ My sources say no.\n&7    &c+25❁ Strength\n&7    &3+1☯ Combat Wisdom\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGIC_8_BALL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMzMxODQ4MzY1MiwKICAicHJvZmlsZUlkIiA6ICIzZWIxZDExYWE5NDU0YTZjODU5NWVhNWExZjg4ZjA0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWl2aWNpdG9fRWMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYyNDEyZDYzZGQyZTBlMjMyMjMwYWJkMDRhOGY3MjZlNTFjOTNhNzI2ODZjN2RhZTE3MjJjNDY3N2Y5ZjU0OCIKICAgIH0KICB9Cn0=",
+      "signature": "Ai1ZSrPWOTf/j7qpftIdjfsi9pXqN1cHfntVD6dbslIfpi5900qrSHb2wFzfzSq/O+Yw2xmM14rGlx8eZzU+fCCq5rSE1USyUUF5fFtYIAiTp09QVJZ95HE4LV7P+2m2Ji5/rMufcphYBMRM1OY147sBOwKfqMV3FVJ1X60X9Z4nWsN4xOOQW95fqbWx3UX4/csN4BClw9fXOqGxIYzE2FSuwK+BKULbPb7767jFpktjr9U2nsDiJeejrBsNybDp49jWGzk0HEILPa5BaRXzvnTPlCH0eabdWV4keknBlXMk4ZogK0Xg7TLO92uOKs92RZTKMDdYut/veXeYsUjhkxjd6hXnIBR3vYeYPchH3NEzc1JE3lRQ3cgSRKX5/WgfS4b36PeFqiwwiCH1PFrmsWhBMpp0LAXkLHN6Pb/cPg+wFbHt5FMSumKALQzl1CueV9+25R2wNmiE9XFXcGqHiUT3ff1hEeonXiox4Qm7zN0UO+WGRaHPjYj1ttDPOipNE6Oc/v8lySwrx/KUO+JeF+w/JsVIbOwmnWCbIDsNLTNsbncOF4BgrwXrKSvB3KI10O0Pr28TBUl7N7Rc5223jyNAdvuQ/CyX/oT2V9NCuSLuxaV8WuLyQmcx0f6GtwMlXtGDBVhOz3CpNusq98tH8tJ6WAOFHtkJ0yobk2lSHZg="
+    },
+    "name": "Magic 8 Ball",
+    "category": "ACCESSORY",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

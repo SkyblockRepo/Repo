@@ -1,0 +1,77 @@
+{
+  "internalId": "GRAVEL_GENERATOR_8",
+  "name": "Gravel Minion VIII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining gravel!\n&7Requires an open area to place\n&7gravel. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a19s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GRAVEL_GENERATOR_8",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzcxMjM5ODQsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcxMTdhMmY0Y2Y4M2M0MWE4ZGZiOWM3YTgyMzhjYTA2YmJkYjU1NDBhMWU5MWU4NzIxZGY1NDc2YjcwZjZlNzQifX19",
+      "signature": "lbj+Ts907FYIisGoSBZM8S9nvvwV360Sz2oaS+qzjePow52RdEFIvsq25iekWHru1UXpDqVxX8Jx/0B0U78XxoeSiV5SC0Sd8i1hliGqO6OHP8TTX67ktISihatzvIoId3d7xYEjVnVR98lNlSpYUfONKI3AbQaMf/qFWj8Tbuy3mjY701SfCLK01JTQYAHotLkLF+qtY9oszVjz5m4AU4UNx4Dca20cRaZVLH67d0sHm087aa3lXeH9e/qVUtxQe1ySDFgFEsvv2lfhNuo24wjDuyY4O2u6KcU/8lmwvCu6wsGRiGZZs+FbH+XzSKfUYFYjGCibJH2U1J04G3BV26HfSiiDCeeecCNP7cE8ETbztaeGPOWr8hNxys97IHZi+Dn60A61riCuloJpq53OkX5uB4FfOugnxwY5mnOcXTwYNTQMFzYCpXEnZ7ZlJMTuhfqVxKGd7wyQ/z8l0coQ3JgZSQx6/Sa6rZ4iG+4PKktcfhknOb3oco19/j6QYddHB4Ajt90tlbU6RLYqicEu1IQuYHBGnHsrrRIxnQVUvmGeuEHJGG48oLCzm/Kti5UQ5fM4dxCUKpgtYcCcOLMyaWXVsepFBam9zEpMFxJ5uuipi9K5YRGmSHDihYqSv9OodhmYBFc28KrvhkvfB/n+jrqsFMi7Fh9t2xilBF4KG/4="
+    },
+    "name": "Gravel Minion VIII",
+    "tier": "RARE",
+    "generator_tier": 8,
+    "generator": "GRAVEL"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GRAVEL_GENERATOR_8",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "GRAVEL_GENERATOR_7",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_FLINT",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

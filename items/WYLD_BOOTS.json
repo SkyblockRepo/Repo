@@ -1,0 +1,31 @@
+{
+  "internalId": "WYLD_BOOTS",
+  "name": "Wyld Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+15s\n\n&a&lUNCOMMON BOOTS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WYLD_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "21,73,24",
+    "name": "Wyld Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "stats": {
+      "RIFT_TIME": 15
+    },
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

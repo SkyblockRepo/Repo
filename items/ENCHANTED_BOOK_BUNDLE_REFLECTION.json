@@ -1,0 +1,37 @@
+{
+  "internalId": "ENCHANTED_BOOK_BUNDLE_REFLECTION",
+  "name": "Enchanted Book Bundle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Reflection I\n&7Grants &b+2✎ Intelligence&7.\n&7Grants &f+1❂ True Defense&7.\n&7When damaged by an arrow, deal &b2x &7your &b✎\n&bIntelligence &7to its shooter.\n\n&7&cYou do not have a high enough\n&cEnchanting level to use some of the\n&cenchantments on this item!\n\n&7Right-click to open this bundle\n&7containing &f3 &7enchanted books.\n\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_BOOK_BUNDLE_REFLECTION",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MTgyODYwODY3MjUsInByb2ZpbGVJZCI6IjQzYTgzNzNkNjQyOTQ1MTBhOWFhYjMwZjViM2NlYmIzIiwicHJvZmlsZU5hbWUiOiJTa3VsbENsaWVudFNraW42Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmFlMTkxMDcwODZkZDMxNGRhZjMxZDg2NjE4ZTUxOTQ4YTZlM2UyMGQ5NmRjYTE3ZDIxYjI1ZDQyZDJiMjQifX19",
+      "signature": "xm9ZxDygfuHPw7o09sr5M+3WFB9RziNZkE6urjCANjnAsJtKuPScmLFXZobJSquOk0wNnmae8kLTNJ4JtYDeJtg1kE9uI36FXis0F3mZRvfz1DFA95lggIYwVxPW1cQtqg4/+4Ip+nrMrZ7HjJG6tKt0tFwLeX4J87FLc3SG7HIZSWhQ9cSdQwZ6nHS2i4b9MGTKKsowzQkLujrDSVWiIsTxnrViKTAp1NJ9x9nD61zYaoB0J4QTIL7gt4mQVdevChzVFg9V+4BfahD6joJ1cZIbKWZpbP5z0SThoCOoL7c0YRb65QJpBMAm0/+rDG9ZSGyaBFN15MS2mODpzIqEQeP5YDCM1bEvGypG/X0HQFtj623WhkudGyV+5MAWldTkl2ZCCotfumMVQuoePbMjKNqjPb2d+YBwQN3aB2de3COuhOZy7Y/tMNqAEOMDODXxJFuJQcE2uwv2nrrfTZbKVGQh5Tqi9Vk6A/EXsmB0ygxSncFB19xezpxSTKm279+rP0vOjRFuAtmCkwIKFKtKjJFeni1XiJIwPaaxAr4Rd930/e5NaOSadr4oHdkInQISgJStrs3FcG94UKJlngzZtoC146sl3cDA3XiG0R+TUC0xJnXq123Yl0nw0VSNvkXtDhHRLUlxrd4/8tzevL63Q5pi6VRXup1XlZymvlMcd+Y="
+    },
+    "name": "Enchanted Book Bundle",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "origin": "RIFT",
+    "soulbound": "SOLO",
+    "enchantments": {
+      "reflection": 1
+    },
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

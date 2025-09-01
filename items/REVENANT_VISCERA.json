@@ -1,0 +1,56 @@
+{
+  "internalId": "REVENANT_VISCERA",
+  "name": "Revenant Viscera",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 128,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REVENANT_VISCERA",
+    "material": "GRILLED_PORK",
+    "name": "Revenant Viscera",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 128
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REVENANT_VISCERA",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "REVENANT_FLESH",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "REVENANT_FLESH",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "REVENANT_FLESH",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "REVENANT_FLESH",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

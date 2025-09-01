@@ -1,0 +1,121 @@
+{
+  "internalId": "MUSHROOM_GENERATOR_4",
+  "name": "Mushroom Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting red and\n&7brown mushrooms! Requires an area\n&7that is suitable for mushrooms to be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a28s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MUSHROOM_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDc4MDYzMTcsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA5NzBlYmY3NmQwYWE1MmE2YWJiNzQ1OGEyZTM5MTdkOTY3ZDU1M2RlZjkxNzRhOGI4MzY5N2ExMGY0ZTMzOSJ9fX0=",
+      "signature": "tHf18mzkErKug1ZZpP1wsibH9FQqs9duAdK32htflyAqdhSJe7HL26kd93P1rzF9U784Bsmy3rOGEvBpeharpF+ZkGJaZj61+EDkVA7aYNrxB54lGCLYL7rV7ZXSL2TC0nlOIWSt42v67qG45+KM+YlV0fvPf8fx0kuGtvr4tM4rxhdHOhOlrDQ+bQcm6IZJoEgHan13SHZIoCqT7qlDLzBmBec8JAVY+jGP/KPxGCwJyQoOw75eggw8pvSeUbW/XG+pXuu1SwEsVNX9t/h+JTmauk3t49dkKEFhSeJJltl7lPpVJUwnN0zzthKJYU8n0YnYBgrsR3Dceajd20uJHYnm3Kv6oOgq7bvBvEHLNWcxlk0UxUVYnGJ2n7gSU3VCwBsb6fSO5JU+dKSRyKBci+/TfN3oN8wKvyGNplRo0EJ6XJUlWb53fzytgeFioNlPpdBeVgQW6vy/1vpCvHntcZtLEPDq1nuVG0RY8pr3H5+8dOtuzXomPKByZXMsyYM2y/k/0Tezr750Ij+jvAFjaqA9nB4m5gVuxLEr2Sz+QaHO6GKJp2ihNSqmLYqB7/g9rZ239FCMiPgU9H8+KNibcbCjgujFA730+WOS7MKyQzrQ8FMMl5K6HI0DljYcZAr1+XGmqQ5jgpp+W80osvI8GgDozR1AQ1rCrdxM82M7ilA="
+    },
+    "name": "Mushroom Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "MUSHROOM"
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "MUSHROOM_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "MUSHROOM_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MUSHROOM_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "MUSHROOM_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

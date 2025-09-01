@@ -1,0 +1,28 @@
+{
+  "internalId": "WAND_OF_RECALL",
+  "name": "Wand of Recall",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WAND_OF_RECALL",
+    "material": "IRON_HOE",
+    "name": "Wand of Recall",
+    "category": "WAND",
+    "tier": "EPIC",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

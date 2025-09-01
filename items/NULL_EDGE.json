@@ -1,0 +1,71 @@
+{
+  "internalId": "NULL_EDGE",
+  "name": "Null Edge",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NULL_EDGE",
+    "material": "STICK",
+    "name": "Null Edge",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NULL_EDGE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "NULL_ATOM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "NULL_ATOM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "NULL_ATOM",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "internalId": "WHITE_MEDIUM_BACKPACK",
+  "name": "Medium Backpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WHITE_MEDIUM_BACKPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUzODU3NzkwOSwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MyZTMxNDRmNDNhYzhiN2FhNjdhNjJlYzk2OWFlOTdjYjI4ZjNhZjc1ZmEwODcyZDM1NDRkOGZiYjBhYzUwMDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "bmfLjYpzYgP6ILKKHiV8VRn1VmN8oCCkHVBw/BUEo+kvSDlLGLyI3qhDFkNecX2Jh7b+aYFXfWDPUApaNtrWvs3Zl7DEP2maY89cKStXZK5LgScfoywLERmSXl6Rag2dTfUNjDh9X4i6GuhUVLFgrGNaYgc27CxXR7QDHXgh9s/F4OwLLiAGIGojkjdYONDxYn0aImSaOdQ7BYXi6jpBGmUHPyi69ULbQZQZf4zUWJ9/MRncSRElSp+j+fg7GZoZgWnee+wIz4WWC6iq4aNk3iWehyVf5Tj8cacLW/eCB7B9YCP4UGUAFH6k2oQEk5jKosx0Jl1ZHFxenITazFAJ8dWn7iT/ouIUGW21BJUHCRvAGBdc1zlLGmwVVUm4JSF3JiPbnXemr+IGCT9QL9CzglBnOnBEWw5Vu6AI/RzP2926V6v2b9jaudB+bRJ+Q+e8dsRx/I90vW+3iYdQ6PxA2soklGihlDFNju8O2/+fw/IdtD9+1nqBv6BD14tn0xoz1Dl0msFW1djITzmH68uCJ670mTMUm/3V507irGw8fkdRZDBZRt1MF3kCQAAlXdibeHBibZfe2Gj1WT8qhVRVpMbJk6yAN30jAAGM1n2kKs+0YVsmkMqGSu66kLRYOOMgZyWH0AZZ/q/gwUG/CEmLf1TlYvuu9Ns2Vc9KC8nldvU="
+    },
+    "name": "Medium Backpack",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WHITE_MEDIUM_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MEDIUM_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "NETHER_WARTS_GENERATOR_5",
+  "name": "Nether Wart Minion V",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting nether\n&7warts. Requires soul sand nearby so\n&7nether warts can be planted. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a44s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NETHER_WARTS_GENERATOR_5",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDc2NDQwNjYsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZWYzOWE4ZTY5NThkYWZjMmI1ZGJjNTU5OTNkNjNlMDY1ZjNkODhlNjJlOTRhYzZkMjhjODY1ZDg1Yjk0MzIifX19",
+      "signature": "dLVHb7epq5fvVHjZNiF0k4BLRzkUikR9Rzlp10+5ow+ghtT7ZO9CJHPOg2v8GOVuJdFNOkXD/MLrbwGxCSCQA3GX1gvZPgYzdU/QoHDVqZUKOEKBppHHsQUIVwCzsW6bZSzwyt+yRY0YNpJVRe5aH153fnY55TXo+D0rVYFl1Jof3Lb9cu6sdLGd683IfNXZXwJUAKHM1w4VUjvYoS3o+jtubLncxMlH9D3hszIximNUecTeR0bT5MPurDvHMJx9kJ/bqM5wZ7G52dxBiFVkuzeOCzp6eRvZ/+K3QvZ+eNNFBZuqqbzb0fYvWZzKQXosZhKEERvMNahEvK6jgAMml2gsAJhx3do1m2E/7CGseqPZhd3C7KeIZlsLSumhqsE07jRFK3aBRIvMfreZW7lVyUoXnMKL9rJYIrVzdIZ1FjABAc5ew3i/NPJjkXVNM9nBLH5GjGSa+SJ23n6CzLQv7gyUn3F1uP8zcUkCAWDceahQv0NiISIPVrR7BsHc37UXnRSK+6LGkEE3vU0BL4TrbnO2qyhKomj/lNLtokryHqsb4YLj/LvG3vQMNrCZ2H8ReeTuB31ggyQsueIPWyJsTWf7pxb63ui5KGfF57Cdb1LJsFFdDd8UYfYLZaKp1It9D5lCV36PEqWkxF1OhFzQYniiRAJrdSJs7mtxDSzM7mE="
+    },
+    "name": "Nether Wart Minion V",
+    "tier": "RARE",
+    "generator_tier": 5,
+    "generator": "NETHER_WARTS"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NETHER_WARTS_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "NETHER_WARTS_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_NETHER_STALK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

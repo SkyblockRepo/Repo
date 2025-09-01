@@ -1,0 +1,142 @@
+{
+  "internalId": "STARRED_BONZO_STAFF",
+  "name": "Bonzo's Staff",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d310 &8(341)\n&7Damage: &c+160 &8(+176)\n&7Intelligence: &a+300 &8(+330)\n&7 &8[&7✎&8] &8[&8✎&8]\n\n&6Ability: Showtime  &e&lRIGHT CLICK&r\n&7Shoots balloons that create a large explosion\n&7on impact, dealing up to &c1,100 &7damage.\n&8Mana Cost: &390\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor I Completion&c.\n&9&lRARE DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_BONZO_STAFF",
+    "material": "BLAZE_ROD",
+    "name": "Bonzo's Staff",
+    "category": "SWORD",
+    "tier": "RARE",
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      },
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 1,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "stats": {
+      "DAMAGE": 160,
+      "INTELLIGENCE": 300,
+      "WEAPON_ABILITY_DAMAGE": 1100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "dungeon_item": true,
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_BONZO_STAFF",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BONZO_STAFF",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BONZO_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

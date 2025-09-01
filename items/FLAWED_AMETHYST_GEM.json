@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_AMETHYST_GEM",
+  "name": "Flawed Amethyst Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of\n&7&5Amethyst&7, but it could still use some\n&7work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&a❈ Defense&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWED_AMETHYST_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTQzNDMwMSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MWRiNTkyNjA4OTU1NzhkMzdlNTk1MDU4ODA2MDJkZTk0MGIwODhlNWZmZjhkYTNlNjUyMDFkNzM5Yzg2ZTg0IgogICAgfQogIH0KfQ==",
+      "signature": "OvX16CV/N3Nl/pWsuBMTY9SD5Cr1pAtvMmgIwmkI4qqAasVbz4DKgU2/yMB80hihJ0rV0J2Rff28EtNhJgZtG76aA0mNfMW/Y8WEzA8olDCI5VRopYntj0oNM/gs+5DO37c39zi0hneSjIdqtL/1s1gjwjhnhugf737hBK2altv/P6JDrJ4TcrgiTF50+bhLZvGFTVPaV2SNRH2n/ZKGkUYu8DG1DBMSn7LyMtA8aI48r+MNAp4NzYPtwFXYdk79aAZUpDr7H1cH7VKjQJZVrafpd9rFsQi5CyvULNpIkU1N6yRVni6yuKVlPwoPJKpjSki110vt1k88D8kCn4RTgbDM0Sr1BZHBw55jolN1qDMQokq/hSM6v3ImMkOHoEjQeayYaihRf94qv3JF2QyEDzgzmipkj2eAIpQKNpUaT54cGs8UTWIGv/JzrOeQdX7xSuhnLPMvVwjQ4XC7IUbc5UunpqK59hkxs/jbKHUVWU4bpW5QXX6peiAyShyiEIWzTQD6uBv2e6TYaEesOmeaD4DA0vCr+BJum6JJv4zH0HvHnJny1sIumAgeA18QK+aWGN+9/Ob4WmwW1swfpKXadd3Eg98k/XL08WtHBiF82V7uRxykpyZcp/KmQ0VuY3G6UKlFcdN9Fkj5qEb/XWYtDAiedDy3Ss80fl3GWFze6tY="
+    },
+    "name": "Flawed Amethyst Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_AMETHYST_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_AMETHYST_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_AMETHYST_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

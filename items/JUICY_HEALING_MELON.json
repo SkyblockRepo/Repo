@@ -1,0 +1,84 @@
+{
+  "internalId": "JUICY_HEALING_MELON",
+  "name": "Juicy Healing Melon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Succulence  &e&lRIGHT CLICK&r\n&7Take a bite and heal &c9❤&7.\n&8Mana Cost: &350\n\n&7&4☠ &cRequires &5Vampire Slayer 2&c.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JUICY_HEALING_MELON",
+    "material": "MELON",
+    "name": "Juicy Healing Melon",
+    "tier": "EPIC",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 2,
+        "slayer_boss_type": "vampire"
+      }
+    ],
+    "item_specific": {
+      "heal": 9,
+      "mana_cost": 50
+    },
+    "origin": "RIFT",
+    "motes_sell_price": 5
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "JUICY_HEALING_MELON",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "HEALING_MELON",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "COVEN_SEAL",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

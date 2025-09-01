@@ -1,0 +1,77 @@
+{
+  "internalId": "WHEAT_GENERATOR_3",
+  "name": "Wheat Minion III",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting wheat.\n&7Requires dirt or soil nearby so\n&7wheat can be planted. Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a13s\n&7Max Storage: &e256\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WHEAT_GENERATOR_3",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzY0MzAzMDEsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U2MTc3MzYyOGVkNzU1NWUwYTYzYWRkMjExNjZhZDM0MjI3ZDEwZDIxZTM0YzNjN2U1YTBmYTg1MzJkZDNmNiJ9fX0=",
+      "signature": "COyyypihSOBIb5u5S27zadQz6Zoz9qLyNFLjaFDakDrHhDICleLEAu6ccvr2dtThIJUfOUDltVYPilrpxosYMZoJ9BI8YVRNdpzyYKcK9dpLOtrNe9qcarw72qNgQHrA4+97iZVWoBOBm8E2uGD2Hye0wouhpRwzDl9sHNWvkESNM9BYmTKpiAdT7Q5ZP0ViAn5MUX4VdmFolWe91YI+wIala0yGGX9xcJc1dFkxSUpwN6/aY3JCp/hWdKjloB7I4MEEKbSRTuFXJCngUBQ9v1oiHlh2NfS5SLV2YGDlqXkEPb/TKZg7GEVglMi525z/vhdELLSIHVilIXwsyYmZWLrNC4XVrcdK6aucU5lF5mpJ87z87Y1pmyr8fLeTpoh2Z+9CjIHxNrVBEZUJXdkb3+JhPCL51km5FCPyCAI7wHiV02jX4ccXunOYXQFWVwi6nquyWQXT7B/7lOkRNqeeGtB5Wd31J06j8+dzyDPYXtNOAoWm3Czgk4X9LgpGtuFNumTRpfXSQIfieUSFMQXn5z0Is2wEGEBfmvxJ9r4/Pf5MPXd8ORdJF/JwwjZ8DT5yNFnFDD5TaSPUU+bJC5hizwthehUlk9LvxFXSoqWPwF8gUCd0YU1344dGN0FhvfsB5olUALyddDgtwQka0OzFfMCe1BBcTrElDR3jU99D4mo="
+    },
+    "name": "Wheat Minion III",
+    "tier": "RARE",
+    "generator_tier": 3,
+    "generator": "WHEAT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WHEAT_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "WHEAT_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "WHEAT",
+          "quantity": 40
+        }
+      }
+    }
+  ]
+}

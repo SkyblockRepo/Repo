@@ -1,0 +1,84 @@
+{
+  "internalId": "SUPER_UNDEAD_BOW",
+  "name": "Super Undead Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Gear Score: &d260 &8(282)\n&7Damage: &c+220 &8(+242)\n\n&7Deals &a+100% &7damage to &2༕ Undead\n&2&7mobs.\n\n&7Your arrows have a &e25% &7chance to\n&7bounce to another target after it\n&7hits something.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUPER_UNDEAD_BOW",
+    "material": "BOW",
+    "name": "Super Undead Bow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 1000,
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 3,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "SUPER_UNDEAD_BOW": "DEATH_BOW"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DAMAGE": 220
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

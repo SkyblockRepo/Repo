@@ -1,0 +1,31 @@
+{
+  "internalId": "CHOCOLATE_CHIP",
+  "name": "Fang-tastic Chocolate Chip",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aCrumbly &7power.\n\n&7At &6250 Magical Power&7:\n&c+97❤ Health\n&b+52✎ Intelligence\n&f+6❂ True Defense\n&4+23♨ Vitality\n&a+17☄ Mending\n\n&7Unique Power Bonus:\n&f+25✦ Speed\n\n&7Requires &aCombat Skill Level XX&7!\n\n&5X&5 Rift-Exportable X\n&7&8Loses motes value when crossing\n&8dimensions.\n&6&lLEGENDARY POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHOCOLATE_CHIP",
+    "material": "COOKIE",
+    "name": "Fang-tastic Chocolate Chip",
+    "category": "REFORGE_STONE",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 10000,
+    "origin": "RIFT",
+    "motes_sell_price": 10000,
+    "rift_transferrable": true,
+    "lose_motes_value_on_transfer": true
+  },
+  "recipes": []
+}

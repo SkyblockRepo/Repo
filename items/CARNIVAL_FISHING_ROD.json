@@ -1,0 +1,30 @@
+{
+  "internalId": "CARNIVAL_FISHING_ROD",
+  "name": "Carnival Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Used to catch &3fish &7in the &3Catch a\n&3Fish &7game.\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&a&lUNCOMMON FISHING ROD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARNIVAL_FISHING_ROD",
+    "material": "FISHING_ROD",
+    "name": "Carnival Rod",
+    "category": "FISHING_ROD",
+    "tier": "UNCOMMON",
+    "has_uuid": true,
+    "soulbound": "SOLO",
+    "description": "%%gray%%Used to catch %%dark_aqua%%fish %%gray%%in the %%dark_aqua%%Catch a Fish %%gray%%game.",
+    "serializable": false
+  },
+  "recipes": []
+}

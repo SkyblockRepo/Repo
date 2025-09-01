@@ -1,0 +1,64 @@
+{
+  "internalId": "WAND_OF_MENDING",
+  "name": "Wand of Mending",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Medium Heal  &e&lRIGHT CLICK&r\n&7Heal &c90❤&7/s for 7s.\n&7&8Wand heals don't stack.\n&8Mana Cost: &3100\n&8Cooldown: &a1s\n\n&7&4☠ &cRequires &5Zombie Slayer 3&c.\n&9&lRARE WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WAND_OF_MENDING",
+    "material": "STICK",
+    "name": "Wand of Mending",
+    "category": "WAND",
+    "tier": "RARE",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 3,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "WAND_OF_MENDING": "WAND_OF_RESTORATION"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WAND_OF_MENDING",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "WAND_OF_HEALING",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 12
+        }
+      }
+    }
+  ]
+}

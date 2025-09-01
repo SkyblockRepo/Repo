@@ -1,0 +1,153 @@
+{
+  "internalId": "VENOMS_TOUCH",
+  "name": "Venom's Touch",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Damage: &c+250\n&7Strength: &c+100\n\n&7Fires a volley of &b5 &7arrows. Arrows\n&7apply venom to all enemies hit dealing\n&7&c0❁ Damage &7every second for &b3\n&b&7seconds.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VENOMS_TOUCH",
+    "material": "BOW",
+    "name": "Venom's Touch",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 5000,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": [
+        "STARRED_VENOMS_TOUCH"
+      ]
+    },
+    "stats": {
+      "DAMAGE": 250,
+      "STRENGTH": 100
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "SPIDER",
+      "amount": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 30
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 8
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VENOMS_TOUCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 60
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 60
+        },
+        "9": {
+          "itemId": "SOUL_STRING",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "VENOMS_TOUCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 60
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 60
+        },
+        "9": {
+          "itemId": "SOUL_STRING",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

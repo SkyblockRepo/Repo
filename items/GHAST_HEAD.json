@@ -1,0 +1,35 @@
+{
+  "internalId": "GHAST_HEAD",
+  "name": "Ghast Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 64,
+  "lore": "&7Health: &a+100\n\n&7Restores &a1%&7 of your maximum &c❤\n&cHealth &7every second while worn.\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHAST_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc0NzQyNzc5NzMsInByb2ZpbGVJZCI6IjJjMTA2NGZjZDkxNzQyODI4NGUzYmY3ZmFhN2UzZTFhIiwicHJvZmlsZU5hbWUiOiJOYWVtZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E4YjcxNGQzMmQ3ZjZjZjhiMzdlMjIxYjc1OGI5YzU5OWZmNzY2NjdjN2NkNDViYmM0OWM1ZWYxOTg1ODY0NiJ9fX0=",
+      "signature": "Aoyad60txMSZ22StI6xawTmC9I3NEKI2u47JcCznti/5IPSR7CRPRT5AjDuBi1nEQjLaI3H7OoCiYwcQ8PVEEjHZaQ3a7UkB8qa0R8RstVLZET3prxoLCrR+uNzzG+rczZn76r3Y5/u8Q9ulOYOnJmPHOk/AbhbY/D8Hn9F+zARa2MnQudTd25k8qYVpuaw3d0bzvvWIAjY40xOOVl8yA5lwrZEWeIsNjWjDClcBzGFohI5M6fjovGphR5Ni5CCLLejjn06X93Ouq5xVgXS5eutRSg3xdye6caMShU8vMG1EhpIrI9H6NwomOW+5sA4K+VW12evsa+1KoDc4HxMabZZkMVjK4hoSZVFuWdlVvNLkgfj7LtfxSU1GJHyokCfE0hTrbOYyOschtUCpN/S6P0C5XEGnj7yUw2PzudKP/G6galdjLu3DMlHjcy2/QzT6FMQBq8T8/3etXMsTLKvqkhi4ZC2SEOydHInmJDMsQV2UDRmeEz8MRW5DpHVvUFZTHAVFzsO4OjVoN2sMhR+hZrpXL+cOtvOUVL5vtHIRSEXjtsCYn97MwrAD7W22eo7hiosNyaoSoogjGHjiRSyxnLK67KgmbpvbUGa5c5IbZNbaFyaHm9UwyAT105F79nTlRlWnMg6g3SaPTdHRVE4e2ifaKjxfjJG1wLo39PSX9HY="
+    },
+    "name": "Ghast Head",
+    "category": "HELMET",
+    "npc_sell_price": 64,
+    "museum": true,
+    "stats": {
+      "HEALTH": 100
+    }
+  },
+  "recipes": []
+}

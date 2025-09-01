@@ -1,0 +1,32 @@
+{
+  "internalId": "GAZING_PEARL",
+  "name": "Gazing Pearl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7&7''Can be used instead of a lamp, if you''\n&7''enjoy living on the edge.''\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "GAZING_PEARL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ0MzQ1NTczNywKICAicHJvZmlsZUlkIiA6ICJmYmVhZDcyNTQwNjI0NzM0YmNlNjc0OGUzNDdlNTFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkX3ZpaWlkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZTBhM2NjNjY1N2Q0MjA1ODE4ZmZlZjVjYzdiN2UzNmMzODFkNDI2OWI2OTAxMGM3Mjk3YTZmYTY4ZDgzZDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "I2U0E10APzHAPwjhqbx3fTKJn+K9elmh5UqblHhy8t/x3kNDnDvFR4/WEHQA5iu9JTD+ieeJW+HUYKSu6V2N08YgnBk3Aut5he+S4K0qEBh+fwNI9r3YdZKueWWEbAN/CjEoPFG/8NgbBuUu31+cAEAZxv7lveBoJ23L8Jpd5qV/KcMMhf4m13DDckrcmw+sqBu8jG7Mh5gQ+H2LcxwkLcTiELfdayecanh8A6MXT3Ib/yDqvJoOeVTvFOV7ilPTzpt4H4Wba4LI0MXUhmDgKNBIF04yrWwKymw47L2zq2SLMKkOkUS5OgVIRQ6c6SmWBP//Ui5lDtsMhY2k4o5eYdF6XlD3yi6yKxQ3Zx6kxe2sQombu8q4AX7JHvXSyqhj5snCS0h8cBvzhkkDZSme/EYyOR2DQttTcNEBgZo0tiU5lJZRHpspsY7FRxCwjtxm6YOUTAiqMV2+oUr8x62G0nwTZNzwhda50iDNFvwYqHTqDku7/mYZuEvVSJ2XPh5UGifx6Ez6UYe7PtRnYUJ/kqS+e0yr4BdT9JFEPe40gkuqfZOo4mqA01zyPuJsNulIF4wZlPd+0DmqPXDR/bDngQHWc9KNTrKPcsgoCEGrmhmZFC3+ZIa30CFrGf2u2s+pkoXmOnT1vgZVCQz7bz/VsTtzh8ZGGdwlZniQX3vtKgQ="
+    },
+    "name": "Gazing Pearl",
+    "tier": "RARE",
+    "npc_sell_price": 200,
+    "description": "%%gray%%Can be used instead of a lamp, if you enjoy living on the edge."
+  },
+  "recipes": []
+}

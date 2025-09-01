@@ -1,0 +1,40 @@
+{
+  "internalId": "PARTY_CLOAK",
+  "name": "Party Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Tiered Bonus: Carnival Craze (0/5)\n&7Gain &a+4% &7more &eCarnival Tokens&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PARTY_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTEyOTE3NCwKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2OWViODljMjYwMGE0OGIwOGMzMzBkNWEwNjUyNGE5OWY1MGNiNDhkMDg0MTQ0MThiMzJhY2I3YWJhYzIwZDkiCiAgICB9CiAgfQp9",
+      "signature": "RGYXpQlgypAj8F1kqYa+AHPCR0sBG0CXRMLy0om9A7JfyMPpT9eumqnikSj5yQit+/0efEYJJW/f3VMXTQ9Uc0eBLKsRlzXlLt0lzfD/It+HdTze4wcgtMa7ExYngfRXr+guYjeRRU7kKZ5zbTCz6jVTtBZ6zfH3Jg38xyxbITdDyFV+JtTkStFURyqnFKvkaO0njbAALyb/XB8+KHGKq0LwUfrkJQVEAzqq39Hi8ffeXjXogpHVlB+/IDgcerMUrRDJEzKXjViGyxxpQI/KV8HvVTg6LbbTVoubtCLnQAx3AL5/6iHbxTnQ6v0ZMFQf7adS3t+LuUzHAIhPOqWzRYX6MDiC0VPTBgmyP8lG59Tt8lQmRZgIIKdyHgatAn18CQEbxsVSQF+K151OBpEKKXE/WuOfr+aPPv+lWrh2Hay0eY84WtO1HyalcnN2VE23aHP0xpOU46ZhfAVAVUxjmeU5yJP+1t3140kDuNXMyDZXVbAFGq88scpPyKL9MKMprrx5vcn90neVwPS02+X2+OEaWQE+iHpVLaK99z0Q1w0nsxuSDmZydCMJ/5K7yotClJDg8cq7Rx/5UpBA3QhqhpeFLDBI/yKOAoj8nOAAwqbDQ9uG8YUARCQTLyuf3M3WYTrqRH4IkUNsj+wUvC7/x8DUNQuMkxj0B7O42oS7Aoc="
+    },
+    "name": "Party Cloak",
+    "category": "CLOAK",
+    "tier": "UNCOMMON",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "PARTY": 4
+      },
+      "game_stage": "INTERMEDIATE"
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,60 @@
+{
+  "internalId": "DISPLACED_LEECH",
+  "name": "Displaced Leech",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aSanguisuge &7power.\n\n&7At &6250 Magical Power&7:\n&c+49❤ Health\n&c+116❁ Strength\n&9+46☠ Crit Damage\n&4+12♨ Vitality\n\n&7Unique Power Bonus:\n&b+100✎ Intelligence\n\n&7Requires &aCombat Skill Level X&7!\n\n&a&lUNCOMMON POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DISPLACED_LEECH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwODA2MzExMTg4OCwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUzMmNlNWFkZTA2YWZmOWQ2OTgzODIwODBkZWE1Mzk5NDc2NTlmYjU4N2U1OGQ0ZjFkN2MxZmY5MjQwZTNjOCIKICAgIH0KICB9Cn0=",
+      "signature": "AwhQHykYxbkRv5yus+Lvlb1lfhRn4KIRnorkmGR9uI+8BYya2RqLNTx+R1/qUP+Ped9qclAvBmTXm5NokgXL4EjgSzeCFWsVbiIFKFZ9VRjListLY1y0gNHVdNbN+K33pjKhke17QvT2iZK2pzMDrITSFtvAPnpkQBbNXyu4v3CbOE63ve0tc9450dvNkDUq0dRlp3+cI0tkge8J82tAqy/nSJaqFSZ004hRDMtWRVDu5DlQq8QgbBLur0Z6FEj2vXk4tPpyZuZbn0RvP4M64xtGtBqNwMFepAxiIXkVpwWn9DZTOHItOzEX845D935bHWogu7rOwV3D7W9ZNebAEen7UgOGU5oR/ARZpTTFQrFxtkIa1vSz30QTzZDDP3A1vkIosRFAMOg4txfFn6DXvwxhAynDgn/UsI9DesPqNhvlwtlbCAAE/4k/o4QOf46HvTQ86sUZAV9wOlkz6HYpEniftUvU0yLoAVxDDXSQ+4NeT2Q9MlPx/Diw+xcBM75UyUUqq1RBeTovBQ1Y5gOSCKOANeoqu3Yde/zivSUi86gU2mICLH3RVPsE7EQdBZMnupE0631qUDJUMHP75DlilxH34sbsdjQG/FLaJwYPSoZkV9YrVfi98ugvdPTTqf0HO27SCg2T8TsRfqxf25+yiZB2KINMCBroqQIBrWd+Poc="
+    },
+    "name": "Displaced Leech",
+    "category": "REFORGE_STONE",
+    "tier": "UNCOMMON"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DISPLACED_LEECH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "HEMOGLASS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "internalId": "FLAWLESS_AMETHYST_GEM",
+  "name": "Flawless Amethyst Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7A near perfect version of &5Amethyst&7.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&a❈ Defense&7.\n\n&5&lEPIC GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWLESS_AMETHYST_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTQ2NjY1MiwKICAicHJvZmlsZUlkIiA6ICI2MWVhMDkyM2FhNDQ0OTEwYmNlZjViZmQ2ZDNjMGQ1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVEYXJ0aEZhdGhlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMzYyMzUyMWM4MTExYWQyOWU5ZGNmN2FjYzU2MDg1YTlhYjA3ZGE3MzJkMTUxODk3NmFlZTYxZDBiM2UzYmQ2IgogICAgfQogIH0KfQ==",
+      "signature": "gcpvM5BZlHYgQ8IKQ+CU3bR+Mt2clap25wMXt+7nSPtV43xMsizYQYaoPlF76lfMRADrdeA8SFmqMBvYRPWvsrNFlU0fCp+h9DZJ+pHHMtHrTbowwNTPZPbXIfFr77EMGTRv/LmkTOfkfPbM/HNdI6rDfcPz+05HV36c9E3vT8Z6bwpZDV9hcm0Tx4VCSLxGQUr/1XnmrMn+7haiW5ehvKSAdhTttzf5hvZ/F4YT+HPyQbs+fzjgauinstZ+JD/J3tZZYZURbdyGjTzLyxnRHApghAhfPhPEKE4qaJEGup36rxH0dDAJ9N899431Vof90YNX/c98afyRl8SICGEe7jK5hNl5S8E6uz58OtL2LP+VGeHNONfSx6i4XAi5Cq4I5M2hs5it8rgQ2b0QMoTwtZicgK3SWdQJKJnpiO/dYg0aE/YIO8zIC1NW5FWnnAckXT96BISFTs6bVHTtM2/JltVJsXa6Zckmxw+mbUHqQe9u8kxBeVCaNtUVGPwJ1urNJQjTrgj+cKI7o1SQMfz8ZcmjrnuxzWM6PDoJDHPvh33e6gOLv1MtCWhZOdukck6CGz2W+z4UT6HDHTHbT6hky7tRG/RV8vhctEkp7L/Oa47Tw2RDsR/GBPrXfEVpsFPLA/gMv4EWPx5cHymjFTK4nmraMWbKYXjrYDesltBtf+0="
+    },
+    "name": "Flawless Amethyst Gemstone",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWLESS_AMETHYST_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWLESS_AMETHYST_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FINE_AMETHYST_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

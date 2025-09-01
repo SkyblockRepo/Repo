@@ -1,0 +1,25 @@
+{
+  "internalId": "AUTOWAND_SLEEVE",
+  "name": "Autowand Sleeve",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AUTOWAND_SLEEVE",
+    "material": "WOOD_SPADE",
+    "name": "Autowand Sleeve",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

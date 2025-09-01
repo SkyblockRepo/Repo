@@ -1,0 +1,33 @@
+{
+  "internalId": "ALPHA_PICK",
+  "name": "Pioneer Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Breaking Power 1\n\n&7Mining Speed: &a+1\n\n&7&7''The very first pickaxe model!''\n&7''Invented by the famous Thomas''\n&7''Pickson.''\n\n&7&8This item can be reforged!\n&c&lSPECIAL PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ALPHA_PICK",
+    "material": "WOOD_PICKAXE",
+    "name": "Pioneer Pickaxe",
+    "category": "PICKAXE",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true,
+    "stats": {
+      "MINING_SPEED": 1,
+      "BREAKING_POWER": 1
+    },
+    "description": "%%dark_gray%%%%italic%%The very first pickaxe model! Invented by the famous Thomas Pickson."
+  },
+  "recipes": []
+}

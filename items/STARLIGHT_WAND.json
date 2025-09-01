@@ -1,0 +1,44 @@
+{
+  "internalId": "STARLIGHT_WAND",
+  "name": "Starlight Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15000,
+  "lore": "&6Ability: Starfall  &e&lRIGHT CLICK&r\n&7Shower stars in a &f3 blocks &7area for &a5s&7,\n&7dealing &c50 &7damage per second to mobs within.\n&8Mana Cost: &3120\n&8Cooldown: &a2s\n\n&7&4❣ &cRequires &aCombat Skill 8&c.\n&9&lRARE WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARLIGHT_WAND",
+    "material": "STICK",
+    "name": "Starlight Wand",
+    "category": "WAND",
+    "tier": "RARE",
+    "npc_sell_price": 15000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 8
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 50
+    }
+  },
+  "recipes": []
+}

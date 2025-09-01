@@ -1,0 +1,92 @@
+{
+  "internalId": "SYNTHESIZER_V3",
+  "name": "Synthesizer v3",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 17440,
+  "lore": "&7Can synthesize X, Y, and Z items\n&7increasing the stats of this\n&7necklace.\n\n&7Current Bonuses:\n&80/40 &c❤ Health\n&80/40 &a❈ Defense\n&80/60 &b✎ Intelligence\n\n&eRight-click to open!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC NECKLACE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SYNTHESIZER_V3",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODY3Mjg5MDk3NCwKICAicHJvZmlsZUlkIiA6ICI5ZWEyMTQ0NGFiNjI0MWZkYjg5YjE2NDFhNDg2MGZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICI3QUJDSE9VTiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTIyNDBhYjRkZjVlZTYxMzBjZDgwZTEwYWE3ZTgyN2U3ZTg2YTgxMzg2YmJmZTFhYTk5ZDQ2NmIzMzA5ZTdiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "aUBfJiT2IVQdKLGgG0L6En9OVbsMsd697BlW1K08BTFsBF9Ml+PbFKXazPEoJ8uLg9jHl4KyPD90UDvXDjFrcbdNGSj3vaYQ0loz9afAz6qreny7ufi9pE8MtqgN0yzcOggEJRRz+9w/1DqDW/dka8E14SDpvOX2p4mdN2sYYhVIvT38elnmD2ei4M5LLfQL6IqDgP0oJIXfhDUIieDOcpzNlptwhcgnZemgNVAiXOUtyAY1HTgYSqho0IpFlauv5/WqKwZGBTvulZN+sJAmQoNeztvPKuTzGH3G5zsPVAyT//O8PxMRHG2b65mI6QOondzEMFGP2WxBC/t5Gb68LBiLeqz5s9DtHnOt4xHo+EXt2Tnmpj4sM/qIl+8G/2u4OMV61eu44cjG2SHQeul/h3bxa9RleO4lpGTvLdUkruJmPiZZJemuxJmci93AwEWj/lvKChbUBjIVVvt/iLrJLeA97SXivTwtKu9SUpsE95PRyFLwQGIRenSghu1H0nvOzXlSwaaYcQcf9GO3qRP5c4+kc7hGpqJJpAeSHUuDpqC4AExEO+nTdBynKNGiHXHqeVoKY89aymEqsGASRpvjQpgrmH3gyM8Fnhi69q0hbkHe87Gz92sDckNtE5EmCLbjzy+IoHCTMipYLlS0Em/cCf7GZvcnfGRs+Mha0IuMBkg="
+    },
+    "name": "Synthesizer v3",
+    "category": "NECKLACE",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 17440,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 15,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SYNTHESIZER_V3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "Z",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "Z",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "Z",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "Z",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SYNTHESIZER_V2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "Z",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "Z",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "Z",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "Z",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

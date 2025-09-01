@@ -1,0 +1,89 @@
+{
+  "internalId": "BLAZETEKK_HAM_RADIO",
+  "name": "Blazetekk™ Ham Radio",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Telecommunications \n&7If exactly two players within &a110 &7blocks are\n&7on the same channel, both gain:\n&7 &a+60❈ Defense\n&7 &f+40❂ True Defense\n&7 &3+5☯ Combat Wisdom\n&7 &4+10♨ Vitality\n&8Earn half stats while alone!\n\n&6Ability: Tuning 4 Dummies  &e&lCLICK&r\n&7Switches to the next radio channel.\n\n&7Your channel: &b103.5 FM\n&7Nearby: &c0 enjoyers\n\n&7&4☠ &cRequires &5Blaze Slayer 6&c.\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLAZETEKK_HAM_RADIO",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk1NTM2MiwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzExMzk4MzAwZDAyNTEyYTdiZWJjMGY5ZDdhMTJkNjdjZGY4ODVjOTE0NGIzODk0Njk0NGQ5ZWY0MjAyYzM4MzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "M0uKRWdE1hKqq511UNul2D4gVG4x0J8EvDHi9/nmpsAO+z31Sv+T7BisG2L4DMcPzMoboJWEoJNqQsZ3cN3XopihucONvu62O21FAwPSGJGN7qTtE3ZZzv1DS+WbWSGPaxL25LuSg97xysoKakfML/pRYELo4pVZYU2LzVeGnB937JIkoC4sACaGhnx/EBtntj+Bk5aus7eeaiUPbloWtkahwT1Zd5V6rejnwP8CLO307rsiexKYpQGaO6GBn6TLQ0PlPOI76Ql0r72Q+oyPwsUG1A2b68psblsZ/X7Nptx6cp0H4AgfmMVQARJOFWgRiohAtqUCKPcKkHds1S2LxxaH58KJNy9nHBPWh83T6E9RCMtW9tpKbF7kTuaPyPamQwf32jFMvsjXW81aDi+ZbdMuisB/jZUQtjhK03Lb7UYndLGv+M984uYmS60Ci79wHwzqW0hBSfAS0r//cC56r9s81R9b/IiDQm85gUVjW7W4ZbM67sdgDsSccOAd6TkwhosbpEaL5Th88HqUT2zFYtFiAb0jCDQSSN9IgQUakl0clfHxP+0pbDw+gL1IgN9Sh2mK8UGcVPtb6LcT5egbc1AY+PoGVvboQsllLEMpiFbNfRjKy9gVlOd36HUfzP5lZZaf8nN5/sRQWgtlGr3CwlpAxm49Goow8xUcLBoppE8="
+    },
+    "name": "Blazetekk™ Ham Radio",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 6,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 16,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZETEKK_HAM_RADIO",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 12
+        },
+        "3": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_REDSTONE_LAMP",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 12
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

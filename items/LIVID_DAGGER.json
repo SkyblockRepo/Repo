@@ -1,0 +1,104 @@
+{
+  "internalId": "LIVID_DAGGER",
+  "name": "Livid Dagger",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500000,
+  "lore": "&7Gear Score: &d685 &8(716)\n&7Damage: &c+210 &8(+231)\n&7Strength: &c+60 &8(+66)\n&7Crit Chance: &c+100% &8(+100%)\n&7Crit Damage: &c+50% &8(+55%)\n&7Bonus Attack Speed: &c+50% &8(+50%)\n&7 &8[&8❁&8]\n\n&6Ability: Throw  &e&lRIGHT CLICK&r\n&7Throw your dagger at your enemies!\n&8Mana Cost: &3150\n&8Cooldown: &a5s\n\n&7Your Critical Hits deal &9100% &7more\n&7damage if you are behind your\n&7target.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor V Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LIVID_DAGGER",
+    "material": "IRON_SWORD",
+    "name": "Livid Dagger",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 500000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 5,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 210,
+      "STRENGTH": 60,
+      "ATTACK_SPEED": 50,
+      "CRITICAL_CHANCE": 100,
+      "CRITICAL_DAMAGE": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 120
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 400
+        }
+      ]
+    ],
+    "gear_score": 75,
+    "sword_type": "DAGGER",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

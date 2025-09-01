@@ -1,0 +1,26 @@
+{
+  "internalId": "DOUBLE_PLANT:5",
+  "name": "Peony",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DOUBLE_PLANT:5",
+    "material": "DOUBLE_PLANT",
+    "durability": 5,
+    "name": "Peony",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

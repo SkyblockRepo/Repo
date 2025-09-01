@@ -1,0 +1,31 @@
+{
+  "internalId": "THE_WATCHERS_HEAD",
+  "name": "The Watcher's Head",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THE_WATCHERS_HEAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU4OTU1MDkyNjM2MSwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxOTY3ZGI1ZTMxOTk5MTYyNTIwMjE5MDNjZjRlOTk1MmVmN2NlYzIyMGZhYWNhMWJhNzliYWZlNTkzOGJkODAiCiAgICB9CiAgfQp9",
+      "signature": "ishcEoaZgMC7CUi4xeyoCm2Nbc2MFAjM/EhppqhIYuyfE4m1Dbr3QM6jLKijgL+eWG5A42t0cwgdqBATnBM0+K+farSHNibnLOnid+s9CJ4FCl13r0/yGVAClCkvigGlNKalokdKKoIPJ28cyyExJhC84fFT357yaFmxcbmvYrvGA4C8315gMGPiPTEEMxpGOjYu1hYGsKRQZ5SYOTIgGRxClLCoMq9DPALRSf/dV/qIUZ1fhgK+t3CjGIV6jhcWV1pj9Sy0UZE7MBJ+OrFGTX6HBgeTEdI0TUwh2w82sx1iy+ykxvoChsN7aiWla1PI23uG54LAw6XfWdR9RfrWtWFoVVlYyRn1ZkRUVjtuOnxGREi1NuBXCffmu12Ja13dYSc+8e9ky2xookn3I9JnxRruasC88x5VxRQW/6OgAKgZAjCWN1CstROnsJWuIwFRdAeSNATGN10zaBXxfKn/7SY/mEX7/nl2qQxvRsCIuqBBzBo+/3dryxv4BXqMIY4IWsHCGQOpeuznCxHTsc3OeCe8rAd/LoNuOgdTMb2ihH5Vgg5yk/A6n4G9JSJIxtZezYQ06jXOfXQrVeYidnObSAJS5ZHn89dOklX1UGRvF1uojnK2ohru62kXBUqdOyujFKYF1ULWoaql/sQvP/hFGl+d90NzfAeufIfmEV+HpKA="
+    },
+    "name": "The Watcher's Head",
+    "tier": "SPECIAL",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

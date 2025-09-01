@@ -1,0 +1,76 @@
+{
+  "internalId": "LARGE_CANDY_SACK",
+  "name": "Spooky Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aDark Candy&7, &aEctoplasm&7, &aGreen Candy&7, &aPumpkin\n&aGuts&7, &aPurple Candy&7, &aSpooky Shard&7, &aWerewolf Skin\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_CANDY_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA3NTI3OTM0NCwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyZWYzOTQzN2Q3ZDQzYTAzNGM1YTQwYjk3NGU4ZDJjNjczNGEyMThjNzY0ODVkMDQ5MTBmNTA3YmRjMmU4MDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "ZX79C+u3hwP9WjoQ88bZPPMmoBVT3IrsM/agd7cgdGxeJGIswesX6kn6xCiLyQZ3KSN+JJUqLlzMrq7U2YAA8zjfx7c7vBT6Q5r0ci2pj9rPQ3KaalXKo5t7AiEwEkCBUmr//firKp7PkM+aol3A4p/50+l+JasLdvbsnZQuX6pGNUrK2i0HcpcEXhWPaf8DdClYp+I1Wm2TYeYHqAPztMFU9xDLmUTrqaoogVPYQUUuDcvV8pXe7rphnldiP9lbUqyxcDWqc3D0t2WvqrUb4zsjtxGreimfNZCRcMPFShJHo2o7G5iwDJfQsd4qQf5//LI2UJKKp42ar4If3HeIxBbPGe6LeQSKJ5EJNJ6n2XI//pEVUMYnBmsh9i1MXOm8i2GoNUFHxan+YTB3fMtq+hkoWTE7Sbo+dBr1qUH2U0XcfyYsYh8q9wxAWHPCtSH7O1jfu58Aifu+wKTDwlOiJEB1OdSq96Q+8SQIIC6m2jGEmdE2HBnx4evh74nAEJtCmWqJyLx6+AJdsUfrDSmaiAeiEDlJ6b0hNS4Uwj+L09nJ9SlHAfKQceWMSvsFTFs0zLtlcCLPrQpyYyW0vGbjMZvDJLmtjGojbTo/ofkTL9bJ8SEkzM038OaWAUPYVfaOI29k2eEGa3YRcrxRw2uJdx2fftPeJ2YBEg01gIYcf+w="
+    },
+    "name": "Spooky Sack",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_CANDY_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "TRICK_OR_TREAT_BAG",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "PUMPKIN_GUTS",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "MYSTERIOUS_CROP",
+  "name": "Mysterious Crop",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MYSTERIOUS_CROP",
+    "material": "DEAD_BUSH",
+    "name": "Mysterious Crop",
+    "glowing": true,
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

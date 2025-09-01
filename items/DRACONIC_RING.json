@@ -1,0 +1,79 @@
+{
+  "internalId": "DRACONIC_RING",
+  "name": "Draconic Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+2\n\n&7&7Increases damage dealt to &5Dragons\n&5&7by &a3%&7.\n\n&7&8''Created from ripping The End of its''\n&8''fauna.''\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRACONIC_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NTY2OTk2MjUwNywKICAicHJvZmlsZUlkIiA6ICI2ODAwNzFmZTIxOWE0OWNmYmM3MDIxMjc1NTI0NDIwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphYm95ODAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmVlMWU3NDA0NzI3N2E3MDY2MWE4ZWFmOWM0YzZlYmY4MzU1NGIyNzVhMTY4MTZlYzc5YmJhMWJjZTMyMDQzNCIKICAgIH0KICB9Cn0=",
+      "signature": "VCvEhh+OoECV0NJLqGtoRnjJTASjqjiMELioFR+Pwx6JYg+12YPVuTv2TpFWxOGhbq1Yge4Sr0mXhy4MLikCPl5/zAcVtHOxEUM+E5XMurfrGgHJd9gRY7PX4i55FUkJSLo+9kNGoGGpTeSoYg+xzlfDKgvrCBkskyoCUo1ssB7hYuYeKu76F64V2nfLrav0DmCMsDX3ITdOh8StzFiZv7So4a/MM0BtF/8ReWwAnQkQFwVk+l6Aey0zQ0OPGUBaFRCW98c8wRmam2+Mvw6QcYB6DKtNoBasZxyX3HoIftXYk9OICE8bqHzrrTkiIftyxlTReTdgAaAapT2sXxYnE03fPvccPlkRxA/GJUbH6Edb6xVuQHxgaIzriFTVDJrETBgbDTqQ9Vont9wDe04tWHQSG7SwN1xPYippyxfIoBgR1bpVqSFjAiMpd5+l5VIHY2QUamDcszbuu01polHpWPlCcu5s9hURyWFSe4PH0Wqc/2xS61Ol8OlkhTEqgShM3ndohAIoGTer/zf6hae6AM0Be8wuC7CAOMmvkQlQzVVD8ucbfXxhUxz5tTCuLadq9t446mYN0tlsq4500vGrAqURYCLJFfcw5tRlV5SuLewSSyR4SXXYJ2KEdmzBnK2T2PNLEj8RPX2YamF2lviGUb0VvqCfN1Lkf5Z0iZC/zMs="
+    },
+    "name": "Draconic Ring",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "stats": {
+      "health": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DRACONIC_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "DRACONIC_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MITE_GEL",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TESSELLATED_ENDER_PEARL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

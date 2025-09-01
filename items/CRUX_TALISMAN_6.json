@@ -1,0 +1,82 @@
+{
+  "internalId": "CRUX_TALISMAN_6",
+  "name": "Crux Chronomicon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+100s\n&7Intelligence: &a+15\n&7Speed: &a+2\n\n&7Defeat crux mobs to gain &a+5ф Rift Time &7and\n&7&6+5 Crux Fortune &7per kill milestone.\n&7&8Crux Fortune boosts the chance for\n&8bonus crux drops.\n\n&7Kill Milestones\n&7  &2- &2Shy&7: &e0&7/&a10 &7kills\n\n&d&lMYTHIC ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRUX_TALISMAN_6",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ3MTcxMCwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kM2FkNTU3OWY2YTcxNTkxZTYxNWNjNTUxMzAxZDI0ZTQ0MzJjMGExN2RkNGE0ZmM0ZGRkZmYwZDI3NjQxZGM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "DRdkOzdQAEWVV81K3xofxWSy+/NKe5hD8J64pxAZ+ZKBShnoby9ezlrODktUujw+bUBFbV2BibPO3lhtd4x3fxECTZsD7252V/L9QRANm9XcKulcpaIMEheGM19SYlZGOBKCGk1qN4XdISLwfFR9/tW2tXmSZgdb1b0LoKhFnWsgLZKPS0bJ2mPJYDDGj/9M6OfiC21UGSzdM84YptWkzuBld/+iBpEDvqDSLFkjZwPrWVa2wLNbvHkYJ3oTPTeWVkIyxfs1NV4Fo51QtSBvFK4BqLIMcIMqcgZ5DGkI9eB9d3q5O5rN5pIO8kbQJ4bey49kXN22HdGUdJGR9LrWoPfYJAJZsdDLkd9EBNdZYcApTACF0hP8w97J2ABEcw5xoHcT1FBcLzuBDVSS3xsBHpKjE7gRLEujc6ibS9UBTixU8c+qUMQHZVzUhh/zEU/ynhd49MJXq2ypOJx19Bb7iDljV/j9uxYWJmNBFoTnLhxEntSuPnqEM2yksBdnFYh/S5O1XHzkbSLlYI6OTeb0Ip6cHaLIUbAFZpHGfQIv1g2Emv8RGQHpeh9U9c9x+1pTxMF23VZpGG35zV9pTltV/VxcPZqh6dj4O8S2D55kiN8ZcCC7+IDbEcdBYIpZamsV030iiFuoctQwGv2SPOZtbkdXr+Kl2T95nhmRiWKfCUk="
+    },
+    "name": "Crux Chronomicon",
+    "category": "ACCESSORY",
+    "tier": "MYTHIC",
+    "stats": {
+      "rift_time": 100,
+      "rift_walk_speed": 2,
+      "rift_intelligence": 15
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CRUX_TALISMAN_6",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "CRUX_TALISMAN_5",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "SPLATTER_CRUX",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

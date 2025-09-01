@@ -1,0 +1,39 @@
+{
+  "internalId": "ROSETTA_CHESTPLATE",
+  "name": "Rosetta's Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 660,
+  "lore": "&7Defense: &a+40\n\n&7&8This item can be reforged!\n&a&lUNCOMMON CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ROSETTA_CHESTPLATE",
+    "material": "DIAMOND_CHESTPLATE",
+    "name": "Rosetta's Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 660,
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ROSETTA": 1
+      },
+      "game_stage": "STARTER"
+    },
+    "stats": {
+      "DEFENSE": 40
+    }
+  },
+  "recipes": []
+}

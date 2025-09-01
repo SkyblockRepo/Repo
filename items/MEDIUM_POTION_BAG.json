@@ -1,0 +1,29 @@
+{
+  "internalId": "MEDIUM_POTION_BAG",
+  "name": "Medium Potion Bag",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_POTION_BAG",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NDAyOTYxNjQyNCwKICAicHJvZmlsZUlkIiA6ICJkZGVkNTZlMWVmOGI0MGZlOGFkMTYyOTIwZjdhZWNkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXNjb3JkQXBwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0YmJmZDlkODRmNDI0NTZjZDAyYTRiYWE1Y2QwNTRiY2VkMGRkYjJkMWM4MzIxYzgzZTVkNjY3Y2Q4NTU3NWEiCiAgICB9CiAgfQp9",
+      "signature": "M6B4MXw5Tf6oIyF712VFC2DoFEJG0NWHyJB7qrjSEd+7pZkhQXYj3xX3deaMw7cklMBZbOAmFoJwW/acK24NxFv9ZO+iPvV/y/7ZrEFUztbpFBi/jx+ZwVe6OwWKjWuUJS/8H6eVCM8O8jwUIrXOMLwfnNnUtuDMkI2UQeZKisLBBdETjPzqa1l3qsTKlYMwsCshQH7IUfKhkMovIpm79ld1MXEHVf8dTOIW9DfI43BL0pHGl6s0evRkzt7a/whmMXu125x7jw/SwOsRGUyAKrBjDFvpMPEbPZV7lvoqQs5RAA/1jVQ9TCFrjsQ2RBbvAB27cOtG49ZXjIcJ/69Q9Hx2ZQzHdxopqBLZIWlXtLykb+cCZZpvILRofvEmVuYtVqV+S7QxJl9LI10LTkRtOsOoCl6psMB8NfAomvm1PBgwY0oZ5SbsQQ0qFlSA7nQL5CULOcy34IchcIciXUnUX2CzzHpAKGdH1BeRbOJ7esHpUjIJwKvbx0wUNqODXOELTtDOCCK4SpjxM5tZ8VEt32+NmifJWaAFQWJYfACx+nwfkC886hL+UZ9A8R9w+mhjuEwLEt6zSY7uHwFFlpKm9zd69j9crUXMnAAmRmfKRHWVs25ptQ3bt9EHr3gTlyVH45iFA1OTj3HRqVAvasdI9WFBQvZ5wrzPXegdne4U8uo="
+    },
+    "name": "Medium Potion Bag"
+  },
+  "recipes": []
+}

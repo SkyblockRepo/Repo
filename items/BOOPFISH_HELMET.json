@@ -1,0 +1,31 @@
+{
+  "internalId": "BOOPFISH_HELMET",
+  "name": "Boopfish Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7It doesn't do anything... yet!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOOPFISH_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MDg2MzIzNSwKICAicHJvZmlsZUlkIiA6ICIwNTAzNzZmZjAxY2I0OGVjOTUwM2NhMjhjMWU2MzlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb25haDU1OTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI2NzdiNzk0NjYzYzkyNzNlZmM4NGY2Y2I0ZTJiMzM5MjUxZGU4NGU0NWUxZjAxZDNkNDk4MmZhN2MzZGQxNyIKICAgIH0KICB9Cn0=",
+      "signature": "pJWewNvPXtlQgFLo7Y4BuqIKdAMCSmGAdssIEs4bTgcNQhYaZ/pYUZJLgPmUFShZYQoOhyDdL5cMOxTpyr7uTXutbmZri+J6XIsxKGFNJn9NQdzoQEaFW/sQI0PrBuur0UynGLWPwph1YgsTTqriaIcYYcFq/qm7YZkADhiqp8AW7z87HgIfRhYVUcz+BFzvz90v54S3eYzoZaRfopUTNNTZyZElVR+DHJxwikIZMYWBCjmmJOcjvYBo1jDH27EKw35A5gwHFP+GvArtT9Y24wU9sWZmEExyE7QHWuM2ZM1f7F1g/QfcNXUzueakMRyrSOJXyzFU+k4ELU+Dz/3K0+Z72QfC6QYlaFFvESAMcXq6FqTgnjc1BlIw5TToLlZxTV0qPqHs0sGU2uP2JgSKOP4jv7jd3aYIdumHV9FSV5+Be9fbjX+ziP4LhZwxWiUMwWUy0k3lTVN297AB1NT1J7wi7xOA06Rpd+3w1qvuq0hz3R1QVRgAxBL8VPPJ2i0Ldnfu9z8JFKgoarikQ/MfOCBWwM+aT2GStqaYi7Sa8eeTisvgLZnWe+iTIbQaEQogbfAIvCEDNUkJuJvPjmUQ5wPDyYVVL5WatoapmSObJ02hxKxNcGaBP15PhSVFJPF4NbCqxFI7N5u0VD2V5kZ0gPo/4KCyffrUoU4NOQZQt/U="
+    },
+    "name": "Boopfish Helmet",
+    "tier": "RARE",
+    "description": "It doesn't do anything... yet!"
+  },
+  "recipes": []
+}

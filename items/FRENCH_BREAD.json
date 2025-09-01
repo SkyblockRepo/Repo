@@ -1,0 +1,33 @@
+{
+  "internalId": "FRENCH_BREAD",
+  "name": "French Bread",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7It is known that scientists and other\n&7experts always find ways to\n&7disagree on every subject known to\n&7humankind. However, they can all\n&7agree on one thing - that this is the\n&7greatest meal ever created in\n&7history.\n&7\n&7Awarded to those who participated in\n&7Dungeons on the Alpha Hypixel\n&7Network.\n\n&c&lSPECIAL MEMENTO&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FRENCH_BREAD",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzA2NjkwODk5OSwKICAicHJvZmlsZUlkIiA6ICI2ZDRmODcwODhiYjY0NTA4OTZkZWYzN2I3Njk3MmY2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0aXN0aGlzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ3OGY3YTY4ZTIwMDRlOGYzZjhhZTU5MTlkNmEzZDg4NjBiZTAzY2VmZWIzY2Q1MjM3ZWRlZmE3NzFlODdhMDEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "rGNZB3HcoyHhoYXHSKKzl6dXgBcV93Afcwxon6oBgpVwu8sp9P14/FjoW2kJXFY1vFnhm6COFvYsMTrIxgMY/S0HSJKpjOaay3TL2zWmDOZntcK0e3YP3CVuqp8Luo7etnZj0/LlwVoU3olROZ5WH9+0RUCVtiyDN86GxcqhtGXbQw6iLAceExO8fHyga3XAuwQeMhsyWeuEzvU8K+uaHEZ4ThikXTy/MNc/rRz1WcSdR0MlkZwr9YkzkDIW9zo+//pVjsytiuuNC7Z4ku1DEVsr0A1ya1IOuNuCcVcgB6y+8sZC4wzlmOc7jh8HjLPUvmZjsEi74STo68wtGULJPs6KAR0EOUEjD8QnIorAsIboPytJ9E9FceuNvFNbs5D2V88PgmvvZ7qcO/ci6fafZ+HvzFDWtGZndwSRKfKqwOmim9mL3mUS/zBizjKp2JxsQTiIycFwelCJq0G5mlMtKEmo9Qu/BjfdG2qAMgO/H5t+hVBgVzCGbtrotPmOOcfVZXjlSsgZXzE5l7Sy1Z1OfyjQstHU8Ff6DXydm3PzKfe8tSQ+3d6NTBYoJ/euSnGeyo4JSZ7yroN6ubLtkFTXZjlbS/K9W8YZhCu+H+PGUk/aW/ZkNkWEEyni8FOAYPYc/fgfgDJoRkLKlkJSYq0SorXxYjNOcn3LPq/0ajxWpZ4="
+    },
+    "name": "French Bread",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

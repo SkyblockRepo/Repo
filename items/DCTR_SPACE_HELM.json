@@ -1,0 +1,29 @@
+{
+  "internalId": "DCTR_SPACE_HELM",
+  "name": "Space Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7''A rare space helmet forged from''\n&7''shards of moon glass.''\n\n&7&8This item can be reforged!\n&c&lSPECIAL HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DCTR_SPACE_HELM",
+    "material": "STAINED_GLASS",
+    "durability": 14,
+    "name": "Space Helmet",
+    "category": "HELMET",
+    "tier": "SPECIAL",
+    "museum": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

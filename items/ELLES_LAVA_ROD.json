@@ -1,0 +1,32 @@
+{
+  "internalId": "ELLES_LAVA_ROD",
+  "name": "Elle's Lava Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Lava Rod\n\n&7Damage: &c+50\n&7Strength: &c+50\n&7Fishing Speed: &a+8\n\n&7&8This item can be reforged!\n&c&lSPECIAL FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ELLES_LAVA_ROD",
+    "material": "FISHING_ROD",
+    "name": "Elle's Lava Rod",
+    "category": "FISHING_ROD",
+    "tier": "SPECIAL",
+    "stats": {
+      "damage": 50,
+      "strength": 50,
+      "fishing_speed": 8
+    },
+    "serializable": false
+  },
+  "recipes": []
+}

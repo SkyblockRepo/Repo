@@ -1,0 +1,28 @@
+{
+  "internalId": "EGG_THE_FISH",
+  "name": "Egg the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This delicate, painted fish was found\n&7in the depths of the Main Lobby\n&7during the Easter season.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EGG_THE_FISH",
+    "material": "COOKED_FISH",
+    "durability": 1,
+    "name": "Egg the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

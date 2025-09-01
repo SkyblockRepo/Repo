@@ -1,0 +1,26 @@
+{
+  "internalId": "STRING",
+  "name": "String",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "STRING",
+    "material": "STRING",
+    "name": "String",
+    "npc_sell_price": 3,
+    "motes_sell_price": 30
+  },
+  "recipes": []
+}

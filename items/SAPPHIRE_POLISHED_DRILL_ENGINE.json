@@ -1,0 +1,66 @@
+{
+  "internalId": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+  "name": "Sapphire-Polished Drill Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 103000,
+  "lore": "&8Drill Part\n\n&7&6+400⸕ Mining Speed\n&7&6+50☘ Mining Fortune\n\n&7Put this item in the &6Drill Engine &7slot\n&7of a Drill at a &2Drill Mechanic&7!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 8&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjYwMzk4MiwKICAicHJvZmlsZUlkIiA6ICI2MWUwNmYxMjFjNTk0ZDdiYjY5MmQ0ZDg1MDljNDdmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHpfU2NhcmxldHQ3MDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODYzZWZhNmMxM2ExODBlYWE3MWNmMGM2NGE2MjM1MGM0MmIyNDA5M2U5OTU3NDkyYjI0NDk1NzgyNjgyNTZhYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "JhebUwheo0V/mz2hB43PssORSi2kNZ/QP3mzfCeb76+2wSwnTLb42jD60dsJQ7UGma4yT/Ds10opfOodHIR8FPNKWv6yZRBZLNAn3XrtvQXEDuStbdBCut2rApwJuyx4sc8BFYDIS+UlJ/sUYqW1v+JaqnkiVNqr5DTGjwUsQ36BivZxVzxu8np+Ci90ESAacQdoz8bMwNgr63duYC7Ovhs6VAf9esDZAkYYnTV0bAIs8/NPZi8kwq1QKuHV9OFHax7rKWywe95PdBJ3c9zmK75+uuhNzgwVQ+AF4yRz9oY6vmOOe8eogke+NvNi3nMhYiNTJb/cCm8cMEe1F/wW6CFzuyLZQqBa/adQZgYn9AcxMJVSv7uP3WgcQlHXfAE1NYklxJwKepGYNdeC3w/2/FCDA+cQUJChI6ECu/+TiR2VGSlM3zQtGV6jDSpwdeGVmmJP6hT2J9FLwhgAfWUVpxBsCQxhfKXzSxZXsjlQUrWwR4eiOEb5HPKA3aqsQIVfV6lwcK6/HhnI1hAhLJPaMkUhquLu2pv3u5rcLz2plOSwMSHAMbrZ1TVjKaN2oxL9IEOB1mV2d8O41lswmdSRgTqoA0A+/v4bMwccAXKOPpqUROWTcvVVphiA8M6dTehpOEiicBZ1HsbzhF6yH+hs+LxND3dmZSCF9+5Oypls8wc="
+    },
+    "name": "Sapphire-Polished Drill Engine",
+    "tier": "RARE",
+    "npc_sell_price": 103000,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 6
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RUBY_POLISHED_DRILL_ENGINE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PERFECT_SAPPHIRE_GEM",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "PRECURSOR_APPARATUS",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "DRILL_ENGINE",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "PLASMA",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

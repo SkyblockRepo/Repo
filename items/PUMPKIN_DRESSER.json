@@ -1,0 +1,31 @@
+{
+  "internalId": "PUMPKIN_DRESSER",
+  "name": "Pumpkin Dresser",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Furniture\n&8Halloween Cosmetic\n\n&7This exclusive &6Halloween &7cosmetic\n&7can be placed on your island or\n&7traded.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_DRESSER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NjM4NjQxMzg1MywKICAicHJvZmlsZUlkIiA6ICI4NDIzMzM5MTYwMjY0NjBiOWQ1MGFjZWU3MThiMjkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlc2xpbmdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMmIyODEzZjNkYzkzM2EwZjdlM2FiODg0ODJhZGRlYzk4OThlYjUyYTg5MzU4NjZkNTJjNTY5NGM1NmZmYWY5IgogICAgfQogIH0KfQ==",
+      "signature": "AuMPXL1xnott9VjgjC2pTsqMqbKfEfeXLyziBo8XaCpt+gVZCvL3QtBn9ssA5UkDPhbr6LRliO+8X5sTx0AxnrUW+w4NwlRS/x0/eNutIlMYfj2Oy65XB4pW1PLl3Yrr9AU0eSO5WER+rQRsSye0ey4uozmSPWl6RfKUTfzNDK3XRGl5ZRmWrPw1csw5XgPlQjyZBBV5npJlFSlxkZOq7nB0aN2jIfXcuS/bwr6uC/srZ2e6npnjB1ECSUFlU8Uno66xR85wUAg4FlwhZg33vz+FQuwTN6m143YOwsm0CasPs8rngqlUZDQfnL3qV6kybCS+1o5VbO+5uu4NP3IbvsiysXhFLw4i49iXO2Dx+sRCA9WABqYu2Lo1ZP8uo8ZSf1mU4v9PrQ+5l24gEIvQ4mFh9cB8dRd88EyYpZAITKGjJIKZIQvma+qzeet6KNxpe8YRFgLKozAd5XtuK4XUoBfwdrZMLimt3TM3Hsl/cAXdNsXhT+L18mkLYeJrCereNoX7I+CTvdn16i1NQHHO9TyqqKwFymntvE1FvBHJjc02NQT/jOCHccKt071j7jLL5Onsrx3NXM/fw7NHmFXRn2Bc/FkfzbC8VMoCbZBYN5sqdbMuNv1ncnxjarKPenkVhXye4y4t+lUOWUXJjgNuop1yIvzFdIQDXM55/2xXTag="
+    },
+    "name": "Pumpkin Dresser",
+    "tier": "EPIC",
+    "furniture": "PUMPKIN_DRESSER"
+  },
+  "recipes": []
+}

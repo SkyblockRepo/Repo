@@ -1,0 +1,77 @@
+{
+  "internalId": "LARGE_NETHER_SACK",
+  "name": "Large Nether Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 640200,
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBezos&7, &aBlaze Ashes&7, &aBlaze Rod&7, &aBurning Eye&7,\n&7&aCompact Ooze&7, &aCorrupted Fragment&7, &aDigested Mushrooms&7,\n&7&aFlames&7, &aGazing Pearl&7, &aGhast Tear&7, &aGlowstone Dust&7,\n&7&aHallowed Skull&7, &aHeavy Pearl&7, &aKada Lead&7, &aKuudra Teeth&7,\n&7&aLeather Cloth&7, &aLumino Fiber&7, &aMagma Chunk&7, &aMagma Cream&7,\n&7&aMagmag&7, &aMillennia-Old Blaze Ashes&7, &aMutated Blaze Ashes&7,\n&7&aMycelium&7, &aNether Quartz&7, &aNether Star&7, &aNether Wart&7,\n&7&aNetherrack&7, &aRed Sand&7, &aRekindled Ember Fragment&7,\n&7&aSpectre Dust&7, &aSpell Powder&7, &aSulphur&7, &aSulphuric Coal&7,\n&7&aTentacle Meat&7, &aWither Soul&7, &aX&7, &aY&7, &aZ\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LARGE_NETHER_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwODg3MDY5MSwKICAicHJvZmlsZUlkIiA6ICJjMDNlZTUxNjIzZTU0ZThhODc1NGM1NmVhZmJjZDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXltYW51ZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0NTg3NWU5MjFhMTQ1ZjkyMDM4ODU4YWVlY2MzYzJmMDgzNDQxZWJjNWM4MjY1ZDMxYTI4MWQyNjhlMzY1YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "n2UHVYSDDdegCQ30PGiskdrLwyA7JfHyaVtkyz2IT2SfCsCJfLA8r66Y+2pqk+UDHqyZPmvlzswg41wDBHYOE3BVLeCQEq1nCrX/uoQavk9tkgEFrL93YAjzc43OzvZw3UaGAvC/htW7QmcbDifuQz85JosOvxaZkBPUp4lIs85ERTD1KM+KTJMEzxdFdflXczu3U+KPV+ZrxBY9WXMBDP/UiRBMQIL1ccj2VaOPCWM2IxfcO17Mrx3/Y/WqSszT+X47lE0KsImmFiM66QFXMI/9CkscSB0n5GSmCLUb0mH/kd5/y+xcpgMAb0XWZ4fifhjq0cjh+MK8VqlfgJmc/4xwRVeCLu7Y8Qrw/R2CPSOC8JQRHPBu7qzrAe5AjG7LbTK4BTn5MHcvmiGvEU1WojrSBDPg/q8Vv3sR1vFtm283psSGGKpqxCqWQ0yC5whrwZW5gWdfl8pcqCZBsYPyZR6hrIDV4hEMeyTlM59PR1O9z0inlq35gt0srMMYj6YOkRF1FoJmcb7P+pqfttm5nhEYl4h0qYPQIiDmUBYbnDnixEPES6VYYKLwijBBP9FB2ksidoGigg30HxWeJHgJ2AwYTVO1dEAKbvpCfJ0uy+IXFh5Ct8nKjBg67OdYeFp21IT4uG/4Gqble8ntbncSS5/J+Xn/GiTTZVTX+X+LDoo="
+    },
+    "name": "Large Nether Sack",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 640200
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_NETHER_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "3": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "5": {
+          "itemId": "MEDIUM_NETHER_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "7": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "9": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

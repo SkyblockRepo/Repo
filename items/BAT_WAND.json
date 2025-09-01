@@ -1,0 +1,165 @@
+{
+  "internalId": "BAT_WAND",
+  "name": "Spirit Sceptre",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gear Score: &d370 &8(403)\n&7Damage: &c+180 &8(+198)\n&7Intelligence: &a+300 &8(+330)\n&7 &8[&8✎&8]\n\n&6Ability: Guided Bat  &e&lRIGHT CLICK&r\n&7Shoots a guided spirit bat, following your aim\n&7and exploding for &c2,000 &7damage.\n&8Mana Cost: &3200\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BAT_WAND",
+    "material": "RED_ROSE",
+    "durability": 2,
+    "name": "Spirit Sceptre",
+    "category": "SWORD",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_SAPPHIRE_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 4,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": [
+        "STARRED_BAT_WAND"
+      ]
+    },
+    "stats": {
+      "DAMAGE": 180,
+      "INTELLIGENCE": 300,
+      "WEAPON_ABILITY_DAMAGE": 2000
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 300
+        }
+      ]
+    ],
+    "gear_score": 40,
+    "dungeon_item": true,
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": [
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "BAT_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "SPIRIT_WING",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "BAT_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPIRIT_WING",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BAT_WAND",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SPIRIT_WING",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "quantity": 3
+        }
+      }
+    }
+  ]
+}

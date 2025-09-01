@@ -1,0 +1,25 @@
+{
+  "internalId": "MINING_RAFFLE_TICKET",
+  "name": "Raffle Ticket",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Bring this back to the raffle box!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MINING_RAFFLE_TICKET",
+    "material": "NAME_TAG",
+    "name": "Raffle Ticket",
+    "tier": "UNCOMMON"
+  },
+  "recipes": []
+}

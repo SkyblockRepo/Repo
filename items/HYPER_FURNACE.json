@@ -1,0 +1,71 @@
+{
+  "internalId": "HYPER_FURNACE",
+  "name": "Hyper Furnace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Smelts items instantly.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HYPER_FURNACE",
+    "material": "FURNACE",
+    "name": "Hyper Furnace",
+    "tier": "UNCOMMON",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HYPER_FURNACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

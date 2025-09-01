@@ -1,0 +1,60 @@
+{
+  "internalId": "COIN_TALISMAN",
+  "name": "Talisman of Coins",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 70,
+  "lore": "&7Coins start appearing around you\n&7occasionally on public islands. Lucky!\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COIN_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzM2NTc0NywKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1YTEyZGM3N2U4OTY5ZmI3NzViOTE1OWM5ZDdlMTk5OWVhMzFhNmE2ZTM5YTcyOWI1ZWY4Yzg3NmZjNjNjNmEiCiAgICB9CiAgfQp9",
+      "signature": "jelLwFRrnzUbqAyvfEDDZrMPLBNr/GfvWkizs+xwmrb4h5bApiA3V+HwcCJrpiMtpvssNQLVnlAXBjth9c3hDjAYB98fH6th+AOQo7Q4nS40p1G/yJHpswORTexucScOez8br1DfCx7+tWRJ4wxuORXU1ZMdTA3etO0MfUjOZGlygJ/gWNXUurutIXk9bVJhl1CorhREkCh6Y6IGL9Q3U2wldNjhUkxpxt38QPZ4uafFGr16Z15CQHo2/ZLhhEaUbXojfHLXWYTp65E5AkQNRtxq6h/AYrFVM+BNmE70qDQdSQ+WxqoiskMnWeU31QPTBoAR3yajiK0YmMbqRIQe8psKudAZzdB8hJFEtEt2E6FUecOJ8ZSYrOyNmiAgxe1lM4otdQFB4rBA31/ydA4kjgcRc/G8ROs9l23neINDAK8VvgrF8nwh8+Mzz57Fwa7UCEoYZNDK/suWDqZ6z9aYxBAAR7nsUyge7imeIyCAUbWi78brJbApfwH/CfrSqXB8IMho03UslALX0xRTVR/qoXhCxqPkKKXhC53XaB8H18LYJ8AbYQWUzU1c8OM7yTD+wg5GEw1dVxSLZ5V32a4CStitR7P3Y8zgZ8bAfqYW3UK0MgcCDPTDkiYWGqhelUwg0j7MkNYTFv2sSKdeGaMrq/7L9rkTuEDvnz/WJ1XRBxQ="
+    },
+    "name": "Talisman of Coins",
+    "category": "ACCESSORY",
+    "npc_sell_price": 70
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COIN_TALISMAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "EMERALD",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "EMERALD",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "EMERALD",
+          "quantity": 5
+        },
+        "8": {
+          "itemId": "EMERALD",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

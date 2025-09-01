@@ -1,0 +1,47 @@
+{
+  "internalId": "MESA_BIOME_STICK",
+  "name": "Mesa Biome Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 400,
+  "lore": "&7Allows you to change the biome at\n&7the &atargeted block &7on your private\n&7island to &bMesa&7.\n\n&7Right-click to use or Left-click to\n&7change the radius it effects.\n\n&7Selected Radius: &b3\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MESA_BIOME_STICK",
+    "material": "STICK",
+    "name": "Mesa Biome Stick",
+    "glowing": true,
+    "npc_sell_price": 400
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MESA_BIOME_STICK",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_RED_SAND",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

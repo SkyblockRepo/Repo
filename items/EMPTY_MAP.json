@@ -1,0 +1,25 @@
+{
+  "internalId": "EMPTY_MAP",
+  "name": "Empty Map",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMPTY_MAP",
+    "material": "EMPTY_MAP",
+    "name": "Empty Map",
+    "npc_sell_price": 25
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "INK_SACK:2",
+  "name": "Cactus Green",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INK_SACK:2",
+    "material": "INK_SACK",
+    "durability": 2,
+    "name": "Cactus Green",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

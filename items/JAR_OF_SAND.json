@@ -1,0 +1,32 @@
+{
+  "internalId": "JAR_OF_SAND",
+  "name": "Jar of Sand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Decoration item\n&7\n&7&7Obtained during the &eCarnival&7 for\n&7placing within the &aTop 500 &7in &6Fruit\n&6Digging&7.\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JAR_OF_SAND",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ1ODAwMCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZmIyZWIwYjZmMWRhN2YwMThlZDMxODg3ZDNmOGNhMGVmMDdmNGM3NmZhZTFiOWEzN2UwNzdmMzg5ZGZiNGFmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "Wm0PVtZqH9BSPQAorypoP/iytcAXL2T9/l32pBcQram5Ha59fXb1sFyih2qIr0m9l5A70CtpuM3eQycyP6upXHosYuqSBPMRaNQxXYJi8BZX0fokruFGoNCIgxPZ5wbRnQkzpFfz/iDtoK3Sw0h/2Tem4auJLjjpw1CEV2QIJZe1y7VQxbpDqPM3jtAvhZwKqzLAJJWjkAzZDqu6smmv51ROUd93CjmhpVh8pV9u4ktigwBLwHvKM8iKJqI1at18C77QLXlddkWVaiB5Vpb9WUezbNPsYC2GfQrdxlWHK+7zC9GmYXIksBLKp5uDiPJQ4ltiAYP9BZKj18R65/HzXTsj3vS/quwRkEZxceng8Zaul+eoXNTbv392Vmf+j1XU91vgRABn8nneaMciEeilDmQMXoXzZq9TJ3xNeqDkgydp4SUyh+eB63Vy31X+rpo34CO3td98LXpiKZCEDCPgmWvTSCmSE51qJOSIikEMnbRx6Mf3kYmYHIAismQgh3YQ/Fu081bIW6d0Be5gs5NHxf/8rTxE3Z0TbgTX/QCh5qk/Yi8Be197ECPljXvsNvB6wpJt/nBfzRDhqUlXQVkgRhzof1awBT+c59QF5xLHkehZpoUcWKXOtAQh10o+alpVhs4mQGsyERW/4pSZQkV4wXczR5BtO3jP9czrZOu6fCE="
+    },
+    "name": "Jar of Sand",
+    "tier": "LEGENDARY",
+    "can_place": true,
+    "description": "%%dark_gray%%Decoration item\n\n%%gray%%Obtained during the %%yellow%%Carnival%%gray%% for placing within the %%green%%Top 500 %%gray%%in %%gold%%Fruit Digging%%gray%%."
+  },
+  "recipes": []
+}

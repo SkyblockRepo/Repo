@@ -1,0 +1,28 @@
+{
+  "internalId": "SPOOK_THE_FISH",
+  "name": "Spook the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7This fish lurks in the darkness below\n&7the Main Lobby during the Halloween\n&7season.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPOOK_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 1,
+    "name": "Spook the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

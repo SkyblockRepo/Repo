@@ -1,0 +1,281 @@
+{
+  "internalId": "REKINDLED_EMBER_LEGGINGS",
+  "name": "Rekindled Ember Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 70000,
+  "lore": "&7Strength: &c+30\n&7Crit Damage: &c+20%\n&7Health: &a+220\n&7Defense: &a+70\n&7Intelligence: &a+5\n&7 &8[&7⚔&8]\n\n&8Tiered Bonus: Rekindle (0/4)\n&7Increase all of your outgoing\n&7burning damage by &c200%&7. For each\n&7second you are on fire additionally\n&7increase all burning damage by &c1.2%\n&c&7up to &c50%&7. When wearing 2 or more\n&7armor pieces of this set, melee\n&7attacks from ignited mobs will set you\n&7on fire!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REKINDLED_EMBER_LEGGINGS",
+    "material": "CHAINMAIL_LEGGINGS",
+    "name": "Rekindled Ember Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "npc_sell_price": 70000,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "REKINDLED_EMBER": 10
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "HEALTH": 220,
+      "DEFENSE": 70,
+      "STRENGTH": 30,
+      "INTELLIGENCE": 5,
+      "CRITICAL_DAMAGE": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 6
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 7
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 7
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 5000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "COMPACT_OOZE",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REKINDLED_EMBER_FRAGMENT",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REKINDLED_EMBER_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

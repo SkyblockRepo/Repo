@@ -1,0 +1,78 @@
+{
+  "internalId": "BEACON_1",
+  "name": "Beacon I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1540,
+  "lore": "&7Tier: &bI\n\n&7Can be placed on your private island.\n\n&7Grants special buffs to the island\n&7owners when powered by &dPower\n&dCrystals &7obtained from the forge in\n&7the &2Dwarven Mines&7.\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 1&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEACON_1",
+    "material": "BEACON",
+    "name": "Beacon I",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1540,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 1
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BEACON_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "STARFALL",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "GLASS",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_MITHRIL",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

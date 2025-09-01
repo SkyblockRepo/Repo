@@ -1,0 +1,45 @@
+{
+  "internalId": "ENDERMAN_MASK",
+  "name": "Enderman Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Strength: &c+1\n&7Health: &a+1\n&7Defense: &a+1\n&7Intelligence: &a-99\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDERMAN_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzUwOTU0MCwKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViYzRjMmNiOTlmNjQ3MjE3YmFhN2MxOWQ3NGVlMWYwMjU3Y2ZkZmMxYmVmYWI0MzA0ZDM0NTVkNDY2ZTg0MSIKICAgIH0KICB9Cn0=",
+      "signature": "Hd5G6gd+XlDWL+9jijN8stw4YBME05jU8jRdFnzUmzMGTMVQktOaL2G7gjNtxeagIY9tgaRh5KCFYUNwypn4BPG5ffVwcD2UGmOwnezt1XTa5LtyiIEL3K9BKyYrJFT969FrWyZzDmOKKT1U3FsN0AeheBKk4+Z06MxoN4542Nz6iHI4aQ50VBYCBqP9gUEHYtpALr23WS0tHhpUV/8cWHRqAZ6G/wdDMBgakaU/GQMWo75jiEOY6uZq3+TKEu9UcSn2bNiFXVaH4pBgY6b+W5hmWWFV1TUo0hvkWfPLT799c8vp7N7LssgLAOl7G+0S6yGsUGreYZR88irxL8Gw6LD2PTa+0Am9yJy33kOAmZEJkNNO7F7U8I9E7mbEYEJwPM6UlWosaFeqY2crxRgnj+EtpwA9cLZONYwB+tWtPKGsKipd74/86Ei+wD/SLWlDdaz4QFRy4z9r6b62kQg/VfTz8fhTr1/2VZnjG6QSGveVWwuCfjOogAoVTDaBe8by+XqEA+4/frRCegEYFqInv0qNtn/UeY63gwxc0mj7vqbDsfX+ZMcmj+lpOYA5StX/X1Tz/Se+4dEDyTXFbBAh6LrXH8ULY8x4YrGAkjR458ejjeRgSy24HbSw1q1s8rrAHaetHYpmpbbeU5xIeFsWDak+sGt0q0bDeE3AC2URz6k="
+    },
+    "name": "Enderman Mask",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 1,
+      "DEFENSE": 1,
+      "STRENGTH": 1,
+      "INTELLIGENCE": -99
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

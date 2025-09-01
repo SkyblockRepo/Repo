@@ -1,0 +1,42 @@
+{
+  "internalId": "ARMADILLO_MASK",
+  "name": "Armadillo Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+1\n\n&6Ability: Soiling! Soiling! Soiling! \n&7Grants &6+50☘ Block Fortune&7.\n&7\n&7&8''What does the Armadillo say?!''\n\n&7&8This item can be reforged!\n&9&lRARE CARNIVAL MASK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARMADILLO_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjIwMjU0NSwKICAicHJvZmlsZUlkIiA6ICIyNDc2OWQ0ODM1MDU0N2JmYjg4OThiZTJlYzQ5ODZiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJidXNfQTM4TyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MjU5YTM0MmJlNGYxMzk5MzM0YzlhNDBlYzI1MDBiODFkMWU3M2FmZThmMjk2ZmU3NjcxMjVkZWRlYzM4ZTRmIgogICAgfQogIH0KfQ==",
+      "signature": "kmC2jcOJLloFOeOHq9y0rNEWbkTkff1iW6SVXuE5DW16K6iGCEWROCN1mfFzR2G7RDGSmf1HdboGwZnuOcMvpcfuxCz0BB5I2Bs8I1TYTFaHELMadJHMjORcJwuVisCM47KV3H0p1jjolf7CBj//36ETbvjaYpI2wOuwcM4C2uJEA1CWndQhUv7CAESbkLRDDhekS/RclLPaUQ86ze2P+4It/xTEspCCWtB997ccQLZtDiNbCC1pjapQxnmc+TT9MxNDgXWhCW2Z2RIGcftxZ9LjbYrQHTDadopHdVpUm9ciD09BYZCPlwEIQQUnsg/ANfxEAyL4VzB7JqIJ8wJ7ZyFtvemg0OQs0K4MFsYVSmvT46F2JjVCJUuBYAvEdOOSF7CQzAxlH0mrvBSHGI2i09V/8c3gtePLmu1oH9C645mfQUhmJX03RjjnM7FSeeInXVGUSvTDKoX/wFjNxXdT6FatH+ivOwjSILOHRJKCIZ012o6f6f27rekpplgmAyUcsAkQBHylepWTEXkbrG7M5adMDkkGEdydLXbD2UQOpiQiZd89Y03G20w1YHC8Dhr7ltFKu5nPs/Hd2U4I8TG5Clyk3VM5835Xa3+6d1xJBU823ZzWP+vLPJaJL8d4N7+oDvP+XYgW7Ifvd6szE4mqKWceY0y0YX+1GbIxgxeBUe4="
+    },
+    "name": "Armadillo Mask",
+    "category": "CARNIVAL_MASK",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "health": 1
+    }
+  },
+  "recipes": []
+}

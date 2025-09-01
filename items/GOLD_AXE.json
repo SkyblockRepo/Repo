@@ -1,0 +1,29 @@
+{
+  "internalId": "GOLD_AXE",
+  "name": "Golden Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 6,
+  "lore": "&7Damage: &c+20\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_AXE",
+    "material": "GOLD_AXE",
+    "name": "Golden Axe",
+    "category": "AXE",
+    "npc_sell_price": 6,
+    "stats": {
+      "DAMAGE": 20
+    }
+  },
+  "recipes": []
+}

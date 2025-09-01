@@ -1,0 +1,56 @@
+{
+  "internalId": "FEL_ROSE",
+  "name": "Fel Rose",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&5&lEPIC DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FEL_ROSE",
+    "material": "RED_ROSE",
+    "durability": 1,
+    "name": "Fel Rose",
+    "tier": "EPIC",
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FEL_ROSE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FEL_PEARL",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "FEL_PEARL",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "6": {
+          "itemId": "FEL_PEARL",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "FEL_PEARL",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

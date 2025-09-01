@@ -1,0 +1,32 @@
+{
+  "internalId": "DARK_ORB",
+  "name": "Dark Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aShaded &7power.\n\n&7&8''Assassins use it, apparently.''\n\n&7At &6250 Magical Power&7:\n&f+6✦ Speed\n&c+46❁ Strength\n&9+174☠ Crit Damage\n\n&7Unique Power Bonus:\n&e+3⚔ Bonus Attack Speed\n&c+3⫽ Ferocity\n\n&7Requires &aCombat Skill Level XX&7!\n\n&9&lRARE POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTA2MTU4ODI0NSwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3YzQwMzZmODBiZjM2MDkxODBjN2M0YTk1Njg4NTNmZDgxNWYxNTRhZDg0MzhiOTJmMzg1MTAxOTgzNWIwNzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Qv8oVaf3ELlflWYPpm718j9hqlVxbS6WjkjjSehrNIlH/eWiUfi6bhgdzUJjaoI7wxRnTZd1IOil/mcV2zA70n3XNLXSh+fRr0oSYgdKWonkb46ObxwVXYnqtsbvGntMA5AxEJm2XuCT+yyc3wtEhb7xtw2jLLRjKPHj/IumUHXIL4ztZ9E8TCCUdJNpQKaC0LEYcUIff+qgzLQPQYIelgZJkT0sz7NdzfnCsiy5Dk7XDlkDV3v6z2Oy09Ydjj5vHD7XPDvGRuokE/JAe1vBhy0Pw7YYHYe7Kv+NT729CLjc1V78A2x950qexrZ/59shEX5+8XJZ+hOQZWFgXU43oLJpE2gLjoCxogMkryu4SPprGFZ/L2aSIfaVb4+k/ZRsuqNvxnIOY0WDPVmfZWTCq8wcIyjDIvvK2Ne61SeHlZjYMz6CQgqy6pFykIOetjsCA6cGZJblAMHMcfC2zxUORA3CwWOYIlxNJlOI3LzOsP77RdeRrnpP3+a8HjnfJSjn3ntUDg/V9p4ImsgmAJb67TrmZ5MWWeOHJoQW0yWHNV5bkskPYdeI/NcAfzyuHZHAiDOImi2VSM7Nh/JsYE13LAFkNX8tOlabZ2HDYSNdQHl8U7sGFcPbF4J7WHjR3hE1ozIdZStPaun8Rxjld5q9EHojhidIp7zr2nWOyCAilZ8="
+    },
+    "name": "Dark Orb",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

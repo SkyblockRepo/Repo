@@ -1,0 +1,32 @@
+{
+  "internalId": "COCOA_GENERATOR_12",
+  "name": "Cocoa Beans Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting cocoa\n&7beans. Requires jungle logs nearby\n&7so cocoa can be placed, or air\n&7nearby so jungle logs can be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COCOA_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQ1MzU0NjQ2NiwKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjYTQ3OGU5NzhlNTExZmIwMzhkYjg5MmQxZmJhYjUzMjZmMDFmYTc1MjBlODE1MTNkYjY1NGY3ODAzMjFkYjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "NnAUjCV8p7WSD00RoFhg/Y+asFQCRy5BT2/WfU56F4hrB4Bj9N75Td2DURUaxyqc9U8ppIROe1/jcU8Xi+2faSWmAbBWX2s7AtWWSb7Pl8JNoE33aXsRrdwArczhlQagSOPBEk5zD7LnSHF53PbKSbJJA4B3FiOpaYoprMwCg2WPyzKC4NBeeGfiC29figkzyDALJ9euvIilCiCpGUVdsPmMDgf0xjmpR6kXchQjBNecdIwc5kSG2JXNniw82aBnc0eSvaEI1AgcECoNORVWj27dD90dJL8miSdmbKZDTr047tH5HqkdCsajVZ3RZEn0MZ+z98VaZcoQjag0az0Cl004PevRWGrpa0Nf58O3tv4rAPijCJPMJH2Tc91OY+b+YTqBsJZb/MU4rDNxVyYoLyFtuqMZn2X59SNJnWfiY8q6x5UAau2Uifz5MOX8qLzys6cugWOsAYGf/nJk34iIlRIl7B8SXrymGGkZNUC0WYlnPwOgS2QmkJ9dVkxOjBEOZKWa6yhb6w20hNp2HrzIwiRGnruxKXOIp7kKc/rQAxP8MAvzWksDv19TJUmFKhWE0yGUnE52Ei5ZvLhLI5RnmDkUk8W8pRuiSZ+j7/wpJWGuuQYTUpPKhYUAM8srwSUlLFBY+LTFMc+eRSW1mICjKcTuzlGqaU1Ef0cSoLZSd1M="
+    },
+    "name": "Cocoa Beans Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "COCOA"
+  },
+  "recipes": []
+}

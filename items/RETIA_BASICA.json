@@ -1,0 +1,73 @@
+{
+  "internalId": "RETIA_BASICA",
+  "name": "Small Huntrap",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&6Ability: Retentio  &e&lRIGHT CLICK&r\n&7&cTraps &7can be placed near the spawn\n&7location of a &9Shard &7creature, with\n&7time it will eventually catch it.\n\n&7&8''Fundamentum artis venandi.''\n\n&f&lCOMMON TRAP&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RETIA_BASICA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMyODI0ODE1MiwKICAicHJvZmlsZUlkIiA6ICJiMmQ4MTA2YTJjM2Y0ZTY4ODA0ODkzOWU0NGM1NmUyMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWdoeGQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRmZDRjOWQ1MDljOWUxYzg3NTc2NWZhNWY3OTdlY2ZlNDJlMmJjYmYyYWE3ZmJmMzc2ZGY1Nzc5ZWYzNjUzYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "w8fFN4RL/q3Lo1XTaBXCASunIMknIVMWuAjSdqyFw1QRnzDbjuxPsxl3BYqPW1+fesc97zBfMeljwjXjFPArP2rcKbYbV846udKG+VRCGxoXdSMKMFgymkJR+hfBi1udMVTICq5di00S91Ktc5BwIH3bqa9/ln7kDn/w/vaDWeIscFqsT3yNcNB3V4fPJUyh0vy8iwZkdEsPDZmBkTpfayDmSj5/Hm0Wm4Ry6Uz0T40jc5vCV7b3qD/4abskEyhzqbP46JtvrhGqkZpcQT1rfhhkXimD/nETkFXe/BdAg90yMWTXwkGEptV4bJl4z6W3TJneKjwTrh8DElCh+tPbLqAnvMM4JFcKhS16nb080DnuiHDjf1CGMl3uufcPV+kZumdffGkmuFFyzHNRAsdO+SC8fGcoVCqAPGpGh6tilseuyf6IAGjPzp99jRLAlwQ8wu/dlRFUNNtqG1XBzN/WUG7z3PwTrtwfeFYSOvDRUApi0ee6NqJMP8FB0L+Qd26Os7WjTbTIeOAoQP/tAZMn/QsT5LIdJbzTrlleUPCx5scfOjjIVqP/ge8I5gkZhZ7ITKujX5slK9XLWtq+n+qJ3eKORmqpCpAO39GyykntG7H+L3/+6wszz+gbHXwYDjRADCBXC6Lc/jNJvQ5mKxB5n1EsPeuD1RNsoImMUIckKZM="
+    },
+    "name": "Small Huntrap",
+    "category": "TRAP",
+    "tier": "COMMON",
+    "description": "%%dark_gray%%%%italic%%Fundamentum artis venandi."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RETIA_BASICA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

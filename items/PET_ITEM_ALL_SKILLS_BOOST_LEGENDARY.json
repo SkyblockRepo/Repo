@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_ALL_SKILLS_BOOST_LEGENDARY",
+  "name": "All Skills Exp Boost",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_ALL_SKILLS_BOOST_LEGENDARY",
+    "material": "DIAMOND",
+    "name": "All Skills Exp Boost",
+    "category": "PET_ITEM",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

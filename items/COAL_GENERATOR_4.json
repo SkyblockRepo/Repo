@@ -1,0 +1,77 @@
+{
+  "internalId": "COAL_GENERATOR_4",
+  "name": "Coal Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining coal ore!\n&7Requires an open area to place coal\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a13s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COAL_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzQzNDIyOTMsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84Yzg3OTY4ZDE5MTAyZWQ3NWQ5NWEwNDM4OWYzNzU5NjY3Y2M0OGEyZWNhY2VlOGI0MDRmN2MxNjgxNjI2NzQ4In19fQ==",
+      "signature": "gvU4xgBA8WK+vLRt0FwwPgpR/bVaYW0Oq0i74pYoqp+eCtvmLxi2Tl7FOIucFt/NVIkTGl1R24Fq6lGByNbnKvqZTqzcYYGqM4lH415P1qWKIzGmi7MIcrcYPLetoRpyfAs2XLHok4Ufzz1ps/+CL7ET3tANndKuCu3QyURwuO9My3yn+MC5nPfcZ8V0cA9QX3BY/sAcLENmk7FPzhZ420ul95QJE7ygM/aWQOgQu5z1JZAPGgNmlW3/KlYmv+3bTrTiCXrZddghTbsLB9n4sdzYlE9w7YpoL2T15/1xvmGK9koIV8I291P+8gvJXZ2EeQeK/NfdgJtdWz9C5GOBNridK+hMPbPFCXIipKbZyXm462V0pSZkh9/N9xSHWKlbE7Hfn8eMbiZBV4iUtnFnguvOoquCBPpzKrf1KAU8yDnNwsQ/4l+pl7cCmKe6tC2/2TGgTxl1l1a4GgPctYX2hFfJK0MJqrQ4QsqdK3IgWR7Itn/+pyJ2e83UkN0KT+5uq6EyoweEuLW9xl/1eZV62U9WwxLhcPtdllfLf+s337kH2G46PyIscvfKPcYbWuRyT+svHzff4GJe1Li5dpF93Tgx0VMZPg5en3ouazIPruoV/auvbPTXsA6DjyveLIQMvQ0ntnCPmJu0rqj1W6rw2rttSuctbFXpiLKJDLKIKvc="
+    },
+    "name": "Coal Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "COAL"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COAL_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COAL",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "COAL",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "COAL",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "COAL",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "COAL_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "COAL",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "COAL",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "COAL",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "COAL",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

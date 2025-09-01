@@ -1,0 +1,32 @@
+{
+  "internalId": "CATACOMBS_PASS_7",
+  "name": "Catacombs Pass VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CATACOMBS_PASS_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg3MjMxODIzNywKICAicHJvZmlsZUlkIiA6ICIyMmNhZTExMTU4MzA0MjU5OGQ3Nzc2ZGI4YzlhZjZmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmFuZ2VyVGhlRG9nIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2OTY1ZTNmZDYxOWRlNmIwYTdjZTE2NzMwNzI1MjBhOTM2MDM3OGUxY2I4YzE5ZDRiYWYwYzg2NzY5ZDM3NjQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "GuHZWOmnXm6HKemp/nHt/MU1IiSrKeL4rJYS29kkR8kHhTE9dwHh5p07IDbk2yQTnbUlG/VCY5ycIQWGv+J/XZsKU3ev5xkZ7HWPIXdB26MZPRO8d/GzRgcKz/3x8uYWVM89kETJOslk6cTsew0SS3PiynShgEnsBt4qDYSplpmVOJipNgfr8pnlUW8v9TVROwTjAGsOGkyyBuv031+7S6IIdyvKLRKZimrmofgFcWwmEqniURR+UsbVRf2L/7BbXlEnYPcEiVUL9zJJTuAAQWzfziWVKSj2nxb7lk5R/Jqwlr3XS+ezMQPuX5xyJJbTmHnXT24pdrJu0WKGh0Aecx/NGerVz6oir1p2tPfiTmfxUOXU56tTJSG48Hm9JyLCf33eGs/8FCkQaEZ1j5UQZQr4Cya/ot4sDZgjXLLBepzMwYwTXlq5k9DBwwiS6ZDS9ACFPynQ1xfhrqZN2pu6DveOD+ubDVjN4/rKRYnNt8iM/wtrj9w0x2VoLK4NrdBs1gOHlOXH1sosfchJDG8lcmOWrAlQEnTCo26g8sVn+ZWbC5IQJNJQM87Pdvogro60qK1LVgScuEyYwoIUw+D9Fm1l/iqyxCc9aOgH7nztmdjYxyXtNsCzKQbnEDi+dj0dj0pPttGQiJE5YNiOiXBO3tE5aKmugbgqzMdhlT598E8="
+    },
+    "name": "Catacombs Pass VII",
+    "category": "DUNGEON_PASS",
+    "tier": "EPIC",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

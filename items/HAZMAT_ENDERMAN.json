@@ -1,0 +1,32 @@
+{
+  "internalId": "HAZMAT_ENDERMAN",
+  "name": "Hazmat Enderman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aSlender &7power.\n\n&7At &6250 Magical Power&7:\n&c+81❤ Health\n&a+58❈ Defense\n&f+6✦ Speed\n&c+58❁ Strength\n&b+87✎ Intelligence\n&9+58☠ Crit Damage\n&e+10⚔ Bonus Attack Speed\n\n&7Unique Power Bonus:\n&a+100❈ Defense\n&c+50❁ Strength\n\n&7Requires &aCombat Skill Level XXX&7!\n\n&6&lLEGENDARY POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HAZMAT_ENDERMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTQxNzMzNTczMiwKICAicHJvZmlsZUlkIiA6ICJlM2I0NDVjODQ3ZjU0OGZiOGM4ZmEzZjFmN2VmYmE4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5pRGlnZ2VyVGVzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MWU3Mjg5MGE3OWU1MDBjZjEzYTk3ZDEzNzRjNWFjOGE0ZjE1YTllMGQ2ODg1OTk3ZmM2ZjJlM2MxMTI1NGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "kMd6OLRT9A+RDVBNsf1uu503SzpzwmMuXuAKJvRqAnPR7+siWqJxj8LbVvr6Pe/g3dd0VcMoFToDgEPp4sTc2KAMaMd2RyGAQlSxeYSosAnWIylqhJc5wGBXdBSjthIyKv0nRhx2VoQ8jRbBunClbRgaxgE33s36aci0y8G53OlBOxMLyH9ZPfrbUnd2qjcvDIcADNNR7yNk9nSom76c84UJHB91Dyd8ShIpx3Zu1np9FM2URmFd9cie/nlGEWOFfd4qvTlOwZWfJa4e2kYmpJXR1Zw0En5kKePPKuSrK07DcjAcOiwupd9+VH12oMDNF1M8n1fH8MMZZlw8/frHrwDl+KfBVcH//OVCd2d7+DZeRoRPw9Q+u6VSax5CMPadOG2uGvJcUdq5/IrdlN71BCvHURifMpu6C0+uECpUtGZRZJIp4uxvVt6uCs7C41PKk5vp/MgnH4zjTM4+jJBSXE4r99mO5F0rsnwYlzXSNZgcuyYj3BkBwKI8uiVb+CIirXQXGXJ4QNtHt6mK64K06BtWxzAkMADG7HtXWXJVJM4nUz46qlHf5izocCqhYbkb84iS0JcEw86XtvMPEdV3RelIUFZDXIzyp3zqNteq5hwCr6EcYIMHVUx+nYTysXRUkS/oyqoG+FO8bfmE4aAOpPslR0qMx+H85uaFasf3UO4="
+    },
+    "name": "Hazmat Enderman",
+    "category": "REFORGE_STONE",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "ARCHER_DUNGEON_ABILITY_3",
+  "name": "Healing Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Shot Cooldown: &a10s\n\n&7Shoot a teammate to heal them for\n&7&a20%&7 of their max HP and grant them\n&7&c+50❁ Strength&7 for 10 seconds.\n&8Cooldown: &a10s\n\n&9Shortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARCHER_DUNGEON_ABILITY_3",
+    "material": "BOW",
+    "name": "Healing Bow",
+    "category": "BOW",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

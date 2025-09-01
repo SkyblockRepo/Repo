@@ -1,0 +1,29 @@
+{
+  "internalId": "GOLD_HELMET",
+  "name": "Golden Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Defense: &a+10\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_HELMET",
+    "material": "GOLD_HELMET",
+    "name": "Golden Helmet",
+    "category": "HELMET",
+    "npc_sell_price": 10,
+    "stats": {
+      "DEFENSE": 10
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "FUMING_POTATO_BOOK",
+  "name": "Fuming Potato Book",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil&8 and Reforge Anvil\n\n&7When applied to armor, grants &a+2❈\n&aDefense &7and &c+4❤ Health&7.\n\n&7When applied to weapons, grants\n&7&c+2❁ Strength &7and &c+2❁ Damage&7.\n\n&7This book bypasses the &5Hot Potato\n&5Book &7limit of &a10&7, allowing you to\n&7upgrade an item up to &a15 &7times!\n\n&5&lEPIC DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FUMING_POTATO_BOOK",
+    "material": "BOOK",
+    "name": "Fuming Potato Book",
+    "tier": "EPIC",
+    "glowing": true,
+    "has_uuid": true,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

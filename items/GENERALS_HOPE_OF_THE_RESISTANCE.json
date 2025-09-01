@@ -1,0 +1,38 @@
+{
+  "internalId": "GENERALS_HOPE_OF_THE_RESISTANCE",
+  "name": "Staff of the Rising Sun",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Ray of Hope  &e&lRIGHT CLICK&r\n&7Channels your energy towards the target\n&7location, exploding on impact for &c1,000 &7damage.\n&7Costs &b2% &7of your total mana to use. This is the\n&7only item that can deal damage to Dante.\n\n&6&lLEGENDARY WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GENERALS_HOPE_OF_THE_RESISTANCE",
+    "material": "DOUBLE_PLANT",
+    "name": "Staff of the Rising Sun",
+    "category": "WAND",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "museum": true,
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 1000
+    },
+    "item_specific": {
+      "ray_texture": {
+        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzExMjM0ODIwYTFlN2JmYjkxMmI1MjJhZWNmMzRiZmNiNTY5ZjAyYmY1ODM2ZTY2OWEyOWJhZTk5NzM3ZTUyMiJ9fX0=",
+        "signature": "Q2ds/MbywEz1LPjwsQL3T9YU4PVPzWEjLLKA6r8zRkif79xBct6jgD9Z2Dbsb9Rf2GyjCuAZu67MQrSqkMyxWPrJ+dK6o8RP1lkLzsICw0h2Z9GSkdHeiSNDivWtyaW/EXSaRqZREo1rYFooyyO1GoFvEXt5Wc4JxLTbrLWlaCPlSLGpLky8lau8VFBUqVXpnOCLfsUKYeCSKrl0XgV3kxBqNKsYatQ3w47vnpge2K9B8NFv70MvPRlz8TtauJ0fR3URRuUB6bJfrb/4kknbTkrIUY/94XOIBfvoOju5h0zYZWHvLGT/x0VMyO8yIwlj60xQm5mDmRr2TW10HIL6rPq0ISayDFgI4NUx1fsmRqmrJSINLXU1z8RW1vv2srCFrTqLfvEgVvWaPvhw2vNemxK49DX+LgMQFRZT0DTEmH7bFVj2vymrPhqDQNwjGMGmeXTk/wPQPjWhnrWKJeonVfaJmys8agcQC060OwKS8ZRufL822YxJFIxUnpLldsxgqi9YrekiRBTQPbHLiVib8ZnAzOytrkEfy039yq6/3+0Mtu8S60bFE5RjHqxACVPLfsx+njU20/oAtRjbNadnQcoNlBhYUp0F063tUEQiW1y7WPSYmNT1ycc+GmeDregy3yGCGPiSV5Z1mviYF6VJt/2Fa65SxzgA5tEb6kaI/0I="
+      }
+    },
+    "ability_damage_scaling": 0.2
+  },
+  "recipes": []
+}

@@ -1,0 +1,88 @@
+{
+  "internalId": "BLOBFISH_HAT",
+  "name": "Blobfish Hat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25,
+  "lore": "&7Strength: &c+25\n&7Intelligence: &a-10\n\n&7&8This item can be reforged!\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLOBFISH_HAT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4Nzg4MTU1MjI0NSwKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYmVmNWVlMTczODA5MGMzODMxYjA4Mzg0MzM5ZjRlY2FhZjJjNWYxNWM4MDM2MTljMjY0NWNhMTAyNmNmNDQ1IgogICAgfQogIH0KfQ==",
+      "signature": "EG0UEESV2yas0nbzoAjySw/jiB9eBkAMK2LyRWLMf4CwPkr2kJ/6GakCfRov6yvRcKK1e6OU35G98JBRI1hVYgRBu/hsEMNHPHVvXfZe7JjX8tDJi6lrI9zigtI+eL72Xkw9Mjb4mUO0f2TzVoUQMX6r0S/ccXSm1gehJFQY+huMYv3eWHgmMkDKy05Pzrr5hQjNYom7+4mMTIBAsUXC4GYukWTkgxajUpV6a3nH8YToLe1Fk/+B9a7EDlOo7t09IpP0DUfbjqyGCKPyqPEYzBTL32GBffGkx8kwU6f+rtEUf1u7by+MWZLhXovKoArRH/ZLUf38310wY1zZPNAgdqXtho9faVflyoB72gj5hZS4fNmyIYtdjJ07me9Q5NZ3OQ+Fuf94c4PFjL3VBNLAo4KIyKWIRuf6bGUqlhh2BaMrpVqFKSyWghCsBJpfPjGMqwqbEaS2woncsoEDo/ea/Nk1wlIORgPolWggmtrztKxb5+PhMkYMz8AcgzCmEr9njLxzo7p34aX3FhSL0Z2SWiAl5Y8OlIdtssKzf1QvLKQr2GqRsr0KPyYpqdTORFL8oFmFy6OAef/SvEjgGusUNbitnBRYdQpbzIjLKlE129DdD9YKogAfsQutYVx+yF6f5p/xpXFQMVD5Pki5l3FEIuYCxnrjRXhh7sdiIkuX0E0="
+    },
+    "name": "Blobfish Hat",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 25,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "STRENGTH": 25,
+      "INTELLIGENCE": -10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLOBFISH_HAT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WATER_LILY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WATER_LILY",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "WATER_LILY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WATER_LILY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CLAY_BALL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WATER_LILY",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CLAY_BALL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CLAY_BALL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CLAY_BALL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "PLASMA_NUCLEUS",
+  "name": "Plasma Nucleus",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Combine with an &5Overflux Power Orb\n&5&7to increase its strength and create\n&7a &6Plasmaflux Power Orb&7.\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PLASMA_NUCLEUS",
+    "material": "INK_SACK",
+    "durability": 5,
+    "name": "Plasma Nucleus",
+    "tier": "LEGENDARY",
+    "unstackable": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,84 @@
+{
+  "internalId": "RETIA_SUPREMA",
+  "name": "Astral Huntrap",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&6Ability: Retentio  &e&lRIGHT CLICK&r\n&7&cTraps &7can be placed near the spawn\n&7location of a &9Shard &7creature, with\n&7time it will eventually catch it.\n\n&6Ability: Suprema \n&7Reduces the time to capture by &c50%&7.\n\n&7&7''Suprema inter retia, nulla praeda''\n&7''elabitur.''\n\n&7&4❣ &cRequires &aHunting Skill 20&c.\n&6&lLEGENDARY TRAP&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RETIA_SUPREMA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMyODM2NjA0NywKICAicHJvZmlsZUlkIiA6ICI1ZTdmY2RjYTU5YzI0NjkwODAwNjg4OTNkODU1ODM3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYWVsbGFyaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzQyMzExNmJiMmU1MDAzM2QwM2U4MzViMGMyZWYzZjNhOGE2NmMyMjgwOGYzNjQ0Zjk0OGQ4NDI1NmZjMTE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "pLs7lo0qHH0G2weBB1GJJPjfVjcvn87cSaHEOihC6Dwh7FIMKa0gq/3OinI58Mr6+vwvNtAYgPp/ZL1+diUyQ+1NtpG+8RNkMwgVCit+XFICIvcwkCsFL0IA4lVAQz7NGglZiMIILgUDSSVm2WTVsrLgQ4MNGxihs1CytmSFG1RImG2h9y6cyLd7yw5iRvFjON6BF5lWfe+uV3CBJHfcFxLdS4LJcT8B+dMUVB/71iKy9cR7RRbPmOMP/h5oqHbehb5loD8AtZjC9JaPOr2w+EptXLH4AhK5s6ocY2x2jj5ttYfKmvQO+QAJOBzwZqLfU4VtlAUkZU8RfPj1wXEHCE8SxvGT3aYh45zFOnUTE8RoOqrexRUYPj1TjbU1tbeZdmDsT6vbq+pbYNdWs353R7M9OziddJJcEXgNsIm4U4R2Xc9+/GO1jd8+yvnhAk+ACuzN/vAars//IdcdZ5Mj76SM3Rb13sUppoCAfU5viLFXKwbg1uHvBFSCL1IW9XTVZQz9N1GloXnGvOMeGpW/WCVywKcr09sFWAkHGSMZ8J857p4zLf5bqdfwbjd0i1wiAAPHvnuc2r9bYacmBynxmdhcAMqxgPqE/hxhBIvCYe8SKKUSwCCUnJMF9H9egFeCaAlMP2lEKPkMmjZ3mmgqcuxTfkiestVrxI0oV3j+KE4="
+    },
+    "name": "Astral Huntrap",
+    "category": "TRAP",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "HUNTING",
+        "level": 20
+      }
+    ],
+    "description": "%%gray%%%%italic%%Suprema inter retia, nulla praeda elabitur."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RETIA_SUPREMA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_TENDER_WOOD",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_TENDER_WOOD",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "RETIA_FORTA",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_TENDER_WOOD",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_TENDER_WOOD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

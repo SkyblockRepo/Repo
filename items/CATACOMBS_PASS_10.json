@@ -1,0 +1,32 @@
+{
+  "internalId": "CATACOMBS_PASS_10",
+  "name": "Catacombs Pass X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CATACOMBS_PASS_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg3MjQzODU5NSwKICAicHJvZmlsZUlkIiA6ICJmY2ZhYTg0MzA0YjE0NDUxOThkNWYxNzQ3ZjI0Y2Q5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXJzVGhlV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YTQwNjc1ZDMzM2FkY2NhNzViMzViNmJhMjliNGZkN2U1ZWFlYjk5ODM5NTI5NTM4NWI0OTQxMjg3MTVkYWIzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "K93XDuVoITGweKNy0HWGarZPFmMND6HVr/bJ70Myn+E6ERrpsIFKMSYNb3ULuex/4/MD4+fXcCTTbwRo6bWuiZqgErTgbSmUroVY6naBcpfTfhZFsjDPTVBIO2ESnFm0zNgbNuqGjOm0oAT6x1OqFAyXUOYrgWGDGwQ76Vae8RIwCvobqt/pk5CQWmVkROEdj8brpwwfBLUqTr2jxcO8gyjCBt88Mt7/yT/hjapmDWkcp6oSraviSVT5VTyLdIu5PCQIbmqEExqfsnFzaELj6CjwBCs2Bse67WxZRJkPKlEoU5iIRALm28kS7GyzgwxAUJSqepjjp3yqs5gXG61O7kYOIO/SHeQ7dDrNH6eLd2FCNNEgX1bs6YfOiKSVB3aFpkWUA2jXYEy4fJQ14f7ouvxGF+TO/eRZkN+xQuOZQ1Qh1WKHj3dr6e8hXJUZYLG1pHkSyp9TR8vF7q1sKW7BllIgQGao3YVWnwww/GH64YjplXJowbvQ2Lvc7VirFzDmqQZFbzRUYUAXbV4YO/DR2jBFwxUqOL0QFSXZ7K0DSStDOIm9rDg4qnM1Tu8WZRuSlWNDzl+HUKNMLyz5DVznkfZgYTO8i+XkwTlMThtzr4UTsbh7GEVPy+z8zO8nx1jtukm1tu8nqUz4wurPYySWrWsIZDijNPtXAlLxCIuhoww="
+    },
+    "name": "Catacombs Pass X",
+    "category": "DUNGEON_PASS",
+    "tier": "LEGENDARY",
+    "dungeon_item": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "GREATER_ENCHANTED_CHEST_UPGRADE",
+  "name": "Greater Storage Upgrade",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GREATER_ENCHANTED_CHEST_UPGRADE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDc0NzkzNDk4MSwKICAicHJvZmlsZUlkIiA6ICIwNjEzY2I1Y2QxYjg0M2JjYjI4OTk1NWU4N2QzMGEyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmVhZGxvYWZzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Mjg0ZGMwOTg0ZjRmZTVkZDU0ZmNiYjM4YmRkZjZmMTg0OGYwZWY2MTIxNzY3NTRmOTc1YWJjOGM5N2UxMjQ5IgogICAgfQogIH0KfQ==",
+      "signature": "o8zaB1xFLpEejNKk8752BNDKdfHTv0K7SZ4XVOVwAQqKVrnw3cjkDXXQtSTkNOhmsGzx1quywwIonzBZMupstYifV+iXd9XzhSsDOnmgEengtzihjZwOA61mwigQXSuMaQmy4b2PsoBJA84236bElYEKFDfHTcuqWOeH1y4STEAmP1CtInubj5pqEgtuVDvSIE3KC8ejvnbj9T7Ld7tm4GDvLKA4+P7Xm5YgmOAEBWc+V786PNKfyl5YA4UP1o6Yuf0EzrOSwRMFr+BwsEYEleoE0+POLjzeomyl0WKp8dGZ3oFfg503HreV+N0/sIKD202nPY6OMYU02185aiTafQbhRpZSF0y9CacQ43mMXYQp9RUgOyk1Y5IZ9fbuujlxfsSYRrimUH+65+pDIHUQ3p6dumMKA6jqQy9em+qcaPYPXb/Dat42NgODdiKHYLydb7n9gAIyAxu9MR9S7h87nJbJipWUAl7COo+V8RT8loGpIdcAegIzlcvHq48J10lLBou+kRGI7GiMiypmpFtd/xeG1DS1ZheZ+iZEpxYU7okfIhR0cSfMnV5/pnvsN4Pt744YVaDfuCw++J11j+ekNGfss92v1nGRRI2jnuzqczFj5yByk56w4LvznMhd0+mTEJdQSaA9R816/aS/zVylDDt32cpQ7AUqn9blPN1Ll0c="
+    },
+    "name": "Greater Storage Upgrade",
+    "tier": "SPECIAL",
+    "glowing": true
+  },
+  "recipes": []
+}

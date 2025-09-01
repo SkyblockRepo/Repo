@@ -1,0 +1,42 @@
+{
+  "internalId": "SALMON_MASK",
+  "name": "Salmon Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+1\n\n&6Ability: Slippery Slope \n&7Gain &f+10✦ Speed &7and &b+10☂ Fishing\n&bSpeed &7while in water.\n&7\n&7&8''Not to be confused with Salmon Hat.''\n\n&7&8This item can be reforged!\n&a&lUNCOMMON CARNIVAL MASK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SALMON_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjI4MzIxMSwKICAicHJvZmlsZUlkIiA6ICJhNDAxZjEzMTZlMjI0ZTNjOTg0ODk1MmVjMzhjMTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmVlbnNoZWVwaXJhdGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk2OTc0N2E1YmJjOWEzNjYxZmRlNjhkMzY5YWNmZmNhNTRjOWY5YjE5Zjk0ZGFhMzg3OTk3MDc5NjYyOTI0NCIKICAgIH0KICB9Cn0=",
+      "signature": "PclTu2LEDqPwv1hWIvjcb6lxljXPu8ty4GhlUW+h0TD+XegWzPnyCJbHzKAXbhFjRwPclzMtXbDWl/eqE6g9isYqxOd4CrwuGBMp8JCKsGmtzdsdAlylDyRKEQSSpvADlcqtcru6yqp6wxleiQ3OFHcWjZcEbkBiiwAZv7w2mC7YFsEP5xB1psUUm1AHnCpPcLCYF8QnNg46x0LEWjoqU3w9uk8SyayvCjCqv89WGMZOku/t8Rkm5IskXJXscOR/UFjkQpt2bdVjMQ0Fyuk4IyYsg6RX8wWu/uuy3O2YZyx3qmsBlsVxiPw779Aw1zIROM5VxdoRcVaKGw2vx/lqSAw6kFLKm49C831oGGb8UIW57S6zBBYuIgn0MZFiBOrjVnTTNiXmVXvsqW6DV6W1Q7AhKPZkg3T8iFDEeEhcqvQZ7NHqSBfgU3RgURlz8LBEeaYmmnvx5rKj7f+SJEJ6gybuOYbc2hh+EEK+g593MzYcL9hXHdGfAadrCySCGQaWHYsGurLYmOiIfC3gacqiQR/74MnYDedXtlL5ChmdPm2GiLkW+WeCGJAkm7j2S49cwEXSaO2ELB0WbbC1mpCf7JQFfXbRhnu1k3ItMVOgEojv2zh9g1vBC5WQVzNvtQRvU+H8uvckdtnnIDWEhj0EVwE3I+/nurckMQGRE4/+4KA="
+    },
+    "name": "Salmon Mask",
+    "category": "CARNIVAL_MASK",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "health": 1
+    }
+  },
+  "recipes": []
+}

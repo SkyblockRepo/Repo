@@ -1,0 +1,27 @@
+{
+  "internalId": "CUBE_BARN_SKIN",
+  "name": "Cube Barn Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Consume this item to unlock the &aCube\n&aBarn Skin &7on &aThe Garden&7!\n\n&eClick to consume!\n\n&a&lUNCOMMON COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CUBE_BARN_SKIN",
+    "material": "WOOL",
+    "durability": 14,
+    "name": "Cube Barn Skin",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON"
+  },
+  "recipes": []
+}

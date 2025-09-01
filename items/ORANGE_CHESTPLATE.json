@@ -1,0 +1,75 @@
+{
+  "internalId": "ORANGE_CHESTPLATE",
+  "name": "Orange Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+45s\n&7Intelligence: &a+5\n&7Mana Regen: &a+10%\n\n&5&lEPIC CHESTPLATE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ORANGE_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "255,70,0",
+    "name": "Orange Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "glowing": true,
+    "stats": {
+      "RIFT_TIME": 45,
+      "rift_mana_regen": 10,
+      "rift_intelligence": 5
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ORANGE_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ETALPTSEHC_NORI",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "HALF_EATEN_CARROT",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

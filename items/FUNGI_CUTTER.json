@@ -1,0 +1,70 @@
+{
+  "internalId": "FUNGI_CUTTER",
+  "name": "Fungi Cutter",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7 &8[&8☘&8] &8[&8☘&8]\n\n&6Ability: Fun Guy Bonus  &e&lRIGHT CLICK&r\n&8Toggles On/Off on use\n&7Switches between red and brown\n&7mushroom cutting modes.\n\n&eMode: &6Brown Mushrooms\n\n&7&7Gain &6+30☘ Farming Fortune &7for\n&7&6Brown Mushrooms&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&5&lEPIC HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FUNGI_CUTTER",
+    "material": "GOLD_HOE",
+    "name": "Fungi Cutter",
+    "category": "HOE",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": []
+}

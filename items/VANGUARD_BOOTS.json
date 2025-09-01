@@ -1,0 +1,30 @@
+{
+  "internalId": "VANGUARD_BOOTS",
+  "name": "Vanguard Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VANGUARD_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "53,136,255",
+    "name": "Vanguard Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "stats": {
+      "COLD_RESISTANCE": 1
+    }
+  },
+  "recipes": []
+}

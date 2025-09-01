@@ -1,0 +1,31 @@
+{
+  "internalId": "BROWN_BANDANA",
+  "name": "Brown Bandana",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Gain &2+0.2ൠ Bonus Pest Chance &7for\n&7every &3Pest Bestiary &7tier unlocked.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&9&lRARE PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BROWN_BANDANA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkwMjA1NiwKICAicHJvZmlsZUlkIiA6ICJhNTdmZDE5MGZmM2U0YjBkYTEzMmY2OGUzOTU3ZjViMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4SGFubmFoNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NzRlMDYxZTZkODUzODIyYmJhZDU2ZDA3OTM1N2MyNDhjOWE0MGRlNDk0ZjIwZWFlMDA3OGEwYTAyZWYwZGE3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "NwQ4DLA+lAP5jHfxA0vfKrUR7gMey283gGKpddRS0QSAALaZRWiXDX9VgXhjepQD9Hkx7hKDEkzjodC1gwkyGk0cPcs/ayRguxnQWqZZOV2nb+GodF0YXQyHEfKrNZjdn7IVBPWkkwffzffjCr+1/tIdYnsP0n+DqvUV/uUmjhsra/DxXsdicTzsYP++VFxyROhPasJ2LzA7g15L+aZY+J8Xsz5QV0Efc7DMawmhIidvpHqTdqjWuNxRipCt7P6kbx2tE6eWuaaDtd49lax74HrHnTUfZW3R/9Xy1GPkop35/VH+fykbX517GszlHm8aZDWeIiEF+DELkNyPX210fW/5NEvdwSByjKO/jLHQ0CbK/umXH8cUqcdhhmQKX0IcG3U643FD+3vBQS4NgA1ctTu43A8EazX9Q/2T5wEGubyMyM1T8EPuxsTqIsUTgB1igGjZKCZiKrDMEh4qCI9F1g17FfdZnE989qR7XG+mVMV7vUqhvINavRoUY6UAhIdfcCYZixk4US4jO33IfCJQ14SaFIRDO9zb/4OzhyYCxX+8ky1UpZHRtsy2TRopwEPFDomSZj02nzM4FcLn356sYKhWRbkvr5lnSsnFlTMOAwp2NcuptKUo+a+udPwFX0ilZoD4eMKDGkKMxcSEb9VhnA+XnaRwqyG+OkYsYDJJMPc="
+    },
+    "name": "Brown Bandana",
+    "category": "PET_ITEM",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

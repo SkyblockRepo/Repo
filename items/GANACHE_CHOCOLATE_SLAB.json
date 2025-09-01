@@ -1,0 +1,32 @@
+{
+  "internalId": "GANACHE_CHOCOLATE_SLAB",
+  "name": "Ganache Chocolate Slab",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &a+8% &7chance to find a\n&7&aChocolate Rabbit &7that you haven't\n&7found yet and grants &6+40 Chocolate\n&6&7per second.\n\n&7&8''A Factory masterpiece - its divine''\n&8''taste transcends reality, offering a''\n&8''heavenly escape.''\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GANACHE_CHOCOLATE_SLAB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjQ4OTQxNywKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODk1MTIzMzFlZGZkYzI3Y2I3ZDRlODBmM2UwZGI0NjBkMDVjYWY2NmM3YzFjNDJlMGU3MTIxMzBhOWI2OTAiCiAgICB9CiAgfQp9",
+      "signature": "dRG2tpo+7S1TQmH1OJLetoPPyavA0fQz6NTHU2xYWyWm/vIKrsaG4SFd2pPIcZnqYbrIgQ2hbXKXST4P4FCqRlCFda0k226WdGcQgK4JIZtWAavdCpdz2VqrDQJINh8j/+VHsW8vzoy5i9+ldsDAgzVNAzeNOLnvbls3d3p1EsB2NDYstubRToRpoYV18WFKAw/0gI19HwsAny3dZryvT0697XqvRBSKweJEvImBjeghFjsGqF3zQDpAXOKXr63IWdw9tIuoMlpiR7gcwGRjQZx28vUnuTHF/YuOqt7oGfTca5+IKmEcUO0ud/9naFauOpen2N0c0q58OzBzPcZDTFKfyJv37v+jPDsFC7Pu8lxv3PTTCkgK8Tlo5IIWBq9qON7qMFDzKMJPmAFp+HtsD0J0WBHL+zGHv+B86DCgVKL+2qP83nnPGGSTX6RL+9riDS7b9tvoLIvg6TMlFkg7a/ZPizo03WbijKNkPeGz+NfcQVOP0QZZSI3azwA9tjfntamajVf6Z7C2W0cUcUNjNl7sl4Diuj9UihFzAmJQPI6xH0utso/aOw9FRB+AdNqkck984rNrfVypAgmwUFRKjUoSAbFUiyMdN06JGiT12HMeibOOgho+9LZKYuZ6Il7Zsr7KLpDiB6Q81T4PmjG4Zl/llbtSEu0XgwMl0u3NPiQ="
+    },
+    "name": "Ganache Chocolate Slab",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "description": "%%dark_gray%%%%italic%%A Factory masterpiece - its divine taste transcends reality, offering a heavenly escape."
+  },
+  "recipes": []
+}

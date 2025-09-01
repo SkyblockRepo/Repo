@@ -1,0 +1,66 @@
+{
+  "internalId": "NEX_TITANUM",
+  "name": "Prime Huntaxe - Nex Titanum",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7Damage: &c+25\n\n&6Ability: Absorptio  &e&lRIGHT CLICK&r\n&7This weapon lets you absorb &c25% &7of\n&7the basic combat stats of any\n&7weapon.\n\n&6Ability: Vis Temperata \n&7Each strike of this weapon has its\n&7damage capped at &c50% &7of the\n&7enemy's max Health. This weapon\n&7cannot cause a fatal blow.\n\n&7&8''Titanum ruina, mundi mutatio.''\n\n&7&8This item can be reforged!\n&6&lLEGENDARY AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NEX_TITANUM",
+    "material": "GOLD_AXE",
+    "name": "Prime Huntaxe - Nex Titanum",
+    "category": "AXE",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 15,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 25
+    },
+    "description": "%%dark_gray%%%%italic%%Titanum ruina, mundi mutatio."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NEX_TITANUM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_VINESAP",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "ENCHANTED_VINESAP",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "APEX_PRAEDATOR",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_VINESAP",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

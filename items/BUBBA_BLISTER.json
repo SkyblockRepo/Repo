@@ -1,0 +1,36 @@
+{
+  "internalId": "BUBBA_BLISTER",
+  "name": "Bubba Blister",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aBubba &7power.\n\n&7At &6250 Magical Power&7:\n&c+49❤ Health\n&a-93❈ Defense\n&c+58❁ Strength\n&9+9☣ Crit Chance\n&9+104☠ Crit Damage\n&e+17⚔ Bonus Attack Speed\n&f+12❂ True Defense\n\n&7Unique Power Bonus:\n&3+2☯ Combat Wisdom\n\n&7Requires &aCombat Skill Level XXV&7!\n\n&5X&5 Rift-Exportable X\n&7&8Loses motes value when crossing\n&8dimensions.\n&6&lLEGENDARY POWER STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BUBBA_BLISTER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MjQyMjMxMTU2NywKICAicHJvZmlsZUlkIiA6ICJlOWRlMDE0NjExZDI0NGY5OTVjNmNiMjhkMDk5MWExNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGl6YWJldGhUcnVzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Y2I1NzI3Yjk4NmMzNmUwNzU4MjE0OGI4ODYxMDJjZjgwNzBiMGVlM2FhMzc3MWIyNDY0MzkzZjU4OGE4MzJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "uZNjbhUY/pXTTbIo/yE5uT/45qjzUxstikCJeSUmXKOluGQDNlI0U2NOWBAKwYqswrlbX81VVhtsy+U05KjhmWiNNamLCv9Ivyr+neK7KGGKcRC/Bo4zDg9Zfgw1U3HUS7LxGhnHXQkvYv2zasdaLtcCKxgIkFm74CFBrqs3vxsk1kZKeS+vTOWMQJjedU8IpCb6x+jTZXbLnwQRrWz7Top1r12Uwt8n8FmlPMlZxMHktAANKh1xhr8G5pregd8B8ntQHhIrjDcDO0uCsVbzUj0sVKe+UQ6oi4eu5T/1YkMpQm6PAviYCTlgroMvxo9FFIQhX7ZjeBrbB+2jrtlhYw5fp0y1m0Rw5uaAvdMy++op/KsvKhaqZ9yZHEc2To9RXgKtwqCzJd7ATb5Tr4rKr4nww6QkAY/Tfgc9eiKvomXb++ZbdLqrt0yAfouxkPx1LeoxCyeHookEJAl1gWciNDgkfsrAT6VnydnJhd2UNb4T19h9hp3i3QChNzaTpLlw5kbLUiK2JcVoyPQ+8lkDeyD3kgYcswryRrIyRXduwPh1VgWC85k530/EMoUHfQ0xLT5xhXqlP6qxs/Tqn5l4UWNNyed6BWR5toT3tIyl4TKKQPK3bcafysYU0O6ttUmJPHDM7hlf837epvRiCM0xtjaDDbVmQoKSl/I+IAf3saU="
+    },
+    "name": "Bubba Blister",
+    "category": "REFORGE_STONE",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 10000,
+    "origin": "RIFT",
+    "motes_sell_price": 10000,
+    "rift_transferrable": true,
+    "lose_motes_value_on_transfer": true
+  },
+  "recipes": []
+}

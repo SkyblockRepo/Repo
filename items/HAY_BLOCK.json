@@ -1,0 +1,25 @@
+{
+  "internalId": "HAY_BLOCK",
+  "name": "Hay Bale",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 54,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HAY_BLOCK",
+    "material": "HAY_BLOCK",
+    "name": "Hay Bale",
+    "npc_sell_price": 54
+  },
+  "recipes": []
+}

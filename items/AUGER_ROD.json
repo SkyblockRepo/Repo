@@ -1,0 +1,67 @@
+{
+  "internalId": "AUGER_ROD",
+  "name": "Auger Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+135\n&7Strength: &c+90\n&7Fishing Speed: &a+110\n\n&7&cThis rod is broken and cannot be\n&cused to fish.\n\n&7Bring it to &2Roddy &7in the &2Backwater\n&2Bayou &7to convert it into a &anew rod&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 25&c.\n&6&lLEGENDARY FISHING ROD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AUGER_ROD",
+    "material": "FISHING_ROD",
+    "name": "Auger Rod",
+    "category": "FISHING_ROD",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 25
+      }
+    ],
+    "stats": {
+      "damage": 135,
+      "strength": 90,
+      "fishing_speed": 110
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AUGER_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "YETI_ROD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

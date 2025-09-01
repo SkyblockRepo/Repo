@@ -1,0 +1,25 @@
+{
+  "internalId": "BIRCH_DOOR_ITEM",
+  "name": "Birch Door",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BIRCH_DOOR_ITEM",
+    "material": "BIRCH_DOOR_ITEM",
+    "name": "Birch Door",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

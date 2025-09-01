@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_RABBIT",
+  "name": "PrettyRabbit",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Rabbit pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_RABBIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjUxODM3ODkxNSwKICAicHJvZmlsZUlkIiA6ICI1ODkwNjAyNDYyMzE0ZGFjODM0NWQ3YjI4MmExZDI4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXeW5uY3JhZnRHYW1pbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM0NjMxZDk0MGZkZGI2ODlkZGVmNmEzYjM1MmM1MDIyMGM0NjBkYmEwNWNkMThkYzgzMTkyYjU5ZGM2NDdmOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "Z3YoKiapyXeWxcv7aJs35VboPUY+ne2KLCEVmOr93Py3fMucmcFb9aNM0MiS/PX1C6FTaN0OBaBXtA060hUoXfvxcdh7h2CgYQ45dxDZeeXXtIYo3IXbouyaeuQspntHhub0l1e26oV2gwe7iHWe5YzPbjnQTEfzIqQuKjJ1fgpYNJ3Ua80TCsoUDC5g3pvVrvx/FwAYdcyYI/rlkxC1waPcNycZuFIe/8qXppF//7lAzHwtGkdpsD087u5/gyrbEn0EUP2JPoebaK+BHlzkbStXGo6e+c873QqHu5gIdinYpiCmbwGNhoxGQSUaHvqiatMalVC048Iv8DIw331ZFNCwDmQzH6VCaTc6B6iLG1GwBv8RYpuQjfuJ/VuZ9NJb0EoQNYERGSUGAYohi/ST24d9ikT59wj7dhGejtzLBovFmBl/Qby0q3gLNKjrcPSGpmoUjrTJiTbOdyBfQzgTBpiuFePmYS1qAtdrL5gHxDVjzur19yHen+MRsshdCWXbhrowQfqhpYuodZuuFNqju9rGcEaEJL/fFBA0GCtK4VV3D3pD2RC/DNt0JElUI/2o6KNDU8/isFk1/2KqRqPBUzHcmhx/OKs68eZLRUDrBUMjEweQlrfB/ESSyGUHJcptGSg5YEnFSrc6HquLTXtY4hnRlIjf20gqaQjRpzFtxZ0="
+    },
+    "name": "PrettyRabbit",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

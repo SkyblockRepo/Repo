@@ -1,0 +1,72 @@
+{
+  "internalId": "ENCHANTED_HAY_BLOCK",
+  "name": "Enchanted Hay Bale",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Legacy Item\n\n&7This item is no longer used\n&7throughout the game, and can be\n&7exchanged in your Legacy Trades\n&7menu, accessed through\n&7/legacytrades.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_HAY_BLOCK",
+    "material": "HAY_BLOCK",
+    "name": "Enchanted Hay Bale",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "soulbound": "COOP"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_HAY_BLOCK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "HAY_BLOCK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

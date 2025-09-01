@@ -1,0 +1,51 @@
+{
+  "internalId": "TUNGSTEN_KEY",
+  "name": "Tungsten Key",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Can be used to open backpacks with\n&7a Tungsten lock held by &bFrozen\n&bCorpses &7in the &bGlacite Mineshafts&7.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TUNGSTEN_KEY",
+    "material": "LEVER",
+    "name": "Tungsten Key",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TUNGSTEN_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_TUNGSTEN",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_TUNGSTEN",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_TUNGSTEN",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "BEJEWELED_HANDLE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

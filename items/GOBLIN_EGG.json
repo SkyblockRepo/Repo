@@ -1,0 +1,28 @@
+{
+  "internalId": "GOBLIN_EGG",
+  "name": "Goblin Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 421,
+  "lore": "&7&7''What came first the goblin or the''\n&7''egg?''\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOBLIN_EGG",
+    "material": "MONSTER_EGG",
+    "durability": 4,
+    "name": "Goblin Egg",
+    "tier": "RARE",
+    "npc_sell_price": 421,
+    "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
+  },
+  "recipes": []
+}

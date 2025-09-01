@@ -1,0 +1,31 @@
+{
+  "internalId": "SPRING_BOOTS",
+  "name": "Spring Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&9Feather Falling XX\n&7Increases how high you can fall\n&7before taking fall damage by &a20&7 and\n&7reduces fall damage by &a100%&7.\n\n&6Ability: To the Moon!  &e&lSNEAK&r\n&7Charge your jump by sneaking. The longer\n&7you sneak, the higher you will jump!\n\n&7&8This item can be reforged!\n&9&lRARE BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPRING_BOOTS",
+    "material": "CHAINMAIL_BOOTS",
+    "name": "Spring Boots",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "unstackable": true,
+    "museum": true,
+    "enchantments": {
+      "feather_falling": 20
+    }
+  },
+  "recipes": []
+}

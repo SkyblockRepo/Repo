@@ -1,0 +1,126 @@
+{
+  "internalId": "FARM_ARMOR_HELMET",
+  "name": "Farm Armor Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3200,
+  "lore": "&7Health: &a+20\n&7Defense: &a+40\n&7Farming Fortune: &a+10\n&7 &8[&7☘&8] &8[&8☘&8]\n\n&6Full Set Bonus: Bonus Speed &7(0/4)\n&7Increases your &f✦ Speed &7by &a+25&7\n&7while worn near Farming Minions or in\n&7the &bFarm&7, &bThe Barn&7, &eMushroom\n&eDesert&7, &eDesert Settlement&7, &bOasis&7,\n&7&bMushroom Gorge&7, &2Overgrown\n&2Mushroom Cave&7, &bGlowing Mushroom\n&bCave&7, &eDesert Mountain&7, and &aThe\n&aGarden&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FARM_ARMOR_HELMET",
+    "material": "LEATHER_HELMET",
+    "color": "255,215,0",
+    "name": "Farm Armor Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 3200,
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": []
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "FARM_ARMOR": 3
+      },
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "HEALTH": 20,
+      "DEFENSE": 40,
+      "FARMING_FORTUNE": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FARM_ARMOR_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FARM_ARMOR_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

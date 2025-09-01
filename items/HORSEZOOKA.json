@@ -1,0 +1,26 @@
+{
+  "internalId": "HORSEZOOKA",
+  "name": "Horsezooka",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Shoot  &e&lRIGHT CLICK&r\n&7Launches a horse to clear out hay.\n&8Mana Cost: &31\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HORSEZOOKA",
+    "material": "POWERED_MINECART",
+    "name": "Horsezooka",
+    "tier": "EPIC",
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

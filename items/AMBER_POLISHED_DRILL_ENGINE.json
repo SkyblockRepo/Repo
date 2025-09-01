@@ -1,0 +1,66 @@
+{
+  "internalId": "AMBER_POLISHED_DRILL_ENGINE",
+  "name": "Amber-Polished Drill Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 103000,
+  "lore": "&8Drill Part\n\n&7&6+600⸕ Mining Speed\n&7&6+100☘ Mining Fortune\n\n&7Put this item in the &6Drill Engine &7slot\n&7of a Drill at a &2Drill Mechanic&7!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 9&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AMBER_POLISHED_DRILL_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjY3ODAzMiwKICAicHJvZmlsZUlkIiA6ICI1ZjE4ZmY4NTEyZGQ0NmQ1OGY1MjJlYjg2MDg2ZjU5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWtlb3MiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZlZjcyMmRhMDVhZThiZDgxMzI5MDVhMTFiNWI2ZGZiZjhlN2FlMGFmNTk5YzgyNjZlMTYwZmIwNWU2MTU5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "iEbNcZCJA2uQG1OLwGPpUfL4hxA1Q+5iMfrUCRoy+N3jfdOQbXsZ7CHYKSGiRNYKl4aQU9/wKbkFnvtTizMC12eV3bCGYbhXmgt7olUBUvA0XbVo6RefhT1w/+OdXoiTj7lGTkQ1qdXptbJzhq4p0B2mR8eeYeCQCnmNW1+3tL1jqviaL4UzOu5ZXWc0pI+v4JNRmb0xyelQcIvFhDobQxw6fyfM7y9vayLygMLNVYBk5+bT+DjVVMlRvh8WwT9FpYGlxi7u7FjXsJDvpQycrjYLerGWheos75fDijSAtpsHpo2caJ/FM9iHKsNWl0EVHy4mtIOHszNzVzQEEttZ5z5LgwsuplB8GHlW8RPXJ6cEyM+//vnRhS8e5Y97LSoxi+YGRJtfS3u/svYKyHZecwyST8TguWnVXGrgTjABOMsX9v3NgrkQrD5UJ5ZG4EPcoGPdxmnWpbKrw5PUESfeDOTvRA24dxRpWRqZ/z2/LlRBZDCVCqdFCkVcbKU41YFYXKB1TT1EAGDRM7ZPlH8V2Mlw77fk8/lYv+rq+2p9NXiSrNUFeupvgghYJpsRPAD3OjtKVtk9x53sFOBnjEGsiluxyWchdiyjDWQFseR5AOhZhQ0tU/rByef49xt9FWMOV8eYcBt5I6Qd/FlI15UGqxH6h3NfqXVyj1i0otXeJSo="
+    },
+    "name": "Amber-Polished Drill Engine",
+    "tier": "RARE",
+    "npc_sell_price": 103000,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 7
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AMBER_POLISHED_DRILL_ENGINE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PERFECT_AMBER_GEM",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "PRECURSOR_APPARATUS",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "DRILL_ENGINE",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "PLASMA",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "internalId": "UPGRADE_STONE_FROST",
+  "name": "Wisp Upgrade Stone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7Upgrades a &aDroplet Wisp &7pet to a\n&7&9Frost Wisp &7pet, resetting its level.\n\n&7&eRight-click on your wisp to upgrade it!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UPGRADE_STONE_FROST",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTgxNDk1MDQyNCwKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NGVhMGRmYjc5NGZlOWIzNzJmNWVjNTI5ZmM4YjhhMGYwNzdmZWJmNGI3NGY3ODk3MmYwYzgyYzNjMTg2MjQ4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "ErTKDoge5Q1119or/vtu6yNynd1TRZoZc6wpZvmNie6XiUYK05KDCtpNmAGR/n7X+cg46G0l2S1EN0GProDAqM7OXvAxRA9qPffacPo46AMkZ0lFVwxY6aNRPAMG4s0vDJms2QuYCngvJO9vibtF/paLzSIctKCaXNO9wENVuCOzh9syMxqbQim+TArOB2clKMudEEM0Me2knrue9OZl/ct+eau4diyx3Vk/4ybQedErQEvC7E0Ytu5faH92mSC63gvOdwEKPuUEmumVOJ3Ma9Gtcc0PqzGp/vAuR+I/nnW2nr++q4ocqpmwIJbk5YeRu1cSw0wdEyqrwAGOhFkgtQHKpPG9/zWPAgVAg0M9ZzSGIRTbs8rQpBMf8GbLSCq7TPbst4JFaPf80GZ6nfGdGD8DDyGjjS5WLb7Uu+uJZrv8RJqd4QIsSScvcfV8anKh8fZJquHmOzGzp+l9qIu+qpo6+fZkQZoDDxdCjyJAMhcKKoc/8UWo7Ir+Qb+nm9U3qnTabnlDK6Xz3wySXkTB/j3ULasYql5mPecCiguSzFV1Z0qJQ7psUbKUoXc1bC0gXuvFccCWZI2vqtHVX+GgKSZ+6tSP2wRsHQDHaGNhXBZV2O8ouV9ep/QxG43nUhqXuWHYGJSO4fOR55NHWS+jIvYFa0yqp7mdEK6eH11F/Os="
+    },
+    "name": "Wisp Upgrade Stone",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "UPGRADE_STONE_FROST",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "INFERNO_VERTEX",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KELVIN_INVERTER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

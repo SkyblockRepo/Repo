@@ -1,0 +1,26 @@
+{
+  "internalId": "PET_ITEM_VAMPIRE_FANG",
+  "name": "Vampire Fang",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Use at &bKat &7to upgrade &eBat Pets &7to\n&7&dMythic &7rarity.\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_VAMPIRE_FANG",
+    "material": "GHAST_TEAR",
+    "name": "Vampire Fang",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

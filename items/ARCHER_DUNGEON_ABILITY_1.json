@@ -1,0 +1,33 @@
+{
+  "internalId": "ARCHER_DUNGEON_ABILITY_1",
+  "name": "Drop Arrows",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ARCHER_DUNGEON_ABILITY_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE3NDcxNjAwNywKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJb3lhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZDI1NGRkZDYyMDUyZjhjMmRjMWI0MWY0NjE4MGFmMGMzOTJjNzZhNjRmMzE2MjZlMjg5ZWQzYjg2M2Y4NGEiCiAgICB9CiAgfQp9",
+      "signature": "GRg9ZRq+4hYGkwCAMXH39h2OBmn8LqtB9kD247dKmN3GKacw79pl2hRCFVVliG2qMQBuxiKcfmhOAbvtEUpn4aVnYAEVibyXd74UOFW0925YTHXKNuJws5yLYclnxCkGG7a7pvaa/8S+cboCIzGnRaUtCd2H8wlOa6jRhP13dQdImTbGPbXuicfMbhh0e/G3Qk99Cy+mrNawSb4FcuUz9RIUjxZTkyX7dPUco3cd5gjHMl50cZsWNqAuHWaFpaCwFy/pDYE+LW3FrwDkY3cx3m9HeMH8fCi3X2Y40h1NVFkqm2dPg4/i5bi0nj0I0Sqk5H8mhfbP4VL06KEG40UCM+/2+FD3qiZFc3WVbxLbnClhjN35p2uUCEqSrCJQDcMMaS9IunZYyFF0w9Dst6cfOJwyKX46I0Zc5P3l/NeFoJ4lEfy6HMIKMUOlBWvUgWUlC35tSGRf0b0qzzagOgxaaFVLD4hkU5UODmSwFKFtzdpeMXGJFbqIpQbJ2BOxSS6L5g1Dl5NQFDIgylj36IUGjT7Uh+JLuYn2Z5jAwe12LmTol1wl8Wb2JfPcUgztXMZl8i8EXhzHJ4SQSXYTUN+NAZzJFXsSGaORtNjQKBIPnEAM7tKBTflMfkFjAa/zc3cocxmlN2CzuhjiwwE8PM2y/6PSEdegAp/y3e+ejkDzQ4Y="
+    },
+    "name": "Drop Arrows",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

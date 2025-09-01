@@ -1,0 +1,159 @@
+{
+  "internalId": "FIG_AXE",
+  "name": "Fig Hew",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+30\n&7Strength: &c+10\n&7Foraging Fortune: &a+20\n&7Sweep: &a+7\n&7 &8[&8☘&8]\n\n&6Ability: Frenzy \n&7&7Gains &21∮ Sweep &7every &a2,000 Logs\n&a&7cut on &2Galatea&7. &8(max 20)\n&7Current Bonus: &2+0∮\n&7Next Upgrade: &2+1∮ &8(&a0&7/&c2,000&8)\n\n&7Logs Cut: &b0\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 12&c.\n&9&lRARE AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FIG_AXE",
+    "material": "WOOD_AXE",
+    "name": "Fig Hew",
+    "category": "AXE",
+    "tier": "RARE",
+    "gemstone_slots": [
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 12
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "FIG_AXE": "FIGSTONE_AXE"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "sweep": 7,
+      "damage": 30,
+      "strength": 10,
+      "foraging_fortune": 20
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 300
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 400
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "FOREST",
+          "amount": 500
+        }
+      ]
+    ],
+    "can_have_booster": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FIG_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 4
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FIG_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "STICK",
+  "name": "Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0.25,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STICK",
+    "material": "STICK",
+    "name": "Stick",
+    "npc_sell_price": 0.25,
+    "motes_sell_price": 15
+  },
+  "recipes": []
+}

@@ -1,0 +1,74 @@
+{
+  "internalId": "UMBERELLA",
+  "name": "Umberella",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Place an orb for &a300s &7buffing up to\n&7&b5 &7players within &a30 &7blocks.\n&8Costs 50% of max mana.\n\n&9Orb Buff: Umberella\n&7Grants &6+5♔ Trophy Fish Chance&7.\n\n&8Only one deployable buff applies.\n\n&7&4❣ &cRequires &aUmber Collection IX&c.\n&9&lRARE DEPLOYABLE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UMBERELLA",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NDQwMDgyMCwKICAicHJvZmlsZUlkIiA6ICJjY2MxNGM2ZDUwMDE0MjBmYmMxYjkyMTM2Y2JmOWU4MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab25lX1gwODE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlNGExN2NjNTI5M2MxZDYxYTM3Y2M3NTc0NmJhNjRlZDg2YTE3ZTM0MmYyZTViNDBkZmM4ZmY4OTk3OGE1ODAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "qlQJUc7Cx//79wumsbie9s/w+I3Lbdd/jD7du69prfG07kTrRm5H8vl3CyFicd7vHs6jzPI8pgng0u4aUZZTGSc/AVOiEYaOzD4Op1kWCbApA9awWhODt/BoYpQ9r7mKnBd6eZ7D2y6KC8RQsA90Cs8t3JWNGWsZR5WhU9w51YmkMgRzyax6H0r54hkEXUVQelrG2Ryhxip1xqLXkszGbmzHrM+zAKDT8x261HuPJ2udOHJZjxlvPFi7ySsfFNQgxtnqPsIaz0h+Omsz3XppgPt/DX18ZOPP4Ys9Vu5GNc1GyXu5RHhHjmkkbQa8zRKPPXBnBz4UWS2MPYvwicBb+GVkbLylNPD8Emon3lnLibbdFNUrR4OSBX4QkghOfXxMLgRpN9H8SCIK67JEj8WA/dkA/WGPKqvWQ0gj3n1SEOtPWD8Pv0oPQRKIF4Fx0JEbWR74BaWEzpTUy6G6jx8VGhv/VSpqyHpyyuu1GHwdGaYr77yadAc1YLNSTUl0a44rsNRjb0x6APIJe6MW5uZ5pThAgUc71U1FEUqQJUtpak7w/KuYjptQB7cYhbUJCUCNOMch8HAWvizihwlZm8fx1p7l8NDcGgWFKn/hBscNxS9eHTDV1p7KyDnH1RhSJe+TQt3czYNZfJRQ3BYY3ILrXEWpMvAJ3EI8i/ry+/NL3N4="
+    },
+    "name": "Umberella",
+    "category": "DEPLOYABLE",
+    "tier": "RARE",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "COLLECTION",
+        "tier": 9,
+        "collection": "UMBER"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT"
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "UMBERELLA",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_UMBER",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "REFINED_UMBER",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "REFINED_UMBER",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "GLOWY_CHUM_BAIT",
+  "name": "Glowy Chum Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 25,
+  "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Grants &b+25☂ Fishing Speed&7.\n&7Grants &3+3α Sea Creature Chance&7.\n\n&7&7Adds &a+2 Chums &7dropped on Sea\n&7Creatures fished with this bait.\n\n&a&lUNCOMMON BAIT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOWY_CHUM_BAIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTgwMDk0NzQxOSwKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmZGMxZWVkNjg0ZGQ4MDVlYWU5NmQxMzJlM2RhNTNkNjQyNjdkNzM2MTM4OGQ1ZTJjNjdmNTk2OTg3MWU3MWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "FiYKXmtsRf5iqccIfFuK7AFczBYWggoNpFJi/QstVhlc4VzlIIe4Xaxhvhsj6bPwRQ1wz7pOv36i7TBMCknqpe1OQiC2dFRXm/avPAmWRDhUTcws/j0wuAxkNIT2GSI5KZHHjFixRvsyu/RKHj8OP3PN9Tdz/RxBcGgO2z4Wz4Tx+n4j8Jp/uRewgyy/GqVwi28sVkG2NkBUiEkdLQXVV3ML6ZqMoPuAN9EDnMgyBo1Dy0bPaIIqWtBtMHeoIzQ7EyaW9pKScVQORRhb/76wzEBzk3gu1Zpn9D/MSwDrHEOrKYBTtsz/+6zpnWCbOZDDX04/HJoKBtJ6oM6EJ1fRDPfX49Z7yUGJRwPW5MDjMdPFLI8a60tJqSroFMt+Ul29m8vtGVD/tNMxCeGmsntbc29qXKCZhrgGHl2FwMuX8wiWGFrTqc5OxLQ5iDW5Hc+MyZ12WlvCfN3HPOtonH956/FiH/zkxSYC8JTUe4BuAWeUgrMF636if7FFsvR1oZrNPMQe7HKOdUwFDhahIr7SSNhStcAr113jdu40pG4uYrqBrXICxrGmiiNTRq2XjeWpfXa6A/FDzp9RsySxrZwyYc5W0s1iuQ/74Y9/8yQBub3yWsNBhkdatsOp2nyz7r/bUSEKm+4kWjWrzsPUndhS2gO+iRqq61DCP6WO4MLGzUU="
+    },
+    "name": "Glowy Chum Bait",
+    "category": "BAIT",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 25
+  },
+  "recipes": []
+}

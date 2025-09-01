@@ -1,0 +1,27 @@
+{
+  "internalId": "WEDDING_RING_0",
+  "name": "§eShiny Yellow Rock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants a 1 in 1,000,000,000,000\n&7chance to deal &c+100% &7damage.\n\n&7&8True love is tough to find, but\n&8finding it hits you hard!\n\n&7Requires quest progress!\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "WEDDING_RING_0",
+    "material": "GOLD_NUGGET",
+    "name": "§eShiny Yellow Rock",
+    "category": "ACCESSORY",
+    "glowing": true,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

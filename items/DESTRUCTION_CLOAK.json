@@ -1,0 +1,98 @@
+{
+  "internalId": "DESTRUCTION_CLOAK",
+  "name": "Destruction Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+15\n&7Crit Damage: &c+15%\n&7Health: &a+60\n&7Magic Find: &a+1\n&7Foraging Wisdom: &a+1\n\n&7Heal &c0.5%❤ &7every &a2s&7.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Blaze Slayer 5&c.\n&5&lEPIC CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DESTRUCTION_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk5MTA1MCwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQyY2ZjNDM3YzQyOTFhODFkNGQ1NmVhMDNkMjBiMDU4ZDg5NzM1YTcwOTExMGVjNWQxMDcyNWQ0Y2VlNjg0MjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "wKeGzCRCj8dCOvBLSqW7cKJ5/rzEYRntlYrmuwlpcTTYis2TqpcDFSAYEyzrTaBuaGxVcepa80jB+xVkknR7S9sywIQQ0d3rvkSv3baV+uuX60Q/Mp7D4UCUhgtHxhjya9FcZu3IiHmmdP5sLTTblURg95TkixpsXr+Q/xGUlVaJvVQEbO2LSHTyaUu2fcQI3laTlnFSZqbdTNFbAACniz4hHs5Dj3nrEOJVqmn6h5cv7HnSxHkO+Mcc5EUd87jkOZGOy+pqNK45iEOviS8jf5k/z621N+pWD0GtgBWF4k0nGuYyYkdoqaKIJ8UkF25OLkhhg1WJl7KV1ykqho9+pQnqh0jz9U+srFZAf3qDjVtpcXaXEdPlgTGF9kYGZ5PudI7rwr5UECizRonGJa+aeFxXEF59msFDx9H3//JHeUtvq+phT/l1iWucuQmIgFOHCzrBcB4wbqWiG97KzhcctCOrnAVGEEsV4DPyd8OyYBww74rJHpvJYLrRFbyKAoSvA/FVHGo5sYHMX4oVOd7srcTDJiU1/YYXg3V8GyFf2HA7A7XsfdGrXF/4Z3Cu4Pb2TmUS+63ndkeLbxAENp9VpVg5cSI+eeeRP8bn3+VBaxbMK+boo+Z38Lmpq3D8/m78eMbNTqojvVR/hIrFXYz/ZfyBPdjo/xk+dXD7uYPnEaM="
+    },
+    "name": "Destruction Cloak",
+    "category": "CLOAK",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {
+        "DESTRUCTION_CLOAK": "ANNIHILATION_CLOAK"
+      },
+      "type": "RARITIES",
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "health": 60,
+      "strength": 15,
+      "magic_find": 1,
+      "critical_damage": 15,
+      "foraging_wisdom": 1
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DESTRUCTION_CLOAK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WOOD_SINGULARITY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WOOD_SINGULARITY",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "WOOD_SINGULARITY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 48
+        },
+        "5": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 48
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 48
+        },
+        "8": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 48
+        }
+      }
+    }
+  ]
+}

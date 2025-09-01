@@ -1,0 +1,77 @@
+{
+  "internalId": "COBBLESTONE_GENERATOR_9",
+  "name": "Cobblestone Minion IX",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining Cobblestone!\n&7Requires an open area to place\n&7Cobblestone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a8s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COBBLESTONE_GENERATOR_9",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzQ1OTY5NTEsInByb2ZpbGVJZCI6ImNiZGViZGRjODNhNTQ0OWFiZDFiOThhNzBjY2E0ZDhlIiwicHJvZmlsZU5hbWUiOiJDaGVja2lkb2lzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jY2Y1NDY1ODQ0MjhiNTM4NWJjMGMxYTAwMzFhYTg3ZTk4ZTg1ODc1ZTRkNjEwNGUxYmUwNmNlZjhiZDc0ZmU0In19fQ==",
+      "signature": "Wcx0rxLnh08YFGbpDtzqekD7pHGKWawaZNFv7wSinU958uFymqHUpbj01a0UljcX7Or/dxpcuF3kSCmCgF12IczVz5dl4LO6u314ZxeKQZM99cjjcSs29xmES08EZaAqVf3i7JtC1NTywbBD/055R273UsQZgqDLJSNBSorESpBR1MAXNmfo9CNB4A6p7H39nAZ4hmp9TGnBG7RqBKOw2uKKs/DgvvMMlQ82t/xh1UnHzlFhqt94+OcYL0CMk/qTUqyU11M+av8H2Lbsm6WKvPuIw9Ta5mSdhyMoWJUL+iL0wCR/00sn73WvlGPTUzaEZdJ0kDB67HTlZYX5uMMsRr48OKzhjR8Si4FsjnjqKDCxDTmv6Jdc6j5l5BoHsYWVM3LYNpeIRRP7MVv9udJS5Q683Hi3xjvKB7toAV2qlGmbd+iFaKM61V4Si1mMDz2PADkuITB/ZlbwVOjJC+lBadVor+iieG43ahJUqcw8EsYfwa+zGlr3Z691b248Rv9ICbXWY0+S6EpWPKDSmFH31MUoxA1pp9sh7/h+gmvAdGXFkbsQLZav56+pyAC/Igt4eZgBqdQSnnRfaACxcrVXb5MNu0DqC+gN4XbLhtSpcr9Q+y1U6B03uB+DWNaDcxptJcjEh9S4V6NLdLUJMu5EIFTkf+MGcs0fngxtVJlUrj4="
+    },
+    "name": "Cobblestone Minion IX",
+    "tier": "RARE",
+    "generator_tier": 9,
+    "generator": "COBBLESTONE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COBBLESTONE_GENERATOR_9",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "COBBLESTONE_GENERATOR_8",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

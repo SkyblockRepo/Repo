@@ -1,0 +1,32 @@
+{
+  "internalId": "DRAGON_CLAW",
+  "name": "Dragon Claw",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Fabled &7reforge when\n&7combined with a melee weapon&7.\n\n&7&8''Dragons rarely use their claws.''\n&8''They should.''\n\n&9Fabled &7(&6Legendary&7):\n&7Strength: &c+60\n&7Crit Damage: &c+40%\n\n&9Fabled Bonus\n&7Critical hits have a chance to deal\n&7up to &a15% &7extra damage.\n\n&7Requires &aMining Skill Level XXII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRAGON_CLAW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA2MTU0NTE1NSwKICAicHJvZmlsZUlkIiA6ICJkOWQyZTg3ZjI1M2Q0NGI3YmYxMDc3OTZhZGRmODI2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIYWNrR2lybCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yYjdmOWY0ODcyNmU1MjViMGQ5YTA4NjgxNzhjMzIzMzQ3NGVlNGVkM2RhM2Y3NjE5ODU3NDQ5ZDQxYTBjNjNhIgogICAgfQogIH0KfQ==",
+      "signature": "kbbxj2fNLy1/sF1nHlurmPvlFNZ3W2MCqto9Vtuo+ND2e1vwuHQSWBA0TVat3f84tUia6ESbYxr1RX0eKFa8QE0Ksgk7W3ZUD4GXbIveQ3ou8b0/261+XQDVhWtYzlJ7ZNfmVuwwCZ5WFk+cbIX0D66bDilsLcfS2Bmu2qjX0D6QJikVzgmH3tVLcf1/+eZYItgMfWds+z7Vy/zWZc6j1fdSvLWmyTdOi5ulp6K2d1w0l22uyJfJlutXU51rohXTSwVgjemHywHwgUGit8Pb3sRWaFTnskdbLDnEKwDouzurYtMe3kvblp+DUIZJjH6PNc1U1OFWcgXKNH6oI1ujgJoTXEMJYSQ4aBYF6iO7ecK4KFUavaavGuJ+WdqB4wEtceGmWp+wMn2ftpKq2Lmsp2KzeZ83l6FJR2mIbXoaCD04Dn+tlctfZPCIoTX/WzbxCX7Mmystdh72YDYP5ZmuwDxffWHU4B/GBKta8D6FHpSDV7KQlimg/G3Xq5NoqmMdYcM+XZrWX46cgCqI6Te7kBMe42IcPFtBFRvkRUpp2hv75OsT3YpIyWXSDoh4zTtmVX+aXjwIf5PHCVavSyFbz3m7jZ9b/e0BO2hBAfAQh0HFYX4R3GIFnlNsuzijoFgFxONAGUc2xSyG1yQFNEl/Fumx3gGiJQ4WJ7mJwlzoxfA="
+    },
+    "name": "Dragon Claw",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

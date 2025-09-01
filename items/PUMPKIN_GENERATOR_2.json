@@ -1,0 +1,77 @@
+{
+  "internalId": "PUMPKIN_GENERATOR_2",
+  "name": "Pumpkin Minion II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting pumpkins!\n&7Requires an open area to place\n&7pumpkins. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a32s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PUMPKIN_GENERATOR_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDg1MDYzNDEsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTViY2I0NGJiZWFlYzdjOTAzZDRmMzcyNzNmZjZhMjBiZDQwZjI0MGRmYmVmYzRhYWYyNWNiNGIwYTI1ZjNjNCJ9fX0=",
+      "signature": "aSiFp7PLgDiB/5S6LHXWyo0f6yqnhUtm7Z4kWneHedy8qvLq9112d39/WVs3qKp3YOrRCynNNbCmcywiLaxIjeKLZYCUhMWHgagPF6HRrmQxB7YGfIAFkHZyG+jQT4jGV5TyxPmYvOqcYRKkmlfDM0ecUiexR5prN7rJxoM32HkJdZ104P7/c2TTuu62I3r6RTKBabcS5pOSRR2houde33EYem15GuxohXwjav3N8jK1KQ/SCyv5gyAzs04MNlyBcy5YAwon2GGpXjNo0wamyaBMbqqVms0qzTuon9oTpWvLdJ5oVSSZvA4f0X6wikI5OafWzidXph4yUBPnC88qnh9LIQ3N8af16lFFtWS9vsGAYWE8HfZD6JSP9xiZ2pc8KmWEEvm9z97Ox3dAkfa+TCaDzkf3I1gOTKlzU/zAX3gAUpxDjpsRKUGzGRvf37qjWeU6SeNQ6zX9QtFFq9xHUlHha/pufidkBJAMSp1MZVWwjM8yvkaTlvlcTgtE0Mm6kstSODh4b3h/h/6ToF8fXCMHv18P3kG3FsjVhnzbWCGZsgt76uAaT5wXMKd+UJ84YCBMYfd5hsQ95eafgZtSpWQHsX8+qzW5KM1dvCNcwdm5ZLxO8MrbK3EoqiRwQJdANoNv7voh/AOaxZGY9VatI6FBa7uvJ9t46/dkp399aww="
+    },
+    "name": "Pumpkin Minion II",
+    "tier": "RARE",
+    "generator_tier": 2,
+    "generator": "PUMPKIN"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "PUMPKIN_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "PUMPKIN",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "DEFUSE_KIT",
+  "name": "Defuse Kit",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Can be used to defuse Dungeon\n&7traps. Successful defusing of traps\n&7may increase your &b✎ Intelligence&7!\n&7(Maximum +10)\n\n&7Traps Defused: &a0\n\n&a&lUNCOMMON DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DEFUSE_KIT",
+    "material": "SHEARS",
+    "name": "Defuse Kit",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "museum": true,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

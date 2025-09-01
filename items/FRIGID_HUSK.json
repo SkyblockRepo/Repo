@@ -1,0 +1,48 @@
+{
+  "internalId": "FRIGID_HUSK",
+  "name": "Frigid Husk",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Glacial &7reforge when\n&7combined with a mining tool&7.\n\n&7&8''Spread like a sickness through the''\n&8''tunnels, sucking the life from''\n&8''everything it covered.''\n\n&9Glacial &7(&6Legendary&7):\n&7Mining Fortune: &a+16\n\n&9Glacial Bonus\n&7Grants &6+1.4☘ Mining Fortune &7for\n&7every &b1❄ Cold &7you have.\n\n&7Requires &aMining Skill Level XXX&7!\n\n&6&lLEGENDARY REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FRIGID_HUSK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTMzMjcyMDc0OCwKICAicHJvZmlsZUlkIiA6ICI4YjA2ZmU5ZGNjNjg0NDNmYWNmM2QzODA0NWNkNTMyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXN0aWVsY3ZyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzODIxODJlZjA3NjA3MDg4MmVlMGIzYjhmNmRjZmFlMTIzNGFmMmE1ZDIyMDhiYThhMDE2NTg5ZDY1MTg5ZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "osQNAFn3/j8kB0tICQCFUST+QFnPx2SRd9G2FAYALVDeEh3EbSekkDDSmhnlE2uDLFeZOqoWkK9Bc5Ht+R9Wbd52nbxAOjzKknYGX+bH+/q4eHVE1N3XlDiEmh9FAzyY8lH2qHK1u4hZ6Kfj+HhaZe8EhZbCdTxwTPVOpu0t8ahNjt0ghiql3x37wYtZnEsUgH7X71vTqZVLIZKg/XWdoC0XKsubjLN8yLIdmi9RFExt2IrEhpxnFZd34f2ZmCXEHIAO5x4TKY3LZQoQOJ6tXGFAS74ELLLc1euWMehbK19CnmpMF1nveLsy43RaYvlLflJdBgPDw14b9Cq7j4bQ0aGUyderXMarRp0kV9fUciVewBjuqFBLB4XBVvm3e6LX9rDozI4ljvkwqTMbMnWhVRsPoY4vTsNLMq95yOjR4CdQFH1klH7lKeqCb5kmbCsaa6m9fWbR3aeyb9FhwwlzQQ+ChdtSBw5b/PxPxMTQzQoVqsvyHdGaRnRR/2Mvlkc+LOMZm3gThKhCOe8xzNyXGtTquQOPu17RGSdWg1Sh+WkyDIpuEAg5+5TGaESiS4wGjYkpPSAaX6pEV2LEeuNuPZf/US0ebE8mWTGSFGch27UzdBBAT/CBelKcG1Y9buoLjMp/C9Ys7HQTJBymYIutUDdtdCrY6t1es6YNpV2gP30="
+    },
+    "name": "Frigid Husk",
+    "category": "REFORGE_STONE",
+    "tier": "LEGENDARY"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FRIGID_HUSK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GLACITE_AMALGAMATION",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "FLAWLESS_ONYX_GEM",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

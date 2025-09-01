@@ -1,0 +1,25 @@
+{
+  "internalId": "GOLD_BLOCK",
+  "name": "Block of Gold",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 27,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLD_BLOCK",
+    "material": "GOLD_BLOCK",
+    "name": "Block of Gold",
+    "npc_sell_price": 27
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "ZOMBIE_TALISMAN",
+  "name": "Zombie Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7Reduces the damage taken from\n&7&7Zombies by &a5%&7.\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 2,
+    "name": "Zombie Talisman",
+    "category": "ACCESSORY",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

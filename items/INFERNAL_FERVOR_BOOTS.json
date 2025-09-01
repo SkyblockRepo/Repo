@@ -1,0 +1,276 @@
+{
+  "internalId": "INFERNAL_FERVOR_BOOTS",
+  "name": "Infernal Fervor Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+403\n&7Defense: &a+214\n&7Intelligence: &a+13\n&7True Defense: &a+12\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Fervor (0/4)\n&7&7Every &a1.5s&7, attacking a mob grants &c1&7 stack of\n&7&6҉ Fervor&7. &8Lose 1 stack after 4s of not gaining\n&8a stack.\n&7 \n&6Ability: Ground Pound &e&lSNEAK&r\n&7&7At &c10&7 stacks, sneak to reset your stacks and\n&7perform &a2 &cGround Pounds&7 dealing damage to\n&7mobs within &a10&7 blocks. &8(Damage scales with\n&8your EHP).\n&7 \n&6Full Set Bonus: Intimidate &7(0/4)\n&7Attacking a mob has a &c50%&7 chance to direct\n&7aggro from 3 mobs to you.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 42&c.\n&7&4❣ &cRequires Kuudra Infernal Tier Completion&c.\n&6&lLEGENDARY BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFERNAL_FERVOR_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "7,166,116",
+    "name": "Infernal Fervor Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 42
+      },
+      {
+        "type": "KUUDRA_COMPLETION",
+        "kuudra_tier": "INFERNAL"
+      }
+    ],
+    "stats": {
+      "HEALTH": 403,
+      "DEFENSE": 214,
+      "INTELLIGENCE": 13,
+      "TRUE_DEFENSE": 12
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 30000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 35000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 41000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 48000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 56000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 65500
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 76000
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 89000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 105000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 120000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 140000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 165000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 7
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 192000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 225000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 9
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 80
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 265000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 100
+        }
+      ]
+    ]
+  },
+  "recipes": []
+}

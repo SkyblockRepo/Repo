@@ -1,0 +1,33 @@
+{
+  "internalId": "HOE_OF_GREATER_TILLING",
+  "name": "Hoe of Greater Tilling",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Tills a &95x5 &7area of farmland at a time.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 5&c.\n&9&lRARE HOE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOE_OF_GREATER_TILLING",
+    "material": "DIAMOND_HOE",
+    "name": "Hoe of Greater Tilling",
+    "category": "HOE",
+    "tier": "RARE",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 5
+      }
+    ]
+  },
+  "recipes": []
+}

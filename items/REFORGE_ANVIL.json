@@ -1,0 +1,62 @@
+{
+  "internalId": "REFORGE_ANVIL",
+  "name": "Reforge Anvil",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Opens a menu that allows you to\n&7apply advanced reforges to items\n&7using various types of &aReforge\n&aStones&7.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REFORGE_ANVIL",
+    "material": "ANVIL",
+    "name": "Reforge Anvil",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REFORGE_ANVIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

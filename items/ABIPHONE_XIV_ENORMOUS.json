@@ -1,0 +1,38 @@
+{
+  "internalId": "ABIPHONE_XIV_ENORMOUS",
+  "name": "Abiphone XIV Enormous",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b11 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABIPHONE_XIV_ENORMOUS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTAzODIzNCwKICAicHJvZmlsZUlkIiA6ICIzY2MxMTY3MWU0MTM0ODM0YjhjMmZjMTY1OGE4OWU3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3NzaTU2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYWIwOTY1YzIwZjFkZTAzZTc5OTgxM2FlOWNiNWUwOTQyZWJmNmVkZmU5OWEwMzAyNTQ3NzU1Y2JhNzg5NzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "PrsmaaYybQczuXCXwyFvFWhDBCjunBfvIC1Oy3wEWmSqJoyKBNtpiO8m8abkw5lv2JFIzpt17ZwuAlrdY1Xq5ZXALV7uPlPfaRhzGQtivFRNPA9X330xGkv8ijq20SkbmsX42BH8nOIFsOemKp2OElClHJY9XzNwFp8MY0omiBurxcNpjLk/rlusaYsvvJJJ0dka7xRwobqTzAzYvrfxCmZLvBObCIK3C6GTlYjkf267p+4x43ppMLnhINUMWoQ1Kw52++CF35SOkLFvwMk9fV387Va6NZbPbC6kc/rY1msXfVWxYg0mpvGMpsqRc1ol0eH5otsuuXYWPLQA7qf7qCSpiYJACFfoUX4r0D1Qx55x48SX8fOZ5+1eCgpSLj6N0I+4oCVwVs1qhurBsNGYzPUY/9pA5a5aH3piI1V/IIQ3YQ2DwXRdGItluK3bj76VS1eG4lcIWt9W3j0nylDFpNcZD4Rvj6R5W9yT2d6CEzQ0Kjncg+AetpFceZLp2O6QgJmGJZpEuJmeBve4ucE51xEQ7GEysl1MW7hEyEM06Msw9iiQOmSXkrHULZioaV55UxcRoOCAfZY+bSK/rDxGu3MKosqAaoghmkDbL/teqIB3iw5V3z5lTg3FKtwdfub0hKAqntCGbkAsRviRHDRnmIFQDSaQMTLrcundyW0L7+c="
+    },
+    "name": "Abiphone XIV Enormous",
+    "tier": "LEGENDARY",
+    "item_specific": {
+      "has_dnd": true,
+      "max_contacts": 11,
+      "can_play_snake": true,
+      "max_musicdiscs": 25,
+      "can_play_tictactoe": true,
+      "has_contact_directory": true
+    }
+  },
+  "recipes": []
+}

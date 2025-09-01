@@ -1,0 +1,36 @@
+{
+  "internalId": "SAM_SCYTHE",
+  "name": "Sam's Scythe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7&7Cleans a &93x3 &7area of grass, leaves\n&7and flowers.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAM_SCYTHE",
+    "material": "WOOD_HOE",
+    "name": "Sam's Scythe",
+    "tier": "COMMON",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "SAM_SCYTHE": "GARDEN_SCYTHE"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR"
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

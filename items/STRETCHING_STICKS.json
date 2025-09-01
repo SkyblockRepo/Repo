@@ -1,0 +1,27 @@
+{
+  "internalId": "STRETCHING_STICKS",
+  "name": "Stretching Sticks",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 200,
+  "lore": "&7''These slender sticks have a natural''\n&7''flexibility, making them ideal for''\n&7''crafting and building.''\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STRETCHING_STICKS",
+    "material": "STICK",
+    "name": "Stretching Sticks",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "description": "%%italic%%These slender sticks have a natural flexibility, making them ideal for crafting and building."
+  },
+  "recipes": []
+}

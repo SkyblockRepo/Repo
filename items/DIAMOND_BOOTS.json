@@ -1,0 +1,30 @@
+{
+  "internalId": "DIAMOND_BOOTS",
+  "name": "Diamond Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 16,
+  "lore": "&7Defense: &a+15\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_BOOTS",
+    "material": "DIAMOND_BOOTS",
+    "name": "Diamond Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 16,
+    "stats": {
+      "DEFENSE": 15
+    }
+  },
+  "recipes": []
+}

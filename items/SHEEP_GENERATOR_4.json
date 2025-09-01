@@ -1,0 +1,77 @@
+{
+  "internalId": "SHEEP_GENERATOR_4",
+  "name": "Sheep Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Sheep!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a22s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHEEP_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5NDU2ODg0ODksInByb2ZpbGVJZCI6ImNiZGViZGRjODNhNTQ0OWFiZDFiOThhNzBjY2E0ZDhlIiwicHJvZmlsZU5hbWUiOiJDaGVja2lkb2lzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYmQyYzVmZTJmZTliZTU3N2M5MDM0ZDNhYmZkYmQzZTkwYzY5N2RlZWJmOWNkMzUxMDc3ODZiZDRkZDA1NTViIn19fQ==",
+      "signature": "FiszSrb1udal711VR2Cl70IyweILSop55Ip0aS1jgIaysE90ouydP0xjU15VfvcQrWpV9s3yTKgs48AjBWL2mAmDI1t9lfdtZrqrs3JHU8jUWxUjd6Tv6FW7YSsZAQQUGVCZp/VPWfzJA7i/2M5uinL8Wdfyij/A2opKwNwTKHlyA2KGvchkGo+XyP9fb1G5puXPiyomWE5Z4gwcYEsmOD4eeC1S+/rHuJg72n8BHNcTr5ue3v+lBYlCKTRBjXInMV6XVqsLLL5FtTtldmOEFake/Icm1XPk7XE+J7M8Q/mvKuRs1lzJGA8PiXqf2HVL4wqp4OoUccWbKZ/EiQ1CQWUAnMPl+c062jxCHGC+gpswTYa/Iv862xc0JMRKjKbJtvP3h4kK7jXBJIqnQt941ulPXYgNFgoBKrQZVjuyGOdMt6AmQktruvC7vwiQ+K2Q+ghPWgfy4gqatfmKqLKm2gSPzHBaExkWRBIgbvp+6wXUF/N6on1BYsBgMSaBVJS5G4FFYL0Fx1hCv466p9ShnnF0daHmfE3OVk8MKvvW+ISxQhCLL8ag2RP7eOQXXnZ92ceToJMhm6TxyB5bGAJVJqSQ4b9pHQRPTJywr1A1feMjjEXSUFu0rc3iInc4KkgboOPbQj63xL8YUUdfY7+ATiaSsgKZv1BggP3FJoJzSkE="
+    },
+    "name": "Sheep Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "SHEEP"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SHEEP_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SHEEP_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "MUTTON",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

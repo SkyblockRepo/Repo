@@ -1,0 +1,31 @@
+{
+  "internalId": "WYLD_LEGGINGS",
+  "name": "Wyld Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+15s\n\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WYLD_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "53,183,59",
+    "name": "Wyld Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "stats": {
+      "RIFT_TIME": 15
+    },
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

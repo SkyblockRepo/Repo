@@ -1,0 +1,29 @@
+{
+  "internalId": "BEDWARS_WOOL",
+  "name": "Tree-like Wool",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Good for bridging.\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEDWARS_WOOL",
+    "material": "WOOL",
+    "durability": 12,
+    "name": "Tree-like Wool",
+    "tier": "COMMON",
+    "origin": "RIFT",
+    "description": "Good for bridging.",
+    "motes_sell_price": 10
+  },
+  "recipes": []
+}

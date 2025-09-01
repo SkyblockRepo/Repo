@@ -1,0 +1,43 @@
+{
+  "internalId": "ELEANOR_CAP",
+  "name": "Eleanor's Cap",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+50\n\n&8Tiered Bonus: Riches (0/4)\n&7Gain &a1.5x &9Scavenger &7Coins.\n\n&7Scavenger Coins Gained: &60\n\n&7&8''Delicately crafted from the finest''\n&8''enchanted silk, this cap combines''\n&8''elegance with subtlety.''\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "ELEANOR_CAP",
+    "material": "LEATHER_HELMET",
+    "color": "255,215,0",
+    "name": "Eleanor's Cap",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "ELEANOR": 5
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "health": 50,
+      "rift_Time": 20
+    },
+    "soulbound": "SOLO",
+    "description": "%%dark_gray%%%%italic%%Delicately crafted from the finest enchanted silk, this cap combines elegance with subtlety.",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

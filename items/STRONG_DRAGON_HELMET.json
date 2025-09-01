@@ -1,0 +1,174 @@
+{
+  "internalId": "STRONG_DRAGON_HELMET",
+  "name": "Strong Dragon Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "&7Strength: &c+25\n&7Health: &a+70\n&7Defense: &a+110\n&7 &8[&8❁&8]\n\n&6Full Set Bonus: Strong Blood &7(0/4)\n&7Improves &9Aspect of the End\n&8⋗ &c+75 Damage\n\n&7Instant Transmission:\n&8⋗ &a+2 &7teleport range\n&8⋗ &a+3 &7seconds\n&8⋗ &c+5❁ Strength &7on cast\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STRONG_DRAGON_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MDM1NTY0NiwKICAicHJvZmlsZUlkIiA6ICJiMTM1MDRmMjMxOGI0OWNjYWFkZDcyYWVhYmMyNTQ1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeXBrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhiYzY1NTFiZWIyMTQ4ZDkzOWI2OTkyNTE0MGQyMzc5ZmUwZmFiNmU3ZDMxZjY1ZGY1MGI1OWU5Zjc3YTBlNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "b0pkPKGVDl6hV/v5m8tMvxcICIJX+a+htQem27uOk8xsOZXJmKFhcTVDMf1GcLnTfi+CPFMDEpq2VCrdIX1sIophBxkXVX8WL3ptANT2EEX6HF8ByMgK9rIZd3h3kAHfEVw76dHG7Gupcybw+iDmLjCTcaTldblhyOUkRgjFdoeOSB0MhwlB5JsACcvay5GFxTT7UlvgdwG1eC+KIHl1tXcn0O77RJDb8k3ey+S0v9L2Ftx6h1QxVJzlaDq/P/tWaZ9dtamoACID9I6RzQquyGFosFKjbAuqQZAIYuPDhqL2p+UcZ1fazHuEQb9MVCW0A1WW9lunaGg0CtjBqdZcP6c5aN7FgCeFPNskFkygXmD9f9ME/yHldt7V2iyLm/3nQd5siFUq8vrHbkETZUXK7QcwbcdDuPc4+Sp7Q803qAlI13VR2Nw60O5FwkMt4vz/9aun+zGt/5Yl8SQsD5AVTkm+jTx/Z0Jr6hIR6VDQ3qLiA/4b5WTDDQEmj7kLMm/rv2dQSUodMjChe+a4Uqto6QuhhiWbMnlXkbVtuDGCSP/8a1bF6VBV1SP2izIBnGuGuBgIoMPSmxQrlAqZV5V+s0xDlYUyYPDGrHwHr1U7GIj9EYtvbAEjqV9D4h1rYY04Z5fXOit92SB3txaht3Z+lgYwTfch0tsh/H82pVpzxpo="
+    },
+    "name": "Strong Dragon Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 100000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 16
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "STRONG_DRAGON": 10
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 70,
+      "DEFENSE": 110,
+      "STRENGTH": 25
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DRAGON",
+      "amount": 40
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 150
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 12
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "STRONG_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STRONG_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "STRONG_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

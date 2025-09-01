@@ -1,0 +1,37 @@
+{
+  "internalId": "NETHERITE_HELMET",
+  "name": "Netherite Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NETHERITE_HELMET",
+    "material": "CHAINMAIL_HELMET",
+    "name": "Netherite Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "stats": {
+      "HEALTH": 40,
+      "DEFENSE": 40,
+      "MINING_SPEED": 25,
+      "MINING_FORTUNE": 10
+    },
+    "salvage": {
+      "amount": 12,
+      "item_id": "FIRE_SOUL"
+    },
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

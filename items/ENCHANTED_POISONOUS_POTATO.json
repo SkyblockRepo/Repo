@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_POISONOUS_POTATO",
+  "name": "Enchanted Poisonous Potato",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1600,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_POISONOUS_POTATO",
+    "material": "POISONOUS_POTATO",
+    "name": "Enchanted Poisonous Potato",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1600
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_POISONOUS_POTATO",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_POISONOUS_POTATO",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "POISONOUS_POTATO",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

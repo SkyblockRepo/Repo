@@ -1,0 +1,55 @@
+{
+  "internalId": "MIRRORED_FISHING_ROD",
+  "name": "doR gnihsiF",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MIRRORED_FISHING_ROD",
+    "material": "FISHING_ROD",
+    "name": "doR gnihsiF",
+    "origin": "RIFT",
+    "motes_sell_price": 30
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MIRRORED_FISHING_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MIRRORED_STICK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MIRRORED_STRING",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MIRRORED_STICK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MIRRORED_STRING",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MIRRORED_STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

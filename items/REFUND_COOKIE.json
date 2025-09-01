@@ -1,0 +1,28 @@
+{
+  "internalId": "REFUND_COOKIE",
+  "name": "Booster Cookie §8(Untradable)",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume to gain the &dCookie Buff &7for\n&7&b4 &7days:\n\n&8‣ &7Ability to gain &bBits&7!\n&8‣ &3+25☯ &7on all &3Wisdom &7stats\n&8‣ &b+15✯ &7Magic Find\n&8‣ &7Keep &6coins &7on death\n&8‣ &ePermafly &7on private islands and gardens\n&7&8‣ &7Quick access to some menus using their\n&7respective commands:\n&7  &6/ah&7, &6/bazaar&7, &a/bank&7, &6/accessorybag&7, &b/fishingbag&7, &d/timepocket&7\n&7  &f/anvil&7, &d/hex&7, &b/etable&7, &d/potionbag&7, &d/rngmeter &7and &e/quiver\n&8‣ &7Sell items directly to the trades and cookie menu\n&8‣ &7AFK &aimmunity &7on your island and garden\n&8‣ &7Toggle specific &dpotion effects\n&8‣ &7Link your items in chat using &e/show\n&8‣ &7Insta-sell your Material stash to the &6Bazaar\n&8‣ &7Increases &6Chocolate Factory &7production by &6+0.25x\n\n&8Cookie given as refund! (Untradable)\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REFUND_COOKIE",
+    "material": "COOKIE",
+    "name": "Booster Cookie §8(Untradable)",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "glowing": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

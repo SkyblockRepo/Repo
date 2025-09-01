@@ -1,0 +1,103 @@
+{
+  "internalId": "HURRICANE_BOW",
+  "name": "Hurricane Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 15500,
+  "lore": "&7Damage: &c+120\n&7Strength: &c+50\n\n&6Ability: Tempest \n&7&7The more kills you get using this bow\n&7the more powerful it becomes! Reach\n&7&6250 &7kills to unlock its full potential.\n&7Next Upgrade: &eDouble Shot &8(&a0&7/&c20&8)\n\n&7Kills: &b0\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HURRICANE_BOW",
+    "material": "BOW",
+    "name": "Hurricane Bow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 15500,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 120,
+      "STRENGTH": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "HURRICANE_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "STRING",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "STRING",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "STRING",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HURRICANE_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "STRING",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "STRING",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

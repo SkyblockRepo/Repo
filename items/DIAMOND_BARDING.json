@@ -1,0 +1,27 @@
+{
+  "internalId": "DIAMOND_BARDING",
+  "name": "Diamond Horse Armor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DIAMOND_BARDING",
+    "material": "DIAMOND_BARDING",
+    "name": "Diamond Horse Armor",
+    "tier": "EPIC",
+    "npc_sell_price": 1000,
+    "museum": true
+  },
+  "recipes": []
+}

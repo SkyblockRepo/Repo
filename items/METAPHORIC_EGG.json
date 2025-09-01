@@ -1,0 +1,27 @@
+{
+  "internalId": "METAPHORIC_EGG",
+  "name": "Metaphoric Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7A ticking time bomb to new life.\n&7Acquired using Berberis Blowgun.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "METAPHORIC_EGG",
+    "material": "EGG",
+    "name": "Metaphoric Egg",
+    "tier": "RARE",
+    "origin": "RIFT",
+    "description": "A ticking time bomb to new life. Acquired using Berberis Blowgun."
+  },
+  "recipes": []
+}

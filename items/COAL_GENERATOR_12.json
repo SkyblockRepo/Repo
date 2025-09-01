@@ -1,0 +1,32 @@
+{
+  "internalId": "COAL_GENERATOR_12",
+  "name": "Coal Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining coal ore!\n&7Requires an open area to place coal\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a6s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COAL_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDY1NjQyODE2OCwKICAicHJvZmlsZUlkIiA6ICI3MmNiMDYyMWU1MTA0MDdjOWRlMDA1OTRmNjAxNTIyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3M5OTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGQzY2EwNmE4NmNlMzJkYTQ4MDQwM2M5YjVlMGY3N2I4Y2ZhMjZkYWM2OGMzMDIyNGRkYzJkMDU2ZmZmZWE3IgogICAgfQogIH0KfQ==",
+      "signature": "Ki/3F0fzuU4yhssAGyN3HGiOPF9QXFM4YSVWoNcNAxs4ZC6Q2vcghBxAUigCjOdUOahRA3EG0YDqu9VEDGSmrutdO773pkave1gqIpsGHk7auQmLGMneCtZtMtEt1H+HvwGn0dL5Ydj4DM3aCMx3sGUKIfX4PhTSL9HE0UznLNbiq0DTsIQ7aqn+e6x6KkI36kRgt0/NKSGA5TMMMrJyZKTDeVanIqHKKtTf+GuPg+E2BaGmJtBcm4OROprUgcFjbc4egcS9Tl2xV1EQ8PkEzUgzDQMiULpicDapZRT+3/cuyWx9aXeE6QUmyWG7UzQImu/aX2TEckzLL7kTZem8QDT6n0c3/1DvDqAmP5snjR8mRqFoN3Wsj0Rbi/KMJFTB1sw2UOn66b3cRxBakrPzJUaJHZtTKBG4IkK/o1Z7vxXfeaiaep+/xCV1OOtLSfkTme4LsfjE2wM9TWOjEaJzdDPV0bNLx0lDBeYNzFDUe2m73RpYJ82BjoZyhSbtzqNsuy7bDy+oa4AlL0/M5rZRp9xwK9DJHmg+vljDfbPdMjUEBRDYpRpTULnZw0fO9cJ/o+6PCztvds9ZZqewc5eTPDB1Jm+XZKk8mSnS171T3iRAy5PIPFnJnjjtpa3x+DE79LLllwN0ps0EV4XCRD06DsTfZbH6rzt4AFky7bBb06Q="
+    },
+    "name": "Coal Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "COAL"
+  },
+  "recipes": []
+}

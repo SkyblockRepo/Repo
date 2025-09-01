@@ -1,0 +1,32 @@
+{
+  "internalId": "SHEEP_GENERATOR_12",
+  "name": "Sheep Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Sheep!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a9s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHEEP_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQzMDQ4NjE0NiwKICAicHJvZmlsZUlkIiA6ICIzYjBmNTM5MmRlNzM0YmZjYmJkOTMxYzMxYmFkODMxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXRhbmRCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0OTAzNmNhNDg4NGE2YjI5YjAzMWI3OTJmNWYzOWY5YjkxNDFkOTViZDQwODJjMzFiOWFjM2Y2NzRmYWEyZTQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "O4SeKn/DfIkvkH2v2+hdKifTxO/Bimd04uYAMZ9u4qnhl/SNXnW2Pfx9LlEqiAU1fFPGAoRBoNipeixqHYm24g8m3XV24iFEK3K5CO/k3QxPzbuwY1jYVtD3Wzs2KtuROtrjQD3D15Accrh76w+Ewt+1NcmK1ZfQtl+HJgx00P8/XhGZJu3CGauHtFnNMzn2y+fsIQ85U5W8atSQwwHjgDrDLOEVXcLpTlRGb6KVNd2kuulvfIu7ba1hSbqQ79e+kjwe6AnMDgnJvuyuTvND32h2x4BxX3yOUprDXdV+kalBQhXlVV3/Rmfs/fbuTb0ofCbgmtzXUt1DpwcHeSG7vuP9P9XqOi49EiwNeo5b645eVls8DIGDGSByHt85AxDUmprPoPKMLg3K3h/kZmhWuQQ4Cwvz1Qmi002Tc/bUU8mfZiAntOT+CT4Nv3VmvtY3x7BxH/vUkQbdtm1cX/aIkMWY9Ol17DgbsqbHJZgI94649yE6mfXAx8H0SFzV7yu2ma89u19jwNP+SmQfnvIQXKsS2TqS22fIj6cee68jydnEIkRdK7uLo/43EmBgAltPyshrW7aEQb273qVAvvH2IY12bObkaWOmd/R6+xumViXeoRJkl7+MGbxSZAu1jJTV4az+4Rd7pWRT/loFuuEJ9rRjxf/BUWJxsa9jQkVObU8="
+    },
+    "name": "Sheep Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "SHEEP"
+  },
+  "recipes": []
+}

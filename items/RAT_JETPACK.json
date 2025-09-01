@@ -1,0 +1,30 @@
+{
+  "internalId": "RAT_JETPACK",
+  "name": "Rat Jetpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Use at &bKat &7to upgrade &eRat Pets &7to\n&7&dMythic &7rarity.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RAT_JETPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODE4NTUwMjg3NywKICAicHJvZmlsZUlkIiA6ICJlM2I0NDVjODQ3ZjU0OGZiOGM4ZmEzZjFmN2VmYmE4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5pRGlnZ2VyVGVzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNTBkZTcwOTdkOTM5ZTQ0N2NhMmQzOTg0NDFjYmExZDJhNWUxYTY5MDUyYWM5OWMxOWZmMjBhZDVhM2YwMWFiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "OiF1uITtgBw76F+msguOGwHs63j7yePKGB/ML3n3/j4M+FQ1693RvpzZeyCvkwqwAsowa522GiQCKAVBvcqN61u2OmB0czGiNxmbbk4miZ6Pxc2+prNpqlWgNRwccoBzBOZz4F30Azpy1+e4fl+w8GenbOMDTtHMDpDHJY7/YEj1UsAB53QvTXLXQcFEygCxU0HWV4pYrv9u2ujg0XOrnVKotDPt9gXM4THOuITgaIMPFzdduu8106LCQ/tk6UyMIhSUwGaGf6m8zwyvaGDgaB/56QCtlFDgCg7Ay2Efv2xR/6z9vXuL9MIb6e6yDJFI9ild8Ro7no0nACnfllcpSDfgYzUz2h5Kfd1S/Qf2kJgxNJUoeD0zOHOAZgkc7cLdTI1WuIpDRwKy0eiQacFtFWOzpEoau/p7WBSG9SUG65Eqk4jEHgJ+r0T+9uGJ8kcV/ipdNOl/p8q0ZlA4q9ogcFZGqo9MCuckbviHvphJwgWLiplg82w3trV+b1try/4bQw71+rajRZjOshtcDB80Zn4Jr1eBQN6zrCp5mQLRbWJqjGdIIhL6VvfZBZn/4VCTXFal05p87XfYaUXZt4Q1sMj5m22IKnFUse2uk/msdauwgv3vYO+ea2OlQ6hzl/MGCtsbj54kpHc/jsHvDqk6uKVpDaUhRxlCnznhQp828jc="
+    },
+    "name": "Rat Jetpack",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

@@ -1,0 +1,64 @@
+{
+  "internalId": "HIGHLITE",
+  "name": "Highlite",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7This is what happens when time does\n&7a victory lap.\n\n&eRight-click to view recipes!\n\n&5X&5 Rift-Exportable X\n&7&8Loses motes value when crossing\n&8dimensions.\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HIGHLITE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzY2NjQ5MjQwMiwKICAicHJvZmlsZUlkIiA6ICIxNmQ4NjI4NzYzMWY0NDY2OGQ0NDM2ZTJlY2IwNTllNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphVG91cm5leSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNmJjNjdlZjM2NjE4ZDIwOTliOWZmNGRmODQzNjYxYmFkMWI2NTQxZWYxY2I0NmIwMzEyNGI2NDlkMzg2YzQ0IgogICAgfQogIH0KfQ==",
+      "signature": "CE+9Uky13Ic/tLUuta08KX0AH60DNaALgzBPfEhS5QVe6MHScj9TLzkK+Xtc1l9mJ57CSGkzxMb5OiRC7OnUPdNz6DRjxG5KfQxVpOcgijXAkdbT+87UXumblgEWoXr9MMbd7IExQNt9MSf7o53pnhadKHF0wj/6zfPInBcxEWY7Oq0WpAyD9kIX7UEbgNTQzShxAMKNYhrmt916LADJ2Rg21glgbR3s18mjtHiAnvlcIGejmm5MKE8l1gW2zOlLdS5sKsF/q74Xe6g6q+tlzCaMBEaNCvigyklD+QoyA4rf81+NSieU7VDAgsj1qoS6L7KUubkhU8rMP+vproZHtux59rks97AkGhisLvuvCniVrn7/h6kD4OmZvL7Rp/PMGoh7Az4q9UiI/0fsRVl+rYcgnThv25tp4/gdQOdyNdHRDCIKHmYM7fSUwBQZPa8s0SRXvQI3+cCxGpjIO6AigcEM5ClUkcmb1u2anesMEjfWy3TnawD4XT95UIsXPik734RmsOFkzO8o5cKlw8dH27hIdKn9sLEYhjVoY/THE0lDl+msb78tK0i+1BPxalBgNw2yQP54B7ua1K+lHhIVyLNfuUhyniRYCxi7fN2QehicTDYDA4SPENvk3OLWVoPvVzcBa8BMeiHfS3nU1kyq7YZl6dm0o5M4noMzyzBVx4s="
+    },
+    "name": "Highlite",
+    "tier": "EPIC",
+    "origin": "RIFT",
+    "description": "%%gray%%This is what happens when time does a victory lap.",
+    "motes_sell_price": 25000,
+    "rift_transferrable": true,
+    "lose_motes_value_on_transfer": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HIGHLITE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "YOUNGITE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "TIMITE",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "OBSOLITE",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "TIMITE",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "YOUNGITE",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

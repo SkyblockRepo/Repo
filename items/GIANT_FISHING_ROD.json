@@ -1,0 +1,30 @@
+{
+  "internalId": "GIANT_FISHING_ROD",
+  "name": "Giant Fishing Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Double Hook Chance: &a+20%\n\n&7&8This item has no purchasing data yet!\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GIANT_FISHING_ROD",
+    "material": "FISHING_ROD",
+    "name": "Giant Fishing Rod",
+    "category": "FISHING_ROD",
+    "tier": "LEGENDARY",
+    "museum": true,
+    "stats": {
+      "double_hook_chance": 20
+    }
+  },
+  "recipes": []
+}

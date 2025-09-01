@@ -1,0 +1,27 @@
+{
+  "internalId": "REFINED_BOTTLE_OF_JYRRE",
+  "name": "Refined Bottle of Jyrre",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 30000,
+  "lore": "&7Consume to gain &b+300✎ Intelligence\n&b&7for &a60m&7!\n\n&6Aged Like Fine Jyrre\n&7Consuming this grants permanent\n&7&b+1✎ Intelligence&7.\n\n&7You may consume &a5 &7of these before\n&7they lose their magical energy.\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REFINED_BOTTLE_OF_JYRRE",
+    "material": "POTION",
+    "name": "Refined Bottle of Jyrre",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 30000
+  },
+  "recipes": []
+}

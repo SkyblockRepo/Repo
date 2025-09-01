@@ -1,0 +1,112 @@
+{
+  "internalId": "NIGHT_VISION_CHARM",
+  "name": "Night Vision Charm",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2500,
+  "lore": "&7Grants Night Vision while this item is\n&7in your inventory.\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NIGHT_VISION_CHARM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNDgwNjAxNCwKICAicHJvZmlsZUlkIiA6ICI2OTBkMDM2OGM2NTE0OGM5ODZjMzEwN2FjMmRjNjFlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5emZyXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2MzMjg5YWZkMmE1ZTk3ZGMyOWRkYzAxYmFhYjllZTM0ODkzNDhjZWJiOWYxNWQ0ZGY0OGMzZDQ2ODYxZmQ3NSIKICAgIH0KICB9Cn0=",
+      "signature": "Uyh/Bh/dbYYwOt/ieptWf9mU4FDGfJy+zN6i/1fGjshUgZ7zVG4Jpr/ef+zGskqUQY1c7E2D8DreG/tk/7AfzQDdOLttqUrn9hfrJeY15amDqy34YtH3s0QCy1Fp22fMRKilvaUIrI5Jzb1nCQ8j57ckBL/0NL/ytWjeJxgoHGgQPnk/oEhAOaRXUu672zbATOZdMfNQ47FCX94pEk0ZwYQ1G673xTbxn+M2qQzqPzO8LR6KVqktlpoYDrNnTzaCzvbRqQn9XvXg/nQBKTFGzrZGNT6ch5sWKQw0YoVXZKs3ca56yrpNaHvNRFGsnUQLYMUD/9pQC3lDT9wup/HExNkBZFVjNdhi5DcIdFF3JQS7R0CUAChawLgcC8+KEvY5j80GCvLcGtm7WM3y1pg2emouD2LMJTQF6L6n411CKPjAwVn+UGRidErSlyshKuqaQg4i38FoUVjHxyq6zLjAp86iRlrrHhom3vQcfXUfLUOqacTAgSYqMGczbp8pIhS2MMs546bVhbbk9g4Tla7NWcYaiwTUGv7ErRsOrG5VZjzsJZGoR6ac5e+U+JXBSEwBlMi3uYBSKKOI+94ZFHpweSzUJRiIaYr+x+369nrLvYvPWSKhvljtrvaT962PlviHIGRDf+D4h4icJa1c93N21XRTbP/JIKL3u1wV2fKx/OM="
+    },
+    "name": "Night Vision Charm",
+    "category": "ACCESSORY",
+    "npc_sell_price": 2500
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "NIGHT_VISION_CHARM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NIGHT_VISION_CHARM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

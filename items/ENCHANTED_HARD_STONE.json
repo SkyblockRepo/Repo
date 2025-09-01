@@ -1,0 +1,73 @@
+{
+  "internalId": "ENCHANTED_HARD_STONE",
+  "name": "Enchanted Hard Stone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 576,
+  "lore": "&7&8Collection Item\n\n&7&7A refined form of heavy rock from\n&7the darkest depths.\n\n&a&lUNCOMMON BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_HARD_STONE",
+    "material": "STONE",
+    "name": "Enchanted Hard Stone",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 576,
+    "description": "%%gray%%A refined form of heavy rock from the darkest depths."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_HARD_STONE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "HARD_STONE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

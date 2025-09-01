@@ -1,0 +1,98 @@
+{
+  "internalId": "VOODOO_DOLL",
+  "name": "Voodoo Doll",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Acupuncture  &e&lRIGHT CLICK&r\n&7Shoot arrows from every direction around\n&7the targeted monster.\n&7\n&7Monsters hit by at least one arrow are slowed\n&7and receive &c1,500 &7damage/s for &a10s&7.\n&8Mana Cost: &3200\n&8Cooldown: &a5s\n\n&8Who do you voodoo?\n\n&7&4☠ &cRequires &5Zombie Slayer 5&c.\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOODOO_DOLL",
+    "material": "RAW_FISH",
+    "durability": 3,
+    "name": "Voodoo Doll",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 5,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "VOODOO_DOLL": "VOODOO_DOLL_WILTED"
+      },
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 1500
+    },
+    "item_specific": {
+      "mana_cost": 200,
+      "cooldown_seconds": 5,
+      "slow_duration_seconds": 10
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VOODOO_DOLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ARROW",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_GHAST_TEAR",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ARROW",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PUMPKIN_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ARROW",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "CRYSTALLIZED_HEART",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ARROW",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

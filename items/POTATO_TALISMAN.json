@@ -1,0 +1,35 @@
+{
+  "internalId": "POTATO_TALISMAN",
+  "name": "Potato Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Speed: &a+1\n\n&7Your potato minions farm &a5% &7faster\n&7while wearing on your island.\n\n&7&8Forged by the Potato King after\n&8winning the Great Potato War.\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POTATO_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNjgzNDY4MywKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxODQ3NmUzY2YwZDVmYzhhYjE3NjEwNjVjZjBlMzcyYjExMDA0ZWQ0Yzk3MTU2Mzk2ZTE3Yzg2OWI0YWEzODkiCiAgICB9CiAgfQp9",
+      "signature": "CvYBQ6pfs1Hoe1eZVlLBa8L5Ypv5wUqwRTkJ4vqQv9bEE3cDfoYo8oh0XUZdwigPjWu/fHlTGs2/+sJRpn41oxEWT6q4jU/kdlq2xx6L2m5glNlw3B8KBZXptpGZLLFl95fKe7oplNzL9Mc214tA4jkVTsBb3zGqIxx6zkHJWS/5UKgAqaVtLC+qmLSxtwIQBjj4Nv9G5roeHiVCQeeBo5We5sxuiamKruZDN3569J8k5Y2WluWfqpLfy4ZRB7vb0H7TN5Z2CLjZR1WBmjUq5kOlew+WtulPYddyTc+UEvzfraqPzDUFvPN34gyEf9OLmk0BcmGzWf6hj0Bk0brh2Yv8yIyQ+V3ofCIX+ypYG7NmjB1OFlOZ/bv+RYQ7YFu3Inmuldstl2jpLR4a7pWj72tIzRlxuuKsbiVRK0Ij96WUKr2X0/pi8TGuEj0pdy/6qgEU5uLinz5IVWD6wBgJq3Hos6dzR8k6CsXJwiujn4U1UTiVMVeqBxymzTLyUSng9DiL5JjaoE8PJKi0x+d4ImOmiF56uNFpwVNSqUqWu3v2mwUUDk3r5lt4MZ65PhAs0h7+vtBwUOf2zw26PgdKWLGVnDwYpH0CXz5n/zgHrPJa4W+WfEeQKTs0bKHLBLioQJnRP/7eFRxL9FFUiZqp+WcJV9ql5PP24aiSiT/O6hk="
+    },
+    "name": "Potato Talisman",
+    "category": "ACCESSORY",
+    "museum": true,
+    "stats": {
+      "WALK_SPEED": 1
+    },
+    "has_uuid": true
+  },
+  "recipes": []
+}

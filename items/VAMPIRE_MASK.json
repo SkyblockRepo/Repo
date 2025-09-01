@@ -1,0 +1,44 @@
+{
+  "internalId": "VAMPIRE_MASK",
+  "name": "Vampire Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10,
+  "lore": "&7Defense: &a+111\n\n&6Ability: Rejuvenate \n&7While wearing, drains &a5 &7health per\n&7second from all monsters within &e8\n&e&7blocks.\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VAMPIRE_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MjMyODI2OTkyNTAsInByb2ZpbGVJZCI6IjNlMjZiMDk3MWFjZDRjNmQ5MzVjNmFkYjE1YjYyMDNhIiwicHJvZmlsZU5hbWUiOiJOYWhlbGUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhkNDQ3NTZlMGI0ZWNlOGQ3NDYyOTZhM2Q1ZTI5N2UxNDE1ZjRiYTE3NjQ3ZmZlMjI4Mzg1MzgzZDE2MWE5In19fQ==",
+      "signature": "gjuWBdh5qnQt/jRlNPOeyaOi5b6UYsb6zoFrkeirdjdzMcVj0Wo96pjPiP9GKoG8d2Zh03iPnkA4YTql7OaouhiLzhmmLJKBOlrvkFEQPbXSxlob1SAhQH2eK0JbI+E2Mwd0nIozU0qF46r5qqw0ZDGCbhM/4eFkOQMvaUymL3rnX4pmTUdm4FuicfjcJrN2q3QdqlbGAjQ9c5B5byxnOyxBD0WPfZCJrl2j9dAyyz+splQpSvgCuqSwGzrNkDZCxThgiwADyLxG6iTGSCY3Qn//650I9l3sxpF8DKDf2Kl+ILw+XIpf21HccYgtz6uUPnuVYfOG3pKkHLx6yEKMV2z4OMSoTju/3tNB5NKZ52Fnd+nQ3VX72gJnZ+HfiwlbtrwIuqWKj2nGWPKjgCFGPhNgK9dKzabzkU6RI+p4BoyvT4CzGWiMMMtTa92lHITOraZMXGhxsk5RwjWZVHGV36pgr2rqiiJd3wdnmJ4o9vDkB1PIbuK45QAVkn1wW0VvzLVTaRQZmRUB4D/nx/D89HhAsraAkR352rjEPE1hbymneWJWgve7atJlpmAcF5q34ZSxEgumTbSHFwTNieVfZWz8wliuyMfGCcSZCOWb2smgDqcTwvg8EmYxpFWleHW1Gx6HkMv39Be0KIR0Khy4ueFVbJ3row8gm2By+WUMStM="
+    },
+    "name": "Vampire Mask",
+    "category": "HELMET",
+    "tier": "RARE",
+    "npc_sell_price": 10,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "VAMPIRE_MASK": "WITCH_MASK"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DEFENSE": 111
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,31 @@
+{
+  "internalId": "MEDIUM_RUNES_SACK",
+  "name": "Medium Runes Sack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MEDIUM_RUNES_SACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDI1MzgyNiwKICAicHJvZmlsZUlkIiA6ICJjMTJkMmY5ZWJhZGI0ZTllYTIxZmM2M2M3YWY3M2E5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmVhbXlOZW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjZmI3ODBmNWZlNDhmM2MxYmY1MzU2NDMwYmE4MTQyODY0MDNlYTdmMGY1OWRhMDk1NGE2ZWZhNzE3NDFjZTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "ph6U2PDfJaWvo2pCkvp5HMqoB0CdRS5y3bhktyoesiXKHwUDBLAsBH65WnXiEDZvNd7ekVpOLqryBzo0bHlLannQ4Pl3fyAiZsBLBiFu9daNG4fL/XfC1B+nHW+7iDoNxeN3HooGp8smvuJkOGSM8MGUEXRwwyPb3oTmQ8UvDBCee3XzObeEV6H/EFmsgVPL5kj7K82NxcsQ3MsQxEDnpiJ4JGS6bGt2worWO892YxZSD9a5Dc1v9n3jebzTHqXJ4QZ2aJkudRcLcy6wT5XpxjWqU+xlzhhbh2plqaTmfiqmKdyv+31b7NG4+Ap2x4qfUeKJATURKVjVrOVu6ZEWs1nXCHTC+M4za5U4k1evlCXXM+tYezExMxFoGAbPNCL4tb4tDSHxm9VAm9LQkETdKHzCu1SuOIQUmvlKAPfBqpeBisyG9sPihCLWSH3IE3Svcq2v+jf6qWLb/CiTtfiTyUAcAxIsGfXuGRXIMqVAD1S48mYKo7bUpVShs1d2PR9Pu31HRlw5z4ekbwI7+d6vP/A2YqDd5r3S4i0k01WJSQFOIH/WUtwr1u+jgotYU09AfoF2vYMOJSb34SYbNdsnVq4I1+j5XtIvxrXLHYSCJgdo0uc5kOAAd3T1XqIgYAIg4YZzpHh5iMlnjXcXd8wCabU1/54gtp5e+XxfVbmPRSQ="
+    },
+    "name": "Medium Runes Sack",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": []
+}

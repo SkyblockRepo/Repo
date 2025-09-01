@@ -1,0 +1,32 @@
+{
+  "internalId": "REVIVE_PERK_ITEM",
+  "name": "Revive Dead",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REVIVE_PERK_ITEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQ4NDg1OTA4MCwKICAicHJvZmlsZUlkIiA6ICIzMjNiYjlkYzkwZWU0Nzk5YjUxYzE3NjRmZDRhNjI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOcGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViNGEzNzU1ZjgyNWI5YjFjOTdhMzhkMWNiZTBmMjBkMTQ5NmIwYTViZjY2YzkzY2JlOTYwOGY2NjZmMGZmZWIiCiAgICB9CiAgfQp9",
+      "signature": "pLpCr0obp3FzewIBQ5D/LBa6Bw0CXF+Wu5Tz49K0248q26386QFu2M5rmX7kB+8o0bqTxXBWwF0y3x1ZNjyL3tUsCpsec84Qpbu4ug40uhg6bHhL4uM4KE1/FsH8BxdR3VPEKm6RXE27m+L1aqCtWWKxYsWXGPL9+DwmodGn0RN8vXpnofRetGpxT3u3MucsM7Q36FJqSo05QwhRdoHb464hcUpzWuyVXqxpW7iDyAG2xKMdGVvWE6lktQGknd/v2QlUcKNQ9A0zTQ0EsGYeShxD/zFFAMlLwfO1dXFiaaNo/2SDC0fgTtodlx4RQRSdmNjV1FvmpP5cL0ua/orXlC3Ygh3u8syawgp6kT91OGdfS0pQSasmXGU/dCQ2jeFUvf3nimapEpPgKGs0henVPd30BxNu5jp/wfs/bvElZgRnCaf/IUXHoyNk/412+Y/C0uixjmoUtUnh9/+M29AAV6nBIFWVT5/w41pdbknDCW1VV4dBsd7zMnOEPikT0ymkIgJi65A5Mwq0PqldatmLYOAAXmdbaX4iVxPHNQt4NlZOYrXx9uvkDrGwvtUyXVIm1AyegOk8z7sjoH0vGRWLzCEP79xTnN5QFridzQjvtib2Hc8sTkHTHLyavSKJBIDgINgLQ7trBeG1pGAdpE7uYyQa9TrCXHRAmz/qTw10+UE="
+    },
+    "name": "Revive Dead",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "serializable": false
+  },
+  "recipes": []
+}

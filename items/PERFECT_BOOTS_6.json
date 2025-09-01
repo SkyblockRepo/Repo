@@ -1,0 +1,121 @@
+{
+  "internalId": "PERFECT_BOOTS_6",
+  "name": "Perfect Boots - Tier VI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2457600,
+  "lore": "&7Defense: &a+190\n&7 &8[&7❈&8] &8[&7❈&8] &8[&7❈&8]\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&5&lEPIC BOOTS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PERFECT_BOOTS_6",
+    "material": "DIAMOND_BOOTS",
+    "name": "Perfect Boots - Tier VI",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "npc_sell_price": 2457600,
+    "gemstone_slots": [
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      },
+      {
+        "slot_type": "AMETHYST",
+        "costs": []
+      }
+    ],
+    "stats": {
+      "DEFENSE": 190
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "DIAMOND",
+      "amount": 35
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 90
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 140
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 12
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PERFECT_BOOTS_6",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "PERFECT_BOOTS_5",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_DIAMOND_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

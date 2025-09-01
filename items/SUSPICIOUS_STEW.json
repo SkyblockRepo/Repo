@@ -1,0 +1,89 @@
+{
+  "internalId": "SUSPICIOUS_STEW",
+  "name": "Suspicious Stew",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7Comes with a Health Disclaimer:\n&7\"Expired in the year 87. Do not\n&7consume.\" &0ඞ\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUSPICIOUS_STEW",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDAzOTY3OSwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE2YzE5YzQ1YTQwMjZkMzM1MThjNTJmZWY3N2I0OTg1YjhhMmUzNjM3Yzc0NTQzYjJhZjY5MTAwODEzNDVlNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "oP0snC2HrW8C6GdLwNOf06f4OKC1xCpC+RhLnZD+yikk5Z84lvmOGXKWb7m7T811SNshR4t7Vm2VHWGKDIjCStfSTk+oH+orOhuaoj6vzvC/LOf1g7uwNfAMt2fX2jq6f26/QyGoudNsSwjkriYF5vXhQePGGYQ4hTyLpsMLuZz1U+RLEInsAWUeXlhrsj5Zl5LbaQfbmJ4tYAzpijwQws3qKVvNzsMoJK7oAbI0JZguWsMfULlOJ4IRakEgmfusZ/DJmDQ+y0TZzpeSUARikn/nlxq6hR9xH5p3H+Eupv1jIiFX9Jwjgfcd8tEC1tT2atqnm1E/zFjbbDVxjyvKYvLpDSym0485oyWhUVrVTt8Pk8dZ80Aem0ciYvKSvc4rkWSa1Clk/Qy8aw8KdlLIM5IgyonGbgNmk3CRatd0zoE6RVhHspJ47cJtS2G8rbZqehtalmFlQ587YoHV6coI6xNh1kCp6lYGAvYoEP6etwdwCs4/FFNZVwuWfYPDo7dUzuGK2dC9qnfErxeSn/TmynVxjZLRGB+nAJTeDWT7bne/wX4+jhcJOP1td1O3T4dCYwlz+fE0DU8iryUktDfH17J/YF/djwup8qPBAnH8L2TKPTe0WhDAjBCYb/53JbiY5EY0BwasK0dzw/ddJpB9ReCz4I/SvMG3VaLvqEFVDw0="
+    },
+    "name": "Suspicious Stew",
+    "tier": "RARE",
+    "npc_sell_price": 50,
+    "description": "Comes with a Health Disclaimer: \"Expired in the year 87. Do not consume.\" %%black%%ඞ"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUSPICIOUS_STEW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BURNING_EYE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MYCEL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SPECTRE_DUST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BOWL",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SUSPICIOUS_STEW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "RED_MUSHROOM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BURNING_EYE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MYCEL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SPECTRE_DUST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BOWL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

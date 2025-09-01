@@ -1,0 +1,26 @@
+{
+  "internalId": "RANDOM_FIREWORK",
+  "name": "Random Firework",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5200,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RANDOM_FIREWORK",
+    "material": "FIREWORK",
+    "name": "Random Firework",
+    "tier": "RARE",
+    "npc_sell_price": 5200
+  },
+  "recipes": []
+}

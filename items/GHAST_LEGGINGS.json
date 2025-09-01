@@ -1,0 +1,30 @@
+{
+  "internalId": "GHAST_LEGGINGS",
+  "name": "Ghast Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2800,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHAST_LEGGINGS",
+    "material": "CHAINMAIL_LEGGINGS",
+    "name": "Ghast Leggings",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "npc_sell_price": 2800,
+    "stats": {
+      "HEALTH": 150
+    }
+  },
+  "recipes": []
+}

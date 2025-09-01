@@ -1,0 +1,84 @@
+{
+  "internalId": "ENCHANTED_WATER_LILY",
+  "name": "Enchanted Lily Pad",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1600,
+  "lore": "&7&8Collection Item\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_WATER_LILY",
+    "material": "WATER_LILY",
+    "name": "Enchanted Lily Pad",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 1600
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_WATER_LILY",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_WATER_LILY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "WATER_LILY",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

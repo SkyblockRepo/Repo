@@ -1,0 +1,95 @@
+{
+  "internalId": "DRAGONFADE_CLOAK",
+  "name": "Dragonfade Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Strength: &c+5\n&7Health: &a+30\n&7Defense: &a+5\n\n&7All stats on this piece of equipment\n&7are multiplied by &53x &7while on &dThe End&7!\n\n&7&7Multiplies damage dealt to &5Dragons\n&5&7by &c1.01x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 15&c.\n&5&lEPIC CLOAK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DRAGONFADE_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NTY3MDkzNzk5NSwKICAicHJvZmlsZUlkIiA6ICI3MmY5MTdjNWQyNDU0OTk0YjlmYzQ1YjVhM2YyMjIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0X0d1eV9Jc19NZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jODBjODRkMjFmOTk2Mjc1NzZiZGFmZmI3MzM0YmU4ZmFhMWY2MjhlNTRiNWRjZjY2NGVlNmFlMDhkMDFkYzZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "WZiaHcoMRMDDx4rVGBVn8rIGZl90d/KqcDo8zwc/Ladd61uJvSMuMXpv2+Eh72oenXIiFv+5Cf+noFkiuHIbsr5twNx9VpWyfcNbcHeLFJSdnjXRbR1bXkf1Lt1d41h6N0zv0/Pl/l1Esmu18MtkJ0psaKcBaPn/7EDBU+PmYOcfCkUDvf67DOfmL311trzTFRjOEGtCzv/y58JmZf6/xKLcK70u/hhtNRc8UpRLRbz1nMBp8g2BgZjYdyCtTKU4ITag+fYFa3SC2Xp18iwrSvIrah8E4UI7O9aB836rmScICuMASfihsB3CG/VP8FHmtGTFJWhd33vq1MyF9LkOK3U3TyZm0bo6HZViWij53BZOn8uE/TkVLU/wk0f4WzZMvjLXIVPLuKLcr9DzU1V2MtH/ghVQhxGUTB8A4d1XGIrbusm2ds0U5y1gwDA1dpuFK+qCvLphwFzwFIACbaT8LySO6XBXnqgIIE9OyDfB6Hdme5O0Z3GLgXV1XQbMWv1fmviuP7fbO4ygMvTQATC1iV1DIkixKMwCWG7ksYxKZ1FbHBv0U/cqQjb75xuoXkffM7Norvy9l8HOOX14HC+AXsYLn9xICJJLRB+rzkCKxUYWsSKooj1wSUu1RPYhHZS+B7HVwK+/T32RsXWYhMAxBaRqccqeaLARc5XnjVJaroc="
+    },
+    "name": "Dragonfade Cloak",
+    "category": "CLOAK",
+    "tier": "EPIC",
+    "npc_sell_price": 5000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 15
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "HEALTH": 30,
+      "DEFENSE": 5,
+      "strength": 5
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DRAGONFADE_CLOAK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "RITUAL_RESIDUE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MITE_GEL",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ABSOLUTE_ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "MITE_GEL",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "MITE_GEL",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ABSOLUTE_ENDER_PEARL",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "MITE_GEL",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

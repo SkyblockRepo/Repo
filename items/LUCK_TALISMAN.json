@@ -1,0 +1,32 @@
+{
+  "internalId": "LUCK_TALISMAN",
+  "name": "Luck Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 3333,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LUCK_TALISMAN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MzEzMjA0NjU3ODUsInByb2ZpbGVJZCI6ImMxZWQ5N2Q0ZDE2NzQyYzI5OGI1ODFiZmRiODhhMjFmIiwicHJvZmlsZU5hbWUiOiJ5b2xvX21hdGlzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWZmOTIxZDFjMmFkNWY4YThjMjc1NmUyZGMxNGQ0YmQwODY4ZDUwNTM1MjAyMzE4ZTA0YmRmMDk4ZGJiZDZhIn19fQ==",
+      "signature": "an2SA/cBigfsI5OasatcCwV+1KQ1cjC41L86gEjqCpbhxR/h55LAxsClz4NBmkANY6h+L+YK0Z9qvdKjdmt90bGUfQPz2SLhTq/3n8sp/qaLhZUbX2e/0fXGu54Yv65nje6JxZRsjKXc9rkvd9zOlo0TQNo+Iki2gmua3MYjY9QWtZRqQmR9LzPRUY935xPPpOQg3ic9m/f0qKyYvlQ7KPXq2mcKL1KRNmMcueqCKAhyATsbGxm8fNJjJju/Kgj3MIZZPSWpiT+ENQaVijdjgLQxGZyLxSEcXGL/6UXsH8B7ofMcYflpvimA9zD2DayZxdbUU9o97sNQN8RgpKTnIX4SUeW4rtiou/UKo//8oAksuq2+UzTEYwH3KYwvWm86KJAU+uxrTRO7/lJnoOjhLJUwpG0bJxpzMNXlYWQniBloX46lLlX3Qvj3vd5Q36FnPrcOpE3dmj9/tEZEhw9v1tYHby3ShZKtuyXYGO/il6RodZfXIFUoAD7tPJ+oiiygh74Pty8MaTS3AkQRvDQmcCduLpauQemK7uVKOfqlCXUWhNtjLi7PdJiOWghuo2pQdyQZlka9Xb6WnTY9Z5PDspJQ3z10jf7o1Yq42ctB9/bhyTLWTXp+x7h7Qu2SAROc9sV/1Jp2JpG0EHkCxIav5i4MvLsilMt/ykSLj1clnrU="
+    },
+    "name": "Luck Talisman",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 3333
+  },
+  "recipes": []
+}

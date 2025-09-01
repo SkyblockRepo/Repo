@@ -1,0 +1,30 @@
+{
+  "internalId": "BOW",
+  "name": "Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9,
+  "lore": "&7Damage: &c+30\n\n&7&8This item can be reforged!\n&f&lCOMMON BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BOW",
+    "material": "BOW",
+    "name": "Bow",
+    "category": "BOW",
+    "npc_sell_price": 9,
+    "stats": {
+      "DAMAGE": 30
+    },
+    "motes_sell_price": 105
+  },
+  "recipes": []
+}

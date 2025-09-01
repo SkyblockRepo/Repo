@@ -1,0 +1,35 @@
+{
+  "internalId": "ENCHANTED_BOOK_BUNDLE_COUNTER_STRIKE",
+  "name": "Enchanted Book Bundle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENCHANTED_BOOK_BUNDLE_COUNTER_STRIKE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzEzNzU1NjA5MCwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTYxMGIzZmE3OTViYTkzOTAxODFkZDI1YWVmOTgxM2IxNDM3MTkxMzgwOGEzYzgwOGNjM2ZmM2E4M2ZkZmE2IgogICAgfQogIH0KfQ==",
+      "signature": "Dk6Ot71g90BuOuUIhgZL31LYqhFu7MbbMiTUkaH2Mr7VQ8mN4Hux9SSVNqddUfDBuOnyrENoXApiaxvJ9R3I0Syrfcav0s6mzKCV5uh7R6/Cwv/8WcxpCE+Yvvn5Ac5482oOnLAkK8uhGSPzkhgiK3TiPd1GfHUThiqYS3nkR4sWGQYms4FJfxxJDLqBl6+N03NX97/jaYDCgPBo/DpPOluOeXkTidfWjvu5aAYXlZqFhGux0jCTe/nEdNtWTLrDNBJ0mHBtV4txXAFka0lnTmZzqWuB/MtczcRRNEyI3hASlhGU8kSL4OcUU9HjsAv5zNSkG+SfvKqJ3NzgvVVnWGdU6c0hJgYcF+Z0+DrXolZiQhphcDSRzBWTwYYJDWACe97oWhyp7PGlnKYPBRMpOrB+DHjGyFtgkCV/1yPhOxDhe3VV0TGUdyGshBkCkt+0Jr1LQP/w7DUwh7aq+cNX/3w8mCD9OB9mH6y2a6jTa9wQeKCDDJy3g9o1pOG7TMCQT7ExErQY5yPxsPQP74+6QQQV5/jpbsfdAvjPvWNIIk/5U9KTIkQjDn3ssER9fiS/j6ZpJzNVFyaAgkEnLHCQQWZL84oJPwD/uAiTH8m0gfhtHbyjDw1SSrSfdV50bmIGfZrYkb6RbL1FNSwwn5W/m6DpkyOTVH9nqtAW/dhLlO8="
+    },
+    "name": "Enchanted Book Bundle",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "soulbound": "SOLO",
+    "enchantments": {
+      "counter_strike": 3
+    }
+  },
+  "recipes": []
+}

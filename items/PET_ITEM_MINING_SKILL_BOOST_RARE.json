@@ -1,0 +1,27 @@
+{
+  "internalId": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+  "name": "Mining Exp Boost",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Gives &a+40% &7pet exp for Mining.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&9&lRARE PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+    "material": "IRON_PICKAXE",
+    "name": "Mining Exp Boost",
+    "category": "PET_ITEM",
+    "tier": "RARE",
+    "glowing": true
+  },
+  "recipes": []
+}

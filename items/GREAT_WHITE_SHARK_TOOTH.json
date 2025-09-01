@@ -1,0 +1,26 @@
+{
+  "internalId": "GREAT_WHITE_SHARK_TOOTH",
+  "name": "Great White Shark Tooth",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Dropped by a Shark during Fishing\n&7Festival.\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GREAT_WHITE_SHARK_TOOTH",
+    "material": "GHAST_TEAR",
+    "name": "Great White Shark Tooth",
+    "tier": "LEGENDARY",
+    "glowing": true
+  },
+  "recipes": []
+}

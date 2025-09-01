@@ -1,0 +1,93 @@
+{
+  "internalId": "CHALLENGE_ROD",
+  "name": "Challenging Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Damage: &c+75\n&7Strength: &c+75\n&7Sea Creature Chance: &c+2%\n&7Fishing Speed: &a+35\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&a&lUNCOMMON FISHING ROD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHALLENGE_ROD",
+    "material": "FISHING_ROD",
+    "name": "Challenging Rod",
+    "category": "FISHING_ROD",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "CHALLENGE_ROD": "CHAMP_ROD"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "damage": 75,
+      "strength": 75,
+      "fishing_speed": 35,
+      "sea_creature_chance": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHALLENGE_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "FISHING_ROD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "WATER_LILY",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

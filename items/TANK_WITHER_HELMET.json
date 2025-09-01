@@ -1,0 +1,321 @@
+{
+  "internalId": "TANK_WITHER_HELMET",
+  "name": "Goldor's Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "&7Gear Score: &d610 &8(669)\n&7Health: &a+210 &8(+231)\n&7Defense: &a+180 &8(+198)\n&7Intelligence: &a+30 &8(+33)\n&7 &8[&8☤&8] &8[&8⚔&8]\n\n&7Reduces the damage you take from\n&7withers by &c10%&7.\n\n&6Full Set Bonus: Witherborn &7(0/4)\n&7Spawns a wither minion every &e30\n&e&7seconds up to a maximum &a1 &7wither.\n&7Your withers will travel to and\n&7explode on nearby enemies.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VII Completion&c.\n&6&lLEGENDARY DUNGEON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TANK_WITHER_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzIwODgzNSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNDkyM2UyOGExODdmZTZhZjIyNzhiNzM5NGVmMjUzYTk2MzMxZmEyZGMwNzMxODc5Yzc4MGJmZWUyNDQyMjhhIgogICAgfQogIH0KfQ==",
+      "signature": "LiKUin/3j2ShsOk7p1yoPd8UbEopoaMbuo0Cn5G9OvaKxPVGARFR8QZfMfXGSCBU4QRalv5212mxoZinIHfg3qYINSjo4hYR+w+PzGQzh15WZyJLHsnFr8uDynlfa5eMP71fqXwwV/fcKlAS7M67nztzy3ibvjRxsdRif/rc7IfguadWx5AySfLaNCQ8MyMfZmbuRhEy/gP18Lmo9G34Qt8dA4ih7PCVlx5eSOTRe52/vzO7tk1Lv/GkALoulUeankcmh5oTbeQjcIimS4RRODtCbxdlqZWvjSHvd7h+AwfkhQ/L1nlOeqy/IXDw1oLJINlFcXuncT7b2dOlwglDA46CeiMIFrLBgJJ5p1V3rifTiN3uSSSN58XZi7ovTo4h+E2uNqCNajSGpQsI+/J3j2EnIbEQLLHTE6taRjfrmLpFOvrYF8ND/tVrp+VIh2mDUx4IEW+3QjSVOwUODS/6t/7MhpgoD/PqCtN2Cr5A0YFU2rXlImFGC5PM7KVq9zddDK0mYeVnKq+uG20kyfBsd+0jaG9w+9ZjffGjoQ7FzW1qxPCgt7UFGK23c6Hnq9M3nH594Oy/ukHzZuT9IVqpIEeS8dFS8ENIGBHIrD7WuYwnWmqMIkIOuUmC5+22XKZbLzFc6JPXA9Uv6fiw19tufzpzDPn/8DwbohQcErXfqMw="
+    },
+    "name": "Goldor's Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 5000,
+    "gemstone_slots": [
+      {
+        "slot_type": "DEFENSIVE",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 2
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 250000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_SAPPHIRE_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_RUBY_GEM",
+            "amount": 1
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_AMETHYST_GEM",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "tier": 7,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "TANK_WITHER": "WISE_WITHER"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "TANK_WITHER": 6
+      },
+      "game_stage": "PROFESSIONAL"
+    },
+    "stats": {
+      "HEALTH": 210,
+      "DEFENSE": 180,
+      "INTELLIGENCE": 30
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 350
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 500
+        }
+      ]
+    ],
+    "gear_score": 25,
+    "dungeon_item": true
+  },
+  "recipes": [
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "TANK_WITHER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "POWER_WITHER_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "TANK_WITHER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "WISE_WITHER_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TANK_WITHER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "WITHER_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "TANK_WITHER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SPEED_WITHER_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_BOULDER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "VOIDLING_GENERATOR_10",
+  "name": "Voidling Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Voidlings!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a30s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOIDLING_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTk0MDgxMjQyOCwKICAicHJvZmlsZUlkIiA6ICI1N2IzZGZiNWY4YTY0OWUyOGI1NDRlNGZmYzYzMjU2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYaWthcm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Q2M2QwNTUwMWQzOGZhYzhiMDk2OWRlYjc4YjY4YTU4ZmUwM2MzZTBkNzhjZGI4NGVmMWE5YTc1MTNlZTMyNiIKICAgIH0KICB9Cn0=",
+      "signature": "xbIytLMHRRdp8jT/T5Ph1xZ5f5caVNGLiSaDDt3EHsnXbAIZz0MhOdSAA8MVOw2QsnB6ShpT5VGiHKAsU8rjH4o38wBTP5OLHM9LJ/w0zWqEQRWtj3DdyfMxobPKYdsE543dLt4o6SyuU74xQ+/wxTZg3WfZW6PcJIliFK68ug+R3yHIvOjwX54nXWRnePAztImOG0sKYsfix/hXlfoJUZKjvN8j5NAzzz5uIztpCHxDu/olVJG9CWDeZ1pSWl5ETDAKOhmbZ8Jvd2k1xkTtpTTgof3m56CPPS99CDXTNzaZE/LT+nxC07X9ybMtxzEu0ZhGkCMy7WUie24dmcqXPymcT2CyfWVvGT63Hlsc5d5OmiQqTLMcrN2atwhZRdaRRA8BdrLvpRZ07Z+hLpq8WrX4FjK/RJ87gjiOmVIwyE90TmIlF/TYi7eVuOTeOU+w0Dx8m1MDSfys+TX4GYmZaXCPQKncC+F7Ru/85bwpzf9cd9Ek7MSHYKzNZ4wQVIBT4Pnd3UVPWMH7nUx2xH9zQWMdx5uy1Y1Ag0EO6G/HektwILerYRuE3BJfDFatuHG8seLDbGyINEN6yhBsU9PRXznVNgvIeO1TlaOdu3E1dJwTwu9/ENhWkAAofZtv/cTqmO6qd+i6VPTQJUiGK1QYHJZPUXhme6i6FZ3/8VnepRQ="
+    },
+    "name": "Voidling Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "VOIDLING"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VOIDLING_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_OVOID",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "NULL_OVOID",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "NULL_OVOID",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "NULL_OVOID",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "VOIDLING_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "NULL_OVOID",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "NULL_OVOID",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "OBSIDIAN_GENERATOR_9",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "NULL_OVOID",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

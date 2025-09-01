@@ -1,0 +1,47 @@
+{
+  "internalId": "PERFECT_JASPER_GEM",
+  "name": "Perfect Jasper Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7A perfectly &drefined &dJasper&7.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&c❁ Strength&7.\n\n&6&lLEGENDARY GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "PERFECT_JASPER_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTIzNzA3NywKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2M2Y5OTFiOGUwMzhlNDZiOGVkNzYzMmY0NGNhMmUzMGMxNWY0Mjk3NzA3MGE4YzhkODcyOGUzZmMwNGZjN2MiCiAgICB9CiAgfQp9",
+      "signature": "hzm0g4Q3nroQoEG3kM40WWbw4B/tIaXVbMTrZmp0wY3eM4IRPaU+TvHxX4E05TXEfwULelUL0QJ9EzJif+faKgWMM3zUXfhKGUCYFQiJlDjrV0nhinCvMV8LEvbu3gGG7J7F53tKtBJFmv7EMxrDpxAANeTv6OLhYthTc9j2Cip2G/fkImVrilOFggy5ihSx8HajpcUQhc4ozPf/aCLC5Rktk0ymL46CdXGPi8mqzVysa/UQikj7T5L8ljelqNmZl6PDOlRYTXZRsbuJF45UWTsc2pgcMGMQ/Ai/pX8/GX1eyzDY+v2M29hsq6PNrxxIWGPS5HFZ2Zrb1KXcJABnD1c5V0takzXBC2hDo1lbLO0VKXNqJrUGy8v5dlXjYdr8e0XMCAgmO/bPjGdnLB5FufsjGeGWfxq6WbNa5hpwZdWTEj89OI8VfUwKSWZHv/61rNaD+A4UOFU0VVNJOoUU5+VVwcxYC+/nhNegQzcz6VVPhdBuV3EbeXFtGYuyhJyGotqrOB/hDgr0LMWo5lSbLc8cth2nhtCWcVcYELDpr8uMDhimG691IywmdbPmGZRB4gmrJT6QCq95zMmUkoFTb91oyNkKcPdguAfvUbxl0AFpcVn17MOAys44qjR0oBHUC3Qd3G4SecXdTrwbalvchxPIDhC5enXJk5l3qpNH61Q="
+    },
+    "name": "Perfect Jasper Gemstone",
+    "tier": "LEGENDARY"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PERFECT_JASPER_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWLESS_JASPER_GEM",
+          "quantity": 5
+        },
+        "2": {
+          "itemId": "JASPER_CRYSTAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

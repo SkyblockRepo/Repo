@@ -1,0 +1,45 @@
+{
+  "internalId": "JUNGLE_PICKAXE",
+  "name": "Jungle Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Breaking Power 5\n\n&7Damage: &c+50\n&7Mining Speed: &a+330\n\n&7Gives a chance to drop &aSludge Juice\n&a&7when mining in the &2Jungle &7of the\n&7&5Crystal Hollows&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 3&c.\n&a&lUNCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JUNGLE_PICKAXE",
+    "material": "WOOD_PICKAXE",
+    "name": "Jungle Pickaxe",
+    "category": "PICKAXE",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 3
+      }
+    ],
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "DAMAGE": 50,
+      "MINING_SPEED": 330,
+      "BREAKING_POWER": 5
+    }
+  },
+  "recipes": []
+}

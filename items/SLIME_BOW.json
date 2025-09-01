@@ -1,0 +1,103 @@
+{
+  "internalId": "SLIME_BOW",
+  "name": "Slime Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 960000,
+  "lore": "&7Damage: &c+100\n&7Crit Damage: &c+50%\n\n&6Ability: Arrow Infusion  &e&lON SHOOT&r\n&7Will consume &aSlimeballs&7 in your\n&7&eInventory&7 or &aQuiver&7 to deal &a5x&7\n&7damage to &9Magma Cubes &7and &9Slimes&7.\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SLIME_BOW",
+    "material": "BOW",
+    "name": "Slime Bow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 960000,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 100,
+      "CRITICAL_DAMAGE": 50
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SLIME_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SLIME_BLOCK",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_SLIME_BLOCK",
+          "quantity": 5
+        },
+        "6": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_SLIME_BLOCK",
+          "quantity": 5
+        },
+        "9": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SLIME_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SLIME_BLOCK",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SLIME_BLOCK",
+          "quantity": 5
+        },
+        "7": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_SLIME_BLOCK",
+          "quantity": 5
+        }
+      }
+    }
+  ]
+}

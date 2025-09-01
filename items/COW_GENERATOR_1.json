@@ -1,0 +1,77 @@
+{
+  "internalId": "COW_GENERATOR_1",
+  "name": "Cow Minion I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Cows! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a26s\n&7Max Storage: &e128\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COW_GENERATOR_1",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MTkzNDg2MTYsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMmZkODk3NmUxYjY0YWViZmQzOGFmYmU2MmFhMTQyOTkxNDI1M2RmMzQxN2FjZTFmNTg5ZTVjZjQ1ZmJkNzE3In19fQ==",
+      "signature": "IAFctsIl8hEpBwYw4r0uRDLyFCcgRrVoKScLPdMokbnCx74sLCbYIiRyUcwuzjm7C6SvN1gLZkW1ftcaRaTerBgsq4O+7m8QcSSFnN6Oj96+KwMRlZuFrHqmQb6Z4kFcXGUpwktUsEF0z9+KUrISV5YYB3sO3poBG8OJb8tY5ATld23DbpaVCRHIZJjzwUzXcZUNGs1biyEXJmZ7JYrgtM8K+NCZlLPpo5D2CTgrdtM02fwxyfD3Aed0nTPEvo9TXxWY3p6MpPreO3GNWZvURx/pSIaJoi+tTEVMGMxHwcSiCtMEnaabd6ic3pvelAHI2eAngX1QBpR486hgaZo2SPWOKaahxWkLeA/B51cXmSVIi9KEv6mUmwyUEjse8397UID5Y9hQWNcy3aYMwZplzn/MX+pzmY2E0C5FlrtZENVSkju/NgBCpJgsvvDtNEcyxQh5hXzcowbkhqwMgzqFY4SZLyowzdcLeitFTxeuPkMksZH1sjogsS+7VeyGAYCtqwRlVbnOB4Ly7gC6iqVmqTVvH/Op0Si9waJAfICkPwDiA4wKUcVHa1w9cca52piNQvEr9S/D8H7epjSDmUmdnbyHzCO8XD4nQ9yN4nBegkSodMRKdwCUUbFymJv6mHLt+x7xCKJf2iGMD0JdKynMHrHBjyW5yQ7s75YBWQ52x9E="
+    },
+    "name": "Cow Minion I",
+    "tier": "RARE",
+    "generator_tier": 1,
+    "generator": "COW"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COW_GENERATOR_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "WOOD_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "RAW_BEEF",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

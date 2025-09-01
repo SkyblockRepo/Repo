@@ -1,0 +1,55 @@
+{
+  "internalId": "SHINY_ROD",
+  "name": "Shiny Rod",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Shiny pigs run away from you &e30%\n&e&7faster while holding this.\n\n&7Extract &625% &7extra coins from shiny\n&7orbs.\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SHINY_ROD",
+    "material": "CARROT_STICK",
+    "name": "Shiny Rod",
+    "tier": "LEGENDARY",
+    "museum": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SHINY_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "SHINY_SHARD",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SHINY_SHARD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "SHINY_SHARD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CARROT_ITEM",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

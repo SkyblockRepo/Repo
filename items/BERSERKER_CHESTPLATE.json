@@ -1,0 +1,283 @@
+{
+  "internalId": "BERSERKER_CHESTPLATE",
+  "name": "Berserker Chestplate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 322250,
+  "lore": "&7Strength: &c+60\n&7Crit Damage: &c+60%\n&7 &8[&7⚔&8]\n\n&8Tiered Bonus: Berserk (0/4)\n&7Reduces your health and defense by\n&7half and reduces the cost of\n&7health-consuming abilities by &c20%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC CHESTPLATE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BERSERKER_CHESTPLATE",
+    "material": "LEATHER_CHESTPLATE",
+    "color": "255,163,59",
+    "name": "Berserker Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "npc_sell_price": 322250,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BERSERKER": 14
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "STRENGTH": 60,
+      "CRITICAL_DAMAGE": 60
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 50
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 10
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 125
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 250
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 30
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 50
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 750
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 80
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 3
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "LEATHER_CLOTH",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BERSERKER_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BURNING_EYE",
+          "quantity": 50
+        },
+        "6": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

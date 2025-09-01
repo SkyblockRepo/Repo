@@ -1,0 +1,76 @@
+{
+  "internalId": "MUSIC_PANTS",
+  "name": "Stereo Pants",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7Defense: &a+35\n&7Treasure Chance: &a+1%\n\n&7Plays sweet tunes that you and\n&7nearby players can hear!\n\n&6Ability: Beat Saver \n&7While worn, grants a small chance to\n&7catch &aMusic Discs &7while fishing.\n\n&7&8This item can be reforged!\n&5&lEPIC LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MUSIC_PANTS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "4,207,211",
+    "name": "Stereo Pants",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "npc_sell_price": 1000,
+    "museum": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "defense": 35,
+      "treasure_chance": 1
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MUSIC_PANTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

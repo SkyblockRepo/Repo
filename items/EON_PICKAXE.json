@@ -1,0 +1,60 @@
+{
+  "internalId": "EON_PICKAXE",
+  "name": "Eon Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Damage: &a+5\n\n&7Allows you to break living metal ore,\n&7&9Timite&7, and &bYoungite&7.\n\n&7&8This pickaxe is not a particular fan\n&8of time passing.\n\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EON_PICKAXE",
+    "material": "GOLD_PICKAXE",
+    "name": "Eon Pickaxe",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "stats": {
+      "rift_damage": 5
+    },
+    "origin": "RIFT",
+    "motes_sell_price": 25
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "EON_PICKAXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ANTI_SENTIENT_PICKAXE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "YOUNGITE",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

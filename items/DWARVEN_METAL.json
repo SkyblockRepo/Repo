@@ -1,0 +1,61 @@
+{
+  "internalId": "DWARVEN_METAL",
+  "name": "Dwarven Metal Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Dwarven Metal Fortune: &a+15\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 8&c.\n&a&lUNCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DWARVEN_METAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTQ1NjAxNSwKICAicHJvZmlsZUlkIiA6ICJlNzhjY2YyNjMxZTY0MjJkOGY1YzE3ZTliZGQ3N2RjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEQU5JRUwxOTB5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjMDFkOTljZmRkYzg3NGNiZjY4YzZhZjdjYzU5OWRlMDRlYzEwZjFlM2RkNWVhNzc5Nzk1Y2ZjZTc3YzdlMjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "RAML9yHoksipznIYFHgseeGfYs4o/dwRLZazVYAm6mDWuVwiuAy9+CJy69jc9SBQFC8EWwAHbJHLT9hfav3PKvbnJ4lMLDu+q65aqAVlB2WySJgIdvbyQEfs7KOI0nCYr6FQB4jzyKzqKYBHOLxPvezM+i3Drv/OIuFovIMY9A+DbVkIFVANXPGYjL/cqzVlzazX6gC+1gAIdo2wI3LYBRDU+AF1dvO4a6Ula4RkCWTxnk3OOS12SYrT9LsNMl9pR5W3SrJx4r8uPwNbyua08FlvF3P84ElGaKYeDN3Z8fIzEANY8Kj9Bn+7wJWBY3cn9pavGjkP+z+4vhVph+Pc2Au6eRhMfsplCWDbRXKycp8TIoRnRY2J7kzyk6SSMcPTOLeJVPwJPT3ye1t/8AQjET6qrIlyK3eMfUsdx9YJKcH1Nv/cd7bKYryF8pJoJWiEIBjqrb5dg+U7T03EhJEIZ4BS8fC5nWPIn1g3AJYg9AgqvujmCFxU3do0eWrjIgm29xV6JjMlBwdA78DyxaSW3BZopGXzXuN4LDytAXn0/KNFBC4VnbG4bANtUxy6Kz4wUk6SD8BYc1EX/yOKIdy3Jnd5kL84+/fgK4YijnIeGzA1ARVqshqwlcr74Tp8YbcLLTwjQiHo+3IPtj/g1XWFw2povFjmzF2LHFy3F4Hwxpk="
+    },
+    "name": "Dwarven Metal Talisman",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 8
+      }
+    ],
+    "stats": {
+      "DWARVEN_METAL_FORTUNE": 15
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DWARVEN_METAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_UMBER",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "REFINED_TUNGSTEN",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "GLACITE_AMALGAMATION",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "internalId": "ZOMBIE_SWORD",
+  "name": "Zombie Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 300000,
+  "lore": "&7Damage: &c+100\n&7Strength: &c+50\n&7Intelligence: &a+50\n&7 &8[&7✎&8]\n\n&6Ability: Instant Heal  &e&lRIGHT CLICK&r\n&7Heal for &c120 &7+ &c5%❤ &7and heal players within &a7\n&a&7blocks for &c40❤&7.\n&8Mana Cost: &370\n&8Charges: &e4 &8/ &a15s\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOMBIE_SWORD",
+    "material": "IRON_SWORD",
+    "name": "Zombie Sword",
+    "category": "SWORD",
+    "tier": "RARE",
+    "npc_sell_price": 300000,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "ZOMBIE_SWORD": "ORNATE_ZOMBIE_SWORD"
+      },
+      "type": "WEAPONS",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 100,
+      "STRENGTH": 50,
+      "INTELLIGENCE": 50
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "UNDEAD",
+      "amount": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 30
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 45
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 75
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "UNDEAD",
+          "amount": 90
+        }
+      ]
+    ]
+  },
+  "recipes": [
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "ZOMBIE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ZOMBIE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ZOMBIE_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ZOMBIE_HEART",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

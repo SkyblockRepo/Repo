@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_AQUAMARINE_GEM",
+  "name": "Flawed Aquamarine Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of\n&7&3Aquamarine&7, but it could still use\n&7some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&b☂ Fishing Speed&7; others say it might\n&7grant an &eadditional charge&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLAWED_AQUAMARINE_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzY0MDU4NTkzNiwKICAicHJvZmlsZUlkIiA6ICI0NmNhODkyZTY4ODA0YThmYjFkYzkwYjg0ZTY5ZjVmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbG8xNjA2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0MTY2MjU0YWM4YjMyNGMxYjc4ZWFkYzdjMjQ5ODY2YzY3NDJjMTc1ODZhMzNhZWE2YTg5ZmUzNDZiMmFjZjAiCiAgICB9CiAgfQp9",
+      "signature": "PrewKDAcwwfUIEOdre/oilmmbUKvotVL5mcbr0UnkPr2pFUeapVXyopHwz/oS3l7EQ27ONWnKYEix9wgS3EZSRC5yV25KuABsMu2nkjlTofzee4DnP7iJknyySfc1YZ6OEpckcgd+k9gbMb/VDe5dWsYWHimafsISfN8TdmRomPOE34joPfUcg8AqbRz5vKyBuzHp/UDgFZkB3wRCgLng7lY97/LveSWkE1G8Q5+1iraFEu1RhY1/qpL8APvty2xI97DHchjTFdF4HOPGRnnRu5ClDe1aAnvwVV6SmX8dLVOpM/55eRVb+F5d/cetdB4vQD2E/eAPX+3nFLdYII1RaawCC3G2I1kQNWQodg79S6Dpnbd3JS/P8qoqZSKY59vQcdW6SHJmHa4UtqihUrrSx2C5nrK3Rp/lyOB3LwrBT44rNRhYs/ZXAwJOi8RAPwGRC3g4hr/X4kxUV+cZ/s7fJy9iaYivdLO3oaP8G/zsrFoT4M08KbPRZjTy3eWr5ubaWTZNkt5XOQirVgDuzv4pL47iNwSq7SayHLLvqGy9ApcJYHqaVwfeBNmnVI02PicEvWpSXvFgKEgXR6XtNu5S6OxjACPU+gw9l1+U5OFeKkwCknLrOrNKWiOiKtq+IDWVy4DoAofSvwTAzqDX/MTGgACSHztvfUAwQbee/h0K/k="
+    },
+    "name": "Flawed Aquamarine Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_AQUAMARINE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_AQUAMARINE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

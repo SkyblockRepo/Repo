@@ -1,0 +1,30 @@
+{
+  "internalId": "PROTEIN_BAR",
+  "name": "Half-eaten Protein Bar",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PROTEIN_BAR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MTgyNzUwOTA0MzcsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhjNTBhZWU4ODAxM2U4ZmFmNDI3ZTE5ZjNiODk4MjhiODZiYmYwM2RkMmYxN2M0Yzc2MGQxZGRlMjJkZTMifX19",
+      "signature": "HOKp6JKAwgaWIisiwKZJWu897vmWZAZ7DxPueXMYNL/zPbwUPh34TA51vYlTl4uj24y7cqT03du5F3EAIN7LGv5yCR4/5UjqNubNsVw+lQcrKxhAus1Rd+0c0rPSD3nuipXkolkSoPxKB2TRx4KwLu2L6Gj4BN0qZ11D90GaOhXdcV5ufnfORjUhjDDRsLWgvsyaugIrjil32Doso8mrXAs1K+PzOS0F94XLhekk2gQtNVbJ4cfEKCE4ODzJZwZqBKqOARpann+1mTEPCZ712jHPdvelIYm1SbYZPfeh8/f5qw8taDJcqbjK8pBbTOl1/W2/YkVwY+G+aO4a2WI+TldyZrMWF2zHVDoar2x/EwejeWaZt/otx9tgOLYGXgOLmGSk3i8yhYHIDhefH78uWWhzMB9l9Tg3/nyI2AVhsEA3hTWetkyykbxO0UtHsGcvhAVO4uCxog064vnnNtAAaqgusoMq/rYSTAMubX8v4GxkXa3fiED4Qo7meZKpYRZIA4epOSdvgoRHMibZcEDhnhyTpMRGwJXNdm82aW4owRqK5f3WtwWLvbe4yPvTvITnhSFLd3q8xXXPkMuYI8DF7KujPR8qMvDmxEKhtgoxCRRNxDtHCWn2lvHodkbWxyi2WAWmSrWcZhTN+5MM9k1SS3NqyfxwqE8IkFnSyzaYMVM="
+    },
+    "name": "Half-eaten Protein Bar",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

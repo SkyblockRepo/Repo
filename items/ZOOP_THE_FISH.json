@@ -1,0 +1,30 @@
+{
+  "internalId": "ZOOP_THE_FISH",
+  "name": "Zoop the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Keep me in here please.\n\n&5X&5 Rift-Transferable X\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ZOOP_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 1,
+    "name": "Zoop the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true,
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

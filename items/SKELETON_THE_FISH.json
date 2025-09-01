@@ -1,0 +1,27 @@
+{
+  "internalId": "SKELETON_THE_FISH",
+  "name": "Skeleton the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Once a beautiful bass, but his loud\n&7mouth got the better of him.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_THE_FISH",
+    "material": "COOKED_FISH",
+    "name": "Skeleton the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

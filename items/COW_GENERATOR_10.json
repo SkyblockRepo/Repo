@@ -1,0 +1,77 @@
+{
+  "internalId": "COW_GENERATOR_10",
+  "name": "Cow Minion X",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Cows! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a17s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COW_GENERATOR_10",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzQ5NjQ5NTUsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlM2Y1NmYzOTI0MTA2ZWI5MTQxNGE4ODU5ZTc2YjA5NjIzOTVkZmZhZWI5MWViZGE1MzgzMzJmZDk3NzRjZWEifX19",
+      "signature": "xg0Myb7avMziB5NZmEFmJ3N2SIQPSTXskMnDMO2rlangxka4zAkCuSZuwcWHQ42THUZqT6WDJAk4HrH2dvAzDficgkIQOc3eh7i4tmuSgL0qIJtulP0DnS8idvfM4FTOlqrZOB9u0B84bkKfA111z2Uipbayz+TRDVydUonkIjiOfRd7luWDRto949xg1yDA7aSD6Xp17WcxLkfMOGC87NuCI+U2sncrSuLLwG/v5oHmYS+c0GTI+bt1c1JFAdXSaBe7AYcIE81Qwiu2lW5BKc4AS5Hwn403U3N8ghn+SXIzsyidC5nMuvBqB7wcYZ6euKBPyx31YNv4e5fev//TQlQFA0j71GKnKO2ES0cqpiTcvwSUajOhmKlLhtccj7T/SrB16z0jXYNhw0mSf6qwrLJmTrtvNjC4dW3qWNfXavIj2RnMlvKPNPOZAsgW9BbdSJilZGhhDN1fltzIk76yTI0s1H6TveyRgckj2dPK+ikLZ0jdNu6WEv1nRWlAGkd0Wegpte1GztoPlFsDkDJiYhrxpTFDH93PvQ2O9IirSqNyHUyQZ+v3qXXI8ov2ZbLaVICP/B/6aw+Jro7PkMEyKuB+i2W+g+Ix1GLBQroDvxHpJdSxDW7nlHrNetvP2uO2sF70HSt1esIuE2SIoDejwf/DUELybikSlPOD3+FdUnk="
+    },
+    "name": "Cow Minion X",
+    "tier": "RARE",
+    "generator_tier": 10,
+    "generator": "COW"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COW_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "COW_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_RAW_BEEF",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

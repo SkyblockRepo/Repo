@@ -1,0 +1,32 @@
+{
+  "internalId": "NETHER_ARTIFACT",
+  "name": "Nether Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2000,
+  "lore": "&7Reduces the damage taken from\n&7&7Zombie Pigmen&7, &7Magma Cubes&7, &7Blazes&7,\n&7and &7Ghasts by &a5%&7.\n\n&7While in the &6Crimson Isle&7, you will receive\n&7the damage reduction from all mobs.\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NETHER_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTU5MzIxNjM5MiwKICAicHJvZmlsZUlkIiA6ICJkNGY1ZGQ2YzVhYjE0NTNlYmJiNTg2ZTU2NzVkMDUyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBQIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRlNjUyOWZiZjc5MDMwMTA0M2U0OGViNDNmN2E3NDBiZGNiMGUyMzg1NGQ3MjA0YTEwOWVhMGZmNTY0MzZhZWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "TwW0WkHTC49NnKmLPPq98IfWh13gRrT+a6ykLNt4Kr+Ie9mVGTLb7ClS1SSmlHHCY0K5QWQkXtTkuVyCsE2AsYU1UyCsn/jrfxdumLm/bmMhYwmBj/3hl2d2M66WiwYebolsAHmwn264C+I9ALVAMVqvjgZr5iL9OhhYwUCyHPvCT24SPMNZyOt1bF1SPvc4YMhTdVIAlWH9lVm72NY6BKIDiqx5X2W0w85clo5EEY4jHdIgcmRK98Wg+8Ld6sQU8jMQ3y7yD3RpJFkIKv+WfnwqLs5dUHdkP9UzGdq/5zuJZJONMY19CN/jGy9R4+uyry0kIBoyyBySt3Z7fLxt2XN6JdeKihRuFm9dM360+ZlYzs46MpWP2es/Fcna1TuG+j1geXjCM1BnLT1sfvByro5n6XlRKoPXfYSGQS4yStKUVTo6oenbR/1Cz25z5RWvQYz9SHtul78ZYsIv6hAEiVsE59A5r24WVC0Pybi4JdcxjG9EcMgn4ZQ3VvcZ8VSBKO84ozCFj/OD+Q/yF+flDlMSajE56OWn8LLZVzf2mQ8Av4gfAsBul/6Z+I/rVodM/phubcJsAfXiXIQeHKRWeoLq1taY+CfsPNHFoEMKAV4kJ3+X3r71IdS7IAblyEctnVGU1xc6SDosEuNotwZ+qn9giKR+k62yGDOMl92NRPM="
+    },
+    "name": "Nether Artifact",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "npc_sell_price": 2000
+  },
+  "recipes": []
+}

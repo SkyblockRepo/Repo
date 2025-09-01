@@ -1,0 +1,30 @@
+{
+  "internalId": "WIKI_JOURNAL",
+  "name": "Wiki Journal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Given to special members of the\n&7community who assisted in the\n&7creation of the &6Official Hypixel Wiki&7!\n\n&7Awarded to: &eUnknown User\n&7From: &eUnknown User\n&7Date: &e1st January 1970\n\n&eRight-Click to view contributions!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "WIKI_JOURNAL",
+    "material": "BOOK",
+    "name": "Wiki Journal",
+    "tier": "SPECIAL",
+    "unstackable": true,
+    "glowing": true,
+    "museum": true,
+    "has_uuid": true,
+    "soulbound": "COOP"
+  },
+  "recipes": []
+}

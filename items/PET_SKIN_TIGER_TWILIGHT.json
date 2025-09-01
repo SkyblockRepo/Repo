@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_TIGER_TWILIGHT",
+  "name": "TwilightTiger",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Tiger pets.\n\n&7&aThis skin adapts to the day-night\n&acycle!\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&d&lMYTHIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_TIGER_TWILIGHT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjU0MjM1MzgxMSwKICAicHJvZmlsZUlkIiA6ICI1NWQ4NzcyODJmMDc0MWM5ODMyNjBhZDQ3OGE4ODNhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW1ha2lfSXJvaGExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5NjIxMWRjNTk5MzY4ZGJkOTA1NmMwMTE2YWI2MTA2Mzk5MWRiNzkzYmU5MzA2NmE4NThlYjRlOWNlNTY0MzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "eyXh64ca6rQTTdxQiAtO66doT5u3lFpGCaDRCKZjwDjIlYQxMj9zZTFavYFJfEgdBB9INFXhlAxbUTIma7oYXGk/MWeuTlFk5N2BXF72CzGSjb1mdOteTnIrBuWU72ARBSZy7e4HDy7lKq8xZ/REGni0lYgznV64iMZck20PPvnUSTLUVczCFOaJkvwKjpaDxsMpz1TgSN07Ddb7DNmWA2LiZZI116jiQQySWjp8orUkuSUX9nuSPiDNbzhbljWAgJ8LLAuBnUercneHrqVX7UA27milZlTQkZh6NK1gcnu7tvxc6PKXc05PIEI/yrXrfhihpy7YLz2QfBhD4bq+gNDtZTgsBSXBq5WZal91Tumwt/M7uYGqtS0g5tMcZSoaLn+6mFn4UIk7I3/h2+5qPUq0t6pbT2jdKKL6zYorvmjRxZnU+02OUzm27gl9XLHeDHXYxtVg5PqLkkQUS0ftFDhWX4x9h1oK1jVHPpA2MkNhq53vJS7J80JPFLsS3Hnj9r9lCSoEwQ7t3vXKVUw+gz6ged7W9H/SRPWNqbaswS+W4pbUNjp+ipjKLp26UB/9uHdCIVmQNVUYKAolCc0hmOEF2zmq5AFsge5joROovFCSN6p55fR2DNnebjlWSkL03qGJr4gnbd48uO5NejygLrtE7Awm00nMr0jfwGumexI="
+    },
+    "name": "TwilightTiger",
+    "category": "COSMETIC",
+    "tier": "MYTHIC",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

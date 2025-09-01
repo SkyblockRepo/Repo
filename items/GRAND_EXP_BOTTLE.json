@@ -1,0 +1,64 @@
+{
+  "internalId": "GRAND_EXP_BOTTLE",
+  "name": "Grand Experience Bottle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 480,
+  "lore": "&7Smash it open to receive experience!\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GRAND_EXP_BOTTLE",
+    "material": "EXP_BOTTLE",
+    "name": "Grand Experience Bottle",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 480
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GRAND_EXP_BOTTLE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GLASS_BOTTLE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_LAPIS_LAZULI",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

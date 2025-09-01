@@ -1,0 +1,114 @@
+{
+  "internalId": "CRYPT_WITHERLORD_SWORD",
+  "name": "Crypt Witherlord Sword",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYPT_WITHERLORD_SWORD",
+    "material": "DIAMOND_SWORD",
+    "name": "Crypt Witherlord Sword",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 500,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 18,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 40
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 60
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 100
+        }
+      ]
+    ],
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        62,
+        67,
+        72,
+        78,
+        83,
+        90,
+        97,
+        104,
+        112,
+        120
+      ],
+      "STRENGTH": [
+        50,
+        34,
+        36,
+        39,
+        42,
+        45,
+        48,
+        52,
+        56,
+        60
+      ],
+      "INTELLIGENCE": [
+        113,
+        123,
+        134,
+        146,
+        158,
+        172,
+        187,
+        203,
+        221,
+        240
+      ],
+      "WEAPON_ABILITY_DAMAGE": [
+        300
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

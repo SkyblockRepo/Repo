@@ -1,0 +1,272 @@
+{
+  "internalId": "SULPHUR_BOW",
+  "name": "Sulphur Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 185700,
+  "lore": "&7Damage: &c+200\n&7Strength: &c+100\n&7 &8[&7⚔&8]\n\n&6Ability: Arrow Infusion  &e&lON SHOOT&r\n&7Consumes 1 &6Sulphur&7 from the\n&7&eInventory &7or &aQuiver &7to &adouble&7 the\n&7damage per shot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC BOW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SULPHUR_BOW",
+    "material": "BOW",
+    "name": "Sulphur Bow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 185700,
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "DAMAGE": 200,
+      "STRENGTH": 100
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 10
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR",
+          "amount": 20
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR",
+          "amount": 40
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 500
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 30
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR",
+          "amount": 60
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 1000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 1
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 2000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 50
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 2
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 3000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 60
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 4000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 70
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 8
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 6000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 80
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 3
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 8000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 90
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 32
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 4
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 10000
+        }
+      ],
+      [
+        {
+          "type": "ITEM",
+          "item_id": "TENTACLE_MEAT",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SULPHUR_CUBE",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HEAVY_PEARL",
+          "amount": 5
+        },
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 12000
+        }
+      ]
+    ],
+    "salvageable_from_recipe": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SULPHUR_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 50
+        },
+        "2": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 50
+        },
+        "4": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 50
+        },
+        "6": {
+          "itemId": "BEZOS",
+          "quantity": 50
+        },
+        "7": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 50
+        },
+        "8": {
+          "itemId": "ENCHANTED_SULPHUR",
+          "quantity": 50
+        }
+      }
+    }
+  ]
+}

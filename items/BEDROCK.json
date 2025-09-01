@@ -1,0 +1,28 @@
+{
+  "internalId": "BEDROCK",
+  "name": "Bedrock",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7&cI guess you have this now.\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BEDROCK",
+    "material": "BEDROCK",
+    "name": "Bedrock",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1,
+    "museum": true,
+    "description": "%%red%%I guess you have this now."
+  },
+  "recipes": []
+}

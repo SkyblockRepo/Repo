@@ -1,0 +1,76 @@
+{
+  "internalId": "BAT_PERSON_ARTIFACT",
+  "name": "Bat Person Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Gain &a+10 &a❈ Defense&7, &c❁ Strength&7,\n&7and &b✎ Intelligence &7for each bat you\n&7have summoned.\n\n&7Works with &6Spirit Sceptre&7, &9Witch Mask&7,\n&7and the &aBat Pet&7!\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BAT_PERSON_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDAyNjc5MSwKICAicHJvZmlsZUlkIiA6ICJmZDIwMGYwMDE4OTI0NzgxODI5OWIzZjE5Yzc4Y2E3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0dXNnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0NDQ0YzM5ODI3MjBiMzA5MzhmNTA0YzQzNzQyMzJiMTFhNGY2ZjU2Y2Q1N2M5NzNkOGFiYjA3ZmQwZGNmZjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "AoeqX0vo9Nir1UzBTGvT3HTvCIxAk2RbBmzmutqUac2wRk+9TjwbXe+oSjhrWyeKtdhJuO/mIzeR6f0fz9vAQBtN2pY29ojePiUW0GPiNMU//72ntMTFWiYGArVhYOB+xY7Z+C4PoXN9ENbNXhHtpcOvArbdxM1Rx86+arWaEBlb0ZjhDl2wfTHGH1mwXnw26c6FIdKONQmfNSHSt6nMlf9kM+qxc/74UQv8Z2pJS98l+UfK/EclDUjZ6V8bYCSh5R5yVPOrn6HmcFbaE5T6WAVKIqQlWo+6ljAlqXn+q9mmUYa0QzTktZKads6ZiQJws4ThtiTT9gIVB03+sROPg/17u+wzohycE81kAcxs8PlhNPxJg/eUc2yHNFpmUBS8Azu0d3KpLX2STfFLTrZgDq0mo7LpLecCCQYhBb0f78boNqucD5N/aCHhXaXP9t1MUDBCP0N2knID1O9duO3T7aZC5Bclqxy1IP8yRoKC5qYRJODmw8B3d2ssUuFjXqe308qJqzLKdb+NhVRos1V+PHCzHfkZBS8U2wXF5WzwYkubcjIeCCLBWjKUuSvHi6aGHtqhuvDT2KYOgRGOv3hVMB52XisEloy6Yx0LkvU69z8yKBcR7nsI1n+XrwGGaK38hYQ+Ox09Q85q1zq+iOmI5Fb81Wz05tYdKfVddQkDL5Q="
+    },
+    "name": "Bat Person Artifact",
+    "category": "ACCESSORY",
+    "tier": "RARE"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BAT_PERSON_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPOOKY_SHARD",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ECTOPLASM",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SPOOKY_SHARD",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ECTOPLASM",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "BAT_PERSON_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ECTOPLASM",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "SPOOKY_SHARD",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ECTOPLASM",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "SPOOKY_SHARD",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

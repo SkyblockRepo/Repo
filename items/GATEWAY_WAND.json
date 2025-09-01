@@ -1,0 +1,32 @@
+{
+  "internalId": "GATEWAY_WAND",
+  "name": "Gateway Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Blue  &e&lLEFT CLICK&r\n&7Spawn a gateway.\n\n&6Ability: Red  &e&lRIGHT CLICK&r\n&7Spawn another gateway.\n\n&7Gateways persist for up to one visit\n&7in the Rift Dimension.\n\n&7&aф Rift Time &7may be expended when\n&7using a gateway!\n\n&9&lRARE WAND&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GATEWAY_WAND",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzOTk0NzE1NDI2NiwKICAicHJvZmlsZUlkIiA6ICJlMmVkYTM1YjMzZGU0M2UxOTVhZmRkNDgxNzQ4ZDlhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGFsa19SaWNlR0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM2NTc4MGU4OWVlMjdhNTM5NTBlMDJiY2U3YWY2Y2I1YTA0Y2RmNWQxZmQzYWMwMGNmNTZmNzE1NmZhYTMxYyIKICAgIH0KICB9Cn0=",
+      "signature": "Z0J4DnMPIvqeHYXoZdYwYZjrBZm3fuDRfsGatBw/LePRfZHzJ0IbDYMuUxggQudkPk9aD3ety45mzEBennFrWGYcPRcvyRDQtMkNRq8hGCuD9HyIqLBFsa2vnCzbcD7YQ7IDTiGTZRGjh4B8OIOh5AqnN29xssOwqZOOCRfKs7qJoB+XtKlvLEGwiGoyfll2T/NV2tRSkdoeFlP5PhZdeMUfpl1TYFIOUJ0jvV/KXVM8wlLtYsgDu6+AUN1khyBmXkVkZbgL46gWvM78VOwP/yoAGSdnPP+0zlnj/MpMOe+UNMhHCCtf2VZQo+3OlEDuj46GOJXZdDDeJIvlEY1uAx+ev8z0Ejkmq15Bo7Xc3LeIdP+CNBgp3v5DJldnbsgxKMM7RKRhyZ97Sks+DsoDJqx5e6OkhQyD/Tmzz7tW6Rq5TGBfrQGQoWzy24s4iJW/Zvf84CwtZ52TSDWn5l5MeIwZlKh0hfJIxfJkL/CO8j/8I1ZZWsD/CPPTuRvcJYgdAt7VAQbrSHK1yoUYbqyHGFM0ICPMfs/qwfYJu6HC0XicBeuwMAF0M6qZ1oRTvgzutmwF+PTvIOttN/zPIlGA1tFdA6BbYl4PIhTrjaay8sEwpcmDc+UEMSvFlGk17Ijc769fU7vM48i/PtTFRYTWABoDHjFDIIsI57TzZ/qcKoI="
+    },
+    "name": "Gateway Wand",
+    "category": "WAND",
+    "tier": "RARE",
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "GRAVEL_GENERATOR_2",
+  "name": "Gravel Minion II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and mining gravel!\n&7Requires an open area to place\n&7gravel. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a26s\n&7Max Storage: &e256\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GRAVEL_GENERATOR_2",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzcwNDAxODYsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI0OGM4OTE1N2FlMzYwMzhiYmQ5Yzg4MDU0ZWY4Nzk3ZjViNmYzODYzMWMxYjU3ZTU4ZGNiOGQ3MDFmYTYxZCJ9fX0=",
+      "signature": "sfj4vA0+SKsjrn399cNDLqX84TIiT43wt0WYexzA0kFE1aN12jIoI6a0sQ7x9okJlKEQnqeyXqJdJ9aow2oqniAy5W8Q/XUAY13w07nSnF9vUJp1uVC3Npjp3uUtbLPC8hte6ZT7wUtQj4cWNI866mHgn9meF09AECxNm91XKsSu9ENFihh/vNvfK2U/F5mr3+bk8uuNPqbAbrJFrNCLBwpJc7/B/n8RvnPHa0Z5+/mJu+QjEb9lQjPeWyvb08VRJUOuUJCeoWu6pg0ZCqjgK55oS2cSFwKGgL4/Mt2Jg/pqUGaIadR70geKnY++J8A+iH784sGFMe1SVa2yeslChEiD/4ftdOVLrsdfrvqgfgPvjowMDYmvCEOsQkNGXB7OJsZlH/pOO2ZEFh9G4DDo0eLgPqvyF6BG5FnwBULC98rvRWwYclaV4NqQ7nmso2DrHUlWGRTjUO4Fgo9kuBfK/6MbXB7GMr5/DirOGfeB/L+ZI1AOlUEGUz+h7VH9CekyKo+3S0jJEmOGwPb1t6drRUdKrI9u6K5Hwbnuy6dqp7h75Q+igj9E8h6PVbDynb511sibh/sB3jKKF1VsvIrVAkty+pg5V4vDPwK77LeE6cOX2CHsSJSNX11CRPvl+/I4IjFdlkLGXzMeWiCiC5YyACG3HuFb/rsUdce+1JrG5u0="
+    },
+    "name": "Gravel Minion II",
+    "tier": "RARE",
+    "generator_tier": 2,
+    "generator": "GRAVEL"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GRAVEL_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "GRAVEL_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "GRAVEL",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

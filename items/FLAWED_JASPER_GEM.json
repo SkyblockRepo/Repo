@@ -1,0 +1,88 @@
+{
+  "internalId": "FLAWED_JASPER_GEM",
+  "name": "Flawed Jasper Gemstone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 240,
+  "lore": "&7&8Collection Item\n\n&7A slightly better version of &dJasper&7,\n&7but it could still use some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&c❁ Strength&7.\n\n&a&lUNCOMMON GEMSTONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "FLAWED_JASPER_GEM",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjAwMzU1NywKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E3MzUxMWU1MDRjMzE2YjEzOWVkYjM1ZmViZTczZWY1OTFjMGY0NTVlOGNhZjllZTM1M2JjMTJiNmMxNGE5MjIiCiAgICB9CiAgfQp9",
+      "signature": "bOJJ/nbGOGB+0RVLRLMf0Vzvrl/GnoHKPtIpWKb3+/30eCRObGjKA7M2p+xA84MKFWxTf1lsMcRcz5ZsBJfGJgaYQskuB8WDZrzDWLjR6NfogdYeBwmWRcT8xw6KT2v3XB+DWH+8f0AlYqRk2V6tfeBK4MCaNj/tkTTV4g3kxBuCSNJoV7qCRgDT68sdA23mS1abvI17BZsGcUvFZR63Fk8niZY3Ui4VOjLtjCB2NZ53c0/Dj8a9T96CDxMAQ/LDFGQsFO/cRuS8SCD6CXe0eCE5gvI4owj3mkq6DUBizgwP6SEv6UTkcXO1YJdWQunGi1Jek+vC0HgLIIB98I0q2SCYFgJRez0yIOfYOkwCJDGBr65oJaLvHLASfYyMIhyvI/GT+iJvK8+Vb1PkeH7V+HF16AyZlTJNXkRymlqER272DiNzsl0NQKGwEWaDWoEaLc8pQ/HujrLyrBRSCEClScB70mrcBqXP7HA522cIb48PWrv9+vuiaco+lludnAuhd9mqgDvrK3pvpljJqZWAcAHlFvtK4EqOVuR0KnpIvqYIhRajxdOSB14RSG+Mb+NVGyvZ2QRmK1CmThKMKYVNM5wLbhsgQPGCknH0QIKRauSopuZpP9xxmEErWC0cX3KVTDT59h5HgokGop55MhinYdPZRcRoof9+5MHIowtqXqk="
+    },
+    "name": "Flawed Jasper Gemstone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 240
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLAWED_JASPER_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_JASPER_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ROUGH_JASPER_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

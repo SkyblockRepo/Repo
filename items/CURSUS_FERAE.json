@@ -1,0 +1,68 @@
+{
+  "internalId": "CURSUS_FERAE",
+  "name": "Reinforced Huntaxe - Cursus",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7Damage: &c+15\n\n&6Ability: Absorptio  &e&lRIGHT CLICK&r\n&7This weapon lets you absorb &c15% &7of\n&7the basic combat stats of any\n&7weapon.\n\n&6Ability: Vis Temperata \n&7Each strike of this weapon has its\n&7damage capped at &c25% &7of the\n&7enemy's max Health. This weapon\n&7cannot cause a fatal blow.\n\n&7&8''Fera fugit, cursus sequitur.''\n\n&7&8This item can be reforged!\n&9&lRARE AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CURSUS_FERAE",
+    "material": "GOLD_AXE",
+    "name": "Reinforced Huntaxe - Cursus",
+    "category": "AXE",
+    "tier": "RARE",
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "CURSUS_FERAE": "APEX_PRAEDATOR"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "damage": 15
+    },
+    "description": "%%dark_gray%%%%italic%%Fera fugit, cursus sequitur."
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CURSUS_FERAE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "VINESAP",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "VINESAP",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SILVA_DOMINUS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "VINESAP",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "STRETCHING_STICKS",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

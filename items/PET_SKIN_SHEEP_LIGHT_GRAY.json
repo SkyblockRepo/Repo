@@ -1,0 +1,33 @@
+{
+  "internalId": "PET_SKIN_SHEEP_LIGHT_GRAY",
+  "name": "Light GraySheep",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to\n&7Sheep pets.\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&a&lUNCOMMON COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PET_SKIN_SHEEP_LIGHT_GRAY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzExMzMzNjE3MCwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYTM1YzAyZTNmMDM1Y2Q2NTg2YzQyOTM4MDY1ZmRjMTI0MWQwZWY4ODM4ZTZlOTAxZTE0NmVhNmI2ZjBiZmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "gq3Bn2ijc3bVpp66eVE17SThJzFDdYTdQnaw0Zg1O+S4u4zs8qzEo5DUWaEoRudmUz6FOaqUFo+zX6e9np15msLZiUBVSD/m94uSrvRQdSXkoF+XuJAI1uH1GwJ5yJ1uDQFG1fdR95QHoC23n/GbWKgmoO4YVBUnIZuZ3WDoL92+0XWcnQ4MLEKXNcQ0l2+SgRVUaH3fAqvNbBCd8ma06uh/tKKXcTuVWxUbrmaWdmdz3b/iTDZ3MJ23NkbmwPB1JM8bVt6SRk4wyq4wn5DWnVFfQx/0l9iMq3EhR17dEKzizbZ6+YrdEec2dJ1d9pEvDY/bGwCgS63EEouJfktfErTq71vwQnjrYKUIhZlsG+H4+HpIWIyjkR6VOA7VO/iplxCiPM3bXyW4rF8S60J03XZB6ELc1XDhS+D/LTRbM651539w5p8GMY0cfG2Z3TgC0MyJ25XCGMy5R0HxG+yIO+OGfORmBr5Qj72floMZMLU1wLPUKFVbQbeXSQmzJgrFmeV/nffzztmCjz/dc9e/jHrLMQFqwcgRGGIjY6/Dyi2T+Id09x5wonFjdJoJAmOa7luPgsytoTpAvgm/ZBJvMvuYB/UcHjTA3itn+4uggAqZdkjhdSwTsC9w8hD7MMgerbiXFN6qeAvhNbTACA2Dvz9CiVQvUfS5onR3PFKrSoI="
+    },
+    "name": "Light GraySheep",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "museum": true
+  },
+  "recipes": []
+}

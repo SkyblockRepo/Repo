@@ -1,0 +1,56 @@
+{
+  "internalId": "MITHRIL_PLATE",
+  "name": "Mithril Plate",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10108,
+  "lore": "&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITHRIL_PLATE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjE0MDk0MSwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJjMWZkN2VjMWExMTQ1MDYzMjM5MDk1YjE3MTM1NTY4ZTMxODhiZTIwM2IzMThhOTg5ZGY0OTY0YjhjZjJlMCIKICAgIH0KICB9Cn0=",
+      "signature": "PWz3mDdvhnNObJ4hEp3gUWs/OyihqbCraUCBqh7AHa5i2RWmDO83CIDxUz7OpXWfb1YKGIi3E7kY1PRBThXTX+BTym+DMR1O6sW2LdSp0wPcPukdDHsoVL165pT9WT+9HgJMFX6+96vspi8LHCohlKGRgX83cPZNWKVpoHqO4nWQ9cL2CkKj4sbGd2dxR/GWsVq4vGwXCFnxMSHcMzAm4569tfMJbbtOW0JUTD2r5dgm5hum9AU3eduGIpusOBhoiEGgxRvTYv8NaJLcMBOKr9bmFqgc2TABwNei7lS9rdwcDW/Vil+Fivak//XSRyzz3omIgSJ/Enh3aRMEv9p9UQAtfLkZ94w4YWeqKxKZ3+04iy22VPikQ2Z2njod+lVtR3S37ZKLxZssZJUzk6agcWwFb6pxupI2GXJzzOyXHHQRLCpza0BKTt4a+y9Atopp4pkUHR6NZm3uNTzuBSCaEGbYDDDg/mNIBTkwGr+CunMwT/TlfSqVAZ1xlCpKDI9wEQLY6sca20APGLJC0WlskCEQgBZIgtwz7BXFG1XSAKb8AwRyVTrLs2wN5DDEIOu+Zc5D1EsK9gBPv0II7Kt0owce7UncZtwEWst/kwrSGLTQrDM+stYsflmnsA2SzESe5UYX4uMTgF/cWmMJjeFhZF3OUVzh5fzdIR7QLxUo70g="
+    },
+    "name": "Mithril Plate",
+    "tier": "RARE",
+    "npc_sell_price": 10108
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MITHRIL_PLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_TITANIUM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REFINED_MITHRIL",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "GOLDEN_PLATE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

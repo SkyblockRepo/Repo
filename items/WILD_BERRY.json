@@ -1,0 +1,29 @@
+{
+  "internalId": "WILD_BERRY",
+  "name": "Wild Berry",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WILD_BERRY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODcyMzMzNjU3MCwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80Yzk1OGMxN2QxZDJjZjFhN2RjMDBhMjYxZDYxNGNhYzkxMTMwMWI1ZWRkYjliNjliZjJmNmM0ZDA2ZjQ1MjQyIgogICAgfQogIH0KfQ==",
+      "signature": "lkTD4K331NsioiyAWrjYG9dvXjrktV2r4GcMAg8KQ50DkILTA+eL/3V4XPHAX961kWrTRi2eUqr7CGrXVlGK+FjdykjYYtHZdsPqFNXd8SKyOT16epncnqEE2st0Y7AJzFVM3NkJrtAopHkxJUVTIl0XCr7OtySb1Gbk/kWf02A472lY0UYWjA9LHEoRFjMnHZrIOuf1x1uJDwaYbGvwaST/xEuljpiuh9eYOX0jjK+a1T9dtCM2DocE5xTLxYdEuv9cZyBHu1tee3PChzt8g0Xog9lqMfjQvPPK8ikvhN++1cEzzfrsota6h/gkSUVz372O1BvtbhOKRvTl8MGULq/PkxvdEAb767uTIAO24XXfgZLZW9E4y/GgCuApXA7uGnkBgxg9OIMIQY3hzgR2IU9cWi9BsGettCplAil4g9qcak/24dH8A+yzMJYpQmO1IrVqe8J2apIozVyHJCB32LPv1unxKrguSuvNcZe5jfzr3X9rnQhsUfqwkUqO52tXcQtlDFsk2PNk1ga/rLIWo1vt14unrnyiX06dY5tWPG0iYJLiVq4ePrHbtl37LpueFDX8UO20gzBHxKnRvLzRGWmgsamQY3C7oxAoxO729QDf/GnouRd8XWe/WByshP42y18T8Ji9W4ZZ+F6CtwGcYhQOsPxWdFJ+Y2Mo0Lcf+JA="
+    },
+    "name": "Wild Berry"
+  },
+  "recipes": []
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "FARMING_WAND",
+  "name": "Wand of Farming",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Allows you to farm the peculiar\n&7crops from the rift while held.\n\n&9&lRARE WAND&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FARMING_WAND",
+    "material": "GOLD_HOE",
+    "name": "Wand of Farming",
+    "category": "WAND",
+    "tier": "RARE",
+    "glowing": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

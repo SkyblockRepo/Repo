@@ -1,0 +1,73 @@
+{
+  "internalId": "OMEGA_EGG",
+  "name": "Omega Enchanted Egg",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Collection Item\n\n&7&7Used to craft the strangest of pets.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OMEGA_EGG",
+    "material": "MONSTER_EGG",
+    "durability": 67,
+    "name": "Omega Enchanted Egg",
+    "tier": "EPIC",
+    "unstackable": true,
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OMEGA_EGG",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "SUPER_EGG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

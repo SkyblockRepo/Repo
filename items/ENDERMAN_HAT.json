@@ -1,0 +1,34 @@
+{
+  "internalId": "ENDERMAN_HAT",
+  "name": "Enderman Hat",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ENDERMAN_HAT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MDMzMDY1MjY5OTAsInByb2ZpbGVJZCI6IjQwZmZiMzcyMTJmNjQ2NzhiM2YyMjE3NmJmNTZkZDRiIiwicHJvZmlsZU5hbWUiOiJNSEZfRW5kZXJtYW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhNTliYjBhN2EzMjk2NWIzZDkwZDhlYWZhODk5ZDE4MzVmNDI0NTA5ZWFkZDRlNmI3MDlhZGE1MGI5Y2YifX19",
+      "signature": "akDFKiOjlba3V0+/Kpwko1KmSeOIytdSGOQGbIpGMLL/SZ5kYZpUEUAOdR2aoV+mEmBMfYmc6dx6orxtPXBIy7D32H4ko/3G6aoGAfyMyjqnnmuIq4P9IKsUgfxfjO43BFXdLXx4ws6EEdWqECseuKWOvMRTbIYMS6Nea1TXpIv8W46XDreQm2U2zUM3qBebVch2tzH4OtE6j2t0UM4DZeKdXld1CiqLBp74vjnvtSa4VwU1jgKSS/0JzMEC809VEhHgvktwSLmNC/XARqOHvCCOiLLjsYj5PWqCpuK0jtFzz4fAgVvEFd65Y6KXOW0r5+c4yo2EMEruOCyzo65K3TuujpfyQkoHIBnKlBHgtXutpWv9BfvKqBFXL8vmtR8uR+BFUmcfLIt6qM2vZmUWa/v98II6eHyjHEG4R0t40nS1fzA2OsdTGQRIp6jzyIdZNOeAtddfOPwvhSxTq+pes1q82SwWiNNaaG/49xDw7WnGVwugSaD9VSZPyIb8wIcgPAxicIxDO133AubW4i1LdWbAjIWOPJIomHRFEZS0jt4ON9WFCujFBFSLqf/Ms7UYtZZcTqLY4dxkV2+0pp5GcBzvrH0iL33AKA7CxSAUpGcWz85B31Yk8u+LSG7IRxybiUrNMDLcp8Z5Yly+/Q+z6UaW/dEbh82TreYwMZI9v8M="
+    },
+    "name": "Enderman Hat",
+    "category": "HELMET",
+    "npc_sell_price": 50,
+    "stats": {
+      "STRENGTH": 30
+    }
+  },
+  "recipes": []
+}

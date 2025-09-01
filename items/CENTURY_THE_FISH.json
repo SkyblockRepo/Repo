@@ -1,0 +1,27 @@
+{
+  "internalId": "CENTURY_THE_FISH",
+  "name": "Century the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7The term 'century' was actually\n&7named after him, or so he says.\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CENTURY_THE_FISH",
+    "material": "RAW_FISH",
+    "durability": 2,
+    "name": "Century the Fish",
+    "tier": "SPECIAL",
+    "museum": true
+  },
+  "recipes": []
+}

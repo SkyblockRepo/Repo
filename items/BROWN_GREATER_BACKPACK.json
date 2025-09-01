@@ -1,0 +1,75 @@
+{
+  "internalId": "BROWN_GREATER_BACKPACK",
+  "name": "Greater Backpack",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BROWN_GREATER_BACKPACK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUzODc4NTUzNywKICAicHJvZmlsZUlkIiA6ICJjNjI5MzRjYmE5YTE0NjYwYTk3NTk0YjNlMjQ0ZjhhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBQUFycm9iYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzJjZTM0MGQyZjJiNTBmNDljNzYwMmJmMGE0MjBlMzk3MzM3NGIzZmNmODEzNzlkMjA2ZjJiZjM1OGFlZDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "QSo/p5b6BRvzq3VuB0uRM5sRtZaBHEqQr7lgLRDkK6k+6Qwl1wRrg7WCYPpF7LndkHX6Va0aq5bsi40HmHF+XQmJcU6UT1dXuGp9YBxMYpBjFzmJg23Mcz3prb3QCQIrfIKA2IaDRckJSny3p62qidnnWQy1+bVMEYGaNtWVA3lWCjfoo2W3l6XZh212HXREiae6oosgPsv1yklS4z4FTl+pCXvBoQP5eW6zMGTvridR+5NHKqpJfXJ1P+l/252XbOAp9AP8KshEyCGad+iQwGbF9bbwZ8H7mQiKr9dKFVVC0Trd0Bu+po0Cwem7USux13EhcB2NlrSQvsZOmw78UfyEt3zsLXmKGx8e8VAh8QcCuvWgI0XqSYGrBrAynvrroEu4lzMz+NWbKJL1IunXB56dNsw9k6xZQ/bhWXYGJ4XmIUjtfE3u+Jwql2kc7u6RPDXrzNXqBE2B52iNIk/h61b6priX4sdSGUG8gUsksD3IdHTCjclYvVagNpzRptxJtBD38zB9Oeac7h/jiPvn0YkWvr6tOwpy/bquksSa7XALaO8KzUQIqEDA/ZDKaaIJH+ZTM2jL/dbA2q5jm+lz55D8FgPXOYwMHX1Bj7IEVX/jc71ze/UaDQZmrR+Km1ZqwRmNhPNwZol6TbbamHY7PPXz43h5Xc8RukMpCU8cDqM="
+    },
+    "name": "Greater Backpack",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BROWN_GREATER_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GREATER_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "INK_SACK:3",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

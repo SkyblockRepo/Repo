@@ -1,0 +1,57 @@
+{
+  "internalId": "INFERNAL_KUUDRA_CORE",
+  "name": "Infernal Kuudra Core",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Hunter Fortune: &a+3\n\n&7Gain &d+3☘ Hunter Fortune&7.\n\n&7&7''The dark core of Kuudra!''\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFERNAL_KUUDRA_CORE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzA0MDIwMjI1OCwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjZTI1Mjk2M2E1MTg4Y2VmOGVkZTlkODUyM2JkOTFkMjg0YTc4NWI0MThiMzllZWMyOWE5MWFlYTA3YzYxZTIiCiAgICB9CiAgfQp9",
+      "signature": "M9CmBWhyg3bwhmRirCqb3mLL7VFN8rP4jbNI+wkwomYfEneiP+YDtVNl1iQrNqzlfRqQw3cUP9QvzDMzAeoIgzO5Vre2AlMsgyyLhvAzAnr4PCsGulhL084fX5GGJuXYNppWmCbbhiSa/6ZB/B+8DUi9Uo0UZs/6COj5GOYsx4T/Ev13csdi3o4PW07lJaUciz35goaH+j17OVEXg1KFNMpDkgCfgmEkds5QU5byX+DffjXn/7Hb23gTRnmgWznGASzRcgiv+wGgeMDwCeQvPNdTU7uLLCm0w6KiZVaeO3lCAv1a5Lhq1gnDy26dAsenNhFx+sNSAUBaAfWn5ebUymKnzGO3d4SX758tBVWxs4DXj4H3R3g9JnYgjj+s0gO/MjBXzr1ZUWL90ueKYgsLufUmyicOOvgRlBooi2V3OVmg1Ad0BWjuPlhljeFlY2zHdi4DTZLOX2osNvCAvm8Z1WdQ++Hm2YcULbJmq5OHHN8ZSqTe2dRXUHTFojVEkFqjINnQkGg5bPpoJn0qQWXUKRV9qnqpG+1tzJOSPa+xzhqtqI8UHMedwwJjqVHbZY6QZf8T5yVcb4UmpmGa6AznnkWcu+8ziQ3rKxLxmGYN/Biu7yCSK8tJOvN/qfSEEInBhJ0FvvSThuew1DEm8L6fyRk6OhCBpGyU2VZvpeqlWPU="
+    },
+    "name": "Infernal Kuudra Core",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "INFERNAL_KUUDRA_CORE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FIERY_KUUDRA_CORE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FIERY_KUUDRA_CORE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FIERY_KUUDRA_CORE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FIERY_KUUDRA_CORE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

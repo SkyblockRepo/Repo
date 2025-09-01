@@ -1,0 +1,25 @@
+{
+  "internalId": "GLOWSTONE_DUST",
+  "name": "Glowstone Dust",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON BLOCK&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "GLOWSTONE_DUST",
+    "material": "GLOWSTONE_DUST",
+    "name": "Glowstone Dust",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

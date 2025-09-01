@@ -1,0 +1,74 @@
+{
+  "internalId": "SKELETON_LORD_BOW",
+  "name": "Skeleton Lord Bow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_LORD_BOW",
+    "material": "BOW",
+    "name": "Skeleton Lord Bow",
+    "category": "BOW",
+    "tier": "EPIC",
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "level": 30,
+        "dungeon_type": "CATACOMBS"
+      }
+    ],
+    "dungeon_item": true,
+    "tiered_stats": {
+      "DAMAGE": [
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180,
+        135,
+        146,
+        159
+      ],
+      "STRENGTH": [
+        18,
+        20,
+        21,
+        23,
+        25,
+        28,
+        30,
+        37,
+        40,
+        44
+      ],
+      "CRITICAL_DAMAGE": [
+        36,
+        40,
+        43,
+        47,
+        51,
+        55,
+        60,
+        22,
+        24,
+        26
+      ]
+    },
+    "rarity_salvageable": true
+  },
+  "recipes": []
+}

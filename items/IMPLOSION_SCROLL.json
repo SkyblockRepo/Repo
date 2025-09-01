@@ -1,0 +1,32 @@
+{
+  "internalId": "IMPLOSION_SCROLL",
+  "name": "Implosion",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7&8Combinable in Anvil\n\n&7Applies the &6Implosion Ability &7when\n&7combined with a &6Necron's Blade\n&6(Unrefined)&7.\n\n&6Ability: Implosion  &e&lRIGHT CLICK&r\n&7Deals &c10,000 &7damage to nearby\n&7enemies.\n&8Mana Cost: &3300\n&8Cooldown: &a10s\n\n&5&lEPIC DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "IMPLOSION_SCROLL",
+    "material": "BOOK_AND_QUILL",
+    "name": "Implosion",
+    "tier": "EPIC",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 10000
+    },
+    "dungeon_item": true,
+    "ability_damage_scaling": 0.3
+  },
+  "recipes": []
+}

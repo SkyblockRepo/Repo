@@ -1,0 +1,32 @@
+{
+  "internalId": "GHAST_GENERATOR_12",
+  "name": "Ghast Minion XII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Ghasts!\n&7&cBEWARE OF EXPLOSIONS!&7 Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a30s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GHAST_GENERATOR_12",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODk3Mzk5NjQzOCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzRjZWZkZDAyMzliNmQzN2ZkNzQzMThlMjgzMTgxYzQ4MTlmMDVjNTYzNTJlNjIxNmMyZDA0N2M3NGY3MDA3IgogICAgfQogIH0KfQ==",
+      "signature": "ZQsApiPSMumGv+/zE8kSOOs+UpgaM5UcqA6KretJwcmdYxj8EW54UuDPwSnflfgRs7SKsKdtmPOpU+0q9CRgGkp0r/ekZ6a5o1V0OJ/aIg7CNBoSyrNyWYLA7Rjd9smd4L60RlGBnM3hZBS5XEIKijV25SgpppgHRl2552O8wseI+a3lfV1raZTpsbPw6eKWWIh7INeg7V+W1Y+ScHtK1rcixVv0CoTEc3DrEwuULw9xT5qbKk6wJoNWuNqBViq93YEKQ4oFt9K/xwABvNPX4e6RZj5ZoORbSaEMAHD2MHaFbuyskkQIxcJsYd1Z/71aysnHCV40D1f0t+XrLq31ppMOJhbV6vQtHGz76wevV9VrOgwjzYyS9IJWaNNwrwClEtQVnZAMp1kQ3O7X9O9h4R8DDexabTUHP6iXx701ppDJRpFVJGYWF+MgDAjXW3F3NKm7h+Mj6dWzoHUumeuVnd1JOwPFTojjAlPx/IKpMq90NVbAw0xQWY+EciynzfgUBzxS2q+h5vvWjqq47P+olgjNbOt6bo+OI0PJXzUsPlMWFA4xBj7FhjwpN0lRYMrDCEnsNHyfXCeFyuhcs4KwiQpzLKJcMf2xezULxeVWdPA1qyZpR3yCqYX8Nu2Hp+9jhnP6+3GvZy0stneHWWR1+1mrQkhhSI4FCEkH1k2qPcQ="
+    },
+    "name": "Ghast Minion XII",
+    "tier": "RARE",
+    "generator_tier": 12,
+    "generator": "GHAST"
+  },
+  "recipes": []
+}

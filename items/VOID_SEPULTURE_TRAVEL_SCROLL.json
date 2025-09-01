@@ -1,0 +1,71 @@
+{
+  "internalId": "VOID_SEPULTURE_TRAVEL_SCROLL",
+  "name": "Travel Scroll to the Void Sepulture",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Requires &bMVP&c+ &7to consume!\n\n&7Island: &aThe End\n&7Teleport: &eVoid Sepulture\n\n&5&lEPIC TRAVEL SCROLL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOID_SEPULTURE_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to the Void Sepulture",
+    "category": "TRAVEL_SCROLL",
+    "tier": "EPIC"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VOID_SEPULTURE_TRAVEL_SCROLL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "NULL_OVOID",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "RAW_SOULFLOW",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ABSOLUTE_ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "RAW_SOULFLOW",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "RAW_SOULFLOW",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "RAW_SOULFLOW",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "RAW_SOULFLOW",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "POLYMORPH_WAND",
+  "name": "Polymorph Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 64000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POLYMORPH_WAND",
+    "material": "STICK",
+    "name": "Polymorph Wand",
+    "category": "SWORD",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 64000
+  },
+  "recipes": []
+}

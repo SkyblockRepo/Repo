@@ -1,0 +1,113 @@
+{
+  "internalId": "TREECAPITATOR_AXE",
+  "name": "Treecapitator",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Sweep: &a+25\n&8[&8☘&8] &8[&8☘&8]\n\n&6Ability: Throwing Axe &e&lRIGHT CLICK&r\n&7While on &2Foraging Islands&7, throw your Axe at a\n&7tree! It will sweep &c50%&7 of the logs it normally\n&7would!\n&8Cooldown: &a1s\n\n&6Ability: Park Enthusiast\n&7Gain &6+100☘ Foraging Fortune&7 while in &aThe Park&7.\n\n&8This item can be reforged!\n&5&lEPIC AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TREECAPITATOR_AXE",
+    "material": "GOLD_AXE",
+    "name": "Treecapitator",
+    "category": "AXE",
+    "tier": "EPIC",
+    "npc_sell_price": 10000,
+    "gemstone_slots": [
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "CITRINE",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_CITRINE_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "sweep": 25
+    },
+    "can_have_booster": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TREECAPITATOR_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "JUNGLE_AXE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_JUNGLE_LOG",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

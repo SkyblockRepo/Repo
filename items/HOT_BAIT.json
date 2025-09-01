@@ -1,0 +1,129 @@
+{
+  "internalId": "HOT_BAIT",
+  "name": "Hot Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 30,
+  "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Grants &b+15☂ Fishing Speed&7 and &6+5♔\n&6Trophy Fish Chance&7.\n\n&a&lUNCOMMON BAIT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HOT_BAIT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjEwNTA0MSwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxM2M2ODk5ZDk3MTA5YzZjYWNiYmNkZDAxZTg5MDBhYmFmNDY0MzJmMTk3NTk1YmFhMTVhZDEzN2Q1ZmI5YmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "pw3eKCzBu7iQP/Dlok1rFqdhHU7DbIj7bF85r3TRsqTaSHCmFm9Nl+7SUdOibCcb0kiU/ybTaiR7SZh4INxBGlFzh6CnjNRZevMOfsksoV0aaQ1I1X9eV2mnLrzhT5SDY2fki9KzIimryoPO/tfwyUusyURmIIMhFKkQY3a/oQgeEvgCx8BY32rGYWLcKaEBXGA4EnUH67mezb69ZJPC28wpFXEzeTxJShnZl5vbFPFe4G05rBVOgVzO+0wv5fRVQa/RNEq0i8GRs+RQdDwX5x8UDXb0ZJYmbw1zsTxt24gvwtJ8bVW96C9FgbTPtbiFoHsOuqjpi7YoD0ri+Fxaq0OEHxLcPGeB6XyjiwRyj+6DysF/950Jz4PSAwc22ihUR9QlEmu9iBVEup76YrfZQlynYtmMeu3OIQMNod4t3vzJBM06oo4TDYUIjiwuVc7hnj/ZNdNjWfZp8D/RGkdF78hhadQrjcUMdUVeCUfvBmSF6VSx2/ZF7NdEsok51n5XmqGgvT5LYV/WYLbbPOC2K1JGlqB/vAzFTCtTpnSy9einqrb4oM42K8eZRMgNFOSuDpGkGVhNe25Hq0Vx8rfN1hllM774FPk3h2xuZoHoznAQuxBlXqxZ/ybJcKkz9uChCp7asVCAJrtHoy3AH+C4E8I8fcZpu/rh1Fbzey3MPS0="
+    },
+    "name": "Hot Bait",
+    "category": "BAIT",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 30
+  },
+  "recipes": [
+    {
+      "name": "sixth",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "8": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "fifth",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "5": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "4": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "1": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "2": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "7": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

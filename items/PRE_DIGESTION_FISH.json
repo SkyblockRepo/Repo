@@ -1,0 +1,28 @@
+{
+  "internalId": "PRE_DIGESTION_FISH",
+  "name": "Pre-Digestion Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7The obvious result of mixing cat\n&7food, spacetime bending and mystical\n&7mythology.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRE_DIGESTION_FISH",
+    "material": "RAW_FISH",
+    "name": "Pre-Digestion Fish",
+    "tier": "EPIC",
+    "glowing": true,
+    "soulbound": "COOP",
+    "description": "The obvious result of mixing cat food, spacetime bending and mystical mythology."
+  },
+  "recipes": []
+}

@@ -1,0 +1,48 @@
+{
+  "internalId": "MITHRIL_PICKAXE",
+  "name": "Mithril Pickaxe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 400,
+  "lore": "&8Breaking Power 5\n\n&7Damage: &c+40\n&7Mining Speed: &a+300\n&7Mining Fortune: &a+7\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 2&c.\n&a&lUNCOMMON PICKAXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MITHRIL_PICKAXE",
+    "material": "DIAMOND_PICKAXE",
+    "name": "Mithril Pickaxe",
+    "category": "PICKAXE",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 400,
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 2
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "MITHRIL_PICKAXE": "REFINED_MITHRIL_PICKAXE"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "DAMAGE": 40,
+      "MINING_SPEED": 300,
+      "BREAKING_POWER": 5,
+      "MINING_FORTUNE": 7
+    }
+  },
+  "recipes": []
+}

@@ -1,0 +1,28 @@
+{
+  "internalId": "NIGHTMARE_NULLIFIER",
+  "name": "Nightmare Nullifier",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Why have nightmares when you can\n&7drink coffee instead?\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "NIGHTMARE_NULLIFIER",
+    "material": "CLAY_BALL",
+    "name": "Nightmare Nullifier",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "soulbound": "COOP",
+    "description": "Why have nightmares when you can drink coffee instead?"
+  },
+  "recipes": []
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "PISTON_BASE",
+  "name": "Piston",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 8,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PISTON_BASE",
+    "material": "PISTON_BASE",
+    "name": "Piston",
+    "npc_sell_price": 8
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "REVENANT_GENERATOR_7",
+  "name": "Revenant Minion VII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and struggling with\n&7Revenants! Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a19s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REVENANT_GENERATOR_7",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQ1MjAxNTQ5MywKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MDk3Yjk0YWVjYzJiMTg3ZmNjMjUxYjJkMjI3MzU1NGY2Njg1MzQzNmZhOGVjYzhlNTE1NmIxNDgwMDRjODA0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "sW+PEJ/wuV3nJx7xbt1N/pa0RYSeHv4XitDOAi0lKRgcwJWZNzZ47sXNZyR/qN7jAP3RfnWmfdBzAzwqkJCqxSi2vTap2by8u1m3N1BtKRHIEoCGrkphiHfSHuzF5rMRUShtLQWi5rsPgEwEdAtPL9ULC/tQ3wuf3aUA1Q1k2IQbUIov4bP8yrbakBKrg71VefzxbgEgrk0cPwP9zt3Qznoumn81smT3YRQEcHxgOUXSTu2S5zXeFkGHOj7RwfGYS1pVI0pQU/dBVUFAJI4ZPzeBVJ+JqTAZ2j1qde7oRrXCAXa+0aogEBsVP4fvmPvjGweXEwwiURapGQ98zteMSXNFsA2FhxFJuJP3Yu42IpGExZivKExKxvyLehcO9mZBmZm+FMmcACvLHQ4Z5Qn7GzzgRaxC/sntpMFiJOJ1uGzUXkQ3FMpr7V67i2ghJ05el+vduWTA4xIe/Uq2sIIxbo6ExLyZ8tX3HtzfltCn2FCHD9wLViiMWfRqugOw6lB1XOD5YqNrNyv3QsGherJNUQUKkKTqSEYQnSVPWS3ZMf0rmrUbvYQtpjsO7SSwx0Lr/9tj3Pq4xL297XJexIHOHq1oPtieREHeotIq1B8j7Trv2JBqjiV+Uk3qdLJ8GfGkhyVXUnzyVA1ovuOAaIboKZSy6A43e3dDeyOl/9B0dT0="
+    },
+    "name": "Revenant Minion VII",
+    "tier": "RARE",
+    "generator_tier": 7,
+    "generator": "REVENANT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REVENANT_GENERATOR_7",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "REVENANT_GENERATOR_6",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ZOMBIE_GENERATOR_6",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

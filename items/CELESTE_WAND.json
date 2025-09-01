@@ -1,0 +1,43 @@
+{
+  "internalId": "CELESTE_WAND",
+  "name": "Celeste Wand",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2500,
+  "lore": "&6Ability: Lightning Strike  &e&lRIGHT CLICK&r\n&7Strikes lightning up to &f10 blocks &7away, dealing\n&7&c40 &7damage to the nearest monster.\n&8Mana Cost: &370\n\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CELESTE_WAND",
+    "material": "STICK",
+    "name": "Celeste Wand",
+    "category": "WAND",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 2500,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 4
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": "WEAPONS",
+      "game_stage": "AMATEUR"
+    },
+    "stats": {
+      "WEAPON_ABILITY_DAMAGE": 40
+    }
+  },
+  "recipes": []
+}

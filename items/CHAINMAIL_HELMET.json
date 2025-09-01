@@ -1,0 +1,30 @@
+{
+  "internalId": "CHAINMAIL_HELMET",
+  "name": "Chainmail Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 7,
+  "lore": "&7Defense: &a+12\n\n&7&8This item can be reforged!\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CHAINMAIL_HELMET",
+    "material": "CHAINMAIL_HELMET",
+    "name": "Chainmail Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 7,
+    "stats": {
+      "DEFENSE": 12
+    }
+  },
+  "recipes": []
+}

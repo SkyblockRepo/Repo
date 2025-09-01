@@ -1,0 +1,31 @@
+{
+  "internalId": "DUNGEON_NORMAL_KEY",
+  "name": "Key",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUNGEON_NORMAL_KEY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4OTg4MjAxNzU4NiwKICAicHJvZmlsZUlkIiA6ICJlZjgyZGU2Mjc0YTY0YTcxYTVkM2U5MWQ4Yjk2MjI0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmRvUm9kbyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZTJkODRjOTczZDUyN2U0MTg3NGQyZGFkZjljMzkxYzcwOGY1MjQ5ODFjNTgyMDM1MWJkMTNkNDQ1NWVkZDEwIgogICAgfQogIH0KfQ==",
+      "signature": "xElF4Ij/X6bvarmoiWJ9ZVZCjkSeE+nR+iItEgNn4ffx7DPYmQn3ze0Qym586wXyH1NroC8+U1XccwXpqcrnn5o6D6dbuhsuUem/G+Gfc2WsN2e/STR/GQ8vLV0K28Pq7BMiX7jBSUbwJHbraX3PfrtIfluyPzbaI7tzlDDoT5yLjNDmw4YZ9R2KuQYc2XlQ9yJrG3hTGQUA/t3ytvAdSjm3XYMSyKxvZF31oNRaAwasg7aG/lGjPrLi694OtYAnc7Pz6XwNYv3fbnLuN3g4HvcuX09Ql07AP8CN6B8uf+GLGgzYGJzDmZLBalWM/1P8jQLq0KD+jY81zzokSZME5FRx71r1JJPwd7QemRVanfnKrZh84y+uZD0p0VPBanRJYW5MbngTT70up1W31GRiyavglHM9IE+DZfFj7wUT/OjdZB2ueKeouE5ZpS+lyzAzJDVbgYkC1zQOywqWfZtmAZEmV9lOgf8Ws/Srto9ot1NSWk2UG8Yl/2L8cSbu+Nnj6n51tp/AJwaJEggJVaDix44nn4xJ92+cnYfsXfSSIiD9MLaE2mOwlMeUDc6YpTPS67y687yz8+v27vFHORgg0MmkcPxf2iNbpH22ZJQ0RqnoD+BD2EQzH2IzlDwWI15WWuQTL7XWctvZAq5SKbot+hXitoKpWCzfHC1S21AR4bQ="
+    },
+    "name": "Key",
+    "npc_sell_price": 1,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

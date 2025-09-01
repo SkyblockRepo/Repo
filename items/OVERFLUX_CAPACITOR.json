@@ -1,0 +1,27 @@
+{
+  "internalId": "OVERFLUX_CAPACITOR",
+  "name": "Overflux Capacitor",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OVERFLUX_CAPACITOR",
+    "material": "QUARTZ",
+    "name": "Overflux Capacitor",
+    "tier": "EPIC",
+    "glowing": true,
+    "has_uuid": true
+  },
+  "recipes": []
+}

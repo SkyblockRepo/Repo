@@ -1,0 +1,77 @@
+{
+  "internalId": "CACTUS_GENERATOR_4",
+  "name": "Cactus Minion IV",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting cactus.\n&7Requires sand nearby so cacti can\n&7be planted. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a25s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CACTUS_GENERATOR_4",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1NTc5MzAzNDU2ODksInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjU2OWUyZjcxMDRhNDIzMzYyODQ0ZmRkNjQ1YzNhOWQyYjhmOGMxYjg5NzlkMjA4ZWMyMDQ4N2FjMmE1Yzc4MyJ9fX0=",
+      "signature": "l8848ohcJImrOgjlbVzJIOQeozF6X6/XAxSKx3jI1+YCWGB5clhAtA4Ju7t0UkXOh5Slnyd0/0J70pu0nLnyFZJcN4LHpSzgxNbBrCKTp0MeUelVSNx47ogJl531f46/pSU5gu9seMjIgSv0VOVa7o+RBmuLJfYYMDhVlHJtUYUzbP6MAkuXPjaOoFbnrv/TZlEZgFXm72cFV9lCBeyYEukbDlGzmsfqws2SeqDG/yDVDyfwpH5uYuttd4WHPVMatFFBHllskivUKKi3k5CKPx9pvAnmp968qw4tpnRsTkkqBkCdNJ6FNg1OqaxFHo53Jnq/0+7CxlXtDTXZIHnR9cs0i09g/TJVPGWq6/BVjPixLxSs+laNJQSDDjj4Ys3SsfCkrv6T7KaG8D/yStrB3meMxxOTYcLimgDpRNWlAnGTUq4L1pAjNyVaA3CmWU5Y8OIgS+IGGhV29c8dEOoWnOc3oaxvwM5t7/J5Z24vFRX2+f1R6sKrqZTOxJnunw3Us+9UnV3MPU9dG72MfSiK7z3kGSoNtC5SohCJ7uZtSaYIqnV0YsMzXxHsW3ZR609/ueqyTziy2oVBoWiz+z6vmiaRMIJNc/SWTucKMEecwrtFRAFg/EpwSdHA3T55ukM2iqjQJJmdvQ7Cq8L457zQIhcW2dlw5yagk2kTUjTdQDU="
+    },
+    "name": "Cactus Minion IV",
+    "tier": "RARE",
+    "generator_tier": 4,
+    "generator": "CACTUS"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CACTUS_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CACTUS_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_CACTUS_GREEN",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "internalId": "WAND_OF_HEALING",
+  "name": "Wand of Healing",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Small Heal  &e&lRIGHT CLICK&r\n&7Heal &c60❤&7/s for 7s.\n&7&8Wand heals don't stack.\n&8Mana Cost: &360\n&8Cooldown: &a1s\n\n&7&4☠ &cRequires &5Zombie Slayer 1&c.\n&a&lUNCOMMON WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WAND_OF_HEALING",
+    "material": "STICK",
+    "name": "Wand of Healing",
+    "category": "WAND",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 1,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "WAND_OF_HEALING": "WAND_OF_MENDING"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WAND_OF_HEALING",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "REVENANT_FLESH",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "REVENANT_FLESH",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

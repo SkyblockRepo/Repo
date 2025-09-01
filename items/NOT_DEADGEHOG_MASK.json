@@ -1,0 +1,72 @@
+{
+  "internalId": "NOT_DEADGEHOG_MASK",
+  "name": "Not-Dead-Gehog Mask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Rift Time: &a+30s\n&7Intelligence: &a+15\n\n&6Ability: Helmets All The Way Up \n&7Regain &a+1ф &7when killing a monster.\n\n&a&lUNCOMMON HELMET&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NOT_DEADGEHOG_MASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTE0NTkxNDMxNSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5YThhMGIyZmMzNDU3NmIxM2M3YWYwMjA3OTA3NGY3NWUyNmJiNDkyNDRlZWE1ZTg4NDFmMGIxM2ZhN2YwNjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "lj0FpRB2/9TM8vkR2sH6/wmH14thdn5mZlAmGlH8b/nWT9OfyiwXaysDLeo30Em8CEScgxfK9Kx6h2XXcyuzvsO0l2bW8mEA3nGw+W3GpncJi8XOVAbB6nf++HkrScx946KaEP49Ko42RA7eetH8ObLkgRXENl3/vBlyzPCAqrphwz3JfGkymx3dafiaVDBT2uGG871n0rKOsbc+8yFrQTpoCsWxLgiRxr6cBF3M56xdOULxzFifzIFSATliOWsec3Ng5tKgqVLJ+/rUYV5WTpGWip0R0MUhw462UssXLDFtTG7wIde6yifsjHO9wyU2/+KM34ZgTuqLsbjLJz3Ir6rnix/IU85sH7/sGWAIdL7zxLvZJ1MjoGmTxuiEb1sU5Sav/xBwglye++ch4hz4H7s5RxkoIrKLtDmT5z25UJGP537a4TxlYCze8nA0AlfBxiAH75Ilaa0Rc0tEyJLs522qpzINHgQOXvzSgEkocvx5cmT+fFSHW31r9Dpx/iFkux10Kw6eXI0chIWiUCSedtobGPcVD2Z9WlxRyy9LipCb85nELibHkktT63X4v3stOsnrvhYxf0IOjhRSdDCqkNb5AAOXkjm3b8MigYqjGvCDPmptfqeqQtHsmFE/GBGY0kDxLJhD7zxympJCqVOxkxdb94wOYQ3Gbzn7bSDKUYk="
+    },
+    "name": "Not-Dead-Gehog Mask",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "stats": {
+      "RIFT_TIME": 30,
+      "RIFT_INTELLIGENCE": 15
+    },
+    "item_specific": {
+      "rift_time_regain_on_kill": 1
+    },
+    "origin": "RIFT"
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NOT_DEADGEHOG_MASK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "WYLD_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DEADGEHOG_SPINE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

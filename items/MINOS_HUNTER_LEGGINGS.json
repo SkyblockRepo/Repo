@@ -1,0 +1,28 @@
+{
+  "internalId": "MINOS_HUNTER_LEGGINGS",
+  "name": "Minos Hunter Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MINOS_HUNTER_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "255,10,10",
+    "name": "Minos Hunter Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

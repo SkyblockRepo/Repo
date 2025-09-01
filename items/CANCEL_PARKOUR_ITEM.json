@@ -1,0 +1,26 @@
+{
+  "internalId": "CANCEL_PARKOUR_ITEM",
+  "name": "Cancel Parkour",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CANCEL_PARKOUR_ITEM",
+    "material": "STAINED_CLAY",
+    "durability": 14,
+    "name": "Cancel Parkour",
+    "serializable": false
+  },
+  "recipes": []
+}

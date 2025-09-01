@@ -1,0 +1,71 @@
+{
+  "internalId": "BRAIDED_GRIFFIN_FEATHER",
+  "name": "Braided Griffin Feather",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BRAIDED_GRIFFIN_FEATHER",
+    "material": "STRING",
+    "name": "Braided Griffin Feather",
+    "tier": "EPIC",
+    "glowing": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BRAIDED_GRIFFIN_FEATHER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "SOUL_STRING",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

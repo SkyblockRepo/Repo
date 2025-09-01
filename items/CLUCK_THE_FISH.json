@@ -1,0 +1,27 @@
+{
+  "internalId": "CLUCK_THE_FISH",
+  "name": "Cluck the Fish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Cluck cluck bkaawwk. Puk Puk Pukaaak!\n\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CLUCK_THE_FISH",
+    "material": "RAW_FISH",
+    "name": "Cluck the Fish",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum": true
+  },
+  "recipes": []
+}

@@ -1,0 +1,77 @@
+{
+  "internalId": "REINFORCED_CHISEL",
+  "name": "Reinforced Chisel",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&7 &8[&7❥&8]\n\n&7Can be placed in the &6Fossil\n&6Excavator &7alongside a &9Suspicious\n&9Scrap &7to begin the excavation\n&7process!\n\n&7Charges: &e18\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 8&c.\n&9&lRARE CHISEL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "REINFORCED_CHISEL",
+    "material": "ARMOR_STAND",
+    "name": "Reinforced Chisel",
+    "category": "CHISEL",
+    "tier": "RARE",
+    "unstackable": true,
+    "npc_sell_price": 1000,
+    "gemstone_slots": [
+      {
+        "slot_type": "CHISEL",
+        "costs": []
+      }
+    ],
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 8
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {
+        "REINFORCED_CHISEL": "GLACITE_CHISEL"
+      },
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    },
+    "item_specific": {
+      "chisel_charges": 18
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REINFORCED_CHISEL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CHISEL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REFINED_TUNGSTEN",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "REFINED_UMBER",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "BEJEWELED_HANDLE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

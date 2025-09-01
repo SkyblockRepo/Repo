@@ -1,0 +1,29 @@
+{
+  "internalId": "STONE_AXE",
+  "name": "Stone Axe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&7Damage: &c+15\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STONE_AXE",
+    "material": "STONE_AXE",
+    "name": "Stone Axe",
+    "category": "AXE",
+    "npc_sell_price": 2,
+    "stats": {
+      "DAMAGE": 15
+    }
+  },
+  "recipes": []
+}

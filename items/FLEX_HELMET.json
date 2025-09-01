@@ -1,0 +1,133 @@
+{
+  "internalId": "FLEX_HELMET",
+  "name": "Flex Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Costs &d100 Motes &7per second to\n&7wear.\n\n&7Worn: &a0 seconds\n\n&eLeft-click to pick animal!\n\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLEX_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MzU2Njg0MzM1MywKICAicHJvZmlsZUlkIiA6ICJlYjA3ZmQzMmFiOTE0NjRjODVjYmU1YjVhYTlkYTRjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bUUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQxOGJjZWM0MGZhZWI5ZDhkZGUwZWY0M2QzYThkZTE0NzQzYjU1NGVhNDNiYzM5MjM3YTE3OWJmZmFkZmM3ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "F6MnkB6phfn1v3BAiZWX83iR2SVF9Pmw8FRtKoWMh1Ici1fxYG8K+UfG3NZNFQ4AbrsxFDrWBCrKz8lq84Rx6BdnC+Og88ThpOmzht25evNXbZh438p+WmN/BQx72umY6dolhN3iasZevOBUORHlQHDVv205dm89RW7/FLSTfIT8HKazYsIOH5MV0QPIatR8SfPQdV6iLADGZiX7GGvs/Ozd3PasFi5MsVbrqambcW8L8qrIRF0R0RjFKGmgTrtKT9mf3rMcV5kK5vnPeoBlt47nNlZyVH5gVuw0FPtzU2ZgPVfaFZJq5hQXWQZhs+yWsVNBME6kfCkW0OUc0VBrFJ+QvgRWe4QPTupngopcrLwub5E5hZTS+ddIcejtLtnZ2U8+j0dK/yBQ2rE0j9o8z528buMW8lX6qCqoUpKh9PL2EIse38VBNLYZbqwEzh/OYpm8G4c+rjSkWQjBLsUI2gdWYKq6WeUuQzuG3u0t57aTUo3svd6/5MmHQ63gkEXmFR9UnJxbYEbiHceLz6dNbSjiMp5kdkGuGTVqAPCmq/0lCj9QrbUnGwG20WFQOoAZUV+m2R/L7sOBcFAb6wa9tvcPIdUSarmGK+jeeDyeLj/8KJCXvswa6iqRBN3qcU61dn+e9sjVnJbdjXCC8oefzv7WnbUKWwnLWHSzyIbMgjk="
+    },
+    "name": "Flex Helmet",
+    "category": "HELMET",
+    "tier": "LEGENDARY",
+    "item_specific": {
+      "flex_skins": [
+        {
+          "name": "Duck",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MzU2Njg0MzM1MywKICAicHJvZmlsZUlkIiA6ICJlYjA3ZmQzMmFiOTE0NjRjODVjYmU1YjVhYTlkYTRjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bUUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQxOGJjZWM0MGZhZWI5ZDhkZGUwZWY0M2QzYThkZTE0NzQzYjU1NGVhNDNiYzM5MjM3YTE3OWJmZmFkZmM3ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+            "signature": "F6MnkB6phfn1v3BAiZWX83iR2SVF9Pmw8FRtKoWMh1Ici1fxYG8K+UfG3NZNFQ4AbrsxFDrWBCrKz8lq84Rx6BdnC+Og88ThpOmzht25evNXbZh438p+WmN/BQx72umY6dolhN3iasZevOBUORHlQHDVv205dm89RW7/FLSTfIT8HKazYsIOH5MV0QPIatR8SfPQdV6iLADGZiX7GGvs/Ozd3PasFi5MsVbrqambcW8L8qrIRF0R0RjFKGmgTrtKT9mf3rMcV5kK5vnPeoBlt47nNlZyVH5gVuw0FPtzU2ZgPVfaFZJq5hQXWQZhs+yWsVNBME6kfCkW0OUc0VBrFJ+QvgRWe4QPTupngopcrLwub5E5hZTS+ddIcejtLtnZ2U8+j0dK/yBQ2rE0j9o8z528buMW8lX6qCqoUpKh9PL2EIse38VBNLYZbqwEzh/OYpm8G4c+rjSkWQjBLsUI2gdWYKq6WeUuQzuG3u0t57aTUo3svd6/5MmHQ63gkEXmFR9UnJxbYEbiHceLz6dNbSjiMp5kdkGuGTVqAPCmq/0lCj9QrbUnGwG20WFQOoAZUV+m2R/L7sOBcFAb6wa9tvcPIdUSarmGK+jeeDyeLj/8KJCXvswa6iqRBN3qcU61dn+e9sjVnJbdjXCC8oefzv7WnbUKWwnLWHSzyIbMgjk="
+          },
+          "description": "Fact: Ducks have a specially designed beak that allow them to filter water and mud for food while swimming."
+        },
+        {
+          "name": "Fox",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5NzM3MTYyNDc5NSwKICAicHJvZmlsZUlkIiA6ICIwNmE4NjAyZDAwODk0YWQxOTcyMGQ3NGE1OGU1MDZjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfMW5kcmFfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1YTRlODFlZDlhMDI4NTZhODViN2RmNThkMjVlZjk2MjRiZGFiNGMwYzBhYjFkYTVkNGQ1NTQ3MDZmNTNmNzUiCiAgICB9CiAgfQp9",
+            "signature": "aZ57hejQIQmNN7HLYGhngcIe06sZ3xOVePec1YDBlyfiOL/KkdejxPkp8HsfnMt13rV8erGIRj9dEYqofPmM++mJRZvzkWvUCh2HoBbKd8wFe/Ta1y3yy5k14sT9dLGR3nZR4JnP6pexVRL97iXr7obt9dxHMvgEMgAxtK1ygNBFpJzq8cvDU7CzcGi7mr4B/Ul5+SqlAPv/ezQMG2rW7saAgpG53Kxe1c7e+4lStpT8Ar6Wl/pcU2tFayiX4scGiYI2XeZb3kTEdbR9a79r6lf8pVcCohzayqyL8SvGDSrt3pIQ6EQRZTY/BFTfKoN9NzffipE+s4MIKC6Y8aj7ZfzGqrSJ2AE3dPYwxvYibq8RB5sPgcPkiUmlLr3Lbg1Q9FsK1C6iYlVJiihHVRS/jzSh11WyLGQJwf8dq0uW0X+1eD51znuZ04gDApnJ3SkOJ4IWm2wBZL7IML2oZJMg+2L5V3GV3196I9vDT0We59v2QMqIZVsIjeEQVvkKjnrZdrzDUu6VSIFiVBKQHcHzlShKL/pQm1U1o5c63ZvrCtHZTmNN4omT9VfXZKOXFAhUWcZVaCtfJFPAPOrsGm7R41gCtIH0Qq4Cy39xKBIulj9ACiojRW9SyM/m1qrbBzfGEtUI+KzULGvVoY97kHnWh5NNi+TgF165I6J9OAbk61o="
+          },
+          "description": "Fact: Foxes have a unique hunting technique where they use the Earth's magnetic field to pinpoint the exact location of their prey."
+        },
+        {
+          "name": "Sheep",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjM5NjUyOSwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNjYzNkNDI3MjAwZDdjMTM0MGQwNTk4MjJiNDE0MzY1NWE3MzBlNGZjMzcxODgyOTY2NGUzZTRhYTM2YmQyIgogICAgfQogIH0KfQ==",
+            "signature": "fZQVuNKnIgI9AvRVG0VU1zm1XN5+accHujbj1e1qqZBpAuOVnuqgs19FJpcVvoclJLOBGL8x29tsFLfRhS4BAHm4GZEwSOyND0/oL+LH2K2sxnxnw6osIIPll1JTFoUu3toyTpmDS8zkA1HSdxNf2FRAjTzv1Do/nPnVp7MQ5Qr3Ol+BJmNveTZPa/h6O0CNaGZ/N9zM1X0Lj51FWB+LTn7B9tNud3Pnzk0f1BUl+yQOaAz6/rOovrQQlvGd0LhrQw9FH4Whb3vZ+QlBAklgEDWw25XANeWSJJ7uosegS0his0zF3aDeFzL6RgTht1MLI+InaUpXcqrS6Tfbd9458LWnrZaPuaAQUUgQRAKp89J/Rswm4QhBtmmac7fNA2iQjeaa2+SejcYEvW4aR/SY7LzlJTK2Hb1F2MggO6ksKPejZphiMw0N9Nw3d/drCh2EglhNOgkt3qWHUBmBgku6HvMtNo08xRQrRIqYBhG/cw3J8DqVtIHzLp+VPhwf3/TP+rp69YuIPOk0IJbyrDVc3YoPYDK9rsrulY0j1GPvMDWEs02OLWM3u48vhMIabYMlVBBxFWSFnUdC9PEZ0o/7dTS6dyBjr6jZEN5zd5i+C7M32/vxQcl3qXnjffVF3X3x3Qo1lKpgFqBsmcCkXem7lr4u+vqCvcpyDUXRMVQmLic="
+          },
+          "description": "Fact: Sheeps have an excellent sense of smell and can recognize individual members of their flock by their unique scent."
+        },
+        {
+          "name": "Chicken",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMDQ3ODc3ODAzNCwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhkMmViZjczYWQ4ODQ2ZWYwZDdjYjBiNWMwMGFiMDViMTEyZDczYjA4NzkyNTdkZjBmM2UzY2FiOWI4MGU4YTQiCiAgICB9CiAgfQp9",
+            "signature": "wGb8Thfr25bWO1U5rTBDKwvcrbuQ78W5IKVMIPrja+Z0aXrgomMHnM44y7Od4Rui3gOr2ErZPwccq14LUJhOjsrK+fxOE7LTuHBt9CMgU7J8tZpSMopmh9ZomZAmVcCbGVV4xiEANp3eyYrrOL25xKJj3f/BOP67OtFYtA3GdBlAlWZNHPrxJ9YAGo9geU+f19clvwQy7jF1VKZEuFqTSIRxdpBl67jag4zicCZnvfPl1bFSflquoEa6hsdrAD5JeYLUFuNE5knFZz5n3iQ4VIcLFtjdSjIj1hzOavukBNX5cXPuCVd2YnJzYHtuYU+5imx6iPyeY8iwZ1gnUZ21oamDpeN9ZwRMWIo1SDmZGa4zUm5IzmhDhZ1nHHrJ8anKxWCdIEQXNua8ZPv/BUHeplf9wJXDAq+fAiKERB8hjY6FwO55/ayqCEwWxf/8PtfVEbKy34lSInZoWlc4m7kmC3WEQbPCm8GhNNK/C0S79TGqwNVZmpBAWkPB2ikx+J+CdyRht+WJr1B5f2fo4Qg8Mnw/VVcLB/1BZps8D67WIU5HY2CY5R46IBXDcysIA8soP3FN15GFqvIYbnqUglO7q7L48YHkvAyg1/fbhKFryRPx2WnvAHpFYtaEcr9FKHvxtd6StbfpK+oIJ9V4vbD4TmCfdIOtfgezhj9DHyWzl8w="
+          },
+          "description": "Fact: Chickens are one of the closest living relative to the Tyrannosaurus Rex."
+        },
+        {
+          "name": "Penguin",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTIyMTA0NDQ0NCwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8zMDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFmODUyZWZlMWE4MzAwYzVkNjlkYTUwZmU0MWIxYjQ2NDliNGQ5ZDY2NWUzM2RjZTJmMTE3NzJmYjQ1NzA0NCIKICAgIH0KICB9Cn0=",
+            "signature": "NYlDfC0GkOXH1eycyRoM+AilWaBEcd5cdBaVr+wdy1PMfcOwMmwPsoVtmS9PdDBGJzxdpQjoX/bBdFB3wcG8MjWwKxtr0NHGybizXPRUmJbwh0H7ystbOVEB5ecth414iFPXTQXQqsZ2eMerykfLaqTbM19cXXPDt4ReZEYUg9pfdGQRYEqkiP0++lG05JaKpe7BJ1xuILC4mEvhMal7amsrqPcH7o4iuwTwJdSU0RuFJDUG5Bzs11NuvH0EXjhIezzrp2iIFZTlBjtozqtVbHSfWJmJo1BHyXgpFl3uTTDUutbkPNreAHvLjoWl25UN3qiDcYE0LaI2dvkLFj1PfcaKjaMFsd67oFibABh/S1aoO3GXyFzPAugsG2mmnCcqSQj8yPXjCq+yrB1FIG2awkqN36GXc2yOpbYTMg3cRtLoBvqXflN/vWBr7pSgMIG2uDkdL5uB/bKHqt8TGdj4JE246I4LrkOekvAFGv4QUATNHjFSF3CQ+UA/8JzOQ/PoIFvCQaBiQZLTGNHMwCFMwWs7Y6EM/fNbB863R4pAh6j1i70PrkSODvNa3/7vuAqZkkf8asDU9lhZMgvor4Xxk97R9XY8uGnz7dkspjLVtOroo5I+TCId9AxEdZM0vdlq5pRlWqLrVAF0nx3vtuP66aJpm5ugnD08PIjSovXmuRc="
+          },
+          "description": "Fact: Penguins have a special gland above their eyes that filters salt from the seawater they ingest."
+        },
+        {
+          "name": "Whale",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjQxMjY1NCwKICAicHJvZmlsZUlkIiA6ICJhNDAxZjEzMTZlMjI0ZTNjOTg0ODk1MmVjMzhjMTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmVlbnNoZWVwaXJhdGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA1ODE4YjAwOTc1YTdiZTFlN2RmYTRiZGY2Nzg2NWQ5YWFmMzI1MTRlN2QyNDdiMjQ5OGI2MjA1YTQ0MTg5OCIKICAgIH0KICB9Cn0=",
+            "signature": "oRmstGId5GtjwZG+uvBMSULsB3192GoyjzA6ouWgIRSW1WSKqMOxniU/+ESb2M/jv2+Cbh7isHDjZ8EzK8Gh3/qpROr8EXXV8QiNbl9A5JSpGpqi8PI5zGC1D28E+h6A5k3/vHjdRqG+lNLIB3tLSZ/DCkOOV9OzwudPV9+m6QmuFAtBYV+e2XPEIZpO6X+VsLhTDz2rlKSf+pho13EIHapDIaxZMmPG1/QC9T8s/jJ4tGO0ZfOtVG2GqljETpigW5cchNt026jScCowCbN9gsdKSJGN1f3w5cUU7OxOAzPEkclwON68iNl/e9BUDjKp8wH96ieMqAtwHiYlPbUBPTNMkLSjosKa6N3mXGnLbeV2ndfmE+hnmQWXNkd83+o2eO7SDk/IrR4AucKxnM2ctwizu2p/5wTtrGqji16yDqHQaXd6tAR5eNmK+BBVK+n0QMc08sJ9GQ+Wkm5SKmHaoKP9a8U6FlrDkaQ0ctT1NxL4TvmJv2EjJB7p26GhWeLnqtM06i5sMP78DWAwqcHaa8EEtjlsPm1fz0gLU2J8Mmz1RwA5a11T/J/A+6EM/1gS2rBD6tFrG/g3ccXwgcCFtEYTE1PYOV3JkSD/HLMemoBkJaVg+7mfZ9TeV/GPRjYgygxNlevyuowvSB8UYT3QrXzBfQRf1eQDMqMWL6J8qDU="
+          },
+          "description": "Fact: Antarctic blue whales can weigh 112,000kg (250,000lb) and still swim at 25+ km/h (18 mp/h)."
+        },
+        {
+          "name": "Panda",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMDYzMTY5ODc3MywKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2ZDk4NzQ2MmU1YTU2YTk3ZjA2OTQ5ZmI1MjU5ZGJmYWE4Y2E3NGM5OGU2ZmJjZjA2ZjRmOTFhYjk0ZmFmMGIiCiAgICB9CiAgfQp9",
+            "signature": "BwjpblRsdaHpz380ditkZeEzAZXj0sk+f+oc/y4YxbS8VVCpcDZu2HL4YL4sYI7mxOIZkOAraP+oEV0iOfNrgCZg9R8lhI8Mv4ljCNIrcwaVDeKTMkRUH+SXw5kDfNrunY1tPBnZ9CBBHMPZgpK//CtFLa98U+W3ATc6HIjH5YikMmuHtNlqsgd7DFoH0KtWfMRNmq6aI00yoZDgPujeOtpsDY4vbyqAYBWxOEDw/lvuSsZyBzV4536gW6gLxV4HR9tde7RUKs9nBLdNyOk0uLcSzpscqN+R6oVmtmrRFMul5vS0+YwMR9I4F6GRbagZB5+5mBQeeg3APSRewg+0no3H23vhql00QNk4NqK9xK1pwiGvQo049d6mtdQzAcceP7q7cvc/3ZHuxwx0byS0YQkSw74dmYYS7S+ZU1iX0G7MoGujzfBTctImK1NicUU2/I124wTmcpqwbR0LHgpuyMFmOHFurY1a8DqA1NOg5BxsW8Uk0T10sPGAwMu3/sozpRgU2aHcGqXrnayP+KMWp4yP0JrNkBbUhtqHFEissXSgwG7OOJCMebbBhtzL7SDmPLSZdDZP2uEnJq65nedForj2tkLnhzpfjCVUz5yhDjSt8VsgR9cx0Nn+jaBaTAw8tgXR+luE/j1BOfVDSETsP2jVGx7fQzZ7EThyX1HR348="
+          },
+          "description": "Fact: Pandas have a \"pseudo thumb\" made of an elongated wrist bone that helps them hold bamboo stalks."
+        },
+        {
+          "name": "Monkey",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4OTA5NjU2MTM3NSwKICAicHJvZmlsZUlkIiA6ICIxMzdmMjg3MjUwOTE0ZmI4YjA0ZTYwYjg4MWUwZWE2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3JtYWxpc2luZyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Y2ViMDg5YWUyNWViNzUxOTg1NzE4MzU0ZTU0ZDVlZDZiZmFhNmIwZGNjNzU2OTMzMWNkMWIyYmM2OTAxN2NhIgogICAgfQogIH0KfQ==",
+            "signature": "eaVntHu/SRv4HK0R2mzCN9aq5oyBvkvDqnBdsU8MMuRk1NrkqBYqd3rDrwMtuDUoHQ7CIhOaMts9xXwh3dl3nGnwYZax8+ZrcMI7RuUJbxKthyQoyo7Xrbr/ELzh96xql2ZXcF+1gK9ZLvaEZRFxjWuGE2//NzNdQzaSTWMGfusa/dkxoc1Q+sTLhsupXz239Lwt4Igr0RFuYOLxsfjww4OsbwuaXxl0s5ZDyDPe+ITc8R/rgSyUvcaB7SZGk6Jjepml+vR3LJndQtL16AKmXw3dHaXAfcwy1nvXhiyBpteMv4fjAuf2QSFFGSfcKg8F+fIbxpjzC1Ha0r29LhCa6iHqGAw0MTk7VM1gRDvhF20D0GvhOxU1KlahbJqdSUKsTA77D09Ltmv4U3EDbbdAH7BXGZqc5M5GE+8ZX2Und4ghXRjzR0n8R7G38FZGqszqjy8X4nGRwCCcb6ayp5gwQqNbkC+YNKNGiKbi3m9JVxqOBnhbAHY2cRNBbKdCW+y4WDAv1ik9PK0faEccBUSYEBxJKKpNmKo1KA7iLVaSGztoxKaJWP/w2GXMBmzhHsDOxcQQQEpgZSt0QsjBnaOuQTyzidvrVsYwrjcLeNhSYdXapHFmDt2Z3pMLnLqp5LvSdmt6yU8d1QVw9GfoVX85UYmu8Alrm50ikPjmu/fM+iU="
+          },
+          "description": "Fact: Monkeys have been known to use their own fur as a tool to floss their teeth."
+        },
+        {
+          "name": "Dog",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NjkzMTA2MDk2MSwKICAicHJvZmlsZUlkIiA6ICIwMzdlNzQwNGMyMjk0OTIxOTdkZjBlZWJmYWIyNTNjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMX0FfWl9FX1JfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmZWIyOWEyZWE2MzZkZWMwMzgyN2IyMWU1NzMzY2JlZmU5NTdhYWNlNzQzMTE3ZmFhNWJkOTQ1ZjE1NDZkMjgiCiAgICB9CiAgfQp9",
+            "signature": "AH5RnIwuOuYXcJN6a6C9TZkONxZ7TfS5i5o68SrhmaZSwZMkJTArWfklqfFGnJ5WD+fmZAnNSMLq7DaCxZP4TSrTrYnXK9ewYi34vc6sulZ4Z2/PdBCURlgnUDAEp7PqlHOVRS6qZxa0x/romC5r3TjEtvz9qCM2ukPN2GoCVuteJrnrTPI6G3i/LaC2kPXUyxH7O+WQ4TOoWsC5tiPJ5Lp66qMn324oKLRNPamzRLUebyNF+koRuZoe0SiBJIFm1ZOCIq7YSq7CProPygsDZ2JMObD8ZDV1Ge6rZJ54eSs4zw11pX863LEhw9pT4JEgIddc7bv5phJRTgmb0r+pyIjfSa6U2ztlA25GEGUKyhhR8WS3gRceJtz1Yo9VPGiSJUjmwwkNyezbeXvURbU2V9gPqNZQct9UODMNB/XJUTma2vtDvUbr7vaOqBG8zDIO9Z3DXiyFD24m513BxIcAe5Q+RtuRQBPZKo7Vbf9gxHiuwP+YdIiqeImkeghQkEmX9GxqZuJ00Jronjn/LusvuYJzRAF3aHmu2/DmfGJ3L4V9SfDAtD0V1qhK+uBGZRKgaoEICPyXqRHYod4KW+6H3PkizUkro8qFjBGDS51/phK2uSAeKOQ/MfG1fO5w5JTEbo04BoqQZcYahr4SUNXcQgE6X4rzA1pbKQ/RA2amFgE="
+          },
+          "description": "Fact: Dogs have a unique sense of smell and are even able to detect diseases like cancer and changes in blood sugar levels in people with diabetes."
+        },
+        {
+          "name": "Squid",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTExOTA0MDgyNSwKICAicHJvZmlsZUlkIiA6ICIxYmY4ZjBiZDRkZjc0Njg1ODQwNjU2NDc2ZGU0NmNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnV6YWRhMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI5YmNjNGZiYmUzZjNmOGVhOWFjYWQ4YTk3M2VlNzA3MGUyZmViMzQ4NDMxYjJhNTEyNmMzMzRiMmVkNzBiYyIKICAgIH0KICB9Cn0=",
+            "signature": "bJV/4LlLMVzmdyEgHvx0bnFIJdYOw4Kb5gTDnQkmEyu6OcZZfW9RmwGUg3OOg5bYrYznyem6+YgJ5esmbycnoEnfaFpPfFrIHGnG5GLOIsVxreIwpBgmCTHtr2cK6LNoBMPeizeBs4B5l5+FCxYl8eVTOHeNZfSLQk/fNWN8QcMcTzyj9h6TdmZDZVd0KgpHA4EWkPJEvfidFjL+vYGqQvIj2S09sQT3ft7XpJxyvQURr9NFiwmyfJrXgziGgdG4Ex8V5HSSaqtnJXNm9ZlM0rdR/z14pake4FxcYCOTVr2pwZrdVE4Fd1GzuIO/udzXYX9xuugGgJAINIy0gbTygi2yVMA/H5dW+Gdl2Ej/2tGPk2OYg+G2NgMwrQrGrdlzHZV1vFrchwerasH0nZe5gKEKTve4mTIphFJvpIBdA3ZXhS3djlQLJHgMZOTYoae5Om9446ghXBfEP9qOmdN3kRZtb84j3OBh4N3Pg6YNFx7t2NGXSlt4c/2BcntyWvNqpc5TzUMzfG6rov9Cqz5I7GxBV4Rw5t9nep/kdVQ/30jwaoOdWobNNth90EYcR5qZorKF2xpm2tb0q5sF1QejSq0c1B6Ab4FMBsZGi4mxGLIASK3fqRdk6kuft3kjEFalsDNrfIQY+F8ywUSql5oNQvsHWG9RrQ28u8dGh/2C7dI="
+          },
+          "description": "Fact: Squids have the ability to change the color and texture of their skin to blend in with their surroundings, communicate with other squids and even hypnotize their prey."
+        },
+        {
+          "name": "Toad",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjQxOTUyMSwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YTU2ODcwZmU1MmM3YzUwOTA0NWJhYjNlOWZjNjZkMmMxNjNjZjFjODQyYmEwYTlhYjQyZjk4YTc5Y2IzMDZhIgogICAgfQogIH0KfQ==",
+            "signature": "jyi4xLHYK7c7J7wX8oPEz/cb2TuWFSrBwRWpzbp0Hxoq/iUKhjEIHJTe+1xCKHN97LaKlOqoPD2StsosQbub3g6dHJvsgdbpQsmnXkIejc30Bwvu/uWufCX85qYZjvRgOjEYypn3C/rOkgTBakmN3VeRJ6nYX82iG1Uq39TSpaS7Zwui1oQq8tAQ+d084DxGqOxZu6vVI1679qaJBPvFUWvMUFiyqC16cTUIalkIKeUF9PffpEqNC1ii60bCHQ+CewoNx7Tn/Gl+7/MLOwjYjXC6Khy4SPx9EXq5utlonvQXEY792QXannFKXVb0W5coWvEXKncJ2uev1ejrc2FANrSeaqDxI6l1uQJT1/tMqmJfJeWtc/9BIkGdHtidh29q0KPCSy2xHPuCblSEmbCITz6GAV+JrycmUgnjbotz61nASq19FHdU8OOkv58MPYQ6E0ub0zpOKGaPslaBRTCCIbbTdAJ8QsZPmusiQEQYFUqiPMhnIrc4zvaq4K/IJB1G5yiNN8an2mEpHMd5ts4PH2APuQnVqYqyEuru9wYF4QDfGgi+EM/m39WTo4iMoG8DjNvXEc9YMwxX4GHIDI/enP5DKS1nfwNneDHDl2SEmT7c/nihD7HYGwlVy+6C7thXByh6W23xL/G1lWGwyFMnAkiCrZN7wWdIbcb3xSKSc6I="
+          },
+          "description": "Fact: Toads have glands behind their eyes that secrete bufotoxin, which can cause hallucinations, seizures and death in predators that try to eat them."
+        },
+        {
+          "name": "Hippo",
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjQyMzUzNSwKICAicHJvZmlsZUlkIiA6ICIzNmU5MTE1YzBjYzc0ZjhkOTdmOGFjNjA1ZGMxNGVkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJnaVYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmRhZjg1NDI5ZTg5MGFhYjVkYWI4Y2IwNzA3MTI0YjQxOTM4ODQxNjRkMzBlNGY4MTEyMDI5YzJkZTk2NjA0YSIKICAgIH0KICB9Cn0=",
+            "signature": "IONiENUFV5bEnnv6urVhQINhtYZPNGYtjwPD8woVDh5smm1RsCYitMX0GsOWV64mGRQa73nnSLtgW8vSAoUX0cUUkFI1MtXZsT4RJEpAjKWqeKnf+mG/PzxFmDZKsKr/cPnMrvHXMzszfhRNNnnJBCIk2n0Fua2vMTUin/wU0HrnmU1wrDP95qBga+TkOxIHy2eA34c/kFh/4R52o5CVzZ4/qSyxHiYHwB0mc0MDJeE6kKs9qN8QOtooLBEu5ikgF51a8aJYF6cFN9PwrcfGhuSsPwfqoNT9IjtafpBUgZRQlEYsWPkmaU1S27U/oeUJWBCoMxmRu0WH8XHIeckwU0owlK7hcrSNCBBbbayeJL6IqokdiSeDLwCkn669AIh8bKedBGsbIuFXccm+iUjIODq0COYGStf/+OG24Ixh8yZmPSwlNO+9J05BX0cFDUjpV7KF3qO2gAmmcOrP6im0lChk/dFMwFsqY7mooeFynhTDxGbZZsTrVBqIjUId4q+6GSiea2+ztrHvu8yMrv8qYndpp07fNDqPWlp1LoUCOXhMMHbmGk0SPxy5dpdbYsAmrxu9KXnCof1xIlkhsGRFwwi6w1HfOfsMr+ld6qBeJjl26tJxz1gYBzryzjicDWGAKvQg606bA6+V+Oycjbk25SiQxCuh/YpjTzr42whrHJI="
+          },
+          "description": "Fact: Hippos secrete a sticky pink substance called \"blood sweat\" that acts as a natural sunscreen and moisturizer for their sensitive skin."
+        }
+      ]
+    },
+    "origin": "RIFT",
+    "rift_transferrable": true
+  },
+  "recipes": []
+}

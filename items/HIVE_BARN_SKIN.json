@@ -1,0 +1,27 @@
+{
+  "internalId": "HIVE_BARN_SKIN",
+  "name": "Hive Barn Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7Consume this item to unlock the &6Hive\n&6Barn Skin &7on &aThe Garden&7!\n\n&eClick to consume!\n\n&6&lLEGENDARY COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HIVE_BARN_SKIN",
+    "material": "STAINED_CLAY",
+    "durability": 4,
+    "name": "Hive Barn Skin",
+    "category": "COSMETIC",
+    "tier": "LEGENDARY"
+  },
+  "recipes": []
+}

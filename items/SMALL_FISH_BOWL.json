@@ -1,0 +1,77 @@
+{
+  "internalId": "SMALL_FISH_BOWL",
+  "name": "Small Fish Bowl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "&7Increase the odds of fishing a rare\n&7Shard by &a30%&7.\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SMALL_FISH_BOWL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzc3NDQ3YzljODE1ZjAyZTdjZTk0MTRiNzQ5YTMyNmFiODNiZWI0ZjE0YjljODQ0MThmMGIxMWI3YjAxMzczNSJ9fX0=",
+      "signature": null
+    },
+    "name": "Small Fish Bowl",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "npc_sell_price": 100
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SMALL_FISH_BOWL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "TENDER_WOOD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_FIG_LOG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

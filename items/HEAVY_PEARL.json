@@ -1,0 +1,31 @@
+{
+  "internalId": "HEAVY_PEARL",
+  "name": "Heavy Pearl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&7''It can take years for Hellwisp to''\n&7''create a pearl, but the Matriarch''\n&7''secretes so much fluid that it can''\n&7''make multiple of those pearls every''\n&7''day.''\n\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "HEAVY_PEARL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjUxOTMyMjgwOSwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZGJkNGU1ZDNkOWMwNWEwMzZmYjYyZTZlNzBmYWY5ZTZmOThkMjk0ZjlkMDA2NzgxYzE0NGM5ZjE1Yjg3NzE1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "rqgLeIUxTEyg9MkjvH7TDtSSbjtPrLEsXyyoS2fcM0O7Wyt2NDR+/BOy6iSJGzzzzOpS+Zbhq679Y1NKFaTO0C+/4QChbki57zGlLk1Z3noe/3HzbDmclhqi5KMJ4dKEkkByLSoNswmkagGdCF75+VpP+vMO1vnFBlzTrbwfDRm6lO3QrTVx+mk7+0saI9SwbK+cOE2Zco0ESTh9hCs8Y82/wn43EDGbkv2z1UtNEDERltpgwiGI0V3l8izqjIRyfvcW0elzZABK/8UHmyMRETHdES4YVJk8fN6AnrYTNXVv8Z62w7YKSFgYtdrtbkc86UoYT32ROjdh6bD7e22FfiivRdRoVxwAM0fIm69oKkdikUjjLuirOleRfPiSw98P1mA60pb/vWjucIyw3sYzq1rRik/FdeEhxI2RoS+PHi9q9eCpdr4UYdT14AqCYGIfMkRkcSmzmPrThMqaKTe8fJWpCxn9mYC/rz5hKQ0hkRbKv6LCnxGsCQhKjRDcR5Mi/DgJ2YuMxNUNYH+ysMUMyl0xJ1F2jm/3e1SJheE97IQn6nZf5QoM/wc7cBKseXMoTOQo+vq0K/zq568YlaYkU1lMspS3iNvsJNA03C2PWtjUHSZMfGm0vBHQXowoXRftv33HOMFh3YsKVGOAOh2yoUmoKNRK5DLz2Du2SzpyYTY="
+    },
+    "name": "Heavy Pearl",
+    "tier": "LEGENDARY",
+    "description": "%%gray%%It can take years for Hellwisp to create a pearl, but the Matriarch secretes so much fluid that it can make multiple of those pearls every day."
+  },
+  "recipes": []
+}

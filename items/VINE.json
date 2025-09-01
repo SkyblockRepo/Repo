@@ -1,0 +1,25 @@
+{
+  "internalId": "VINE",
+  "name": "Vines",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VINE",
+    "material": "VINE",
+    "name": "Vines",
+    "npc_sell_price": 5
+  },
+  "recipes": []
+}

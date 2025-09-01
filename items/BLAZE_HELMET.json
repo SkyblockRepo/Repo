@@ -1,0 +1,129 @@
+{
+  "internalId": "BLAZE_HELMET",
+  "name": "Blaze Helmet",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 576000,
+  "lore": "&7Strength: &c+30\n&7Defense: &a+90\n&7Speed: &a+2\n&7 &8[&8❁&8]\n\n&6Full Set Bonus: Blazing Aura &7(0/4)\n&7Damages mobs within &a5&7 blocks for &a3%&7\n&7of their max &7&c❤ Health &7per second.\n\n&7Max &c500 &7damage/s\n&7Blaze Rod Collection: &60\n&8+100 per 5,000 rods\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC HELMET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLAZE_HELMET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE4ODMwMSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzFiMjE4MzM5MmViY2ZmZTIxN2E5ODNjOTZhNTczY2Y5MGRkNTg2ODdkMThmZDYzMDM2Y2NjNTllYjJmNDdkIgogICAgfQogIH0KfQ==",
+      "signature": "ivnfPyZ0z10MEDvezwNheMSCZ5OvCJgKuE1xzsttxOqEtG1T6nnFniaZ8R4NL6hOeanKU+y9f4bAgEHcKMx5+cggSOM0wIZf2QizX3y+ywcK6MXrbWAIGS7TD9eCjS2tmNJdp/toMQbQ7MQClHZLAxuFOrjIZ7GPswvG8q84JrMZ9a1/xUfIh29//S88pnsknv8+KsnEZAi96W/PLqBWWX/ZZi4zkGFFy1exJbcFWV/MDk3tLTNP8LbeJeR9DsSXZ6iA/A4p1hYxJk9QhXVdFhOMIbgjprvfcC/ci2VfXxXuiLfPNdyI3k+YDuoWFdD1dkNLy9kX2lUuKNiXvCZl/XjAJZPN6avhGJW3xtp2VzRbqpjA58LVCqjgM8xYHrBP8BY4OckXMgg/rHlKmPPPmRo9lazwZUtgEjE3BMScRtRVN1z9HP1cm/QKvsA6+CA+ngZDRdLWVIdV4BKKA/KpuPlXRurj5YaTxVV45Tdj+c2IYZHNAtSfWLNww3nBTRTrLcsqJZlnihBF2oy81HnSLBdqvq8UjpQkp3cJAC3lq3JyohJ7DPo8Sf2HGb9g2cX6nENqGPTl0JTlMNUOZ5bmoVT48Fb6IeaVvo/Rk3CzdE3PiO6Qndi1eHChMHGGYVnkI1Oq0zwycjCcpL+ZhQiTmE0Htxkbig+VSPUT9UWjH9U="
+    },
+    "name": "Blaze Helmet",
+    "category": "HELMET",
+    "tier": "EPIC",
+    "npc_sell_price": 576000,
+    "gemstone_slots": [
+      {
+        "slot_type": "JASPER",
+        "costs": [
+          {
+            "type": "COINS",
+            "coins": 50000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "FINE_JASPER_GEM",
+            "amount": 20
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 22
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "BLAZE": "FROZEN_BLAZE"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BLAZE": 7,
+        "CRIMSON_HUNTER": 4
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "DEFENSE": 90,
+      "STRENGTH": 30,
+      "WALK_SPEED": 2
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZE_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "BLAZE_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_BLAZE_ROD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "COAL_ORE",
+  "name": "Coal Ore",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&f&lCOMMON ORE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COAL_ORE",
+    "material": "COAL_ORE",
+    "name": "Coal Ore",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

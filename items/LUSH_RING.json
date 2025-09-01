@@ -1,0 +1,79 @@
+{
+  "internalId": "LUSH_RING",
+  "name": "Lush Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+3\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LUSH_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwOTExMzAwNzA2NywKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMzRiZDA2ZTIwMDQ3OGU0NTNjZDFlYmNhZTA0N2FlNzdhMTJiYzMwMDE4MzEzYzJkYTQ5YzJiMDY4YTY5NWFmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "rcDqcca+XUv+BVrXLx2lAEWaz3ih+jUf/nDYQopnlUn5y1nYU5TH5UgKMShIdRnncbzaHBAyCYeT8rMXz6xRdwuRLdz30sjAa8oYat4BXm/CIYsMnV1fryNgk3UzATrMm7wrC+7+WahvklJBrIy1ZLhHK4Fee/hQJ4F0NiXb9tYLKTcPZpdSqw7rsiUl48CD2eOWdzi3cls0IxpQuONHxsiUR8eoP2hjJIZuDrfXRocfVsdNBES/GGIN+wGyNtUuQunYT+jr76p1+/14teGDTxjLyIodx9BVSWiYQzxkC4eTbmWtHQgtdxYncrs3/7Y82vYPAVqkmGcYlWvqFa8iHShVepXbh271mJ9lwDWz9wSSFMKaT2i3jev7Iuk21F6QBtaQbd/gVOJtetmM79A52hWFqEi0/OvBRNal7dlJrEn53AibAqxdDXob2m8Q+ZmtXB/il7IMKf2AL/97hGob+i4sDdQQ1xjMnKX/vhY54HTWdbIXNS+Ip0Y2qTo5OjW8hSmWs6aUJq0wpq3TvOMADq1ctpsdllIdLiAKGE+7DlAergocfSVXO6JVeXDQS831C3KloDLn00f/ntbt5Ggc9CJaZgOBxa8EcRYQzOzGT2LYqs0QlE+c5RCiFM0xsv2xU7yCYxzZUp9I4JVCcK9irbwlT3TYgPiTckBsmt4TNB8="
+    },
+    "name": "Lush Ring",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "stats": {
+      "health": 3
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LUSH_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "LUSH_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_LUSH_BERBERIS",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

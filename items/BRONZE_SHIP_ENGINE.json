@@ -1,0 +1,32 @@
+{
+  "internalId": "BRONZE_SHIP_ENGINE",
+  "name": "Bronze Ship Engine",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Ship Part\n\n&7Bring this item to &6Captain Baha&7.\n\n&7Grants &3+0.5☯ Fishing Wisdom &7when\n&7attached to your &6Ship&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "BRONZE_SHIP_ENGINE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM1NDMxMSwKICAicHJvZmlsZUlkIiA6ICIxNzRjZmRiNGEzY2I0M2I1YmZjZGU0MjRjM2JiMmM2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJhZWwxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MTcyYzFlNzI5ZTBjYTAwMTkzYWI1ZDQzZTg5M2ZhYmVkZjVhODBmYzY0NzI1ODE3NmU4NTAyNDMyODg1OTI1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "m0nSkXOsoJj9XtNvwGwB+yG7A0gsvtwt9KN+An9G12HJL/rkbitQ6URjZaggV9cGoh2/yUe5gc+VpP1sOASgB4thTyJxuLZbocz40qlyJQFUN15nTivb/fV4oIF7OqKuEUHShIS7HKuTXscgBGvTgujGSv/sG2f32XULUGZdKG2xG9IdYAUc4ISlP9slmsX1dKfJqwvAl1SBE6+jpiHk6j2/wwpCjMOXKWdgBJL/9A4xPsi3q56WWgWTkPBfEnnnkTc/P6WixTcYgM7678C3QhCnuVDwh05WmoK6K7btHrUmfay2tcObQHuQlyzQRClQMcz77UOcYzsHlOA2iKsiFUlO8LJShjiOoSOCckOHM63ysGQqO1J3DBzhIs4DoCjzpQIvvZWHR0SVAiEEuBixJ3cXmgCLYM2tQ8+yZcH5rscvCPzrfubxvKeLwS3yHEt8o3xZNE+W0wluCFhUNcUl5sxUd5XslFwz5swMwrxC1kViZrA5GFzde4pd4GV0Ar1N55UxvVMgKkpveppepIXe3Z9SCJYuV+7GbLnLW3l/g+K5CypbNVD0cSnuJUKb+TQ3+pkAITynI3Odv8tGSMofUFmRzZ5/ZkHdRTxu4lr7NUOZ+u1F+razAUyHaQ/rMfQlWzizeih8rA2Eio7En3V7pdMv9M4Er0/Q7FinbleS1qE="
+    },
+    "name": "Bronze Ship Engine",
+    "tier": "RARE",
+    "unstackable": true,
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

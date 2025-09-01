@@ -1,0 +1,47 @@
+{
+  "internalId": "EXPLOSIVE_ARROW",
+  "name": "Explosive Arrow",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&7Damage: &c+3\n\n&6Passive: Explosive\n&7This arrow explodes after &a2s &7or on\n&7impact.\n\n&7The explosion deals the arrow's\n&7damage split to mobs within &e2.5 &7blocks.\n\n&7You will lose &c10% &7of your &c❤ Health &7if\n&7you are in the explosion.\n\n&7&4❣ &cRequires &aCombat Skill 23&c.\n&7&4❣ &cRequires &aCoal Collection VII&c.\n&7&4❣ &cRequires &cTarget Practice III&c.\n&8Stats added when shot!\n&9&lRARE ARROW&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EXPLOSIVE_ARROW",
+    "material": "ARROW",
+    "name": "Explosive Arrow",
+    "category": "ARROW",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 1,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 23
+      },
+      {
+        "type": "COLLECTION",
+        "tier": 7,
+        "collection": "COAL"
+      },
+      {
+        "type": "TARGET_PRACTICE",
+        "mode": "III"
+      }
+    ],
+    "stats": {
+      "DAMAGE": 3
+    }
+  },
+  "recipes": []
+}

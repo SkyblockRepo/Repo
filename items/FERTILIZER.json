@@ -1,0 +1,27 @@
+{
+  "internalId": "FERTILIZER",
+  "name": "Fertilizer",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FERTILIZER",
+    "material": "LONG_GRASS",
+    "durability": 2,
+    "name": "Fertilizer",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 4
+  },
+  "recipes": []
+}

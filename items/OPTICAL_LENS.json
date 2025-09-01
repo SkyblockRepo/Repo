@@ -1,0 +1,32 @@
+{
+  "internalId": "OPTICAL_LENS",
+  "name": "Optical Lens",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Precise &7reforge when\n&7combined with a bow&7.\n\n&7&8''This vicious material can sometimes''\n&8''be found on the floor of The''\n&8''Catacombs.''\n\n&9Precise &7(&6Legendary&7):\n&7Strength: &c+25\n&7Crit Chance: &c+13%\n&7Crit Damage: &c+50%\n\n&9Precise Bonus\n&7Deal &a+10% &7extra damage when\n&7arrows hit the head of a mob.\n\n&7Requires &aMining Skill Level XXII&7!\n\n&9&lRARE REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "OPTICAL_LENS",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA0OTI2OTM0NCwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQWFkxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3ZjE2YmQ0NTdlZDI3NzE2MDBkMjJhYjA5MGQ2MjkwMzA0NTU3MTE4N2NlZDM0ZTRmMDQzYTBmYTBiYTIxMTQiCiAgICB9CiAgfQp9",
+      "signature": "eVoptKhTHJM0zcVKC/liRY4bWNjE/ldYjm2MMS1EyFNuuuW06He1gsR5Xx0HzSEx/VZWzR37fX2cufUE0NWBJ6oLeyl/SDWmv4a6N8qep6HCrfJ3Dbe0M39fnOEJ48Yp21IqyNHARxIIhHAwcTNHbtjqjPwJyVy19kK0qRxImne8SCMbUKWUml1p29PhGRjin7OXewZtXg1Dnf8P0YFUJfoVbDg1K3pL3msi7y0dfN1l7rIoqvZ45Bc0PPTZVI4IQpPKfUp6+1ffnWskQtQoU0+kVU6JuwrKHwmCfZedqk60UNMV7pjm6iv/tLhdiuEpARBLzS/hK//o29PmHa61yj/uwyyarmKQ+t9RNuNJEdYLEZIo+Fb3qK5YIOOIhCnMyen4r4v6HFmyGSngKz5gTG4Uy1z78e13h1V6g87nGuYireL2TAn4tg2Eyjc2mwcEoWiGCsmWCC1kkErqU3bzZB9/zOCWQ04OoO75zqmsIlixOqF3e8vvj/Me7L6J5i/FqEF9VfaSw+43XOllg8WNwQpYfBhpjKgvlIkjc/yRUZyFnuYDxk59RTes8r3CjQWUdsVNkRkYZY2ndpBMAxqftggQZrved0d8FqKdMOjMpKGT1068B9NL3PKlGjuzMqAt+iqyjouPDzgM5lYTp7XYXC0ZvQ1pRTizWz+qTPaCEMQ="
+    },
+    "name": "Optical Lens",
+    "category": "REFORGE_STONE",
+    "tier": "RARE",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

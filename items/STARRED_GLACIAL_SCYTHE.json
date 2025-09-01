@@ -1,0 +1,133 @@
+{
+  "internalId": "STARRED_GLACIAL_SCYTHE",
+  "name": "Glacial Scythe",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "&7Damage: &c+130\n&7Intelligence: &a+40\n&7 &8[&7✎&8]\n\n&6Ability: Ice Bolt  &e&lRIGHT CLICK&r\n&7Shoots &a1 &7Ice Bolt that deals &c1,700 &7damage and\n&7slows enemies hit for &a5 &7seconds! When hitting\n&7the ground, also creates an explosion of &a3\n&a&7blocks, dealing the same damage.\n&8Mana Cost: &375\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STARRED_GLACIAL_SCYTHE",
+    "material": "DIAMOND_HOE",
+    "name": "Glacial Scythe",
+    "category": "SWORD",
+    "tier": "EPIC",
+    "npc_sell_price": 500,
+    "gemstone_slots": [
+      {
+        "slot_type": "SAPPHIRE",
+        "costs": []
+      }
+    ],
+    "stats": {
+      "DAMAGE": 130,
+      "INTELLIGENCE": 40,
+      "WEAPON_ABILITY_DAMAGE": 1700
+    },
+    "dungeon_item_conversion_cost": {
+      "essence_type": "ICE",
+      "amount": 50
+    },
+    "upgrade_costs": [
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 10
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 20
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 25
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 30
+        }
+      ]
+    ],
+    "catacombs_requirements": [
+      {
+        "type": "DUNGEON_SKILL",
+        "dungeon_type": "CATACOMBS",
+        "level": 10
+      }
+    ],
+    "sword_type": "SCYTHE",
+    "ability_damage_scaling": 0.3
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_GLACIAL_SCYTHE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "GLACIAL_SCYTHE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "WINTER_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

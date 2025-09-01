@@ -1,0 +1,93 @@
+{
+  "internalId": "FORAGING_2_PORTAL",
+  "name": "Portal to Spruce Woods",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Placing this item on your private\n&7island will create a portal to &b&aSpruce\n&aWoods&7 for you to use whenever you\n&7want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FORAGING_2_PORTAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "eyJ0aW1lc3RhbXAiOjE1MTc5ODAyNTU4ODcsInByb2ZpbGVJZCI6IjBiZTU2MmUxNzIyODQ3YmQ5MDY3MWYxNzNjNjA5NmNhIiwicHJvZmlsZU5hbWUiOiJ4Y29vbHgzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NjZjYmRlZjhlZmI5MTRkNDNhMjEzYmU2NmI1Mzk2Zjc1ZTVjMWI5MTI0Zjc2ZjY3ZDdjZDMyNTI1NzQ4In19fQ==",
+      "signature": "jAmS9mo5e/9R55pa0YpIuiw7OXZ7PqbqVJxttoZ++U0v+d9vnBnHyeC7JosQA4CBrvvZez6xRrwly5y2VMuqdHEJ/4XUrQ/C14J0q/thI31cMWEw8ZPBlIXfZPN2xTfYm8zbiFObeVNYclcgJwP6VJVWHtKa18a7YucK9rtgQDxCW1GUoaiBmopYVbzqUrGGkPiIsJaip5B5vxZZKqprFZKNjEbBgdNCF1cBh3jJLTD83PbwdG4GENoOGpJq92UpkHdmJdmQlNPHnLEnKU0d8UG9yH0J3jXljKr8mKrkH7Adz5da11e6UejX7zWeRFgcLCwVmfmaqP/p1el1ZFwS3jxwI9QDO94ZVvpRCrtwzASUXIJKoyyS8kFBPvri2ifNR719dQgowfrzpE9e61UK+3EBnul+iTeADiE3pX0gebWdR2B+pXWkFBEz5rysP4DW8+b/WaoEeiY6+N9TvvR98xTPv979FTr4B+7iwiundwGKsOGlZhEknYVfjz9+5AfDqzzKyIIICCOVfqD1hMxKQDYnNixcCvGvaBFUTCnCRdthbGc7qH5dxYnNB/4lL6AuSVAOn1gcqoi+hT+brRAKt3OhSFtbP1a+L/O1fk+mHa4lNlbwFn9XAb05jXLG0xBVkLPjA/Wz2l0JTvjcyqdE7h4Q7u8/qkGdNOCGDtBKj6k="
+    },
+    "name": "Portal to Spruce Woods",
+    "category": "PORTAL",
+    "item_specific": {
+      "portal": {
+        "offset": "FORAGING",
+        "holo_name": "Spruce Woods",
+        "location_tag": "spruce",
+        "schematic_file": "sb_portal_foraging2",
+        "description_name": "%%green%%Spruce Woods",
+        "destination_mode": "foraging_1",
+        "skill_requirement": {
+          "level": 2,
+          "skill": "FORAGING"
+        },
+        "objective_requirement": {
+          "objective_id": "travel_to_spruce_woods",
+          "objective_status": "COMPLETE"
+        }
+      }
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FORAGING_2_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "LOG:1",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

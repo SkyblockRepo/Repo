@@ -1,0 +1,28 @@
+{
+  "internalId": "NECRON_HANDLE",
+  "name": "Necron's Handle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&eRight-click to view recipes!\n\n&6&lLEGENDARY DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NECRON_HANDLE",
+    "material": "STICK",
+    "name": "Necron's Handle",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "has_uuid": true,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

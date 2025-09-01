@@ -1,0 +1,27 @@
+{
+  "internalId": "SAULS_RECOMMENDATION",
+  "name": "Saul's Recommendation",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Give this letter to &bMort &7to\n&7gain access to enter &cThe\n&cCatacombs &7on your own!\n\n&8* Soulbound *\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": {
+    "id": "SAULS_RECOMMENDATION",
+    "material": "PAPER",
+    "name": "Saul's Recommendation",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "soulbound": "SOLO"
+  },
+  "recipes": []
+}

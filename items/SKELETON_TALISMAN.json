@@ -1,0 +1,26 @@
+{
+  "internalId": "SKELETON_TALISMAN",
+  "name": "Skeleton Talisman",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50,
+  "lore": "&7Reduces the damage taken from\n&7&7Skeletons by &a5%&7.\n\n&f&lCOMMON ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SKELETON_TALISMAN",
+    "material": "SKULL_ITEM",
+    "name": "Skeleton Talisman",
+    "category": "ACCESSORY",
+    "npc_sell_price": 50
+  },
+  "recipes": []
+}

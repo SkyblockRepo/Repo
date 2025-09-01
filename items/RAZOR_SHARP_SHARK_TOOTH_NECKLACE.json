@@ -1,0 +1,63 @@
+{
+  "internalId": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+  "name": "Razor-sharp Shark Tooth Necklace",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+10\n\n&7Grants &a+25% &7chance to get Shark\n&7Teeth during &bFishing Festivals&7.\n\n&6&lLEGENDARY ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5ODI1Mjg5ODE0MCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NzkyNjc2NjY0YWM3MTE0ODg2NDFmNzJiMjU5NjE4MzU2MTNkYTlmZmQ0M2VhM2JkZDE2M2NiMzY1MzQzYTYiCiAgICB9CiAgfQp9",
+      "signature": "nED4f8IfUJyFaG5hAW4VOwQ/gaJATQzEH2x2p0wPEi3k0Z8KkkLjxiJOT2vrYxsmwT+gssXiB5Zi9ea1LbJS64NYXko75KKja6yrZ/oPkBt6Oen8gR1+9navVCB9nqzASNmRHeXq93EG2z/jmuvQtsUVzpyO3xIiOSzxW8fuHETe37eYKUNb6h4z4qB04fTCpMoeV5oSWCT5AUksuicTk5x+3xyRzUS7y24Bi3DXeKHkwhR8Z3HAuArA2ZoTeh87mlvA9A8U2sfa7UHtyiOXiMEPoYQqEJpqXhTEItBPHtoH/t39mpReYpjtqy3zlGMD1Nrr3ljZhDw5GB750vnAXuTpN/PskQ3UtThH9Bniz7WuQFTC+5He2kT/y/F//cCIz9SuHaquCVIMp7PQrKraHwxO24EIKIQxDid35JWTvywLdxeOLCCpAZFHtiMnhINmQCIfTveVRECNkcod5A4OYXMGO1qQC8xTbYczIIPGMwy2Sv1wmnSWwtBSYQBxFWMkPcbkRWM9D5//TG0CpU8oEBeAZviWrsPoxMe5cVXpDsNTbMLEIffbvKij2fZyq/SNaV0XN1rxd4l0dsqACBlNgQOwgQpHGPLymT4/M230+fRv3L0l0jOufQZNQQPwYBH7X6bJ6SjIRYDEHMBxSPYCV3LTeV6Ac35EEmfMqxXizjw="
+    },
+    "name": "Razor-sharp Shark Tooth Necklace",
+    "category": "ACCESSORY",
+    "tier": "LEGENDARY",
+    "stats": {
+      "STRENGTH": 10
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SHARP_SHARK_TOOTH_NECKLACE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GREAT_WHITE_SHARK_TOOTH",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

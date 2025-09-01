@@ -1,0 +1,114 @@
+{
+  "internalId": "COAL_BLOCK",
+  "name": "Block of Coal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 9,
+  "lore": "&7Increases the speed of\n&7your minion by &a5%&7 for 5\n&7hours&7!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COAL_BLOCK",
+    "material": "COAL_BLOCK",
+    "name": "Block of Coal",
+    "npc_sell_price": 9
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COAL_BLOCK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "COAL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "COAL",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "COAL_BLOCK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CHARCOAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

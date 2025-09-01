@@ -1,0 +1,32 @@
+{
+  "internalId": "UNSTABLE_BABY",
+  "name": "Baby Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Combinable in Anvil\n\n&7&7Item skins give your gear a fresh\n&7new look! Apply them just like an\n&7enchant book using the anvil.\n\n&7&7This skin can be applied to &6Unstable\n&6Dragon Helmet&7.\n\n&5&lEPIC COSMETIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "UNSTABLE_BABY",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjYzMzIyMDA0OSwKICAicHJvZmlsZUlkIiA6ICI5ZTA5YzM4ZGUzZTY0MDA2OTAwYzAwZTJiOTQ3ZTQwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4RFRPTUFTX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQyYTAyMzYzNmE3ZjAzMDBhNzRjYzUwZDNlNGRiYjgxYTdiYzE0ODVmMGRhZjZlOWE3YzBmNGQ4YTJlM2ExOGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "xbQz0oWNjpqvf7xF1JRlfDV6H6HBvVBEdcd1MJX+OZch0vbvxDyCOLWJSjQPfpqWADAGAdugjdYNgtw+4UOjkIsaIbPfi942VgPdZ+16CNuf8irWFNlV+vnemRn1J/hxxfBNMMmcOrS62JfDkEHjrnCybX+438fS9lirsyg9leSQhr26qLXQXzKZy+ZZxx/6T7Q7IjdHVMRiSar4RGmEdro7ELfyPjLlC+AeGwfMcAihNFLbOsW8KgE7C3uYjj7p/sXLwG5heDrVX+zoBeKO2Wu6F356HqDHvLyKsg6MPtg+bjSkm8Zk55DfZLrxJ+CkIWGO5gdlxc+94ROEvZh2hNia7/4sz1fBYR5SbgknkJKy8Oxurx80e097zqvLpYZ+xR2kfGkMOC6I/6nRTPeP5NRFsQ2dJ57ty6GSySrJzuCSHDmxyv+N8VUH9T9ttZI2ccRvXC2XqBgWndNQzYbVq7qer6ohofMrnrFnheAUrsYYxh0h5CSzjr7qox7lCrlguHT0Q9gCQ/Zn5OG94IBVzbg3LjjdlD4gRxp4EECEisvuNaCSalIVdRRlnzKkGaN3u/1XJVaof6po2KFPzXq0oosB6p5hPuOLYgKnEbVsAXr13mL3ny9ZWM6WdEwtw3FyrBjhlmQM2vcM93y9rtisT9WZC3KkKdE2xMfddmQn0qI="
+    },
+    "name": "Baby Skin",
+    "category": "COSMETIC",
+    "tier": "EPIC",
+    "unstackable": true
+  },
+  "recipes": []
+}

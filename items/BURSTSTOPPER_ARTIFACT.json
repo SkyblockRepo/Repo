@@ -1,0 +1,87 @@
+{
+  "internalId": "BURSTSTOPPER_ARTIFACT",
+  "name": "Burststopper Artifact",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Strength: &c+2\n&7True Defense: &a+3\n\n&7If an incoming hit would deal at least\n&7&c50% &7of your &c❤&7, multiply its damage\n&7by &a0.9&7.\n\n&7&4☠ &cRequires &5Blaze Slayer 7&c.\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BURSTSTOPPER_ARTIFACT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk2ODA3OCwKICAicHJvZmlsZUlkIiA6ICI4NzViMjk5MjQyODM0Njc1ODcwMzlkZWUxNzVmNTc0YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMc0thaXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODljYmJiZTdlZDAzNTZkNTg0NjU5NmM0YWQxY2ZhOWZhNzE5ZGIxYzQ1NjhmM2Y3ZjBjNzk3OWU3YTQwMTIwOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "HFa+uTVpobpHFKxwmGTam1DJZii1PXxaFXNoWer2hHs5W02aearwGULdMnxLlfppIYpnpvgNGsHsnf3jYjqrXvNeWxvtCSeQU1IzxdEyky5nXd3EJ7YIzwEIm06uGLXuv87oBJVeEnfZMWXfLcIyMYxd7wzKQev41cu8iyEX98CSNmvxJueXR8oJHqFpsfRMa7k27/jfu81B/4iMJK1s1erpswxwlSreep8kGknf7zIfWtvxbUgacxcSsBfcUYaI3ZPoo4nYj7Hm2+BjOlYYAsR71LNKHhheQcwhrDzXtI+Zx6Uq6TKjGB35a85fz3eUdyy2poiqoWHi0C8BOtgk8dSlxMUeTkkGDLVls8ePOT90yc2ix/txhYfJq8TyemP/YyD6uspmOtBKzDBpLvXfylvKwhVhu3GrzmdYKPNHESLZi2C50ex2hvmqQpb9RnRol8NPV7twCg2ox26K4dpsUuFCUNRAzNGuU82+URW/g5Swh4ZiiclORJ68oaiXnbZE31xb0Ft4vrvb75t/GxwM+Nbo6AVwsoNBJqN5BoCPAZLXnNu1411eFfJ06Pe5LQnrMQuFLmWorRK6RKt50crPU0TJUu8flE7yrkuw2+Gbma2VTw4p8aRl7PWcDSVejDpfy7em3lNG0iVWXEUAKfQUCi8NKvO38kH5IxmeZ5vMyyg="
+    },
+    "name": "Burststopper Artifact",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "blaze"
+      }
+    ],
+    "stats": {
+      "STRENGTH": 2,
+      "TRUE_DEFENSE": 3
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BURSTSTOPPER_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "BURSTSTOPPER_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "WHIPPED_MAGMA_CREAM",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "MOLTEN_POWDER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
+}

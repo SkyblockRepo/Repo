@@ -1,0 +1,27 @@
+{
+  "internalId": "SILKWIRE_STICK",
+  "name": "Silkwire Stick",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Click on a &eSilkwire &7to attach to it,\n&7pretending to &bfly&7.\n\n&7Once attached, &e&lCLICK &r&7to hitch\n&7forward!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SILKWIRE_STICK",
+    "material": "STICK",
+    "name": "Silkwire Stick",
+    "tier": "RARE",
+    "glowing": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

@@ -1,0 +1,32 @@
+{
+  "internalId": "RIFT_JUMP_ELIXIR",
+  "name": "Jump Elixir",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Grants &aJump Boost I &7(0:20)\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RIFT_JUMP_ELIXIR",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTIxMzI3MzYzOSwKICAicHJvZmlsZUlkIiA6ICI1N2IzZGZiNWY4YTY0OWUyOGI1NDRlNGZmYzYzMjU2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYaWthcm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjJhYzk5MjZkY2ZiNzY0MWExNjIxMjY5MTEyNmUwM2Q5NWQ2NDZhZDM0NWI3NWExOTIwNjFhMWE5MzlkODkwMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "T74h5+cXHqHU6/SXuanh+dD+8BiQd2kExCCAlZ6uZ/x8uZkMw3ZyaUwS5HFAnQMLSeIRZQXn0PU5TKc2z61IbHrT6+kcj46dep1DRty4f09uvHCtCLSk+roG7/RxXaCROOzUZI/IGMMl3+TWls2sVuiEgzhC8FBmpfROQUi4wrgwt7zWys99CzYd7+t22VHd8op+N8XQrQxVBBJHsMxb2O7kiZlf6hegTo5WdpQJ6ilfsKMGlWU5dG2lDRDEL4BnQOfo66WCuB7Qr9suq4nO082/LkvD6KMuuT99LU1nT+hlgiE9nvHWoF+lrvjgp+C/iHdmhZLhGTie4uBKfw5vGmUTxiH1wj3pzV9PC3rhcys7mJbsS0gzBG8XQXQOodk2ShMPX4hRc5XZ8keMnQ8cuc7Kbgr/H+iTYHjmz7aSrtb1hS0840NhmU73yFkEKFtDcSd08JTQ3Yrb3/SCO0CYBGXXuOitVwqOhQWLW7JRVriMrSRemk1D4hs3mIO0nqpqaLPrXBcW8UbsHSIdNARJJATC+Wgni6FkNC6QoUklc944L/bEHb8KFGLYaMVdCq4pv4CAJC9NG1Rj4G8Tkm3aAVAbMG0fGSmuLWNfhjs2sEMES32YsBMN9jdROU0bIH/Z7CeKvJntIbPXAsvRiaTbiFxv4Rz32F6PTL1evI/D1Ag="
+    },
+    "name": "Jump Elixir",
+    "tier": "RARE",
+    "unstackable": true,
+    "origin": "RIFT"
+  },
+  "recipes": []
+}

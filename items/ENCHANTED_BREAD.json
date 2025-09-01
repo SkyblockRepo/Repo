@@ -1,0 +1,91 @@
+{
+  "internalId": "ENCHANTED_BREAD",
+  "name": "Enchanted Bread",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 60,
+  "lore": "&7&8Collection Item\n\n&7Increases the speed of\n&7your minion by &a5%&7 for 12\n&7hours&7!\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "ENCHANTED_BREAD",
+    "material": "BREAD",
+    "name": "Enchanted Bread",
+    "glowing": true,
+    "npc_sell_price": 60
+  },
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_BREAD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_BREAD",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

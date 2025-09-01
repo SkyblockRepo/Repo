@@ -1,0 +1,32 @@
+{
+  "internalId": "ABICASE",
+  "name": "Abicase",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Mining Wisdom: &a+1.5\n\n&7&7Grants &6+1 Magical Power &7per &a2\n&a&7contacts in your Abiphone.\n\n&7&8Only ONE case will have an effect\n&8while in accessory bag.\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ABICASE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAyMDY2ODk1MywKICAicHJvZmlsZUlkIiA6ICI5NDczNjdlMTE1N2Q0ZjQzYTZmYmY0MGQwOTY3MjY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aW5uZXIzMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMjEyOGY0OGQ5OTcxODY1NjNmYmM1YjQ3YTg4YzBkMGFhYzkyZmEyYzI4NWNkMWZhZTQyMGMzNGZhOGYyMDEwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "FGyjBYcfFgf81Ym/QKzaDs3HK/4IOKgQXIVxAwYftNXWONcR5f3VbqxMZYs3UCquXZa4u0AwLr1pAbjLlih9fxcBnytyYt6a53hlzCzlvdvpKCq7rWfHyoXHJVkdD8Gj8ruGBOZ1P5KhiirAHggxY0pAlcPXuQXYg3UsJWdx8vT6x/L16pQsxzF6z9J0neR/GYqEZBJ9mSgVoEdGACMk4v2rHNmv9K/x8cZO8+4rXGPpY9UdeU0+Nw9RdUdZzhikWTc4VbEgsMgvpWYDFwjZ/Lh7HQ93qkfiCSvLwvyVrAK4NV+df/IMKbGFUOXCG2VYC/n4fSnFS2SFC5lbcUucI8Dh8F2TY2tNwcY8oBhhIHgDajKsFHZsrqk8e/y5e+u1WBxc/6hDdt/c0rDE6S8faUQLwdbHcd0ksiXVbVuFFtnpibiMH09xCm7niMGZ0DslZzzgblMaom3RmQoBiurZ7MAodN0QY+26WOxrJguWfRONSNEI1kPUxuVopSw3duvRF8OUulZiGJXZM1gwHwlC6B3irbiN5AEBQhP8xSkfr6mzncT0UqZPpaetibmPH4ljI/aJyFxeYAU8ZRm4F9zZ+LB5Pw8gk/6cT3/NO05Tl2CUjfsP8QNiQVqddJAeW3cJiV1JbCxuHsFnBQhjp2wC46poW+kDUOA3hEupHXpfkYI="
+    },
+    "name": "Abicase",
+    "category": "ACCESSORY",
+    "tier": "RARE",
+    "unstackable": true
+  },
+  "recipes": []
+}

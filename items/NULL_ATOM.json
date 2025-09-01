@@ -1,0 +1,27 @@
+{
+  "internalId": "NULL_ATOM",
+  "name": "Null Atom",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 33333,
+  "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": true
+  },
+  "data": {
+    "id": "NULL_ATOM",
+    "material": "WOOD_BUTTON",
+    "name": "Null Atom",
+    "tier": "RARE",
+    "glowing": true,
+    "npc_sell_price": 33333
+  },
+  "recipes": []
+}

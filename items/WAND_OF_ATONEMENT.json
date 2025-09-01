@@ -1,0 +1,62 @@
+{
+  "internalId": "WAND_OF_ATONEMENT",
+  "name": "Wand of Atonement",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Huge Heal  &e&lRIGHT CLICK&r\n&7Heal &c170❤&7/s for 7s.\n&7&8Wand heals don't stack.\n&8Mana Cost: &3240\n&8Cooldown: &a1s\n\n&7&4☠ &cRequires &5Zombie Slayer 7&c.\n&6&lLEGENDARY WAND&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WAND_OF_ATONEMENT",
+    "material": "STICK",
+    "name": "Wand of Atonement",
+    "category": "WAND",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 7,
+        "slayer_boss_type": "zombie"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "EXPERT",
+      "mapped_item_ids": []
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WAND_OF_ATONEMENT",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "WAND_OF_RESTORATION",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

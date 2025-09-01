@@ -1,0 +1,28 @@
+{
+  "internalId": "CASTLE_OF_STONE",
+  "name": "Castle of Stone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CASTLE_OF_STONE",
+    "material": "BEDROCK",
+    "name": "Castle of Stone",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 1,
+    "dungeon_item": true,
+    "serializable": false
+  },
+  "recipes": []
+}

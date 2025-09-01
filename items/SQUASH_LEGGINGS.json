@@ -1,0 +1,108 @@
+{
+  "internalId": "SQUASH_LEGGINGS",
+  "name": "Squash Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Health: &a+180\n&7Defense: &a+35\n&7Speed: &a+5\n&7Farming Fortune: &a+30\n&7 &8[&8☘&8]\n\n&8Tiered Bonus: Mento Fermento (0/4)\n&7&7Farming Sugar Cane, Cacti,\n&7Mushrooms, and Nether Warts has a\n&7&a0.005% &7chance of dropping a\n&7Fermento. &7Grants &60☘ Farming\n&6Fortune&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 35&c.\n&5&lEPIC LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SQUASH_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "12,74,22",
+    "name": "Squash Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 35
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "SQUASH": "FERMENTO"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "SQUASH": 9
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "health": 180,
+      "defense": 35,
+      "walk_speed": 5,
+      "FARMING_FORTUNE": 30
+    }
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SQUASH_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SQUASH",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "POLISHED_PUMPKIN",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "SQUASH",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "CROPIE_LEGGINGS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_MELON_BLOCK",
+          "quantity": 24
+        },
+        "7": {
+          "itemId": "ENCHANTED_COOKIE",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "ENCHANTED_COOKIE",
+          "quantity": 10
+        }
+      }
+    }
+  ]
+}

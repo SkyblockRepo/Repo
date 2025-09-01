@@ -1,0 +1,94 @@
+{
+  "internalId": "RADIANT_POWER_ORB",
+  "name": "Radiant Power Orb",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Place an orb for &a30s &7buffing up to &b5\n&b&7players within &a18 &7blocks.\n&8Costs 50% of max mana.\n\n&aOrb Buff: Radiant\n&a• &7Heals &c1% &7of max &c❤&7 per second.\n\n&8Only one deployable buff applies.\n\n&7&4☠ &cRequires &5Wolf Slayer 2&c.\n&a&lUNCOMMON DEPLOYABLE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RADIANT_POWER_ORB",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzQ0Nzk4NTQxNCwKICAicHJvZmlsZUlkIiA6ICI2OTBkMDM2OGM2NTE0OGM5ODZjMzEwN2FjMmRjNjFlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5emZyXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk0ZDBhMDY4ZWE1MGE5ZGUyY2VmMjNhOTJiY2E0YjM2NzhkMTJjYThhMTgxNWQxM2JlYWM5NGRmZDU1NzEyNSIKICAgIH0KICB9Cn0=",
+      "signature": "tjSk3xjfkER3YgoDX35UIiTED4Ec8wAmXLsT7CKQyUJBveqWOlkFNhbOzSTdFWloA9V9zWT2eQDh1Nyw6Ah8PA6gN2BOpHproxDlS7uQgPxu9ft5mWKkd8pU7oZR40xgJtE/Gy9SaV4noZwUbXxsP0YOXRK89b/lf94vZUFtyFLXMymxG3fLUAFbJfq/umjp/qBzphFhDojTGs1iWvA055AOnwmb+nktO9XJq1gCIW5WcOUqPpLQbbG2boTpEwUgIbclahRTZbchiNgo5CMh4YqDpcrfkuulFPhEe0zle3lD5+k9zXmk5Tbe6vyqz7zY67khN5Mb2TnTQEdBkncHmU44ibbGZNRn4ONnFaIyk0Oawjab5H7mZahToFKZzgeNB4wg/pY3Qv8x0U5LUtPcLpRto0BEr4jjTv/oujDvFBic+jimN9oSPkFaQO5TQtUmYnKeDvfONYptPuHeUuD0szn6r1Xx2sICeBBAbpTnGO17yRbdldN2mnnGd5vgb3u7oHDQ3nP2vFcD5KYtlBDWpdOPGwSa8xc9ZBy/METkltBZDZagc0keRJVZJrSThvbKvJUhGRUa5DIm0dm2DUTgrjorCYJRmIDd60rypJ5vG9W/6xQ+Cvxsd8Eca/CvWEM8nsJlK+07ttO+iyZ/jzpNCcYkpCvDw+SpeSnEq136B1k="
+    },
+    "name": "Radiant Power Orb",
+    "category": "DEPLOYABLE",
+    "tier": "UNCOMMON",
+    "unstackable": true,
+    "requirements": [
+      {
+        "type": "SLAYER",
+        "level": 2,
+        "slayer_boss_type": "wolf"
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "RADIANT_POWER_ORB": "MANA_FLUX_POWER_ORB"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    },
+    "double_tap_to_drop": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RADIANT_POWER_ORB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "ENCHANTED_EMERALD",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "WOLF_TOOTH",
+          "quantity": 2
+        }
+      }
+    }
+  ]
+}

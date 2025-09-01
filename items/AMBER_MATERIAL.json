@@ -1,0 +1,49 @@
+{
+  "internalId": "AMBER_MATERIAL",
+  "name": "Amber Material",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Ambered &7reforge when\n&7combined with a mining tool&7.\n\n&7&8''Put a bunch of Amber together and''\n&8''it'll make more Amber - Throin the''\n&8''Forger.''\n\n&9Ambered &7(&6Legendary&7):\n&7Mining Speed: &a+100\n\n&9Ambered Bonus\n&7Increases your chances of finding\n&7&6Golden Goblins &7and &bDiamond Goblins\n&b&7while mining by &a+30%&7.\n\n&7Requires &aMining Skill Level XXX&7!\n\n&5&lEPIC REFORGE STONE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AMBER_MATERIAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTU5OTk2NjQ4NywKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWFjZTZiYjNhYTRjY2FjMDMxMTY4MjAyZjZkNDUzMjU5N2JjYWM2MzUxMDU5YWJkOWQxMGIyODYxMDQ5M2FlYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "qSSjbg5ttEzxKqTJ5kM2YaWXhX5ffqn0YHZ53x41JTFEjO3cdM0kUg6ebvL8uvtzzb5XjmYrF78Hon8/NHn8RKqgHdbTGOMZAgaLr0LAEM5WOUoXi6piU73s6nX4HmCk1xatUe9fZCE44ZNanzRZzdEWv5sYL4CajhhsSzP1Bbvyuw9sER+S83jfKrAM1jMWoCNK4T97x97Z34q7X9Y/FzZ0uOxn6MvIcHvzYj0PjtIX/1ktFrFsldKMrS626r58yrwg5P/edSl80rlpz9zi7GTJiAl1ur1dmJ6beuTmR1UHbQ/Kdoz669SBbu424XdFENfM215nOHzuA+6BkxdOEdGbj05tu+/bXvgmgWvemX4G4H7jKT6BWE07xqFpeXOhJl5tbfpsw6JpWH+kMBBfb/ijDEE856OOl0mq64XC7PXZWyAwXTSqLm585BAJEw55RNRztC/XXFkUbZymLOITTJmLXnjLN6ajLpussR/khvvTbwB2HVdU+P4ivZW/Vn0zCpI7e+tI8K4nEFgARFrTXQpQxT7iz6y1yYB/O5BOz3DgDdZl1j/+MxPI0ubBzBuq/IMmWYG+TyJNpFSHVfchkCyERjvnvFKyC/6wn9xF8IIEKo/AFK40p6teB6zwsHp7ALZCwg4HdD8Yd8Nmk2m8n0EFKl/qvwkABG51B5RzbgM="
+    },
+    "name": "Amber Material",
+    "category": "REFORGE_STONE",
+    "tier": "EPIC",
+    "npc_sell_price": 1
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AMBER_MATERIAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FINE_AMBER_GEM",
+          "quantity": 12
+        },
+        "2": {
+          "itemId": "GOLDEN_PLATE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "internalId": "SALMON_BOOTS",
+  "name": "Salmon Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SALMON_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "193,60,15",
+    "name": "Salmon Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "npc_sell_price": 100,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 13
+      }
+    ],
+    "museum": true,
+    "stats": {
+      "health": 85,
+      "defense": 20,
+      "sea_creature_chance": 1.5
+    }
+  },
+  "recipes": []
+}

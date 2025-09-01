@@ -1,0 +1,31 @@
+{
+  "internalId": "DARK_CACAO_TRUFFLE",
+  "name": "Dark Cacao Truffle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Consume to boost your &6☘ Global\n&6Fortune &7for &a60m&7.\n\n&7Keep this item in your inventory to\n&7increase the bonus up to &6+30&6☘\n&6Global Fortune&7, at which point the\n&7item &c''evolves''&7!\n\n&7Current Bonus: &6+0&6☘ Global Fortune\n\n&9&lRARE&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DARK_CACAO_TRUFFLE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjYxMDEwNCwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI5ZGIzNzNjYWRiZWMxOTEyYTlhYjM4NmQzMWNlYjNlMGNkNGQ2YTY0ZjIyMjQyNjU4OGEzYjJlYjMxZWQyOSIKICAgIH0KICB9Cn0=",
+      "signature": "G/6KKY3+xhIhZK4PKCOx1uRYkMJoWlROB7nYw64C3m6BPHbdIX6dqXvLSk9MdhBnBke6LlUXY5qPHfVdZWdoQpNHfTU7Rok/I+PaPmgMUaSnVHbcohpEmCIoZ2m/4GdYTEcNCDnYn1bBPykhpWutIuFW+sGfidn+Gys+IGYLh55zb2Mkyedw6H/HCLpF0yXOzyUNUNvmEM5oWEu/e4Sxpp7Hv0aqp4OjC/h4k+R32Gl2cfcKE5aM0rqNHCimZ8xBVBbfrnNf+hzPkdhgUOiggXTf63+MCnIkn/E/sXyrHX0jdylXyJs4OSj6IqttX8kw4SDeezN0/lG3vIiKWuHt383s0MrzxsfKPI1EP1kG4wkjw7o/rLn08FuubfPKCpVC7BAuFbdWBwdUqAsm9WvZoGYC5ggq0wOcyI5XvhA+AXSPy8MoV/h+tmyQ70t1+44IVbX01DQcp5HWwNyUX63UFyXFIT0dIAYBIiKtrrpcYBDLaf9J1EzOUg0vkQ8/Kf0Poj36JYuwHI/hp2+QJoFMXY7uGdxeRIwUeo+Fnw35j/7lvwhRA4j9x9ToixqyMeh+k4CvpD8rM/vNfnbajLJQ1jPpWIexg3PqyDEbcpvb+Q1kzH9pGP567flT9z+4bD79IilNu4RPgFI+vRSMNsxnkoxl9YCxvwCjHvZxli6WEhc="
+    },
+    "name": "Dark Cacao Truffle",
+    "tier": "RARE",
+    "has_uuid": true
+  },
+  "recipes": []
+}

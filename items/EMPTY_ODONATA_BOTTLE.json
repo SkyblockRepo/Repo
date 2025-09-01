@@ -1,0 +1,27 @@
+{
+  "internalId": "EMPTY_ODONATA_BOTTLE",
+  "name": "Empty Odonata Bottle",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Hold this and look at an &9Odonata &7for\n&7&a3s &7while very close to bottle it.\n\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "EMPTY_ODONATA_BOTTLE",
+    "material": "GLASS_BOTTLE",
+    "name": "Empty Odonata Bottle",
+    "tier": "UNCOMMON",
+    "origin": "RIFT",
+    "can_interact": false
+  },
+  "recipes": []
+}

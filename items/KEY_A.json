@@ -1,0 +1,25 @@
+{
+  "internalId": "KEY_A",
+  "name": "Key A",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "KEY_A",
+    "material": "IRON_INGOT",
+    "name": "Key A",
+    "tier": "RARE"
+  },
+  "recipes": []
+}

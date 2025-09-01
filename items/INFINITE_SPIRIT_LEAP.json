@@ -1,0 +1,33 @@
+{
+  "internalId": "INFINITE_SPIRIT_LEAP",
+  "name": "Infinileap",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "&6Ability: Spirit Leap  &e&lRIGHT CLICK&r\n&7Allows you to teleport to any teammate! Grants\n&7&a1 &7second of immunity after teleporting,\n&7immunity is cancelled upon dealing damage.\n&8Cooldown: &a2s\n\n&cDungeons only!\n\n&5&lEPIC DUNGEON ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INFINITE_SPIRIT_LEAP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjYxMjc0MiwKICAicHJvZmlsZUlkIiA6ICI5ZWU3NTUxOGQyZWE0Y2Q4OGJiNGI1YTZkNmVhNTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWNyb3MxMTgyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2Q0YTIwNmQ3NzU3ZjQ3OWYzMzJlYzFhMmJiYmVlNTdjZWY5NzU2OGRkODhkZjgxZjQ4NjRhZWU3ZDNkOTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "Z3yA2q2tmfBNE8C3OdNOrOGLRFaQ0sABP+BGW5PKMDGqBpzgVkQm8d95GSwmEQ9HTTSKlvNwx/Jfrb+mHrSAMRDV02m/SPhLUuOXMY8rQeFAKEonMil0WuOnt3tJPmp/vIYYsKhhwHy2pGu4HqmZupzXkW4l+cCRn4ZgWnd5wWQYWq0gvt3Pd7oNs/u3vjdCPas/fiOzn4ijXfZy2bIbJXyBVpf1DBq6oH0YFTvFFbcOq4AdC3Tzoy84bQGNrcgP4S1Ah9dPo3GWTcZNVxO2kF8gfBIK7RSPH72MaVGEQBPeA/gWicq8T9YxfEMlUnfjqfdJO5MJ5psugJjhbsfh0Pys0giz8BAW2rKW6dLLwnJfWM/OA36D4ZelA7iWbchkzU1IyRMDIYqsjApmfFRCyNFcR/PBwd8rPCsV49cq1EFk1tR58LMsHhkuMBJQyiBrq61saxxEcP8NFZnRc2+3+w9u+y+ge7EnRDs2x34wa+aBQKRZezS1EgZe61aH3kWGPBFh6v3ki5aocVuyGd8gjKlW80iOBrwimoiRRtSpdSQ+boo8g7GtP+gn+cRYP9miPsz5DiBTnHk8CYdO19JPm+je0PFKpv+/jpUkBAwG8YbQihSk7Dktb5MecWzy97SWTFOx+iO7HorXzTBiOZgXj4+kp4Ptqc8rtx57583Vybk="
+    },
+    "name": "Infinileap",
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 1000,
+    "dungeon_item": true
+  },
+  "recipes": []
+}

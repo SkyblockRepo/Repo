@@ -1,0 +1,88 @@
+{
+  "internalId": "MAGMA_FISH_SILVER",
+  "name": "Silver Magmafish",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1600,
+  "lore": "&7&8Collection Item\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MAGMA_FISH_SILVER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ4ODA1Mzg4MywKICAicHJvZmlsZUlkIiA6ICIzZjM4YmViZGYwMWQ0MjNkYWI4MjczZjUwNGFiNGEyNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjazM0Nzk0MjM1NzUzNzMxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1M2UxMGMwNzEyZmYyOGQ4NzdiOWNlZjk5MGQ2MTNiMjFkODQzNzMyNjYzZjRhYWMzODVkYzdkYjk3YWM1NGEiCiAgICB9CiAgfQp9",
+      "signature": "R6E0gPfDMxYNEDhzx3EFxMGnXbIUlBkvCAl1piOMBeOMGyvR6+3tpxUi7Ek9ceZduJeFdaKMMUDDaczGKbaGyoG8bkSIuF1J9N73ns3vYcnNcUtkNPqZQ7E6EMV1HpVLnnEMS+oyGT3VnT3A96EcO0F2G/EbHDjdKjCsVISThYl3YqWrIOisjB8bkGeL0h5o0KHEDkxtjNMUVox3vofX93dnlVrIUn51GOtlWbJKhesPMgEHKzXApgG4/4IbiKNKUQ32k/6RZEBPZAOWRz5mnsyL84QS/AjeETbL/gAi7oYMpVcyhBem8Vrbk6VGnRKZSE696H2mA537OhNfZLuxomSTmAbklyg0Tkwea/Fytx182updqKLGgnen5gxqjN/5z5+OyCfUzfWzkZvu7UNvRMlbe3Kb/HKMORzi1CJWSKc9cNpPryT1L62Wj+DqqQDyUIg/pnAmPj3pkyDIHmn3I40NaGkIr3Zya35DEoNBtJme/glMuB+COvCyXhunz9CE5fJ9MwqtyieMH3OQUzwh8A3aOGQV78NpGzL5SZebuxeelLMrDXjACfB+S3Zo9gT5oxF+WM4qYB3eJ/OAdmNmbmVXCwUEPB9a1TsKB6oaNrki8RbhtknJ48DTeYdD/BV9Kr+3fhh0cltw2A6OdaBXPOpOAHUMdn/DZgAiEEB1/lI="
+    },
+    "name": "Silver Magmafish",
+    "tier": "EPIC",
+    "npc_sell_price": 1600
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGMA_FISH_SILVER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "MAGMA_FISH_SILVER",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}

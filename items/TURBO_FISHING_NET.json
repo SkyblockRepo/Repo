@@ -1,0 +1,82 @@
+{
+  "internalId": "TURBO_FISHING_NET",
+  "name": "Turbo Fishing Net",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7&8Hunting Tool\n\n&7Pull: &a+50\n\n&6Ability: Yoink  &e&lRIGHT CLICK&r\n&7Throw your fishing net at swimming\n&7fish to catch them!\n&8Mana Cost: &310\n&8Cooldown: &a0.5s\n\n&7Throw Distance: &a+100%\n\n&5&lEPIC FISHING NET&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TURBO_FISHING_NET",
+    "material": "WEB",
+    "name": "Turbo Fishing Net",
+    "category": "FISHING_NET",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 7,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "pull": 50
+    },
+    "has_uuid": true
+  },
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TURBO_FISHING_NET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLEXBONE",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "FLEXBONE",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "MEDIUM_FISHING_NET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "STURDY_BONE",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_SEA_LUMIES",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "STURDY_BONE",
+          "quantity": 64
+        }
+      }
+    }
+  ]
+}

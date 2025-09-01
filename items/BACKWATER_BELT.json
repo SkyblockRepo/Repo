@@ -1,0 +1,52 @@
+{
+  "internalId": "BACKWATER_BELT",
+  "name": "Backwater Belt",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "&7Sea Creature Chance: &c+1%\n&7Fishing Speed: &a+2\n&7Treasure Chance: &a+0.1%\n\n&8Tiered Bonus: Swamp Soldier (0/8)\n&7Increases damage dealt to &3Sea\n&3Creatures &7by &a5%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&a&lUNCOMMON BELT&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BACKWATER_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTAyOTU0MSwKICAicHJvZmlsZUlkIiA6ICIwMzBlMDA1OWQwY2M0YTZhODY3N2RkZWU3MjEzMjg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbXVnRm9vZGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjMTUwYmU4NDlhMzkyMDhhMzhhODNjNTYwNWU3OWFlZjkzYTEyYjM3MDcyYjkzMTY5Mzk5MDE5MmNiNzdhMTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "ux9EmmyiDWpBRoRyroSLJtmhkDRswacqavgGHv3xDsIDoMVNl8bx5P0xPs3+iPxLot/W9i5LiHXIEdMXevNmvZvYbiglZnd7MpbHc2ME9/jMiXogPsvD06xhjCu9zdr9w73ATvC0aCoyY0bb7ccrKUlEcoKJFa2V3EbIjlcyMnctmJQBglMpwdhj1lY1MeIvu/AKLmYsN1DxuteHOson+4QLVZPEbGA/XGhH7o9M6ZvgObsh7JKfimD6exeJ4ns/DbnKwlggv+fqecoNXpAsKgxQwO8eys7wyMTvpwvpqCBRyPDQJt4UNVhY5KankkZQnVeHG+CYb4SP/BGtSrRGufFpI7pC1VzuaGaymEo+MkqtQV29BraDwpG5y0S/8zO49SLl4d09IuxJsh/DwbD+SLuGKYv7DFtrINfBjypmuN7emMJHFexzweT8UnA3NNdSlp5lBpP0Iy0xW7eKMYz+roJM50ECPeZQfx1Q2SMCy5UL0nkEKlx/nmwJ+BjX7d2YsvV7Ksmx8veDOvYsdKE+5uTvByQfIl761n9w1paSRN1CiuqVokDRxylzYdwed/I6Tuz+xkyddab0pkc3IFQdfK8ZPwL8SIAWzWvooxyrQMkQMAfldfZl01PLaWM2+DvqyawqNmITF98n6+B4PUGnJNbplToqFw4vDfEWb0lIwxI="
+    },
+    "name": "Backwater Belt",
+    "category": "BELT",
+    "tier": "UNCOMMON",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FISHING",
+        "level": 5
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BACKWATER": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "fishing_speed": 2,
+      "treasure_chance": 0.1,
+      "sea_creature_chance": 1
+    }
+  },
+  "recipes": []
+}

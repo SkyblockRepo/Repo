@@ -1,0 +1,52 @@
+{
+  "internalId": "CANOPY_LEGGINGS",
+  "name": "Canopy Pants",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "&7Health: &a+110\n&7Defense: &a+30\n&7Sweep: &a+6\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 8&c.\n&a&lUNCOMMON LEGGINGS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CANOPY_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "0,102,0",
+    "name": "Canopy Pants",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10000,
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FORAGING",
+        "level": 8
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "CANOPY": "FIG"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CANOPY": 3
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "sweep": 6,
+      "health": 110,
+      "defense": 30
+    },
+    "can_have_booster": true
+  },
+  "recipes": []
+}
