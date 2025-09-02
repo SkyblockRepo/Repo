@@ -44,10 +44,6 @@
       "STRENGTH": 15,
       "CRITICAL_DAMAGE": 20
     },
-    "dungeon_item_conversion_cost": {
-      "essence_type": "SPIDER",
-      "amount": 100
-    },
     "upgrade_costs": [
       [
         {
@@ -84,48 +80,8 @@
           "amount": 1500
         }
       ]
-    ]
+    ],
+    "is_upgradeable_without_soulbinding": true
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "THE_PRIMORDIAL",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SOUL_STRING",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "SOUL_STRING",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 64
-        },
-        "5": {
-          "itemId": "SOUL_STRING",
-          "quantity": 64
-        },
-        "6": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 64
-        },
-        "7": {
-          "itemId": "SHRIVELED_WASP",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "PRIMORDIAL_EYE",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "SHRIVELED_WASP",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

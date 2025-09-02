@@ -1,6 +1,6 @@
 {
   "internalId": "ENCHANTED_CLOWNFISH",
-  "name": "Enchanted Clownfish",
+  "name": "Enchanted Tropical Fish",
   "category": null,
   "source": "HypixelAPI",
   "npcValue": 3200,
@@ -19,67 +19,10 @@
     "id": "ENCHANTED_CLOWNFISH",
     "material": "RAW_FISH",
     "durability": 2,
-    "name": "Enchanted Clownfish",
+    "name": "Enchanted Tropical Fish",
     "tier": "UNCOMMON",
     "glowing": true,
     "npc_sell_price": 3200
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_CLOWNFISH",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "ENCHANTED_CLOWNFISH",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "RAW_FISH:2",
-          "quantity": 32
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

@@ -36,12 +36,8 @@
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 333,
-      "WALK_SPEED": 10
-    },
-    "dungeon_item_conversion_cost": {
-      "essence_type": "UNDEAD",
-      "amount": 200
+      "WALK_SPEED": 10,
+      "DAMAGE": 333
     },
     "upgrade_costs": [
       [
@@ -87,36 +83,8 @@
         "level": 20
       }
     ],
-    "sword_type": "SCYTHE"
+    "sword_type": "SCYTHE",
+    "is_upgradeable_without_soulbinding": true
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "REAPER_SCYTHE",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SCYTHE_BLADE",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "REVENANT_VISCERA",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "REAPER_SWORD",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "REAPER_SWORD",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "REAPER_SWORD",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

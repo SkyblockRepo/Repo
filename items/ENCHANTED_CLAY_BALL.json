@@ -1,6 +1,6 @@
 {
   "internalId": "ENCHANTED_CLAY_BALL",
-  "name": "Enchanted Clay",
+  "name": "Enchanted Clay Ball",
   "category": null,
   "source": "HypixelAPI",
   "npcValue": 480,
@@ -18,123 +18,10 @@
   "data": {
     "id": "ENCHANTED_CLAY_BALL",
     "material": "CLAY_BALL",
-    "name": "Enchanted Clay",
+    "name": "Enchanted Clay Ball",
     "tier": "UNCOMMON",
     "glowing": true,
     "npc_sell_price": 480
   },
-  "recipes": [
-    {
-      "name": "fourth",
-      "type": "crafting",
-      "resultId": "ENCHANTED_CLAY_BALL",
-      "resultQuantity": 4,
-      "crafting": {
-        "2": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "CLAY",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_CLAY_BALL",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "ENCHANTED_CLAY_BALL",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "CLAY_BALL",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "ENCHANTED_CLAY_BALL",
-      "resultQuantity": 4,
-      "crafting": {
-        "1": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "CLAY",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "CLAY",
-          "quantity": 32
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

@@ -35,48 +35,29 @@
       }
     ],
     "museum_data": {
-      "donation_xp": 5,
-      "parent": {},
+      "donation_xp": 7,
+      "parent": {
+        "SCORPION_FOIL": "STING"
+      },
       "type": "WEAPONS",
       "game_stage": "SKILLED",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 80,
-      "STRENGTH": 65,
-      "VITALITY": 5
+      "DAMAGE": 120,
+      "STRENGTH": 60,
+      "CRITICAL_DAMAGE": 30
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "SPIDER",
-      "amount": 50
+      "amount": 100
     },
     "upgrade_costs": [
       [
         {
           "type": "ESSENCE",
           "essence_type": "SPIDER",
-          "amount": 20
-        }
-      ],
-      [
-        {
-          "type": "ESSENCE",
-          "essence_type": "SPIDER",
-          "amount": 40
-        }
-      ],
-      [
-        {
-          "type": "ESSENCE",
-          "essence_type": "SPIDER",
-          "amount": 60
-        }
-      ],
-      [
-        {
-          "type": "ESSENCE",
-          "essence_type": "SPIDER",
-          "amount": 80
+          "amount": 50
         }
       ],
       [
@@ -85,53 +66,29 @@
           "essence_type": "SPIDER",
           "amount": 100
         }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 150
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 200
+        }
+      ],
+      [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 250
+        }
       ]
     ]
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SCORPION_FOIL",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "2": {
-          "itemId": "ENCHANTED_ACACIA_LOG",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "4": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "5": {
-          "itemId": "ENCHANTED_ACACIA_LOG",
-          "quantity": 64
-        },
-        "6": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "7": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

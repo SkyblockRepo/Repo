@@ -17,61 +17,36 @@
   },
   "data": {
     "id": "TARANTULA_FANG",
-    "material": "IRON_SWORD",
+    "material": "STONE_SWORD",
     "name": "Tarantula Fang",
     "category": "SWORD",
-    "tier": "EPIC",
+    "tier": "RARE",
     "gemstone_slots": [
       {
         "slot_type": "COMBAT",
-        "costs": [
-          {
-            "type": "COINS",
-            "coins": 50000
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_JASPER_GEM",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_RUBY_GEM",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_SAPPHIRE_GEM",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_AMETHYST_GEM",
-            "amount": 20
-          }
-        ]
+        "costs": []
       }
     ],
     "requirements": [
       {
         "type": "SLAYER",
-        "level": 6,
+        "level": 4,
         "slayer_boss_type": "spider"
       }
     ],
     "museum_data": {
-      "donation_xp": 7,
+      "donation_xp": 5,
       "parent": {
-        "TARANTULA_FANG": "STING"
+        "TARANTULA_FANG": "SCORPION_FOIL"
       },
       "type": "WEAPONS",
       "game_stage": "INTERMEDIATE",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 130,
-      "STRENGTH": 40,
-      "CRITICAL_DAMAGE": 30
+      "DAMAGE": 90,
+      "STRENGTH": 45,
+      "CRITICAL_DAMAGE": 20
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "SPIDER",
@@ -115,26 +90,5 @@
       ]
     ]
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "TARANTULA_FANG",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "TARANTULA_CATALYST",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "RECLUSE_FANG",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

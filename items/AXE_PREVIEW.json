@@ -1,0 +1,28 @@
+{
+  "internalId": "AXE_PREVIEW",
+  "name": "%%green%%Axe Preview %%gray%%(Right-Click)",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "AXE_PREVIEW",
+    "material": "DIAMOND_AXE",
+    "name": "%%green%%Axe Preview %%gray%%(Right-Click)",
+    "tier": "SPECIAL",
+    "description": "Use to preview the current axe rune!",
+    "soulbound": "SOLO",
+    "serializable": false
+  },
+  "recipes": []
+}

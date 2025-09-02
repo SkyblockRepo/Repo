@@ -31,7 +31,7 @@
       {
         "type": "SKILL",
         "skill": "FORAGING",
-        "level": 8
+        "level": 12
       }
     ],
     "museum_data": {
@@ -46,9 +46,9 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "sweep": 6,
       "health": 60,
-      "defense": 25
+      "defense": 25,
+      "sweep": 6
     },
     "can_have_booster": true
   },

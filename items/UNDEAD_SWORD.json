@@ -33,10 +33,6 @@
     "stats": {
       "DAMAGE": 30
     },
-    "dungeon_item_conversion_cost": {
-      "essence_type": "UNDEAD",
-      "amount": 10
-    },
     "upgrade_costs": [
       [
         {
@@ -74,6 +70,7 @@
         }
       ]
     ],
+    "is_upgradeable_without_soulbinding": true,
     "gear_score": 10
   },
   "recipes": []

@@ -58,10 +58,6 @@
       "STRENGTH": 100,
       "INTELLIGENCE": 200
     },
-    "dungeon_item_conversion_cost": {
-      "essence_type": "UNDEAD",
-      "amount": 500
-    },
     "upgrade_costs": [
       [
         {
@@ -105,28 +101,8 @@
         "dungeon_type": "CATACOMBS",
         "level": 18
       }
-    ]
+    ],
+    "is_upgradeable_without_soulbinding": true
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "REAPER_SWORD",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "REVIVED_HEART",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "REVENANT_CATALYST",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "REVENANT_SWORD",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

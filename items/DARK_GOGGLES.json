@@ -36,42 +36,42 @@
       "game_stage": "AMATEUR"
     },
     "stats": {
-      "INTELLIGENCE": 150,
-      "ABILITY_DAMAGE_PERCENT": 25
+      "ABILITY_DAMAGE_PERCENT": 25,
+      "INTELLIGENCE": 150
     },
     "upgrade_costs": [
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 10
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 20
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 40
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 80
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 160
         }
       ]

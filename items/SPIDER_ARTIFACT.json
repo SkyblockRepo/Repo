@@ -29,55 +29,10 @@
     "requirements": [
       {
         "type": "SLAYER",
-        "level": 7,
+        "level": 6,
         "slayer_boss_type": "spider"
       }
     ]
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SPIDER_ARTIFACT",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_EMERALD",
-          "quantity": 8
-        },
-        "2": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 8
-        },
-        "3": {
-          "itemId": "ENCHANTED_EMERALD",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 8
-        },
-        "5": {
-          "itemId": "SPIDER_RING",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 8
-        },
-        "7": {
-          "itemId": "ENCHANTED_EMERALD",
-          "quantity": 8
-        },
-        "8": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 8
-        },
-        "9": {
-          "itemId": "ENCHANTED_EMERALD",
-          "quantity": 8
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

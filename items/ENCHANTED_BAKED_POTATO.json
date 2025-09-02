@@ -19,66 +19,9 @@
     "id": "ENCHANTED_BAKED_POTATO",
     "material": "BAKED_POTATO",
     "name": "Enchanted Baked Potato",
-    "tier": "UNCOMMON",
+    "tier": "RARE",
     "glowing": true,
     "npc_sell_price": 76800
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_BAKED_POTATO",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "ENCHANTED_BAKED_POTATO",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ENCHANTED_POTATO",
-          "quantity": 32
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

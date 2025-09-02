@@ -20,13 +20,13 @@
     "material": "GOLD_SWORD",
     "name": "Giant Cleaver",
     "category": "SWORD",
-    "tier": "EPIC",
+    "tier": "LEGENDARY",
     "npc_sell_price": 1,
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 6,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 6
       }
     ],
     "museum_data": {

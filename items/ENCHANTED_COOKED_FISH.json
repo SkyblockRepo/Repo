@@ -1,6 +1,6 @@
 {
   "internalId": "ENCHANTED_COOKED_FISH",
-  "name": "Enchanted Cooked Fish",
+  "name": "Enchanted Cooked Cod",
   "category": null,
   "source": "HypixelAPI",
   "npcValue": 150000,
@@ -18,67 +18,10 @@
   "data": {
     "id": "ENCHANTED_COOKED_FISH",
     "material": "COOKED_FISH",
-    "name": "Enchanted Cooked Fish",
+    "name": "Enchanted Cooked Cod",
     "tier": "RARE",
     "glowing": true,
     "npc_sell_price": 150000
   },
-  "recipes": [
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "ENCHANTED_COOKED_FISH",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_COOKED_FISH",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "ENCHANTED_RAW_FISH",
-          "quantity": 32
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

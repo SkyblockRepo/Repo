@@ -29,8 +29,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 3,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 3
       }
     ],
     "museum_data": {
@@ -42,42 +42,42 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "INTELLIGENCE": 200,
-      "ABILITY_DAMAGE_PERCENT": 35
+      "ABILITY_DAMAGE_PERCENT": 35,
+      "INTELLIGENCE": 200
     },
     "upgrade_costs": [
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 20
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 40
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 80
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 150
         }
       ],
       [
         {
           "type": "ESSENCE",
-          "essence_type": "UNDEAD",
+          "essence_type": "WITHER",
           "amount": 300
         }
       ]
