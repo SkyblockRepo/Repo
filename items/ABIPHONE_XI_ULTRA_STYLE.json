@@ -26,9 +26,9 @@
     "name": "Abiphone XI Green",
     "tier": "UNCOMMON",
     "item_specific": {
+      "model": "abiphone_xi",
       "max_contacts": 8,
-      "max_musicdiscs": 5,
-      "model": "abiphone_xi"
+      "max_musicdiscs": 5
     },
     "double_tap_to_drop": true
   },

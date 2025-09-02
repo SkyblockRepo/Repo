@@ -29,8 +29,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "dungeon_type": "CATACOMBS",
-        "tier": 3
+        "tier": 3,
+        "dungeon_type": "CATACOMBS"
       }
     ],
     "museum_data": {
@@ -42,8 +42,8 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "ABILITY_DAMAGE_PERCENT": 35,
-      "INTELLIGENCE": 200
+      "INTELLIGENCE": 200,
+      "ABILITY_DAMAGE_PERCENT": 35
     },
     "upgrade_costs": [
       [

@@ -90,5 +90,26 @@
       ]
     ]
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "TARANTULA_FANG",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "TARANTULA_CATALYST",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "RECLUSE_FANG",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

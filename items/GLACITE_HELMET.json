@@ -52,20 +52,20 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "WALK_SPEED": 10,
       "DEFENSE": 70,
-      "TRUE_DEFENSE": 5,
+      "WALK_SPEED": 10,
       "MINING_SPEED": 10,
+      "TRUE_DEFENSE": 5,
       "MINING_FORTUNE": 5
     },
-    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "ICE",
-        "amount": 2
+        "amount": 2,
+        "essence_type": "ICE"
       }
-    ]
+    ],
+    "rarity_salvageable": true
   },
   "recipes": []
 }

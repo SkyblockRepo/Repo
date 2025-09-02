@@ -36,8 +36,8 @@
       "mapped_item_ids": []
     },
     "stats": {
-      "WALK_SPEED": 10,
-      "DAMAGE": 333
+      "DAMAGE": 333,
+      "WALK_SPEED": 10
     },
     "upgrade_costs": [
       [
@@ -86,5 +86,34 @@
     "sword_type": "SCYTHE",
     "is_upgradeable_without_soulbinding": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "REAPER_SCYTHE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SCYTHE_BLADE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

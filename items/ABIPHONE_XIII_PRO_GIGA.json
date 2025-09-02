@@ -26,9 +26,9 @@
     "name": "Abiphone XIII Sapphire",
     "tier": "RARE",
     "item_specific": {
+      "model": "abiphone_xiii",
       "max_contacts": 10,
-      "max_musicdiscs": 20,
-      "model": "abiphone_xiii"
+      "max_musicdiscs": 20
     }
   },
   "recipes": []

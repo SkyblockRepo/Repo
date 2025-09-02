@@ -131,5 +131,50 @@
     "can_have_power_scroll": true,
     "is_upgradeable_without_soulbinding": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AXE_OF_THE_SHREDDED",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "REAPER_SWORD",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "SHARD_OF_THE_SHREDDED",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "REVENANT_VISCERA",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

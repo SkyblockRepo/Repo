@@ -60,12 +60,77 @@
       "game_stage": "EXPERT"
     },
     "stats": {
+      "sweep": 6,
       "health": 80,
       "defense": 30,
-      "foraging_fortune": 30,
-      "sweep": 6
+      "foraging_fortune": 30
     },
     "can_have_booster": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FIG_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "CANOPY_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FIG_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "CANOPY_HELMET",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "FIGSTONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

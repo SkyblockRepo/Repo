@@ -90,5 +90,50 @@
       ]
     ]
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCORPION_FOIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_ACACIA_LOG",
+          "quantity": 64
+        },
+        "6": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 4
+        }
+      }
+    }
+  ]
 }

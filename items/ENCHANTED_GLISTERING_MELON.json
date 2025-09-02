@@ -23,5 +23,46 @@
     "glowing": true,
     "npc_sell_price": 1000
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_GLISTERING_MELON",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "SPECKLED_MELON",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }

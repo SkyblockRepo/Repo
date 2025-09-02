@@ -23,5 +23,118 @@
     "glowing": true,
     "npc_sell_price": 320
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MELON",
+      "resultQuantity": 9,
+      "crafting": {
+        "1": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MELON",
+      "resultQuantity": 9,
+      "crafting": {
+        "2": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MELON",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MELON",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MELON",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "MELON",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MELON",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }

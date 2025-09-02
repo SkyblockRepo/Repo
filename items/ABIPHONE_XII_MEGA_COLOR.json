@@ -26,9 +26,9 @@
     "name": "Abiphone XII Amethyst",
     "tier": "RARE",
     "item_specific": {
+      "model": "abiphone_xii",
       "max_contacts": 9,
-      "max_musicdiscs": 10,
-      "model": "abiphone_xii"
+      "max_musicdiscs": 10
     }
   },
   "recipes": []
