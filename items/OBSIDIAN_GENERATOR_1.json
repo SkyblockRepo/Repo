@@ -1,14 +1,14 @@
 {
   "internalId": "OBSIDIAN_GENERATOR_1",
   "name": "Obsidian Minion I",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and mining obsidian!\n&7Requires an open area to place\n&7obsidian. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a45s\n&7Max Storage: &e64\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 1,
     "generator": "OBSIDIAN"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "OBSIDIAN_GENERATOR_1",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        },
-        "2": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        },
-        "3": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        },
-        "4": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        },
-        "5": {
-          "itemId": "WOOD_PICKAXE",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        },
-        "7": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        },
-        "8": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        },
-        "9": {
-          "itemId": "OBSIDIAN",
-          "quantity": 10
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

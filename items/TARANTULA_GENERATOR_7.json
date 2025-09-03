@@ -1,14 +1,14 @@
 {
   "internalId": "TARANTULA_GENERATOR_7",
   "name": "Tarantula Minion VII",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and squashing\n&7Tarantulas! Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a19s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 7,
     "generator": "TARANTULA"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "TARANTULA_GENERATOR_7",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "2": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "3": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "4": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "5": {
-          "itemId": "TARANTULA_GENERATOR_6",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "7": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        },
-        "8": {
-          "itemId": "SPIDER_GENERATOR_6",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 4
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

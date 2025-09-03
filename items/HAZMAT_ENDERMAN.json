@@ -1,13 +1,13 @@
 {
   "internalId": "HAZMAT_ENDERMAN",
   "name": "Hazmat Enderman",
-  "category": "Power Stone",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 1,
-  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aSlender &7power.\n\n&7At &6250 Magical Power&7:\n&c+81❤ Health\n&a+58❈ Defense\n&f+6✦ Speed\n&c+58❁ Strength\n&b+87✎ Intelligence\n&9+58☠ Crit Damage\n&e+10⚔ Bonus Attack Speed\n\n&7Unique Power Bonus:\n&a+100❈ Defense\n&c+50❁ Strength\n\n&7Requires &aCombat Skill Level XXX&7!\n\n&6&lLEGENDARY POWER STONE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

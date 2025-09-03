@@ -1,10 +1,10 @@
 {
   "internalId": "LARGE_CANDY_SACK",
   "name": "Spooky Sack",
-  "category": "Item Sack",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aDark Candy&7, &aEctoplasm&7, &aGreen Candy&7, &aPumpkin\n&aGuts&7, &aPurple Candy&7, &aSpooky Shard&7, &aWerewolf Skin\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "lore": "",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,50 +27,5 @@
     "tier": "EPIC",
     "unstackable": true
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "LARGE_CANDY_SACK",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        },
-        "2": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        },
-        "3": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        },
-        "4": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        },
-        "5": {
-          "itemId": "TRICK_OR_TREAT_BAG",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        },
-        "7": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        },
-        "8": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        },
-        "9": {
-          "itemId": "PUMPKIN_GUTS",
-          "quantity": 4
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

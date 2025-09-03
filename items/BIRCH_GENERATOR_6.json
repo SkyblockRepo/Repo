@@ -1,14 +1,14 @@
 {
   "internalId": "BIRCH_GENERATOR_6",
   "name": "Birch Minion VI",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and chopping birch logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a42s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 6,
     "generator": "BIRCH"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "BIRCH_GENERATOR_6",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        },
-        "2": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        },
-        "3": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        },
-        "4": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        },
-        "5": {
-          "itemId": "BIRCH_GENERATOR_5",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        },
-        "7": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        },
-        "8": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        },
-        "9": {
-          "itemId": "ENCHANTED_BIRCH_LOG",
-          "quantity": 2
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

@@ -28,22 +28,5 @@
     "generator_tier": 12,
     "generator": "TARANTULA"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "TARANTULA_GENERATOR_12",
-      "resultQuantity": 1,
-      "crafting": {
-        "5": {
-          "itemId": "GENERATOR_UPGRADE_STONE_TARANTULA_12",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "TARANTULA_GENERATOR_11",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

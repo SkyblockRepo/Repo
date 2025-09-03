@@ -1,14 +1,14 @@
 {
   "internalId": "ACACIA_GENERATOR_3",
   "name": "Acacia Minion III",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and chopping acacia logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a45s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 3,
     "generator": "ACACIA"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ACACIA_GENERATOR_3",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        },
-        "2": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        },
-        "3": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        },
-        "4": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        },
-        "5": {
-          "itemId": "ACACIA_GENERATOR_2",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        },
-        "7": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        },
-        "8": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        },
-        "9": {
-          "itemId": "LOG_2",
-          "quantity": 40
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

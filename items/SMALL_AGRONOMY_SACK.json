@@ -1,10 +1,10 @@
 {
   "internalId": "SMALL_AGRONOMY_SACK",
   "name": "Small Agronomy Sack",
-  "category": "Item Sack",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBrown Mushroom&7, &aCactus&7, &aCactus Green&7, &aCarrot&7,\n&7&aCocoa Beans&7, &aCompost&7, &aCropie&7, &aGolden Carrot&7, &aHay Bale&7,\n&7&aJack o' Lantern&7, &aMelon&7, &aNether Wart&7, &aPoisonous Potato&7,\n&7&aPotato&7, &aPumpkin&7, &aRed Mushroom&7, &aSeeds&7, &aSquash&7, &aSugar\n&aCane&7, &aWheat\n\n&7Capacity: &e2,240 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&a&lUNCOMMON&r",
+  "lore": "",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,50 +27,5 @@
     "tier": "UNCOMMON",
     "unstackable": true
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SMALL_AGRONOMY_SACK",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        },
-        "2": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        },
-        "3": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "ENCHANTED_LEATHER",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        },
-        "7": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        },
-        "9": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 16
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

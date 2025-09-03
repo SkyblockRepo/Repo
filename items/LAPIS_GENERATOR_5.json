@@ -1,14 +1,14 @@
 {
   "internalId": "LAPIS_GENERATOR_5",
   "name": "Lapis Minion V",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and mining lapis ore!\n&7Requires an open area to place lapis\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a25s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 5,
     "generator": "LAPIS"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "LAPIS_GENERATOR_5",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        },
-        "2": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        },
-        "3": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        },
-        "5": {
-          "itemId": "LAPIS_GENERATOR_4",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        },
-        "7": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        },
-        "8": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        },
-        "9": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI",
-          "quantity": 8
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

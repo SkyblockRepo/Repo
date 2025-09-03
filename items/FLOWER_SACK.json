@@ -1,10 +1,10 @@
 {
   "internalId": "FLOWER_SACK",
   "name": "Flower Sack",
-  "category": "Item Sack",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aAllium&7, &aAzure Bluet&7, &aBlue Orchid&7, &aDandelion&7,\n&7&aEnchanted Dandelion&7, &aEnchanted Poppy&7, &aEndstone Rose&7,\n&7&aLilac&7, &aOrange Tulip&7, &aOxeye Daisy&7, &aPeony&7, &aPink Tulip&7, &aPoppy&7,\n&7&aRed Tulip&7, &aRose Bush&7, &aSunflower&7, &aWhite Tulip\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "lore": "",
   "flags": {
     "tradable": false,
     "bazaarable": false,

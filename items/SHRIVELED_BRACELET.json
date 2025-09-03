@@ -1,17 +1,17 @@
 {
   "internalId": "SHRIVELED_BRACELET",
   "name": "Shriveled Bracelet",
-  "category": "Bracelet",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Strength: &c+10\n&7Crit Damage: &c+15%\n\n&7Grants &b+7✯ Magic Find&7 and &3+5☯\n&3Combat Wisdom&7 on &4Ж Arthropod&7 mobs.\n\n&8This item can be reforged!\n&5&lEPIC BRACELET&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -41,38 +41,9 @@
       "mapped_item_ids": []
     },
     "stats": {
-      "strength": 10,
-      "critical_damage": 15
+      "critical_damage": 15,
+      "strength": 10
     }
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SHRIVELED_BRACELET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SOUL_STRING",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "SOUL_STRING",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "TARANTULA_SILK",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "SHRIVELED_WASP",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

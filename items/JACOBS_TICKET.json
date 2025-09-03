@@ -1,13 +1,13 @@
 {
   "internalId": "JACOBS_TICKET",
   "name": "Jacob's Ticket",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 10000,
-  "lore": "&a&lUNCOMMON&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

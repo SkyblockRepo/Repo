@@ -1,14 +1,14 @@
 {
   "internalId": "SHRIVELED_WASP",
   "name": "Shriveled Wasp",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 100000,
-  "lore": "&7A notably large wasp carcass,\n&7drowned in the web and drained of\n&7blood. Its stringer remains intact.\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

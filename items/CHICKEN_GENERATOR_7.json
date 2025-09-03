@@ -1,14 +1,14 @@
 {
   "internalId": "CHICKEN_GENERATOR_7",
   "name": "Chicken Minion VII",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and slaying Chickens!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a20s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 7,
     "generator": "CHICKEN"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CHICKEN_GENERATOR_7",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        },
-        "2": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        },
-        "3": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        },
-        "4": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        },
-        "5": {
-          "itemId": "CHICKEN_GENERATOR_6",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        },
-        "7": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        },
-        "8": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        },
-        "9": {
-          "itemId": "ENCHANTED_RAW_CHICKEN",
-          "quantity": 4
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

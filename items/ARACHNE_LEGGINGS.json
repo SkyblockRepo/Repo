@@ -1,18 +1,18 @@
 {
   "internalId": "ARACHNE_LEGGINGS",
   "name": "Arachne's Leggings",
-  "category": "Leggings",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 2000,
-  "lore": "&7Health: &a+75\n&7Defense: &a+50\n\n&8Tiered Bonus: Arachne's Faithful (0/8)\n&7Grants &c+5❤ Health &7and &a+5❈ Defense&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE LEGGINGS&r",
+  "lore": "",
   "flags": {
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
-    "soulboundable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -33,8 +33,8 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "health": 75,
-      "defense": 50
+      "defense": 50,
+      "health": 75
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "SPIDER",
@@ -77,15 +77,15 @@
         }
       ]
     ],
+    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 5,
-        "essence_type": "SPIDER"
+        "essence_type": "SPIDER",
+        "amount": 5
       }
     ],
-    "soulbound": "COOP",
-    "rarity_salvageable": true
+    "soulbound": "COOP"
   },
   "recipes": []
 }

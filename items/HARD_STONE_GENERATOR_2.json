@@ -1,14 +1,14 @@
 {
   "internalId": "HARD_STONE_GENERATOR_2",
   "name": "Hard Stone Minion II",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and mining Hard Stone!\n&7Requires an open area to place\n&7Hard Stone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a14s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 2,
     "generator": "HARD_STONE"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "HARD_STONE_GENERATOR_2",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        },
-        "2": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        },
-        "5": {
-          "itemId": "HARD_STONE_GENERATOR_1",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        },
-        "7": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        },
-        "8": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        },
-        "9": {
-          "itemId": "HARD_STONE",
-          "quantity": 64
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

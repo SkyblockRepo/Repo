@@ -1,14 +1,14 @@
 {
   "internalId": "COW_GENERATOR_7",
   "name": "Cow Minion VII",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and slaying Cows! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a20s\n&7Max Storage: &e576\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 7,
     "generator": "COW"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "COW_GENERATOR_7",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        },
-        "2": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        },
-        "3": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        },
-        "5": {
-          "itemId": "COW_GENERATOR_6",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        },
-        "7": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        },
-        "8": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        },
-        "9": {
-          "itemId": "ENCHANTED_RAW_BEEF",
-          "quantity": 8
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

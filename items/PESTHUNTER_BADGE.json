@@ -1,14 +1,14 @@
 {
   "internalId": "PESTHUNTER_BADGE",
   "name": "Pesthunter Badge",
-  "category": "Accessory",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Bonus Pest Chance: &a+20%\n\n&7&7Can be used to enable or disable\n&7your &2ൠ Bonus Pest Chance &7stat.\n\n&7Enabled: &aOn\n&eRight-click to toggle!\n\n&a&lUNCOMMON ACCESSORY&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

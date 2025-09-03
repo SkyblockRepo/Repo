@@ -1,13 +1,13 @@
 {
   "internalId": "VITAMIN_DEATH",
   "name": "Vitamin Death",
-  "category": "Power Stone",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 1,
-  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aHealthy &7power.\n\n&7At &6250 Magical Power&7:\n&c+324❤ Health\n\n&7Unique Power Bonus:\n&c+200❤ Health\n\n&7Requires &aCombat Skill Level XXX&7!\n\n&6&lLEGENDARY POWER STONE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

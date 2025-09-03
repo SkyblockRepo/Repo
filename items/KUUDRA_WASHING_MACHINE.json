@@ -1,14 +1,14 @@
 {
   "internalId": "KUUDRA_WASHING_MACHINE",
   "name": "Kuudra Washing Machine",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 1,
-  "lore": "&7Combine in an anvil with any item to\n&7remove all attributes from the item.\n\n&c&lSPECIAL&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

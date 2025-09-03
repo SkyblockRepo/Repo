@@ -1,10 +1,10 @@
 {
   "internalId": "GARDEN_SACK",
   "name": "Garden Sack",
-  "category": "Item Sack",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aCompost&7, &aCropie&7, &aDung&7, &aFine Flour&7, &aHoney Jar&7,\n&aPlant Matter&7, &aSquash&7, &aTasty Cheese\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "lore": "",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,50 +27,5 @@
     "tier": "EPIC",
     "unstackable": true
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "GARDEN_SACK",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "BOX_OF_SEEDS",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "FERMENTO",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "BOX_OF_SEEDS",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "FERMENTO",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "ENCHANTED_LEATHER",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "FERMENTO",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "BOX_OF_SEEDS",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "FERMENTO",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "BOX_OF_SEEDS",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

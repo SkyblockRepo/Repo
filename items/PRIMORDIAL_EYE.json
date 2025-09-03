@@ -1,14 +1,14 @@
 {
   "internalId": "PRIMORDIAL_EYE",
   "name": "Primordial Eye",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Drops rarely from Tarantula\n&7Broodfather when you are at least\n&7Spider Slayer LVL 7.\n\n&5Catalysts upgrade other items!\n&eRight-click to view upgrades!\n\n&5&lLEGENDARY&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

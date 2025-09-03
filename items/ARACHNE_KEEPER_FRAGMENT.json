@@ -1,13 +1,13 @@
 {
   "internalId": "ARACHNE_KEEPER_FRAGMENT",
   "name": "Arachne's Calling",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 400,
-  "lore": "&7&7Place &a4 &7of these at the &5Altar &7in\n&7&4Arachne's Sanctuary &7to summon her.\n\n&7''\"It's time.\" ''&7- Uninformed Spider\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

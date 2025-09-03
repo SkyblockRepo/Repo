@@ -1,14 +1,14 @@
 {
   "internalId": "HARD_STONE_GENERATOR_10",
   "name": "Hard Stone Minion X",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and mining Hard Stone!\n&7Requires an open area to place\n&7Hard Stone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a8s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,34 +28,5 @@
     "generator_tier": 10,
     "generator": "HARD_STONE"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "HARD_STONE_GENERATOR_10",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "CONCENTRATED_STONE",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "CONCENTRATED_STONE",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "HARD_STONE_GENERATOR_9",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "CONCENTRATED_STONE",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "CONCENTRATED_STONE",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

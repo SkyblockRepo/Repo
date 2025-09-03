@@ -1,14 +1,14 @@
 {
   "internalId": "RED_SAND_GENERATOR_3",
   "name": "Red Sand Minion III",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and mining red sand!\n&7Requires an open area to place red\n&7sand. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a24s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&7&4❣ &cRequires &c1,500 Barbarian Reputation&c.\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -35,50 +35,5 @@
     "generator_tier": 3,
     "generator": "RED_SAND"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "RED_SAND_GENERATOR_3",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        },
-        "2": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        },
-        "5": {
-          "itemId": "RED_SAND_GENERATOR_2",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        },
-        "7": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        },
-        "8": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        },
-        "9": {
-          "itemId": "SAND:1",
-          "quantity": 64
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

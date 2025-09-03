@@ -1,10 +1,10 @@
 {
   "internalId": "LARGE_LAVA_FISHING_SACK",
   "name": "Large Lava Fishing Sack",
-  "category": "Item Sack",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 256000,
-  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBlaze Powder&7, &aCoal&7, &aCup of Blood&7, &aFlaming Heart&7,\n&7&aFried Feather&7, &aGold Magmafish&7, &aHorn of Taurus&7, &aLava\n&aShell&7, &aLump of Magma&7, &aMagma Cream&7, &aMagmafish&7, &aMoogma\n&aPelt&7, &aNetherrack&7, &aOrb of Energy&7, &aPyroclastic Scale&7,\n&7&aScorched Crab Stick&7, &aSilver Magmafish&7, &aSinged Powder&7,\n&7&aThunder Shards\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
+  "lore": "",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -28,50 +28,5 @@
     "unstackable": true,
     "npc_sell_price": 256000
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "LARGE_LAVA_FISHING_SACK",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        },
-        "2": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        },
-        "3": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        },
-        "4": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        },
-        "5": {
-          "itemId": "MEDIUM_LAVA_FISHING_SACK",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        },
-        "7": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        },
-        "8": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        },
-        "9": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 40
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

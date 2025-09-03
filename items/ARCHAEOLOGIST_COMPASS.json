@@ -1,10 +1,10 @@
 {
   "internalId": "ARCHAEOLOGIST_COMPASS",
   "name": "Archaeologist's Compass",
-  "category": "Accessory",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 1000,
-  "lore": "&7Right-click to point towards the\n&7nearest &bRelic&7!\n\n&7Relics Found: &b0/28\n\n&8&l* &r&8Soulbound &8&l*&r\n&f&lCOMMON ACCESSORY&r",
+  "lore": "",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -22,8 +22,8 @@
     "category": "ACCESSORY",
     "tier": "COMMON",
     "npc_sell_price": 1000,
-    "has_uuid": true,
-    "soulbound": "SOLO"
+    "soulbound": "SOLO",
+    "has_uuid": true
   },
   "recipes": []
 }

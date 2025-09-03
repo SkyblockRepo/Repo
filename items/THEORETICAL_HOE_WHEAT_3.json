@@ -1,17 +1,17 @@
 {
   "internalId": "THEORETICAL_HOE_WHEAT_3",
   "name": "Euclid's Wheat Hoe",
-  "category": "Hoe",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7 &8[&8☘&8] &8[&8☘&8] &8[&8☘&8]\n\n&7Gain &6+50☘ Wheat Fortune &7and &3+3☯\n&3Farming Wisdom &7for wheat.\n\n&7Counter: &e0 Wheat\n\n&6Logarithmic Counter\n&7Gain &6+16☘ Wheat Fortune &7per digits\n&7on the Counter, minus 4!\n&7You have &6+0☘ Wheat Fortune&7.\n\n&6Collection Analysis\n&7Gain &6+8☘ Wheat Fortune &7per digits of\n&7your collection, minus 4!\n&7You have &6+0☘ Wheat Fortune&7.\n\n&7&8Bonus wheat percent increases your\n&8Farmhand perk's chances.\n\n&eReach 100k Counter for +1 Rarity!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 25&c.\n&9&lRARE HOE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -80,50 +80,5 @@
       "mapped_item_ids": []
     }
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "THEORETICAL_HOE_WHEAT_3",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "JACOBS_TICKET",
-          "quantity": 64
-        },
-        "2": {
-          "itemId": "ENCHANTED_HAY_BALE",
-          "quantity": 16
-        },
-        "3": {
-          "itemId": "JACOBS_TICKET",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "ENCHANTED_HAY_BALE",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "THEORETICAL_HOE_WHEAT_2",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_HAY_BALE",
-          "quantity": 16
-        },
-        "7": {
-          "itemId": "JACOBS_TICKET",
-          "quantity": 64
-        },
-        "8": {
-          "itemId": "ENCHANTED_HAY_BALE",
-          "quantity": 16
-        },
-        "9": {
-          "itemId": "JACOBS_TICKET",
-          "quantity": 64
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

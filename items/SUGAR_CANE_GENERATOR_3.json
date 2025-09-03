@@ -1,14 +1,14 @@
 {
   "internalId": "SUGAR_CANE_GENERATOR_3",
   "name": "Sugar Cane Minion III",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and harvesting sugar\n&7canes! Requires an area that is\n&7suitable for sugar cane to be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a20s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 3,
     "generator": "SUGAR_CANE"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SUGAR_CANE_GENERATOR_3",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        },
-        "2": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        },
-        "5": {
-          "itemId": "SUGAR_CANE_GENERATOR_2",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        },
-        "7": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        },
-        "8": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        },
-        "9": {
-          "itemId": "SUGAR_CANE",
-          "quantity": 64
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

@@ -1,12 +1,12 @@
 {
   "internalId": "PRISMAPUMP",
   "name": "Prismapump",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&6Ability: Pipeline  &e&lRIGHT CLICK&r\n&7When used, pumps water in the direction the\n&7player was facing.\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,

@@ -1,14 +1,14 @@
 {
   "internalId": "ARACHNE_CRYSTAL",
   "name": "Arachne Crystal",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 1000,
-  "lore": "&7&7Place this at the &5Altar &7in &4Arachne's\n&4Sanctuary &7to call forth the true\n&7strength of &4Arachne&7.\n\n&7''\"What have we done?\" ''&7- Unknown Spider\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -1,14 +1,14 @@
 {
   "internalId": "PUMPKIN_GENERATOR_11",
   "name": "Pumpkin Minion XI",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and harvesting pumpkins!\n&7Requires an open area to place\n&7pumpkins. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a16s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 11,
     "generator": "PUMPKIN"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "PUMPKIN_GENERATOR_11",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "2": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "5": {
-          "itemId": "PUMPKIN_GENERATOR_10",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "7": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "8": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "9": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

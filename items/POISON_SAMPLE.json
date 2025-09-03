@@ -1,13 +1,13 @@
 {
   "internalId": "POISON_SAMPLE",
   "name": "Poison Sample",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 500,
-  "lore": "&7Dropped from &aSlimes&7, but only the\n&7especially toxic ones!\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

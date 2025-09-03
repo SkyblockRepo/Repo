@@ -1,14 +1,14 @@
 {
   "internalId": "CREEPER_GENERATOR_5",
   "name": "Creeper Minion V",
-  "category": "Item",
+  "category": null,
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Place this minion and it will start\n&7generating and slaying Creepers!\n&7&cBEWARE OF EXPLOSIONS!&7 Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a23s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
+  "lore": "",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,50 +28,5 @@
     "generator_tier": 5,
     "generator": "CREEPER"
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CREEPER_GENERATOR_5",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "CREEPER_GENERATOR_4",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "ENCHANTED_GUNPOWDER",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }
