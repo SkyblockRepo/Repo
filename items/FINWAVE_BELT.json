@@ -6,12 +6,12 @@
   "npcValue": 9000,
   "lore": "&7Health: &a+18\n&7Fishing Speed: &a+10\n&7Health Regen: &a+1\n\n&7&8This item can be reforged!\n&5&lEPIC BELT&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

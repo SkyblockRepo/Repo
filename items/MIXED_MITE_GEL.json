@@ -6,8 +6,8 @@
   "npcValue": 15000,
   "lore": "&7Use at &bKat &7to upgrade &eEndermite\n&ePets &7to &dMythic &7rarity.\n\n&7&8''Powerful substance combined from''\n&8''the plasma membrane of many''\n&8''Endermites.''\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

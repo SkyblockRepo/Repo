@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Furniture\n\n&7Furniture can be placed on your\n&7world. Some furniture is interactable\n&7while some are purely cosmetic.\n\n&7Invite your friends to share a slice\n&7of cake! Eating this cake grants &b+1✯\n&bMagic Find &7for 48 hours.\n\n&7Obtained in &fYear 100&7.\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

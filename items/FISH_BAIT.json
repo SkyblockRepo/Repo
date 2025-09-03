@@ -6,8 +6,8 @@
   "npcValue": 20,
   "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Grants &b+45☂ Fishing Speed&7.\n\n&f&lCOMMON BAIT&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

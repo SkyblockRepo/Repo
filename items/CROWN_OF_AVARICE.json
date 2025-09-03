@@ -6,12 +6,12 @@
   "npcValue": 1000000,
   "lore": "&7Health: &a+160\n&7Defense: &a+110\n\n&6Ability: Indulgence \n&7Coins you collect from killing mobs\n&7are consumed by the helmet. Gain\n&7&c+0.015x&c❁ Damage &7and &b+0.6✯ Magic\n&bFind &7for each digit of coins collected.\n&7&8(Capped at 1B)\n\n&7Collected Coins: &60\n&7  &c+1x&c❁ Damage\n&7  &b+0✯ Magic Find\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

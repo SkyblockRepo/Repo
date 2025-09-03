@@ -6,9 +6,9 @@
   "npcValue": 250000,
   "lore": "&7Right-Click on a Exe, Wai or Zee\n&7Atom to harvest their orbs.\n\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+170\n&7 &8[&8❁&8] &8[&8⚔&8]\n\n&6Ability: Greed \n&7The strength and damage bonus of\n&7this item is dependent on the price\n&7paid for it at the &5Dark Auction&7!\n&7The maximum bonus of this item is &c120\n&c&7if the bid was &650,000,000 Coins &7or\n&7higher!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 20&c.\n&6&lLEGENDARY SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

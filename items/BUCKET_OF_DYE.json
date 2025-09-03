@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&7Increases your chance of dropping\n&7Dyes by &a1%&7.\n\n&9&lRARE ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

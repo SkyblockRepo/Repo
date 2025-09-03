@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7''A block that was used to build the''\n&7''world around you.''\n\n&7To: Unknown\n&7From: Unknown\n\n&8Edition #0\n&8December 1969\n\n&7&8This item can be reforged!\n&c&lSPECIAL HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

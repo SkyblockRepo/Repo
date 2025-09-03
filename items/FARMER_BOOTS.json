@@ -6,12 +6,12 @@
   "npcValue": 163840,
   "lore": "&7Health: &a+40\n&7Defense: &a+20\n&7Speed: &a+10\n&7 &8[&8☘&8]\n\n&7These boots gain &a+2❈ Defense &7and\n&7&f+4✦ Speed&7 for every Farming Skill\n&7level you have. While on &aThe Garden&7,\n&7these boots instead gain &6+1☘\n&6Farming Fortune &7for every Farming\n&7Skill level.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 18&c.\n&a&lUNCOMMON BOOTS&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

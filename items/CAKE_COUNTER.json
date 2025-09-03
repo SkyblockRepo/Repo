@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Furniture\n\n&7Counts and displays the number of\n&7century cakes eaten on your island.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

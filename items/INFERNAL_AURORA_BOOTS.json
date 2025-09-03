@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Health: &a+328\n&7Defense: &a+101\n&7Intelligence: &a+315\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Arcane Energy (0/4)\n&7&7Every &a1s&7, dealing &bMagic Damage&7 from an\n&7ability grants &c1&7 stack of &6Ѫ Arcane Energy&7.\n&7&8Lose 1 stack after 4s of not gaining a stack.\n&7 \n&6Ability: Homing Missiles &e&lSNEAK&r\n&7&7At &c10&7 stacks, sneak to reset your\n&7stacks and shoot &a5&7 homing missiles\n&7dealing &c5,000 Damage&7 each.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 42&c.\n&7&4❣ &cRequires Kuudra Infernal Tier Completion&c.\n&6&lLEGENDARY BOOTS&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

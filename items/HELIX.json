@@ -6,9 +6,9 @@
   "npcValue": 10000,
   "lore": "&7A well-preserved fossil featuring a\n&7coiled shell.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

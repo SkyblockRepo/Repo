@@ -6,9 +6,9 @@
   "npcValue": 5000,
   "lore": "&7&8Combinable in Anvil\n\n&7&7What happens if you open it? The\n&7answer may shock you.\n\n&7Charge: &e5,000,000&6/&e5,000,000\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

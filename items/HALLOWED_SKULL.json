@@ -6,14 +6,14 @@
   "npcValue": 500,
   "lore": "&7Incredibly heavy. Put one on each\n&7side of a stick and you just crafted\n&7yourself very stylish dumbbells.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "HALLOWED_SKULL",

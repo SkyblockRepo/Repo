@@ -6,14 +6,14 @@
   "npcValue": 500,
   "lore": "&7&7''Piglins sometimes chew on them, they''\n&7''can even blow bubbles out of them.''\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "COMPACT_OOZE",

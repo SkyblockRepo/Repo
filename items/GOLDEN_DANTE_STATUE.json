@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Spawn a statue of Dante.\n\n&5&lEPIC COSMETIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

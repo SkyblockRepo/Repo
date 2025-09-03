@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d460 &8(502)\n&7Damage: &c+200 &8(+220)\n&7Strength: &c+180 &8(+198)\n&7Crit Damage: &c+50% &8(+55%)\n\n&7Reduces the defense of your target\n&7by &a10% &7of their max &a❈ Defense &7on\n&7hit, stacking up to &a5 &7times.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor V Completion&c.\n&6&lLEGENDARY DUNGEON BOW&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

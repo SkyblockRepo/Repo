@@ -6,8 +6,8 @@
   "npcValue": 1000,
   "lore": "&7&8''Fool me once, shame on you. Fool me''\n&8''9 times, and you can craft a ''&5Lesser\n&5Orb of Healing&8''.''\n\n&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

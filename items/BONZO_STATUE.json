@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Spawn a statue of Bonzo.\n\n&a&lUNCOMMON COSMETIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

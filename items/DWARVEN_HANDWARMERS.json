@@ -6,12 +6,12 @@
   "npcValue": 2500,
   "lore": "&7Cold Resistance: &a+5\n&7Mining Speed: &a+45\n&7Mining Fortune: &a+30\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 8&c.\n&5&lEPIC GLOVES&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

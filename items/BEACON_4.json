@@ -6,9 +6,9 @@
   "npcValue": 33700,
   "lore": "&7Tier: &bIV\n\n&7Can be placed on your private island.\n\n&7Grants special buffs to the island\n&7owners when powered by &dPower\n&dCrystals &7obtained from the forge in\n&7the &2Dwarven Mines&7.\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 4&c.\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

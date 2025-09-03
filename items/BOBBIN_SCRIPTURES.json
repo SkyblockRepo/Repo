@@ -6,8 +6,8 @@
   "npcValue": 35000,
   "lore": "&7The sacred ways of bobbin', written\n&7by a long-forgotten worshipper of\n&7Kuudra.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

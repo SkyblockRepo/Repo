@@ -6,9 +6,9 @@
   "npcValue": 1000,
   "lore": "&7Can be placed in the &6Fossil\n&6Excavator &7alongside a &9Suspicious\n&9Scrap &7to begin the excavation\n&7process!\n\n&7Charges: &e16\n\n&f&lCOMMON CHISEL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7Drinking this serum shortens\n&7the chain required for &dSuperpairs\n&7add-on experiments by &a1&7!\n\n&7You may drink up to &a3 &7doses\n&7of the serum before the taste\n&7becomes too abstract&7.\n\n&eRight-click to consume!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&7Spawn an NPC with the captured skin.\n\n&6Ability: Copycat  &e&lRIGHT CLICK&r\n&7Click on a player to copy their skin\n&7to a placeable NPC.\n&8Cooldown: &a10s\n\n&5&lEPIC COSMETIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

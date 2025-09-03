@@ -6,14 +6,14 @@
   "npcValue": 4,
   "lore": "&7&8Brewing Ingredient\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "BLAZE_POWDER",

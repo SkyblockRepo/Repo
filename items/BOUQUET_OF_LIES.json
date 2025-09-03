@@ -6,12 +6,12 @@
   "npcValue": 100000,
   "lore": "&7Gear Score: &d560 &8(616)\n&7Damage: &c+220 &8(+242)\n&7Strength: &c+300 &8(+330)\n&7Crit Damage: &c+50% &8(+55%)\n&7 &8[&8❁&8]\n\n&6Ability: Petal Barrage  &e&lRIGHT CLICK&r\n&7Fire a &cbarrage &7of &c3 &7roses that ricochets\n&7between enemies, hitting up to &a5 &7foes. For\n&7every &c10% &7of your health missing, your roses\n&7deal &c2% &7more damage.\n&7&8Health Cost: &c10%\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

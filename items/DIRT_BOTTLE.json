@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Dirty &7reforge when\n&7combined with a melee weapon&7.\n\n&9Dirty &7(&6Legendary&7):\n&7Strength: &c+12\n&7Bonus Attack Speed: &c+15%\n&7Ferocity: &a+12\n\n&7Requires &aMining Skill Level X&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

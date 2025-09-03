@@ -6,9 +6,9 @@
   "npcValue": 7600,
   "lore": "&7&7Get &6+20 coins &7every minute!\n\n&9&lRARE ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

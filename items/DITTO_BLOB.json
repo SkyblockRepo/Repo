@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Combine this blob in an anvil with any item\n&7which is a &dskinned skull &7to turn it into a\n&7decoration block which you can place on\n&7your island.\n\n&c&lCAUTION! &r&cThe item will blob away!\n&8(The item will be destroyed)\n\n&6&lLEGENDARY COSMETIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,14 +6,14 @@
   "npcValue": 240,
   "lore": "&7&8Collection Item\n\n&7A slightly better version of &fOpal&7, but\n&7it could still use some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&f❂ True Defense&7.\n\n&a&lUNCOMMON GEMSTONE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "FLAWED_OPAL_GEM",

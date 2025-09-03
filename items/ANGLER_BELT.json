@@ -6,12 +6,12 @@
   "npcValue": 50,
   "lore": "&7Sea Creature Chance: &c+0.5%\n&7Fishing Speed: &a+1\n\n&8Tiered Bonus: Depth Champion (0/8)\n&7&7Reduces the damage taken from &3Sea\n&3Creatures &7by &a3%&7.\n\n&8Tiered Bonus: Deepness Within (0/4)\n&7Gain &c6❤ &7per Fishing level.\n&7Fishing: &eLevel 0\n\n&7&8This item can be reforged!\n&f&lCOMMON BELT&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },
