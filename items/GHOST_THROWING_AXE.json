@@ -6,11 +6,11 @@
   "npcValue": 1,
   "lore": "&6Ability: Ghost Axe  &e&lRIGHT CLICK&r\n&7Throw an Axe, dealing damage based on your\n&7Berserk level!\n&8Cooldown: &a10s\n\n&7&8This item can be reforged!\n&a&lUNCOMMON DUNGEON AXE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

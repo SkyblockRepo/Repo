@@ -6,8 +6,8 @@
   "npcValue": 1000,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Beady &7reforge when\n&7combined with a vacuum&7.\n\n&9Beady &7(&6Legendary&7):\n&7Damage: &c+25\n&7Intelligence: &a+50\n\n&9Beady Bonus\n&7Grants &6+100☘ Farming Fortune &7on\n&7&2Pests.\n\n&7Requires &aMining Skill Level XV&7!\n\n&5&lEPIC REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

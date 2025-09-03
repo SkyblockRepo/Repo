@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Reforge Anvil\n\n&7Permanently increases the rarity of\n&7an item. Can only be applied to an\n&7item once.\n\n&6&lLEGENDARY DUNGEON ITEM&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

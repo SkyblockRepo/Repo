@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7A perfect replica of the Shiny Relic\n&7deposited on the Blood God Shrine\n&7following the Dante fight.\n\n&bExceedingly rare item!\n\n&7Found by: &cUnknown\n&7Date: &e2021-04-17\n\n&c&lSPECIAL MEMENTO&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Strength: &c+38\n&7Crit Damage: &c+25%\n&7Health: &a+202\n&7Defense: &a+63\n&7Intelligence: &a+19\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Dominus (0/4)\n&7&7Every &a1.5s&7, melee attacks grant &c1&7 stack of\n&7&6ᝐ Dominus&7. &8Lose 1 stack after 4s of not\n&8gaining a stack.\n&7\n&7&7Each stack grants &e+0.1Ⓢ Swing Range&7.\n&7\n&7At &c10&7 stacks swipe&7 in a random direction\n&7dealing &c0.62x &4Swipe Damage&7 to mobs in its\n&7path.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 27&c.\n&7&4❣ &cRequires Kuudra Hot Tier Completion&c.\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

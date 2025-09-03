@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7This fish lurks in the darkness below\n&7the Main Lobby during the Halloween\n&7season.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

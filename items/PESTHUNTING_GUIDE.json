@@ -6,8 +6,8 @@
   "npcValue": 1000000,
   "lore": "&7&8Combinable in Anvil\n\n&7When applied to armor, increases its\n&7&9Pesterminator &7level by &a1&7!\n&8Can be applied once.\n&8Requires Pesterminator V!\n\n&7&8''An old, well-used handbook detailing''\n&8''how to wrangle various pest types.''\n&8''Many of these pests don't seem to''\n&8''exist anymore - looks like someone''\n&8''did a good job!''\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

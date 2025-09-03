@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gains &c+1❤ &7per 50 gifts given by\n&7wearer.\n&8Max 500❤\n\n&7This item can be used as a minion\n&7upgrade. Place it in ONE minion and it\n&7will occasionally generate &cRed Gifts&7!\n\n&7&8This item can be reforged!\n&5&lEPIC HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

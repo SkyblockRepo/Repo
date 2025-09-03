@@ -6,8 +6,8 @@
   "npcValue": 500,
   "lore": "&7&7A fragment imbued with the power of\n&7&4Arachne&7.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&6Ability: Healing Potion  &e&lRIGHT CLICK&r\n&7Throw a potion which heals all teammates in a\n&7&a10&7 block radius for &a10%&7 of their max health\n&7and &c+100❤ Health&7.\n&8Cooldown: &a20s\n\n&a&lUNCOMMON DUNGEON ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

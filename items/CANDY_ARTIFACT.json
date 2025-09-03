@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Increases the drop chance of\n&7candies from mobs by &a15% &7during the\n&7&6Spooky Festival&7.\n\n&5&lEPIC ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

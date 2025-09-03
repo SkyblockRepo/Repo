@@ -6,12 +6,12 @@
   "npcValue": 4500,
   "lore": "&7Health: &a+10\n&7Fishing Speed: &a+6\n\n&7&8This item can be reforged!\n&9&lRARE CLOAK&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

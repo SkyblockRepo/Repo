@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&aCarrot Candy &7gives pets boosts of &ePet EXP&7!\n&7Pets can only eat &a10 &7candy in their lifetime!\n\n&7Grants &a200,000 &ePet EXP&7.\n\n&7&eRight-click on your summoned pet to\n&efeed it this candy!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

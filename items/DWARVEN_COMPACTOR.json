@@ -6,8 +6,8 @@
   "npcValue": 100000,
   "lore": "&7This item can be used as a minion\n&7upgrade.\n&7Automatically smelts materials\n&7produced by minions before\n&7compacting them into their enchanted\n&7form.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

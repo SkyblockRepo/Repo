@@ -6,8 +6,8 @@
   "npcValue": 160,
   "lore": "&7&8Collection Item\n\n&8Machine Fuel\n\n&7&7Adds &2+360♢ Fuel &7to a refuelable\n&7machine.\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

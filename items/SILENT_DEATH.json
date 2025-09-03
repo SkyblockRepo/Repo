@@ -6,12 +6,12 @@
   "npcValue": 20000,
   "lore": "&7Gear Score: &d165 &8(178)\n&7Damage: &c+85 &8(+93.5)\n&7Strength: &c+31 &8(+34.1)\n&7Crit Chance: &c+1% &8(+1%)\n&7Crit Damage: &c+9% &8(+9.9%)\n\n&6Ability: Shadowstep  &e&lRIGHT CLICK&r\n&7Teleport behind the enemy you are looking at,\n&7gaining &c+25❁ Strength&7 for &a10&7 seconds. Max\n&7range of 20 blocks. Cooldown resets on kills.\n&8Cooldown: &a60s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 20&c.\n&9&lRARE DUNGEON SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

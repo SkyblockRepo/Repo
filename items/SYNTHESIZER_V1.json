@@ -6,12 +6,12 @@
   "npcValue": 3200,
   "lore": "&7Can synthesize X items increasing\n&7the stats of this necklace.\n\n&7Current Bonuses:\n&80/30 &c❤ Health\n\n&eRight-click to open!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC NECKLACE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Opens a menu that allows you to\n&7apply advanced reforges to items\n&7using various types of &aReforge\n&aStones&7.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

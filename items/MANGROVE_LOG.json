@@ -6,8 +6,8 @@
   "npcValue": 8,
   "lore": "&7&8Collection Item\n\n&7''Sturdy yet flexible, a dance of''\n&7''survival.''\n\n&eRight-click to view recipes!\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

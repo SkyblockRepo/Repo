@@ -6,12 +6,12 @@
   "npcValue": 100000,
   "lore": "&7Health: &a+155\n&7Defense: &a+140\n&7Mending: &a+10\n&7 &8[&8❤&8]\n\n&6Full Set Bonus: Holy Blood &7(0/4)\n&7Grants &c+200❣ Health Regen &7to you\n&7and all players within &a10 &7blocks.\n&8Effect only applies once!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 16&c.\n&6&lLEGENDARY LEGGINGS&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

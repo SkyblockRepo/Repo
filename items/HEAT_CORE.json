@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Craft with &5Enchanted Lava Buckets\n&5&7to upgrade the minion speed bonus\n&7to &a30% &7and &a35%&7.\n\n&eRight-click to view recipes!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

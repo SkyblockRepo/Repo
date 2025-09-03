@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7Consume to cover yourself in a\n&7pleasant aroma that &2Pests &7find truly\n&7revolting for &a60m&7.\n\n&7While active, &2Pests &7will take &a4x &7as\n&7long to spawn.\n\n&eRight-click to consume!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

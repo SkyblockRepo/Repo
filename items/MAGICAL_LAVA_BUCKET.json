@@ -6,9 +6,9 @@
   "npcValue": 30,
   "lore": "&7This Magical Lava Bucket holds a tiny\n&7volcano. Easy infinite lava!\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

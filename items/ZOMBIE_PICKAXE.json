@@ -6,12 +6,12 @@
   "npcValue": 3,
   "lore": "&8Breaking Power 3\n\n&7Mining Speed: &a+190\n\n&6Ability: Rotten \n&7Grants &6+5☘ Mining Fortune &7per\n&7Undead mob within 30 blocks of you.\n&7&8(Max 25 Mining Fortune)\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

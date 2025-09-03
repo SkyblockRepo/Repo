@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Strength: &c+1\n&7True Defense: &a+2\n\n&7If an incoming hit would deal at least\n&7&c50% &7of your &c❤&7, multiply its damage\n&7by &a0.95&7.\n\n&7&4☠ &cRequires &5Blaze Slayer 3&c.\n&9&lRARE ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

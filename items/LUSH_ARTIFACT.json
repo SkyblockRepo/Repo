@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Health: &a+5\n&7Health Regen: &a+1\n\n&5&lEPIC ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

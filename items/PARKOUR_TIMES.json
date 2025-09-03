@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Places a hologram displaying the top\n&7parkour times of players on your\n&7island. Click to select which parkour\n&7is displayed.\n\n&7&4❣ &cRequires &aSocial Skill 1&c.\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

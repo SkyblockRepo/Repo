@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Cubic &7reforge when\n&7combined with armor&7.\n\n&7&8''The center of Magma Cubes is the''\n&8''hottest part...also the hardest. Giant''\n&8''ones can even create stones like''\n&8''this one.''\n\n&9Cubic &7(&6Legendary&7):\n&7Health: &a+20\n&7Strength: &c+12\n\n&9Cubic Bonus\n&7Decreases damage taken from\n&7Nether mobs&7 by &a2%&7.\n\n&7Requires &aMining Skill Level XX&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,14 +6,14 @@
   "npcValue": 8000,
   "lore": "&7Drops rarely from Revenant Horror\n&7when you are at least Zombie Slayer\n&7LVL 6.\n\n&5Catalysts upgrade other items!\n&eRight-click to view upgrades!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "REVENANT_CATALYST",

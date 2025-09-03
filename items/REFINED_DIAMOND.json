@@ -6,8 +6,8 @@
   "npcValue": 4096,
   "lore": "&7&7''Looking at it for too long may cause''\n&7''eye trauma.''\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Renowned &7reforge when\n&7combined with armor&7.\n\n&9Renowned &7(&6Legendary&7):\n&7Health: &a+8\n&7Defense: &a+8\n&7Speed: &a+1\n&7Strength: &c+10\n&7Intelligence: &a+10\n&7Crit Chance: &c+10%\n&7Crit Damage: &c+10%\n&7Bonus Attack Speed: &c+4%\n\n&9Renowned Bonus\n&7Increases most stats by &a+1%&7.\n\n&7Requires &aMining Skill Level XXV&7!\n\n&5&lEPIC REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

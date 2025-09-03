@@ -8,10 +8,10 @@
   "flags": {
     "tradable": false,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

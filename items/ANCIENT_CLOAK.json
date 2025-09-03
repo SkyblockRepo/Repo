@@ -6,12 +6,12 @@
   "npcValue": 93750,
   "lore": "&7Health: &a+15\n&7Mining Fortune: &a+10\n\n&7Health-consuming abilities deal &a10%\n&a&7more damage.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC CLOAK&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Use this at the &5Ender Altar &7in the\n&7&5Dragon's Nest &7to summon Ender\n&7Dragons!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

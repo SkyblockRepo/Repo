@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&7Feeding this to your pets gives them\n&7a boost of &a90,000 Exp&7!\n\n&7&eRight-click on your summoned pet to\n&efeed it!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

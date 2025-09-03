@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7''Manual operation.''\n\n&5X&5 Rift-Transferable X\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

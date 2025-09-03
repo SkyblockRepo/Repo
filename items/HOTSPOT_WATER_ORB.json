@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7Radiating some weird energy.\n&7\n&7&8Probably safe to hold?\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7Consume this item to dunk yourself in\n&7a bucket of water that smells of\n&7sunshine and rainbows. Doing this will\n&7rid your &aGarden &7of all active\n&7&aSprayonator &7effects.\n\n&eRight-click to consume!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

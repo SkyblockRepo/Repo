@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7 &8[&8☘&8]\n\n&7Gain &6+10☘ Potato Fortune &7and &3+1☯\n&3Farming Wisdom &7for potatoes.\n\n&7Counter: &e0 Potatoes\n\n&eReach 100k Counter for +1 Rarity!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&f&lCOMMON HOE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

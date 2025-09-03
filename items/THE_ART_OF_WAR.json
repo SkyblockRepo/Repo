@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Grants &c+5❁ Strength &7when applied\n&7to a weapon. Can only be applied to\n&7an item once.\n\n&7&8In the midst of chaos, there is also\n&8opportunity.\n&8 - Sun Tzu\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

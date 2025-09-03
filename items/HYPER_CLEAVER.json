@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Gear Score: &d375 &8(411)\n&7Damage: &c+175 &8(+192.5)\n&7Strength: &c+100 &8(+110)\n&7Crit Damage: &c+100% &8(+110%)\n\n&6Ability: Cleave \n&7When hitting an entity, monsters in a &a4&7 block\n&7range will be hit for a portion of that damage\n&7too.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

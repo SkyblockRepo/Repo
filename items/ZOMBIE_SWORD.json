@@ -6,12 +6,12 @@
   "npcValue": 300000,
   "lore": "&7Damage: &c+100\n&7Strength: &c+50\n&7Intelligence: &a+50\n&7 &8[&7✎&8]\n\n&6Ability: Instant Heal  &e&lRIGHT CLICK&r\n&7Heal for &c120 &7+ &c5%❤ &7and heal players within &a7\n&a&7blocks for &c40❤&7.\n&8Mana Cost: &370\n&8Charges: &e4 &8/ &a15s\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

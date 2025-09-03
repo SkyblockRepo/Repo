@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Gain &2+0.2ൠ Bonus Pest Chance &7for\n&7every &3Pest Bestiary &7tier unlocked.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&9&lRARE PET ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

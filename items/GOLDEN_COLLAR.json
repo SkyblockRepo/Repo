@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Commemorates your participation in\n&7the &bPet Care Expansion &7city project.\n\n&8December 31, 1969\n\n&c&lSPECIAL MEMENTO&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

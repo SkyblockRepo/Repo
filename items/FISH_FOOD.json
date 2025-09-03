@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&7&7Despite its name, can be given to any\n&7pet! Feeding this to your pet will not\n&7increase its candy count.\n\n&7Grants &a0 &ePet EXP&7.\n\n&7&eRight-click on your summoned pet to\n&efeed it!\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

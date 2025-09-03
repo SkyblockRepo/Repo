@@ -6,9 +6,9 @@
   "npcValue": 1000,
   "lore": "&7Sea Creature Chance: &c+0.2%\n\n&7Take &a10%&7 less damage from Sea\n&7Creatures.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

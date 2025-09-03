@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&7&7Gains &c+4 Damage &7per Taming level.\n&7&7Copies the stats from your active\n&7pet.\n\n&7&7Earn &6+35 coins &7from monster kills.\n\n&7Deals &a+200% &7damage against\n&7&2Mythological Creatures&7.\n\n&7&8This item can be reforged!\n&6&lLEGENDARY SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

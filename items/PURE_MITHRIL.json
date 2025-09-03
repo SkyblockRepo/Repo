@@ -6,8 +6,8 @@
   "npcValue": 29000,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Mithraic &7reforge when\n&7combined with a mining tool&7.\n\n&7&8''It takes a few hours of forging to''\n&8''purify Mithril - the impurities extract''\n&8''themselves while the Mithril coalesces.''\n\n&9Mithraic &7(&6Legendary&7):\n&7Mining Fortune: &a+16\n\n&9Mithraic Bonus\n&7Grants &6+30☘ Mining Fortune &7when\n&7mining &2Mithril &7or &fTitanium&7.\n\n&7Requires &aMining Skill Level XVIII&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

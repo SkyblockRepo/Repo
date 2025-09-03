@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Strength: &c+15\n&7Crit Damage: &c+15%\n&7Health: &a+60\n&7Magic Find: &a+1\n&7Foraging Wisdom: &a+1\n\n&7Heal &c0.5%❤ &7every &a2s&7.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Blaze Slayer 5&c.\n&5&lEPIC CLOAK&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

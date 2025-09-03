@@ -6,9 +6,9 @@
   "npcValue": 17000,
   "lore": "&7Vitality: &a+10\n\n&7Grants &4+10♨ Vitality&7, which\n&7increases incoming healing.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -10,9 +10,9 @@
     "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
-    "soulboundable": false,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
     "sackable": false
   },
   "data": {

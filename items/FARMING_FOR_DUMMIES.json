@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Grants &6+1☘ Farming Fortune &7when\n&7applied to a Hoe, Axe, or Vacuum. Can\n&7be applied to an item up to &a5 &7times.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

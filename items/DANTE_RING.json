@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Found in a hidden warehouse. Not\n&7very useful but still pretty nice to\n&7wear.\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

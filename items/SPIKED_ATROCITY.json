@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&a10%&7 chance not to consume bait.\n\n&5&lEPIC ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

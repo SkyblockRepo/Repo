@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Damage: &c+450\n\n&7Your arrows mark enemies you hit\n&7for &b5 &7seconds. Marked Enemies don't\n&7take damage from you, once the mark\n&7expires the target will receive a\n&7burst of damage equal to all the\n&7damage dealt during the mark\n&7increased by up to &c10%&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,8 +6,8 @@
   "npcValue": 2000,
   "lore": "&7&7''It is said that there is a lost village''\n&7''made of Glacite, deep under the''\n&7''Dwarven Mines.''\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

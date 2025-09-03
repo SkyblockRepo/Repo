@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+50\n&7Defense: &a+45\n\n&7Gain &a+50❈ Defense &7against animals.\n&7Gain &f+5❂ True Defense&7.\n\n&6Full Set Bonus: &cArmor of the Pack &7(0/4)\n&7Gain &c+35❁ Strength &7and &a+80❈\n&aDefense &7for each &cArmor of the Pack\n&c&7wearer within &a30 &7blocks.\n&8Max of 3 players!\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Wolf Slayer 6&c.\n&5&lEPIC BOOTS&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

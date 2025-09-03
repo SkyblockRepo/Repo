@@ -6,8 +6,8 @@
   "npcValue": 41150,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Fortified &7reforge when\n&7combined with equipment&7.\n\n&7&8''A very strange find once found''\n&8''inside the carcass of a Ghast. It''\n&8''seems like they enjoy a snack that''\n&8''is out of this world from time to time.''\n\n&9Fortified &7(&6Legendary&7):\n&7Defense: &a+25\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

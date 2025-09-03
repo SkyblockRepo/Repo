@@ -6,8 +6,8 @@
   "npcValue": 2000,
   "lore": "&7&8''Sticky goo scraped off an Endermite.''\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

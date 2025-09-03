@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d250 &8(272)\n&7Health: &a+220 &8(+242)\n&7Mending: &a+100 &8(+100)\n\n&7Grants &a+100☄ Mending &7and &4♨ Vitality\n&4&7while in Dungeons.\n\n&7Grants &a+100☄ Mending &7while in\n&7Dungeons.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

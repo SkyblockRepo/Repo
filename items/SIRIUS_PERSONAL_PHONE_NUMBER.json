@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7Consume this item to get &6Sirius &7as an\n&7Abiphone contact!\n&7\n&7Players with &6Sirius &7as a contact\n&7receive a &a1% &7discount when buying\n&7items from the &5Dark Auction&7.\n\n&eRight-click to consume!\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

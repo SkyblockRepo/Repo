@@ -6,8 +6,8 @@
   "npcValue": 35650,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Strengthened &7reforge\n&7when combined with equipment&7.\n\n&7&8''Legends say this stone will never''\n&8''cease glowing.''\n\n&9Strengthened &7(&6Legendary&7):\n&7Defense: &a+8\n&7Strength: &c+6\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
