@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n\n\n&7When applied to an &9Axe&7, grants &6+25☘\n\n&6Foraging Fortune&7.\n\n\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

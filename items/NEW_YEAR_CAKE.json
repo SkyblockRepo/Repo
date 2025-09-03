@@ -6,9 +6,9 @@
   "npcValue": 100,
   "lore": "&7Given to every player as a\n&7celebration for the 0th SkyBlock\n&7year!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

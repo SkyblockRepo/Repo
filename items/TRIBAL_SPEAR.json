@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Strength: &c+100\n\n&6Ability: Thwack  &e&lRIGHT CLICK&r\n&7Throw the spear like an arrow which\n&7will return to you.\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+180\n&7Strength: &c+50\n\n&7Deals &a+150% &7damage to\n&2✿ Mythological &7mobs and grants &b+5✯ Magic Find &7on them.\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

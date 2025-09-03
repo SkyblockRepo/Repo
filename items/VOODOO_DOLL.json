@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Acupuncture  &e&lRIGHT CLICK&r\n&7Shoot arrows from every direction around\n&7the targeted monster.\n&7\n&7Monsters hit by at least one arrow are slowed\n&7and receive &c1,500 &7damage/s for &a10s&7.\n&8Mana Cost: &3200\n&8Cooldown: &a5s\n\n&8Who do you voodoo?\n\n&7&4☠ &cRequires &5Zombie Slayer 5&c.\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

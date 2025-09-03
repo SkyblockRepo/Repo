@@ -6,14 +6,14 @@
   "npcValue": 50,
   "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "SPONGE",

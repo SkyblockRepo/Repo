@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&7Can be given to &9Professor Robot &7to\n&7complete the &bSapphire Crystal Quest&7.\n&7\n&7&8This decaying piece of machinery\n&8was once a part of a large robot\n&8known as Automaton Prime. There's\n&8still a lot of good stuff in here.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

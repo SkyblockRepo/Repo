@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7 &8[&8☘&8] &8[&8☘&8]\n\n&7Gain &6+25☘ Wheat Fortune &7and &3+2☯\n&3Farming Wisdom &7for wheat.\n\n&7Counter: &e0 Wheat\n\n&6Logarithmic Counter\n&7Gain &6+16☘ Wheat Fortune &7per digits\n&7on the Counter, minus 4!\n&7You have &6+0☘ Wheat Fortune&7.\n\n&7&8Bonus wheat percent increases your\n&8Farmhand perk's chances.\n\n&eReach 100k Counter for +1 Rarity!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 20&c.\n&a&lUNCOMMON HOE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

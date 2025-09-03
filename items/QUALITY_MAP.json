@@ -6,9 +6,9 @@
   "npcValue": 1337,
   "lore": "&7It took motivation, skills, effort and a\n&7lot of love and caring to create this\n&7map. By far the best quality on the\n&7market!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

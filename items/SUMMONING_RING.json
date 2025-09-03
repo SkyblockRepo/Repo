@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Raise Souls  &e&lRIGHT CLICK&r\n&7Monsters you kill while you have this item will\n&7drop their soul. You can click on their souls\n&7on the ground using this item to absorb them\n&7and then spawn them to fight by your side.\n&7\n&7Mana cost is based on the power of the\n&7monsters that you summon. Shift right-click to\n&7view and remove souls from this item. If your\n&7summoned monster dies the soul will be\n&7removed.\n&8Cooldown: &a1s\n\n&7Max Souls: &d2\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

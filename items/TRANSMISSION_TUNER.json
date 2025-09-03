@@ -6,8 +6,8 @@
   "npcValue": 45000,
   "lore": "&7&8Combinable in Anvil\n\n&7When applied to an item offering a\n&7Transmission ability, its ability range\n&7is increased by &d+1&7. Can be applied\n&7up to &a4 &7times!\n\n&5X&5 Rift-Transferable X\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

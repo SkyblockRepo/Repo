@@ -6,8 +6,8 @@
   "npcValue": 1000,
   "lore": "&7Visit &aEinary's Shop &7to trade it for\n&7useful items!\n\n&7&8''Forged in the crucible of a volcanic''\n&8''eruption, this rock embodies the''\n&8''unyielding fury of the Earth.''\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

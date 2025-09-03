@@ -6,12 +6,12 @@
   "npcValue": 10000,
   "lore": "&7Damage: &c+50\n&7Strength: &c+20\n\n&6Ability: Life Blood  &e&lRIGHT CLICK&r\n&7Use &c10% &7of your max health to boost your\n&7nearby allies by &c+30❁ Strength &7for 10\n&7seconds.\n&8Health Cost: &c10\n&8Cooldown: &a1s\n\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC WAND&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

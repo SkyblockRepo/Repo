@@ -6,12 +6,12 @@
   "npcValue": 1000000,
   "lore": "&7Sea Creature Chance: &c+2%\n&7Health: &a+300\n&7Defense: &a+100\n&7 &8[&8⚔&8] &8[&8⚔&8] &8[&8☂&8]\n\n&7Grants buffs when fishing in a\n&7&dFishing Hotspot&7.\n\n&7  &b+10☂ Fishing Speed\n&7  &3+4α Sea Creature Chance\n&7  &9+2⚓ Double Hook Chance\n&7  &6+2⛃ Treasure Chance\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 40&c.\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

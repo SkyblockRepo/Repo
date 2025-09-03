@@ -6,9 +6,9 @@
   "npcValue": 2100,
   "lore": "&7Increases the duration of any\n&7consumed Potion by &a25%&7.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "\n&7Damage: &c+90\n\n&7Strength: &c+45\n\n&7Crit Damage: &9+20%\n\n&7 &8[&7⚔&8]\n\n\n\n&7Deal &c+200% ❁ Damage&7 to and gain\n\n&3+15☯ Combat Wisdom &7against &4Ж\n\n&4Arthropod &7mobs.\n\n\n\n&6Ability: Webcutter \n\n&7This weapon can be used to clear\n\n&7webs left by the &4Tarantula\n\n&4Broodfather&7!\n\n\n\n&8This item can be reforged!\n\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Click another player to initiate a\n&7game of Tic Tac Toe!\n\n&7&4❣ &cRequires &aSocial Skill 6&c.\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&8Hunting Tool\n\n&7Damage: &c+5\n\n&6Ability: Absorptio  &e&lRIGHT CLICK&r\n&7This weapon lets you absorb &c5% &7of\n&7the basic combat stats of any\n&7weapon.\n\n&6Ability: Vis Temperata \n&7Each strike of this weapon has its\n&7damage capped at &c15% &7of the\n&7enemy's max Health. This weapon\n&7cannot cause a fatal blow.\n\n&7&8''Ex tenebris, primus venator surgit.''\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },
