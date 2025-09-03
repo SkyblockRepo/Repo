@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+251\n\n&7Strength: &c+151\n\n&7Crit Damage: &c+39%\n\n&7Vitality: &a+20\n\n&7Shot Cooldown: &a0.5s\n\n\n\n&6Ability: Nasty Bite  &e&lLEFT CLICK\n\n&7&7Shoot an enhanced shot. The shot\n\n&7deals &c+19% ❁ Damage&7 and heals you\n\n&7for &a2x&7 the mana spent.\n\n&8Mana Cost: &311%\n\n\n\n&6Shortbow: Instantly shoots!\n\n\n\n&7&8This item can be reforged!\n\n&6&lLEGENDARY BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

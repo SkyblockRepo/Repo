@@ -6,12 +6,12 @@
   "npcValue": 77777,
   "lore": "&7&7''Boots made of pure ghost essence.''\n\n&7&8This item can be reforged!\n&9&lRARE BOOTS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

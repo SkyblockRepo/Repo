@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+130\n&7Defense: &a+40\n&7Speed: &a+5\n&7Farming Fortune: &a+30\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&8Tiered Bonus: Feast (0/4)\n&7Combines the Tiered Bonuses of\n&7wearing &a0 pieces &7of the Melon Armor,\n&7Cropie Armor, and Squash Armor.\n&7&7Grants &60☘ Farming Fortune&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 40&c.\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+7\n&7Speed: &a+7\n&7Foraging Fortune: &a+7\n\n&6Ability: Stick Around \n&7Every &bSkyBlock &7day, a random region\n&7in &aThe Park &7is selected. While in that\n&7region, gain:\n&7&6+20☘ Foraging Fortune\n&7&3+5☯ Foraging Wisdom\n&7\n&7Today's region: &aBirch Park\n&7\n&7&8''Ribbit, ribbit!''\n\n&7&8This item can be reforged!\n&5&lEPIC CARNIVAL MASK&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

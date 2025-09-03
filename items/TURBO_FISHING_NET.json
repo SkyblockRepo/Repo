@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&8Hunting Tool\n\n&7Pull: &a+50\n\n&6Ability: Yoink  &e&lRIGHT CLICK&r\n&7Throw your fishing net at swimming\n&7fish to catch them!\n&8Mana Cost: &310\n&8Cooldown: &a0.5s\n\n&7Throw Distance: &a+100%\n\n&5&lEPIC FISHING NET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

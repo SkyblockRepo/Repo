@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Cocoa Beans Fortune: &a+20\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&7Grants &6+20☘ Cocoa Beans Fortune&7,\n&7which increases drops when\n&7harvesting Cocoa Beans.\n\n&7&8This item can be reforged!\n&5&lEPIC AXE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

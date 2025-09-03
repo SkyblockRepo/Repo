@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&8Consumed on use\n\n&7&7Pet skins change the look and\n&7particle trail of your pet but only\n&7one skin can be active at a time!\n\n&7&7This skin can only be applied to Wolf\n&7pets.\n\n&7&cMade with ♥ for hypixel\n\n&7&eRight-click on your summoned pet to\n&eapply this skin!\n\n&c&lSPECIAL COSMETIC&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

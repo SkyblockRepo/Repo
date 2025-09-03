@@ -6,12 +6,12 @@
   "npcValue": 2000,
   "lore": "&7Defense: &a+15\n&7Mining Speed: &a+10\n\n&6Ability: Depth Coating \n&7Doubles this piece's &a❈ Defense &7while\n&7on &bMining Islands&7.\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 50000,
   "lore": "&7&8Hunting Tool\n\n&6Ability: Black Hole  &e&lRIGHT CLICK&r\n&7Place the Black Hole for &a180s&7, and\n&7it'll start pulling &clow HP &7monsters\n&7towards it.\n&8Cooldown: &a2s\n\n&7&8''Harness the power of Gravity!''\n\n&7Monsters below &a10% &7HP can even get\n&7their &9Shard &7captured!\n\n&a&lUNCOMMON DEPLOYABLE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

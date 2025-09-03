@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "\n&7Damage: &c+150\n\n&7Strength: &c+75\n\n&7Crit Damage: &c+40%\n\n &8[&8⚔&8] &8[&8⚔&8]\n\n\n\n&7&7Deal &c+300% ❁ Damage&7 to and gain\n\n&7&3+45☯ Combat Wisdom&7 against Spiders!\n\n\n\n&6Ability: Webcutter \n\n&7This weapon can be used to clear\n\n&7webs left by the &4Tarantula\n\n&4Broodfather&7!\n\n\n\n&6Ability: Stinger \n\n&7Attacks from this sword will always\n\n&7critically strike!\n\n\n\n&7&8This item can be reforged!\n\n&7&4☠ &cRequires &5Spider Slayer 8&c.\n\n&6&lLEGENDARY SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

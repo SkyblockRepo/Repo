@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+90\n&7Strength: &c+50\n&7Intelligence: &a+100\n\n&7Deals &a+150% &7damage to &2༕ Undead\n&2&7mobs&7.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Zombie Slayer 3&c.\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

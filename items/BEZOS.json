@@ -6,14 +6,14 @@
   "npcValue": 200,
   "lore": "&7&7''The surface is strangely cool and''\n&7''smooth. Often used as a ball in many''\n&7''sports due to its bouncy nature.''\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "BEZOS",

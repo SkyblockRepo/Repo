@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+300\n&7Defense: &a+100\n\n&6Ability: Brute Force \n&7Halves your &f✦ Speed &7but grants\n&7&c+20% &7base weapon damage for every\n&7&a25 &f✦ Speed&7.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Zombie Slayer 8&c.\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

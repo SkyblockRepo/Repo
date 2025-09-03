@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "\n&7Crit Damage: &c+10%\n\n&7Health: &a+135\n\n&7Defense: &a+105\n\n&7Intelligence: &a+105\n\n &8[&8⚔&8]\n\n\n\n&8Tiered Bonus: Octodexterity (0/4)\n\n&7Every 3rd strike, deal &c+50% ❁\n\n&cDamage &7and apply &2Venom&7 reducing\n\n&7healing by &210% &7for &a4 &7seconds.\n\n\n\n&6Piece Bonus: Spider Bulwark\n\n&7Kill Spiders to accumulate defense\n\n&7against them.\n\n&7Piece Bonus: &a+0❈\n\n&7Next Upgrade: &a+20❈ &8(&a0&7/&c50&8)\n\n\n\n&4This item is Arachnal Ж!\n\n\n\n&6Extra Bonus: &aBrood\n\n&7&7Increases the base stats of the\n\n&7&6Tarantula Pet&7 by &a100%&7.\n\n\n\n&7&8This item can be reforged!\n\n&6&l&lLEGENDARY LEGGINGS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

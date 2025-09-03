@@ -6,14 +6,14 @@
   "npcValue": 576,
   "lore": "&7&8Collection Item\n\n&7&7A refined form of heavy rock from\n&7the darkest depths.\n\n&a&lUNCOMMON BLOCK&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "ENCHANTED_HARD_STONE",

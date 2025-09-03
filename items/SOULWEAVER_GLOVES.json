@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Strength: &c+10 &8(+11)\n&7Crit Damage: &c+10% &8(+11%)\n\n&7While in &cThe Catacombs&7, summon a\n&7&cHaunted Skull &7that slowly revolves\n&7around you every &a15 &7seconds or\n&7when you kill a mob with melee damage.\n\n&7When an enemy is hit by a &cHaunted\n&cSkull&7, they are stunned for &b2\n&b&7seconds and deal &c5% &7less damage.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&5&lEPIC DUNGEON GLOVES&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,11 +6,11 @@
   "npcValue": 4,
   "lore": "&7Damage: &c+30\n\n&a&lUNCOMMON SHOVEL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
-    "enchantable": true,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

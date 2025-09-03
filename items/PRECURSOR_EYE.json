@@ -6,12 +6,12 @@
   "npcValue": 1000,
   "lore": "&7Gear Score: &d877 &8(955)\n&7Health: &a+222 &8(+244.2)\n&7Defense: &a+222 &8(+244.2)\n&7Intelligence: &a+222 &8(+244.2)\n&7 &8[&8❤&8] &8[&8❈&8]\n\n&6Ability: Eye Beam  &e&lSNEAK&r\n&7Fire a laser in front of you dealing &c4000\n&c&7damage and costing &b40 &7mana. The damage\n&7increases by &c100% &7every second for &b5\n&b&7seconds and the mana cost increases by &d25%\n&d&7every second. You can sneak again to\n&7de-activate the laser.\n\n&7Mana is consumed on damage.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

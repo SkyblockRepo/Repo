@@ -6,14 +6,14 @@
   "npcValue": 0,
   "lore": "&7Candy can be used to trade with the\n&7Fear Mongerer during the &6Spooky\n&6Festival&7!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "PURPLE_CANDY",

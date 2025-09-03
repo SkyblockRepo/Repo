@@ -6,12 +6,12 @@
   "npcValue": 500,
   "lore": "&7Sea Creature Chance: &c+2%\n&7Health: &a+100\n&7Defense: &a+100\n&7 &8[&7☂&8]\n\n&7&8This item can be reforged!\n&5&lEPIC HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

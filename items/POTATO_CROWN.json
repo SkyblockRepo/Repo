@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Speed: &a+1\n\n&6Ability: Potato King \n&7Bestowed by Hypixel to the winner of\n&7the Great Potato War.\n\n&7&d''All men can see the tactics whereby I''\n&d''conquer, but what none can see is the''\n&d''strategy out of which victory is''\n&d''evolved.''\n&8- Sun Tzu, The Art of War\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

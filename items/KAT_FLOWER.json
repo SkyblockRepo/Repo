@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&7Give this to &bKat &7the &aPet Sitter &7in\n&7order to skip &91 day &7of wait time while\n&7upgrading your pet!\n&7\n&7&eRight-click on &bKat &eto use!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Tills a &95x5 &7area of farmland at a time.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 5&c.\n&9&lRARE HOE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

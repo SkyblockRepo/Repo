@@ -6,8 +6,8 @@
   "npcValue": 10,
   "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Grants &b+25☂ Fishing Speed &7and a\n&7&a15% &7chance to catch Spooky Sea\n&7Creatures.\n\n&f&lCOMMON BAIT&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

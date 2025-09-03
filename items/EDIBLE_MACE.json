@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+125\n&7Strength: &c+25\n\n&6Ability: ME SMASH HEAD  &e&lRIGHT CLICK&r\n&7Your next attack deals &cdouble damage &7and\n&7weakens animals, making them deal &c-35% &7damage\n&7for &a30 &7seconds.\n&7&8Debuff doesn't stack.\n&8Mana Cost: &3100\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Wolf Slayer 5&c.\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

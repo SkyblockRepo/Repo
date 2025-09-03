@@ -6,12 +6,12 @@
   "npcValue": 333,
   "lore": "&7This item was given to the kind souls\n&7who helped so much testing SkyBlock!\n&7Much love &c❤\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

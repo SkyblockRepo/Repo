@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Place an orb for &a300s &7buffing up to\n&7&b5 &7players within &a30 &7blocks.\n&8Costs 50% of max mana.\n\n&9Orb Buff: Umberella\n&7Grants &6+5♔ Trophy Fish Chance&7.\n\n&8Only one deployable buff applies.\n\n&7&4❣ &cRequires &aUmber Collection IX&c.\n&9&lRARE DEPLOYABLE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,8 +6,8 @@
   "npcValue": 5000,
   "lore": "&7&7A portion of Arachne's Soul that can\n&7be used to craft items.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

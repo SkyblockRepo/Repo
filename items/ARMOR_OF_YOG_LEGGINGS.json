@@ -6,12 +6,12 @@
   "npcValue": 38000,
   "lore": "&7Health: &a+50\n&7Defense: &a+15\n&7Heat Resistance: &a+10\n&7Mining Speed: &a+25\n&7Mining Fortune: &a+20\n&7 &8[&7❂&8] &8[&8⸕&8] &8[&8☘&8]\n\n&6Full Set Bonus: Absorb &7(0/4)\n&7Every &95 Yogs killed&7 grants the\n&7wearer &6+1⸕ Mining Speed&7. &8(Max 500).\n\n&7&7Yogs Killed: &a0\n&7&7Mining Speed: &a0\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aHard Stone Collection V&c.\n&5&lEPIC LEGGINGS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+132\n&7Defense: &a+222\n\n&6Ability: Bat Swarm \n&7Summons two bats that will follow you\n&7and attack nearby enemies, dealing\n&7&c3,000 &7damage upon exploding. Your\n&7bats will not spawn on your island.\n\n&6Ability: Rejuvenate \n&7While wearing, drains &a5 &7health per\n&7second from all monsters within &e8\n&e&7blocks.\n\n&7&8This item can be reforged!\n&5&lEPIC HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

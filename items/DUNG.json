@@ -6,8 +6,8 @@
   "npcValue": 100,
   "lore": "&7Can be spread across a &aGarden &7plot\n&7with a &aSprayonator&7 or used in &2Pest\n&2Traps&7.\n\n&7Attracts: &6Beetle&7, &6Fly\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

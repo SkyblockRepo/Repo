@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Grants &b+10☂ Fishing Speed&7.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Line &7to a Fishing\n&7Rod.\n\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&9&lRARE ROD PART&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

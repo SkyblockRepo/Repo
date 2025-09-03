@@ -6,12 +6,12 @@
   "npcValue": 20000,
   "lore": "&7Gear Score: &d375 &8(408)\n&7Damage: &c+190 &8(+209)\n&7Strength: &c+135 &8(+148.5)\n\n&7&7Every &a100 &7Kills with this sword\n&7grants +&c1 &7Weapon Damage, up to &c100\n&c&7extra.\n&7Current Kills:&a 0 &8(&c+0 Damage&8)\n\n&aDungeon Healer Bonuses:\n&7&8- &7Increases healing from your\n&7&aHealing Circle&7 by &a10%&7.\n&7&8- &7Reduces the cooldown of your &aWish\n&aUltimate&7 by &b10 &7seconds.\n\n&eRight-click to use Class Ability!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 20&c.\n&5&lEPIC DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

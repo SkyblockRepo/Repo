@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+70\n&7Defense: &a+70\n&7Heat Resistance: &a+5\n&7Mining Speed: &a+25\n&7Mining Fortune: &a+15\n&7 &8[&7❤&8] &8[&8⸕&8] &8[&8☘&8]\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aHard Stone Collection V&c.\n&5&lEPIC CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

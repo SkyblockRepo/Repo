@@ -6,8 +6,8 @@
   "npcValue": 5000,
   "lore": "&7&7Rare string that can be used to\n&7craft weapons that are infused with\n&7the power of Arachne.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

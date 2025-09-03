@@ -6,12 +6,12 @@
   "npcValue": 250000,
   "lore": "&7Grants &c+250❁ Damage &7and &c+50⫽\n&cFerocity&7.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Line &7to a Fishing\n&7Rod.\n\n&7&4❣ &cRequires &aFishing Skill 20&c.\n&9&lRARE ROD PART&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

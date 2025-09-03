@@ -6,8 +6,8 @@
   "npcValue": 25000,
   "lore": "&7&7Sometimes, well-done just isn't\n&7enough.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7Can be used to reset a puzzle room\n&7when in dungeons.\n\n&7A 'reset' button seems to have been\n&7hidden somewhere in the floor, just\n&7in case something goes wrong...\n\n&cDungeons only!\n\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

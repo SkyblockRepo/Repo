@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7It's a trophy!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

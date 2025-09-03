@@ -6,12 +6,12 @@
   "npcValue": 100000,
   "lore": "&7Gear Score: &d330 &8(360)\n&7Strength: &c+25 &8(+27.5)\n&7Health: &a+150 &8(+165)\n&7Defense: &a+50 &8(+55)\n&7Speed: &a+25 &8(+27.5)\n&7Intelligence: &a+50 &8(+55)\n\n&6Ability: Spirit Glide \n&7Press and hold Sneak to fly around\n&7as a spirit.\n&8Mana Cost: &3250\n&8Cooldown: &a60s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&5&lEPIC DUNGEON BOOTS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

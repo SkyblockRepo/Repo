@@ -6,8 +6,8 @@
   "npcValue": 8,
   "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Increases your chance to catch\n&7&bSharks &7during the &bFishing Festival &7by\n&7&a20%&7.\n\n&a&lUNCOMMON BAIT&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

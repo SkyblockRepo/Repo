@@ -6,11 +6,11 @@
   "npcValue": 8000,
   "lore": "&7Damage: &c+370\n&7Strength: &c+180\n\n&7Fires a volley of &b5 &7arrows. Arrows\n&7apply venom to all enemies hit dealing\n&7&c0❁ Damage &7every second for &b3\n&b&7seconds.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

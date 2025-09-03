@@ -6,12 +6,12 @@
   "npcValue": 123,
   "lore": "&7Gear Score: &d261 &8(286)\n&7Damage: &c+105 &8(+115.5)\n&7Defense: &a+73 &8(+80.3)\n\n&7This shard automatically adapts to\n&7its user inside Dungeons, allowing\n&7you to perform your class ability.\n&7Reduces the cooldown of &9Seismic\n&9Wave &7by &a2s&7.\n\n&7&eRight-click to use your class ability!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 19&c.\n&5&lEPIC DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
