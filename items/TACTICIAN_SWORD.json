@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+50\n&7Crit Chance: &c+20%\n\n&7&7Gains &c+15 Damage &7for each\n&7Combat collection at Tier VII or\n&7higher.\n\n&7Your Collections: &e0&7/&e11\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

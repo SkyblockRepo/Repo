@@ -6,11 +6,11 @@
   "npcValue": 12,
   "lore": "&7Defense: &a+15\n\n&7&8This item can be reforged!\n&f&lCOMMON CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

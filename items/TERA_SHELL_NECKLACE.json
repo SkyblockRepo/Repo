@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+80\n&7Defense: &a+30\n&7Intelligence: &a+20\n\n&7You can no longer catch &6Trophy\n&6Fish &7while wearing this Necklace.\n&7\n&7&8''Telling Trophy Fish to pound sand''\n&8''somehow elicits their deepest,''\n&8''darkest fears.''\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC NECKLACE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

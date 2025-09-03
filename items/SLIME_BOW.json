@@ -6,12 +6,12 @@
   "npcValue": 960000,
   "lore": "&7Damage: &c+100\n&7Crit Damage: &c+50%\n\n&6Ability: Arrow Infusion  &e&lON SHOOT&r\n&7Will consume &aSlimeballs&7 in your\n&7&eInventory&7 or &aQuiver&7 to deal &a5x&7\n&7damage to &9Magma Cubes &7and &9Slimes&7.\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

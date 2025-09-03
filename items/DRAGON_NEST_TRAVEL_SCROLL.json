@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Requires &bMVP&c+ &7to consume!\n\n&7Island: &aThe End\n&7Teleport: &eDragon's Nest\n\n&5&lEPIC TRAVEL SCROLL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

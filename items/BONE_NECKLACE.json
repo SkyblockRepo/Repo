@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Crit Chance: &c+3% &8(+3%)\n&7Defense: &a+35 &8(+38.5)\n\n&6Ability: Gladiator's Will \n&7Gain &a+3❈ Defense &7for each enemy\n&7within &e10 &7blocks up to &a+30❈ Defense&7.\n&7Range increases to &e30 &7blocks and\n&7the cap increases to &a+60❈ Defense\n&a&7when you play as a &aTank &7in dungeons.\n\n&7Increases the range of your\n&7&aDiversion &7passive by &e15 &7blocks.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&5&lEPIC DUNGEON NECKLACE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

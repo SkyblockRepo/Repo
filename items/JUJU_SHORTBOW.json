@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+310\n&7Strength: &c+40\n&7Crit Chance: &c+10%\n&7Crit Damage: &c+110%\n&7Shot Cooldown: &a0.5s\n\n&7Hits &c3 &7mobs on impact.\n&7Can damage endermen.\n\n&5Shortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Enderman Slayer 5&c.\n&5&lEPIC BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

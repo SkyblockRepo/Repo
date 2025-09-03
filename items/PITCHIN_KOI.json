@@ -6,8 +6,8 @@
   "npcValue": 22222,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Pitchin' &7reforge when\n&7combined with a fishing rod&7.\n\n&9Pitchin' &7(&6Legendary&7):\n&7Fishing Speed: &a+8\n&7Sea Creature Chance: &c+4%\n\n&7Requires &aMining Skill Level XVIII&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

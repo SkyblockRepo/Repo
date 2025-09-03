@@ -6,14 +6,14 @@
   "npcValue": 500,
   "lore": "&7&7''Looks like Sulphur, smells like''\n&7''Sulphur... Suspicious.''\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "SPELL_POWDER",

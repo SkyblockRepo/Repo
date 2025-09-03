@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&7Show off an item in this fancy glass\n&7display box! &e&lRIGHT CLICK &r&7to put in\n&7or swap an item.\n\n&7&4❣ &cRequires &aSocial Skill 10&c.\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

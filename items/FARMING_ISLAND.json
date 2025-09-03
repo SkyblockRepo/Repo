@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Place this in your private world to\n&7spawn a Farming island!\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

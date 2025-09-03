@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Back in my day, we swam upstream\n&7for hours to get to school, and we\n&7didn't complain!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

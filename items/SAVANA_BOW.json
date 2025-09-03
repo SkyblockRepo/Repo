@@ -6,12 +6,12 @@
   "npcValue": 500,
   "lore": "&7Damage: &c+50\n\n&7All damage dealt with this bow is\n&7&adoubled&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d624 &8(686)\n&7Damage: &c+500 &8(+550)\n&7Strength: &c+100 &8(+110)\n&7Crit Damage: &c+100% &8(+110%)\n&7Swing Range: &a+2 &8(+2)\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&7&7''That thing was too big to be called a''\n&7''sword, it was more like a large hunk''\n&7''of stone.''\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cMaster Mode The Catacombs Floor VII\n&cCompletion&c.\n&6&lLEGENDARY DUNGEON LONGSWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

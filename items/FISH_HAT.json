@@ -6,12 +6,12 @@
   "npcValue": 24,
   "lore": "&7Health: &a+5\n\n&6Ability: Splash  &e&lSNEAK&r\n&7Crouch to splash some water around.\n&8Mana Cost: &310\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

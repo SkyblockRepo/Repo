@@ -6,12 +6,12 @@
   "npcValue": 10,
   "lore": "&7Speed: &a+5\n&7Intelligence: &a+5\n\n&7Grants &bJump Boost IV &7while equipped.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

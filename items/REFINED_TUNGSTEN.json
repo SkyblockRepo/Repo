@@ -6,8 +6,8 @@
   "npcValue": 256000,
   "lore": "&7&8Collection Item\n\n&5&lEPIC DWARVEN METAL&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

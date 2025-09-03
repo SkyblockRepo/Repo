@@ -6,12 +6,12 @@
   "npcValue": 1000,
   "lore": "&7Gear Score: &d283 &8(291)\n&7Damage: &c+52 &8(+57.2)\n&7Strength: &c+26 &8(+28.6)\n&7Bonus Attack Speed: &c+100% &8(+100%)\n\n&6Ability: Love Tap \n&7Heals you for &c+10❤ Health &7when you hit an\n&7entity!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 5&c.\n&9&lRARE DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

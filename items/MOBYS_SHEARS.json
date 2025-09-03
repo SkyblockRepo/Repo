@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Collects &a+1 &aGlowing Mushroom&7!\n\n&9&lRARE SHEARS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

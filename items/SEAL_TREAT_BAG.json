@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7Opening it rewards you with a random\n&7enchanted fish or bait, rumored to\n&7be handpicked by playful seals\n&7themselves!\n\n&eRight-click to consume!\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

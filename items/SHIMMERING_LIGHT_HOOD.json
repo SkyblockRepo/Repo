@@ -6,12 +6,12 @@
   "npcValue": 129500,
   "lore": "&7Health: &a+80\n&7Defense: &a+70\n&7Speed: &a+10\n&7Intelligence: &a+70\n&7 &8[&7⚔&8]\n\n&8Tiered Bonus: Shimmer (0/4)\n&7Increases all &aExperience Orbs\n&a&7gained from monsters and ores by\n&7&a200%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

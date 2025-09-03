@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d350 &8(381)\n&7Damage: &c+210 &8(+231)\n&7Strength: &c+100 &8(+110)\n&7Shot Cooldown: &a0.75s\n\n&7Deals &a+2% &7damage to &aUndead\n&amonsters &7for every &a1% &7of your\n&7missing health.\n\n&7&bSpirit Item: &7When turned into a ghost,\n&7this item becomes a Ghost Ability.\n\n&6Spirit Ability: Spirit Bomb \n&7Shoots a spirit that deals &c8000\n&c&7damage on impact.\n\n&6Shortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&6&lLEGENDARY DUNGEON BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

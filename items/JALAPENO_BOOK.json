@@ -6,8 +6,8 @@
   "npcValue": 56000,
   "lore": "&7Combine this Book in an Anvil with a\n&7deployable to gain a small but\n&7permanent stat boost!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,8 +6,8 @@
   "npcValue": 42,
   "lore": "&8Fishing Bait\n&8Consumes on Cast\n\n&7Increases the chance for &6Treasure\n&6&7catches to be &6&lGREAT &r&7or\n&7&d&lOUTSTANDING &r&7by &a50%&7.\n\n&a&lUNCOMMON BAIT&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

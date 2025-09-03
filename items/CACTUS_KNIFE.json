@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7 &8[&8☘&8] &8[&8☘&8]\n\n&7Slices through &acactus&7 instantly!\n\n&6Ability: Swift Slicer \n&7Increases your speed cap by 100\n&7while in &aThe Garden&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&5&lEPIC HOE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

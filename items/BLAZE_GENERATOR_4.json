@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Place this minion and it will start\n&7generating and slaying Blazes!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a31s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

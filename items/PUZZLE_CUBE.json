@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Puzzle  &e&lRIGHT CLICK&r\n&7Lets you solve a puzzle.\n\n&7Puzzles Solved: &a0\n\n&7&8This item has no purchasing data yet!\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

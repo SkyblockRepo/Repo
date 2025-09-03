@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d310 &8(341)\n&7Damage: &c+160 &8(+176)\n&7Intelligence: &a+300 &8(+330)\n&7 &8[&7✎&8] &8[&8✎&8]\n\n&6Ability: Showtime  &e&lRIGHT CLICK&r\n&7Shoots balloons that create a large explosion\n&7on impact, dealing up to &c1,100 &7damage.\n&8Mana Cost: &390\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor I Completion&c.\n&9&lRARE DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

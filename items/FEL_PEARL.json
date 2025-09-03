@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

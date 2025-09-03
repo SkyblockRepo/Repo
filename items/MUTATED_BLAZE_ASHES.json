@@ -6,14 +6,14 @@
   "npcValue": 200,
   "lore": "&7&7''Blazes are ephemeral creatures,''\n&7''constantly consuming themselves.''\n&7''Their ashes are said to bring good''\n&7''fortune.''\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "MUTATED_BLAZE_ASHES",

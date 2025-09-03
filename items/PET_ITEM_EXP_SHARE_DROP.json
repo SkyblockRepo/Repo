@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&7Used to craft the Exp Share pet item.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

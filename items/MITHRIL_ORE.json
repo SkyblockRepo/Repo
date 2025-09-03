@@ -6,14 +6,14 @@
   "npcValue": 8,
   "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&7&7''\"The Man called it \"true-silver\" while''\n&7''the Dwarves, who loved it above all''\n&7''things, had their own, secret name''\n&7''for it.\"''\n\n&f&lCOMMON DWARVEN METAL&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "MITHRIL_ORE",

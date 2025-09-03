@@ -6,8 +6,8 @@
   "npcValue": 10000,
   "lore": "&7A piece of &2Junk&7. Bring it to &2Junker\n&2Joel&7!\n\n&7&8''Somehow still intact, but covered in''\n&8''moss.''\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,8 +6,8 @@
   "npcValue": 12000,
   "lore": "&7It smells like blood and fear.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

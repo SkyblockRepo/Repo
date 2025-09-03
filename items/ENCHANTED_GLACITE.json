@@ -6,8 +6,8 @@
   "npcValue": 1920,
   "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&9&lRARE DWARVEN METAL&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&7Damage: &c+3\n\n&6Passive: Explosive\n&7This arrow explodes after &a2s &7or on\n&7impact.\n\n&7The explosion deals the arrow's\n&7damage split to mobs within &e2.5 &7blocks.\n\n&7You will lose &c10% &7of your &c❤ Health &7if\n&7you are in the explosion.\n\n&7&4❣ &cRequires &aCombat Skill 23&c.\n&7&4❣ &cRequires &aCoal Collection VII&c.\n&7&4❣ &cRequires &cTarget Practice III&c.\n&8Stats added when shot!\n&9&lRARE ARROW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

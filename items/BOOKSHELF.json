@@ -6,9 +6,9 @@
   "npcValue": 20,
   "lore": "&7&7Place near an &9Enchantment Table &7to\n&7provide Bookshelf Power. The higher\n&7the Bookshelf Power, the more\n&7enchantments are available.\n&7\n&7&7Bookshelf Power: &91\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

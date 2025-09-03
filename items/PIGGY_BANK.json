@@ -6,9 +6,9 @@
   "npcValue": 16000,
   "lore": "&7Saves your coins from death.\n&7Only when in inventory or Accessory Bag.\n&cFragile!\n\n&8Triggers when losing 20k+ coins.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

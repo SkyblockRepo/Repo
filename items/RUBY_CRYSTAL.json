@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&7Exquisite crystal found deep in the\n&7&bGlacite Mineshafts&7 and &5Crystal\n&5Hollows.\n\n&7&7Some say that it can be infused with\n&7&dgemstones&7, &eunlock treasure&7, and\n&7hold the secrets to a time long past&7.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 175000,
   "lore": "&7Strength: &c+25\n&7Sea Creature Chance: &c+4%\n&7Health: &a+225\n&7Defense: &a+200\n&7 &8[&8⚔&8] &8[&8⚔&8] &8[&8☂&8]\n\n&8Tiered Bonus: Static Charge (0/5)\n&7Gains &c1&7 static charge every &e30&7\n&7seconds.\n&7Hitting a target will cause a\n&7discharge, adding &a15%&7 damage to that\n&7hit for each charge collected.\n&7\n&7Maximum Charge Capacity: &c2\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a10% &7and\n&7damage dealt is increased by &c1.2x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 36&c.\n&5&lEPIC LEGGINGS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

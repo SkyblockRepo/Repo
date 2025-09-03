@@ -6,12 +6,12 @@
   "npcValue": 350000,
   "lore": "&7Strength: &c+10\n&7Crit Damage: &c+35%\n&7Sea Creature Chance: &c+4.5%\n&7Health: &a+275\n&7Defense: &a+225\n&7 &8[&8⚔&8] &8[&8⚔&8] &8[&8☂&8] &8[&8☂&8]\n\n&8Tiered Bonus: Fireproof (0/2)\n&7Provides immunity to &cCrimson Isle\n&cLava&7.\n\n&8Tiered Bonus: Lord's Blessing (0/5)\n&7Grants &3+1α Sea Creature Chance&7.\n&7Grants &b+5✯ Magic Find &7on Lava Sea\n&7Creatures.\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a15% &7and\n&7damage dealt is increased by &c1.3x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 45&c.\n&6&lLEGENDARY CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
