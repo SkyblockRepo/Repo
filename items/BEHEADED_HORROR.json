@@ -6,9 +6,9 @@
   "npcValue": 15000,
   "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

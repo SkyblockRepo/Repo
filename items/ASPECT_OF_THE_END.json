@@ -6,12 +6,12 @@
   "npcValue": 56000,
   "lore": "&7Damage: &c+100\n&7Strength: &c+100\n&7 &8[&7✎&8]\n\n&6Ability: Instant Transmission  &e&lRIGHT CLICK&r\n&7Teleport &a8 blocks&7 ahead of you and\n&7gain &a+50 &f✦ Speed&7 for &a3 seconds&7.\n&8Mana Cost: &350\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

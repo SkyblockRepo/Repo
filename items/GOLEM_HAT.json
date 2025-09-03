@@ -6,12 +6,12 @@
   "npcValue": 100,
   "lore": "&7Drops an &airon ingot &7when you sneak!\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

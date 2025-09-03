@@ -6,14 +6,14 @@
   "npcValue": 1280,
   "lore": "&7&8Collection Item\n\n&9&lRARE DWARVEN METAL&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "ENCHANTED_MITHRIL",

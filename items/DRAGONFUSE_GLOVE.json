@@ -6,12 +6,12 @@
   "npcValue": 5000,
   "lore": "&7Crit Damage: &c+5%\n&7Health: &a+30\n&7Defense: &a+5\n\n&7While equipped, upgrades the &6Aspect\n&6of the Dragons &7with:\n&7 &c+35❁ Damage\n&7 &c+50❁ Strength\n&7 &dVery reduced ability knockback\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 15&c.\n&5&lEPIC GLOVES&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

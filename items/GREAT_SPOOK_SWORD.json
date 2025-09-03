@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gains &c+1❁ Damage &7and &c+1❁ Strength\n&c&7for every &5Fear &7you have.\n\n&7&7Obtained during the &5Alchemist\n&5&7experiments!\n\n&7&8This item can be reforged!\n&6&lLEGENDARY SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

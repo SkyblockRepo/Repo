@@ -6,8 +6,8 @@
   "npcValue": 192000,
   "lore": "&7This item can be placed inside any\n&7minion. Automatically sells generated\n&7items when the minion has no space.\n&7Items are sold for &a90% &7of their\n&7selling price.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

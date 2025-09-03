@@ -16,5 +16,50 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RIFT_TROPHY_SLIME",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SHAME_CRUX",
+          "quantity": 20
+        },
+        "6": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

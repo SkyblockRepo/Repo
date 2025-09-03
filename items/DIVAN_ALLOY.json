@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&7''The legendary Divan explored where''\n&7''no other man has set foot, and came''\n&7''back with this incredibly rare alloy.''\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

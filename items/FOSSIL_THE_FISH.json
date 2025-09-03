@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Older than time itself yet never\n&7changing, for he was born &7''perfect''&7.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

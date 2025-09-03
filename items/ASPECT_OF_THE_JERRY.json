@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+1\n\n&6Ability: Parley  &e&lRIGHT CLICK&r\n&7Channel your inner Jerry.\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

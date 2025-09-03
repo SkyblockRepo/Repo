@@ -16,5 +16,50 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RIFT_TROPHY_VAMPIRIC",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "WILTED_BERBERIS_BUNCH",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BLOODBADGE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&7Select the arrow type you want to\n&7take priority in your quiver.\n\n&aSelected: &cNone\n\n&eLeft-click: Previous arrow\n&eRight-click: Next arrow\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

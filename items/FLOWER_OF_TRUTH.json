@@ -6,12 +6,12 @@
   "npcValue": 100000,
   "lore": "&7Gear Score: &d460 &8(506)\n&7Damage: &c+160 &8(+176)\n&7Strength: &c+300 &8(+330)\n&7 &8[&8❁&8]\n\n&6Ability: Heat-Seeking Rose  &e&lRIGHT CLICK&r\n&7Shoots a rose that ricochets between enemies,\n&7damaging up to &a3 &7of your foes! Damage\n&7multiplies as more enemies are hit.\n&7&8Health Cost: &c10%\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

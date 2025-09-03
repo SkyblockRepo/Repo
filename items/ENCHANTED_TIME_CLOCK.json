@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Time Warp  &e&lRIGHT CLICK&r\n&7Advance Time by &d1 hour&7!\n&8Cooldown: &a48 hours\n\n&7&7Impacts your Minions, Chocolate\n&7Factory, Aging Items, Kat, Fann, and\n&7The Forge.\n\n&7&4❣ &cRequires &aGold Ingot Collection X&c.\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

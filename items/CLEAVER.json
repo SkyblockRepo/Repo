@@ -6,12 +6,12 @@
   "npcValue": 8,
   "lore": "&7Damage: &c+40\n&7Strength: &c+10\n\n&6Ability: Cleave \n&7When hitting an entity, monsters in a &a3&7 block\n&7range will be hit for a portion of that damage\n&7too.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
