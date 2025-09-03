@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Combine this item in an anvil with any\n&7sack to increase its capacity by\n&7&c+200% &7its &coriginal &7capacity.\n\n&7This item can be combined with a sack\n&7up to three times!\n\n&7&8It's a pocket sack, to be stitched\n&8inside another sack!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

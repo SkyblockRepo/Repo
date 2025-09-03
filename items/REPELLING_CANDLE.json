@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&7Prevents unwanted monsters\n&7from spawning on your island!\n\n&dEmits life-scarring aroma!\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

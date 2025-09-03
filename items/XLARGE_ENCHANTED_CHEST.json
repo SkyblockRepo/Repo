@@ -6,8 +6,8 @@
   "npcValue": 40000,
   "lore": "&7Place this chest next to a minion and\n&7the minion will store items inside once\n&7its storage is full!\n\n&7Storage space: &b21 &7items\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 50,
   "lore": "&7Right-click to apply a name to this\n&7Name Tag. Can be applied to mobs.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

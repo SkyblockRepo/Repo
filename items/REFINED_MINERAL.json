@@ -6,8 +6,8 @@
   "npcValue": 2000,
   "lore": "&7A material so pure it comes\n&7pre-refined from its place of origin.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

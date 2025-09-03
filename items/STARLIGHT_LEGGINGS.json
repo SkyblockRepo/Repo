@@ -6,12 +6,12 @@
   "npcValue": 22500,
   "lore": "&7Health: &a+30\n&7Defense: &a+30\n&7Intelligence: &a+50\n\n&6Full Set Bonus: Starpower &7(0/4)\n&7Increases the duration of &6Starfall\n&6&7by &a2x &7and its range by &a+1&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 8&c.\n&9&lRARE LEGGINGS&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

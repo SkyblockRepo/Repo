@@ -6,8 +6,8 @@
   "npcValue": 48000,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Stellar &7reforge when\n&7combined with a mining tool&7.\n\n&7&8''It's not actually a star.''\n\n&9Stellar &7(&6Legendary&7):\n&7Mining Speed: &a+40\n&7Mining Fortune: &a+25\n\n&9Stellar Bonus\n&7Earn &2+14% Mithril Powder &7and &6+55☘\n&6Mining Fortune &7when mining near a\n&7Fallen Star.\n\n&7Requires &aMining Skill Level XXVI&7!\n\n&5&lEPIC REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Enriches an accessory with the\n&7power of &3+0.3α Sea Creature\n&3Chance &7when applied to a &6Legendary\n&6&7or &dMythic &7accessory.\n\n&7Only &7&lONE &r&7enrichment can be applied\n&7to a given accessory.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,12 +6,12 @@
   "npcValue": 1000,
   "lore": "&7Gear Score: &d260 &8(282)\n&7Damage: &c+220 &8(+242)\n\n&7Deals &a+100% &7damage to &2༕ Undead\n&2&7mobs.\n\n&7Your arrows have a &e25% &7chance to\n&7bounce to another target after it\n&7hits something.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON BOW&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

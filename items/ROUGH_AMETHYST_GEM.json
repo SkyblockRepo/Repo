@@ -6,14 +6,14 @@
   "npcValue": 3,
   "lore": "&7&8Collection Item\n\n&7Harvested from the plentiful\n&7gemstone veins in the &5Crystal Hollows&7.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&a❈ Defense&7.\n\n&f&lCOMMON GEMSTONE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "ROUGH_AMETHYST_GEM",

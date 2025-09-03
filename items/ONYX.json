@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Fruitful &7reforge when\n&7combined with a mining tool&7.\n\n&9Fruitful &7(&6Legendary&7):\n&7Mining Speed: &a+40\n&7Mining Fortune: &a+10\n\n&9Fruitful Bonus\n&7Grants &a+50❈ Defense &7while on &bMining\n&bIslands&7.\n\n&7Requires &aMining Skill Level II&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

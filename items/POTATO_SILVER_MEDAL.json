@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&d''There is no instance of a nation''\n&d''benefitting from prolonged warfare.''\n&8- Sun Tzu, The Art of War\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

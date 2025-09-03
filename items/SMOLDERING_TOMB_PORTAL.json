@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Placing this item on your private\n&7island will create a portal to &b&7the\n&7&cSmoldering Tomb&7 for you to use\n&7whenever you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

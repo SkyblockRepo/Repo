@@ -6,8 +6,8 @@
   "npcValue": 250000,
   "lore": "&7Consume this item to permanently\ngain &9+1☠ Crit Damage&7.\n\n&7You can only consume &a5 &7of this item\n&7before the damage to your internal\n&7organs becomes too extensive to\n&7drink more.\n\n&eRight-click to consume!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

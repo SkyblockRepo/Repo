@@ -6,8 +6,8 @@
   "npcValue": 2000,
   "lore": "&8Consumed on arrow shot\n&7Arrows deal an additional &210% &7of\n&7damage as poison and reduce\n&7healing by &224% &7over &b4 &7seconds.\n\n&a&lUNCOMMON ARROW POISON&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

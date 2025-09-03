@@ -6,9 +6,9 @@
   "npcValue": 50000,
   "lore": "&7Place in a &6Chirping Stereo &7to play\n&7funky tunes for &2Pests&7.\n\n&7When playing, this vinyl attracts &2Fly\n&2Pests&7.\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

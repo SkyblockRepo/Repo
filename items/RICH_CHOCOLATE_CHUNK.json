@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Grants &a+6% &7chance to find a\n&7&aChocolate Rabbit &7that you haven't\n&7found yet and grants &6+30 Chocolate\n&6&7per second.\n\n&7&8''From the Factory's secret''\n&8''reserves, its rich flavor is a deep''\n&8''dive into indulgence.''\n\n&9&lRARE ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

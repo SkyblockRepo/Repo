@@ -6,12 +6,12 @@
   "npcValue": 46875,
   "lore": "&7Damage: &c+20\n&7Intelligence: &a+250\n&7 &8[&8✎&8] &8[&8✎&8]\n\n&bRunic Item\n&7Use with &6Aurora Armor&7! Cast Runic\n&7Zap while matching the rune of your\n&7targets.\n&e&lLeft-Click To Swap Rune&r\n&7 \n&6Ability: Runic Zap  &e&lRIGHT CLICK&r\n&7Fires a beam of energy, hitting the\n&7first enemy on its path for &c10,000&7.\n&7Deals reduced damage past &a10\n&a&7blocks.\n&8Mana Cost: &310\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&7&4❣ &cRequires Kuudra Basic Tier Completion&c.\n&6&lLEGENDARY SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

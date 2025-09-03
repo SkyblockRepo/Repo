@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Grants &a+4% &7chance to find a\n&7&aChocolate Rabbit &7that you haven't\n&7found yet and grants &6+20 Chocolate\n&6&7per second.\n\n&7&8''Crafted in the Factory, its''\n&8''smoothness melts hearts and tastes''\n&8''like a sweet escape.''\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

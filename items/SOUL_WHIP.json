@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+145\n&7Strength: &c+175\n&7 &8[&8⚔&8]\n\n&7Deals &a2x &7damage to &3Sea Creatures&7.\n\n&6Ability: Flay  &e&lRIGHT CLICK&r\n&7Flay your whip in an arc, dealing your melee\n&7damage to all enemies in its path.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 26&c.\n&5&lEPIC SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

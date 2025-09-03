@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Shoots &6Blast o' Lanterns&7. Deals &a2\n&a&7damage to &6Spooky &7enemies and &c3,000\n&c&7damage against non-scary enemies!\n\n&7Blast o' Lanterns: &60&8/20k\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

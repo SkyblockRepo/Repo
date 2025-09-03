@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Loving &7reforge when\n&7combined with a chestplate&7.\n\n&7&8''Given by his mother. Scarf always''\n&8''studied harder than everyone else,''\n&8''hoping that one day he could bring''\n&8''her back.''\n\n&9Loving &7(&6Legendary&7):\n&7Health: &a+10\n&7Defense: &a+10\n&7Intelligence: &a+100\n\n&9Loving Bonus\n&7Increases ability damage by &a5%&7.\n\n&7Requires &aMining Skill Level XXI&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

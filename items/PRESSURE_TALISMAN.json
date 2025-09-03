@@ -6,9 +6,9 @@
   "npcValue": 1000,
   "lore": "&7Pressure Resistance: &a+10\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

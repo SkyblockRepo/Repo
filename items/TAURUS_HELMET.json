@@ -6,12 +6,12 @@
   "npcValue": 50000,
   "lore": "&7Crit Damage: &c+20%\n&7Sea Creature Chance: &c+3%\n&7Health: &a+175\n&7Defense: &a+150\n&7 &8[&8⚔&8] &8[&8☂&8]\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a5% &7and\n&7damage dealt is increased by &c1.1x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 35&c.\n&9&lRARE HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,9 +6,9 @@
   "npcValue": 200,
   "lore": "&7Increases your &f✦ Speed &7by &a+10&7\n&7while held in the &bVillage&7.\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

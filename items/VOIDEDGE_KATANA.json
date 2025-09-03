@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+155\n&7Strength: &c+60\n&7Crit Damage: &c+25%\n&7Intelligence: &a+50\n&7 &8[&8❁&8] &8[&8✎&8]\n\n&7Deal &a+200% &7damage to Endermen&7.\n&7&7Receive &a6% &7less damage from\n&7Endermen&7 when held.\n&7&7Gain &3+15☯ Combat Wisdom&7 against\n&7Endermen.\n\n&6Ability: Soulcry  &e&lRIGHT CLICK&r\n&7Gain &c+200⫽ Ferocity &7against Endermen for &a4s\n&7&8Soulflow Cost: &31\n&8Mana Cost: &3200\n&8Cooldown: &a4s\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Enderman Slayer 3&c.\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

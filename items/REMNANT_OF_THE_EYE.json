@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&7Keeps you alive when you are on\n&7death's door, granting a short\n&7period of invincibility. Consumed on\n&7use.\n\n&7&cONLY WORKS ON THE END ISLAND.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7Consume to gain &c+300❣ Health Regen\n&c&7and &a+300ф Rift Time &7for &a60m&7!\n\n&6Aged like Premium Ores\n&7Consuming this grants permanent\n&7&c+5❣ Health Regen&7 and &a+25ф Rift Time&7.\n\n&9&lPRO TIP!&r\n&7&c❣ Health Regen &7is an overworld\n&7stat- but you'll still be granted it\n&7when you go back!\n\n&7You may consume &a5 &7of these before\n&7they lose their magical energy.\n\n&5X&5 Rift-Exportable X\n&7&8Loses motes value when crossing\n&8dimensions.\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
