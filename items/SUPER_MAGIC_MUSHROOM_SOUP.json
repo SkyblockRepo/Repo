@@ -6,8 +6,8 @@
   "npcValue": 640,
   "lore": "&7&7Consuming this soup on your private\n&7island or garden allows the player\n&7to fly for &a200 minutes&7.\n\n&7&7Leaving the island will pause the\n&7effect!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

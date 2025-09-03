@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7&cI guess you have this now.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

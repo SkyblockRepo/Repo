@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+1\n\n&6Ability: Party Flock \n&7Nearby players within &a20 &7blocks gain\n&7&c+1❁ Strength &7for each upgrade of\n&7your &6Intimidation Accessory&7.\n&7\n&7&8''Squawk, squawk!''\n\n&7&8This item can be reforged!\n&9&lRARE CARNIVAL MASK&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

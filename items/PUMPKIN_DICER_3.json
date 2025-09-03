@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7 &8[&8☘&8] &8[&8☘&8] &8[&8☘&8]\n\n&7&7Gain &3+10☯ Farming Wisdom &7while\n&7harvesting pumpkins&7.\n\n&6Ability: Roll em'++ \n&7Every pumpkin you break, you\n&7make a wish to &dRNGesus &7which may\n&7grant you with a few or TONS of\n&7extra pumpkins!\n\n&7''\"3.0 is better than the 2.0 version\" -''\n&7''CEO of PumpkinDicer LLC.''\n\n&7&8This item can be reforged!\n&6&lLEGENDARY AXE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

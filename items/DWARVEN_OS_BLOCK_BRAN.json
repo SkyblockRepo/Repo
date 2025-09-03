@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7The first &a5 &7times you consume this,\n&7gain a permanent &6+2☘ Block Fortune&7.\n\n&eRight-click to consume!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

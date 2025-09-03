@@ -6,12 +6,12 @@
   "npcValue": 1200,
   "lore": "&7Health: &a+20\n&7Defense: &a+50\n\n&6Ability: Block Damage \n&7If you are at full &c❤ Health&7, the first damage\n&7you take will be nullified.\n&8Cooldown: &a60s\n\n&7&8This item can be reforged!\n&9&lRARE CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,8 +6,8 @@
   "npcValue": 10,
   "lore": "&7&8Brewing Ingredient\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

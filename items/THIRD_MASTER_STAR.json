@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Upgrade a Dungeon Item's &cMaster\n&cStars &7from &c➋&8➜&c➌&7, increasing all\n&7stats by an additional &a+5%&7 in &cMaster\n&cMode&7!\n\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

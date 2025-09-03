@@ -6,8 +6,8 @@
   "npcValue": 61500,
   "lore": "&7&8Brewing Ingredient\n&7&8Collection Item\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

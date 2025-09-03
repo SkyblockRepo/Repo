@@ -6,8 +6,8 @@
   "npcValue": 25500,
   "lore": "&7&8Collection Item\n\n&9&lRARE ORE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

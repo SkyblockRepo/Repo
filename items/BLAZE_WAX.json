@@ -6,8 +6,8 @@
   "npcValue": 58600,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Waxed &7reforge when\n&7combined with equipment&7.\n\n&7&8''Used by some Master Blacksmiths to''\n&8''infuse equipments with an immense''\n&8''power. It's also a great replacement''\n&8''for butter.''\n\n&9Waxed &7(&6Legendary&7):\n&7Health: &a+12\n&7Crit Chance: &c+6%\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

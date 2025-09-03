@@ -6,12 +6,12 @@
   "npcValue": 1000000,
   "lore": "&7&6Sold to shops for 1,000,000 coins!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

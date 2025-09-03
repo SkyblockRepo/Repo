@@ -6,12 +6,12 @@
   "npcValue": 2000,
   "lore": "&7Damage: &c+100\n\n&7&8This item can be reforged!\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

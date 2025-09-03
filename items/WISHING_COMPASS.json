@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&7&7''True enough, this compass does not''\n&7''point north. It points to the thing you''\n&7''want most in this world.''\n\n&7&7The &acompass &7will point to &dimportant\n&dlocations &7when in the &5Crystal Hollows&7.\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

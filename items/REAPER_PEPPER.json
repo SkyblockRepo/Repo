@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7Consume this dangerous &7pepper to\n&7permanently gain &c+1❤ Health &7and\n&7&b+1❄ Cold Resistance&7.\n\n&7You may eat up to &a5 &7peppers before\n&7it's considered truly dangerous.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

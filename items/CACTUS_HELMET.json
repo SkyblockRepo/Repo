@@ -6,12 +6,12 @@
   "npcValue": 3,
   "lore": "&7Health: &a+5\n&7Defense: &a+10\n\n&6Full Set Bonus: Deflect &7(0/4)\n&7Rebound &a33% &7of the damage you take\n&7back at your enemy.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 5&c.\n&f&lCOMMON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

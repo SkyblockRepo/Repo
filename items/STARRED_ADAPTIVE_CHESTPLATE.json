@@ -6,11 +6,11 @@
   "npcValue": 20000,
   "lore": "&7Gear Score: &d443 &8(482)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+180 &8(+198)\n&7Defense: &a+95 &8(+104.5)\n&7Intelligence: &a+15 &8(+16.5)\n&7 &8[&7⚔&8]\n\n&6Full Set Bonus: Efficient training &7(0/4)\n&7Every &b5 &7Catacombs levels, this armor piece\n&7gains +&a2% &7stats.\n\n&7Grants additional bonuses based on your\n&7selected dungeon class!\n\n&7&bBerserk&7: &7+&c20❁ Strength\n&7&bHealer&7: &7+&a5☄ Mending&7, +&c40❤ Health\n&7&bMage&7: &7+&b50✎ Intelligence\n&7&bTank&7: &7+&a30❈ Defense&7 and reduces damage\n&7taken by &b5% &7for each piece you have equipped\n&7if you are hit by the same monster within &e10\n&e&7seconds.\n&7&bArcher&7: &7+&95☣ Crit Chance&7, +&915☠ Crit Damage\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

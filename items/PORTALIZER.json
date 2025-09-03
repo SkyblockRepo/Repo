@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Combine in an anvil with any &aTravel\n&aScroll &7to transform it into a Portal\n&7item which can be placed on your\n&7private island.\n\n&7&8Note: Some portals are available in\n&8various collections with cheap\n&8recipes!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

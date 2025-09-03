@@ -6,12 +6,12 @@
   "npcValue": 123000,
   "lore": "&7Health: &a+50\n\n&6Ability: Healing Boost \n&7Doubles your &a☄ Mending &7and &4♨\n&4Vitality &7while wearing.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

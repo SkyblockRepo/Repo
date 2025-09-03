@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&7Instantly grows crops and saplings.\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

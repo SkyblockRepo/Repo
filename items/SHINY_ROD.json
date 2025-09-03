@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Shiny pigs run away from you &e30%\n&e&7faster while holding this.\n\n&7Extract &625% &7extra coins from shiny\n&7orbs.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

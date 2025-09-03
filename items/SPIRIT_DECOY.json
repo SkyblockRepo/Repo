@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Spiritual &7reforge when\n&7combined with a bow&7.\n\n&7&8''As light as a feather, and you can''\n&8''almost see through it. Some people''\n&8''say looking at it for too long can''\n&8''change your personality.''\n\n&9Spiritual &7(&6Legendary&7):\n&7Strength: &c+28\n&7Crit Chance: &c+12%\n&7Crit Damage: &c+55%\n\n&9Spiritual Bonus\n&7Grants a &a10% &7chance to spawn a\n&7Spirit Decoy when you kill an enemy\n&7in a dungeon.\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

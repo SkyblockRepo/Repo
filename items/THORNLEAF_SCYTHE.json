@@ -6,11 +6,11 @@
   "npcValue": 50,
   "lore": "&7A crudely sharpened implement used\n&7by the &cBarbarians &7to harvest &aRed\n&aThornleaf&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON HOE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

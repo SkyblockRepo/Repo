@@ -6,12 +6,12 @@
   "npcValue": 71000,
   "lore": "&7Health: &a+200\n&7Defense: &a+65\n\n&6Ability: Detonate \n&7Causes an explosion when dropping\n&7below &a20% HP&7, damaging and knocking\n&7back all monsters around you.\n&8Cooldown: &a60s\n\n&7&8This item can be reforged!\n&9&lRARE LEGGINGS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

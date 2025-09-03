@@ -6,12 +6,12 @@
   "npcValue": 201000,
   "lore": "&7Strength: &c+15\n&7Health: &a+20\n&7Defense: &a+10\n\n&6Ability: Contaminate\n&7Killing an enemy causes an explosion\n&7dealing &a10% &7of their total &c❤ Health\n&c&7as damage to all enemies within &a2\n&ablocks&7. Enemies in the blast radius\n&7will also be &6contaminated &7causing\n&7them to explode on death.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC GLOVES&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

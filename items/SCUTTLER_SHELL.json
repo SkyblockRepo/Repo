@@ -6,8 +6,8 @@
   "npcValue": 1000000,
   "lore": "&7Use at &bKat &7to upgrade &eHermit Crab\n&ePets &7to &dMythic &7rarity.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

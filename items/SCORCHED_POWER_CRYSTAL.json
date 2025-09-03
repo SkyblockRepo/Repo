@@ -6,8 +6,8 @@
   "npcValue": 350000,
   "lore": "&7&7Powers &bBeacons &7for up to &348 hours\n&3&7at a time!\n\n&7Adds &6+1% &7minion speed buff and &a+20%\n&a&7profile stats to beacons fueled by this\n&7power crystal!\n\n&7Has a single &7use and can be stacked.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

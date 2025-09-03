@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Booster\n&7&8Combinable in Anvil\n\n&7Applies the &b४ Fighting &7booster when\n&7combined with Foraging Armor,\n&7Equipment, or Axes.\n\n&7Increases damage against Foraging\n&7Island creatures.\n\n&f&lCOMMON BOOSTER&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
-    "auctionable": true,
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

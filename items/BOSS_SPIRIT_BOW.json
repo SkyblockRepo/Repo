@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d1 &8(1)\n&7Damage: &c+1 &8(+1.1)\n\n&7An extremely fragile but powerful\n&7bow, capable of damaging &cThorn&7,\n&7despite him being a spirit!\n\n&7&8This item can be reforged!\n&5&lEPIC DUNGEON BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

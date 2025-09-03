@@ -6,8 +6,8 @@
   "npcValue": 20000,
   "lore": "&7&7''Stable magnetic field, but handle with''\n&7''caution.''\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n\n&8Combinable in Reforge Anvil\n\n\n\n&7Applies the &9Undead &7reforge when\n\n&7combined with armor.\n\n\n\n&8''The Zombie it came from was''\n\n&8''probably a great warrior before its''\n\n&8''death.''\n\n\n\n&9Undead &7(&6Legendary&7):\n\n&7Health: &c+25\n\n&7Defense: &a+25\n\n&7Strength: &c+5\n\n&7Bonus Attack Speed: &e+5%\n\n\n\n&9Undead Bonus\n\n&7Decreases damage taken from &2༕\n\n&2Undead&7 mobs by &a2%&7.\n\n\n\n&7Requires &aMining Skill Level XVI&7!\n\n\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

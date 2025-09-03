@@ -6,12 +6,12 @@
   "npcValue": 5000,
   "lore": "&7Damage: &c+360\n\n&7Arrows shot using this bow have an\n&7aura around them that deals &c360❁\n&cDamage &7to nearby enemies instead of\n&7dealing impact damage. Arrows travel\n&7through enemies.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

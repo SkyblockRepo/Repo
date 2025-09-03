@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+30\n&7Strength: &c+10\n&7Foraging Fortune: &a+20\n&7Sweep: &a+7\n&7 &8[&8☘&8]\n\n&6Ability: Frenzy \n&7&7Gains &21∮ Sweep &7every &a2,000 Logs\n&a&7cut on &2Galatea&7. &8(max 20)\n&7Current Bonus: &2+0∮\n&7Next Upgrade: &2+1∮ &8(&a0&7/&c2,000&8)\n\n&7Logs Cut: &b0\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aForaging Skill 12&c.\n&9&lRARE AXE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

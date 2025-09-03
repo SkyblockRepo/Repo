@@ -6,9 +6,9 @@
   "npcValue": 5000,
   "lore": "&7&7This bottle is empty, I wonder if\n&7there is a way to charge it up...\n&7 \n&7Charge: &e0&6/&e500,000\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

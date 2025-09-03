@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Big fan of parties, yet it's hard to\n&7enjoy them without friends.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

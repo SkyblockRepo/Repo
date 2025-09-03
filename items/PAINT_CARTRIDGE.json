@@ -6,12 +6,12 @@
   "npcValue": 10000,
   "lore": "&7&7Observe the thrilling process of\n&7paint drying to gain &3☯ Carpentry\n&3Wisdom&7! Be careful not to look away,\n&7this paint demands your full attention.\n\n&eRight-click to open!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

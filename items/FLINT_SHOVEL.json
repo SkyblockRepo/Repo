@@ -6,12 +6,12 @@
   "npcValue": 20,
   "lore": "&7Grants a &a100% &7chance of receiving\n&7flint from gravel.\n&7\n&7This item can be also used as a\n&7minion upgrade to allow gravel\n&7minions to always receive flint.\n\n&f&lCOMMON SHOVEL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
-    "enchantable": true,
-    "museumable": true,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,14 +6,14 @@
   "npcValue": 100,
   "lore": "&7&8Brewing Ingredient\n\n&6Ability: Spirit Leap  &e&lRIGHT CLICK&r\n&7Allows you to teleport to any teammate! Grants\n&7&a1 &7second of immunity after teleporting,\n&7immunity is cancelled upon dealing damage.\n&8Cooldown: &a5s\n\n&cDungeons only!\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "SPIRIT_LEAP",

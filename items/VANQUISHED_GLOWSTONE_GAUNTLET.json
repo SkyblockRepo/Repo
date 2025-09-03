@@ -6,12 +6,12 @@
   "npcValue": 118720,
   "lore": "&7Intelligence: &a+15\n&7Mining Fortune: &a+7\n\n&6Piece Bonus: Glowing\n&7Mine Glowstone to accumulate &b✎\n&bIntelligence&7.\n&7Piece Bonus: &b+0✎\n&7Next Upgrade: &b+1✎ &8(&a0&7/&c1,000&8)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC GLOVES&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

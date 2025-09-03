@@ -6,12 +6,12 @@
   "npcValue": 2500,
   "lore": "&6Ability: Lightning Strike  &e&lRIGHT CLICK&r\n&7Strikes lightning up to &f10 blocks &7away, dealing\n&7&c40 &7damage to the nearest monster.\n&8Mana Cost: &370\n\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON WAND&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
-    "enchantable": true,
-    "museumable": true,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

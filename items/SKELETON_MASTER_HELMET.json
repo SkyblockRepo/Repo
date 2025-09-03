@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Gear Score: &d100 &8(108)\n&7Crit Chance: &c+2% &8(+2%)\n&7Crit Damage: &c+22% &8(+24.2%)\n&7Health: &a+16 &8(+17.6)\n&7Defense: &a+26 &8(+28.6)\n\n&7Increase the damage you deal with\n&7arrows by &c5%&7.\n&6Full Set Bonus: Skeleton Master &7(0/4)\n&7Increase the damage you deal with\n&7arrows by &c25%&7.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 12&c.\n&5&lEPIC DUNGEON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

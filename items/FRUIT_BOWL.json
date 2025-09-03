@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7Click on a player while holding this\n&7item to add the name of their profile\n&7to this item.\n\n&7Find one of each default profile\n&7name to reset this item and\n&7permanently gain &3+1☯ Farming\n&3Wisdom &7and &6250,000 Coins&7.\n\n&7Names missing:\n&7&bApple&7, &bBanana&7, &bBlueberry&7, &bCucumber&7, &bCoconut&7,\n&7&bGrapes&7, &bKiwi&7, &bLemon&7, &bLime&7, &bMango&7, &bOrange&7,\n&7&bPapaya&7, &bPineapple&7, &bPeach&7, &bPear&7, &bPomegranate&7,\n&7&bRaspberry&7, &bStrawberry&7, &bTomato&7, &bWatermelon&7,\n&7&bZucchini\n\n&8You may only gain the bonus once!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

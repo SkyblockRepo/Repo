@@ -6,12 +6,12 @@
   "npcValue": 8,
   "lore": "&7Speed: &a+2\n&7Intelligence: &a+10\n\n&7Your arrows have a &a20% &7chance to\n&7explode on impact dealing &a50 &7base\n&7Magic Damage to enemies within &a8\n&a&7blocks.\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

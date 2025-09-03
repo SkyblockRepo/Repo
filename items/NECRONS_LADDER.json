@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7&7While in your inventory, counts the\n&7number of &6Necron's Handles &7that\n&7you obtain from Dungeon Chests&7.\n\n&7If you obtain &a3 &7handles you can\n&7consume this item to permanently gain:\n&7 &c+1❤ Health\n&7 &b+1✎ Intelligence\n&7 &b+1✯ Magic Find\n\n&7Handles obtained: &a0&7/&c3\n\n&8You may only gain this bonus once!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

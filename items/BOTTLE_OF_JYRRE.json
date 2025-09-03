@@ -6,9 +6,9 @@
   "npcValue": 100,
   "lore": "&7Provides a boost to your &b✎\n&bIntelligence&7! The longer this item\n&7stays in your inventory, the more\n&7intelligent you will be after drinking\n&7it. Must be kept in your inventory at\n&7all times!\n\n&7Intelligence Bonus: &b0\n&7Duration: &b10 Minutes\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

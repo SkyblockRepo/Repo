@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Sea Creature Chance: &c+1%\n&7Health: &a+30\n&7Defense: &a+15\n&7Treasure Chance: &a+0.1%\n\n&8Tiered Bonus: Swamp Soldier (0/8)\n&7Increases damage dealt to &3Sea\n&3Creatures &7by &a5%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&a&lUNCOMMON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

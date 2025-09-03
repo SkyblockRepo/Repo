@@ -6,12 +6,12 @@
   "npcValue": 25000,
   "lore": "&7Strength: &c+25\n&7Sea Creature Chance: &c+3%\n&7Health: &a+225\n&7Defense: &a+200\n&7 &8[&8⚔&8] &8[&8☂&8]\n\n&7Damage taken by &cLava Sea\n&cCreatures &7is reduced by &a5% &7and\n&7damage dealt is increased by &c1.1x&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 33&c.\n&9&lRARE CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
