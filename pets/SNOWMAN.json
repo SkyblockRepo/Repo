@@ -1,0 +1,33 @@
+{
+  "internalId": "SNOWMAN",
+  "name": "SNOWMAN",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "SNOWMAN",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Damage}} <br> {{Strength}} <br> {{Crit Damage}}",
+    "category": "Combat",
+    "highest_tier": "Mythic",
+    "image": "[[File:SkyBlock_pets_snowman.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_snowman.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_snowman_legendary}}",
+    "itemlore2": "{{Item_pet_snowman_mythic}}",
+    "itemlorecolumns": "2",
+    "kat": "The Snowman Pet can have its rarity upgraded from {{Legendary}} all the way up to {{Mythic}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_legendary_level_1 = {{Coins|1,000,000}} <br> 1 [[File:SkyBlock_items_magic_top_hat.png|25px|link=Magic Top Hat]] [[Magic Top Hat]]\n|cost_legendary_level_100 = {{Coins|700,000}} <br> 1 [[File:SkyBlock_items_magic_top_hat.png|25px|link=Magic Top Hat]] [[Magic Top Hat]]\n|time_legendary = 1 Hour\n}}",
+    "legendary_value": "{{Coins|2,000,000}}",
+    "leveling": "{{Pet Leveling |legendary = |mythic = }}",
+    "lore": "{{#switch: {{{2|MYTHIC}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,snowman:Snowman Pet,1,&7[Lvl 1] &6Snowman\n&8Combat Pet\n\n&7Fight alongside your pet Snowman!\n\n&7Damage: &c+0.25\n&7Strength: &c+0.25\n&7Crit Damage: &c+0.25%\n\n&6Blizzard\n&7&7Enemies within &a8.1 &7blocks are slowed\n&7by &a25% &7and deal &a0.1% &7less damage.\n\n&6Frostbite\n&7&7Your freezing aura slows enemy\n&7attacks causing you to take &a0.1%\n&a&7reduced damage\n\n&6Snow Cannon\n&7&7Shoots a snowball towards an enemy\n&7when you attack dealing &a10.1% &7of\n&7your last dealt melee damage<nowiki>,</nowiki>\n&7capped at &f200<nowiki>,</nowiki>000&7. &8(1s cooldown)\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,snowman:Snowman Pet,1,&7[Lvl 100] &6Snowman\n&8Combat Pet\n\n&7Fight alongside your pet Snowman!\n\n&7Damage: &c+25\n&7Strength: &c+25\n&7Crit Damage: &c+25%\n\n&6Blizzard\n&7&7Enemies within &a16 &7blocks are slowed\n&7by &a25% &7and deal &a10% &7less damage.\n\n&6Frostbite\n&7&7Your freezing aura slows enemy\n&7attacks causing you to take &a10%\n&a&7reduced damage\n\n&6Snow Cannon\n&7&7Shoots a snowball towards an enemy\n&7when you attack dealing &a20% &7of your\n&7last dealt melee damage<nowiki>,</nowiki> capped at\n&7&f200<nowiki>,</nowiki>000&7. &8(1s cooldown)\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n| MYTHIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,snowman:Snowman Pet,1,&7[Lvl 1] &dSnowman\n&8Combat Pet\n\n&7Fight alongside your pet Snowman!\n\n&7Damage: &c+0.25\n&7Strength: &c+0.25\n&7Crit Damage: &c+0.25%\n\n&6Blizzard\n&7&7Enemies within &a8.1 &7blocks are slowed\n&7by &a25% &7and deal &a0.1% &7less damage.\n\n&6Frostbite\n&7&7Your freezing aura slows enemy\n&7attacks causing you to take &a0.1%\n&a&7reduced damage\n\n&6Snow Cannon\n&7&7Shoots a snowball towards an enemy\n&7when you attack dealing &a10.1% &7of\n&7your last dealt melee damage<nowiki>,</nowiki>\n&7capped at &f200<nowiki>,</nowiki>000&7. &8(1s cooldown)\n\n&6Ouch!\n&7&7&7Your snowballs have &a50% &7chance of\n&7dealing &cdouble &7damage!\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&d'''MYTHIC'''\n   | sbpet,,snowman:Snowman Pet,1,&7[Lvl 100] &dSnowman\n&8Combat Pet\n\n&7Fight alongside your pet Snowman!\n\n&7Damage: &c+25\n&7Strength: &c+25\n&7Crit Damage: &c+25%\n\n&6Blizzard\n&7&7Enemies within &a16 &7blocks are slowed\n&7by &a25% &7and deal &a10% &7less damage.\n\n&6Frostbite\n&7&7Your freezing aura slows enemy\n&7attacks causing you to take &a10%\n&a&7reduced damage\n\n&6Snow Cannon\n&7&7Shoots a snowball towards an enemy\n&7when you attack dealing &a20% &7of your\n&7last dealt melee damage<nowiki>,</nowiki> capped at\n&7&f200<nowiki>,</nowiki>000&7. &8(1s cooldown)\n\n&6Ouch!\n&7&7&7Your snowballs have &a50% &7chance of\n&7dealing &cdouble &7damage!\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&d'''MYTHIC'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "mythic_value": "{{Coins|2,000,000}}",
+    "name": "Snowman",
+    "ref": "[[File:SkyBlock_pets_snowman.png|{{{is|30}}}px|link=]] [[Snowman Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_SNOWMAN_MELTING\n|rarity = Epic\n|obtaining = {{Source|January 25, 2025 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_SNOWMAN_COOKIE_SANDWICH\n|rarity = Legendary\n|obtaining = {{Source|December 21, 2024 {{NPC/TAILOR_OWNER}}'s {{color|aqua|Winter 2024}} Bundle|{{SkyBlock Gems|950}}}}\n}}\n{{Skin\n|item = PET_SKIN_SNOWMAN_PLUSHIE\n|rarity = Epic\n|obtaining = {{Source|December 30, 2023 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_SNOWMAN_ICE_GOLEM\n|rarity = Epic\n|obtaining = {{Source|October 21, 2022 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Legendary}} <br> {{Mythic}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

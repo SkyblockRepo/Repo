@@ -16,50 +16,5 @@
     "sackable": false
   },
   "data": null,
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "RIFT_TROPHY_WYLDLY_SUPREME",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "BOTTLED_ODONATA",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "LIL_PAD",
-          "quantity": 16
-        },
-        "3": {
-          "itemId": "BOTTLED_ODONATA",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "DEADGEHOG_SPINE",
-          "quantity": 12
-        },
-        "5": {
-          "itemId": "LEECH_SUPREME_FRAGMENT",
-          "quantity": 4
-        },
-        "6": {
-          "itemId": "DEADGEHOG_SPINE",
-          "quantity": 12
-        },
-        "7": {
-          "itemId": "BOTTLED_ODONATA",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "LIL_PAD",
-          "quantity": 16
-        },
-        "9": {
-          "itemId": "BOTTLED_ODONATA",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

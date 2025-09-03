@@ -31,10 +31,10 @@
       "game_stage": "STARTER",
       "mapped_item_ids": []
     },
-    "soulbound": "SOLO",
-    "description": "%%gray%%%%italic%%This is barely holding together, seriously who made this?",
     "can_interact": false,
-    "can_interact_right_click": false
+    "can_interact_right_click": false,
+    "description": "%%gray%%%%italic%%This is barely holding together, seriously who made this?",
+    "soulbound": "SOLO"
   },
   "recipes": [
     {

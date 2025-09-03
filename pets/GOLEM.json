@@ -1,0 +1,33 @@
+{
+  "internalId": "GOLEM",
+  "name": "GOLEM",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "GOLEM",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Health}} <br> {{Strength}} <br> {{Swing Range}}",
+    "category": "Combat",
+    "epic_value": "{{Coins|500,000}}",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_golem.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_golem.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_golem_epic}}",
+    "itemlore2": "{{Item_pet_golem_legendary}}",
+    "itemlorecolumns": "2",
+    "kat": "The Golem Pet can have its rarity upgraded from {{Epic}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_epic_level_1 = {{Coins|10,000,000}} <br> 8 [[File:SkyBlock_items_enchanted_iron_block.gif|25px|link=Enchanted Iron Block]] [[Enchanted Iron Block]]\n|cost_epic_level_100 = {{Coins|7,000,000}} <br> 8 [[File:SkyBlock_items_enchanted_iron_block.gif|25px|link=Enchanted Iron Block]] [[Enchanted Iron Block]]\n|time_epic = 20 Days\n}}",
+    "legendary_value": "{{Coins|2,500,000}}",
+    "leveling": "{{Pet Leveling |epic = |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,golem:Golem Pet,1,&7[Lvl 1] &5Golem\n&8Combat Pet\n\n&7Health: &a+1.5\n&7Strength: &c+0.5\n&7Swing Range: &a+0.01\n\n&6Last Stand\n&7&7While at less than &a20% HP&7<nowiki>,</nowiki> reduce\n&7incoming damage by &a20%&7. Additionally<nowiki>,</nowiki>\n&7gain a temporary shield equal to &a40%\n&a&7of your maximum health and deal &a40%\n&a&7more damage.\n&8(Lasts 12s<nowiki>,</nowiki> 60s cooldown)\n\n&6Ricochet\n&7&7Your iron plating causes &a0.2% &7of\n&7attacks to ricochet and hit the\n&7attacker\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,golem:Golem Pet,1,&7[Lvl 100] &5Golem\n&8Combat Pet\n\n&7Health: &a+150\n&7Strength: &c+50\n&7Swing Range: &a+1\n\n&6Last Stand\n&7&7While at less than &a20% HP&7<nowiki>,</nowiki> reduce\n&7incoming damage by &a20%&7. Additionally<nowiki>,</nowiki>\n&7gain a temporary shield equal to &a40%\n&a&7of your maximum health and deal &a40%\n&a&7more damage.\n&8(Lasts 12s<nowiki>,</nowiki> 60s cooldown)\n\n&6Ricochet\n&7&7Your iron plating causes &a25% &7of\n&7attacks to ricochet and hit the\n&7attacker\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,golem:Golem Pet,1,&7[Lvl 1] &6Golem\n&8Combat Pet\n\n&7Health: &a+1.5\n&7Strength: &c+0.5\n&7Swing Range: &a+0.01\n\n&6Last Stand\n&7&7While at less than &a20% HP&7<nowiki>,</nowiki> reduce\n&7incoming damage by &a20%&7. Additionally<nowiki>,</nowiki>\n&7gain a temporary shield equal to &a40%\n&a&7of your maximum health and deal &a40%\n&a&7more damage.\n&8(Lasts 12s<nowiki>,</nowiki> 60s cooldown)\n\n&6Ricochet\n&7&7Your iron plating causes &a0.2% &7of\n&7attacks to ricochet and hit the\n&7attacker\n\n&6Toss\n&7&7Every 5 hits<nowiki>,</nowiki> throw the enemy up into\n&7the air and deal &a5x &7damage &8(5s\n&8cooldown)\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,golem:Golem Pet,1,&7[Lvl 100] &6Golem\n&8Combat Pet\n\n&7Health: &a+150\n&7Strength: &c+50\n&7Swing Range: &a+1\n\n&6Last Stand\n&7&7While at less than &a20% HP&7<nowiki>,</nowiki> reduce\n&7incoming damage by &a20%&7. Additionally<nowiki>,</nowiki>\n&7gain a temporary shield equal to &a40%\n&a&7of your maximum health and deal &a40%\n&a&7more damage.\n&8(Lasts 12s<nowiki>,</nowiki> 60s cooldown)\n\n&6Ricochet\n&7&7Your iron plating causes &a25% &7of\n&7attacks to ricochet and hit the\n&7attacker\n\n&6Toss\n&7&7Every 5 hits<nowiki>,</nowiki> throw the enemy up into\n&7the air and deal &a5x &7damage &8(5s\n&8cooldown)\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Golem",
+    "ref": "[[File:SkyBlock_pets_golem.png|{{{is|30}}}px|link=]] [[Golem Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_IRON_GOLEM_CLAY\n|rarity = Epic\n|obtaining = {{Source|December 10th, 2024 [[Taylor#Collection|Taylor's Collection]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_GOLEM_END\n|rarity = Epic\n|obtaining = {{Source|April 20, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Epic}} <br> {{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

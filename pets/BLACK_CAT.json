@@ -1,0 +1,33 @@
+{
+  "internalId": "BLACK_CAT",
+  "name": "BLACK_CAT",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "BLACK_CAT",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Speed}} <br> {{Intelligence}}",
+    "category": "Combat",
+    "highest_tier": "Mythic",
+    "image": "[[File:SkyBlock_pets_black cat.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_black cat.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_black cat_legendary}}",
+    "itemlore2": "{{Item_pet_black cat_mythic}}",
+    "itemlorecolumns": "2",
+    "kat": "The Black Cat Pet can have its rarity upgraded from {{Legendary}} all the way up to {{Mythic}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_legendary_level_1 = {{Coins|1,000,000}} <br> 1 [[File:Minecraft_items_black_wool.png|25px|link=Black Woolen Yarn]] [[Black Woolen Yarn]]\n|cost_legendary_level_100 = {{Coins|700,000}} <br> 1 [[File:Minecraft_items_black_wool.png|25px|link=Black Woolen Yarn]] [[Black Woolen Yarn]]\n|time_legendary = 1 Hour\n}}",
+    "legendary_value": "{{Coins|5,000,000}}",
+    "leveling": "{{Pet Leveling |legendary = |mythic = }}",
+    "lore": "{{#switch: {{{2|MYTHIC}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,black_cat:Black Cat Pet,1,&7[Lvl 1] &6Black Cat\n&8Combat Pet\n\n&7Speed: &a+1.25\n&7Intelligence: &a+1\n&7Magic Find: &a+0.15\n&7Pet Luck: &a+0.15\n\n&6Hunter\n&7&7Increases your &f✦ Speed &7and speed\n&7cap by &a+1&7.\n\n&6Omen\n&7&7Grants &d+0.15♣ Pet Luck&7.\n\n&6Supernatural\n&7&7Grants &b+0.15✯ Magic Find&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,black_cat:Black Cat Pet,1,&7[Lvl 100] &6Black Cat\n&8Combat Pet\n\n&7Speed: &a+125\n&7Intelligence: &a+100\n&7Magic Find: &a+15\n&7Pet Luck: &a+15\n\n&6Hunter\n&7&7Increases your &f✦ Speed &7and speed\n&7cap by &a+100&7.\n\n&6Omen\n&7&7Grants &d+15♣ Pet Luck&7.\n\n&6Supernatural\n&7&7Grants &b+15✯ Magic Find&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n| MYTHIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,black_cat:Black Cat Pet,1,&7[Lvl 1] &dBlack Cat\n&8Combat Pet\n\n&7Speed: &a+1.25\n&7Intelligence: &a+1\n&7Magic Find: &a+0.15\n&7Pet Luck: &a+0.15\n\n&6Hunter\n&7&7Increases your &f✦ Speed &7and speed\n&7cap by &a+1&7.\n\n&6Omen\n&7&7Grants &d+0.15♣ Pet Luck&7.\n\n&6Supernatural\n&7&7Grants &b+0.15✯ Magic Find&7.\n\n&6Looting\n&7&7Gain &c0.1% &7more collection items from\n&7monsters!\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&d'''MYTHIC'''\n   | sbpet,,black_cat:Black Cat Pet,1,&7[Lvl 100] &dBlack Cat\n&8Combat Pet\n\n&7Speed: &a+125\n&7Intelligence: &a+100\n&7Magic Find: &a+15\n&7Pet Luck: &a+15\n\n&6Hunter\n&7&7Increases your &f✦ Speed &7and speed\n&7cap by &a+100&7.\n\n&6Omen\n&7&7Grants &d+15♣ Pet Luck&7.\n\n&6Supernatural\n&7&7Grants &b+15✯ Magic Find&7.\n\n&6Looting\n&7&7Gain &c15% &7more collection items from\n&7monsters!\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&d'''MYTHIC'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "mythic_value": "{{Coins|10,000,000}}",
+    "name": "Black Cat",
+    "ref": "[[File:SkyBlock_pets_black cat.png|{{{is|30}}}px|link=]] [[Black Cat Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_BLACK_CAT_CATGIRL\n|rarity = Ultimate\n|obtaining = {{Source|April 5, 2025 [[Fire Sale]]|{{SkyBlock Gems|1,800}}}}\n}}\n{{Skin\n|item = PET_SKIN_BLACK_CAT_CARDBOARD_BOX\n|rarity = Epic\n|obtaining = {{Source|March 1, 2025 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_BLACK_CAT_LOAF_CAT_BLACK\n|rarity = Epic\n|obtaining = {{Source|October 5, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_CAT_SPACE_KITTY\n|rarity = Epic\n|obtaining = {{Source|December 16, 2023 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_BLACK_CAT_PURRANORMAL\n|rarity = Mythic\n|obtaining = {{Source|{{color|gold|Halloween 2022}} [[Event Shop]]|250 Event Silver}}\n}}\n{{Skin\n|item = PET_SKIN_BLACK_CAT_IVORY\n|rarity = Epic\n|obtaining = {{Source|April 25, 2021 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_BLACK_CAT_ONYX\n|rarity = Epic\n|obtaining = {{Source|April 25, 2021 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Legendary}} <br> {{Mythic}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -25,8 +25,8 @@
     "name": "§eVery Official Yellow Rock of Love!",
     "tier": "LEGENDARY",
     "glowing": true,
-    "soulbound": "COOP",
-    "description": "%%dark_gray%%%%italic%%A majestic, one-of-a-kind mineral that glistens in the morning sun."
+    "description": "%%dark_gray%%%%italic%%A majestic, one-of-a-kind mineral that glistens in the morning sun.",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

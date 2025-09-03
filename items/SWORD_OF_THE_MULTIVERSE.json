@@ -9,8 +9,8 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -25,8 +25,8 @@
       "RIFT_DAMAGE": 99999999,
       "SWING_RANGE": 15
     },
-    "origin": "RIFT",
-    "description": "%%gray%%┻━┻%%white%%︵ %%red%%\\(°□°)/ %%white%%︵%%gray%%┻━┻"
+    "description": "%%gray%%┻━┻%%white%%︵ %%red%%\\(°□°)/ %%white%%︵%%gray%%┻━┻",
+    "origin": "RIFT"
   },
   "recipes": []
 }

@@ -6,11 +6,11 @@
   "npcValue": 10000,
   "lore": "&7Gear Score: &d148 &8(160)\n&7Damage: &c+60 &8(+66)\n&7Intelligence: &a+135 &8(+148.5)\n&7 &8[&8✎&8]\n\n&6Ability: Ice Spray  &e&lRIGHT CLICK&r\n&7Produces a cone of ice in front of the caster\n&7that deals &c19,000 &7damage to mobs and freezes\n&7them in place for &e5 &7seconds! Frozen mobs\n&7take &c10%&7 increased damage!\n&8Mana Cost: &350\n&8Cooldown: &a5s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 20&c.\n&9&lRARE DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -83,8 +83,9 @@
         }
       ]
     ],
-    "gear_score": 20,
+    "ability_damage_scaling": 0.1,
     "dungeon_item": true,
+    "gear_score": 20,
     "tiered_stats": {
       "DAMAGE": [
         60,
@@ -113,8 +114,7 @@
       "WEAPON_ABILITY_DAMAGE": [
         19000
       ]
-    },
-    "ability_damage_scaling": 0.1
+    }
   },
   "recipes": [
     {

@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -20,8 +20,8 @@
     "material": "ENDER_STONE",
     "name": "§fChunk of the Moon",
     "tier": "RARE",
-    "soulbound": "COOP",
-    "description": "%%dark_gray%%%%italic%%Where love is rife, the preconceived laws of physics mean nothing."
+    "description": "%%dark_gray%%%%italic%%Where love is rife, the preconceived laws of physics mean nothing.",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

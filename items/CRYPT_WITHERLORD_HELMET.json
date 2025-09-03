@@ -30,8 +30,9 @@
         "dungeon_type": "CATACOMBS"
       }
     ],
-    "gear_score": 10,
     "dungeon_item": true,
+    "gear_score": 10,
+    "rarity_salvageable": true,
     "tiered_stats": {
       "DEFENSE": [
         70,
@@ -41,8 +42,7 @@
         5,
         6
       ]
-    },
-    "rarity_salvageable": true
+    }
   },
   "recipes": []
 }

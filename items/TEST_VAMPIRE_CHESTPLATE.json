@@ -9,8 +9,8 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -27,8 +27,8 @@
       "rift_mana_regen": 25,
       "rift_intelligence": 50
     },
-    "origin": "RIFT",
-    "motes_sell_price": 15
+    "motes_sell_price": 15,
+    "origin": "RIFT"
   },
   "recipes": []
 }

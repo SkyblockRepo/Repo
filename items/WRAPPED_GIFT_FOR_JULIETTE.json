@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -25,8 +25,8 @@
     },
     "name": "§cSecret Gift for Juliette",
     "tier": "EPIC",
-    "soulbound": "COOP",
-    "description": "%%dark_gray%%%%italic%%A well-wrapped present that's hot to the touch."
+    "description": "%%dark_gray%%%%italic%%A well-wrapped present that's hot to the touch.",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

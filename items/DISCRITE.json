@@ -25,11 +25,11 @@
     },
     "name": "Discrite",
     "tier": "RARE",
-    "origin": "RIFT",
     "has_uuid": true,
+    "lose_motes_value_on_transfer": true,
     "motes_sell_price": 150,
-    "rift_transferrable": true,
-    "lose_motes_value_on_transfer": true
+    "origin": "RIFT",
+    "rift_transferrable": true
   },
   "recipes": [
     {

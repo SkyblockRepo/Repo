@@ -1,0 +1,31 @@
+{
+  "internalId": "OWL",
+  "name": "OWL",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "OWL",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "",
+    "category": "Taming",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_owl.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_owl.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_owl_legendary}}",
+    "itemlorecolumns": "1",
+    "kat": "The Owl Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "legendary_value": "{{Coins|200,000}}",
+    "leveling": "{{Pet Leveling |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,owl:Owl Pet,1,&7[Lvl 1] &6Owl\n&8Taming Pet\n\n&6Training Refunds\n&7The more coins you spend on Fann's\n&7Sessions<nowiki>,</nowiki> the less coins they will\n&7cost in the future. &8(Max 5% off).\n\n&7Next Milestone: &61% off\n&f'''                    '''&7&7 &60&e/&61M\n\n&6Efficient Trainer\n&7&7Makes training sessions at Fann\n&7more efficient when added into a\n&7session.\n\n&7Increased EXP: &b+0.1% EXP\n\n&6Fast Learner\n&7&7Passively grants &3+0.05☯ Taming\n&3Wisdom&7.\n\n&7&8This pet's perks are active even\n&8when the pet is not summoned!\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,owl:Owl Pet,1,&7[Lvl 100] &6Owl\n&8Taming Pet\n\n&6Training Refunds\n&7The more coins you spend on Fann's\n&7Sessions<nowiki>,</nowiki> the less coins they will\n&7cost in the future. &8(Max 5% off).\n\n&7Next Milestone: &61% off\n&f'''                    '''&7&7 &60&e/&61M\n\n&6Efficient Trainer\n&7&7Makes training sessions at Fann\n&7more efficient when added into a\n&7session.\n\n&7Increased EXP: &b+10% EXP\n\n&6Fast Learner\n&7&7Passively grants &3+5☯ Taming Wisdom&7.\n\n&7&8This pet's perks are active even\n&8when the pet is not summoned!\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Owl",
+    "ref": "[[File:SkyBlock_pets_owl.png|{{{is|30}}}px|link=]] [[Owl Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_SNOW_OWL\n|rarity = Epic\n|obtaining = {{Source|December 12, 2023 {{NPC/TAILOR_OWNER}}'s {{color|aqua|Winter 2023}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

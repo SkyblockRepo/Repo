@@ -1,0 +1,33 @@
+{
+  "internalId": "FRACTURED_MONTEZUMA_SOUL",
+  "name": "FRACTURED_MONTEZUMA_SOUL",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "FRACTURED_MONTEZUMA_SOUL",
+    "auctionable": "{{No|15}}",
+    "basestats": "{{Rift Time}}",
+    "category": "Combat",
+    "epic_value": "{{Coins|500,000}}",
+    "highest_tier": "Epic",
+    "image": "[[File:SkyBlock_pets_fractured_montezuma_soul.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_fractured_montezuma_soul.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_montezuma_rare}}",
+    "itemlore2": "{{Item_pet_montezuma_epic}}",
+    "itemlorecolumns": "2",
+    "kat": "The Montezuma Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "leveling": "{{Pet Leveling |rare = |epic = }}",
+    "lore": "{{#switch: {{{2|EPIC}}}\n| RARE = {{#switch: {{{3|max}}}\n   | min = sbpet,,fractured_montezuma_soul:Montezuma Pet,1,&7[Lvl 1] &9Montezuma\n&8Fractured Soul Pet\n\n&7Found: &90/9 Soul Pieces\n\n&7Rift Time: &a+0.1s\n\n&6Nine Lives\n&7&7Gain &a+15ф Rift Time &7per soul piece.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n   | sbpet,,fractured_montezuma_soul:Montezuma Pet,1,&7[Lvl 100] &9Montezuma\n&8Fractured Soul Pet\n\n&7Found: &90/9 Soul Pieces\n\n&7Rift Time: &a+10s\n\n&6Nine Lives\n&7&7Gain &a+15ф Rift Time &7per soul piece.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,fractured_montezuma_soul:Montezuma Pet,1,&7[Lvl 1] &5Montezuma\n&8Fractured Soul Pet\n\n&7Found: &90/9 Soul Pieces\n\n&7Rift Time: &a+0.1s\n\n&6Nine Lives\n&7&7Gain &a+15ф Rift Time &7per soul piece.\n\n&6Trickery\n&7&7Gain &b+2⚡ Mana Regen &7per soul piece\n&7found.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,fractured_montezuma_soul:Montezuma Pet,1,&7[Lvl 100] &5Montezuma\n&8Fractured Soul Pet\n\n&7Found: &90/9 Soul Pieces\n\n&7Rift Time: &a+10s\n\n&6Nine Lives\n&7&7Gain &a+15ф Rift Time &7per soul piece.\n\n&6Trickery\n&7&7Gain &b+2⚡ Mana Regen &7per soul piece\n&7found.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Montezuma",
+    "rare_value": "{{Coins|50,000}}",
+    "ref": "[[File:SkyBlock_pets_fractured_montezuma_soul.png|{{{is|30}}}px|link=]] [[Montezuma Pet]]",
+    "skins": "",
+    "tiers": "{{Rare}} <br> {{Epic}}",
+    "tradable": "{{No|15}}"
+  }
+}

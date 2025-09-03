@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Gravity Storm  &e&lLEFT CLICK&r\n&7Create a large &5rift &7at the aimed\n&7location, pulling all mobs together.\n&7&8Regen mana 10x slower for 3s after\n&8cast.\n&7&8Soulflow Cost: &310\n&8Mana Cost: &31,200\n&8Cooldown: &a30s\n\n&6Ability: Cells Alignment  &e&lRIGHT CLICK&r\n&7Apply &aAligned &7to yourself for &a6s&7,\n&7plus 4 nearby players on grouped\n&7islands. &8(Catacombs, etc.)\n&7\n&7&a<nowiki>",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
-    "enchantable": true,
-    "museumable": true,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

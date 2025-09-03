@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+80\n&7Strength: &c+50\n\n&7Earn &6+20 coins &7from monster kills (Level &e10+ &7only)\n\n&c+1 Damage &7per &c500 &7kills\n&8Max +35\n&7Kills: &c0\n\n&c+1❁ Strength &7per &e500 &7wood\n&8Sums wood collections, max +100\n&7Wood collections: &e0\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

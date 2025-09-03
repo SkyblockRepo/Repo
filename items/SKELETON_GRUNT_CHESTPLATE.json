@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Gear Score: &d126 &8(138)\n&7Crit Damage: &c+15% &8(+16.5%)\n&7Health: &a+33 &8(+36.3)\n&7Defense: &a+38 &8(+41.8)\n\n&7Increase the damage you deal with\n&7arrows by &c5%&7.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 1&c.\n&5&lEPIC DUNGEON CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -76,8 +76,9 @@
         }
       ]
     ],
-    "gear_score": 5,
     "dungeon_item": true,
+    "gear_score": 5,
+    "rarity_salvageable": true,
     "tiered_stats": {
       "HEALTH": [
         33,
@@ -115,8 +116,7 @@
         29,
         32
       ]
-    },
-    "rarity_salvageable": true
+    }
   },
   "recipes": []
 }

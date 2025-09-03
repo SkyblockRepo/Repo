@@ -6,9 +6,9 @@
   "npcValue": 50,
   "lore": "&7Reduces the damage taken from &7Cave\n&7Spiders&7, &7Spiders&7, and &7Silverfish by &a5%&7.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -27,14 +27,14 @@
     "category": "ACCESSORY",
     "tier": "UNCOMMON",
     "npc_sell_price": 50,
+    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
         "amount": 10,
         "essence_type": "SPIDER"
       }
-    ],
-    "rarity_salvageable": true
+    ]
   },
   "recipes": []
 }

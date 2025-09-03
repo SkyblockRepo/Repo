@@ -9,10 +9,10 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -29,9 +29,9 @@
     "stats": {
       "rift_time": 50
     },
+    "description": "%%gray%%%%italic%%No matter the place or when, anyone marked by Shen will gain control.",
     "origin": "RIFT",
-    "soulbound": "SOLO",
-    "description": "%%gray%%%%italic%%No matter the place or when, anyone marked by Shen will gain control."
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

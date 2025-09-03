@@ -9,10 +9,10 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
-    "soulboundable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -36,8 +36,8 @@
       "defense": 30,
       "foraging_fortune": 6
     },
-    "soulbound": "SOLO",
-    "can_recombobulate": false
+    "can_recombobulate": false,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d395 &8(435)\n&7Damage: &c+285 &8(+313.5)\n&7Strength: &c+10 &8(+11)\n&7Crit Damage: &c+125% &8(+137.5%)\n&7Swing Range: &a+1.5 &8(+1.5)\n\n&6Ability: Reaving Strike  &e&lRIGHT CLICK&r\n&7Slash in a huge arc, dealing &c135% &7melee\n&7damage to all enemies hit!\n&8Charges: &e5 &8/ &a4s\n\n&7Deals &c+1% &7damage for every &a1% &7of\n&7missing health on the target.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON LONGSWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -24,8 +24,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 6,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 6
       }
     ],
     "stats": {

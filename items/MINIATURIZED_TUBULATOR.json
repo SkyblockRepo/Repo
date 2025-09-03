@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -29,10 +29,10 @@
     "stats": {
       "HEALTH": 1
     },
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "description": "Don't hate the player, hate the game. - Ice T",
-    "rift_transferrable": true
+    "origin": "RIFT",
+    "rift_transferrable": true,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

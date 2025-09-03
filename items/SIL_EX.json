@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7When applied to a pickaxe or a drill,\n&7increases its &9Efficiency &7level by &a1&7!\n&8Can be applied up to Efficiency X.\n&8Requires Efficiency V!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

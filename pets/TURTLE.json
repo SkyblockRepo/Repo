@@ -1,0 +1,33 @@
+{
+  "internalId": "TURTLE",
+  "name": "TURTLE",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "TURTLE",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Health}} <br> {{Defense}} <br> {{True Defense}}",
+    "category": "Combat",
+    "epic_value": "{{Coins|500,000}}",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_turtle.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_turtle.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_turtle_epic}}",
+    "itemlore2": "{{Item_pet_turtle_legendary}}",
+    "itemlorecolumns": "2",
+    "kat": "The Turtle Pet can have its rarity upgraded from {{Epic}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_epic_level_1 = {{Coins|15,000,000}} <br> 16 [[File:SkyBlock_items_enchanted_raw_fish.gif|25px|link=Enchanted Raw Fish]] [[Enchanted Raw Fish]]\n|cost_epic_level_100 = {{Coins|10,500,000}} <br> 16 [[File:SkyBlock_items_enchanted_raw_fish.gif|25px|link=Enchanted Raw Fish]] [[Enchanted Raw Fish]]\n|time_epic = 10 Days\n}}",
+    "legendary_value": "{{Coins|5,000,000}}",
+    "leveling": "{{Pet Leveling |epic = |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,turtle:Turtle Pet,1,&7[Lvl 1] &5Turtle\n&8Combat Pet\n\n&7Health: &a+50.25\n&7Defense: &a+100.5\n&7True Defense: &a+0.15\n\n&6Turtle Tactics\n&7&7Gain &a+3.3% &a❈ Defense &7and an\n&7additional &a+10% &a❈ Defense &7when\n&7standing still.\n\n&6Genius Amniote\n&7&7Grants &a+1.01% &a❈ Defense &7to 4\n&7players within 50 blocks of you.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,turtle:Turtle Pet,1,&7[Lvl 100] &5Turtle\n&8Combat Pet\n\n&7Health: &a+75\n&7Defense: &a+150\n&7True Defense: &a+15\n\n&6Turtle Tactics\n&7&7Gain &a+30% &a❈ Defense &7and an\n&7additional &a+10% &a❈ Defense &7when\n&7standing still.\n\n&6Genius Amniote\n&7&7Grants &a+2.5% &a❈ Defense &7to 4\n&7players within 50 blocks of you.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,turtle:Turtle Pet,1,&7[Lvl 1] &6Turtle\n&8Combat Pet\n\n&7Health: &a+50.25\n&7Defense: &a+100.5\n&7True Defense: &a+0.15\n\n&6Turtle Tactics\n&7&7Gain &a+3.3% &a❈ Defense &7and an\n&7additional &a+10% &a❈ Defense &7when\n&7standing still.\n\n&6Genius Amniote\n&7&7Grants &a+1.01% &a❈ Defense &7to 4\n&7players within 50 blocks of you.\n\n&6Unflippable\n&7&7Gain &aimmunity &7to knockback\n\n&6Turtle Shell\n&7&7When under &c40% &7maximum HP<nowiki>,</nowiki> you take\n&7&a0.25% &7less damage. Gain &4+10.1♨\n&4Vitality &7for 15 seconds after taking\n&710 hits.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,turtle:Turtle Pet,1,&7[Lvl 100] &6Turtle\n&8Combat Pet\n\n&7Health: &a+75\n&7Defense: &a+150\n&7True Defense: &a+15\n\n&6Turtle Tactics\n&7&7Gain &a+30% &a❈ Defense &7and an\n&7additional &a+10% &a❈ Defense &7when\n&7standing still.\n\n&6Genius Amniote\n&7&7Grants &a+2.5% &a❈ Defense &7to 4\n&7players within 50 blocks of you.\n\n&6Unflippable\n&7&7Gain &aimmunity &7to knockback\n\n&6Turtle Shell\n&7&7When under &c40% &7maximum HP<nowiki>,</nowiki> you take\n&7&a25% &7less damage. Gain &4+20♨ Vitality\n&4&7for 15 seconds after taking 10 hits.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Turtle",
+    "ref": "[[File:SkyBlock_pets_turtle.png|{{{is|30}}}px|link=]] [[Turtle Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_TURTLE_ANCIENT_GOLDEN\n|rarity = Mythic\n|obtaining = {{Source|September 3, 2023 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{Skin\n|item = PET_SKIN_TURTLE_ANCIENT\n|rarity = Mythic\n|obtaining = From the [[Raffle of the Century#Milestones|Raffle of the Century 50 Ticket Milestone]].\n}}\n{{Skin\n|item = PET_SKIN_TURTLE_SHELL_SHULKED\n|rarity = Mythic\n|obtaining = {{Source|August 23, 2025 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Epic}} <br> {{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

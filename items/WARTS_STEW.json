@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -20,8 +20,8 @@
     "material": "RABBIT_STEW",
     "name": "§cMushroom & Warts Stew",
     "tier": "RARE",
-    "soulbound": "COOP",
-    "description": "%%dark_gray%%%%italic%%Made with love, and an array of slightly more questionable ingredients."
+    "description": "%%dark_gray%%%%italic%%Made with love, and an array of slightly more questionable ingredients.",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

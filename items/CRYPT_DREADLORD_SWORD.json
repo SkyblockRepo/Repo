@@ -73,7 +73,9 @@
         }
       ]
     ],
+    "ability_damage_scaling": 0.3,
     "dungeon_item": true,
+    "rarity_salvageable": true,
     "tiered_stats": {
       "DAMAGE": [
         52,
@@ -114,9 +116,7 @@
       "WEAPON_ABILITY_DAMAGE": [
         500
       ]
-    },
-    "rarity_salvageable": true,
-    "ability_damage_scaling": 0.3
+    }
   },
   "recipes": []
 }

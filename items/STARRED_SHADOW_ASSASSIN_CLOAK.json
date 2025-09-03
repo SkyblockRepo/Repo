@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Strength: &c+25 &8(+27.5)\n&7Speed: &a+5 &8(+5.5)\n\n&7On teleport: Your next melee hit\n&7within &a5s &7deals &c10% &7more damage.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor V Completion&c.\n&6&lLEGENDARY DUNGEON CLOAK&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -29,8 +29,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 5,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 5
       }
     ],
     "stats": {

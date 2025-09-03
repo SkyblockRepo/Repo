@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Gear Score: &d128 &8(139)\n&7Crit Chance: &c+2% &8(+2%)\n&7Crit Damage: &c+17% &8(+18.7%)\n&7Health: &a+24 &8(+26.4)\n&7Defense: &a+38 &8(+41.8)\n\n&7Increase the damage you deal with\n&7arrows by &c5%&7.\n\n&6Full Set Bonus: Skeleton Soldier &7(0/4)\n&7Increase the damage you deal with\n&7arrows by an extra &c25%&7.\n\n&2This item is Undead ༕!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 9&c.\n&5&lEPIC DUNGEON LEGGINGS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -76,8 +76,9 @@
         }
       ]
     ],
-    "gear_score": 10,
     "dungeon_item": true,
+    "gear_score": 10,
+    "rarity_salvageable": true,
     "tiered_stats": {
       "HEALTH": [
         24,
@@ -127,8 +128,7 @@
         32,
         35
       ]
-    },
-    "rarity_salvageable": true
+    }
   },
   "recipes": []
 }

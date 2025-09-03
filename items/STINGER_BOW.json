@@ -30,6 +30,7 @@
       }
     ],
     "dungeon_item": true,
+    "rarity_salvageable": true,
     "tiered_stats": {
       "DAMAGE": [
         47,
@@ -43,8 +44,7 @@
         92,
         100
       ]
-    },
-    "rarity_salvageable": true
+    }
   },
   "recipes": []
 }

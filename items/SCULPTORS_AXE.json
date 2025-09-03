@@ -6,12 +6,12 @@
   "npcValue": 64,
   "lore": "&7Right-click on any log on your island\n&7to turn it into a 6 sided log!\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

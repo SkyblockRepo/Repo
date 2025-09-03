@@ -6,12 +6,12 @@
   "npcValue": 375000,
   "lore": "&7Damage: &c+175\n&7Strength: &c+125\n&7Crit Damage: &c+25%\n\n&6Ability: Leap  &e&lRIGHT CLICK&r\n&7Leap into the air and deal &c400&7 damage to\n&7nearby enemies upon landing on the ground.\n&7Damaged enemies will also be frozen for &a1\n&a&7second.\n&8Mana Cost: &350\n&8Cooldown: &a1s\n\n&7&8This item can be reforged!\n&6&lLEGENDARY SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

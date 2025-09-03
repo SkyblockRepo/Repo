@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -21,8 +21,8 @@
     "name": "Nightmare Nullifier",
     "tier": "UNCOMMON",
     "npc_sell_price": 1,
-    "soulbound": "COOP",
-    "description": "Why have nightmares when you can drink coffee instead?"
+    "description": "Why have nightmares when you can drink coffee instead?",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

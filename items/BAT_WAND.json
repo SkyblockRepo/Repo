@@ -41,8 +41,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 4,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 4
       }
     ],
     "museum_data": {
@@ -96,9 +96,9 @@
         }
       ]
     ],
-    "gear_score": 40,
+    "ability_damage_scaling": 0.2,
     "dungeon_item": true,
-    "ability_damage_scaling": 0.2
+    "gear_score": 40
   },
   "recipes": [
     {

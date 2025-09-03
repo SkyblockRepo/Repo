@@ -9,8 +9,8 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -26,8 +26,8 @@
       "RIFT_TIME": 60,
       "rift_walk_speed": 7
     },
-    "origin": "RIFT",
-    "description": "You've got a friend in me."
+    "description": "You've got a friend in me.",
+    "origin": "RIFT"
   },
   "recipes": [
     {

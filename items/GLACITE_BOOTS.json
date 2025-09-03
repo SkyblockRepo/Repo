@@ -59,14 +59,14 @@
       "TRUE_DEFENSE": 5,
       "MINING_FORTUNE": 5
     },
+    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
         "amount": 2,
         "essence_type": "ICE"
       }
-    ],
-    "rarity_salvageable": true
+    ]
   },
   "recipes": []
 }

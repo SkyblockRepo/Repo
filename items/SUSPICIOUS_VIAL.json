@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Suspicious &7reforge when\n&7combined with a melee weapon&7.\n\n&7&8''Smells like fish.''\n\n&9Suspicious &7(&6Legendary&7):\n&7Crit Chance: &c+7%\n&7Crit Damage: &c+85%\n\n&9Suspicious Bonus\n&7Increases weapon damage by &c+15&7.\n\n&7Requires &aMining Skill Level XXIII&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

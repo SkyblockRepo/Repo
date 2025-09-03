@@ -27,13 +27,13 @@
     "tier": "LEGENDARY",
     "unstackable": true,
     "npc_sell_price": 90000,
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "enchantments": {
       "ultimate_the_one": 4
     },
     "motes_sell_price": 25000,
-    "rift_transferrable": true
+    "origin": "RIFT",
+    "rift_transferrable": true,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

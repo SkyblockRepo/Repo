@@ -22,10 +22,10 @@
     "category": "REFORGE_STONE",
     "tier": "LEGENDARY",
     "npc_sell_price": 10000,
-    "origin": "RIFT",
+    "lose_motes_value_on_transfer": true,
     "motes_sell_price": 10000,
-    "rift_transferrable": true,
-    "lose_motes_value_on_transfer": true
+    "origin": "RIFT",
+    "rift_transferrable": true
   },
   "recipes": []
 }

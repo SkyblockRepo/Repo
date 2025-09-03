@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&7Used to open the entrance to the\n&7Jungle Temple.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
@@ -21,8 +21,8 @@
     "name": "Jungle Key",
     "tier": "EPIC",
     "glowing": true,
-    "description": "%%gray%%Used to open the entrance to the Jungle Temple.",
-    "can_interact": false
+    "can_interact": false,
+    "description": "%%gray%%Used to open the entrance to the Jungle Temple."
   },
   "recipes": []
 }

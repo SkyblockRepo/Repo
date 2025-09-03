@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Right-click shiny pigs with this item.\n\n&7Bring the pig back to the orb to gain\n&7loot.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": true,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

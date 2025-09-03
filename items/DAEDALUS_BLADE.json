@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DAEDALUS_BLADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 24
+        },
+        "5": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 24
+        },
+        "8": {
+          "itemId": "DAEDALUS_STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

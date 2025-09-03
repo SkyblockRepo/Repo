@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Gear Score: &d110 &8(117)\n&7Damage: &c+65 &8(+71.5)\n&7Strength: &c+5 &8(+5.5)\n\n&6Ability: Commander Whip \n&7Every &91 Zombies killed&7 during a\n&7dungeon run by this weapon gives\n&7the wielder &a+1 &c❁ Strength&7.\n&7Zombies Killed: &a0\n&7Bonus Strength: &a0\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 18&c.\n&5&lEPIC DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -77,8 +77,8 @@
         }
       ]
     ],
-    "gear_score": 40,
     "dungeon_item": true,
+    "gear_score": 40,
     "rarity_salvageable": true
   },
   "recipes": []

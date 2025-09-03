@@ -22,9 +22,9 @@
     "name": "Great White Tooth Meal",
     "tier": "LEGENDARY",
     "npc_sell_price": 12000,
-    "description": "It smells like blood and fear.",
     "can_interact": false,
-    "can_interact_right_click": false
+    "can_interact_right_click": false,
+    "description": "It smells like blood and fear."
   },
   "recipes": [
     {

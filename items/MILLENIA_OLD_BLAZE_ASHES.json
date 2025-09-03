@@ -6,8 +6,8 @@
   "npcValue": 1000,
   "lore": "&7&7''Despite being ephemeral creatures,''\n&7''blaze ashes are eternal.''\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

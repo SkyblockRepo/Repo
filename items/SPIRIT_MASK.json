@@ -6,12 +6,12 @@
   "npcValue": 20000,
   "lore": "&7Gear Score: &d230 &8(251)\n&7Health: &a+100 &8(+110)\n&7Defense: &a+50 &8(+55)\n&7Speed: &a+15 &8(+16.5)\n&7Intelligence: &a+20 &8(+22)\n\n&6Ability: Second Wind \n&7Instead of dying, gain &f+50✦ Speed\n&f&7and damage immunity for &a3 &7seconds.\n&8Cooldown: &a30s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 15&c.\n&5&lEPIC DUNGEON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -86,8 +86,8 @@
         }
       ]
     ],
-    "gear_score": 20,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "gear_score": 20
   },
   "recipes": []
 }

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+100\n&7Defense: &a+25\n&7Speed: &a+2\n&7Farming Fortune: &a+15\n\n&8Tiered Bonus: Cropier Crops (0/4)\n&7&7Farming Wheat, Carrots, and Potatoes\n&7has a &a0.03% &7chance of dropping a\n&7Cropie. &7Grants &60☘ Farming Fortune&7.\n\n&6Ability: Farmer's Grace \n&7Grants immunity to trampling crops.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 25&c.\n&a&lUNCOMMON BOOTS&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

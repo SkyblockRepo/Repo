@@ -9,10 +9,10 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -21,10 +21,10 @@
     "name": "Time Shuriken",
     "category": "SWORD",
     "tier": "SPECIAL",
-    "origin": "RIFT",
     "has_uuid": "false",
-    "soulbound": "SOLO",
-    "serializable": false
+    "origin": "RIFT",
+    "serializable": false,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

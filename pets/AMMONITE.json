@@ -1,0 +1,30 @@
+{
+  "internalId": "AMMONITE",
+  "name": "AMMONITE",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "AMMONITE",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Sea Creature Chance}}",
+    "category": "Fishing",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_ammonite.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_ammonite.png|160px|link=]]",
+    "itemlore1": "sbpet,,ammonite:Ammonite Pet,1,&7[Lvl 1 » 100] &6Ammonite\n&8Fishing Pet\n\n&7Sea Creature Chance: &c+0.06% » +6%\n\n&6Heart of the Sea\n&7&7Grants &3+0.01 » +1α Sea Creature Chance &7to\n&7your pet for each &5Heart of the\n&5Mountain &7level.\n\n&6Expert Cave Fisher\n&7&7Grants &9+0.005 » +0.5⚓ Double Hook Chance\n&9&7for each &5Heart of the Mountain &7level\n&7while in the &5Crystal Hollows&7.\n\n&6Gift of the Ammonite\n&7&7Each Mining and Fishing level grants\n&7&b+0.01 » +0.5☂ Fishing Speed&7<nowiki>,</nowiki> &f+0.02 » +2✦ Speed &7and\n&7&a+0.02 » +2❈ Defense&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''",
+    "itemlorecolumns": "1",
+    "kat": "The Ammonite Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "leveling": "{{Pet Leveling |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,ammonite:Ammonite Pet,1,&7[Lvl 1] &6Ammonite\n&8Fishing Pet\n\n&7Sea Creature Chance: &c+0.06%\n\n&6Heart of the Sea\n&7&7Grants &3+0.01α Sea Creature Chance\n&3&7to your pet for each &5Heart of the\n&5Mountain &7level.\n\n&6Expert Cave Fisher\n&7&7Grants &9+0.005⚓ Double Hook Chance\n&9&7for each &5Heart of the Mountain &7level\n&7while in the &5Crystal Hollows&7.\n\n&6Gift of the Ammonite\n&7&7Each Mining and Fishing level grants\n&7&b+0.01☂ Fishing Speed&7<nowiki>,</nowiki> &f+0.02✦ Speed\n&f&7and &a+0.02❈ Defense&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,ammonite:Ammonite Pet,1,&7[Lvl 100] &6Ammonite\n&8Fishing Pet\n\n&7Sea Creature Chance: &c+6%\n\n&6Heart of the Sea\n&7&7Grants &3+1α Sea Creature Chance &7to\n&7your pet for each &5Heart of the\n&5Mountain &7level.\n\n&6Expert Cave Fisher\n&7&7Grants &9+0.5⚓ Double Hook Chance\n&9&7for each &5Heart of the Mountain &7level\n&7while in the &5Crystal Hollows&7.\n\n&6Gift of the Ammonite\n&7&7Each Mining and Fishing level grants\n&7&b+0.5☂ Fishing Speed&7<nowiki>,</nowiki> &f+2✦ Speed &7and\n&7&a+2❈ Defense&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Ammonite",
+    "ref": "[[File:SkyBlock_pets_ammonite.png|{{{is|30}}}px|link=]] [[Ammonite Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_AMMONITE_HERMIT_BAKED_BEANS\n|rarity = Epic\n|obtaining = {{Source|August 3, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_AMMONITE_HERMIT_BEACH_BALL\n|rarity = Epic\n|obtaining = {{Source|August 3, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_AMMONITE_HERMIT_GRAPHITE\n|rarity = Epic\n|obtaining = {{Source|August 3, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_AMMONITE_HERMIT_PAUA_SHELL\n|rarity = Epic\n|obtaining = {{Source|August 3, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_AMMONITE_HERMIT_SAND_CASTLE\n|rarity = Epic\n|obtaining = {{Source|August 3, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_AMMONITE_MAGMA\n|rarity = Mythic\n|obtaining = {{Source|April 21, 2023 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{Skin\n|item = PET_SKIN_AMMONITE_NATURAL\n|rarity = Epic\n|obtaining = {{Source|April 21, 2023 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

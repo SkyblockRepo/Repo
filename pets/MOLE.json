@@ -1,0 +1,31 @@
+{
+  "internalId": "MOLE",
+  "name": "MOLE",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "MOLE",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Intelligence}} <br> {{Mining Speed}} <br> {{Magic Find}}",
+    "category": "Mining",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_mole.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_mole.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_mole_legendary}}",
+    "itemlorecolumns": "1",
+    "kat": "The Mole Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "legendary_value": "{{Coins|500,000}}",
+    "leveling": "{{Pet Leveling |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,mole:Mole Pet,1,&7[Lvl 1] &6Mole\n&8Mining Pet\n\n&7Intelligence: &a+1\n&7Magic Find: &a+0.05\n&7Mining Speed: &a+1.5\n\n&6Archaeologist\n&7&7&cScavenged Items &7appear &a0.2% &7more\n&7often while in the &2Mines of Divan&7.\n\n&6Magnetic Nose\n&7&7&9Automatons &7drop their parts &a0.5%\n&a&7more frequently.\n\n&6Nucleic Veins\n&7&7The &5Crystal Nucleus &7has a &a1%\n&a&7chance to drop an additional item.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,mole:Mole Pet,1,&7[Lvl 100] &6Mole\n&8Mining Pet\n\n&7Intelligence: &a+100\n&7Magic Find: &a+5\n&7Mining Speed: &a+150\n\n&6Archaeologist\n&7&7&cScavenged Items &7appear &a25% &7more\n&7often while in the &2Mines of Divan&7.\n\n&6Magnetic Nose\n&7&7&9Automatons &7drop their parts &a50%\n&a&7more frequently.\n\n&6Nucleic Veins\n&7&7The &5Crystal Nucleus &7has a &a100%\n&a&7chance to drop an additional item.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Mole",
+    "ref": "[[File:SkyBlock_pets_mole.png|{{{is|30}}}px|link=]] [[Mole Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_MOLE_MINER\n|rarity = Epic\n|obtaining = {{Source|April 20, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

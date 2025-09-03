@@ -27,12 +27,12 @@
     "tier": "LEGENDARY",
     "unstackable": true,
     "npc_sell_price": 1000,
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "enchantments": {
       "transylvanian": 4
     },
-    "rift_transferrable": true
+    "origin": "RIFT",
+    "rift_transferrable": true,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

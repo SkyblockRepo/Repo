@@ -16,50 +16,5 @@
     "sackable": false
   },
   "data": null,
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "RIFT_TROPHY_CHICKEN_N_EGG",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "CADUCOUS_STEM_BUNCH",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "METAPHORIC_EGG",
-          "quantity": 2
-        },
-        "3": {
-          "itemId": "AGARICUS_CAP_BUNCH",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "METAPHORIC_EGG",
-          "quantity": 2
-        },
-        "5": {
-          "itemId": "PROTOCHICKEN",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "METAPHORIC_EGG",
-          "quantity": 2
-        },
-        "7": {
-          "itemId": "WILTED_BERBERIS_BUNCH",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "METAPHORIC_EGG",
-          "quantity": 2
-        },
-        "9": {
-          "itemId": "WILTED_BERBERIS_BUNCH",
-          "quantity": 1
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

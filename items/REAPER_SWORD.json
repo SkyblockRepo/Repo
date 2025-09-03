@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+120\n&7Strength: &c+100\n&7Intelligence: &a+200\n&7 &8[&8❁&8]\n\n&7Heal &c10❤ &7per hit.\n&7Deal &a+200% &7damage to &2༕ Undead &7mobs&7.\n&7&7Gain &3+45☯ Combat Wisdom&7 against &2༕\n&2Undead &7mobs.\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Zombie Slayer 6&c.\n&5&lEPIC SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

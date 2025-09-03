@@ -6,8 +6,8 @@
   "npcValue": 8,
   "lore": "&7&8Collection Item\n\n&7''Sturdy yet flexible, a dance of''\n&7''survival.''\n\n&eRight-click to view recipes!\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
@@ -25,8 +25,8 @@
     },
     "name": "Mangrove Log",
     "npc_sell_price": 8,
-    "item_model": "minecraft:mangrove_log",
-    "description": "%%italic%%Sturdy yet flexible, a dance of survival."
+    "description": "%%italic%%Sturdy yet flexible, a dance of survival.",
+    "item_model": "minecraft:mangrove_log"
   },
   "recipes": []
 }

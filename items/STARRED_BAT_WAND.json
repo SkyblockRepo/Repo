@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d395 &8(431)\n&7Damage: &c+190 &8(+209)\n&7Intelligence: &a+330 &8(+363)\n&7 &8[&8✎&8]\n\n&6Ability: Guided Bat  &e&lRIGHT CLICK&r\n&7Shoots a guided spirit bat, following your aim\n&7and exploding for &c2,250 &7damage.\n&8Mana Cost: &3200\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -41,8 +41,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 4,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 4
       }
     ],
     "stats": {
@@ -87,9 +87,9 @@
         }
       ]
     ],
-    "gear_score": 40,
+    "ability_damage_scaling": 0.2,
     "dungeon_item": true,
-    "ability_damage_scaling": 0.2
+    "gear_score": 40
   },
   "recipes": [
     {

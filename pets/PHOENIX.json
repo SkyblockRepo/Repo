@@ -1,0 +1,33 @@
+{
+  "internalId": "PHOENIX",
+  "name": "PHOENIX",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "PHOENIX",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Strength}} <br> {{Intelligence}}",
+    "category": "Combat",
+    "epic_value": "{{Coins|500,000}}",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_phoenix.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_phoenix.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_phoenix_epic}}",
+    "itemlore2": "{{Item_pet_phoenix_legendary}}",
+    "itemlorecolumns": "2",
+    "kat": "The Phoenix Pet can have its rarity upgraded from {{Epic}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_epic_level_1 = {{Coins|100,000,000}} <br> 1024 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|cost_epic_level_100 = {{Coins|70,000,000}} <br> 1024 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|time_epic = 20 Days\n}}",
+    "legendary_value": "{{Coins|5,000,000}}",
+    "leveling": "{{Pet Leveling |epic = |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,phoenix:Phoenix Pet,1,&7[Lvl 1] &5Phoenix\n&8Combat Pet\n\n&7Strength: &c+10.5\n&7Intelligence: &a+51\n\n&6Rekindle\n&7&7Before death<nowiki>,</nowiki> become &eimmune &7and\n&7gain &c10.1 &c❁ Strength &7for &a2 &7seconds\n&860s cooldown\n\n&6Fourth Flare\n&7&7On 4th melee strike<nowiki>,</nowiki> &6ignite &7mobs<nowiki>,</nowiki>\n&7dealing &c1.1x &7your &9☠ Crit Damage\n&9&7each second for &a2 &7seconds\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,phoenix:Phoenix Pet,1,&7[Lvl 100] &5Phoenix\n&8Combat Pet\n\n&7Strength: &c+60\n&7Intelligence: &a+150\n\n&6Rekindle\n&7&7Before death<nowiki>,</nowiki> become &eimmune &7and\n&7gain &c20 &c❁ Strength &7for &a4 &7seconds\n&860s cooldown\n\n&6Fourth Flare\n&7&7On 4th melee strike<nowiki>,</nowiki> &6ignite &7mobs<nowiki>,</nowiki>\n&7dealing &c13x &7your &9☠ Crit Damage\n&9&7each second for &a4 &7seconds\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,phoenix:Phoenix Pet,1,&7[Lvl 1] &6Phoenix\n&8Combat Pet\n\n&7Strength: &c+10.5\n&7Intelligence: &a+51\n\n&6Rekindle\n&7&7Before death<nowiki>,</nowiki> become &eimmune &7and\n&7gain &c15.2 &c❁ Strength &7for &a2 &7seconds\n&860s cooldown\n\n&6Fourth Flare\n&7&7On 4th melee strike<nowiki>,</nowiki> &6ignite &7mobs<nowiki>,</nowiki>\n&7dealing &c1.1x &7your &9☠ Crit Damage\n&9&7each second for &a2 &7seconds\n\n&6Magic Bird\n&7&7You may always fly on your private\n&7island and garden\n\n&6Eternal Coins\n&7&7Don't lose coins from death.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,phoenix:Phoenix Pet,1,&7[Lvl 100] &6Phoenix\n&8Combat Pet\n\n&7Strength: &c+60\n&7Intelligence: &a+150\n\n&6Rekindle\n&7&7Before death<nowiki>,</nowiki> become &eimmune &7and\n&7gain &c30 &c❁ Strength &7for &a4 &7seconds\n&860s cooldown\n\n&6Fourth Flare\n&7&7On 4th melee strike<nowiki>,</nowiki> &6ignite &7mobs<nowiki>,</nowiki>\n&7dealing &c15x &7your &9☠ Crit Damage\n&9&7each second for &a5 &7seconds\n\n&6Magic Bird\n&7&7You may always fly on your private\n&7island and garden\n\n&6Eternal Coins\n&7&7Don't lose coins from death.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Phoenix",
+    "ref": "[[File:SkyBlock_pets_phoenix.png|{{{is|30}}}px|link=]] [[Phoenix Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_PHOENIX_SEAGULL\n|rarity = Epic\n|obtaining = {{Source|July 26, 2025 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_PHEONIX_FLAMINGO\n|rarity = Epic\n|obtaining = {{Source|April 1, 2024 {{NPC/TAILOR_OWNER}}'s {{color|gold|Spring 2024}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_PHOENIX_ICE\n|rarity = Epic\n|obtaining = {{Source|November 25, 2021 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Epic}} <br> {{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

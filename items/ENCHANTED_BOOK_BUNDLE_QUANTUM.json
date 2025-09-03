@@ -27,14 +27,14 @@
     "tier": "UNCOMMON",
     "unstackable": true,
     "npc_sell_price": 15000,
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "enchantments": {
       "quantum": 3
     },
+    "lose_motes_value_on_transfer": true,
     "motes_sell_price": 8000,
+    "origin": "RIFT",
     "rift_transferrable": true,
-    "lose_motes_value_on_transfer": true
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

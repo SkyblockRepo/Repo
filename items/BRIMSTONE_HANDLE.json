@@ -22,9 +22,9 @@
     "tier": "EPIC",
     "glowing": true,
     "npc_sell_price": 25000,
-    "has_uuid": true,
+    "can_recombobulate": false,
     "description": "%%gray%%A splendid handle belonging to a feared foe. In exchange for granting them immense power, it saps the life force from its wielder.",
-    "can_recombobulate": false
+    "has_uuid": true
   },
   "recipes": []
 }

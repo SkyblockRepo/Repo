@@ -6,9 +6,9 @@
   "npcValue": 32,
   "lore": "&7Creates a stone platform in the air\n&7after traveling 10 blocks. Perfect\n&7for building below your island!\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

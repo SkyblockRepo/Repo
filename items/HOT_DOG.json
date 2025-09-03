@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -26,10 +26,10 @@
     "name": "Hot Dog",
     "tier": "COMMON",
     "unstackable": true,
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "description": "Deposit on Joey's plate.",
-    "serializable": false
+    "origin": "RIFT",
+    "serializable": false,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

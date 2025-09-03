@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -21,8 +21,8 @@
     "name": "Pre-Digestion Fish",
     "tier": "EPIC",
     "glowing": true,
-    "soulbound": "COOP",
-    "description": "The obvious result of mixing cat food, spacetime bending and mystical mythology."
+    "description": "The obvious result of mixing cat food, spacetime bending and mystical mythology.",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

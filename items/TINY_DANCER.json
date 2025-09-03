@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -30,8 +30,8 @@
       "CRITICAL_DAMAGE": 1
     },
     "origin": "RIFT",
-    "soulbound": "SOLO",
-    "rift_transferrable": true
+    "rift_transferrable": true,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

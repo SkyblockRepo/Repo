@@ -21,10 +21,10 @@
     "name": "Carnival Rod",
     "category": "FISHING_ROD",
     "tier": "UNCOMMON",
-    "has_uuid": true,
-    "soulbound": "SOLO",
     "description": "%%gray%%Used to catch %%dark_aqua%%fish %%gray%%in the %%dark_aqua%%Catch a Fish %%gray%%game.",
-    "serializable": false
+    "has_uuid": true,
+    "serializable": false,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

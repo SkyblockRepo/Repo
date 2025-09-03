@@ -76,8 +76,9 @@
         }
       ]
     ],
-    "gear_score": 10,
     "dungeon_item": true,
+    "gear_score": 10,
+    "rarity_salvageable": true,
     "tiered_stats": {
       "HEALTH": [
         120,
@@ -103,8 +104,7 @@
         9,
         10
       ]
-    },
-    "rarity_salvageable": true
+    }
   },
   "recipes": []
 }

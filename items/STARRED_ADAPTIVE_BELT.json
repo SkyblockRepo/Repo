@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Strength: &c+10 &8(+11)\n&7Health: &a+15 &8(+16.5)\n&7Defense: &a+10 &8(+11)\n\n&7Grants additional bonuses based on your\n&7selected dungeon class!\n\n&7&bBerserk&7: &7+&c10❁ Strength\n&7&bHealer&7: &7+&c10❤ Health&7, +&a5☄ Mending\n&7&bMage&7: &7+&b25✎ Intelligence\n&7&bTank&7: &7+&c5❤ Health&7, +&a10❈ Defense\n&7&bArcher&7: &7+&92☣ Crit Chance&7, +&95☠ Crit Damage\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor II Completion&c.\n&5&lEPIC DUNGEON BELT&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -29,8 +29,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 2,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 2
       }
     ],
     "stats": {

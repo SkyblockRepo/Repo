@@ -1,0 +1,33 @@
+{
+  "internalId": "BABY_YETI",
+  "name": "BABY_YETI",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "BABY_YETI",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Strength}} <br> {{Intelligence}}",
+    "category": "Fishing",
+    "epic_value": "{{Coins|10,000}}",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_baby yeti.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_baby yeti.png|160px|link=]]",
+    "itemlore1": "sbpet,,baby_yeti:Baby Yeti Pet,1,&7[Lvl 1 » 100] &5Baby Yeti\n&8Fishing Pet\n\n&7Strength: &c+0.4 » +40\n&7Intelligence: &a+0.75 » +75\n\n&6Cold Breeze\n&7&7Gives &a0.5 » 50 &c❁ Strength &7and &9☠ Crit\n&9Damage &7when near snow\n\n&6Ice Shields\n&7&7Gain &a0.5% » 50% &7of your &c❁ Strength &7as &a❈\n&aDefense&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''",
+    "itemlore2": "sbpet,,baby_yeti:Baby Yeti Pet,1,&7[Lvl 1 » 100] &6Baby Yeti\n&8Fishing Pet\n\n&7Strength: &c+0.4 » +40\n&7Intelligence: &a+0.75 » +75\n\n&6Cold Breeze\n&7&7Gives &a0.5 » 50 &c❁ Strength &7and &9☠ Crit\n&9Damage &7when near snow\n\n&6Ice Shields\n&7&7Gain &a0.8% » 75% &7of your &c❁ Strength &7as &a❈\n&aDefense&7.\n\n&6Yeti Fury\n&7&7Buffs the &6Yeti Sword &7by &a1 » 100 &c❁\n&cDamage &7and &b✎ Intelligence&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''",
+    "itemlorecolumns": "2",
+    "kat": "The Baby Yeti Pet can have its rarity upgraded from {{Epic}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_epic_level_1 = {{Coins|20,000,000}} <br> 16 [[File:SkyBlock_items_enchanted_raw_salmon.gif|25px|link=Enchanted Raw Salmon]] [[Enchanted Raw Salmon]]\n|cost_epic_level_100 = {{Coins|14,000,000}} <br> 16 [[File:SkyBlock_items_enchanted_raw_salmon.gif|25px|link=Enchanted Raw Salmon]] [[Enchanted Raw Salmon]]\n|time_epic = 12 Days\n}}",
+    "legendary_value": "{{Coins|1,000,000}}",
+    "leveling": "{{Pet Leveling |epic = |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,baby_yeti:Baby Yeti Pet,1,&7[Lvl 1] &5Baby Yeti\n&8Fishing Pet\n\n&7Strength: &c+0.4\n&7Intelligence: &a+0.75\n\n&6Cold Breeze\n&7&7Gives &a0.5 &c❁ Strength &7and &9☠ Crit\n&9Damage &7when near snow\n\n&6Ice Shields\n&7&7Gain &a0.5% &7of your &c❁ Strength &7as &a❈\n&aDefense&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,baby_yeti:Baby Yeti Pet,1,&7[Lvl 100] &5Baby Yeti\n&8Fishing Pet\n\n&7Strength: &c+40\n&7Intelligence: &a+75\n\n&6Cold Breeze\n&7&7Gives &a50 &c❁ Strength &7and &9☠ Crit\n&9Damage &7when near snow\n\n&6Ice Shields\n&7&7Gain &a50% &7of your &c❁ Strength &7as &a❈\n&aDefense&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,baby_yeti:Baby Yeti Pet,1,&7[Lvl 1] &6Baby Yeti\n&8Fishing Pet\n\n&7Strength: &c+0.4\n&7Intelligence: &a+0.75\n\n&6Cold Breeze\n&7&7Gives &a0.5 &c❁ Strength &7and &9☠ Crit\n&9Damage &7when near snow\n\n&6Ice Shields\n&7&7Gain &a0.8% &7of your &c❁ Strength &7as &a❈\n&aDefense&7.\n\n&6Yeti Fury\n&7&7Buffs the &6Yeti Sword &7by &a1 &c❁ Damage\n&c&7and &b✎ Intelligence&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,baby_yeti:Baby Yeti Pet,1,&7[Lvl 100] &6Baby Yeti\n&8Fishing Pet\n\n&7Strength: &c+40\n&7Intelligence: &a+75\n\n&6Cold Breeze\n&7&7Gives &a50 &c❁ Strength &7and &9☠ Crit\n&9Damage &7when near snow\n\n&6Ice Shields\n&7&7Gain &a75% &7of your &c❁ Strength &7as &a❈\n&aDefense&7.\n\n&6Yeti Fury\n&7&7Buffs the &6Yeti Sword &7by &a100 &c❁\n&cDamage &7and &b✎ Intelligence&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Baby Yeti",
+    "ref": "[[File:SkyBlock_pets_baby yeti.png|{{{is|30}}}px|link=]] [[Baby Yeti Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_BABY_YETI_DARK_PLUSH\n|rarity = Epic\n|obtaining = {{Source|December 14, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_BABY_YETI_PLUSHIE\n|rarity = Epic\n|obtaining = {{Source|December 30, 2023 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_BABY_YETI_MIDNIGHT\n|rarity = Mythic\n|obtaining = {{Source|September 30, 2023 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{Skin\n|item = PET_SKIN_BABY_YETI_LIGHT_SASQUATCH\n|rarity = Epic\n|obtaining = {{Source|September 30, 2023 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_BABY_YETI_DARK_SASQUATCH\n|rarity = Epic\n|obtaining = {{Source|September 30, 2023 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_YETI_GROWN_UP\n|rarity = Epic\n|obtaining = {{Source|December 15, 2020 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Epic}} <br> {{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

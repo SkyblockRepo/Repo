@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -24,9 +24,9 @@
       "signature": "EfY3dASspUQh1VOeiWkPPjz7W3qbur8GhUWMFI8T9pO/e22WAao4SDn6rVAGNGxZojBHfYCe6Q2A/cWBi6DCD282YoqlmsCpybAWoDR+1bWroIA9knWCHr347wgYAt0ROH/EBkx0ppGDLa6bDFiJcDd53n8ge8Rwg++BRU9h1C8wVObQRxm/LiEOzLgmLpyS2tedgVeqEX0JwIjuwWVbOvvvcZAur/WgPqNWm6GKyETX0/wyf1BMHo7XjCKVUZupa1kX0sdRVD4011xd5obmnXsBeRETOzml0wQ9wCx83n5K1n5tNIyR9JfBoXpLI3f5bKuR8hRg8eTRmtrBduhfOL/sDLTXwCl3ibiejVh5PDewAmLLVbZObNTP6zFmLfVCXAbr5PlHge/gx3DFSmz/5UjscmXNktkmPdNg3SG/UVA1dgROdj+2MvJS/J8M+8vV6XXY66O8MHnWB83ZgxsEWacDXAJqah1bSre6f3uHl5MMa0YyOvPaz1wOLbUJPozfsfLUTo05C/F06KXR8XpVU5LlCMSF80r7apCNKb8sd+9MkuJLe9/hxxlXrFGVInsS7nN4IbSaCQblA2emUj61g0C/JGc1b6crkER0iHHPEn8a5IqFTLBpeHA9CWCl5tfAF+Z+b3YPUh/8jr/LM248B5ho7DDqCfvJMg3b3Wm3vpk="
     },
     "name": "%%green%%Swappable Preview %%gray%%(Click)",
-    "soulbound": "SOLO",
     "description": "Cycle between all the variations of the selected preview!",
-    "serializable": false
+    "serializable": false,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

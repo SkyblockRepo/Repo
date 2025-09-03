@@ -6,11 +6,11 @@
   "npcValue": 20000,
   "lore": "&7Gear Score: &d240 &8(259)\n&7Damage: &c+190 &8(+209)\n&7 &8[&7⚔&8]\n\n&7&7As a weapon created by &cScarf&7, it automatically\n&7adapts to its user inside Dungeons.\n\n&7&bBerserk&7: &7+&c10❁ Damage&7, +&c75❁ Strength&7, +&f10✦\n&fSpeed\n&7&bHealer&7: &7+&a10☄ Mending&7 & tethered players and\n&7players within &e10 &7blocks are healed for &a33%\n&a&7of your life steal, syphon and vampirism\n&7healing.\n&7&bMage&7: &7+&b100✎ Intelligence&7, +&c10❁ Damage&7 &\n&7melee attacks restore &b25% &7additional mana.\n&7&bTank&7: &7+&a100❈ Defense&7, +&45♨ Vitality&7, +&f5❂ True\n&fDefense\n&7&bArcher&7: &7Your melee attacks cause enemies to\n&7take &c10% &7more damage from your arrows for\n&7&b5 &7seconds.\n\n&eRight-click to use your class ability!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor II Completion&c.\n&5&lEPIC DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -31,8 +31,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 2,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 2
       }
     ],
     "stats": {
@@ -75,8 +75,8 @@
         }
       ]
     ],
-    "gear_score": 50,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "gear_score": 50
   },
   "recipes": [
     {

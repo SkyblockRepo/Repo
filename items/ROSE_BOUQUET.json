@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -20,8 +20,8 @@
     "material": "DOUBLE_PLANT",
     "durability": 4,
     "name": "§cRose Bouquet",
-    "soulbound": "COOP",
-    "description": "%%dark_gray%%%%italic%%A hastily-made bouquet consisting of Marco's finest roses."
+    "description": "%%dark_gray%%%%italic%%A hastily-made bouquet consisting of Marco's finest roses.",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

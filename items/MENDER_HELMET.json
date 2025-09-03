@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Gear Score: &d80 &8(88)\n&7Health: &a+80 &8(+88)\n&7Mending: &a+100 &8(+100)\n\n&7Grants &a+100☄ Mending &7while in\n&7Dungeons.\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },

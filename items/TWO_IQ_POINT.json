@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -26,10 +26,10 @@
     "name": "2 IQ Points",
     "category": "ACCESSORY",
     "tier": "UNCOMMON",
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "motes_sell_price": 450,
-    "rift_transferrable": true
+    "origin": "RIFT",
+    "rift_transferrable": true,
+    "soulbound": "SOLO"
   },
   "recipes": [
     {

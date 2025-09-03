@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -29,10 +29,10 @@
     "stats": {
       "TRUE_DEFENSE": 0.5
     },
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "description": "Was it all a test?",
-    "rift_transferrable": true
+    "origin": "RIFT",
+    "rift_transferrable": true,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

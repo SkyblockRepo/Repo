@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Upgrades to &a&lUNCOMMON &r&7if you\n&7collect &5500 pelts &7while &eFinnegan &7is in\n&7office.\n\n&7Collected: &50 pelts\n\n&7Increases the odds of finding\n&7&5&lENDANGERED &r&7or &6&lELUSIVE &r&7mobs by\n&7&a10%&7.\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

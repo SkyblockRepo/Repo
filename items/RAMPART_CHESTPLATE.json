@@ -9,10 +9,10 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
-    "soulboundable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -266,6 +266,7 @@
         }
       ]
     ],
+    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
@@ -273,8 +274,7 @@
         "essence_type": "CRIMSON"
       }
     ],
-    "soulbound": "COOP",
-    "rarity_salvageable": true
+    "soulbound": "COOP"
   },
   "recipes": []
 }

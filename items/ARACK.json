@@ -73,14 +73,14 @@
         }
       ]
     ],
+    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
         "amount": 5,
         "essence_type": "SPIDER"
       }
-    ],
-    "rarity_salvageable": true
+    ]
   },
   "recipes": []
 }

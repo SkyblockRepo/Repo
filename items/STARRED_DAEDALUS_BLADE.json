@@ -1,0 +1,48 @@
+{
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STARRED_DAEDALUS_BLADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "DAEDALUS_BLADE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GOLDEN_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

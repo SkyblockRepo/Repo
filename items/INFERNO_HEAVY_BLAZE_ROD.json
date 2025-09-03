@@ -1,0 +1,48 @@
+{
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "INFERNO_HEAVY_BLAZE_ROD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BLAZE_ROD_DISTILLATE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "INFERNO_FUEL_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BLAZE_ROD_DISTILLATE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BLAZE_ROD_DISTILLATE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HEAVY_GABAGOOL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BLAZE_ROD_DISTILLATE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BLAZE_ROD_DISTILLATE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "INFERNO_FUEL_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BLAZE_ROD_DISTILLATE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

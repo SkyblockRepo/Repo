@@ -1,0 +1,30 @@
+{
+  "internalId": "REINDEER",
+  "name": "REINDEER",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "REINDEER",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Health}} <br> {{Sea Creature Chance}} <br> {{Fishing Speed}}",
+    "category": "Fishing",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_reindeer.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_reindeer.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_reindeer_legendary}}",
+    "itemlorecolumns": "1",
+    "kat": "The Reindeer Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "leveling": "{{Pet Leveling |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,reindeer:Reindeer Pet,1,&7[Lvl 1] &6Reindeer\n&8Fishing Pet\n\n&7Health: &a+1\n&7Fishing Speed: &a+0.25\n&7Sea Creature Chance: &c+0.05%\n\n&6Winter Sprint\n&7&7Gain &ddouble &7pet &aEXP&7.\n\n&6Infused\n&7&7Gives &b+0.75☂ Fishing Speed &7and\n&7&3+10α Sea Creature Chance &7while on\n&7&cJerry's Workshop&7.\n\n&6Snow Power\n&7&7Grants &a+0.1% &7bonus gift chance\n&7during the &cGift Attack &7event.\n\n&6Icy Wind\n&7&7Grants &a+0.2% &7chance of getting\n&7double &bIce Essence&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,reindeer:Reindeer Pet,1,&7[Lvl 100] &6Reindeer\n&8Fishing Pet\n\n&7Health: &a+100\n&7Fishing Speed: &a+25\n&7Sea Creature Chance: &c+5%\n\n&6Winter Sprint\n&7&7Gain &ddouble &7pet &aEXP&7.\n\n&6Infused\n&7&7Gives &b+75☂ Fishing Speed &7and &3+10α\n&3Sea Creature Chance &7while on\n&7&cJerry's Workshop&7.\n\n&6Snow Power\n&7&7Grants &a+10% &7bonus gift chance\n&7during the &cGift Attack &7event.\n\n&6Icy Wind\n&7&7Grants &a+20% &7chance of getting\n&7double &bIce Essence&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Reindeer",
+    "ref": "[[File:SkyBlock_pets_reindeer.png|{{{is|30}}}px|link=]] [[Reindeer Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_REINDEER_UNICORN\n|rarity = Epic\n|obtaining = {{Source|March 22, 2025 {{NPC/TAILOR_OWNER}}'s {{color|gold|Spring 2025}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_REINDEER_ZODIAC_HORSE\n|rarity = Epic\n|obtaining = {{Source|February 14, 2025 {{NPC/TAILOR_OWNER}}'s {{color|gold|Lunar 2025}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_REINDEER_RED_NOSE\n|rarity = Epic\n|obtaining = {{Source|December 21, 2024 {{NPC/TAILOR_OWNER}}'s {{color|aqua|Winter 2024}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_REINDEER_PLUSHIE\n|rarity = Epic\n|obtaining = {{Source|December 30, 2023 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_REINDEER_AURORA\n|rarity = Mythic\n|obtaining = {{Source|December 24, 2022 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

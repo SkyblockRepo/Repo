@@ -1,0 +1,33 @@
+{
+  "internalId": "MEGALODON",
+  "name": "MEGALODON",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "MEGALODON",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Strength}} <br> {{Magic Find}} <br> {{Ferocity}} <br> {{Fishing Speed}} <br> {{Sea Creature Chance}}",
+    "category": "Fishing",
+    "epic_value": "{{Coins|500,000}}",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_megalodon.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_megalodon.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_megalodon_epic}}",
+    "itemlore2": "{{Item_pet_megalodon_legendary}}",
+    "itemlorecolumns": "2",
+    "kat": "The Megalodon Pet can have its rarity upgraded from {{Epic}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_epic_level_1 = {{Coins|10,000,000}}\n|cost_epic_level_100 = {{Coins|7,000,000}}\n|time_epic = 20 Days\n}}",
+    "legendary_value": "{{Coins|2,500,000}}",
+    "leveling": "{{Pet Leveling |epic = |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,megalodon:Megalodon Pet,1,&7[Lvl 1] &5Megalodon\n&8Fishing Pet\n\n&7Strength: &c+0.5\n&7Magic Find: &a+0.1\n&7Fishing Speed: &a+10.3\n&7Sea Creature Chance: &c+5.05%\n&7Ferocity: &a+5.05\n\n&6Blood Scent\n&7&7Deal up to &c+51% &c❁ Damage &7based on\n&7the enemy's missing health\n\n&6Enhanced Scales\n&7&7Doubles the pet's base stats during\n&7the &bFishing Festival&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,megalodon:Megalodon Pet,1,&7[Lvl 100] &5Megalodon\n&8Fishing Pet\n\n&7Strength: &c+50\n&7Magic Find: &a+10\n&7Fishing Speed: &a+40\n&7Sea Creature Chance: &c+10%\n&7Ferocity: &a+10\n\n&6Blood Scent\n&7&7Deal up to &c+150% &c❁ Damage &7based\n&7on the enemy's missing health\n\n&6Enhanced Scales\n&7&7Doubles the pet's base stats during\n&7the &bFishing Festival&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,megalodon:Megalodon Pet,1,&7[Lvl 1] &6Megalodon\n&8Fishing Pet\n\n&7Strength: &c+0.5\n&7Magic Find: &a+0.1\n&7Fishing Speed: &a+10.3\n&7Sea Creature Chance: &c+5.05%\n&7Ferocity: &a+5.05\n\n&6Blood Scent\n&7&7Deal up to &c+51% &c❁ Damage &7based on\n&7the enemy's missing health\n\n&6Enhanced Scales\n&7&7Doubles the pet's base stats during\n&7the &bFishing Festival&7.\n\n&6Feeding Frenzy\n&7&7Increases your chance to catch\n&7Sharks during the &bFishing Festival &7by\n&7&a10.1%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,megalodon:Megalodon Pet,1,&7[Lvl 100] &6Megalodon\n&8Fishing Pet\n\n&7Strength: &c+50\n&7Magic Find: &a+10\n&7Fishing Speed: &a+40\n&7Sea Creature Chance: &c+10%\n&7Ferocity: &a+10\n\n&6Blood Scent\n&7&7Deal up to &c+150% &c❁ Damage &7based\n&7on the enemy's missing health\n\n&6Enhanced Scales\n&7&7Doubles the pet's base stats during\n&7the &bFishing Festival&7.\n\n&6Feeding Frenzy\n&7&7Increases your chance to catch\n&7Sharks during the &bFishing Festival &7by\n&7&a20%&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Megalodon",
+    "ref": "[[File:SkyBlock_pets_megalodon.png|{{{is|30}}}px|link=]] [[Megalodon Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_MEGALODON_PINK_PLUSHIE\n|rarity = Epic\n|obtaining = {{Source|February 14, 2025 {{NPC/TAILOR_OWNER}}'s {{color|red|Valentine 2025}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_MEGALODON_BABY\n|rarity = Epic\n|obtaining = {{Source|July 8, 2022 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Epic}} <br> {{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

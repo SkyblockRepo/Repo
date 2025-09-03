@@ -20,9 +20,9 @@
     "material": "DIAMOND_AXE",
     "name": "%%green%%Axe Preview %%gray%%(Right-Click)",
     "tier": "SPECIAL",
-    "soulbound": "SOLO",
     "description": "Use to preview the current axe rune!",
-    "serializable": false
+    "serializable": false,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

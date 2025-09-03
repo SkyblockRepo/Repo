@@ -6,12 +6,12 @@
   "npcValue": 5000,
   "lore": "&7Gear Score: &d650 &8(713)\n&7Health: &a+260 &8(+286)\n&7Defense: &a+120 &8(+132)\n&7Intelligence: &a+250 &8(+275)\n&7 &8[&8✎&8] &8[&8⚔&8]\n\n&7Reduces the damage you take from\n&7withers by &c10%&7.\n\n&6Full Set Bonus: Witherborn &7(0/4)\n&7Spawns a wither minion every &e30\n&e&7seconds up to a maximum &a1 &7wither.\n&7Your withers will travel to and\n&7explode on nearby enemies.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VII Completion&c.\n&6&lLEGENDARY DUNGEON CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -71,8 +71,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 7,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 7
       }
     ],
     "museum_data": {
@@ -128,8 +128,8 @@
         }
       ]
     ],
-    "gear_score": 25,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "gear_score": 25
   },
   "recipes": [
     {

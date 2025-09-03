@@ -25,8 +25,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 6,
-        "dungeon_type": "MASTER_CATACOMBS"
+        "dungeon_type": "MASTER_CATACOMBS",
+        "tier": 6
       }
     ],
     "stats": {
@@ -34,8 +34,8 @@
       "SWING_RANGE": 1,
       "WEAPON_ABILITY_DAMAGE": 100000
     },
-    "dungeon_item": true,
-    "ability_damage_scaling": 0.05
+    "ability_damage_scaling": 0.05,
+    "dungeon_item": true
   },
   "recipes": []
 }

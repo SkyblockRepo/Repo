@@ -1,0 +1,48 @@
+{
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WHITE_JUMBO_BACKPACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "JUMBO_BACKPACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BONE_MEAL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

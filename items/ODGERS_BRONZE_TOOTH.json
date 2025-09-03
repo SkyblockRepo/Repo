@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -36,8 +36,8 @@
       "trophy_fish_chance": 1,
       "SEA_CREATURE_CHANCE": 0.5
     },
-    "soulbound": "SOLO",
-    "description": "%%dark_gray%%%%italic%%A perfectly fine tooth, besides some wear and tear..."
+    "description": "%%dark_gray%%%%italic%%A perfectly fine tooth, besides some wear and tear...",
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

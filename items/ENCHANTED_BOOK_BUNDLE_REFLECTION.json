@@ -26,12 +26,12 @@
     "name": "Enchanted Book Bundle",
     "tier": "UNCOMMON",
     "unstackable": true,
-    "origin": "RIFT",
-    "soulbound": "SOLO",
     "enchantments": {
       "reflection": 1
     },
-    "rift_transferrable": true
+    "origin": "RIFT",
+    "rift_transferrable": true,
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

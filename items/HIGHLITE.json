@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&7This is what happens when time does\n&7a victory lap.\n\n&eRight-click to view recipes!\n\n&5X&5 Rift-Exportable X\n&7&8Loses motes value when crossing\n&8dimensions.\n&5&lEPIC&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
@@ -25,11 +25,11 @@
     },
     "name": "Highlite",
     "tier": "EPIC",
-    "origin": "RIFT",
     "description": "%%gray%%This is what happens when time does a victory lap.",
+    "lose_motes_value_on_transfer": true,
     "motes_sell_price": 25000,
-    "rift_transferrable": true,
-    "lose_motes_value_on_transfer": true
+    "origin": "RIFT",
+    "rift_transferrable": true
   },
   "recipes": [
     {

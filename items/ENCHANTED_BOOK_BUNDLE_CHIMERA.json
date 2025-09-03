@@ -27,10 +27,10 @@
     "tier": "LEGENDARY",
     "unstackable": true,
     "npc_sell_price": 10000,
-    "soulbound": "SOLO",
     "enchantments": {
       "ultimate_chimera": 5
-    }
+    },
+    "soulbound": "SOLO"
   },
   "recipes": []
 }

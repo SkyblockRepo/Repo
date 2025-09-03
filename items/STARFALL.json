@@ -7,13 +7,13 @@
   "lore": "&7&7''No one knows how and when the''\n&7''Starfall appeared. All we know is that''\n&7''it was already there when the''\n&7''Dwarves discovered the cavern.''\n\n&9&lRARE&r",
   "flags": {
     "tradable": false,
-    "bazaarable": true,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "STARFALL",

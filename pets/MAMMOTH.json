@@ -1,0 +1,31 @@
+{
+  "internalId": "MAMMOTH",
+  "name": "MAMMOTH",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "MAMMOTH",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Defense}} <br> {{Cold Resistance}}",
+    "category": "Combat",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_mammoth.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_mammoth.png|160px|link=]]",
+    "itemlore1": "{{Item_pet_mammoth_legendary}}",
+    "itemlorecolumns": "1",
+    "kat": "The Mammoth Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "legendary_value": "{{Coins|500,000}}",
+    "leveling": "{{Pet Leveling |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,mammoth:Mammoth Pet,1,&7[Lvl 1] &6Mammoth\n&8Combat Pet\n\n&7Defense: &a+0.5\n&7Cold Resistance: &a+0.1\n\n&6Wooly Coat\n&7&7Gain a &a1% &7chance for mobs to not\n&7inflict &b❄ Cold &7when damaging you in\n&7the &bGlacite Mineshafts&7.\n\n&6Tusk Luck\n&7&7Gain &b+0.01✯ Magic Find &7for every\n&7100 &6☘ Mining Fortune&7<nowiki>,</nowiki> doubled in the\n&7&bGlacite Tunnels &7and &bGlacite\n&bMineshafts&7.\n\n&6Corpse Crusher\n&7&7Gain &6+0.3☘ Mining Fortune &7for each\n&7&bFrozen Corpse &7looted in your\n&7current &bGlacite Mineshaft&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,mammoth:Mammoth Pet,1,&7[Lvl 100] &6Mammoth\n&8Combat Pet\n\n&7Defense: &a+50\n&7Cold Resistance: &a+10\n\n&6Wooly Coat\n&7&7Gain a &a100% &7chance for mobs to not\n&7inflict &b❄ Cold &7when damaging you in\n&7the &bGlacite Mineshafts&7.\n\n&6Tusk Luck\n&7&7Gain &b+0.5✯ Magic Find &7for every 100\n&7&6☘ Mining Fortune&7<nowiki>,</nowiki> doubled in the\n&7&bGlacite Tunnels &7and &bGlacite\n&bMineshafts&7.\n\n&6Corpse Crusher\n&7&7Gain &6+30☘ Mining Fortune &7for each\n&7&bFrozen Corpse &7looted in your\n&7current &bGlacite Mineshaft&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Mammoth",
+    "ref": "[[File:SkyBlock_pets_mammoth.png|{{{is|30}}}px|link=]] [[Mammoth Pet]]",
+    "skins": "",
+    "tiers": "{{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

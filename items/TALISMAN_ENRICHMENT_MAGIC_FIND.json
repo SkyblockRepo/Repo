@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Enriches an accessory with the\n&7power of &b+0.5✯ Magic Find &7when\n&7applied to a &6Legendary &7or &dMythic\n&d&7accessory.\n\n&7Only &7&lONE &r&7enrichment can be applied\n&7to a given accessory.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

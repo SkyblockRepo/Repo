@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -25,8 +25,8 @@
     },
     "name": "§bSolved Rubix Prism",
     "tier": "EPIC",
-    "soulbound": "COOP",
-    "description": "%%dark_gray%%%%italic%%It took hard work and patience, but that's what love is all about!"
+    "description": "%%dark_gray%%%%italic%%It took hard work and patience, but that's what love is all about!",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

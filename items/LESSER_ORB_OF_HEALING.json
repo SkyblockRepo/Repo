@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7A shard of a Dungeon Blessing,\n&7capable of being bestowed upon\n&7another player for a continuous buff,\n&7but draining mana.\n\n&aOrb of Life &e&lRIGHT CLICK TEAMMATE&r\n&7Heals &c5%&7 of max &c❤ &7per second.\n&8Ignores ♨ Vitality!\n&8Mana Drain: &350 per second\n\n&7&4❣ &cRequires &cCatacombs Skill 16&c.\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -32,8 +32,8 @@
         "dungeon_type": "CATACOMBS"
       }
     ],
-    "gear_score": 60,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "gear_score": 60
   },
   "recipes": [
     {

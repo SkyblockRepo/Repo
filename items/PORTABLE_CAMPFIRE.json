@@ -6,9 +6,9 @@
   "npcValue": 200,
   "lore": "&7Can be placed down in the &bGlacite\n&bTunnels&7.\n\n&7Interacting with a campfire belonging\n&7to you or another player will reduce\n&7your &b❄ Cold &7by &a50&7.\n\n&7Each campfire can only be\n&7interacted with once, and you can\n&7only place one campfire every &a5\n&aminutes&7.\n\n&7&cConsumed on use!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

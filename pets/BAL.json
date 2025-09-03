@@ -1,0 +1,31 @@
+{
+  "internalId": "BAL",
+  "name": "BAL",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "BAL",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Heat Resistance}} <br> {{Mining Fortune}}",
+    "category": "Mining",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_bal.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_bal.png|160px|link=]]",
+    "itemlore1": "sbpet,,bal:Bal Pet,1,&7[Lvl 1 » 100] &5Bal\n&8Mining Pet\n\n&7Heat Resistance: &a+1.5 » +150\n&7Mining Fortune: &a+1 » +100\n\n&6Furnace\n&7&7Grants &5+0.02 » +2✧ Pristine &7while in the\n&7&cMagma Fields&7.\n\n&6Dispersion\n&7&7While in the &5Crystal Hollows&7<nowiki>,</nowiki> killing\n&7mobs reduces your &c♨ Heat &7by &c0.02 » 2&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''",
+    "itemlore2": "sbpet,,bal:Bal Pet,1,&7[Lvl 1 » 100] &6Bal\n&8Mining Pet\n\n&7Heat Resistance: &a+1.5 » +150\n&7Mining Fortune: &a+1 » +100\n\n&6Furnace\n&7&7Grants &5+0.03 » +3✧ Pristine &7while in the\n&7&cMagma Fields&7.\n\n&6Dispersion\n&7&7While in the &5Crystal Hollows&7<nowiki>,</nowiki> killing\n&7mobs reduces your &c♨ Heat &7by &c0.04 » 4&7.\n\n&6Chimney\n&7&7&7Reduce Pickaxe Ability cooldowns by\n&7&a0.1% » 10%&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''",
+    "itemlorecolumns": "2",
+    "kat": "The Bal Pet can have its rarity upgraded from {{Epic}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_epic_level_1 = {{Coins|2,000,000}} <br> 100 [[File:SkyBlock_items_yoggie.png|25px|link=Yoggie]] [[Yoggie]]\n|cost_epic_level_100 = {{Coins|1,400,000}} <br> 100 [[File:SkyBlock_items_yoggie.png|25px|link=Yoggie]] [[Yoggie]]\n|time_epic = 10 Days\n}}",
+    "leveling": "{{Pet Leveling |epic = |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,bal:Bal Pet,1,&7[Lvl 1] &5Bal\n&8Mining Pet\n\n&7Heat Resistance: &a+1.5\n&7Mining Fortune: &a+1\n\n&6Furnace\n&7&7Grants &5+0.02✧ Pristine &7while in the\n&7&cMagma Fields&7.\n\n&6Dispersion\n&7&7While in the &5Crystal Hollows&7<nowiki>,</nowiki> killing\n&7mobs reduces your &c♨ Heat &7by &c0.02&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,bal:Bal Pet,1,&7[Lvl 100] &5Bal\n&8Mining Pet\n\n&7Heat Resistance: &a+150\n&7Mining Fortune: &a+100\n\n&6Furnace\n&7&7Grants &5+2✧ Pristine &7while in the\n&7&cMagma Fields&7.\n\n&6Dispersion\n&7&7While in the &5Crystal Hollows&7<nowiki>,</nowiki> killing\n&7mobs reduces your &c♨ Heat &7by &c2&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,bal:Bal Pet,1,&7[Lvl 1] &6Bal\n&8Mining Pet\n\n&7Heat Resistance: &a+1.5\n&7Mining Fortune: &a+1\n\n&6Furnace\n&7&7Grants &5+0.03✧ Pristine &7while in the\n&7&cMagma Fields&7.\n\n&6Dispersion\n&7&7While in the &5Crystal Hollows&7<nowiki>,</nowiki> killing\n&7mobs reduces your &c♨ Heat &7by &c0.04&7.\n\n&6Chimney\n&7&7&7Reduce Pickaxe Ability cooldowns by\n&7&a0.1%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,bal:Bal Pet,1,&7[Lvl 100] &6Bal\n&8Mining Pet\n\n&7Heat Resistance: &a+150\n&7Mining Fortune: &a+100\n\n&6Furnace\n&7&7Grants &5+3✧ Pristine &7while in the\n&7&cMagma Fields&7.\n\n&6Dispersion\n&7&7While in the &5Crystal Hollows&7<nowiki>,</nowiki> killing\n&7mobs reduces your &c♨ Heat &7by &c4&7.\n\n&6Chimney\n&7&7&7Reduce Pickaxe Ability cooldowns by\n&7&a10%&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Bal",
+    "ref": "[[File:SkyBlock_pets_bal.png|{{{is|30}}}px|link=]] [[Bal Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_BAL_BLIZZARD\n|rarity = Mythic\n|obtaining = {{Source|September 21, 2024 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{Skin\n|item = PET_SKIN_BAL_INFERNO\n|rarity = Mythic\n|obtaining = {{Source|June 24, 2022 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Epic}} <br> {{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

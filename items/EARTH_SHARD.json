@@ -73,8 +73,9 @@
         }
       ]
     ],
-    "gear_score": 10,
     "dungeon_item": true,
+    "gear_score": 10,
+    "rarity_salvageable": true,
     "tiered_stats": {
       "DAMAGE": [
         105,
@@ -100,8 +101,7 @@
         93,
         96
       ]
-    },
-    "rarity_salvageable": true
+    }
   },
   "recipes": []
 }

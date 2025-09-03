@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d195 &8(205)\n&7Ability Damage: &c+35% &8(+35%)\n&7Intelligence: &a+200 &8(+220)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON HELMET&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -29,8 +29,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 3,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 3
       }
     ],
     "museum_data": {
@@ -82,8 +82,8 @@
         }
       ]
     ],
-    "gear_score": 60,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "gear_score": 60
   },
   "recipes": []
 }

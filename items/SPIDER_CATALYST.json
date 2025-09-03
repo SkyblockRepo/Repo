@@ -6,14 +6,14 @@
   "npcValue": 2000,
   "lore": "&7Drops rarely from Tarantula\n&7Broodfather when you are at least\n&7Spider Slayer LVL 2.\n\n&5Catalysts upgrade other items!\n&eRight-click to view upgrades!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": true
+    "sackable": false
   },
   "data": {
     "id": "SPIDER_CATALYST",

@@ -1,0 +1,48 @@
+{
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CRUDE_GABAGOOL_DISTILLATE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "INFERNO_FUEL_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CRUDE_GABAGOOL_DISTILLATE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CRUDE_GABAGOOL_DISTILLATE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HYPERGOLIC_GABAGOOL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CRUDE_GABAGOOL_DISTILLATE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CRUDE_GABAGOOL_DISTILLATE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "INFERNO_FUEL_BLOCK",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CRUDE_GABAGOOL_DISTILLATE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

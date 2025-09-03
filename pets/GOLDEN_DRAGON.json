@@ -1,0 +1,30 @@
+{
+  "internalId": "GOLDEN_DRAGON",
+  "name": "GOLDEN_DRAGON",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "GOLDEN_DRAGON",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Strength}} <br> {{Magic Find}} <br> {{Bonus Attack Speed}}",
+    "category": "Combat",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_golden dragon.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_golden dragon.png|160px|link=]]",
+    "itemlore1": "sbpet,,golden_dragon:Golden Dragon Pet,1,&7[Lvl 200 » 101] &6Golden Dragon\n&8Combat Pet\n\n&7Strength: &c+127.78 » +103.03\n&7Bonus Attack Speed: &c+50% » +25.25%\n&7Magic Find: &a+25.56 » +20.61\n\n&6Gold's Power\n&7Adds &c+100 » +50.5❁ Strength &7to all &6golden\n&6&7weapons.\n\n&6Shining Scales\n&7Grants &c+11.1❁ Strength &7and &b+2.2✯\n&bMagic Find &7to your pet for each digit\n&7in your &6Gold Collection&7.\n&8(Max 100M collection)\n\n&6Dragon's Greed\n&7Grants &c+0.5% » +0.25%&c❁ Strength &7per &b5&b✯\n&bMagic Find&7. &8+5% » (Max +2.5%)\n\n&6Legendary Treasure\n&7Gain &c0.25% » 0.1263% &7damage for every\n&7million coins in your bank. &8(Max\n&8250% » 126.2%)\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''",
+    "itemlorecolumns": "1",
+    "kat": "The Golden Dragon Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "leveling": "{{Pet Leveling 200|legendary =}}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,golden_dragon:Golden Dragon Pet,1,&7[Lvl 101] &6Golden Dragon\n&8Combat Pet\n\n&7Strength: &c+103.03\n&7Bonus Attack Speed: &c+25.25%\n&7Magic Find: &a+20.61\n\n&6Gold's Power\n&7Adds &c+50.5❁ Strength &7to all &6golden\n&6&7weapons.\n\n&6Shining Scales\n&7Grants &c+11.1❁ Strength &7and &b+2.2✯\n&bMagic Find &7to your pet for each digit\n&7in your &6Gold Collection&7.\n&8(Max 100M collection)\n\n&6Dragon's Greed\n&7Grants &c+0.25%&c❁ Strength &7per &b5&b✯\n&bMagic Find&7. &8(Max +2.5%)\n\n&6Legendary Treasure\n&7Gain &c0.1263% &7damage for every\n&7million coins in your bank. &8(Max\n&8126.2%)\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,golden_dragon:Golden Dragon Pet,1,&7[Lvl 200] &6Golden Dragon\n&8Combat Pet\n\n&7Strength: &c+127.78\n&7Bonus Attack Speed: &c+50%\n&7Magic Find: &a+25.56\n\n&6Gold's Power\n&7Adds &c+100❁ Strength &7to all &6golden\n&6&7weapons.\n\n&6Shining Scales\n&7Grants &c+11.1❁ Strength &7and &b+2.2✯\n&bMagic Find &7to your pet for each digit\n&7in your &6Gold Collection&7.\n&8(Max 100M collection)\n\n&6Dragon's Greed\n&7Grants &c+0.5%&c❁ Strength &7per &b5&b✯\n&bMagic Find&7. &8(Max +5%)\n\n&6Legendary Treasure\n&7Gain &c0.25% &7damage for every million\n&7coins in your bank. &8(Max 250%)\n\n&6Symbiosis\n&7If you own a level &a200 Golden\n&aDragon&7<nowiki>,</nowiki> gain &6+5 coins&7 per monster\n&7kill for every other unique maxed\n&7Combat Pet that you own.\n\n&b'''MAX LEVEL'''\n&8▸ 210<nowiki>,</nowiki>255<nowiki>,</nowiki>385 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Golden Dragon",
+    "ref": "[[File:SkyBlock_pets_golden dragon.png|{{{is|30}}}px|link=]] [[Golden Dragon Pet]]",
+    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_GOLDEN_DRAGON_SWAP_PLUSHIE\n|rarity = Ultimate\n|obtaining = {{Source|December 10th, 2024 [[Taylor#Collection|Taylor's Collection]]|{{SkyBlock Gems|1,800}}}}\n}}\n{{Skin\n|item = PET_SKIN_GOLDEN_DRAGON_ANCIENT\n|rarity = Ultimate\n|obtaining = {{Source|February 10, 2024 [[Fire Sale]]|{{SkyBlock Gems|1,800}}}}\n}}\n{{Skin\n|item = PET_SKIN_GOLDEN_DRAGON_ANUBIS\n|rarity = Mythic\n|obtaining = {{Source|September 23, 2022 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
+    "tiers": "{{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}

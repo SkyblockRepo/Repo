@@ -6,12 +6,12 @@
   "npcValue": 5000,
   "lore": "&7Gear Score: &d830 &8(911)\n&7Health: &a+300 &8(+330)\n&7Defense: &a+250 &8(+275)\n&7Intelligence: &a+10 &8(+11)\n&7 &8[&8⚔&8]\n\n&6Full Set Bonus: Soul Whisper &7(0/4)\n&7Increase the damage of your\n&7necromancer summoned mobs by &c20%&7.\n\n&7Allows the wearer to store and\n&7summon an additional &e1 &7souls in their\n&7necromancer weapon.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON CHESTPLATE&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -57,8 +57,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 6,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 6
       }
     ],
     "museum_data": {
@@ -112,8 +112,8 @@
         }
       ]
     ],
-    "gear_score": 25,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "gear_score": 25
   },
   "recipes": []
 }

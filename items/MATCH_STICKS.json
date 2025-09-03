@@ -6,8 +6,8 @@
   "npcValue": 10,
   "lore": "&7Consume to light yourself on fire\n&7for &a10 &7seconds granting you &c+10❁\n&cStrength&7.\n\n&7&7''The head of Matchos is a combination''\n&7''of Sulphur and a crystalline''\n&7''substance. With even the slightest''\n&7''frictions they will light up.''\n\n&9&lRARE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
@@ -21,8 +21,8 @@
     "name": "Match-Sticks",
     "tier": "RARE",
     "npc_sell_price": 10,
-    "description": "%%dark_gray%%%%italic%%The head of Matchos is a combination of Sulphur and a crystalline substance. With even the slightest frictions they will light up.",
-    "can_interact": false
+    "can_interact": false,
+    "description": "%%dark_gray%%%%italic%%The head of Matchos is a combination of Sulphur and a crystalline substance. With even the slightest frictions they will light up."
   },
   "recipes": [
     {

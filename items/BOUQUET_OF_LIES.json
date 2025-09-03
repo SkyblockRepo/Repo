@@ -43,8 +43,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 6,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 6
       }
     ],
     "museum_data": {
@@ -96,8 +96,8 @@
         }
       ]
     ],
-    "has_uuid": true,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "has_uuid": true
   },
   "recipes": [
     {

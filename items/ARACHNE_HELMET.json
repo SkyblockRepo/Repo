@@ -81,6 +81,7 @@
         }
       ]
     ],
+    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
@@ -88,8 +89,7 @@
         "essence_type": "SPIDER"
       }
     ],
-    "soulbound": "COOP",
-    "rarity_salvageable": true
+    "soulbound": "COOP"
   },
   "recipes": []
 }

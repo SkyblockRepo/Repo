@@ -9,8 +9,8 @@
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": true,
-    "enchantable": true,
+    "reforgeable": false,
+    "enchantable": false,
     "museumable": false,
     "soulboundable": false,
     "sackable": false
@@ -33,14 +33,14 @@
       "damage": 30,
       "fishing_speed": 15
     },
+    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
         "amount": 5,
         "essence_type": "ICE"
       }
-    ],
-    "rarity_salvageable": true
+    ]
   },
   "recipes": []
 }

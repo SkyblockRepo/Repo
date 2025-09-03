@@ -12,7 +12,7 @@
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
-    "soulboundable": true,
+    "soulboundable": false,
     "sackable": false
   },
   "data": {
@@ -21,8 +21,8 @@
     "name": "Sewer Fish",
     "tier": "UNCOMMON",
     "npc_sell_price": 1,
-    "soulbound": "COOP",
-    "description": "Where did you find these? They stink!"
+    "description": "Where did you find these? They stink!",
+    "soulbound": "COOP"
   },
   "recipes": []
 }

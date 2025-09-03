@@ -6,12 +6,12 @@
   "npcValue": 1000,
   "lore": "&7Gear Score: &d875 &8(958)\n&7Damage: &c+190 &8(+209)\n&7Strength: &c+135 &8(+148.5)\n&7Defense: &a+250 &8(+275)\n\n&6Ability: Creeper Veil  &e&lRIGHT CLICK&r\n&7Spawns a protective veil that grants you\n&7immunity from damage for &a10s&7. Consumes &b20%\n&bmax mana&7 each time you block a hit. You cannot\n&7attack while the barrier is up.\n&8Cooldown: &a10s\n\n&7&e&lRIGHT CLICK &r&7while active to\n&7deactivate. Cooldown is halved on\n&7deactivation.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VII Completion&c.\n&5&lEPIC DUNGEON SWORD&r",
   "flags": {
-    "tradable": true,
+    "tradable": false,
     "bazaarable": false,
-    "auctionable": true,
-    "reforgeable": true,
-    "enchantable": true,
-    "museumable": true,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
     "soulboundable": false,
     "sackable": false
   },
@@ -25,8 +25,8 @@
     "requirements": [
       {
         "type": "DUNGEON_TIER",
-        "tier": 7,
-        "dungeon_type": "CATACOMBS"
+        "dungeon_type": "CATACOMBS",
+        "tier": 7
       }
     ],
     "museum_data": {
@@ -78,8 +78,8 @@
         }
       ]
     ],
-    "gear_score": 50,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "gear_score": 50
   },
   "recipes": []
 }

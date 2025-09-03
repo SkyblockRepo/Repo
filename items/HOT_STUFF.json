@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Heated &7reforge when\n&7combined with a mining tool&7.\n\n&7&8''Oooh, das hot!''\n\n&9Heated &7(&6Legendary&7):\n&7Mining Speed: &a+40\n&7Mining Fortune: &a+16\n\n&9Heated Bonus\n&7Grants &6+0.7☘ Mining Fortune &7and\n&7&6+2.8⸕ Mining Speed &7per &c1♨ Heat &7you\n&7have.\n\n&6&lLEGENDARY REFORGE STONE&r",
   "flags": {
-    "tradable": true,
-    "bazaarable": true,
+    "tradable": false,
+    "bazaarable": false,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

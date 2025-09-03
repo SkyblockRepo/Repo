@@ -1,0 +1,31 @@
+{
+  "internalId": "ANKYLOSAURUS",
+  "name": "ANKYLOSAURUS",
+  "source": "HypixelWiki",
+  "category": null,
+  "minLevel": null,
+  "maxLevel": null,
+  "petRarities": {},
+  "templateData": {
+    "internalId": "ANKYLOSAURUS",
+    "auctionable": "{{Yes|15}}",
+    "basestats": "{{Health}} <br> {{Defense}} <br> {{True Defense}}",
+    "category": "Combat",
+    "highest_tier": "Legendary",
+    "image": "[[File:SkyBlock_pets_ankylosaurus.png|{{{is|30}}}px|link=]]",
+    "infobox_image": "[[File:SkyBlock_pets_ankylosaurus.png|160px|link=]]",
+    "itemlore1": "sbpet,,ankylosaurus:Ankylosaurus Pet,1,&7[Lvl 1 » 100] &6Ankylosaurus\n&8Combat Pet\n\n&7Health: &a+1.5 » +150\n&7Defense: &a+0.5 » +50\n&7True Defense: &a+0.15 » +15\n\n&6Armored Tank\n&7&7Gain &a0.15% » 15% &7of your &a❈ Defense &7as &c❁\n&cStrength&7.\n\n&6Unyielding\n&7&7Increase the effectiveness of &d'''Last'''\n&d'''Stand '''&7and &cLifeline &7by &a0.5% » 50%&7.\n\n&6Clubbed Tail\n&7&7Every 5th hit deals &a0.5% » 50% &7of your final\n&7damage to enemies within 5 blocks.\n&7Enemies hit deal &a10% &7less damage for\n&710s.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''",
+    "itemlorecolumns": "1",
+    "kat": "The Ankylosaurus Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
+    "legendary_value": "{{Coins|500,000}}",
+    "leveling": "{{Pet Leveling |legendary = }}",
+    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,ankylosaurus:Ankylosaurus Pet,1,&7[Lvl 1] &6Ankylosaurus\n&8Combat Pet\n\n&7Health: &a+1.5\n&7Defense: &a+0.5\n&7True Defense: &a+0.15\n\n&6Armored Tank\n&7&7Gain &a0.15% &7of your &a❈ Defense &7as &c❁\n&cStrength&7.\n\n&6Unyielding\n&7&7Increase the effectiveness of &d'''Last'''\n&d'''Stand '''&7and &cLifeline &7by &a0.5%&7.\n\n&6Clubbed Tail\n&7&7Every 5th hit deals &a0.5% &7of your\n&7final damage to enemies within 5\n&7blocks. Enemies hit deal &a10% &7less\n&7damage for 10s.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,ankylosaurus:Ankylosaurus Pet,1,&7[Lvl 100] &6Ankylosaurus\n&8Combat Pet\n\n&7Health: &a+150\n&7Defense: &a+50\n&7True Defense: &a+15\n\n&6Armored Tank\n&7&7Gain &a15% &7of your &a❈ Defense &7as &c❁\n&cStrength&7.\n\n&6Unyielding\n&7&7Increase the effectiveness of &d'''Last'''\n&d'''Stand '''&7and &cLifeline &7by &a50%&7.\n\n&6Clubbed Tail\n&7&7Every 5th hit deals &a50% &7of your final\n&7damage to enemies within 5 blocks.\n&7Enemies hit deal &a10% &7less damage for\n&710s.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
+    "mountable": "{{No|15}}",
+    "museumable": "{{No|15}}",
+    "name": "Ankylosaurus",
+    "ref": "[[File:SkyBlock_pets_ankylosaurus.png|{{{is|30}}}px|link=]] [[Ankylosaurus Pet]]",
+    "skins": "",
+    "tiers": "{{Legendary}}",
+    "tradable": "{{Yes|15}}"
+  }
+}
