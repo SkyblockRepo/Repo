@@ -1,0 +1,20 @@
+{
+  "internalId": "WET_NAPKIN",
+  "name": "Wet Napkin",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7An old wet napkin that appears to\n&7have some scribbling on the back,\n&7but part of it is too blurry to make\n&7out:\n\n&8''The total ''&8''--------''&8'' plus time''\n&8''times time, all that subtracted''\n&8''from thrice the commencement,''\n&8''then add --''&8'' of yourself,''\n&8''the whole thing elbuod.''\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

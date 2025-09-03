@@ -1,0 +1,20 @@
+{
+  "internalId": "SCARY_GRIMOIRE",
+  "name": "Scary Grimoire",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7&7Obtained during the &5Alchemist\n&5&7experiments!\n\n&7&7Unlocks the Great Spook\n&7Enchantment in the Tyashoi\n&7Alchemist's shop.\n\n&8&l* &r&8Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

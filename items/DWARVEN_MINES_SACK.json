@@ -1,10 +1,10 @@
 {
   "internalId": "DWARVEN_MINES_SACK",
   "name": "Dwarven Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBiofuel&7, &aGlacite Jewel&7, &aGoblin Egg&7, &aOil Barrel&7,\n&7&aPlasma&7, &aSorrow&7, &aSuspicious Scrap&7, &aTungsten Key&7, &aUmber\n&aKey&7, &aVolta&7, &a&3Blue Goblin Egg&7, &a&aGreen Goblin Egg&7, &a&cRed Goblin\n&cEgg&7, &a&eYellow Goblin Egg\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,

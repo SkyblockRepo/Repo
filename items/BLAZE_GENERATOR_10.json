@@ -1,14 +1,14 @@
 {
   "internalId": "BLAZE_GENERATOR_10",
   "name": "Blaze Minion X",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Blazes!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a21s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 10,
     "generator": "BLAZE"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZE_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "BLAZE_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

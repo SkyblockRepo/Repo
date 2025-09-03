@@ -1,14 +1,14 @@
 {
   "internalId": "BLAZE_GENERATOR_5",
   "name": "Blaze Minion V",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Blazes!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a28.5s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 5,
     "generator": "BLAZE"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BLAZE_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "BLAZE_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_BLAZE_POWDER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

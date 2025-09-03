@@ -1,10 +1,10 @@
 {
   "internalId": "LARGE_NETHER_SACK",
   "name": "Large Nether Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 640200,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBezos&7, &aBlaze Ashes&7, &aBlaze Rod&7, &aBurning Eye&7,\n&7&aCompact Ooze&7, &aCorrupted Fragment&7, &aDigested Mushrooms&7,\n&7&aFlames&7, &aGazing Pearl&7, &aGhast Tear&7, &aGlowstone Dust&7,\n&7&aHallowed Skull&7, &aHeavy Pearl&7, &aKada Lead&7, &aKuudra Teeth&7,\n&7&aLeather Cloth&7, &aLumino Fiber&7, &aMagma Chunk&7, &aMagma Cream&7,\n&7&aMagmag&7, &aMillennia-Old Blaze Ashes&7, &aMutated Blaze Ashes&7,\n&7&aMycelium&7, &aNether Quartz&7, &aNether Star&7, &aNether Wart&7,\n&7&aNetherrack&7, &aRed Sand&7, &aRekindled Ember Fragment&7,\n&7&aSpectre Dust&7, &aSpell Powder&7, &aSulphur&7, &aSulphuric Coal&7,\n&7&aTentacle Meat&7, &aWither Soul&7, &aX&7, &aY&7, &aZ\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -28,5 +28,50 @@
     "unstackable": true,
     "npc_sell_price": 640200
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_NETHER_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "3": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "5": {
+          "itemId": "MEDIUM_NETHER_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "7": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "KADA_LEAD",
+          "quantity": 60
+        },
+        "9": {
+          "itemId": "ENCHANTED_SULPHUR_CUBE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

@@ -1,0 +1,65 @@
+{
+  "internalId": "RIFT_TROPHY_LAZY_LIVING",
+  "name": "Living Timecharm",
+  "category": "Rift Timecharm",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "{{Item_rift_trophy_lazy_living}}",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RIFT_TROPHY_LAZY_LIVING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "FROSTY_CRUX",
+          "quantity": 20
+        },
+        "6": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "LIVING_METAL",
+          "quantity": 20
+        }
+      }
+    }
+  ]
+}

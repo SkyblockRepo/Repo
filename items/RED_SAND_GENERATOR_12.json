@@ -1,14 +1,14 @@
 {
   "internalId": "RED_SAND_GENERATOR_12",
   "name": "Red Sand Minion XII",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and mining red sand!\n&7Requires an open area to place red\n&7sand. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a11s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&7&4❣ &cRequires &c12,000 Barbarian Reputation&c.\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

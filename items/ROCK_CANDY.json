@@ -1,13 +1,13 @@
 {
   "internalId": "ROCK_CANDY",
   "name": "Rock Candy",
-  "category": null,
+  "category": "Power Stone",
   "source": "HypixelAPI",
   "npcValue": 770,
-  "lore": "",
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aSweet &7power.\n\n&7&8''Accessories have never tasted so''\n&8''sweet.''\n\n&7At &6250 Magical Power&7:\n&c+146❤ Health\n&a+104❈ Defense\n&f+12✦ Speed\n\n&7Unique Power Bonus:\n&f+5✦ Speed\n\n&7Requires &aCombat Skill Level XV&7!\n\n&a&lUNCOMMON POWER STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

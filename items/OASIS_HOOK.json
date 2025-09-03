@@ -1,0 +1,41 @@
+{
+  "internalId": "OASIS_HOOK",
+  "name": "Oasis Hook",
+  "category": "Rod Part",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7Increases the chance to catch &bOasis\n&bSea Creatures &7by &a100%&7.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Hook &7to a Fishing\n&7Rod.\n\n&7&4❣ &cRequires &aFishing Skill 10&c.\n&9&lRARE ROD PART&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OASIS_HOOK",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

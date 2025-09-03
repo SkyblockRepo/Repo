@@ -1,14 +1,14 @@
 {
   "internalId": "GLOWSTONE_GENERATOR_11",
   "name": "Glowstone Minion XI",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and mining glowstone!\n&7Requires an open area to place\n&7glowstone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a13s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 11,
     "generator": "GLOWSTONE"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GLOWSTONE_GENERATOR_11",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "GLOWSTONE_GENERATOR_10",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_GLOWSTONE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "internalId": "FISHING_GENERATOR_12",
   "name": "Fishing Minion XII",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7fishing. Requires water nearby.\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a30s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,22 @@
     "generator_tier": 12,
     "generator": "FISHING"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FISHING_GENERATOR_12",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "FISHING_GENERATOR_11",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GENERATOR_UPGRADE_STONE_FISHING_12",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

@@ -1,13 +1,13 @@
 {
   "internalId": "END_STONE_SHULKER",
   "name": "End Stone Shulker",
-  "category": null,
+  "category": "Power Stone",
   "source": "HypixelAPI",
   "npcValue": 1,
-  "lore": "",
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aAdept &7power.\n\n&7At &6250 Magical Power&7:\n&c+162❤ Health\n&a+93❈ Defense\n&b+35✎ Intelligence\n\n&7Unique Power Bonus:\n&c+100❤ Health\n&a+50❈ Defense\n\n&7Requires &aCombat Skill Level XX&7!\n\n&9&lRARE POWER STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

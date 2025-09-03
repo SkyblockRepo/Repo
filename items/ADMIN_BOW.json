@@ -1,0 +1,20 @@
+{
+  "internalId": "ADMIN_BOW",
+  "name": "Admin Bow",
+  "category": "Admin Items",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7Damage: &c+10,000\n&7Crit Chance: &c+5,000%\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN BOW&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

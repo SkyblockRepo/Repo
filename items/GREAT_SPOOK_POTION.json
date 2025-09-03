@@ -1,0 +1,20 @@
+{
+  "internalId": "GREAT_SPOOK_POTION",
+  "name": "Great Spook Potion",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7&7Consuming this potion grants &a+3 &5Fear\n&5&7for &b24 hours&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

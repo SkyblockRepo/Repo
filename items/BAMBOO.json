@@ -1,14 +1,14 @@
 {
   "internalId": "BAMBOO",
   "name": "Bamboo",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 5,
-  "lore": "",
+  "lore": "&7&8''Panda's favorite snacks!''\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -26,8 +26,8 @@
     "name": "Bamboo",
     "tier": "COMMON",
     "npc_sell_price": 5,
-    "description": "%%dark_gray%%%%italic%%Panda's favorite snacks!",
-    "item_model": "minecraft:bamboo"
+    "item_model": "minecraft:bamboo",
+    "description": "%%dark_gray%%%%italic%%Panda's favorite snacks!"
   },
   "recipes": []
 }

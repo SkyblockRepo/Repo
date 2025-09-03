@@ -1,14 +1,14 @@
 {
   "internalId": "ENDERMAN_GENERATOR_5",
   "name": "Enderman Minion V",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Endermen!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a28s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 5,
     "generator": "ENDERMAN"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENDERMAN_GENERATOR_5",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        },
+        "2": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        },
+        "3": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        },
+        "4": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        },
+        "5": {
+          "itemId": "ENDERMAN_GENERATOR_4",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        },
+        "7": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        },
+        "8": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        },
+        "9": {
+          "itemId": "ENCHANTED_ENDER_PEARL",
+          "quantity": 6
+        }
+      }
+    }
+  ]
 }

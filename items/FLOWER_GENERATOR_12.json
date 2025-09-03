@@ -1,14 +1,14 @@
 {
   "internalId": "FLOWER_GENERATOR_12",
   "name": "Flower Minion XII",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting flowers.\n&7Requires grass nearby so flowers\n&7can be planted. Minions also work\n&7when you are offline!\n\n&7Time Between Actions: &a15s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 12,
     "generator": "FLOWER"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLOWER_GENERATOR_12",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "FLOWER_GENERATOR_11",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_POPPY",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }

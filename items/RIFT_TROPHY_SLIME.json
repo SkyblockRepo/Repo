@@ -1,0 +1,65 @@
+{
+  "internalId": "RIFT_TROPHY_SLIME",
+  "name": "Globulate Timecharm",
+  "category": "Rift Timecharm",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "{{Item_rift_trophy_slime}}",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RIFT_TROPHY_SLIME",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SHAME_CRUX",
+          "quantity": 20
+        },
+        "6": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "BACTE_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

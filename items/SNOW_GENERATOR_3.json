@@ -1,14 +1,14 @@
 {
   "internalId": "SNOW_GENERATOR_3",
   "name": "Snow Minion III",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and shovelling snow!\n&7Requires an open area to place\n&7snow. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 3,
     "generator": "SNOW"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SNOW_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "SNOW_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "SNOW_BLOCK",
+          "quantity": 8
+        }
+      }
+    }
+  ]
 }

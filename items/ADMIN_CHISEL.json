@@ -1,0 +1,20 @@
+{
+  "internalId": "ADMIN_CHISEL",
+  "name": "Admin Chisel",
+  "category": "Admin Items",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7Can be placed in the &6Fossil\n&6Excavator &7alongside a &9Suspicious\n&9Scrap &7to begin the excavation\n&7process!\n\n&7Charges: &e54\n\n&8&l* &r&8Soulbound &8&l*&r\n&4&lADMIN CHISEL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

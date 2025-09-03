@@ -1,14 +1,14 @@
 {
   "internalId": "OBSIDIAN_GENERATOR_10",
   "name": "Obsidian Minion X",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and mining obsidian!\n&7Requires an open area to place\n&7obsidian. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a30s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 10,
     "generator": "OBSIDIAN"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "OBSIDIAN_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "OBSIDIAN_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_OBSIDIAN",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }

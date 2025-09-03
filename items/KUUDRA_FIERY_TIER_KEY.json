@@ -1,0 +1,117 @@
+{
+  "internalId": "KUUDRA_FIERY_TIER_KEY",
+  "name": "Fiery Kuudra Key",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7&7Used to unlock the reward chest in\n&7the Fiery Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "KUUDRA_FIERY_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "KUUDRA_FIERY_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "KUUDRA_FIERY_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "KUUDRA_FIERY_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 {
   "internalId": "ENDERMAN_GENERATOR_8",
   "name": "Enderman Minion VIII",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Endermen!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a25s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 8,
     "generator": "ENDERMAN"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENDERMAN_GENERATOR_8",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        },
+        "2": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "ENDERMAN_GENERATOR_7",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        },
+        "7": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        },
+        "8": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        },
+        "9": {
+          "itemId": "ENCHANTED_EYE_OF_ENDER",
+          "quantity": 3
+        }
+      }
+    }
+  ]
 }

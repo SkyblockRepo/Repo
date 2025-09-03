@@ -1,0 +1,20 @@
+{
+  "internalId": "KUUDRA_CAVITY",
+  "name": "Kuudra Teeth Plaque",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7&7''A bacteria proven to decay teeth.''\n&7''This bacteria, however, seems of the''\n&7''highest quality. Maybe you can find a''\n&7''way to break it down!''\n\n&8&l* &r&8Soulbound &8&l*&r\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

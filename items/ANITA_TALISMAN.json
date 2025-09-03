@@ -1,14 +1,14 @@
 {
   "internalId": "ANITA_TALISMAN",
   "name": "Anita's Talisman",
-  "category": null,
+  "category": "Accessory",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Grants a random &6+5☘ Farming\n&6Fortune &7stat during &eJacob's Farming\n&eContest&7.\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

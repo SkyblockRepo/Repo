@@ -1,17 +1,17 @@
 {
   "internalId": "THEORETICAL_HOE_CARROT_3",
   "name": "Gauss Carrot Hoe",
-  "category": null,
+  "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7 &8[&8☘&8] &8[&8☘&8] &8[&8☘&8]\n\n&7Gain &6+50☘ Carrot Fortune &7and &3+3☯\n&3Farming Wisdom &7for carrots.\n\n&7Counter: &e0 Carrots\n\n&6Logarithmic Counter\n&7Gain &6+16☘ Carrot Fortune &7per digits\n&7on the Counter, minus 4!\n&7You have &6+0☘ Carrot Fortune&7.\n\n&6Collection Analysis\n&7Gain &6+8☘ Carrot Fortune &7per digits of\n&7your collection, minus 4!\n&7You have &6+0☘ Carrot Fortune&7.\n\n&7&8Bonus carrots percent increases\n&8your Farmhand perk's chances.\n\n&eReach 100k Counter for +1 Rarity!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 25&c.\n&9&lRARE HOE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },
@@ -80,5 +80,50 @@
       "mapped_item_ids": []
     }
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "THEORETICAL_HOE_CARROT_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "JACOBS_TICKET",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "JACOBS_TICKET",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "THEORETICAL_HOE_CARROT_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "JACOBS_TICKET",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLDEN_CARROT",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "JACOBS_TICKET",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

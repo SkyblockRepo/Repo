@@ -1,0 +1,20 @@
+{
+  "internalId": "EPHEMERAL_GRATITUDE",
+  "name": "Ephemeral Gratitude",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 1,
+  "lore": "&7&7Traded in a blink and missed the wink,\n&7it's for those who click first and ask\n&7questions never!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

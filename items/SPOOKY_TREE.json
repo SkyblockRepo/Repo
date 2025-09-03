@@ -1,0 +1,20 @@
+{
+  "internalId": "SPOOKY_TREE",
+  "name": "Great Spook Tree",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7Place this item on your island!\n\n&7Place ONE of this tree on your island,\n&7and collect its &5fruits&7... rarely.\n\n&5&lEPIC&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

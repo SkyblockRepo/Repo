@@ -1,10 +1,10 @@
 {
   "internalId": "LARGE_ENCHANTED_HUSBANDRY_SACK",
   "name": "Large Enchanted Husbandry Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7This sack can contain all enchanted versions\n&7of these materials:\n&7&aCooked Mutton&7, &aCooked Porkchop&7, &aEgg&7, &aFeather&7,\n&7&aLeather&7, &aMutton&7, &aRabbit Hide&7, &aRabbit's Foot&7, &aRaw\n&aBeef&7, &aRaw Chicken&7, &aRaw Porkchop&7, &aRaw Rabbit&7,\n&7&aSuper Enchanted Egg&7, &aWhite Wool\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,5 +27,50 @@
     "tier": "EPIC",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_ENCHANTED_HUSBANDRY_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_STRING",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_LEATHER",
+          "quantity": 12
+        },
+        "6": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_MUTTON",
+          "quantity": 16
+        }
+      }
+    }
+  ]
 }

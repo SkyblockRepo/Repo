@@ -1,14 +1,14 @@
 {
   "internalId": "PIG_GENERATOR_8",
   "name": "Pig Minion VIII",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Pigs! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a20s\n&7Max Storage: &e768\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 8,
     "generator": "PIG"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PIG_GENERATOR_8",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "PIG_GENERATOR_7",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_PORK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
 }

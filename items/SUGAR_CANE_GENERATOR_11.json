@@ -1,14 +1,14 @@
 {
   "internalId": "SUGAR_CANE_GENERATOR_11",
   "name": "Sugar Cane Minion XI",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting sugar\n&7canes! Requires an area that is\n&7suitable for sugar cane to be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 11,
     "generator": "SUGAR_CANE"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUGAR_CANE_GENERATOR_11",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        },
+        "3": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "SUGAR_CANE_GENERATOR_10",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }

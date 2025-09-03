@@ -1,0 +1,20 @@
+{
+  "internalId": "DIRT.2",
+  "name": "Podzol",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 5,
+  "lore": "{{Item_dirt.2}}",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

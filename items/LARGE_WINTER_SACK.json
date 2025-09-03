@@ -1,10 +1,10 @@
 {
   "internalId": "LARGE_WINTER_SACK",
   "name": "Winter Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aEnchanted Ice&7, &aEnchanted Packed Ice&7, &aEnchanted\n&aSnow Block&7, &aGlacial Fragment&7, &aGreen Gift&7, &aHunk of Blue\n&aIce&7, &aHunk of Ice&7, &aIce&7, &aPacked Ice&7, &aParty Gift&7, &aSnow Block&7,\n&7&aSnowball&7, &aWalnut&7, &aWhite Gift&7, &aWinter Fragment&7, &a&cRed Gift&7,\n&7&a&cVolcanic Rock\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,

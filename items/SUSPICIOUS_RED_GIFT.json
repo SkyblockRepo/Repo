@@ -1,0 +1,20 @@
+{
+  "internalId": "SUSPICIOUS_RED_GIFT",
+  "name": "Suspicious Red Gift",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7A suspiciously heavy gift given to\n&7you by &cChuckleton&7.\n\n&7Obtained from the &dA Honk and Seek\n&dAdventure &7event during April Fools.\n\n&7&eRight-click to open!\n\n&7&8''All suspicious things come in red.''\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": true,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

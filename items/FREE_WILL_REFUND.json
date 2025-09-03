@@ -1,0 +1,20 @@
+{
+  "internalId": "FREE_WILL_REFUND",
+  "name": "Free Will (Refund)",
+  "category": "Rift Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7Giving this to a minion will give them\n&7the illusion of &dFree Will&7. They will be\n&7met with the most important choice of\n&7their minion life.\n\n&7Loyalty Chance: &a100%\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&6&lLEGENDARY&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

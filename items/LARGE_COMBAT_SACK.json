@@ -1,10 +1,10 @@
 {
   "internalId": "LARGE_COMBAT_SACK",
   "name": "Large Combat Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBlaze Rod&7, &aBone&7, &aChili Pepper&7, &aEnder Pearl&7, &aGhast\n&aTear&7, &aGunpowder&7, &aMagma Cream&7, &aRotten Flesh&7, &aSlimeball&7,\n&7&aSpider Eye&7, &aString\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,5 +27,50 @@
     "tier": "EPIC",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_COMBAT_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "MEDIUM_COMBAT_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 8
+        }
+      }
+    }
+  ]
 }

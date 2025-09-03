@@ -1,14 +1,14 @@
 {
   "internalId": "BIRCH_GENERATOR_3",
   "name": "Birch Minion III",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and chopping birch logs!\n&7Requires an open area to place\n&7trees. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a45s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 3,
     "generator": "BIRCH"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BIRCH_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "BIRCH_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "LOG:2",
+          "quantity": 40
+        }
+      }
+    }
+  ]
 }

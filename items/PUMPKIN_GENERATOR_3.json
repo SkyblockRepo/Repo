@@ -1,14 +1,14 @@
 {
   "internalId": "PUMPKIN_GENERATOR_3",
   "name": "Pumpkin Minion III",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting pumpkins!\n&7Requires an open area to place\n&7pumpkins. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a30s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 3,
     "generator": "PUMPKIN"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        },
+        "2": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        },
+        "3": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        },
+        "4": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        },
+        "5": {
+          "itemId": "PUMPKIN_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        },
+        "7": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        },
+        "8": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        },
+        "9": {
+          "itemId": "PUMPKIN",
+          "quantity": 40
+        }
+      }
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "internalId": "MEDIUM_FISHING_SACK",
   "name": "Medium Fishing Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aAgarimoo Tongue&7, &aAlligator Skin&7, &aBlue Ring&7, &aBlue\n&aShark Tooth&7, &aBroken Radar&7, &aBronze Bowl&7, &aBusted Belt\n&aBuckle&7, &aCan of Worms&7, &aChum&7, &aClay&7, &aClownfish&7, &aGlowing\n&aMushroom&7, &aHalf-Eaten Mushroom&7, &aInk Sac&7, &aLily Pad&7, &aNurse\n&aShark Tooth&7, &aOld Leather Boot&7, &aPrismarine Crystals&7,\n&7&aPrismarine Shard&7, &aPufferfish&7, &aRaw Fish&7, &aRaw Salmon&7,\n&7&aRusty Coin&7, &aShark Fin&7, &aSponge&7, &aTiger Shark Tooth&7, &aTorn\n&aCloth&7, &aWorm Membrane\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,5 +27,50 @@
     "tier": "RARE",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_FISHING_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "SMALL_FISHING_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 4
+        }
+      }
+    }
+  ]
 }

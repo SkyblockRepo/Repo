@@ -1,14 +1,14 @@
 {
   "internalId": "PIG_GENERATOR_4",
   "name": "Pig Minion IV",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and slaying Pigs! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a24s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 4,
     "generator": "PIG"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PIG_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PORK",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "PORK",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "PORK",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "PORK",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "PIG_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PORK",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "PORK",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "PORK",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "PORK",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

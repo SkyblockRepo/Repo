@@ -1,14 +1,14 @@
 {
   "internalId": "FISHING_GENERATOR_10",
   "name": "Fishing Minion X",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7fishing. Requires water nearby.\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a43s\n&7Max Storage: &e896\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 10,
     "generator": "FISHING"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FISHING_GENERATOR_10",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "FISHING_GENERATOR_9",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

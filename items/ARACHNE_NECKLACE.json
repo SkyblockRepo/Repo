@@ -1,18 +1,18 @@
 {
   "internalId": "ARACHNE_NECKLACE",
   "name": "Arachne's Necklace",
-  "category": null,
+  "category": "Necklace",
   "source": "HypixelAPI",
   "npcValue": 2000,
-  "lore": "",
+  "lore": "&7Health: &a+10\n&7Defense: &a+5\n\n&8Tiered Bonus: Arachne's Faithful (0/8)\n&7Grants &c+5❤ Health &7and &a+5❈ Defense&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE NECKLACE&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
     "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
-    "soulboundable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
+    "soulboundable": true,
     "sackable": false
   },
   "data": {
@@ -37,18 +37,18 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "defense": 5,
-      "health": 10
+      "health": 10,
+      "defense": 5
     },
-    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "SPIDER",
-        "amount": 5
+        "amount": 5,
+        "essence_type": "SPIDER"
       }
     ],
-    "soulbound": "COOP"
+    "soulbound": "COOP",
+    "rarity_salvageable": true
   },
   "recipes": []
 }

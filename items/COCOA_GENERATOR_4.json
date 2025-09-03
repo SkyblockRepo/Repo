@@ -1,14 +1,14 @@
 {
   "internalId": "COCOA_GENERATOR_4",
   "name": "Cocoa Beans Minion IV",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and harvesting cocoa\n&7beans. Requires jungle logs nearby\n&7so cocoa can be placed, or air\n&7nearby so jungle logs can be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a25s\n&7Max Storage: &e384\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 4,
     "generator": "COCOA"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COCOA_GENERATOR_4",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "COCOA_GENERATOR_3",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "INK_SACK:3",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

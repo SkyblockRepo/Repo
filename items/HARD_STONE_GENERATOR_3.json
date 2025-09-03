@@ -1,14 +1,14 @@
 {
   "internalId": "HARD_STONE_GENERATOR_3",
   "name": "Hard Stone Minion III",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and mining Hard Stone!\n&7Requires an open area to place\n&7Hard Stone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 3,
     "generator": "HARD_STONE"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HARD_STONE_GENERATOR_3",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HARD_STONE_GENERATOR_2",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

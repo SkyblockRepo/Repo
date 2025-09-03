@@ -1,10 +1,10 @@
 {
   "internalId": "MEDIUM_COMBAT_SACK",
   "name": "Medium Combat Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aBlaze Rod&7, &aBone&7, &aChili Pepper&7, &aEnder Pearl&7, &aGhast\n&aTear&7, &aGunpowder&7, &aMagma Cream&7, &aRotten Flesh&7, &aSlimeball&7,\n&7&aSpider Eye&7, &aString\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,5 +27,50 @@
     "tier": "RARE",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_COMBAT_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "SMALL_COMBAT_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "ENCHANTED_ROTTEN_FLESH",
+          "quantity": 4
+        }
+      }
+    }
+  ]
 }

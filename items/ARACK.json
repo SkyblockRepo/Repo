@@ -1,17 +1,17 @@
 {
   "internalId": "ARACK",
   "name": "Arack",
-  "category": null,
+  "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 5000,
-  "lore": "",
+  "lore": "&7Damage: &c+90\n\n&6Ability: Venom Mold \n&7Grants &c+100❁ Strength &7while\n&7poisoned.\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },
@@ -73,14 +73,14 @@
         }
       ]
     ],
-    "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "SPIDER",
-        "amount": 5
+        "amount": 5,
+        "essence_type": "SPIDER"
       }
-    ]
+    ],
+    "rarity_salvageable": true
   },
   "recipes": []
 }

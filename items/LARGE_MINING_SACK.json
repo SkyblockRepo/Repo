@@ -1,10 +1,10 @@
 {
   "internalId": "LARGE_MINING_SACK",
   "name": "Large Mining Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aCoal&7, &aCobblestone&7, &aDiamond&7, &aEmerald&7, &aEnd Stone&7,\n&7&aFlint&7, &aGlacite&7, &aGlossy Gemstone&7, &aGlowstone Dust&7, &aGold\n&aIngot&7, &aGravel&7, &aHard Stone&7, &aIce&7, &aIron Ingot&7, &aLapis Lazuli&7,\n&7&aMithril&7, &aMycelium&7, &aNether Quartz&7, &aNetherrack&7, &aObsidian&7, &aOil\n&aBarrel&7, &aPlasma&7, &aRed Sand&7, &aRedstone&7, &aRefined Mineral&7,\n&7&aSand&7, &aSnow Block&7, &aStarfall&7, &aStone&7, &aTitanium&7, &aTreasurite&7,\n&7&aTungsten&7, &aUmber&7, &aVolta\n\n&7Capacity: &e20,160 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,5 +27,50 @@
     "tier": "EPIC",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_MINING_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "MEDIUM_MINING_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "ENCHANTED_COAL",
+          "quantity": 8
+        }
+      }
+    }
+  ]
 }

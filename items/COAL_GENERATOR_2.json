@@ -1,14 +1,14 @@
 {
   "internalId": "COAL_GENERATOR_2",
   "name": "Coal Minion II",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Place this minion and it will start\n&7generating and mining coal ore!\n&7Requires an open area to place coal\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a15s\n&7Max Storage: &e192\n&7Resources Generated: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -28,5 +28,50 @@
     "generator_tier": 2,
     "generator": "COAL"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "COAL_GENERATOR_2",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COAL",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "COAL",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "COAL",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "COAL",
+          "quantity": 20
+        },
+        "5": {
+          "itemId": "COAL_GENERATOR_1",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "COAL",
+          "quantity": 20
+        },
+        "7": {
+          "itemId": "COAL",
+          "quantity": 20
+        },
+        "8": {
+          "itemId": "COAL",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "COAL",
+          "quantity": 20
+        }
+      }
+    }
+  ]
 }

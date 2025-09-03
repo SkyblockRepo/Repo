@@ -1,0 +1,37 @@
+{
+  "internalId": "BEJEWELED_COLLAR",
+  "name": "Bejeweled Collar",
+  "category": "Pet Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Grants &6+25⸕ Mining Speed&7 and &6+10☘\n&6Mining Fortune&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&9&lRARE PET ITEM&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BEJEWELED_COLLAR",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "REFINED_MITHRIL",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "BEJEWELED_HANDLE",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

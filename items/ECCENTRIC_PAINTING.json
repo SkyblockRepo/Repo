@@ -1,13 +1,13 @@
 {
   "internalId": "ECCENTRIC_PAINTING",
   "name": "Eccentric Painting",
-  "category": null,
+  "category": "Power Stone",
   "source": "HypixelAPI",
   "npcValue": 1,
-  "lore": "",
+  "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aBizarre &7power.\n\n&7At &6250 Magical Power&7:\n&c-23❁ Strength\n&b+417✎ Intelligence\n&9-23☠ Crit Damage\n\n&7Unique Power Bonus:\n&c+5๑ Ability Damage\n\n&7Requires &aCombat Skill Level XXV&7!\n\n&6&lLEGENDARY POWER STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

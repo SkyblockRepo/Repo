@@ -1,10 +1,10 @@
 {
   "internalId": "MEDIUM_DRAGON_SACK",
   "name": "Medium Dragon Sack",
-  "category": null,
+  "category": "Item Sack",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Item pickups go directly into your\n&7sacks.\n\n&7&7Items: &aCrystal Fragment&7, &aHoly Dragon Fragment&7, &aMite Gel&7,\n&7&aOld Dragon Fragment&7, &aProtector Dragon Fragment&7, &aRitual\n&aResidue&7, &aStrong Dragon Fragment&7, &aSuperior Dragon\n&aFragment&7, &aUnstable Dragon Fragment&7, &aWise Dragon\n&aFragment&7, &aYoung Dragon Fragment\n\n&7Capacity: &e6,720 per item\n&8Sacks sum their capacity.\n\n&eRight Click to open sack!\n\n&9&lRARE&r",
   "flags": {
     "tradable": false,
     "bazaarable": false,
@@ -27,5 +27,50 @@
     "tier": "RARE",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MEDIUM_DRAGON_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SMALL_DRAGON_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "SUMMONING_EYE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "CRYSTAL_FRAGMENT",
+          "quantity": 4
+        }
+      }
+    }
+  ]
 }

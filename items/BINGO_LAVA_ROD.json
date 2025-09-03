@@ -1,0 +1,20 @@
+{
+  "internalId": "BINGO_LAVA_ROD",
+  "name": "Bingo Lava Rod",
+  "category": "Fishing Rod",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7&8Lava Rod\n\n&7Damage: &c+100\n&7Strength: &c+100\n&7Sea Creature Chance: &c+15%\n&7Fishing Speed: &a+100\n\n&9ථ Hook &8&lNONE&r\n&9ꨃ Line &8&lNONE&r\n&9࿉ Sinker &8&lNONE&r\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply parts to this rod.\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&9&lRARE FISHING ROD&r",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

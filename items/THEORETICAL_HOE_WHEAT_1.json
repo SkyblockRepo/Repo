@@ -1,17 +1,17 @@
 {
   "internalId": "THEORETICAL_HOE_WHEAT_1",
   "name": "Euclid's Wheat Hoe",
-  "category": null,
+  "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7 &8[&8☘&8]\n\n&7Gain &6+10☘ Wheat Fortune &7and &3+1☯\n&3Farming Wisdom &7for wheat.\n\n&7Counter: &e0 Wheat\n\n&eReach 100k Counter for +1 Rarity!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&f&lCOMMON HOE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },
@@ -53,5 +53,50 @@
       "mapped_item_ids": []
     }
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "THEORETICAL_HOE_WHEAT_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "THEORETICAL_HOE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "WHEAT",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "internalId": "ENCHANTED_SHEARS",
+  "name": "Enchanted Shears",
+  "category": "Shears",
+  "source": "HypixelWiki",
+  "npcValue": 2,
+  "lore": "&7This item can be used as a minion\n&7upgrade for sheep generators. This\n&7will automatically shear sheep for\n&7you as they spawn.\n\n&f&lCOMMON SHEARS&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SHEARS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SHEARS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

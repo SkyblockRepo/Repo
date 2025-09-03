@@ -1,0 +1,20 @@
+{
+  "internalId": "RIFT_TROPHY_CITIZEN",
+  "name": "SkyBlock Citizen Timecharm",
+  "category": "Rift Timecharm",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "{{Item_rift_trophy_citizen}}",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": true,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}

@@ -1,0 +1,20 @@
+{
+  "internalId": "LIVING_ENCABULATOR",
+  "name": "Living Encabulator",
+  "category": "Item",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "{{Item_living_encabulator}}",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": []
+}
