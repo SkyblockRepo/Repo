@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Fanged &7reforge when\n&7combined with a melee weapon&7.\n\n&7&8''Fangs! Very menacing.''\n\n&9Fanged &7(&6Legendary&7):\n&7Strength: &c+60\n&7Crit Chance: &c+8%\n&7Bonus Attack Speed: &c+9%\n&7Vitality: &a+8\n\n&9Fanged Bonus\n&7Every &c7th &7melee hit on an enemy\n&7&7deals &c+100% &7damage.\n\n&7Requires &aMining Skill Level XIII&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

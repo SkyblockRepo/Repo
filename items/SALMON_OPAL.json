@@ -6,8 +6,8 @@
   "npcValue": 2000,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Headstrong &7reforge\n&7when combined with a bow&7.\n\n&7https://en.wikipedia.org/wiki/Opal.\n\n&9Headstrong &7(&6Legendary&7):\n&7Strength: &c+23\n&7Crit Chance: &c+15%\n&7Crit Damage: &c+42%\n\n&9Headstrong Bonus\n&7Deal &a+8% &7extra damage when arrows\n&7hit the head of a mob.\n\n&7Requires &aMining Skill Level XV&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

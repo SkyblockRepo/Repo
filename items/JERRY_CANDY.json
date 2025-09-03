@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Right-click to consume and\n&7gain the &aJerry Effect &7(20:00):\n&7 &c+100❤ Health\n&7 &c+20❁ Strength\n&7 &c+2⫽ Ferocity\n&7 &b+100✎ Intelligence\n&7 &b+3✯ Magic Find\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

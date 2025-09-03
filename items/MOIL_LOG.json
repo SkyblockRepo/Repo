@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Moil &7reforge when\n&7combined with an axe&7.\n\n&9Moil &7(&6Legendary&7):\n&7Foraging Wisdom: &a+3\n\n&9Moil Bonus\n&7&7Grants &3+3☯ Foraging Wisdom&7.\n\n&7Requires &aMining Skill Level V&7!\n\n&a&lUNCOMMON REFORGE STONE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

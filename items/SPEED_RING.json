@@ -6,9 +6,9 @@
   "npcValue": 18000,
   "lore": "&7Speed: &a+3\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

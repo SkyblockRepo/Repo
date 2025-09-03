@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumed on use\n\n&7Upgrades a &5Glacial Wisp &7pet to a\n&7&6Subzero Wisp &7pet, resetting its level.\n\n&7&eRight-click on your wisp to upgrade it!\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

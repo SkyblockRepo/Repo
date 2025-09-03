@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumed on use\n\n&7&7This pet item may only be used on a\n&7&6Griffin &7pet.\n\n&7&7Gain &6+2,000 coins &7when digging up\n&7any &eGriffin Burrow&7.\n\n&7&7Grants &b+10✯ Magic Find&7 and &a+55❈\n&aDefense&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5&lEPIC PET ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

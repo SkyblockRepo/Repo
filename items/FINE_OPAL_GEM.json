@@ -6,14 +6,14 @@
   "npcValue": 19200,
   "lore": "&7&8Collection Item\n\n&7A type of &fOpal &7that has clearly been\n&7treated with care.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&f❂ True Defense&7.\n\n&9&lRARE GEMSTONE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
     "soulboundable": false,
-    "sackable": false
+    "sackable": true
   },
   "data": {
     "id": "FINE_OPAL_GEM",

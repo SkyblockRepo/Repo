@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Refined &7reforge when\n&7combined with a mining tool&7.\n\n&9Refined &7(&6Legendary&7):\n&7Mining Wisdom: &a+6\n\n&9Refined Bonus\n&7Grants a &a0.22% &7chance to drop an\n&7enchanted item when mining &6Ores&7.\n\n&7Requires &aMining Skill Level XXV&7!\n\n&5&lEPIC REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

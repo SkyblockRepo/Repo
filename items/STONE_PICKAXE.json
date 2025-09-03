@@ -6,11 +6,11 @@
   "npcValue": 2,
   "lore": "&8Breaking Power 2\n\n&7Damage: &c+20\n&7Mining Speed: &a+110\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&7Nothing beats the smell of fresh\n&7&6Coins&7. Except for lots of things.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Precise &7reforge when\n&7combined with a bow&7.\n\n&7&8''This vicious material can sometimes''\n&8''be found on the floor of The''\n&8''Catacombs.''\n\n&9Precise &7(&6Legendary&7):\n&7Strength: &c+25\n&7Crit Chance: &c+13%\n&7Crit Damage: &c+50%\n\n&9Precise Bonus\n&7Deal &a+10% &7extra damage when\n&7arrows hit the head of a mob.\n\n&7Requires &aMining Skill Level XXII&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

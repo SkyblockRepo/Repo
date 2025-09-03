@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Obtained during the &6Spooky Festival\n&6&7for placing within the Top 50 of the\n&7Candy Contest! Can be placed.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

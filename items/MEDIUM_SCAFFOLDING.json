@@ -6,12 +6,12 @@
   "npcValue": 1000,
   "lore": "&6Ability: Climb!  &e&lRIGHT CLICK&r\n&7Each click allows you to climb &a3&7 blocks, up to &a9&7.\n&7\n&7&7Jumping out will delete the scaffolding.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

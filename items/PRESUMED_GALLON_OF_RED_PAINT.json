@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Blood-Soaked &7reforge\n&7when combined with a cloak&7.\n\n&7&8''Not sure if paint.''\n\n&9Blood-Soaked &7(&6Legendary&7):\n&7Health: &a+10\n&7Defense: &a+5\n&7Vitality: &a+3\n\n&9Blood-Soaked Bonus\n&7Heal &a1.15x &7more from &9Vampirism &7and\n&7&9Lifesteal&7.\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

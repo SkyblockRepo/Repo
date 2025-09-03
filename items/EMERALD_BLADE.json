@@ -6,12 +6,12 @@
   "npcValue": 153000,
   "lore": "&7Damage: &c+144\n\n&7A powerful blade made from pure\n&7&2Emeralds&7. This blade becomes\n&7stronger as you carry more &6coins&7 in\n&7your purse &8(Capped at 2B coins)\n\n&7Receive &4Curse of Greed &7when striking,\n&7&cCANCELLING&7 any effect modifying your &6coins\n&6&7loss on &4death&7!\n\n&7Current Damage Bonus: &a14.0\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

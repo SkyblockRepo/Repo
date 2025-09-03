@@ -6,8 +6,8 @@
   "npcValue": 50000,
   "lore": "&7Right-click to consume this item and\n&7add &5Magma Arrow x256 &7to your\n&7quiver.\n\n&7&4❣ &cRequires &aCombat Skill 25&c.\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

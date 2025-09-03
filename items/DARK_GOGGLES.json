@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Gear Score: &d100 &8(108)\n&7Ability Damage: &c+25% &8(+25%)\n&7Intelligence: &a+150 &8(+165)\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

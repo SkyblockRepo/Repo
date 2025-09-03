@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Applies &9ᛃ &7on wands or deployables,\n&7reducing their mana cost by &b1%&7. Can\n&7be applied up to &a10 &7times.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 100,
   "lore": "&7Placing this item on your private\n&7island will create a portal to &b&dThe End&7\n&7for you to use whenever you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&a&lUNCOMMON PORTAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

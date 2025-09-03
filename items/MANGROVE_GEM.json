@@ -6,8 +6,8 @@
   "npcValue": 1000,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Groovy &7reforge when\n&7combined with armor&7.\n\n&9Groovy &7(&6Legendary&7):\n&7Foraging Fortune: &a+6\n\n&7Requires &aMining Skill Level XXX&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Furniture\n&8Halloween Cosmetic\n\n&7This exclusive &6Halloween &7cosmetic\n&7can be placed on your island or\n&7traded.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

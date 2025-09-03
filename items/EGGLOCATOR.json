@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Uses the magic of &aHoppity &7to\n&7uncover hidden &aChocolate Rabbit\n&aEggs&7.\n\n&6Ability: Egglocator  &e&lRIGHT CLICK&r\n&7Points towards the nearest unclaimed\n&7&aChocolate Rabbit Egg&7!\n&8Cooldown: &a5s\n\n&7Only works during &dHoppity's Hunt&7.\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

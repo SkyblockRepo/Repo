@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+1\n\n&6Ability: Slippery Slope \n&7Gain &f+10✦ Speed &7and &b+10☂ Fishing\n&bSpeed &7while in water.\n&7\n&7&8''Not to be confused with Salmon Hat.''\n\n&7&8This item can be reforged!\n&a&lUNCOMMON CARNIVAL MASK&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

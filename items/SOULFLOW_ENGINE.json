@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7This item can be used as a minion\n&7upgrade.\n\n&7Placing it in a minion will reduce the\n&7minion's output by &c50%&7, but it will\n&7start generating &bSoulflow &7items.\n\n&7While equipped on a Voidling minion,\n&7output is increased by &53% &7per minion\n&7level.\n\n&7&4☠ &cRequires &5Enderman Slayer 5&c.\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

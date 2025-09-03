@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b7 \n&7 &7Maximum Discs: &b4\n&7 &a&lContacts Directory&r\n&7 &d&lTic Tac Toe&r\n\n&eRight-click to open!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

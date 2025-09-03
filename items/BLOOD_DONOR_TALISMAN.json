@@ -6,9 +6,9 @@
   "npcValue": 800,
   "lore": "&7Rift Time: &a+5s\n\n&7Do your part bro.\n\n&5X&5 Rift-Transferable X\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

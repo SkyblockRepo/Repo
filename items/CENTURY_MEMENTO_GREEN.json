@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Commemorates the victory of the\n&a&l GREEN &r&7team in the Year 300\n&7celebrations.\n\n&7Earned by: Unknown\n&7Your team: &a&l GREEN&r\n&7Contribution: &b# tickets\n\n&aTaste of green lime.\n\n&8Memento acquirer name becomes\n&8hidden if traded.\n\n&c&l SPECIAL MEMENTO&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

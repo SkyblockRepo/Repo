@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Can be placed on your private\n&7island. Increases the speed of\n&7nearby foraging minions by &a10%&7.\n\n&7Effective Radius: &b12\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

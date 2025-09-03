@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Health: &a+333\n&7Defense: &a+183\n&7Intelligence: &a+8\n&7True Defense: &a+8\n&7 &8[&8⚔&8] &8[&8⚔&8]\n\n&8Tiered Bonus: Fervor (0/4)\n&7&7Every &a1.5s&7, attacking a mob grants &c1&7 stack of\n&7&6҉ Fervor&7. &8Lose 1 stack after 4s of not gaining\n&8a stack.\n&7 \n&6Ability: Ground Pound &e&lSNEAK&r\n&7&7At &c10&7 stacks, sneak to reset your stacks and\n&7perform &a2 &cGround Pounds&7 dealing damage to\n&7mobs within &a8&7 blocks. &8(Damage scales with your\n&8EHP).\n&7 \n&6Full Set Bonus: Intimidate &7(0/4)\n&7Attacking a mob has a &c50%&7 chance to direct\n&7aggro from 3 mobs to you.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 32&c.\n&7&4❣ &cRequires Kuudra Burning Tier Completion&c.\n&6&lLEGENDARY LEGGINGS&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

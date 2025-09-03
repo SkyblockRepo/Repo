@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7Right-click on an Inferno minion with\n&7this item to boost its chances of\n&7creating &cunique &7drops from\n&7&6Hypergolic &7fuel by &a30% &7for &a24 hours&7.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

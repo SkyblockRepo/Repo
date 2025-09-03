@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Toil &7reforge when\n&7combined with an axe&7.\n\n&9Toil &7(&6Legendary&7):\n&7Strength: &c+16\n&7Crit Damage: &c+16%\n&7Foraging Wisdom: &a+5\n\n&9Toil Bonus\n&7&7Grants &3+5☯ Foraging Wisdom&7.\n\n&7Requires &aMining Skill Level XXV&7!\n\n&5&lEPIC REFORGE STONE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

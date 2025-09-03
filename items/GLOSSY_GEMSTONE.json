@@ -6,8 +6,8 @@
   "npcValue": 4000,
   "lore": "&7''You can see thousands of glittering''\n&7''reflections as you stare into its''\n&7''intricate patterns. Maybe you should''\n&7''stop gazing and keep mining...''\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

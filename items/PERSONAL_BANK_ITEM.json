@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Shortcut to your Personal Bank!\n\n&bRight-Click to open bank!\n&eLeft-Click to deposit purse!\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

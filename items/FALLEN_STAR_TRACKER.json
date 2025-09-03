@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&6Ability: Rezonate  &e&lRIGHT CLICK&r\n&7Leads you to the nearest &5Fallen Star &7while in\n&7the &2Dwarven Mines&7.\n&8Mana Cost: &320\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

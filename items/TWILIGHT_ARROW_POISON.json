@@ -6,8 +6,8 @@
   "npcValue": 650,
   "lore": "&8Consumed on arrow shot\n&7Arrows apply a &5ᛤ &5poison &7that\n&7increases all incoming damage by\n&7&c1.1x &7for &a20s&7.\n\n&a&lUNCOMMON ARROW POISON&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

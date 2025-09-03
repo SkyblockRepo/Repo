@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Island: &aCrystal Hollows\n&7Teleport: &eEntrance\n\n&9&lRARE TRAVEL SCROLL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

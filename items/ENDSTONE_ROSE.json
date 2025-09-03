@@ -6,12 +6,12 @@
   "npcValue": 3000,
   "lore": "&7\"The Zealots have shown me so much\n&7love, I hope this simple rose shows\n&7how much I care for them.\" -\n&7Endstone Protector\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

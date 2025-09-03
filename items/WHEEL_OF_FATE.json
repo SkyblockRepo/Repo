@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Rerolls the &bAttributes &7of an item\n&7when combined with an item that has\n&7any. May the eternal luck of &6Kuudra\n&6&7be in your favor.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

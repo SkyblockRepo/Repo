@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7\n\n&7Effective Radius: &b0\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

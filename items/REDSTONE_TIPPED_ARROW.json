@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&7Damage: &c+15\n\n&7&4❣ &cRequires &aCombat Skill 13&c.\n&7&4❣ &cRequires &aTarget Practice I&c.\n&8Stats added when shot!\n&a&lUNCOMMON ARROW&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

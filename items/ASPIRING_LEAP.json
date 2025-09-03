@@ -6,9 +6,9 @@
   "npcValue": 16000,
   "lore": "&6Ability: Aspiring Leap  &e&lRIGHT CLICK&r\n&7Allows you to teleport to co-op members on\n&7your private island or garden!\n&8Cooldown: &a5s\n\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

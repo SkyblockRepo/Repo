@@ -6,9 +6,9 @@
   "npcValue": 100000,
   "lore": "\n&7&8Crafted by the Etherchemist and\n&8dropped by the Voidgloom Seraph.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

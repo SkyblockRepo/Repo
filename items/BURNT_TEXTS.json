@@ -6,9 +6,9 @@
   "npcValue": 1000000,
   "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Grants &9+5⚓ Double Hook Chance&7, but\n&7reduces your &b☂ Fishing Speed &7by &c50&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&6&lLEGENDARY PET ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

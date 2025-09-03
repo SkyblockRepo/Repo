@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Consume to boost your &6☘ Global\n&6Fortune &7for &a60m&7.\n\n&7Keep this item in your inventory to\n&7increase the bonus up to &6+30&6☘\n&6Global Fortune&7, at which point the\n&7item &c''evolves''&7!\n\n&7Current Bonus: &6+0&6☘ Global Fortune\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

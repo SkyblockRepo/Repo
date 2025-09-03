@@ -6,11 +6,11 @@
   "npcValue": 20000,
   "lore": "&7Gear Score: &d283 &8(309)\n&7Health: &a+100 &8(+110)\n&7Defense: &a+75 &8(+82.5)\n&7Speed: &a+25 &8(+27.5)\n&7Intelligence: &a+25 &8(+27.5)\n\n&6Ability: Second Wind \n&7Instead of dying, gain &f+50✦ Speed\n&f&7and damage immunity for &a3 &7seconds.\n&7Also heals you for &a100 &7+ &a3% &7of your\n&7maximum health.\n&8Cooldown: &a30s\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 15&c.\n&6&lLEGENDARY DUNGEON HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

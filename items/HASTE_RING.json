@@ -6,9 +6,9 @@
   "npcValue": 20500,
   "lore": "&7Mining Speed: &a+10\n\n&7Grants permanent &eHaste II&7.\n\n&9&lRARE ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

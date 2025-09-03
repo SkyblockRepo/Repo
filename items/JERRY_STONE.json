@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Jerry's &7reforge when\n&7combined with &fAspect of the Jerry&7\n&7and &aAspect of the Jerry, Signature\n&aEdition&7.\n\n&7&8''Use with your favorite Aspect of the''\n&8''Jerry.''\n\n&9Jerry's &7(&6Legendary&7):\n&7Strength: &c+25\n&7Crit Chance: &c+10%\n&7Crit Damage: &c+50%\n\n&7Requires &aMining Skill Level I&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

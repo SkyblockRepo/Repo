@@ -6,12 +6,12 @@
   "npcValue": 15500,
   "lore": "&7Damage: &c+120\n&7Strength: &c+50\n\n&6Ability: Tempest \n&7&7The more kills you get using this bow\n&7the more powerful it becomes! Reach\n&7&6250 &7kills to unlock its full potential.\n&7Next Upgrade: &eDouble Shot &8(&a0&7/&c20&8)\n\n&7Kills: &b0\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+100\n&7Defense: &a+70\n&7Speed: &a+50\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&7These boots gain &a+2❈ Defense &7and\n&7&f+4✦ Speed&7 for every Farming Skill\n&7level you have. While on &aThe Garden&7,\n&7these boots also gain &6+1☘ Farming\n&6Fortune &7for every Farming Skill level.\n\n&6Ability: Farmer's Speed  &e&lLEFT CLICK&r\n&7Set a maximum amount of &f✦ Speed&7.\n\n&6Ability: Farmer's Grace \n&7Grants immunity to trampling crops.\n\n&7Bonus Defense: &a0\n&7Bonus Speed: &a0\n\n&7Current Speed Cap: &a&a400\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 21&c.\n&5&lEPIC BOOTS&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

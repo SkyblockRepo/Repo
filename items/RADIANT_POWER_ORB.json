@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Deploy  &e&lRIGHT CLICK&r\n&7Place an orb for &a30s &7buffing up to &b5\n&b&7players within &a18 &7blocks.\n&8Costs 50% of max mana.\n\n&aOrb Buff: Radiant\n&a• &7Heals &c1% &7of max &c❤&7 per second.\n\n&8Only one deployable buff applies.\n\n&7&4☠ &cRequires &5Wolf Slayer 2&c.\n&a&lUNCOMMON DEPLOYABLE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

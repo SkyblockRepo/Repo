@@ -6,12 +6,12 @@
   "npcValue": 50000,
   "lore": "&7Strength: &c+30\n&7Crit Damage: &c+20%\n&7Health: &a+175\n&7Defense: &a+50\n&7Intelligence: &a+15\n&7 &8[&7⚔&8]\n\n&8Tiered Bonus: Rekindle (0/4)\n&7Increase all of your outgoing\n&7burning damage by &c200%&7. For each\n&7second you are on fire additionally\n&7increase all burning damage by &c1.2%\n&c&7up to &c50%&7. When wearing 2 or more\n&7armor pieces of this set, melee\n&7attacks from ignited mobs will set you\n&7on fire!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

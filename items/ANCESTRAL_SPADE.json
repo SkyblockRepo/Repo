@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Hold in your hand to reveal and dig\n&7out &eGriffin Burrows &7in the hub, which\n&7hold both &6treasures &7and &cdangers&7.\n\n&6Ability: Echo  &e&lRIGHT CLICK&r\n&7Show the way to the next or nearby Griffin\n&7burrow.\n&8Mana Cost: &3100\n&8Cooldown: &a3s\n\n&7Only works while Diana's &2Mythological\n&2Ritual &7is active.\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

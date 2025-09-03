@@ -6,12 +6,12 @@
   "npcValue": 80000,
   "lore": "&7Health: &a+100\n&7Defense: &a+50\n\n&6Ability: Growth \n&7Heals you for &a1% &c❤ Health &7after\n&7killing a Monster, and also increases\n&7the &c❤ Health &7bonus of a piece of\n&7the armor by &a1&8 (Max 100)\n&8Cooldown: &a4s\n\n&7Bonus HP: &a0/100\n\n&7&8This item can be reforged!\n&9&lRARE CHESTPLATE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

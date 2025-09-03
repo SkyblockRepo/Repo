@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Copycat  &e&lRIGHT CLICK&r\n&7&7Click on a player to copy their skin's\n&7skull to this item!\n&7&8Skin stays until changed again.\n&8Cooldown: &a10s\n\n&5&lEPIC COSMETIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Adds &b+2 &7rules to your &cAutopet&7!\n\n&7The &cAutopet &7allows you to\n&7&aautomatically &7equip pets\n&7depending on rules you choose.\n\n&eHold and click to consume!\n\n&7&8Find the Autopet in your Pets\n&8menu after unlocking at least 1\n&8rule.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

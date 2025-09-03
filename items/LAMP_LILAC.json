@@ -6,9 +6,9 @@
   "npcValue": 500,
   "lore": "&7Decorate your island with this\n&7eco-friendly lamp!\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

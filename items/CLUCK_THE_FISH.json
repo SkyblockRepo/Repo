@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Cluck cluck bkaawwk. Puk Puk Pukaaak!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

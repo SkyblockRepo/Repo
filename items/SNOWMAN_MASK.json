@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+10\n\n&6Ability: Feelin' Festive \n&7Gain &a+10% &7more &6Coins &7and &3Skill XP\n&3&7from &cGifts&7.\n&7\n&7&8''Also comes with a hat!''\n&7&8''Very stylish.''\n\n&7&8This item can be reforged!\n&9&lRARE CARNIVAL MASK&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

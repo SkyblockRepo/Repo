@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&8Precursor Relic\n\n&7The eye is mightier than the sword.\n\n&eRight-click to view recipes!\n\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

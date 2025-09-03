@@ -6,8 +6,8 @@
   "npcValue": 80000,
   "lore": "&7Use at &bKat &7to upgrade &eEnderman\n&ePets &7to &dMythic &7rarity.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

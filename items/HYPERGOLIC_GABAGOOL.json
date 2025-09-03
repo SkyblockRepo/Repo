@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&7Feed Wisp pets or craft into strong\n&7Inferno minion fuel.\n&7\n&7&cHypergolic-grade fuels create\n&cextra unique items!\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

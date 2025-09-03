@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Gear Score: &d325 &8(358)\n&7Damage: &c+235 &8(+258.5)\n&7Strength: &c+90 &8(+99)\n&7Swing Range: &a+0.5 &8(+0.5)\n\n&6Ability: Reaving Strike  &e&lRIGHT CLICK&r\n&7Slash in a huge arc, dealing &c125% &7melee\n&7damage to all enemies hit!\n&8Charges: &e4 &8/ &a5s\n\n&7Deals &c+1% &7damage to &aUndead\n&amonsters &7for every &a1% &7of your\n&7missing health.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor IV Completion&c.\n&5&lEPIC DUNGEON LONGSWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

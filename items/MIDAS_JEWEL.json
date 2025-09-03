@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Gilded &7reforge when\n&7combined with &6Midas Staff&7, &6⚚ Midas\n&6Staff&7, &6Midas' Sword&7, and &6⚚ Midas'\n&6Sword&7.\n\n&7&8''Midas' most prized possession - a''\n&8''gift from his older brother, whose''\n&8''boundless generosity got the better''\n&8''of him. While he always admired his''\n&8''brother, Midas swore his kingdom''\n&8''would not end the same way.''\n\n&9Gilded &7(&6Legendary&7):\n&7Damage: &c+75\n&7Strength: &c+75\n&7Ability Damage: &c+8%\n\n&9Byron's Compassion &8(Gilded)\n&7Upon killing an enemy, you have a\n&7rare chance to grant coins to a\n&7player around you.\n\n&7Requires &aMining Skill Level XXV&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

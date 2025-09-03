@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+100\n&7Defense: &a+50\n\n&7&7A ceremonial mask worn by the\n&7members of the Kalhuiki Tribe.\n&7\n&7&7While wearing this mask, members of\n&7the Kalhuiki Tribe will not attack you!\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

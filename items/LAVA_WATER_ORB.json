@@ -6,8 +6,8 @@
   "npcValue": 5000,
   "lore": "&7Extremely hot to the touch.\n&7\n&7&8Shouldn't this be steam..?\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

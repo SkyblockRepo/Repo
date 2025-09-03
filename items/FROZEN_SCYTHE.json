@@ -6,12 +6,12 @@
   "npcValue": 100,
   "lore": "&7Damage: &c+80\n\n&6Ability: Ice Bolt  &e&lRIGHT CLICK&r\n&7Shoots &a1 &7Ice Bolt that deals &c1,000 &7damage and\n&7slows enemies hit for &a5 &7seconds!\n&8Mana Cost: &350\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },
