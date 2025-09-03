@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Place this inside a jukebox to play a\n&7dungeon song!\n\n&6Dungeon Drama\n&7  &7By ShinkoNet\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

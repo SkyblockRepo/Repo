@@ -6,8 +6,8 @@
   "npcValue": 10,
   "lore": "&7Consume to light yourself on fire\n&7for &a10 &7seconds granting you &c+10❁\n&cStrength&7.\n\n&7&7''The head of Matchos is a combination''\n&7''of Sulphur and a crystalline''\n&7''substance. With even the slightest''\n&7''frictions they will light up.''\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

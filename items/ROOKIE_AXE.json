@@ -6,12 +6,12 @@
   "npcValue": 6,
   "lore": "&7Damage: &c+20\n\n&9Efficiency I\n&7Increases how quickly your tool\n&7breaks blocks.\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

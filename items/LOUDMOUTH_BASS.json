@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Right-click a player holding a\n&7&fLoudmouth Bass&7 to engage in a duel!\n&7The heavier your bass is, the more\n&7likely it is to win!\n\n&7&7The winning bass will &cconsume &7the\n&7other and grow heavier.\n\n&7&7If your bass is consumed, you\n&7receive some &fFish Food&7 and &3Social\n&3XP&7 as compensation, scaling with\n&7bass weight.\n\n&7Current weight: &a1 lb\n&8Upgrades rarity in 49 lbs\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

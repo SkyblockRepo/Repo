@@ -6,12 +6,12 @@
   "npcValue": 1,
   "lore": "&7Can be used to defuse Dungeon\n&7traps. Successful defusing of traps\n&7may increase your &b✎ Intelligence&7!\n&7(Maximum +10)\n\n&7Traps Defused: &a0\n\n&a&lUNCOMMON DUNGEON ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

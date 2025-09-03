@@ -6,12 +6,12 @@
   "npcValue": 51000,
   "lore": "&7Defense: &a+75\n\n&6Ability: Bone Shield \n&7A Bone Shield will surround you,\n&7nullifying damage you take but\n&7consuming a bone in the process.\n&7Bones regenerate every &a30&7 seconds.\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

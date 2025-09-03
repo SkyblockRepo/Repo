@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Damage: &c+80\n&7Intelligence: &a+200\n\n&6Ability: Rapid-fire  &e&lRIGHT CLICK&r\n&7Shoots a Jerry bullet, dealing &c500\n&c&7damage on impact and knocking you\n&7back.\n\n&7Each shot costs &3+30 mana &7more than\n&7the previous, resetting after &a4s &7of\n&7not firing.\n\n&7&8This item can be reforged!\n&5&lEPIC SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

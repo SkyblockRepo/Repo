@@ -6,8 +6,8 @@
   "npcValue": 1,
   "lore": "&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Ridiculous &7reforge when\n&7combined with a helmet&7.\n\n&7&8''Bonzo never wears it in the''\n&8''presence of other Necromancers.''\n\n&9Ridiculous &7(&6Legendary&7):\n&7Health: &a+35\n&7Defense: &a+35\n&7Crit Chance: &c+5%\n\n&9Ridiculous Bonus\n&7Fart when you sneak. Reduces your\n&7&9☣ Crit Chance &7by &c20% &7for &a20s &7but\n&7grants &a+30 &a❈ Defense &7for &a5s &7and\n&7&b+50 &7mana. Requires at least &c20% &9☣\n&9Crit Chance &7to activate.\n\n&7Requires &aMining Skill Level XVII&7!\n\n&9&lRARE REFORGE STONE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

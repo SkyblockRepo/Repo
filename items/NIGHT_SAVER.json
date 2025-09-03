@@ -6,9 +6,9 @@
   "npcValue": 35,
   "lore": "&7Control the time on your private\n&7island when paired with a &aDay Saver&7.\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

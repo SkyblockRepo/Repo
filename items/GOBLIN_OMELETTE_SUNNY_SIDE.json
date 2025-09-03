@@ -6,9 +6,9 @@
   "npcValue": 20840,
   "lore": "&8Drill Part\n\n&7Grants &6+50☘ Mining Fortune&7, but this\n&7Drill consumes quadruple the &2Fuel&7.\n\n&7Put this item in the &6Upgrade Module\n&6&7slot of a Drill at a &2Drill Mechanic&7!\n\n&7&7''May cause inflammation''\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 5&c.\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

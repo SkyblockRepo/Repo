@@ -6,9 +6,9 @@
   "npcValue": 400,
   "lore": "&7Increase the item pick up range by\n&7&a3x&7.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

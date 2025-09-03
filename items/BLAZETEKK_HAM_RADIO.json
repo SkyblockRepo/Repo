@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&6Ability: Telecommunications \n&7If exactly two players within &a110 &7blocks are\n&7on the same channel, both gain:\n&7 &a+60❈ Defense\n&7 &f+40❂ True Defense\n&7 &3+5☯ Combat Wisdom\n&7 &4+10♨ Vitality\n&8Earn half stats while alone!\n\n&6Ability: Tuning 4 Dummies  &e&lCLICK&r\n&7Switches to the next radio channel.\n\n&7Your channel: &b103.5 FM\n&7Nearby: &c0 enjoyers\n\n&7&4☠ &cRequires &5Blaze Slayer 6&c.\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

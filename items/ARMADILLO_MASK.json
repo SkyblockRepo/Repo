@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+1\n\n&6Ability: Soiling! Soiling! Soiling! \n&7Grants &6+50☘ Block Fortune&7.\n&7\n&7&8''What does the Armadillo say?!''\n\n&7&8This item can be reforged!\n&9&lRARE CARNIVAL MASK&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

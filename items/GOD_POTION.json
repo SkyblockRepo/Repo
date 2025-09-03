@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&8Legacy\n\n&7&7Consuming this potion gives the\n&7player &a24 hours &7of all positive\n&7potion effects!\n\n&eRight-click to consume!\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

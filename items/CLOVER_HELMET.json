@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Magic Find: &a+5%\n&7All Other Stats: &c-5%\n\n&7&7Luck is a quantifiable metric that\n&7anyone possess in varying amounts.\n&7Sometimes, it is necessary to give up\n&7on other skills to improve it.\n\n&7&8This item has no purchasing data yet!\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

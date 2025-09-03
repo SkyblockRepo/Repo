@@ -6,9 +6,9 @@
   "npcValue": 2500,
   "lore": "&7Grants Night Vision while this item is\n&7in your inventory.\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

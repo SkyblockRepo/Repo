@@ -6,9 +6,9 @@
   "npcValue": 1900,
   "lore": "&7Increases the regrowth rate of\n&7nearby crops on the public islands,\n&7regrowing an extra crop every &a3\n&a&7seconds.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

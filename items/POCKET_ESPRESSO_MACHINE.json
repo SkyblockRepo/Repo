@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Costs &31⸎ Soulflow &7per 5s in combat:\n&3⁍ &7Gain &b+100✎ Intelligence\n\n&7Enabled: &aOn\n&eRight-click to toggle!\n\n&7&4☠ &cRequires &5Enderman Slayer 4&c.\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

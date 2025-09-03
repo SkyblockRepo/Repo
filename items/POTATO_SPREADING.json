@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7This item can be used as a minion\n&7upgrade. Place it in ONE minion and it\n&7will occasionally generate Potatoes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&8Consumable\n\n&7Grants the &aSmoldering Polarization\n&a&7effect. &8Consuming multiple stacks the\n&8duration.\n\n&aSmoldering Polarization I &f(1:00:00)\n&7Grants &3+10☯ Combat Wisdom &7against\n&7Blazes and pacifies nearby Blazes\n&7while fighting &4Inferno Demonlord&7.\n\n&eRight-click to consume!\n\n&5X&5 Rift-Transferable X\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7Health: &a+140\n&7Defense: &a+100\n&7Intelligence: &a+100\n\n&6Full Set Bonus: Vivacious Darkness &7(0/4)\n&7&7Costs &32⸎ Soulflow &7per 5s in combat\n&7while &asneaking&7:\n&3⁍ &c+30❁ Strength\n&3⁍ &e+20⚔ Bonus Attack Speed\n&3⁍ &f+10✦ Speed\n&3⁍ &7Multiply &b✎ Intelligence &7by &b1.25x\n&3⁍ &c+200⫽ Ferocity &7against Endermen\n&3⁍ &a+100% &7damage against Endermen\n\n&6Piece Bonus: Enderman Bulwark\n&7Kill Endermen to accumulate defense\n&7against them.\n&7Piece Bonus: &a+0❈\n&7Next Upgrade: &a+20❈ &8(&a0&7/&c100&8)\n\n&7&8This item can be reforged!\n&7&4☠ &cRequires &5Enderman Slayer 4&c.\n&6&lLEGENDARY HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

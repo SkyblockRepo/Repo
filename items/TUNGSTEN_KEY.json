@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7Can be used to open backpacks with\n&7a Tungsten lock held by &bFrozen\n&bCorpses &7in the &bGlacite Mineshafts&7.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

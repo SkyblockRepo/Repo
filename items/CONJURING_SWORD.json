@@ -6,12 +6,12 @@
   "npcValue": 2000,
   "lore": "&7Gear Score: &d172 &8(186)\n&7Damage: &c+68 &8(+74.8)\n&7Strength: &c+36 &8(+39.6)\n&7Intelligence: &a+85 &8(+93.5)\n\n&7&7Reduces the cooldown of Guided\n&7Sheep by &65 &7seconds, and prevents\n&7Guided Sheep from spawning\n&7randomly while holding this item.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cCatacombs Skill 13&c.\n&9&lRARE DUNGEON SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

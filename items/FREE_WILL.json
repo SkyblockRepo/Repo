@@ -6,8 +6,8 @@
   "npcValue": 10000,
   "lore": "&7Giving this to a minion will give them\n&7the illusion of &dFree Will&7. They will be\n&7met with the most important choice of\n&7their minion life.\n\n&7They will either &astay &7and become\n&7loyal, granting &a+10% Minion Speed &7or\n&7&cleave you forever &7and send you a\n&7&dPostcard&7.\n\n&7Loyalty Chance:\n&7&a50% &7at Minion Tier I, &a+4% &7per minion\n&7tier.\n\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

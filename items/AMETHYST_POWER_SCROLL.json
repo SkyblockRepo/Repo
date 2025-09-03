@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7&7Gain &a+10❈ Defense &7for &a5s &7when using your\n&7&e&lRIGHT CLICK &r&6Item Ability&7.\n\n&7&7Can be combined with any &bitem &7with a &e&lRIGHT&r\n&e&lCLICK &r&6Item Ability &7at an anvil.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

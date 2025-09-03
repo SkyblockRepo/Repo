@@ -6,12 +6,12 @@
   "npcValue": 64000,
   "lore": "&7Sea Creature Chance: &c+2.5%\n&7Health: &a+200\n&7Defense: &a+175\n&7 &8[&8⚔&8] &8[&8⚔&8] &8[&8☂&8]\n\n&6Full Set Bonus: Absorb &7(0/4)\n&7&9Doubles&7 your &a❈ Defense&7 while in\n&7water.\n\n&8Tiered Bonus: Festival Fisher (0/4)\n&7&7Increases the chance to catch\n&7&9Sharks &7during the &bFishing Festival &7by\n&7&a0%&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 24&c.\n&6&lLEGENDARY CHESTPLATE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

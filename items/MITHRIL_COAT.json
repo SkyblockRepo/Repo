@@ -6,12 +6,12 @@
   "npcValue": 25000,
   "lore": "&7Defense: &a+125\n&7Speed: &a+15\n\n&6Ability: Mithril's Protection \n&7&7Any damage taken is max &a40% &7of the wearer's\n&7&c❤ Health&7. Gain &cRegeneration &7when this ability\n&7activates.\n\n&7&8This item can be reforged!\n&5&lEPIC CHESTPLATE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

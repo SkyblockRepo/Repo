@@ -6,12 +6,12 @@
   "npcValue": 61000,
   "lore": "&7Damage: &c+100\n&7Strength: &c+100\n\n&6Ability: Arrow Infusion  &e&lON SHOOT&r\n&7Consumes 1 &6Magma Cream&7 from the\n&7&eInventory &7or &aQuiver &7to &adouble&7 the\n&7damage per shot.\n\n&7&8This item can be reforged!\n&5&lEPIC BOW&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

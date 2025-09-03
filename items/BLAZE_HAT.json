@@ -6,12 +6,12 @@
   "npcValue": 20,
   "lore": "&7Strength: &c+20\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

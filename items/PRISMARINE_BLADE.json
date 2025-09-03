@@ -6,12 +6,12 @@
   "npcValue": 160,
   "lore": "&7Damage: &c+50\n&7Strength: &c+25\n\n&7Deals &a+200% &7damage while in water.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON SWORD&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

@@ -6,9 +6,9 @@
   "npcValue": 1,
   "lore": "&7Combine in an anvil with any item to\n&7remove all attributes from the item.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

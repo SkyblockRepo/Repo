@@ -6,11 +6,11 @@
   "npcValue": 0,
   "lore": "&7Can be adapted into 5 specialized\n&7hoes with 3 tiers each.\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&f&lCOMMON HOE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
     "museumable": false,
     "soulboundable": false,
     "sackable": false

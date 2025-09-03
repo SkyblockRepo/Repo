@@ -6,8 +6,8 @@
   "npcValue": 500,
   "lore": "&7A magical shard capturing the\n&7warmth and joy of winter festivities.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

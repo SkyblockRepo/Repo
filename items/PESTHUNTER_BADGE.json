@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&7Bonus Pest Chance: &a+20%\n\n&7&7Can be used to enable or disable\n&7your &2ൠ Bonus Pest Chance &7stat.\n\n&7Enabled: &aOn\n&eRight-click to toggle!\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

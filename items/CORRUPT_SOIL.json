@@ -6,8 +6,8 @@
   "npcValue": 69000,
   "lore": "&7This item can be used as a minion\n&7upgrade. Place it in any mob\n&7spawning minion and it will turn\n&7nearby mobs into their &5corrupted\n&5&7forms.\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

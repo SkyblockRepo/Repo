@@ -6,9 +6,9 @@
   "npcValue": 20000,
   "lore": "&7Sea Creature Chance: &c+1%\n&7Treasure Chance: &a+0.2%\n\n&9&lRARE ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

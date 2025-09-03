@@ -6,8 +6,8 @@
   "npcValue": 10000,
   "lore": "&7Can be used to open backpacks with\n&7a Skeleton lock held by &bFrozen\n&bCorpses &7in the &bGlacite Mineshafts&7.\n\n&7&8Forged by the finest Dwarven\n&8Blacksmith around. The name would\n&8come to be quite ironic.\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

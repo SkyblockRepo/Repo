@@ -6,9 +6,9 @@
   "npcValue": 500,
   "lore": "&8Consumable\n\n&7Do you dare open it?\n\n&eRight-click to consume!\n\n&a&lUNCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

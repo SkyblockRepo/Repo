@@ -6,8 +6,8 @@
   "npcValue": 640,
   "lore": "&7This item can be used as a minion\n&7upgrade. Place it in any minion and it\n&7will occasionally generate Diamonds!\n\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

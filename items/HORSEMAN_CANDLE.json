@@ -6,8 +6,8 @@
   "npcValue": 0,
   "lore": "&7Used to summon the Headless\n&7Horseman. This item can only be used\n&7at night!\n\n&7Can be spawned in:\n&cGraveyard\n&2Wilderness\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

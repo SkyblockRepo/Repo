@@ -6,8 +6,8 @@
   "npcValue": 800,
   "lore": "&7&8Collection Item\n\n&a&lUNCOMMON BLOCK&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

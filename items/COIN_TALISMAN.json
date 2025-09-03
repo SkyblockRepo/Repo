@@ -6,9 +6,9 @@
   "npcValue": 70,
   "lore": "&7Coins start appearing around you\n&7occasionally on public islands. Lucky!\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

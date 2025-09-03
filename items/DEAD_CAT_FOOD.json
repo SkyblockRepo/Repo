@@ -6,9 +6,9 @@
   "npcValue": 0,
   "lore": "&8Consumed on use\n\n&7&7This pet item can be used on\n&7&9Montezuma&7. It may have a different\n&7effect outside of the &dRift&7.\n\n&7&7Grants &a+30ф Rift Time&7 and &b+5⚡ Mana\n&bRegen&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5X&5 Rift-Transferable X\n&9&lRARE PET ITEM&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,

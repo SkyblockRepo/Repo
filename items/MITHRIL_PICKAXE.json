@@ -6,12 +6,12 @@
   "npcValue": 400,
   "lore": "&8Breaking Power 5\n\n&7Damage: &c+40\n&7Mining Speed: &a+300\n&7Mining Fortune: &a+7\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 2&c.\n&a&lUNCOMMON PICKAXE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

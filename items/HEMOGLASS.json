@@ -6,8 +6,8 @@
   "npcValue": 16000,
   "lore": "&7&8Collection Item\n\n&7Right-click to consume and heal\n&7&c0.5❤&7/s for &a7s&7.\n\n&5X&5 Rift-Transferable X\n&9&lRARE&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

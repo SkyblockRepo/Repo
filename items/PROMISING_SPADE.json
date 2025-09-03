@@ -6,12 +6,12 @@
   "npcValue": 10,
   "lore": "&7Gains &9Efficiency I &7after breaking &a10\n&ablocks&7!\n\n&7Blocks Broken: &a0\n\n&a&lUNCOMMON SHOVEL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

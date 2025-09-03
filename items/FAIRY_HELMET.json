@@ -6,12 +6,12 @@
   "npcValue": 420,
   "lore": "&7Health: &a+1\n&7Defense: &a+1\n&7Speed: &a+10\n&7Intelligence: &a-1\n\n&6Full Set Bonus: Fairy's Outfit &7(0/4)\n&7Gain &c1❤ &7per Fairy Soul.\n&7You found: &d0 Fairy Souls\n\n&7&8This item can be reforged!\n&9&lRARE HELMET&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
-    "reforgeable": false,
-    "enchantable": false,
-    "museumable": false,
+    "auctionable": true,
+    "reforgeable": true,
+    "enchantable": true,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

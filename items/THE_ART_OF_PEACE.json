@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7&8Combinable in Anvil\n\n&7Grants &c+40❤ Health &7when applied to\n&7an armor piece. Can only be applied\n&7to an item once.\n\n&7&8Stop quoting my cousin.\n&8 - Moon Tzu\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },

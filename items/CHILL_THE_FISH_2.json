@@ -6,12 +6,12 @@
   "npcValue": 0,
   "lore": "&7This fish was found frozen solid in\n&7the lake of the Main Lobby during\n&7the Holiday months.\n\n&c&lSPECIAL&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
-    "museumable": false,
+    "museumable": true,
     "soulboundable": false,
     "sackable": false
   },
