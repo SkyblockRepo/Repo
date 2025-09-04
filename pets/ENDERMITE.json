@@ -29,7 +29,7 @@
         },
         {
           "type": "ITEM",
-          "item_id": "STONE",
+          "item_id": "END_STONE",
           "amount": 512
         }
       ],
@@ -48,7 +48,7 @@
         },
         {
           "type": "ITEM",
-          "item_id": "ENDSTONE",
+          "item_id": "ENCHANTED_END_STONE",
           "amount": 8
         }
       ],
@@ -67,12 +67,12 @@
         },
         {
           "type": "ITEM",
-          "item_id": "ENDSTONE",
+          "item_id": "ENCHANTED_END_STONE",
           "amount": 16
         },
         {
           "type": "ITEM",
-          "item_id": "DYE",
+          "item_id": "MITE_GEL",
           "amount": 32
         }
       ],
@@ -91,12 +91,12 @@
         },
         {
           "type": "ITEM",
-          "item_id": "ENDSTONE",
+          "item_id": "ENCHANTED_END_STONE",
           "amount": 32
         },
         {
           "type": "ITEM",
-          "item_id": "DYE",
+          "item_id": "MITE_GEL",
           "amount": 64
         }
       ],
@@ -115,12 +115,12 @@
         },
         {
           "type": "ITEM",
-          "item_id": "ENDSTONE",
+          "item_id": "ENCHANTED_END_STONE",
           "amount": 64
         },
         {
           "type": "ITEM",
-          "item_id": "DYE",
+          "item_id": "MIXED_MITE_GEL",
           "amount": 1
         }
       ],
