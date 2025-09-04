@@ -1,14 +1,14 @@
 {
   "internalId": "ABIPHONE_BASIC",
   "name": "Abiphone Basic",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7A device that can be used to contact\n\n&7people! Click NPCs to add them to\n\n&7your contacts!\n\n\n\n&7Features:\n\n&7 Maximum Contacts: &b6 &c(+36) &5(+2)\n\n&7 &a&lContacts Directory&r\n\n\n\n&eRight-click to open!\n\n\n\n&f&lCOMMON&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
