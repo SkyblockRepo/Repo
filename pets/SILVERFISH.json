@@ -1,34 +1,103 @@
 {
   "internalId": "SILVERFISH",
-  "name": "SILVERFISH",
+  "name": "Silverfish",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "SILVERFISH",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Mining Fortune}} <br> {{Defense}}",
-    "category": "Mining",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_silverfish.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_silverfish.png|160px|link=]]",
-    "itemlore1": "sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1 » 100] &fSilverfish\n&8Mining Pet\n\n&7Defense: &a+1 » +100\n&7Mining Fortune: &a+0.2 » +20\n\n&6Magnetic\n&7&7Earn &a+0.3% » +30% &7more Exp when mining.\n\n&b'''MAX LEVEL'''\n&8▸ 5<nowiki>,</nowiki>624<nowiki>,</nowiki>785 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f'''COMMON'''",
-    "itemlore2": "sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1 » 100] &aSilverfish\n&8Mining Pet\n\n&7Defense: &a+1 » +100\n&7Mining Fortune: &a+0.2 » +20\n\n&6Magnetic\n&7&7Earn &a+0.4% » +35% &7more Exp when mining.\n\n&b'''MAX LEVEL'''\n&8▸ 8<nowiki>,</nowiki>644<nowiki>,</nowiki>220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''",
-    "itemlore3": "sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1 » 100] &9Silverfish\n&8Mining Pet\n\n&7Defense: &a+1 » +100\n&7Mining Fortune: &a+0.2 » +20\n\n&6Magnetic\n&7&7Earn &a+0.4% » +40% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.2 » +20☯ Mining Wisdom&7.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''",
-    "itemlore4": "sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1 » 100] &5Silverfish\n&8Mining Pet\n\n&7Defense: &a+1 » +100\n&7Mining Fortune: &a+0.2 » +20\n\n&6Magnetic\n&7&7Earn &a+0.5% » +45% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.25 » +25☯ Mining Wisdom&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''",
-    "itemlore5": "sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1 » 100] &6Silverfish\n&8Mining Pet\n\n&7Defense: &a+1 » +100\n&7Mining Fortune: &a+0.2 » +20\n\n&6Magnetic\n&7&7Earn &a+0.5% » +50% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.3 » +30☯ Mining Wisdom&7.\n\n&6Dexterity\n&7&7Grants &6+1.5 » +150⸕ Mining Speed &7and\n&7permanent &eHaste III&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''",
-    "itemlorecolumns": "5",
-    "kat": "The Silverfish Pet can have its rarity upgraded from {{Common}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_common_level_1 = {{Coins|500}} <br> 128 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]]\n|cost_common_level_100 = {{Coins|350}} <br> 128 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]]\n|time_common = 10 Seconds\n|cost_uncommon_level_1 = {{Coins|2,500}} <br> 256 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]]\n|cost_uncommon_level_100 = {{Coins|1,750}} <br> 256 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]]\n|time_uncommon = 20 Seconds\n|cost_rare_level_1 = {{Coins|5,000}} <br> 512 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]]\n|cost_rare_level_100 = {{Coins|3,500}} <br> 512 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]]\n|time_rare = 30 Seconds\n|cost_epic_level_1 = {{Coins|10,000}} <br> 8 [[File:SkyBlock_items_enchanted_cobblestone.gif|25px|link=Enchanted Cobblestone]] [[Enchanted Cobblestone]]\n|cost_epic_level_100 = {{Coins|7,000}} <br> 8 [[File:SkyBlock_items_enchanted_cobblestone.gif|25px|link=Enchanted Cobblestone]] [[Enchanted Cobblestone]]\n|time_epic = 45 Seconds\n|rarity_low = {{Common}}\n|rarity_high = {{Legendary}}\n|cost_total_level_1 = {{Coins|18,000}} <br> 896 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]] <br> 8 [[File:SkyBlock_items_enchanted_cobblestone.gif|25px|link=Enchanted Cobblestone]] [[Enchanted Cobblestone]]\n|cost_total_level_100 = {{Coins|12,600}} <br> 896 [[File:Minecraft_items_cobblestone.png|25px|link=Cobblestone]] [[Cobblestone]] <br> 8 [[File:SkyBlock_items_enchanted_cobblestone.gif|25px|link=Enchanted Cobblestone]] [[Enchanted Cobblestone]]\n|time_total = 1 Minute, 45 Seconds\n}}",
-    "leveling": "{{Pet Leveling |common = |uncommon = |rare = |epic = |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| COMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1] &fSilverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.3% &7more Exp when mining.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f'''COMMON'''\n   | sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 100] &fSilverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+30% &7more Exp when mining.\n\n&b'''MAX LEVEL'''\n&8▸ 5<nowiki>,</nowiki>624<nowiki>,</nowiki>785 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f'''COMMON'''\n}}\n| UNCOMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1] &aSilverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.4% &7more Exp when mining.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n   | sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 100] &aSilverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+35% &7more Exp when mining.\n\n&b'''MAX LEVEL'''\n&8▸ 8<nowiki>,</nowiki>644<nowiki>,</nowiki>220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n}}\n| RARE = {{#switch: {{{3|max}}}\n   | min = sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1] &9Silverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.4% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.2☯ Mining Wisdom&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n   | sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 100] &9Silverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+40% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+20☯ Mining Wisdom&7.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1] &5Silverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.5% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.25☯ Mining Wisdom&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 100] &5Silverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+45% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+25☯ Mining Wisdom&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 1] &6Silverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.5% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.3☯ Mining Wisdom&7.\n\n&6Dexterity\n&7&7Grants &6+1.5⸕ Mining Speed &7and\n&7permanent &eHaste I&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,silverfish:Silverfish Pet,1,&7[Lvl 100] &6Silverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+50% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+30☯ Mining Wisdom&7.\n\n&6Dexterity\n&7&7Grants &6+150⸕ Mining Speed &7and\n&7permanent &eHaste III&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Silverfish",
-    "ref": "[[File:SkyBlock_pets_silverfish.png|{{{is|30}}}px|link=]] [[Silverfish Pet]]",
-    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_SILVERFISH_SILBRRRFISH\n|rarity = Epic\n|obtaining = {{Source|January 18, 2025 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_SILVERFISH_FOSSILIZED\n|rarity = Epic\n|obtaining = {{Source|January 22, 2021 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_SILVERFISH\n|rarity = Epic\n|obtaining = {{Source|November 22, 2020 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
-    "tiers": "{{Common}} <br> {{Uncommon}} <br> {{Rare}} <br> {{Epic}} <br> {{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Mining",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Mining Fortune",
+    "Defense"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "COMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &fSilverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.3% &7more Exp when mining.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f&lCOMMON&r",
+        "max": "&7[Lvl 100] &fSilverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+30% &7more Exp when mining.\n\n&b&lMAX LEVEL&r\n&8▸ 5,624,785 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f&lCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COBBLESTONE",
+          "amount": 128
+        }
+      ],
+      "katUpgradeSeconds": 10
+    },
+    "UNCOMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &aSilverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.4% &7more Exp when mining.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r",
+        "max": "&7[Lvl 100] &aSilverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+35% &7more Exp when mining.\n\n&b&lMAX LEVEL&r\n&8▸ 8,644,220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COBBLESTONE",
+          "amount": 256
+        }
+      ],
+      "katUpgradeSeconds": 20
+    },
+    "RARE": {
+      "lore": {
+        "min": "&7[Lvl 1] &9Silverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.4% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.2☯ Mining Wisdom&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r",
+        "max": "&7[Lvl 100] &9Silverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+40% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+20☯ Mining Wisdom&7.\n\n&b&lMAX LEVEL&r\n&8▸ 12,626,665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COBBLESTONE",
+          "amount": 512
+        }
+      ],
+      "katUpgradeSeconds": 30
+    },
+    "EPIC": {
+      "lore": {
+        "min": "&7[Lvl 1] &5Silverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.5% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.25☯ Mining Wisdom&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r",
+        "max": "&7[Lvl 100] &5Silverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+45% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+25☯ Mining Wisdom&7.\n\n&b&lMAX LEVEL&r\n&8▸ 18,608,500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COBBLESTONE",
+          "amount": 8
+        }
+      ],
+      "katUpgradeSeconds": 45
+    },
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Silverfish\n&8Mining Pet\n\n&7Defense: &a+1\n&7Mining Fortune: &a+0.2\n\n&6Magnetic\n&7&7Earn &a+0.5% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+0.3☯ Mining Wisdom&7.\n\n&6Dexterity\n&7&7Grants &6+1.5⸕ Mining Speed &7and\n&7permanent &eHaste I&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Silverfish\n&8Mining Pet\n\n&7Defense: &a+100\n&7Mining Fortune: &a+20\n\n&6Magnetic\n&7&7Earn &a+50% &7more Exp when mining.\n\n&6Experienced Burrower\n&7&7&7Grants &3+30☯ Mining Wisdom&7.\n\n&6Dexterity\n&7&7Grants &6+150⸕ Mining Speed &7and\n&7permanent &eHaste III&7.\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "katUpgradeable": false
+    }
   }
 }

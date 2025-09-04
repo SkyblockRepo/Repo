@@ -1,32 +1,41 @@
 {
   "internalId": "EERIE",
-  "name": "EERIE",
+  "name": "Eerie",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "EERIE",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Speed}} <br> {{Intelligence}}",
-    "category": "Combat",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_eerie.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_eerie.png|160px|link=]]",
-    "itemlore1": "sbpet,,eerie:Eerie Pet,1,&7[Lvl 1 » 100] &fEerie\n&8Combat Pet\n\n&7Speed: &a+0.1 » +10\n&7Intelligence: &a+0.5 » +50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&b'''MAX LEVEL'''\n&8▸ 5<nowiki>,</nowiki>624<nowiki>,</nowiki>785 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f'''COMMON'''",
-    "itemlore2": "sbpet,,eerie:Eerie Pet,1,&7[Lvl 1 » 100] &9Eerie\n&8Combat Pet\n\n&7Speed: &a+0.1 » +10\n&7Intelligence: &a+0.5 » +50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a0.1% » 1% &7for\n&7every &5Fear &7you have.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''",
-    "itemlore3": "sbpet,,eerie:Eerie Pet,1,&7[Lvl 1 » 100] &6Eerie\n&8Combat Pet\n\n&7Speed: &a+0.1 » +10\n&7Intelligence: &a+0.5 » +50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a0.1% » 1% &7for\n&7every &5Fear &7you have.\n\n&6Fearcreasing\n&7&7Gives &a+0.1 » +0.4 &5Fear &7for every &a10 &cPrimal\n&cFears &7killed<nowiki>,</nowiki> up to &a150 &cPrimal Fears&7.\n&cPrimal Fear Kills&7: (&a0&7/&c150&7)\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''",
-    "itemlorecolumns": "3",
-    "kat": "The Eerie Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
-    "leveling": "{{Pet Leveling |common = |rare = |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| COMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,eerie:Eerie Pet,1,&7[Lvl 1] &fEerie\n&8Combat Pet\n\n&7Speed: &a+0.1\n&7Intelligence: &a+0.5\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f'''COMMON'''\n   | sbpet,,eerie:Eerie Pet,1,&7[Lvl 100] &fEerie\n&8Combat Pet\n\n&7Speed: &a+10\n&7Intelligence: &a+50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&b'''MAX LEVEL'''\n&8▸ 5<nowiki>,</nowiki>624<nowiki>,</nowiki>785 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f'''COMMON'''\n}}\n| RARE = {{#switch: {{{3|max}}}\n   | min = sbpet,,eerie:Eerie Pet,1,&7[Lvl 1] &9Eerie\n&8Combat Pet\n\n&7Speed: &a+0.1\n&7Intelligence: &a+0.5\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a0.1% &7for\n&7every &5Fear &7you have.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n   | sbpet,,eerie:Eerie Pet,1,&7[Lvl 100] &9Eerie\n&8Combat Pet\n\n&7Speed: &a+10\n&7Intelligence: &a+50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a1% &7for\n&7every &5Fear &7you have.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,eerie:Eerie Pet,1,&7[Lvl 1] &6Eerie\n&8Combat Pet\n\n&7Speed: &a+0.1\n&7Intelligence: &a+0.5\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a0.1% &7for\n&7every &5Fear &7you have.\n\n&6Fearcreasing\n&7&7Gives &a+0.1 &5Fear &7for every &a10 &cPrimal\n&cFears &7killed<nowiki>,</nowiki> up to &a150 &cPrimal Fears&7.\n&cPrimal Fear Kills&7: (&a0&7/&c150&7)\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,eerie:Eerie Pet,1,&7[Lvl 100] &6Eerie\n&8Combat Pet\n\n&7Speed: &a+10\n&7Intelligence: &a+50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you<nowiki>,</nowiki> even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a1% &7for\n&7every &5Fear &7you have.\n\n&6Fearcreasing\n&7&7Gives &a+0.4 &5Fear &7for every &a10 &cPrimal\n&cFears &7killed<nowiki>,</nowiki> up to &a150 &cPrimal Fears&7.\n&cPrimal Fear Kills&7: (&a0&7/&c150&7)\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Eerie",
-    "ref": "[[File:SkyBlock_pets_eerie.png|{{{is|30}}}px|link=]] [[Eerie Pet]]",
-    "skins": "",
-    "tiers": "{{Common}} <br> {{Rare}} <br> {{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Combat",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Speed",
+    "Intelligence"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "COMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &fEerie\n&8Combat Pet\n\n&7Speed: &a+0.1\n&7Intelligence: &a+0.5\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you, even\n&7if you aren't wearing it.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f&lCOMMON&r",
+        "max": "&7[Lvl 100] &fEerie\n&8Combat Pet\n\n&7Speed: &a+10\n&7Intelligence: &a+50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you, even\n&7if you aren't wearing it.\n\n&b&lMAX LEVEL&r\n&8▸ 5,624,785 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f&lCOMMON&r"
+      },
+      "katUpgradeable": false
+    },
+    "RARE": {
+      "lore": {
+        "min": "&7[Lvl 1] &9Eerie\n&8Combat Pet\n\n&7Speed: &a+0.1\n&7Intelligence: &a+0.5\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you, even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a0.1% &7for\n&7every &5Fear &7you have.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r",
+        "max": "&7[Lvl 100] &9Eerie\n&8Combat Pet\n\n&7Speed: &a+10\n&7Intelligence: &a+50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you, even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a1% &7for\n&7every &5Fear &7you have.\n\n&b&lMAX LEVEL&r\n&8▸ 12,626,665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r"
+      },
+      "katUpgradeable": false
+    },
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Eerie\n&8Combat Pet\n\n&7Speed: &a+0.1\n&7Intelligence: &a+0.5\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you, even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a0.1% &7for\n&7every &5Fear &7you have.\n\n&6Fearcreasing\n&7&7Gives &a+0.1 &5Fear &7for every &a10 &cPrimal\n&cFears &7killed, up to &a150 &cPrimal Fears&7.\n&cPrimal Fear Kills&7: (&a0&7/&c150&7)\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Eerie\n&8Combat Pet\n\n&7Speed: &a+10\n&7Intelligence: &a+50\n\n&6Fearnesy\n&7&7&5Fear &7from &5Great Spook Armor &7in\n&7your &bwardrobe &7applies to you, even\n&7if you aren't wearing it.\n\n&6Fearama\n&7&7&7Increases &cdamage &7dealt to Primal\n&7Fears and Spooky Mobs by &a1% &7for\n&7every &5Fear &7you have.\n\n&6Fearcreasing\n&7&7Gives &a+0.4 &5Fear &7for every &a10 &cPrimal\n&cFears &7killed, up to &a150 &cPrimal Fears&7.\n&cPrimal Fear Kills&7: (&a0&7/&c150&7)\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "katUpgradeable": false
+    }
   }
 }

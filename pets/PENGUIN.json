@@ -1,31 +1,28 @@
 {
   "internalId": "PENGUIN",
-  "name": "PENGUIN",
+  "name": "Penguin",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "PENGUIN",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Sea Creature Chance}} <br> {{Cold Resistance}}",
-    "category": "Fishing",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_penguin.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_penguin.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_penguin_legendary}}",
-    "itemlorecolumns": "1",
-    "kat": "The Penguin Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
-    "legendary_value": "{{Coins|500,000}}",
-    "leveling": "{{Pet Leveling |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,penguin:Penguin Pet,1,&7[Lvl 1] &6Penguin\n&8Fishing Pet\n\n&7Sea Creature Chance: &c+0.1%\n&7Cold Resistance: &a+0.15\n\n&6Thick Blubber\n&7&7Each time you catch a &3Sea Creature&7<nowiki>,</nowiki>\n&7reduce your &b❄ Cold &7by &a1&7.\n\n&6Chilly Reception\n&7&7Grants &b+0.01❄ Cold Resistance &7for\n&7each player within &a30 &7blocks<nowiki>,</nowiki> up to\n&7&a10 &7players.\n\n&6Subzero Hero\n&7&7Grants &b+0.75☂ Fishing Speed &7while in\n&7the &bGlacite Tunnels&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,penguin:Penguin Pet,1,&7[Lvl 100] &6Penguin\n&8Fishing Pet\n\n&7Sea Creature Chance: &c+10%\n&7Cold Resistance: &a+15\n\n&6Thick Blubber\n&7&7Each time you catch a &3Sea Creature&7<nowiki>,</nowiki>\n&7reduce your &b❄ Cold &7by &a5&7.\n\n&6Chilly Reception\n&7&7Grants &b+1❄ Cold Resistance &7for\n&7each player within &a30 &7blocks<nowiki>,</nowiki> up to\n&7&a10 &7players.\n\n&6Subzero Hero\n&7&7Grants &b+75☂ Fishing Speed &7while in\n&7the &bGlacite Tunnels&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Penguin",
-    "ref": "[[File:SkyBlock_pets_penguin.png|{{{is|30}}}px|link=]] [[Penguin Pet]]",
-    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_PENGUIN_BABY_EMPEROR\n|rarity = Epic\n|obtaining = {{Source|December 14, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
-    "tiers": "{{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Fishing",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Sea Creature Chance",
+    "Cold Resistance"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Penguin\n&8Fishing Pet\n\n&7Sea Creature Chance: &c+0.1%\n&7Cold Resistance: &a+0.15\n\n&6Thick Blubber\n&7&7Each time you catch a &3Sea Creature&7,\n&7reduce your &b❄ Cold &7by &a1&7.\n\n&6Chilly Reception\n&7&7Grants &b+0.01❄ Cold Resistance &7for\n&7each player within &a30 &7blocks, up to\n&7&a10 &7players.\n\n&6Subzero Hero\n&7&7Grants &b+0.75☂ Fishing Speed &7while in\n&7the &bGlacite Tunnels&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Penguin\n&8Fishing Pet\n\n&7Sea Creature Chance: &c+10%\n&7Cold Resistance: &a+15\n\n&6Thick Blubber\n&7&7Each time you catch a &3Sea Creature&7,\n&7reduce your &b❄ Cold &7by &a5&7.\n\n&6Chilly Reception\n&7&7Grants &b+1❄ Cold Resistance &7for\n&7each player within &a30 &7blocks, up to\n&7&a10 &7players.\n\n&6Subzero Hero\n&7&7Grants &b+75☂ Fishing Speed &7while in\n&7the &bGlacite Tunnels&7.\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "value": 500000,
+      "katUpgradeable": false
+    }
   }
 }

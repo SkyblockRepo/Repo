@@ -1,34 +1,103 @@
 {
   "internalId": "BLAZE",
-  "name": "BLAZE",
+  "name": "Blaze",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "BLAZE",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Intelligence}} <br> {{Defense}}",
-    "category": "Combat",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_blaze.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_blaze.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_blaze_common}}",
-    "itemlore2": "{{Item_pet_blaze_uncommon}}",
-    "itemlore3": "{{Item_pet_blaze_rare}}",
-    "itemlore4": "{{Item_pet_blaze_epic}}",
-    "itemlore5": "{{Item_pet_blaze_legendary}}",
-    "itemlorecolumns": "5",
-    "kat": "The Blaze Pet can have its rarity upgraded from {{Common}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_common_level_1 = {{Coins|250,000}} <br> 128 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|cost_common_level_100 = {{Coins|175,000}} <br> 128 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|time_common = 1 Day\n|cost_uncommon_level_1 = {{Coins|500,000}} <br> 256 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|cost_uncommon_level_100 = {{Coins|350,000}} <br> 256 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|time_uncommon = 2 Days\n|cost_rare_level_1 = {{Coins|1,000,000}} <br> 512 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|cost_rare_level_100 = {{Coins|700,000}} <br> 512 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]]\n|time_rare = 3 Days\n|cost_epic_level_1 = {{Coins|2,500,000}} <br> 8 [[File:SkyBlock_items_enchanted_blaze_rod.gif|25px|link=Enchanted Blaze Rod]] [[Enchanted Blaze Rod]]\n|cost_epic_level_100 = {{Coins|1,750,000}} <br> 8 [[File:SkyBlock_items_enchanted_blaze_rod.gif|25px|link=Enchanted Blaze Rod]] [[Enchanted Blaze Rod]]\n|time_epic = 5 Days\n|rarity_low = {{Common}}\n|rarity_high = {{Legendary}}\n|cost_total_level_1 = {{Coins|4,250,000}} <br> 896 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]] <br> 8 [[File:SkyBlock_items_enchanted_blaze_rod.gif|25px|link=Enchanted Blaze Rod]] [[Enchanted Blaze Rod]]\n|cost_total_level_100 = {{Coins|2,975,000}} <br> 896 [[File:SkyBlock_items_enchanted_blaze_powder.gif|25px|link=Enchanted Blaze Powder]] [[Enchanted Blaze Powder]] <br> 8 [[File:SkyBlock_items_enchanted_blaze_rod.gif|25px|link=Enchanted Blaze Rod]] [[Enchanted Blaze Rod]]\n|time_total = 11 Days\n}}",
-    "leveling": "{{Pet Leveling |epic = |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| COMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,blaze:e,1,&7[Lvl 1] &fBlaze\n&8Combat Pet\n\n&7Defense: &a+0.3\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.05% &7while\n&7on the Crimson Isle\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f'''COMMON'''\n   | sbpet,,blaze:e,1,&7[Lvl 100] &fBlaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a5% &7while on\n&7the Crimson Isle\n\n&b''' MAX LEVEL'''\n&8▸ 5<nowiki>,</nowiki>624<nowiki>,</nowiki>785 XP\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f'''COMMON'''\n}}\n| UNCOMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,blaze:e,1,&7[Lvl 1] &aBlaze\n&8Combat Pet\n\n&7Defense: &a+0.3\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.07% &7while\n&7on the Crimson Isle\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n   | sbpet,,blaze:e,1,&7[Lvl 100] &aBlaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a7.5% &7while\n&7on the Crimson Isle\n\n&b'''MAX LEVEL'''\n&8▸ 8<nowiki>,</nowiki>644<nowiki>,</nowiki>220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n}}\n| RARE = {{#switch: {{{3|max}}}\n   | min = sbpet,,blaze:e,1,&7[Lvl 1] &9Blaze\n&8Combat Pet\n\n&7Defense: &a+0.3\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.07% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a0.4%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n   | sbpet,,blaze:e,1,&7[Lvl 100] &9Blaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a7.5% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a35%&7.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,blaze:Blaze Pet,1,&7[Lvl 1] &5Blaze\n&8Combat Pet\n\n&7Defense: &a+10.2\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.1% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a0.4%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,blaze:Blaze Pet,1,&7[Lvl 100] &5Blaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a10% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a40%&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,blaze:Blaze Pet,1,&7[Lvl 1] &6Blaze\n&8Combat Pet\n\n&7Defense: &a+10.2\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.1% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a0.4%&7.\n\n&6Fusion-Style Potato\n&7&7Double effects of hot potato books\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,blaze:Blaze Pet,1,&7[Lvl 100] &6Blaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a10% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a40%&7.\n\n&6Fusion-Style Potato\n&7&7Double effects of hot potato books\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Blaze",
-    "ref": "[[File:SkyBlock_pets_blaze.png|{{{is|30}}}px|link=]] [[Blaze Pet]]",
-    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_BLAZE_PLUSHIE\n|rarity = Epic\n|obtaining = {{Source|June 27, 2024 {{NPC/TAILOR_OWNER}}'s {{color|gold|Summer 2024}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_BLAZE_FROZEN\n|rarity = Mythic\n|obtaining = {{Source|December 24, 2021 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
-    "tiers": "{{Common}} <br> {{Uncommon}} <br> {{Rare}} <br> {{Epic}} <br> {{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Combat",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Intelligence",
+    "Defense"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "COMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &fBlaze\n&8Combat Pet\n\n&7Defense: &a+0.3\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.05% &7while\n&7on the Crimson Isle\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f&lCOMMON&r",
+        "max": "&7[Lvl 100] &fBlaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a5% &7while on\n&7the Crimson Isle\n\n&b&l MAX LEVEL&r\n&8▸ 5,624,785 XP\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f&lCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "POWDER",
+          "amount": 128
+        }
+      ],
+      "katUpgradeSeconds": 86400
+    },
+    "UNCOMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &aBlaze\n&8Combat Pet\n\n&7Defense: &a+0.3\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.07% &7while\n&7on the Crimson Isle\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r",
+        "max": "&7[Lvl 100] &aBlaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a7.5% &7while\n&7on the Crimson Isle\n\n&b&lMAX LEVEL&r\n&8▸ 8,644,220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 500000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "POWDER",
+          "amount": 256
+        }
+      ],
+      "katUpgradeSeconds": 172800
+    },
+    "RARE": {
+      "lore": {
+        "min": "&7[Lvl 1] &9Blaze\n&8Combat Pet\n\n&7Defense: &a+0.3\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.07% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a0.4%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r",
+        "max": "&7[Lvl 100] &9Blaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a7.5% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a35%&7.\n\n&b&lMAX LEVEL&r\n&8▸ 12,626,665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "POWDER",
+          "amount": 512
+        }
+      ],
+      "katUpgradeSeconds": 259200
+    },
+    "EPIC": {
+      "lore": {
+        "min": "&7[Lvl 1] &5Blaze\n&8Combat Pet\n\n&7Defense: &a+10.2\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.1% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a0.4%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r",
+        "max": "&7[Lvl 100] &5Blaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a10% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a40%&7.\n\n&b&lMAX LEVEL&r\n&8▸ 18,608,500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 2500000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ROD",
+          "amount": 8
+        }
+      ],
+      "katUpgradeSeconds": 432000
+    },
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Blaze\n&8Combat Pet\n\n&7Defense: &a+10.2\n&7Intelligence: &a+1\n\n&6Nether Embodiment\n&7&7Increases most stats by &a0.1% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a0.4%&7.\n\n&6Fusion-Style Potato\n&7&7Double effects of hot potato books\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Blaze\n&8Combat Pet\n\n&7Defense: &a+30\n&7Intelligence: &a+100\n\n&6Nether Embodiment\n&7&7Increases most stats by &a10% &7while\n&7on the Crimson Isle\n\n&6Bling Armor\n&7&7Upgrades &cBlaze Armor &7stats and\n&7ability by &a40%&7.\n\n&6Fusion-Style Potato\n&7&7Double effects of hot potato books\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "katUpgradeable": false
+    }
   }
 }

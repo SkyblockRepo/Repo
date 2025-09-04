@@ -1,30 +1,28 @@
 {
   "internalId": "JADE_DRAGON",
-  "name": "JADE_DRAGON",
+  "name": "Jade Dragon",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "JADE_DRAGON",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Strength}} <br> {{Magic Find}} <br> {{Foraging Fortune}}",
-    "category": "Foraging",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_jade dragon.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_jade dragon.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_jade dragon_legendary}}",
-    "itemlorecolumns": "1",
-    "kat": "The Jade Dragon Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
-    "leveling": "{{Pet Leveling 200|legendary =}}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,jade_dragon:Jade Dragon Pet,1,&7[Lvl 101] &6Jade Dragon\n&8Foraging Pet\n\n&7Strength: &c+25.25\n&7Magic Find: &a+5.05\n&7Foraging Fortune: &a+25.25\n\n&6Forest Power\n&7Adds &c75.25❁ Strength &7and &f37.62✦\n&fSpeed &7to all your Axes.\n\n&6Jade Scale\n&7Grants &615☘ Foraging Fortune &7and\n&24∮ Sweep &7for every digit in your\n&aMangrove Collection&7.\n&8(Max 10M collection)\n\n&6Dragon's Pride\n&7Grants &61☘ Foraging Fortune &7per &25∮\n&2Sweep&7.\n\n&6Apex Predator\n&7Increase your total &2∮ Sweep &7by\n&20.1% &7for every Maxed out Attribute\n&7you unlocked.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,jade_dragon:Jade Dragon Pet,1,&7[Lvl 200] &6Jade Dragon\n&8Foraging Pet\n\n&7Strength: &c+50\n&7Magic Find: &a+10\n&7Foraging Fortune: &a+50\n\n&6Forest Power\n&7Adds &c100❁ Strength &7and &f50✦ Speed\n&f&7to all your Axes.\n\n&6Jade Scale\n&7Grants &615☘ Foraging Fortune &7and\n&24∮ Sweep &7for every digit in your\n&aMangrove Collection&7.\n&8(Max 10M collection)\n\n&6Dragon's Pride\n&7Grants &61☘ Foraging Fortune &7per &25∮\n&2Sweep&7.\n\n&6Apex Predator\n&7Increase your total &2∮ Sweep &7by\n&20.1% &7for every Maxed out Attribute\n&7you unlocked.\n\n&6Symbiosis\n&7If you own a level &a200 Jade Dragon&7<nowiki>,</nowiki>\n&7grants &6+4☘ Foraging Fortune &7for\n&7every other unique maxed Foraging\n&7Pet that you own.\n\n&b'''MAX LEVEL'''\n&8▸ 210<nowiki>,</nowiki>255<nowiki>,</nowiki>385 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Jade Dragon",
-    "ref": "[[File:SkyBlock_pets_jade dragon.png|{{{is|30}}}px|link=]] [[Jade Dragon Pet]]",
-    "skins": "",
-    "tiers": "{{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Foraging",
+  "minLevel": 101,
+  "maxLevel": 200,
+  "baseStats": [
+    "Strength",
+    "Magic Find",
+    "Foraging Fortune"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 101] &6Jade Dragon\n&8Foraging Pet\n\n&7Strength: &c+25.25\n&7Magic Find: &a+5.05\n&7Foraging Fortune: &a+25.25\n\n&6Forest Power\n&7Adds &c75.25❁ Strength &7and &f37.62✦\n&fSpeed &7to all your Axes.\n\n&6Jade Scale\n&7Grants &615☘ Foraging Fortune &7and\n&24∮ Sweep &7for every digit in your\n&aMangrove Collection&7.\n&8(Max 10M collection)\n\n&6Dragon's Pride\n&7Grants &61☘ Foraging Fortune &7per &25∮\n&2Sweep&7.\n\n&6Apex Predator\n&7Increase your total &2∮ Sweep &7by\n&20.1% &7for every Maxed out Attribute\n&7you unlocked.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 200] &6Jade Dragon\n&8Foraging Pet\n\n&7Strength: &c+50\n&7Magic Find: &a+10\n&7Foraging Fortune: &a+50\n\n&6Forest Power\n&7Adds &c100❁ Strength &7and &f50✦ Speed\n&f&7to all your Axes.\n\n&6Jade Scale\n&7Grants &615☘ Foraging Fortune &7and\n&24∮ Sweep &7for every digit in your\n&aMangrove Collection&7.\n&8(Max 10M collection)\n\n&6Dragon's Pride\n&7Grants &61☘ Foraging Fortune &7per &25∮\n&2Sweep&7.\n\n&6Apex Predator\n&7Increase your total &2∮ Sweep &7by\n&20.1% &7for every Maxed out Attribute\n&7you unlocked.\n\n&6Symbiosis\n&7If you own a level &a200 Jade Dragon&7,\n&7grants &6+4☘ Foraging Fortune &7for\n&7every other unique maxed Foraging\n&7Pet that you own.\n\n&b&lMAX LEVEL&r\n&8▸ 210,255,385 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "katUpgradeable": false
+    }
   }
 }

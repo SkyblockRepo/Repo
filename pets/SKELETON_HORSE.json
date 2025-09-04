@@ -1,31 +1,28 @@
 {
   "internalId": "SKELETON_HORSE",
-  "name": "SKELETON_HORSE",
+  "name": "Skeleton Horse",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "SKELETON_HORSE",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Speed}} <br> {{Intelligence}}",
-    "category": "Combat",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_skeleton horse.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_skeleton horse.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_skeleton horse_legendary}}",
-    "itemlorecolumns": "1",
-    "kat": "The Skeleton Horse Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
-    "legendary_value": "{{Coins|500,000}}",
-    "leveling": "{{Pet Leveling |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,skeleton_horse:Skeleton Horse Pet,1,&7[Lvl 1] &6Skeleton Horse\n&8Combat Mount\n\n&7Run around town on your scary<nowiki>,</nowiki> yet\n&7trusty<nowiki>,</nowiki> steed!\n\n&7Speed: &a+0.5\n&7Intelligence: &a+1\n\n&6Ridable\n&7&7Right-click your summoned pet to\n&7ride it!\n\n&6Run\n&7&7Increases the speed of your mount\n&7by &a1.5%&7.\n\n&6Ride Into Battle\n&7&7While riding your horse<nowiki>,</nowiki> gain +&a0.4%\n&a&7bow damage.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,skeleton_horse:Skeleton Horse Pet,1,&7[Lvl 100] &6Skeleton Horse\n&8Combat Mount\n\n&7Run around town on your scary<nowiki>,</nowiki> yet\n&7trusty<nowiki>,</nowiki> steed!\n\n&7Speed: &a+50\n&7Intelligence: &a+100\n\n&6Ridable\n&7&7Right-click your summoned pet to\n&7ride it!\n\n&6Run\n&7&7Increases the speed of your mount\n&7by &a150%&7.\n\n&6Ride Into Battle\n&7&7While riding your horse<nowiki>,</nowiki> gain +&a40%\n&a&7bow damage.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{Yes|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Skeleton Horse",
-    "ref": "[[File:SkyBlock_pets_skeleton horse.png|{{{is|30}}}px|link=]] [[Skeleton Horse Pet]]",
-    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_HORSE_ZOMBIE\n|rarity = Epic\n|obtaining = {{Source|January 29, 2021 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
-    "tiers": "{{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Combat",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Speed",
+    "Intelligence"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": true,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Skeleton Horse\n&8Combat Mount\n\n&7Run around town on your scary, yet\n&7trusty, steed!\n\n&7Speed: &a+0.5\n&7Intelligence: &a+1\n\n&6Ridable\n&7&7Right-click your summoned pet to\n&7ride it!\n\n&6Run\n&7&7Increases the speed of your mount\n&7by &a1.5%&7.\n\n&6Ride Into Battle\n&7&7While riding your horse, gain +&a0.4%\n&a&7bow damage.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Skeleton Horse\n&8Combat Mount\n\n&7Run around town on your scary, yet\n&7trusty, steed!\n\n&7Speed: &a+50\n&7Intelligence: &a+100\n\n&6Ridable\n&7&7Right-click your summoned pet to\n&7ride it!\n\n&6Run\n&7&7Increases the speed of your mount\n&7by &a150%&7.\n\n&6Ride Into Battle\n&7&7While riding your horse, gain +&a40%\n&a&7bow damage.\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "value": 500000,
+      "katUpgradeable": false
+    }
   }
 }

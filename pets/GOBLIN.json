@@ -1,31 +1,28 @@
 {
   "internalId": "GOBLIN",
-  "name": "GOBLIN",
+  "name": "Goblin",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "GOBLIN",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Magic Find}} <br> {{Ore Fortune}}",
-    "category": "Mining",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_goblin.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_goblin.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_goblin_legendary}}",
-    "itemlorecolumns": "1",
-    "kat": "The Goblin Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
-    "legendary_value": "{{Coins|500,000}}",
-    "leveling": "{{Pet Leveling |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,goblin:Goblin Pet,1,&7[Lvl 1] &6Goblin\n&8Mining Pet\n\n&7Magic Find: &a+0.07\n&7Ore Fortune: &a+1\n\n&6Grunt Work\n&7&7Gain &6+2.5⸕ Mining Speed &7when mining\n&7&6Ores&7.\n\n&6Fetid Thief\n&7&7Gain &e+1▚ Mining Spread &7while in the\n&7&2Mines of Divan&7.\n\n&6Free-range Eggs\n&7&7Increases the chance of finding\n&7rare goblin eggs by &a0.5%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,goblin:Goblin Pet,1,&7[Lvl 100] &6Goblin\n&8Mining Pet\n\n&7Magic Find: &a+7\n&7Ore Fortune: &a+100\n\n&6Grunt Work\n&7&7Gain &6+250⸕ Mining Speed &7when mining\n&7&6Ores&7.\n\n&6Fetid Thief\n&7&7Gain &e+100▚ Mining Spread &7while in\n&7the &2Mines of Divan&7.\n\n&6Free-range Eggs\n&7&7Increases the chance of finding\n&7rare goblin eggs by &a50%&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Goblin",
-    "ref": "[[File:SkyBlock_pets_goblin.png|{{{is|30}}}px|link=]] [[Goblin Pet]]",
-    "skins": "",
-    "tiers": "{{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Mining",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Magic Find",
+    "Ore Fortune"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Goblin\n&8Mining Pet\n\n&7Magic Find: &a+0.07\n&7Ore Fortune: &a+1\n\n&6Grunt Work\n&7&7Gain &6+2.5⸕ Mining Speed &7when mining\n&7&6Ores&7.\n\n&6Fetid Thief\n&7&7Gain &e+1▚ Mining Spread &7while in the\n&7&2Mines of Divan&7.\n\n&6Free-range Eggs\n&7&7Increases the chance of finding\n&7rare goblin eggs by &a0.5%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Goblin\n&8Mining Pet\n\n&7Magic Find: &a+7\n&7Ore Fortune: &a+100\n\n&6Grunt Work\n&7&7Gain &6+250⸕ Mining Speed &7when mining\n&7&6Ores&7.\n\n&6Fetid Thief\n&7&7Gain &e+100▚ Mining Spread &7while in\n&7the &2Mines of Divan&7.\n\n&6Free-range Eggs\n&7&7Increases the chance of finding\n&7rare goblin eggs by &a50%&7.\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "value": 500000,
+      "katUpgradeable": false
+    }
   }
 }
