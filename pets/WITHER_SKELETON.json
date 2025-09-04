@@ -1,34 +1,106 @@
 {
   "internalId": "WITHER_SKELETON",
-  "name": "WITHER_SKELETON",
+  "name": "Wither Skeleton",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "WITHER_SKELETON",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Crit Chance}} <br> {{Strength}} <br> {{Crit Damage}} <br> {{Intelligence}} <br> {{Defense}}",
-    "category": "Mining",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_wither skeleton.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_wither skeleton.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_wither_skeleton_common}}",
-    "itemlore2": "{{Item_pet_wither_skeleton_uncommon}}",
-    "itemlore3": "{{Item_pet_wither_skeleton_rare}}",
-    "itemlore4": "{{Item_pet_wither_skeleton_epic}}",
-    "itemlore5": "{{Item_pet_wither_skeleton_legendary}}",
-    "itemlorecolumns": "5",
-    "kat": "The Wither Skeleton Pet can have its rarity upgraded from {{Common}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_common_level_1 = {{Coins|25,000}} <br> 16 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|cost_common_level_100 = {{Coins|17,500}} <br> 16 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|time_common = 1 Hour\n|cost_uncommon_level_1 = {{Coins|50,000}} <br> 32 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|cost_uncommon_level_100 = {{Coins|35,000}} <br> 32 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|time_uncommon = 3 Hours\n|cost_rare_level_1 = {{Coins|100,000}} <br> 64 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|cost_rare_level_100 = {{Coins|70,000}} <br> 64 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|time_rare = 6 Hours\n|cost_epic_level_1 = {{Coins|250,000}} <br> 128 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|cost_epic_level_100 = {{Coins|175,000}} <br> 128 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|time_epic = 12 Hours\n|rarity_low = {{Common}}\n|rarity_high = {{Legendary}}\n|cost_total_level_1 = {{Coins|425,000}} <br> 240 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|cost_total_level_100 = {{Coins|297,500}} <br> 240 [[File:SkyBlock_items_enchanted_coal.gif|25px|link=Enchanted Coal]] [[Enchanted Coal]]\n|time_total = 22 Hours\n}}",
-    "leveling": "{{Pet Leveling |epic = |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| COMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,wither_skeleton:e,1,&7[Lvl 1] &fWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.1% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f'''COMMON'''\n   | sbpet,,wither_skeleton:e,1,&7[Lvl 100] &fWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a10% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&b''' MAX LEVEL'''\n&8▸ 5<nowiki>,</nowiki>624<nowiki>,</nowiki>785 XP\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f'''COMMON'''\n}}\n| UNCOMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,wither_skeleton:e,1,&7[Lvl 1] &aWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.2% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n   | sbpet,,wither_skeleton:e,1,&7[Lvl 100] &aWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a20% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&b'''MAX LEVEL'''\n&8▸ 8<nowiki>,</nowiki>644<nowiki>,</nowiki>220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n}}\n| RARE = {{#switch: {{{3|max}}}\n   | min = sbpet,,wither_skeleton:e,1,&7[Lvl 1] &9Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.2% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a1% &7more damage to &8☠ Wither\n&7mobs.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n   | sbpet,,wither_skeleton:e,1,&7[Lvl 100] &9Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a20% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a100% &7more damage to &8☠ Wither\n&7mobs.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,wither_skeleton:Wither Skeleton Pet,1,&7[Lvl 1] &5Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.3% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a1.2% &7more damage to &8☠ Wither\n&7mobs.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,wither_skeleton:Wither Skeleton Pet,1,&7[Lvl 100] &5Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a30% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a125% &7more damage to &8☠ Wither\n&7mobs.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,wither_skeleton:Wither Skeleton Pet,1,&7[Lvl 1] &6Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.3% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a1.2% &7more damage to &8☠ Wither\n&7mobs.\n\n&6Death's Touch\n&7&7Upon hitting an enemy inflict the\n&7wither effect for &a2% &7damage over 3\n&7seconds\n&8Does not stack\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,wither_skeleton:Wither Skeleton Pet,1,&7[Lvl 100] &6Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a30% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a125% &7more damage to &8☠ Wither\n&7mobs.\n\n&6Death's Touch\n&7&7Upon hitting an enemy inflict the\n&7wither effect for &a200% &7damage over\n&73 seconds\n&8Does not stack\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Wither Skeleton",
-    "ref": "[[File:SkyBlock_pets_wither skeleton.png|{{{is|30}}}px|link=]] [[Wither Skeleton Pet]]",
-    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_WITHER_SKELETON_DESPAIR\n|rarity = Epic\n|obtaining = {{Source|November 23, 2024 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_WITHER\n|rarity = Epic\n|obtaining = {{Source|November 15, 2020 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
-    "tiers": "{{Common}} <br> {{Uncommon}} <br> {{Rare}} <br> {{Epic}} <br> {{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Mining",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Crit Chance",
+    "Strength",
+    "Crit Damage",
+    "Intelligence",
+    "Defense"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "COMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &fWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.1% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f&lCOMMON&r",
+        "max": "&7[Lvl 100] &fWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a10% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&b&l MAX LEVEL&r\n&8▸ 5,624,785 XP\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f&lCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 25000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COAL",
+          "amount": 16
+        }
+      ],
+      "katUpgradeSeconds": 3600
+    },
+    "UNCOMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &aWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.2% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r",
+        "max": "&7[Lvl 100] &aWither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a20% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&b&lMAX LEVEL&r\n&8▸ 8,644,220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COAL",
+          "amount": 32
+        }
+      ],
+      "katUpgradeSeconds": 10800
+    },
+    "RARE": {
+      "lore": {
+        "min": "&7[Lvl 1] &9Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.2% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a1% &7more damage to &8☠ Wither\n&7mobs.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r",
+        "max": "&7[Lvl 100] &9Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a20% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a100% &7more damage to &8☠ Wither\n&7mobs.\n\n&b&lMAX LEVEL&r\n&8▸ 12,626,665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COAL",
+          "amount": 64
+        }
+      ],
+      "katUpgradeSeconds": 21600
+    },
+    "EPIC": {
+      "lore": {
+        "min": "&7[Lvl 1] &5Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.3% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a1.2% &7more damage to &8☠ Wither\n&7mobs.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r",
+        "max": "&7[Lvl 100] &5Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a30% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a125% &7more damage to &8☠ Wither\n&7mobs.\n\n&b&lMAX LEVEL&r\n&8▸ 18,608,500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COAL",
+          "amount": 128
+        }
+      ],
+      "katUpgradeSeconds": 43200
+    },
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+0.25\n&7Strength: &c+0.25\n&7Intelligence: &a+0.25\n&7Crit Chance: &c+0.05%\n&7Crit Damage: &c+0.25%\n\n&6Stronger Bones\n&7&7Take &a0.3% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a1.2% &7more damage to &8☠ Wither\n&7mobs.\n\n&6Death's Touch\n&7&7Upon hitting an enemy inflict the\n&7wither effect for &a2% &7damage over 3\n&7seconds\n&8Does not stack\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Wither Skeleton\n&8Mining Pet\n\n&7Defense: &a+25\n&7Strength: &c+25\n&7Intelligence: &a+25\n&7Crit Chance: &c+5%\n&7Crit Damage: &c+25%\n\n&6Stronger Bones\n&7&7Take &a30% &7less damage from &f\uD83E\uDDB4\n&fSkeletal &7mobs.\n\n&6Wither Blood\n&7&7Deal &a125% &7more damage to &8☠ Wither\n&7mobs.\n\n&6Death's Touch\n&7&7Upon hitting an enemy inflict the\n&7wither effect for &a200% &7damage over\n&73 seconds\n&8Does not stack\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "katUpgradeable": false
+    }
   }
 }

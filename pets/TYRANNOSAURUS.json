@@ -1,31 +1,29 @@
 {
   "internalId": "TYRANNOSAURUS",
-  "name": "TYRANNOSAURUS",
+  "name": "T-Rex",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "TYRANNOSAURUS",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Strength}} <br> {{Ferocity}} <br> {{Crit Chance}}",
-    "category": "Combat",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_tyrannosaurus.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_tyrannosaurus.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_t-rex_legendary}}",
-    "itemlorecolumns": "1",
-    "kat": "The T-Rex Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
-    "legendary_value": "{{Coins|500,000}}",
-    "leveling": "{{Pet Leveling |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,tyrannosaurus:T-Rex Pet,1,&7[Lvl 1] &6T-Rex\n&8Combat Pet\n\n&7Strength: &c+0.75\n&7Crit Chance: &c+0.05%\n&7Ferocity: &a+0.25\n\n&6Close Combat\n&7&7Deal &a1% &7more &cdamage &7to enemies\n&7within 1.5 blocks.\n\n&6Ferocious Roar\n&7&7Attacks have a &a0.1% &7chance to stun\n&7the target &8(10s cooldown).\n\n&6Tyrant\n&7&7Combat stats granted by pet items on\n&7this pet are increased by &a1%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,tyrannosaurus:T-Rex Pet,1,&7[Lvl 100] &6T-Rex\n&8Combat Pet\n\n&7Strength: &c+75\n&7Crit Chance: &c+5%\n&7Ferocity: &a+25\n\n&6Close Combat\n&7&7Deal &a100% &7more &cdamage &7to enemies\n&7within 1.5 blocks.\n\n&6Ferocious Roar\n&7&7Attacks have a &a10% &7chance to stun\n&7the target &8(10s cooldown).\n\n&6Tyrant\n&7&7Combat stats granted by pet items on\n&7this pet are increased by &a100%&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "T-Rex",
-    "ref": "[[File:SkyBlock_pets_tyrannosaurus.png|{{{is|30}}}px|link=]] [[T-Rex Pet]]",
-    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_TYRANNOSAURUS_PLUSHIE\n|rarity = Epic\n|obtaining = {{Source|February 14, 2025 {{NPC/TAILOR_OWNER}}'s {{color|red|Valentine 2025}} Bundle|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_TYRANNOSAURUS_FOSSIL\n|rarity = Epic\n|obtaining = {{Source|January 4, 2025 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
-    "tiers": "{{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Combat",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Strength",
+    "Ferocity",
+    "Crit Chance"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6T-Rex\n&8Combat Pet\n\n&7Strength: &c+0.75\n&7Crit Chance: &c+0.05%\n&7Ferocity: &a+0.25\n\n&6Close Combat\n&7&7Deal &a1% &7more &cdamage &7to enemies\n&7within 1.5 blocks.\n\n&6Ferocious Roar\n&7&7Attacks have a &a0.1% &7chance to stun\n&7the target &8(10s cooldown).\n\n&6Tyrant\n&7&7Combat stats granted by pet items on\n&7this pet are increased by &a1%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6T-Rex\n&8Combat Pet\n\n&7Strength: &c+75\n&7Crit Chance: &c+5%\n&7Ferocity: &a+25\n\n&6Close Combat\n&7&7Deal &a100% &7more &cdamage &7to enemies\n&7within 1.5 blocks.\n\n&6Ferocious Roar\n&7&7Attacks have a &a10% &7chance to stun\n&7the target &8(10s cooldown).\n\n&6Tyrant\n&7&7Combat stats granted by pet items on\n&7this pet are increased by &a100%&7.\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "value": 500000,
+      "katUpgradeable": false
+    }
   }
 }

@@ -1,31 +1,28 @@
 {
   "internalId": "RIFT_FERRET",
-  "name": "RIFT_FERRET",
+  "name": "Rift Ferret",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "RIFT_FERRET",
-    "auctionable": "{{No|15}}",
-    "basestats": "{{Intelligence}} <br> {{Speed}}",
-    "category": "Combat",
-    "epic_value": "{{Coins|50,000}}",
-    "highest_tier": "Epic",
-    "image": "[[File:SkyBlock_pets_rift ferret.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_rift ferret.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_rift ferret_epic}}",
-    "itemlorecolumns": "1",
-    "kat": "The Rift Ferret Pet can't have its rarity upgraded by {{NPC/PET_SITTER}}.",
-    "leveling": "{{Pet Leveling |epic = }}",
-    "lore": "{{#switch: {{{2|EPIC}}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,rift_ferret:Rift Ferret Pet,1,&7[Lvl 1] &5Rift Ferret\n&8Combat Pet\n\n&7Speed: &a+0.5\n&7Intelligence: &a-0.02\n\n&6Orbs are Fun\n&7&7Gain &a+10% &7experience from &bXP Orbs&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,rift_ferret:Rift Ferret Pet,1,&7[Lvl 100] &5Rift Ferret\n&8Combat Pet\n\n&7Speed: &a+50\n&7Intelligence: &a-2\n\n&6Orbs are Fun\n&7&7Gain &a+10% &7experience from &bXP Orbs&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Rift Ferret",
-    "ref": "[[File:SkyBlock_pets_rift ferret.png|{{{is|30}}}px|link=]] [[Rift Ferret Pet]]",
-    "skins": "",
-    "tiers": "{{Epic}}",
-    "tradable": "{{No|15}}"
+  "category": "Combat",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Intelligence",
+    "Speed"
+  ],
+  "flags": {
+    "auctionable": false,
+    "mountable": false,
+    "tradable": false,
+    "museumable": false
+  },
+  "rarities": {
+    "EPIC": {
+      "lore": {
+        "min": "&7[Lvl 1] &5Rift Ferret\n&8Combat Pet\n\n&7Speed: &a+0.5\n&7Intelligence: &a-0.02\n\n&6Orbs are Fun\n&7&7Gain &a+10% &7experience from &bXP Orbs&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r",
+        "max": "&7[Lvl 100] &5Rift Ferret\n&8Combat Pet\n\n&7Speed: &a+50\n&7Intelligence: &a-2\n\n&6Orbs are Fun\n&7&7Gain &a+10% &7experience from &bXP Orbs&7.\n\n&b&lMAX LEVEL&r\n&8▸ 18,608,500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r"
+      },
+      "value": 50000,
+      "katUpgradeable": false
+    }
   }
 }

@@ -1,36 +1,105 @@
 {
   "internalId": "GLACITE_GOLEM",
-  "name": "GLACITE_GOLEM",
+  "name": "Glacite Golem",
   "source": "HypixelWiki",
-  "category": null,
-  "minLevel": null,
-  "maxLevel": null,
-  "petRarities": {},
-  "templateData": {
-    "internalId": "GLACITE_GOLEM",
-    "auctionable": "{{Yes|15}}",
-    "basestats": "{{Mining Speed}} <br> {{Cold Resistance}}",
-    "category": "Mining",
-    "epic_value": "{{Coins|250,000}}",
-    "highest_tier": "Legendary",
-    "image": "[[File:SkyBlock_pets_glacite golem.png|{{{is|30}}}px|link=]]",
-    "infobox_image": "[[File:SkyBlock_pets_glacite golem.png|160px|link=]]",
-    "itemlore1": "{{Item_pet_glacite_golem_common}}",
-    "itemlore2": "{{Item_pet_glacite_golem_uncommon}}",
-    "itemlore3": "{{Item_pet_glacite_golem_rare}}",
-    "itemlore4": "{{Item_pet_glacite_golem_epic}}",
-    "itemlore5": "{{Item_pet_glacite_golem_legendary}}",
-    "itemlorecolumns": "5",
-    "kat": "The Glacite Golem Pet can have its rarity upgraded from {{Common}} all the way up to {{Legendary}} by Kat. \n\nWhen upgrading [[Pets]] through Kat the pet will keep all of its Pet Experience. However due to the scaling EXP needed the pet will lose some [[Pets#Leveling|Pet Levels]] depending on the new rarity. Kat will reduce the amount of {{Coins}} needed per level of the Pet. This discount is {{color|green|0.3%}} per level of the base price.\n{{Kat Cost\n|cost_common_level_1 = {{Coins|250,000}} <br> 128 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]]\n|cost_common_level_100 = {{Coins|175,000}} <br> 128 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]]\n|time_common = 1 Day\n|cost_uncommon_level_1 = {{Coins|500,000}} <br> 256 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]]\n|cost_uncommon_level_100 = {{Coins|350,000}} <br> 256 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]]\n|time_uncommon = 2 Days\n|cost_rare_level_1 = {{Coins|1,000,000}} <br> 512 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]]\n|cost_rare_level_100 = {{Coins|700,000}} <br> 512 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]]\n|time_rare = 3 Days\n|cost_epic_level_1 = {{Coins|2,500,000}} <br> 8 [[File:SkyBlock_items_glacite_amalgamation.png|25px|link=Glacite Amalgamation]] [[Glacite Amalgamation]]\n|cost_epic_level_100 = {{Coins|1,750,000}} <br> 8 [[File:SkyBlock_items_glacite_amalgamation.png|25px|link=Glacite Amalgamation]] [[Glacite Amalgamation]]\n|time_epic = 5 Days\n|rarity_low = {{Common}}\n|rarity_high = {{Legendary}}\n|cost_total_level_1 = {{Coins|4,250,000}} <br> 896 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]] <br> 8 [[File:SkyBlock_items_glacite_amalgamation.png|25px|link=Glacite Amalgamation]] [[Glacite Amalgamation]]\n|cost_total_level_100 = {{Coins|2,975,000}} <br> 896 [[File:SkyBlock_items_enchanted_packed_ice.gif|25px|link=Enchanted Glacite]] [[Enchanted Glacite]] <br> 8 [[File:SkyBlock_items_glacite_amalgamation.png|25px|link=Glacite Amalgamation]] [[Glacite Amalgamation]]\n|time_total = 11 Days\n}}",
-    "legendary_value": "{{Coins|500,000}}",
-    "leveling": "{{Pet Leveling |epic = |legendary = }}",
-    "lore": "{{#switch: {{{2|LEGENDARY}}}\n| COMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,glacite_golem:e,1,&7[Lvl 1] &fGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.1% &7more &bGlacite Powder &7from\n&7most sources.\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f'''COMMON'''\n   | sbpet,,glacite_golem:e,1,&7[Lvl 100] &fGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+10% &7more &bGlacite Powder &7from\n&7most sources.\n\n&b''' MAX LEVEL'''\n&8▸ 5<nowiki>,</nowiki>624<nowiki>,</nowiki>785 XP\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f'''COMMON'''\n}}\n| UNCOMMON = {{#switch: {{{3|max}}}\n   | min = sbpet,,glacite_golem:e,1,&7[Lvl 1] &aGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.15% &7more &bGlacite Powder &7from\n&7most sources.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n   | sbpet,,glacite_golem:e,1,&7[Lvl 100] &aGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+15% &7more &bGlacite Powder &7from\n&7most sources.\n\n&b'''MAX LEVEL'''\n&8▸ 8<nowiki>,</nowiki>644<nowiki>,</nowiki>220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a'''UNCOMMON'''\n}}\n| RARE = {{#switch: {{{3|max}}}\n   | min = sbpet,,glacite_golem:e,1,&7[Lvl 1] &9Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.15% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+0.75 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n   | sbpet,,glacite_golem:e,1,&7[Lvl 100] &9Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+15% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+75 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n&b'''MAX LEVEL'''\n&8▸ 12<nowiki>,</nowiki>626<nowiki>,</nowiki>665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9'''RARE'''\n}}\n| EPIC = {{#switch: {{{3|max}}}\n   | min = sbpet,,glacite_golem:Glacite Golem Pet,1,&7[Lvl 1] &5Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.2% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+1 &6☘ Mining Fortune &7while in the\n&7&bGlacite Mineshafts&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n   | sbpet,,glacite_golem:Glacite Golem Pet,1,&7[Lvl 100] &5Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+20% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+100 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n&b'''MAX LEVEL'''\n&8▸ 18<nowiki>,</nowiki>608<nowiki>,</nowiki>500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5'''EPIC'''\n}}\n| LEGENDARY = {{#switch: {{{3|max}}}\n   | min = sbpet,,glacite_golem:Glacite Golem Pet,1,&7[Lvl 1] &6Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.2% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+1 &6☘ Mining Fortune &7while in the\n&7&bGlacite Mineshafts&7.\n\n&6Frozen Perfection\n&7&7Gain &a+0.01 &5✧ Pristine &7for every\n&7&bFrozen Corpse &7you've looted in the\n&7current &bGlacite Mineshaft&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n   | sbpet,,glacite_golem:Glacite Golem Pet,1,&7[Lvl 100] &6Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+20% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+100 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n&6Frozen Perfection\n&7&7Gain &a+1 &5✧ Pristine &7for every &bFrozen\n&bCorpse &7you've looted in the current\n&7&bGlacite Mineshaft&7.\n\n&b'''MAX LEVEL'''\n&8▸ 25<nowiki>,</nowiki>353<nowiki>,</nowiki>230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6'''LEGENDARY'''\n}}\n}}",
-    "mountable": "{{No|15}}",
-    "museumable": "{{No|15}}",
-    "name": "Glacite Golem",
-    "ref": "[[File:SkyBlock_pets_glacite golem.png|{{{is|30}}}px|link=]] [[Glacite Golem Pet]]",
-    "skins": "{{{!}} class=\"wikitable sortable\" style=\"text-align:center;\"\n{{!}}-\n{{!}} Lore\n{{!}} Image\n{{!}} Name <br> Rarity\n{{!}} Obtaining\n{{!}}-\n{{Skin\n|item = PET_SKIN_GLACITE_GOLEM_MOLTEN\n|rarity = Epic\n|obtaining = {{Source|August 16, 2025 [[Fire Sale]]|{{SkyBlock Gems|650}}}}\n}}\n{{Skin\n|item = PET_SKIN_GLACITE_GOLEM_CAVERN\n|rarity = Mythic\n|obtaining = {{Source|April 27, 2024 [[Fire Sale]]|{{SkyBlock Gems|1,350}}}}\n}}\n{{{additional_skins|}}}\n{{!}}}",
-    "tiers": "{{Common}} <br> {{Uncommon}} <br> {{Rare}} <br> {{Epic}} <br> {{Legendary}}",
-    "tradable": "{{Yes|15}}"
+  "category": "Mining",
+  "minLevel": 1,
+  "maxLevel": 100,
+  "baseStats": [
+    "Mining Speed",
+    "Cold Resistance"
+  ],
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "rarities": {
+    "COMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &fGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.1% &7more &bGlacite Powder &7from\n&7most sources.\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f&lCOMMON&r",
+        "max": "&7[Lvl 100] &fGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+10% &7more &bGlacite Powder &7from\n&7most sources.\n\n&b&l MAX LEVEL&r\n&8▸ 5,624,785 XP\n\n&7&eRight-click to add this pet to your\n&epet menu!\n\n&f&lCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ICE",
+          "amount": 128
+        }
+      ],
+      "katUpgradeSeconds": 86400
+    },
+    "UNCOMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &aGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.15% &7more &bGlacite Powder &7from\n&7most sources.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r",
+        "max": "&7[Lvl 100] &aGlacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+15% &7more &bGlacite Powder &7from\n&7most sources.\n\n&b&lMAX LEVEL&r\n&8▸ 8,644,220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 500000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ICE",
+          "amount": 256
+        }
+      ],
+      "katUpgradeSeconds": 172800
+    },
+    "RARE": {
+      "lore": {
+        "min": "&7[Lvl 1] &9Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.15% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+0.75 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r",
+        "max": "&7[Lvl 100] &9Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+15% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+75 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n&b&lMAX LEVEL&r\n&8▸ 12,626,665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r"
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ICE",
+          "amount": 512
+        }
+      ],
+      "katUpgradeSeconds": 259200
+    },
+    "EPIC": {
+      "lore": {
+        "min": "&7[Lvl 1] &5Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.2% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+1 &6☘ Mining Fortune &7while in the\n&7&bGlacite Mineshafts&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r",
+        "max": "&7[Lvl 100] &5Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+20% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+100 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n&b&lMAX LEVEL&r\n&8▸ 18,608,500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r"
+      },
+      "value": 250000,
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 2500000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "AMALGAMATION",
+          "amount": 8
+        }
+      ],
+      "katUpgradeSeconds": 432000
+    },
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+0.1\n&7Mining Speed: &a+1.25\n\n&6Powder-powered\n&7&7Gain &a+0.2% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+1 &6☘ Mining Fortune &7while in the\n&7&bGlacite Mineshafts&7.\n\n&6Frozen Perfection\n&7&7Gain &a+0.01 &5✧ Pristine &7for every\n&7&bFrozen Corpse &7you've looted in the\n&7current &bGlacite Mineshaft&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Glacite Golem\n&8Mining Pet\n\n&7Cold Resistance: &a+10\n&7Mining Speed: &a+125\n\n&6Powder-powered\n&7&7Gain &a+20% &7more &bGlacite Powder &7from\n&7most sources.\n\n&6Iceborn\n&7&7Gain &a+100 &6☘ Mining Fortune &7while in\n&7the &bGlacite Mineshafts&7.\n\n&6Frozen Perfection\n&7&7Gain &a+1 &5✧ Pristine &7for every &bFrozen\n&bCorpse &7you've looted in the current\n&7&bGlacite Mineshaft&7.\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "value": 500000,
+      "katUpgradeable": false
+    }
   }
 }
