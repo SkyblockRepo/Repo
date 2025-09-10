@@ -1,0 +1,26 @@
+{
+  "internalId": "RAW_FISH:2",
+  "name": "Tropical Fish",
+  "category": "Collection",
+  "source": "HypixelAPI",
+  "npcValue": 20,
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RAW_FISH:2",
+    "material": "RAW_FISH",
+    "durability": 2,
+    "name": "Tropical Fish",
+    "npc_sell_price": 20
+  },
+  "recipes": []
+}

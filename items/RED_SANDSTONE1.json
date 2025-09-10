@@ -1,0 +1,26 @@
+{
+  "internalId": "RED_SANDSTONE:1",
+  "name": "Red Chiseled Sandstone",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RED_SANDSTONE:1",
+    "material": "RED_SANDSTONE",
+    "durability": 1,
+    "name": "Red Chiseled Sandstone",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

@@ -1,0 +1,27 @@
+{
+  "internalId": "PRISMARINE:1",
+  "name": "Prismarine Bricks",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRISMARINE:1",
+    "material": "PRISMARINE",
+    "durability": 1,
+    "name": "Prismarine Bricks",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5
+  },
+  "recipes": []
+}

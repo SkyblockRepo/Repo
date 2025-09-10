@@ -1,0 +1,26 @@
+{
+  "internalId": "STAINED_GLASS:2",
+  "name": "Magenta Stained Glass",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAINED_GLASS:2",
+    "material": "STAINED_GLASS",
+    "durability": 2,
+    "name": "Magenta Stained Glass",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

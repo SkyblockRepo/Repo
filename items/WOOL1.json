@@ -1,0 +1,26 @@
+{
+  "internalId": "WOOL:1",
+  "name": "Orange Wool",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WOOL:1",
+    "material": "WOOL",
+    "durability": 1,
+    "name": "Orange Wool",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "STAINED_GLASS:14",
+  "name": "Red Stained Glass",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 3,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAINED_GLASS:14",
+    "material": "STAINED_GLASS",
+    "durability": 14,
+    "name": "Red Stained Glass",
+    "npc_sell_price": 3
+  },
+  "recipes": []
+}

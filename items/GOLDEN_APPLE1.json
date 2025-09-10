@@ -1,0 +1,27 @@
+{
+  "internalId": "GOLDEN_APPLE:1",
+  "name": "Enchanted Golden Apple",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 125,
+  "lore": "&a&lUNCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GOLDEN_APPLE:1",
+    "material": "GOLDEN_APPLE",
+    "durability": 1,
+    "name": "Enchanted Golden Apple",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 125
+  },
+  "recipes": []
+}

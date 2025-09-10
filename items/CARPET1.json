@@ -1,0 +1,26 @@
+{
+  "internalId": "CARPET:1",
+  "name": "Orange Carpet",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARPET:1",
+    "material": "CARPET",
+    "durability": 1,
+    "name": "Orange Carpet",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

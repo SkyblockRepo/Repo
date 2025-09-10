@@ -1,0 +1,26 @@
+{
+  "internalId": "DOUBLE_PLANT:3",
+  "name": "Large Fern",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DOUBLE_PLANT:3",
+    "material": "DOUBLE_PLANT",
+    "durability": 3,
+    "name": "Large Fern",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

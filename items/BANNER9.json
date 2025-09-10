@@ -1,0 +1,26 @@
+{
+  "internalId": "BANNER:9",
+  "name": "Pink Banner",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BANNER:9",
+    "material": "BANNER",
+    "durability": 9,
+    "name": "Pink Banner",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "INK_SACK:5",
+  "name": "Purple Dye",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "INK_SACK:5",
+    "material": "INK_SACK",
+    "durability": 5,
+    "name": "Purple Dye",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

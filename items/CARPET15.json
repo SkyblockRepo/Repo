@@ -1,0 +1,26 @@
+{
+  "internalId": "CARPET:15",
+  "name": "Black Carpet",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARPET:15",
+    "material": "CARPET",
+    "durability": 15,
+    "name": "Black Carpet",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

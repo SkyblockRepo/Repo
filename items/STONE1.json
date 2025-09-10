@@ -1,0 +1,26 @@
+{
+  "internalId": "STONE:1",
+  "name": "Granite",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STONE:1",
+    "material": "STONE",
+    "durability": 1,
+    "name": "Granite",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "STAINED_GLASS_PANE:12",
+  "name": "Brown Stained Glass Pane",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 0.75,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAINED_GLASS_PANE:12",
+    "material": "STAINED_GLASS_PANE",
+    "durability": 12,
+    "name": "Brown Stained Glass Pane",
+    "npc_sell_price": 0.75
+  },
+  "recipes": []
+}

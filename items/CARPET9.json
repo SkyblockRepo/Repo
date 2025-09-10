@@ -1,0 +1,26 @@
+{
+  "internalId": "CARPET:9",
+  "name": "Cyan Carpet",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 1,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARPET:9",
+    "material": "CARPET",
+    "durability": 9,
+    "name": "Cyan Carpet",
+    "npc_sell_price": 1
+  },
+  "recipes": []
+}

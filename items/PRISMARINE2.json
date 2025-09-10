@@ -1,0 +1,26 @@
+{
+  "internalId": "PRISMARINE:2",
+  "name": "Dark Prismarine",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PRISMARINE:2",
+    "material": "PRISMARINE",
+    "durability": 2,
+    "name": "Dark Prismarine",
+    "npc_sell_price": 5
+  },
+  "recipes": []
+}

@@ -1,0 +1,26 @@
+{
+  "internalId": "STAINED_GLASS_PANE:2",
+  "name": "Magenta Stained Glass Pane",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 0.75,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STAINED_GLASS_PANE:2",
+    "material": "STAINED_GLASS_PANE",
+    "durability": 2,
+    "name": "Magenta Stained Glass Pane",
+    "npc_sell_price": 0.75
+  },
+  "recipes": []
+}

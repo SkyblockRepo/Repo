@@ -1,0 +1,26 @@
+{
+  "internalId": "STONE:5",
+  "name": "Andesite",
+  "category": "Item",
+  "source": "HypixelAPI",
+  "npcValue": 2,
+  "lore": "&f&lCOMMON&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "STONE:5",
+    "material": "STONE",
+    "durability": 5,
+    "name": "Andesite",
+    "npc_sell_price": 2
+  },
+  "recipes": []
+}
