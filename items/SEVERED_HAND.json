@@ -1,13 +1,13 @@
 {
   "internalId": "SEVERED_HAND",
   "name": "Severed Hand",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 1000000,
-  "lore": "",
+  "lore": "&8Combinable in Anvil\n\n\n\n&7When applied to a weapon, increases\n\n&7its &9Smite &7level by &a1&7!\n\n&8Can be applied once.\n\n&8Requires Smite VI!\n\n\n\n&6&lLEGENDARY&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,

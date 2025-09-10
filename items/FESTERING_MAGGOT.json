@@ -1,13 +1,13 @@
 {
   "internalId": "FESTERING_MAGGOT",
   "name": "Festering Maggot",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 250000,
-  "lore": "",
+  "lore": "&8Consumable\n\n\n\n&7Consume this item to permanently\n\n&7gain &a+1❈ Defense.\n\n\n\n&7You can only consume &a5&7 of this item\n\n&7before the awful taste becomes too\n\n&7much to bear.\n\n\n\n&8''A large, inflamed maggot, having''\n\n&8''gorged itself on the flesh of the''\n\n&8''Revenant Horror to such an extent''\n\n&8''that it no longer possesses the''\n\n&8''strength to drag itself along.''\n\n\n\n&eRight-click to consume!\n\n\n\n&5&lEPIC&r",
   "flags": {
-    "tradable": false,
-    "bazaarable": false,
+    "tradable": true,
+    "bazaarable": true,
     "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
