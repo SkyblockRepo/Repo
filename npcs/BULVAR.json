@@ -1,0 +1,18 @@
+{
+  "internalId": "BULVAR",
+  "name": "Bulvar",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Village",
+    "coordinates": {
+      "x": -15.5,
+      "y": 201,
+      "z": -98.5
+    }
+  }
+}

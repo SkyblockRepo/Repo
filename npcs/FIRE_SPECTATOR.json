@@ -1,0 +1,18 @@
+{
+  "internalId": "FIRE_SPECTATOR",
+  "name": "Campfire Initiate",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dark Thicket",
+    "coordinates": {
+      "x": -327.5,
+      "y": 103.5,
+      "z": -103.5
+    }
+  }
+}

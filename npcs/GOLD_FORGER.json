@@ -1,0 +1,24 @@
+{
+  "internalId": "GOLD_FORGER",
+  "name": "Gold Forger",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Gold Mine",
+    "coordinates": {
+      "x": -27.5,
+      "y": 74,
+      "z": -294.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 2,
+    "desire": "1,024",
+    "copper": 15
+  }
+}

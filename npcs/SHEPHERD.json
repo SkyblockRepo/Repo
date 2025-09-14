@@ -1,0 +1,18 @@
+{
+  "internalId": "SHEPHERD",
+  "name": "Shepherd",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Shepherd's Keep",
+    "coordinates": {
+      "x": 388.5,
+      "y": 85,
+      "z": -372.5
+    }
+  }
+}

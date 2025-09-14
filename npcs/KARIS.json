@@ -1,0 +1,18 @@
+{
+  "internalId": "KARIS",
+  "name": "Karis",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Hub",
+    "coordinates": {
+      "x": 66.5,
+      "y": 72,
+      "z": -64.5
+    }
+  }
+}

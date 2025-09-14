@@ -1,0 +1,22 @@
+{
+  "internalId": "EMISSARY_CEANNA",
+  "name": "Emissary Ceanna",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Cliffside Veins",
+    "coordinates": {
+      "x": 42.5,
+      "y": 134.5,
+      "z": 22.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 3
+  }
+}

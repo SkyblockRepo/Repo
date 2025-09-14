@@ -1,0 +1,18 @@
+{
+  "internalId": "LIFT_OPERATOR",
+  "name": "Lift Operator",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Gunpowder Mines",
+    "coordinates": {
+      "x": 45,
+      "y": 150,
+      "z": 15
+    }
+  }
+}

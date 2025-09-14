@@ -1,0 +1,22 @@
+{
+  "internalId": "WIZARD",
+  "name": "Wizard",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Wizard Tower",
+    "coordinates": {
+      "x": 46.5,
+      "y": 122,
+      "z": 75.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 3
+  }
+}

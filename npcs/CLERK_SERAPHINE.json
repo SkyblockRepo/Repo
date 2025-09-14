@@ -1,0 +1,22 @@
+{
+  "internalId": "CLERK_SERAPHINE",
+  "name": "Clerk Seraphine",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Community Center",
+    "coordinates": {
+      "x": 4.5,
+      "y": 72,
+      "z": -104.5
+    }
+  },
+  "visitor": {
+    "rarity": "Legendary",
+    "gardenLevel": 5
+  }
+}

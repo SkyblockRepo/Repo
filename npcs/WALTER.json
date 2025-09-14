@@ -1,0 +1,18 @@
+{
+  "internalId": "WALTER",
+  "name": "Walter",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Gunpowder Mines",
+    "coordinates": {
+      "x": 19,
+      "y": 156,
+      "z": -36
+    }
+  }
+}

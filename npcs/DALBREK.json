@@ -1,0 +1,23 @@
+{
+  "internalId": "DALBREK",
+  "name": "Dalbrek",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Grand Library",
+    "coordinates": {
+      "x": 191,
+      "y": 216,
+      "z": 154
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

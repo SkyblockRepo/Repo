@@ -1,0 +1,22 @@
+{
+  "internalId": "ARTHUR",
+  "name": "Arthur",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Farm",
+    "coordinates": {
+      "x": 51.5,
+      "y": 71,
+      "z": -136.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1
+  }
+}

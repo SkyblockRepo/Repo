@@ -1,0 +1,18 @@
+{
+  "internalId": "GATEKEEPER",
+  "name": "Mort",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dungeon Hub",
+    "coordinates": {
+      "x": -68.5,
+      "y": 123,
+      "z": 0.5
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "JOKE_GUARD_2",
+  "name": "Castle Guard",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Palace Bridge",
+    "coordinates": {
+      "x": 125,
+      "y": 187,
+      "z": 106
+    }
+  }
+}

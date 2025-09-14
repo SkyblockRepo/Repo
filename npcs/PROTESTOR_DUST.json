@@ -1,0 +1,18 @@
+{
+  "internalId": "PROTESTOR_DUST",
+  "name": "Dust",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Barry Center",
+    "coordinates": {
+      "x": -12,
+      "y": 71,
+      "z": -100.2
+    }
+  }
+}

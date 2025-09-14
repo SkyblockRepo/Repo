@@ -1,0 +1,18 @@
+{
+  "internalId": "SMITHMONGER",
+  "name": "Smithmonger",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Blacksmith",
+    "coordinates": {
+      "x": -32.5,
+      "y": 69,
+      "z": -135.5
+    }
+  }
+}

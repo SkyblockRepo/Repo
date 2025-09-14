@@ -1,0 +1,22 @@
+{
+  "internalId": "DUSK",
+  "name": "Dusk",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Blacksmith",
+    "coordinates": {
+      "x": -37.5,
+      "y": 68,
+      "z": -125.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 6
+  }
+}

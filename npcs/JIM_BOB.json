@@ -1,0 +1,18 @@
+{
+  "internalId": "JIM_BOB",
+  "name": "Jim Bob",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 65.5,
+      "y": 71,
+      "z": -61.5
+    }
+  }
+}

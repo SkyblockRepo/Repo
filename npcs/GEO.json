@@ -1,0 +1,18 @@
+{
+  "internalId": "GEO",
+  "name": "Geo",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Mines",
+    "coordinates": {
+      "x": 87.5,
+      "y": 199,
+      "z": -115.5
+    }
+  }
+}

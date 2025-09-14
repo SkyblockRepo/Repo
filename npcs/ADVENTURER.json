@@ -1,0 +1,22 @@
+{
+  "internalId": "ADVENTURER",
+  "name": "Adventurer",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -41.5,
+      "y": 70,
+      "z": -64.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 3
+  }
+}

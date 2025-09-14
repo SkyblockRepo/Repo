@@ -1,0 +1,18 @@
+{
+  "internalId": "RESCUE_RECRUITER_MAGE",
+  "name": "Rescue Recruiter",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Community Center",
+    "coordinates": {
+      "x": -120.5,
+      "y": 92,
+      "z": -751.5
+    }
+  }
+}

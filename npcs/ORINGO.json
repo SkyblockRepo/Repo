@@ -1,0 +1,22 @@
+{
+  "internalId": "ORINGO",
+  "name": "Oringo",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -4,
+      "y": 70,
+      "z": -44
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1
+  }
+}

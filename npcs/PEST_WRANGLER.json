@@ -1,0 +1,24 @@
+{
+  "internalId": "PEST_WRANGLER",
+  "name": "Pest Wrangler",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Garden",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "copper": 33,
+    "farmingXp": 15000
+  }
+}

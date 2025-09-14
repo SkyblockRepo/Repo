@@ -1,0 +1,18 @@
+{
+  "internalId": "DEEPER_CAVERNS_BLACKSMITH",
+  "name": "Blacksmith",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Village",
+    "coordinates": {
+      "x": -6.5,
+      "y": 201,
+      "z": -154.5
+    }
+  }
+}

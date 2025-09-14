@@ -1,0 +1,18 @@
+{
+  "internalId": "SCOOP",
+  "name": "Scoop",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Mountain",
+    "coordinates": {
+      "x": 5.5,
+      "y": 181,
+      "z": 25.5
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "CHICKEN_1",
+  "name": "Chicken",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dreadfarm",
+    "coordinates": {
+      "x": -53.9,
+      "y": 72,
+      "z": -158
+    }
+  }
+}

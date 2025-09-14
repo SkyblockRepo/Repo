@@ -1,0 +1,22 @@
+{
+  "internalId": "LUMBERJACK",
+  "name": "Lumber Jack",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Forest",
+    "coordinates": {
+      "x": -112.5,
+      "y": 74,
+      "z": -36.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 9
+  }
+}

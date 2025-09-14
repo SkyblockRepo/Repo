@@ -1,0 +1,22 @@
+{
+  "internalId": "PERSONAL_BANK_UPGRADER",
+  "name": "Guy",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 51.5,
+      "y": 79,
+      "z": -13.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 9
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "SIMON_HAT",
+  "name": "Simon",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 6.5,
+      "y": 70,
+      "z": -91.5
+    }
+  }
+}

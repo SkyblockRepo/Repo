@@ -1,0 +1,18 @@
+{
+  "internalId": "JADE_DRAGON",
+  "name": "Jade Dragon",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dragon's Lair",
+    "coordinates": {
+      "x": -640,
+      "y": 7.5,
+      "z": -22
+    }
+  }
+}

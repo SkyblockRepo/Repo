@@ -1,0 +1,18 @@
+{
+  "internalId": "GRANDMA",
+  "name": "Grandma",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "West Village",
+    "coordinates": {
+      "x": -70.5,
+      "y": 64.5,
+      "z": -60
+    }
+  }
+}

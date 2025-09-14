@@ -1,0 +1,23 @@
+{
+  "internalId": "BETH",
+  "name": "Beth",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Desert Settlement",
+    "coordinates": {
+      "x": 163.5,
+      "y": 77,
+      "z": -359
+    }
+  },
+  "visitor": {
+    "rarity": "Legendary",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "HOPPITY",
+  "name": "Hoppity",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Mountain",
+    "coordinates": {
+      "x": -6,
+      "y": 70,
+      "z": 8
+    }
+  }
+}

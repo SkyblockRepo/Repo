@@ -1,0 +1,24 @@
+{
+  "internalId": "RHYS",
+  "name": "Rhys",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Obsidian Sanctuary",
+    "coordinates": {
+      "x": 31.5,
+      "y": 12,
+      "z": 14.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 4,
+    "desire": "512",
+    "farmingXp": 1000
+  }
+}

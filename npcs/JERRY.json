@@ -1,0 +1,23 @@
+{
+  "internalId": "JERRY",
+  "name": "Jerry",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Your Island",
+    "coordinates": {
+      "x": 9,
+      "y": 100,
+      "z": 33
+    }
+  },
+  "visitor": {
+    "rarity": "Legendary",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

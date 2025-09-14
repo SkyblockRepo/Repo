@@ -1,0 +1,22 @@
+{
+  "internalId": "EMISSARY_FRAISIER",
+  "name": "Emissary Fraiser",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Upper Mines",
+    "coordinates": {
+      "x": -132.5,
+      "y": 174,
+      "z": -50.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 6
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "FROSTY",
+  "name": "Frosty",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Jerry's Workshop",
+    "coordinates": {
+      "x": -1.5,
+      "y": 76,
+      "z": 92.5
+    }
+  }
+}

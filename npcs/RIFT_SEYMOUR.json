@@ -1,0 +1,18 @@
+{
+  "internalId": "RIFT_SEYMOUR",
+  "name": "Seymour",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Taylor's",
+    "coordinates": {
+      "x": -27,
+      "y": 71,
+      "z": -44.5
+    }
+  }
+}

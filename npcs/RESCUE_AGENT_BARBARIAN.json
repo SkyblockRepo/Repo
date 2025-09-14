@@ -1,0 +1,18 @@
+{
+  "internalId": "RESCUE_AGENT_BARBARIAN",
+  "name": "Undercover Agent",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Cathedral",
+    "coordinates": {
+      "x": -15,
+      "y": 93,
+      "z": -845
+    }
+  }
+}

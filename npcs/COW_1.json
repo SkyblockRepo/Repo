@@ -1,0 +1,18 @@
+{
+  "internalId": "COW_1",
+  "name": "Cow",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dreadfarm",
+    "coordinates": {
+      "x": -42.5,
+      "y": 72,
+      "z": -167
+    }
+  }
+}

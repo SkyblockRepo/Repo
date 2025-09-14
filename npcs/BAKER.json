@@ -1,0 +1,25 @@
+{
+  "internalId": "BAKER",
+  "name": "Baker",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -6.5,
+      "y": 70,
+      "z": -47.5
+    }
+  },
+  "visitor": {
+    "rarity": "Legendary",
+    "gardenLevel": 1,
+    "desire": "50",
+    "copper": 550,
+    "farmingXp": 50000
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "WINDMILL_OPERATOR",
+  "name": "Windmill Operator",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Barn",
+    "coordinates": {
+      "x": 98.5,
+      "y": 89,
+      "z": -282.5
+    }
+  }
+}

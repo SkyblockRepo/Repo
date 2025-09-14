@@ -1,0 +1,22 @@
+{
+  "internalId": "ANITA",
+  "name": "Anita",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Farmhouse",
+    "coordinates": {
+      "x": 23,
+      "y": 77,
+      "z": -69.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 2
+  }
+}

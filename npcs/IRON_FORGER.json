@@ -1,0 +1,22 @@
+{
+  "internalId": "IRON_FORGER",
+  "name": "Iron Forger",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Gold Mine",
+    "coordinates": {
+      "x": -1.5,
+      "y": 75,
+      "z": -307.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 2
+  }
+}

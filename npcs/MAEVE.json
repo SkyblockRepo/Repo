@@ -1,0 +1,25 @@
+{
+  "internalId": "MAEVE",
+  "name": "Maeve",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Garden",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "visitor": {
+    "rarity": "Mythic",
+    "gardenLevel": 12,
+    "desire": "10-12",
+    "copper": 300,
+    "farmingXp": 100000
+  }
+}

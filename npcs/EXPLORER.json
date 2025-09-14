@@ -1,0 +1,23 @@
+{
+  "internalId": "EXPLORER",
+  "name": "Duke",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -11.3,
+      "y": 70,
+      "z": -95.7
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "MINE_MERCHANT",
+  "name": "Mine Merchant",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Weaponsmith",
+    "coordinates": {
+      "x": -9,
+      "y": 68,
+      "z": -125
+    }
+  }
+}

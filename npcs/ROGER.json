@@ -1,0 +1,18 @@
+{
+  "internalId": "ROGER",
+  "name": "Roger",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village Plaza",
+    "coordinates": {
+      "x": -2.5,
+      "y": 70,
+      "z": -43.5
+    }
+  }
+}

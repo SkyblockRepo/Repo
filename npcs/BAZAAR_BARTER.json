@@ -1,0 +1,18 @@
+{
+  "internalId": "BAZAAR_BARTER",
+  "name": "Barter",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dragontail Bazaar",
+    "coordinates": {
+      "x": -624.5,
+      "y": 101,
+      "z": -794.5
+    }
+  }
+}

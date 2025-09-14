@@ -1,0 +1,18 @@
+{
+  "internalId": "FARM_MERCHANT",
+  "name": "Farm Merchant",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 15.5,
+      "y": 70,
+      "z": -71.8
+    }
+  }
+}

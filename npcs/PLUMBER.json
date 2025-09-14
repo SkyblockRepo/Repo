@@ -1,0 +1,22 @@
+{
+  "internalId": "PLUMBER",
+  "name": "Plumber Joe",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 56.5,
+      "y": 70,
+      "z": -77.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 7
+  }
+}

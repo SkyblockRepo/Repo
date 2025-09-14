@@ -1,0 +1,18 @@
+{
+  "internalId": "RESCUE_AGENT_MAGE",
+  "name": "Undercover Agent",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Bastion",
+    "coordinates": {
+      "x": -624.5,
+      "y": 120,
+      "z": -961.5
+    }
+  }
+}

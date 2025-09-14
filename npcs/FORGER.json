@@ -1,0 +1,18 @@
+{
+  "internalId": "FORGER",
+  "name": "Forger",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Forge",
+    "coordinates": {
+      "x": -23,
+      "y": 151,
+      "z": -50
+    }
+  }
+}

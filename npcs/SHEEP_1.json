@@ -1,0 +1,18 @@
+{
+  "internalId": "SHEEP_1",
+  "name": "Sheep",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dreadfarm",
+    "coordinates": {
+      "x": -58.5,
+      "y": 72,
+      "z": -166.6
+    }
+  }
+}

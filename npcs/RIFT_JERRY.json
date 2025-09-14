@@ -1,0 +1,18 @@
+{
+  "internalId": "RIFT_JERRY",
+  "name": "Jerry",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "\"Your\" Island",
+    "coordinates": {
+      "x": -85.5,
+      "y": 20,
+      "z": 4.5
+    }
+  }
+}

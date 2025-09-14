@@ -1,0 +1,25 @@
+{
+  "internalId": "DRILL_FUEL_MECHANIC_CRYSTAL_HOLLOWS",
+  "name": "Geonathan Greatforge",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Crystal Nucleus",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "2-3",
+    "copper": 30,
+    "farmingXp": 15000
+  }
+}

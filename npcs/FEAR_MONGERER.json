@@ -1,0 +1,22 @@
+{
+  "internalId": "FEAR_MONGERER",
+  "name": "Fear Mongerer",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -2,
+      "y": 70,
+      "z": -43
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 4
+  }
+}

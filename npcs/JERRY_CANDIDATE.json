@@ -1,0 +1,18 @@
+{
+  "internalId": "JERRY_CANDIDATE",
+  "name": "Jerry",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Community Center",
+    "coordinates": {
+      "x": 6,
+      "y": 73,
+      "z": -111
+    }
+  }
+}

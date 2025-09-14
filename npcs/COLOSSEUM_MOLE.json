@@ -1,0 +1,18 @@
+{
+  "internalId": "COLOSSEUM_MOLE",
+  "name": "Mole",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Colosseum",
+    "coordinates": {
+      "x": -159.5,
+      "y": 97,
+      "z": -75.5
+    }
+  }
+}

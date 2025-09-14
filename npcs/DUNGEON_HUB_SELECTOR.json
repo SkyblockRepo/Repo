@@ -1,0 +1,18 @@
+{
+  "internalId": "DUNGEON_HUB_SELECTOR",
+  "name": "Hub Selector",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dungeon Hub",
+    "coordinates": {
+      "x": -36.5,
+      "y": 119,
+      "z": 10.5
+    }
+  }
+}

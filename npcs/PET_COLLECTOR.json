@@ -1,0 +1,18 @@
+{
+  "internalId": "PET_COLLECTOR",
+  "name": "George",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Pet Care",
+    "coordinates": {
+      "x": 39.5,
+      "y": 71,
+      "z": -100.5
+    }
+  }
+}

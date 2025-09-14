@@ -1,0 +1,18 @@
+{
+  "internalId": "FISH_MERCHANT",
+  "name": "Fishing Merchant",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Fishing Outpost",
+    "coordinates": {
+      "x": 136.5,
+      "y": 70,
+      "z": 34.5
+    }
+  }
+}

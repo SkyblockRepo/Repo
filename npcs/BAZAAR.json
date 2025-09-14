@@ -1,0 +1,18 @@
+{
+  "internalId": "BAZAAR",
+  "name": "Bazaar",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Bazaar Alley",
+    "coordinates": {
+      "x": -32.5,
+      "y": 71,
+      "z": -76.5
+    }
+  }
+}

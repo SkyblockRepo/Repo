@@ -1,0 +1,18 @@
+{
+  "internalId": "HAZMAT_1",
+  "name": "Disinfestor",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Infested House",
+    "coordinates": {
+      "x": -38,
+      "y": 71,
+      "z": -103
+    }
+  }
+}

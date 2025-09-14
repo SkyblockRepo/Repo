@@ -1,0 +1,23 @@
+{
+  "internalId": "PSYCHIC",
+  "name": "Jamie",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -36,
+      "y": 68,
+      "z": -39
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

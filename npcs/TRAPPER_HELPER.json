@@ -1,0 +1,22 @@
+{
+  "internalId": "TRAPPER_HELPER",
+  "name": "Tammy",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Trapper's Den",
+    "coordinates": {
+      "x": 284.5,
+      "y": 104,
+      "z": -544.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 7
+  }
+}

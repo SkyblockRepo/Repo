@@ -1,0 +1,22 @@
+{
+  "internalId": "OLD_MAN",
+  "name": "Old Man Garry",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Village",
+    "coordinates": {
+      "x": 5.4,
+      "y": 200,
+      "z": -109.2
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 8
+  }
+}

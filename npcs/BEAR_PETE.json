@@ -1,0 +1,22 @@
+{
+  "internalId": "BEAR_PETE",
+  "name": "Pete",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 7
+  }
+}

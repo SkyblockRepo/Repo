@@ -1,0 +1,18 @@
+{
+  "internalId": "MAGE_COUNSELLOR",
+  "name": "Counsellor",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Mage Council",
+    "coordinates": {
+      "x": -125.5,
+      "y": 82,
+      "z": -752.5
+    }
+  }
+}

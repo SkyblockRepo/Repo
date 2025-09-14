@@ -1,0 +1,18 @@
+{
+  "internalId": "LUMBER_MERCHANT",
+  "name": "Lumber Merchant",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -49.5,
+      "y": 70,
+      "z": -67.5
+    }
+  }
+}

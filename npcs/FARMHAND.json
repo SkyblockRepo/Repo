@@ -1,0 +1,22 @@
+{
+  "internalId": "FARMHAND",
+  "name": "Farmhand",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Barn",
+    "coordinates": {
+      "x": 144.5,
+      "y": 73,
+      "z": -240.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 3
+  }
+}
