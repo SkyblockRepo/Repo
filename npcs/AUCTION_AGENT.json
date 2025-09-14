@@ -1,0 +1,18 @@
+{
+  "internalId": "AUCTION_AGENT",
+  "name": "Auction Agent",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Auction House",
+    "coordinates": {
+      "x": -31,
+      "y": 73,
+      "z": -85.5
+    }
+  }
+}

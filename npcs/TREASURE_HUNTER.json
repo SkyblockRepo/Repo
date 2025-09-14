@@ -1,0 +1,18 @@
+{
+  "internalId": "TREASURE_HUNTER",
+  "name": "Treasure Hunter",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Archaeological Site",
+    "coordinates": {
+      "x": 200.5,
+      "y": 92,
+      "z": -437
+    }
+  }
+}

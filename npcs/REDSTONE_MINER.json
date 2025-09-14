@@ -1,0 +1,18 @@
+{
+  "internalId": "REDSTONE_MINER",
+  "name": "Redstone Miner",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Pigmen's Den",
+    "coordinates": {
+      "x": 25,
+      "y": 104,
+      "z": 16.5
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": "LUMINA",
+  "name": "Lumina",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Mines",
+    "coordinates": {
+      "x": 77.5,
+      "y": 199,
+      "z": -110.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 4
+  }
+}

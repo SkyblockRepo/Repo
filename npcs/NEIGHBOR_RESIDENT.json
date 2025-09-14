@@ -1,0 +1,23 @@
+{
+  "internalId": "NEIGHBOR_RESIDENT",
+  "name": "Royal Resident",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Mines",
+    "coordinates": {
+      "x": 165,
+      "y": 202,
+      "z": 279
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": "PUZZLER",
+  "name": "Puzzler",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Mines",
+    "coordinates": {
+      "x": 181.5,
+      "y": 196,
+      "z": 135.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 2
+  }
+}

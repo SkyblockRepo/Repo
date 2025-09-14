@@ -1,0 +1,23 @@
+{
+  "internalId": "SNOOTY_RESIDENT",
+  "name": "Royal Resident",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Mines",
+    "coordinates": {
+      "x": 92,
+      "y": 202,
+      "z": 277
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

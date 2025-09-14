@@ -1,0 +1,18 @@
+{
+  "internalId": "GUARD_GORNUM",
+  "name": "Guard Gornum",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Abandoned Quarry",
+    "coordinates": {
+      "x": -158.5,
+      "y": 149,
+      "z": -14.5
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "internalId": "FAIRY",
+  "name": "Tia the Fairy",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Wilderness",
+    "coordinates": {
+      "x": 129.5,
+      "y": 66,
+      "z": 137.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

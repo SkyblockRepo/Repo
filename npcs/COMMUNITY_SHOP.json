@@ -1,0 +1,18 @@
+{
+  "internalId": "COMMUNITY_SHOP",
+  "name": "Elizabeth",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Community Center",
+    "coordinates": {
+      "x": -3.5,
+      "y": 72,
+      "z": -101.5
+    }
+  }
+}

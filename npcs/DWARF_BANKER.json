@@ -1,0 +1,22 @@
+{
+  "internalId": "DWARF_BANKER",
+  "name": "Banker Broadjaw",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Village",
+    "coordinates": {
+      "x": 13.5,
+      "y": 201,
+      "z": -148.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 7
+  }
+}

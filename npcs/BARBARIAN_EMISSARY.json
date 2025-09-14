@@ -1,0 +1,18 @@
+{
+  "internalId": "BARBARIAN_EMISSARY",
+  "name": "Barbarian Emissary",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dragontail",
+    "coordinates": {
+      "x": -580.5,
+      "y": 99,
+      "z": -710.5
+    }
+  }
+}

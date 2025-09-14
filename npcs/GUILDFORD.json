@@ -1,0 +1,18 @@
+{
+  "internalId": "GUILDFORD",
+  "name": "Guildford",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dungeon Hub",
+    "coordinates": {
+      "x": -19,
+      "y": 86,
+      "z": 4
+    }
+  }
+}

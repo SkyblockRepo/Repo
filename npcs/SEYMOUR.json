@@ -1,0 +1,22 @@
+{
+  "internalId": "SEYMOUR",
+  "name": "Seymour",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Fashion Shop",
+    "coordinates": {
+      "x": 25,
+      "y": 65,
+      "z": -41
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 4
+  }
+}

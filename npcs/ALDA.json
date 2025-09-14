@@ -1,0 +1,18 @@
+{
+  "internalId": "ALDA",
+  "name": "Alda",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Hub",
+    "coordinates": {
+      "x": 66,
+      "y": 71,
+      "z": -59
+    }
+  }
+}

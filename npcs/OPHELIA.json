@@ -1,0 +1,18 @@
+{
+  "internalId": "OPHELIA",
+  "name": "Ophelia",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dungeon Hub",
+    "coordinates": {
+      "x": -63.5,
+      "y": 121,
+      "z": -6.5
+    }
+  }
+}

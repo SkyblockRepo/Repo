@@ -1,0 +1,18 @@
+{
+  "internalId": "DIRT_GUY",
+  "name": "Dirt Guy",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Mines",
+    "coordinates": {
+      "x": 43,
+      "y": 108,
+      "z": 175
+    }
+  }
+}

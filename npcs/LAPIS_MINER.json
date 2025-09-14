@@ -1,0 +1,18 @@
+{
+  "internalId": "LAPIS_MINER",
+  "name": "Lapis Miner",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Lapis Quarry",
+    "coordinates": {
+      "x": -10.5,
+      "y": 120,
+      "z": 35.5
+    }
+  }
+}

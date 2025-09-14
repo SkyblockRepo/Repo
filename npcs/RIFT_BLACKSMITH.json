@@ -1,0 +1,18 @@
+{
+  "internalId": "RIFT_BLACKSMITH",
+  "name": "Blacksmith",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Déjà Vu Alley",
+    "coordinates": {
+      "x": -1.5,
+      "y": 68,
+      "z": -142
+    }
+  }
+}

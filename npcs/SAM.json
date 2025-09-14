@@ -1,0 +1,18 @@
+{
+  "internalId": "SAM",
+  "name": "Sam",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Your Island",
+    "coordinates": {
+      "x": 8.5,
+      "y": 100,
+      "z": 41.5
+    }
+  }
+}

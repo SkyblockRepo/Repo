@@ -1,0 +1,18 @@
+{
+  "internalId": "WOOL_WEAVER",
+  "name": "Wool Weaver",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Builder's House",
+    "coordinates": {
+      "x": -47,
+      "y": 74,
+      "z": -30.5
+    }
+  }
+}

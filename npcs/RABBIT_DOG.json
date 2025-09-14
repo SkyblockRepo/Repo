@@ -1,0 +1,18 @@
+{
+  "internalId": "RABBIT_DOG",
+  "name": "Rabbit Dog",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Rabbit House",
+    "coordinates": {
+      "x": 15.5,
+      "y": 69.25,
+      "z": 13.5
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "MAGE_EMISSARY",
+  "name": "Mage Emissary",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Scarleton",
+    "coordinates": {
+      "x": -131.5,
+      "y": 89,
+      "z": -722.5
+    }
+  }
+}

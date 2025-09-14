@@ -1,0 +1,22 @@
+{
+  "internalId": "LAZY_MINER",
+  "name": "Lazy Miner",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Gold Mine",
+    "coordinates": {
+      "x": -11.5,
+      "y": 78,
+      "z": -337.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 8
+  }
+}

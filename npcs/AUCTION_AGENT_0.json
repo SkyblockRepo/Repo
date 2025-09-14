@@ -1,0 +1,18 @@
+{
+  "internalId": "AUCTION_AGENT_0",
+  "name": "Auction Agent",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dragontail Auction House",
+    "coordinates": {
+      "x": -633.5,
+      "y": 103,
+      "z": -783.5
+    }
+  }
+}

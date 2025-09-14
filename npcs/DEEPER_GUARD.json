@@ -1,0 +1,18 @@
+{
+  "internalId": "DEEPER_GUARD",
+  "name": "Royal Guard",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Lift",
+    "coordinates": {
+      "x": -45.5,
+      "y": 200,
+      "z": -124.5
+    }
+  }
+}

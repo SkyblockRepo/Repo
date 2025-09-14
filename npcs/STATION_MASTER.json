@@ -1,0 +1,18 @@
+{
+  "internalId": "STATION_MASTER",
+  "name": "Station Master",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Village",
+    "coordinates": {
+      "x": 38,
+      "y": 201,
+      "z": -86
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": "MASON",
+  "name": "Mason",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Desert Settlement",
+    "coordinates": {
+      "x": 177.5,
+      "y": 77,
+      "z": -356
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "ARCHAEOLOGIST",
+  "name": "Archaeologist",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Archaeologist's Camp",
+    "coordinates": {
+      "x": -360.5,
+      "y": 111,
+      "z": -290
+    }
+  }
+}

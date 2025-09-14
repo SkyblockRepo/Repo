@@ -1,0 +1,23 @@
+{
+  "internalId": "RUSTY",
+  "name": "Rusty",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Gold Mine",
+    "coordinates": {
+      "x": -20,
+      "y": 78,
+      "z": -325.4
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

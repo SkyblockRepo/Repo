@@ -1,0 +1,18 @@
+{
+  "internalId": "FARMER",
+  "name": "Farmer",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Farm",
+    "coordinates": {
+      "x": 44.5,
+      "y": 72,
+      "z": -162.5
+    }
+  }
+}

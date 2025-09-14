@@ -1,0 +1,18 @@
+{
+  "internalId": "BARTENDER_GROG",
+  "name": "Grog",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dragontail",
+    "coordinates": {
+      "x": -663.5,
+      "y": 107,
+      "z": -736.5
+    }
+  }
+}

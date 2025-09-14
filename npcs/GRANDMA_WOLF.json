@@ -1,0 +1,23 @@
+{
+  "internalId": "GRANDMA_WOLF",
+  "name": "Grandma Wolf",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Grandma's House",
+    "coordinates": {
+      "x": -281.5,
+      "y": 122,
+      "z": -190.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 1,
+    "desire": "Any Three Crops"
+  }
+}

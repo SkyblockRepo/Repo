@@ -1,0 +1,22 @@
+{
+  "internalId": "SHADY_BARTENDER",
+  "name": "Shifty",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Wilderness",
+    "coordinates": {
+      "x": 114.5,
+      "y": 73,
+      "z": 175
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 6
+  }
+}

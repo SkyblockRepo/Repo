@@ -1,0 +1,22 @@
+{
+  "internalId": "TERRY",
+  "name": "Terry",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Terry's Shack",
+    "coordinates": {
+      "x": -92.5,
+      "y": 78,
+      "z": 25.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 6
+  }
+}

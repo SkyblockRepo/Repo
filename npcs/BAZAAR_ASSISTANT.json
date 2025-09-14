@@ -1,0 +1,18 @@
+{
+  "internalId": "BAZAAR_ASSISTANT",
+  "name": "Bazaar Agent",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Bazaar Alley",
+    "coordinates": {
+      "x": -39.5,
+      "y": 70,
+      "z": -78.9
+    }
+  }
+}

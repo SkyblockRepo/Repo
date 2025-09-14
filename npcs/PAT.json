@@ -1,0 +1,18 @@
+{
+  "internalId": "PAT",
+  "name": "Pat",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Graveyard",
+    "coordinates": {
+      "x": -134.5,
+      "y": 73,
+      "z": -97.5
+    }
+  }
+}

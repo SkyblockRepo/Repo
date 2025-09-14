@@ -1,0 +1,18 @@
+{
+  "internalId": "BUILDER",
+  "name": "Builder",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Builder's House",
+    "coordinates": {
+      "x": -51,
+      "y": 71,
+      "z": -27.5
+    }
+  }
+}

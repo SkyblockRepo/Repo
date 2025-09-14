@@ -1,0 +1,18 @@
+{
+  "internalId": "MAGE_BLACKSMITH",
+  "name": "Alwin",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Scarleton Blacksmith",
+    "coordinates": {
+      "x": -82.5,
+      "y": 92,
+      "z": -734.5
+    }
+  }
+}

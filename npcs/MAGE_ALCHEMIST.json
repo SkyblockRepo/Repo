@@ -1,0 +1,18 @@
+{
+  "internalId": "MAGE_ALCHEMIST",
+  "name": "Alchemage",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Scarleton Bank",
+    "coordinates": {
+      "x": -86,
+      "y": 118,
+      "z": -771
+    }
+  }
+}

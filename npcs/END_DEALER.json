@@ -1,0 +1,18 @@
+{
+  "internalId": "END_DEALER",
+  "name": "Pearl Dealer",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The End",
+    "coordinates": {
+      "x": -504.5,
+      "y": 101,
+      "z": -284.5
+    }
+  }
+}

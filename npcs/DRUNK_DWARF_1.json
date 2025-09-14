@@ -1,0 +1,22 @@
+{
+  "internalId": "DRUNK_DWARF_1",
+  "name": "Sargwyn",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Tavern",
+    "coordinates": {
+      "x": 37.5,
+      "y": 202.3,
+      "z": -150.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1
+  }
+}

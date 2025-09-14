@@ -1,0 +1,18 @@
+{
+  "internalId": "CARPENTER",
+  "name": "Carpenter",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 15.5,
+      "y": 72,
+      "z": -21.5
+    }
+  }
+}

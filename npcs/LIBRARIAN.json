@@ -1,0 +1,22 @@
+{
+  "internalId": "LIBRARIAN",
+  "name": "Librarian",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Library",
+    "coordinates": {
+      "x": -35.5,
+      "y": 69,
+      "z": -112.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 5
+  }
+}

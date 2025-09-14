@@ -1,0 +1,18 @@
+{
+  "internalId": "HOUND",
+  "name": "Hound",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Wyld Woods",
+    "coordinates": {
+      "x": -70,
+      "y": 66,
+      "z": 147.5
+    }
+  }
+}

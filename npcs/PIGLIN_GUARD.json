@@ -1,0 +1,18 @@
+{
+  "internalId": "PIGLIN_GUARD",
+  "name": "Piglin Guard",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "The Wasteland",
+    "coordinates": {
+      "x": -367.5,
+      "y": 117,
+      "z": -977.5
+    }
+  }
+}

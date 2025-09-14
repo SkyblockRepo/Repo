@@ -1,0 +1,18 @@
+{
+  "internalId": "SALESMAN_GENERIC",
+  "name": "Salesman",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 7,
+      "y": 70,
+      "z": -85
+    }
+  }
+}

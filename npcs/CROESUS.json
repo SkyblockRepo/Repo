@@ -1,0 +1,18 @@
+{
+  "internalId": "CROESUS",
+  "name": "Croesus",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dungeon Hub",
+    "coordinates": {
+      "x": -20.6,
+      "y": 120,
+      "z": -13.5
+    }
+  }
+}

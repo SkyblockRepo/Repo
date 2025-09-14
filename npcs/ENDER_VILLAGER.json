@@ -1,0 +1,23 @@
+{
+  "internalId": "ENDER_VILLAGER",
+  "name": "Felix",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": -25.7,
+      "y": 68,
+      "z": -103.1
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

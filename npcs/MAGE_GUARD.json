@@ -1,0 +1,18 @@
+{
+  "internalId": "MAGE_GUARD",
+  "name": "Mage Guard",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+}

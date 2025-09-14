@@ -1,0 +1,23 @@
+{
+  "internalId": "SIRIUS",
+  "name": "Sirius",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Wilderness",
+    "coordinates": {
+      "x": 91.5,
+      "y": 75,
+      "z": 176.5
+    }
+  },
+  "visitor": {
+    "rarity": "Legendary",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

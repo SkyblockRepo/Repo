@@ -1,0 +1,22 @@
+{
+  "internalId": "WEAPONSMITH",
+  "name": "Weaponsmith",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Weaponsmith",
+    "coordinates": {
+      "x": -10,
+      "y": 68,
+      "z": -130
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 3
+  }
+}

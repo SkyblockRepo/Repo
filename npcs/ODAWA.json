@@ -1,0 +1,23 @@
+{
+  "internalId": "ODAWA",
+  "name": "Odawa",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Jungle",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

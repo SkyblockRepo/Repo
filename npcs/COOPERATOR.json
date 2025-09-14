@@ -1,0 +1,23 @@
+{
+  "internalId": "COOPERATOR",
+  "name": "Stella",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Village",
+    "coordinates": {
+      "x": 17.5,
+      "y": 70,
+      "z": -99
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1,
+    "desire": "Any Crop"
+  }
+}

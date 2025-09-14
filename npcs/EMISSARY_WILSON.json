@@ -1,0 +1,22 @@
+{
+  "internalId": "EMISSARY_WILSON",
+  "name": "Emissary Wilson",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Royal Mines",
+    "coordinates": {
+      "x": 171.5,
+      "y": 150,
+      "z": 31.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 2
+  }
+}

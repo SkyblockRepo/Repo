@@ -1,0 +1,22 @@
+{
+  "internalId": "ROYAL_RESIDENT_REWARD",
+  "name": "Royal Resident",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Barracks of Heroes",
+    "coordinates": {
+      "x": 62,
+      "y": 204,
+      "z": 200
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 7
+  }
+}

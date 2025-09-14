@@ -1,0 +1,18 @@
+{
+  "internalId": "SHEN_AGENT",
+  "name": "Shen's Agent",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Regalia Room",
+    "coordinates": {
+      "x": -6.5,
+      "y": 55,
+      "z": -95.5
+    }
+  }
+}

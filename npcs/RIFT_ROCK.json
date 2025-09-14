@@ -1,0 +1,18 @@
+{
+  "internalId": "RIFT_ROCK",
+  "name": "Rock",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Living Stillness",
+    "coordinates": {
+      "x": 13.5,
+      "y": 48.5,
+      "z": -186.5
+    }
+  }
+}

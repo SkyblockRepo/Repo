@@ -1,0 +1,18 @@
+{
+  "internalId": "ST_JERRY",
+  "name": "St. Jerry",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Jerry's Workshop",
+    "coordinates": {
+      "x": -22.5,
+      "y": 76,
+      "z": 92.5
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "internalId": "EMISSARY_CARLTON",
+  "name": "Emissary Carlton",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Rampart's Quarry",
+    "coordinates": {
+      "x": -72.5,
+      "y": 153,
+      "z": -10.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 8
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "WORKER_DUST",
+  "name": "Dust",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Barry HQ",
+    "coordinates": {
+      "x": -54.4,
+      "y": 54,
+      "z": -138.4
+    }
+  }
+}

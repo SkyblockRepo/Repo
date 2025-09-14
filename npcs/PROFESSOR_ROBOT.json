@@ -1,0 +1,18 @@
+{
+  "internalId": "PROFESSOR_ROBOT",
+  "name": "Professor Robot",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Lost Precursor City",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+}

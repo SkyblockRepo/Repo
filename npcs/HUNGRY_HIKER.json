@@ -1,0 +1,22 @@
+{
+  "internalId": "HUNGRY_HIKER",
+  "name": "Hungry Hiker",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Mushroom Gorge",
+    "coordinates": {
+      "x": 269.5,
+      "y": 48,
+      "z": -480.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1
+  }
+}

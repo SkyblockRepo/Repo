@@ -1,0 +1,18 @@
+{
+  "internalId": "BANKER",
+  "name": "Banker",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Bank",
+    "coordinates": {
+      "x": -24.5,
+      "y": 71,
+      "z": -58.5
+    }
+  }
+}

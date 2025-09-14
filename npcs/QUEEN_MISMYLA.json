@@ -1,0 +1,23 @@
+{
+  "internalId": "QUEEN_MISMYLA",
+  "name": "Queen Mismyla",
+  "flags": {
+    "merchant": false,
+    "abiphone": true,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Royal Palace",
+    "coordinates": {
+      "x": 126.5,
+      "y": 195,
+      "z": 195.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 2,
+    "desire": "Any Two Crops"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "RIFT_ALCHEMIST",
+  "name": "Alchemist",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "West Village",
+    "coordinates": {
+      "x": -49.5,
+      "y": 70,
+      "z": -65.5
+    }
+  }
+}

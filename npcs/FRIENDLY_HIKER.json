@@ -1,0 +1,22 @@
+{
+  "internalId": "FRIENDLY_HIKER",
+  "name": "Friendly Hiker",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Desert Settlement",
+    "coordinates": {
+      "x": 181.5,
+      "y": 77,
+      "z": -381
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 1
+  }
+}

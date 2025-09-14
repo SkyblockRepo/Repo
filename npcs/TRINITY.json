@@ -1,0 +1,18 @@
+{
+  "internalId": "TRINITY",
+  "name": "Trinity",
+  "flags": {
+    "merchant": true,
+    "abiphone": true,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Catacombs",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+}

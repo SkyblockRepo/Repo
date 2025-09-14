@@ -1,0 +1,22 @@
+{
+  "internalId": "FISHERMAN",
+  "name": "Fisherman Gerald",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Fisherman's Hut",
+    "coordinates": {
+      "x": 153.5,
+      "y": 68.5,
+      "z": 55.5
+    }
+  },
+  "visitor": {
+    "rarity": "Uncommon",
+    "gardenLevel": 2
+  }
+}

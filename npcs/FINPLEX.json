@@ -1,0 +1,18 @@
+{
+  "internalId": "FINPLEX",
+  "name": "Finplex",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "West Village",
+    "coordinates": {
+      "x": -57.5,
+      "y": 68,
+      "z": -82.5
+    }
+  }
+}

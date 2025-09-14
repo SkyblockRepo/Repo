@@ -1,0 +1,18 @@
+{
+  "internalId": "EVENT_MASTER",
+  "name": "Gladiator",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Wilderness",
+    "coordinates": {
+      "x": 123.5,
+      "y": 79,
+      "z": 165.5
+    }
+  }
+}

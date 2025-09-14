@@ -1,0 +1,22 @@
+{
+  "internalId": "MUSEUM_AUCTIONEER",
+  "name": "Madame Eleanor Q. Goldsworth III",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Museum",
+    "coordinates": {
+      "x": -62.5,
+      "y": 77,
+      "z": 84.5
+    }
+  },
+  "visitor": {
+    "rarity": "Legendary",
+    "gardenLevel": 2
+  }
+}

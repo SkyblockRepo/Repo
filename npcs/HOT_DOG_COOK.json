@@ -1,0 +1,18 @@
+{
+  "internalId": "HOT_DOG_COOK",
+  "name": "Chef",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "West Village",
+    "coordinates": {
+      "x": -103,
+      "y": 72.0625,
+      "z": -104
+    }
+  }
+}

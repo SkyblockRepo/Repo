@@ -1,0 +1,25 @@
+{
+  "internalId": "RAVENOUS_RHINO",
+  "name": "Ravenous Rhino",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Garden",
+    "coordinates": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "visitor": {
+    "rarity": "Mythic",
+    "gardenLevel": 1,
+    "desire": "32",
+    "copper": 300,
+    "farmingXp": 50000
+  }
+}

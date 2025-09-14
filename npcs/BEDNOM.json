@@ -1,0 +1,18 @@
+{
+  "internalId": "BEDNOM",
+  "name": "Bednom",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Village",
+    "coordinates": {
+      "x": -30,
+      "y": 213.85,
+      "z": -89
+    }
+  }
+}

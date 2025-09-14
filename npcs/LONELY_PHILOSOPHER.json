@@ -1,0 +1,18 @@
+{
+  "internalId": "LONELY_PHILOSOPHER",
+  "name": "Lonely Philosopher",
+  "flags": {
+    "merchant": true,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Ruins",
+    "coordinates": {
+      "x": -250.72,
+      "y": 130,
+      "z": 41.2
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "internalId": "MUSHROOM_GUY",
+  "name": "Mushroom Guy",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": false,
+    "shop": false
+  },
+  "location": {
+    "zone": "Black Lagoon",
+    "coordinates": {
+      "x": -178.3,
+      "y": 75,
+      "z": 12.5
+    }
+  }
+}

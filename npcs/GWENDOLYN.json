@@ -1,0 +1,22 @@
+{
+  "internalId": "GWENDOLYN",
+  "name": "Gwendolyn",
+  "flags": {
+    "merchant": false,
+    "abiphone": false,
+    "garden": true,
+    "shop": false
+  },
+  "location": {
+    "zone": "Dwarven Mines",
+    "coordinates": {
+      "x": 88.5,
+      "y": 198,
+      "z": -98.5
+    }
+  },
+  "visitor": {
+    "rarity": "Rare",
+    "gardenLevel": 1
+  }
+}
