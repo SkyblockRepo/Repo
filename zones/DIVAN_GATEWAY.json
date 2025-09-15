@@ -1,0 +1,61 @@
+{
+  "internalId": "DIVAN_GATEWAY",
+  "name": "Divan's Gateway",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [
+    {
+      "link": "Bylma",
+      "name": "Bylma"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Ghost",
+      "name": "Ghost"
+    },
+    {
+      "link": "Glacite Walker",
+      "name": "Glacite Walker"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Ghostly Boots",
+      "name": "Ghostly Boots"
+    },
+    {
+      "link": "Glacite Boots",
+      "name": "Glacite Boots"
+    },
+    {
+      "link": "Glacite Chestplate",
+      "name": "Glacite Chestplate"
+    },
+    {
+      "link": "Glacite Helmet",
+      "name": "Glacite Helmet"
+    },
+    {
+      "link": "Glacite Jewel",
+      "name": "Glacite Jewel"
+    },
+    {
+      "link": "Glacite Leggings",
+      "name": "Glacite Leggings"
+    },
+    {
+      "link": "Plasma",
+      "name": "Plasma"
+    },
+    {
+      "link": "Sorrow",
+      "name": "Sorrow"
+    },
+    {
+      "link": "Volta",
+      "name": "Volta"
+    }
+  ],
+  "fairySouls": []
+}

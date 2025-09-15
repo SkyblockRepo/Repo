@@ -1,0 +1,29 @@
+{
+  "internalId": "BASTION",
+  "name": "The Bastion",
+  "source": "HypixelWiki",
+  "discoveryText": "The Bastion\nDon't anger the guards.",
+  "npcs": [
+    {
+      "link": "Corm",
+      "name": "Corm"
+    },
+    {
+      "link": "Undercover Agent",
+      "name": "Undercover Agent"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "BASTION",
+      "number": 5,
+      "coordinates": {
+        "x": -717,
+        "y": 164,
+        "z": -981
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "internalId": "COLOSSEUM",
+  "name": "Colosseum",
+  "source": "HypixelWiki",
+  "discoveryText": "Colosseum\nBehold the destruction of a cruel tyrant.",
+  "npcs": [
+    {
+      "link": "Romero",
+      "name": "Romero"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "COLOSSEUM",
+      "number": 56,
+      "coordinates": {
+        "x": 154,
+        "y": 98,
+        "z": -71
+      }
+    },
+    {
+      "location": "COLOSSEUM",
+      "number": 71,
+      "coordinates": {
+        "x": 168,
+        "y": 60,
+        "z": -36
+      }
+    }
+  ]
+}

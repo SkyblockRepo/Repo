@@ -1,0 +1,74 @@
+{
+  "internalId": "ZEALOT_BRUISER_HIDEOUT",
+  "name": "Zealot Bruiser Hideout",
+  "source": "HypixelWiki",
+  "discoveryText": "Zealot Bruiser Hideout\nFight powerful Zealot Bruisers.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Enderman",
+      "name": "Enderman"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Zealot Bruiser",
+      "name": "Zealot Bruiser"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Enchanted Ender Pearl",
+      "name": "Enchanted Ender Pearl"
+    },
+    {
+      "link": "Ender Boots",
+      "name": "Ender Boots"
+    },
+    {
+      "link": "Ender Chestplate",
+      "name": "Ender Chestplate"
+    },
+    {
+      "link": "Ender Helmet",
+      "name": "Ender Helmet"
+    },
+    {
+      "link": "Ender Leggings",
+      "name": "Ender Leggings"
+    },
+    {
+      "link": "Ender Necklace",
+      "name": "Ender Necklace"
+    },
+    {
+      "link": "Ender Pearl",
+      "name": "Ender Pearl"
+    },
+    {
+      "link": "Enderman Pet",
+      "name": "Enderman Pet"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Pearlescent Dye",
+      "name": "Pearlescent Dye"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "ZEALOT_BRUISER_HIDEOUT",
+      "number": 2,
+      "coordinates": {
+        "x": -609,
+        "y": 84,
+        "z": -230
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "FARMHOUSE",
+  "name": "Farmhouse",
+  "source": "HypixelWiki",
+  "discoveryText": "Farmhouse\nPurchase farming supplies.\nParticipate in Jacob's Farming Contest.",
+  "npcs": [
+    {
+      "link": "Anita",
+      "name": "Anita"
+    },
+    {
+      "link": "Jacob",
+      "name": "Jacob"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "FARMHOUSE",
+      "number": 18,
+      "coordinates": {
+        "x": 26,
+        "y": 80,
+        "z": -65
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "internalId": "OVERGROWN_MUSHROOM_CAVE",
+  "name": "Overgrown Mushroom Cave",
+  "source": "HypixelWiki",
+  "discoveryText": "Overgrown Mushroom Cave\nFarm mushrooms.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Leather",
+      "name": "Leather"
+    },
+    {
+      "link": "Raw Beef",
+      "name": "Raw Beef"
+    },
+    {
+      "link": "Red Mushroom",
+      "name": "Red Mushroom"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "OVERGROWN_MUSHROOM_CAVE",
+      "number": 18,
+      "coordinates": {
+        "x": 271,
+        "y": 56,
+        "z": -361
+      }
+    }
+  ]
+}

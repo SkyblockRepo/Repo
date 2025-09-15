@@ -1,0 +1,615 @@
+{
+  "internalId": "RIFT_DIMENSION",
+  "name": "Rift Dimension",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [
+    {
+      "link": "Alabaster",
+      "name": "Alabaster"
+    },
+    {
+      "link": "Alatar",
+      "name": "Alatar"
+    },
+    {
+      "link": "Alchemist (Rift)",
+      "name": "Alchemist"
+    },
+    {
+      "link": "Argofay Branchstrutter",
+      "name": "Argofay Branchstrutter"
+    },
+    {
+      "link": "Argofay Bughunter",
+      "name": "Argofay Bughunter"
+    },
+    {
+      "link": "Argofay Bugshopper",
+      "name": "Argofay Bugshopper"
+    },
+    {
+      "link": "Argofay Doorholder",
+      "name": "Argofay Doorholder"
+    },
+    {
+      "link": "Argofay Serialbather",
+      "name": "Argofay Serialbather"
+    },
+    {
+      "link": "Argofay Sonfather",
+      "name": "Argofay Sonfather"
+    },
+    {
+      "link": "Argofay Tencounter",
+      "name": "Argofay Tencounter"
+    },
+    {
+      "link": "Argofay Threebrother",
+      "name": "Argofay Threebrother"
+    },
+    {
+      "link": "Argofay Trafficker",
+      "name": "Argofay Trafficker"
+    },
+    {
+      "link": "Argofay Trailblazer",
+      "name": "Argofay Trailblazer"
+    },
+    {
+      "link": "Argofay Treemerger",
+      "name": "Argofay Treemerger"
+    },
+    {
+      "link": "Arora",
+      "name": "Arora"
+    },
+    {
+      "link": "Ashera",
+      "name": "Ashera"
+    },
+    {
+      "link": "Autonull",
+      "name": "Autonull"
+    },
+    {
+      "link": "Barry",
+      "name": "Barry"
+    },
+    {
+      "link": "Blacksmith (Rift)",
+      "name": "Blacksmith"
+    },
+    {
+      "link": "Blobbercyst",
+      "name": "Blobbercyst"
+    },
+    {
+      "link": "Chef",
+      "name": "Chef"
+    },
+    {
+      "link": "Chester",
+      "name": "Chester"
+    },
+    {
+      "link": "Chicken (Rift NPC)",
+      "name": "Chicken"
+    },
+    {
+      "link": "Chipper McPickaxe",
+      "name": "Chipper McPickaxe"
+    },
+    {
+      "link": "Cosmo",
+      "name": "Cosmo"
+    },
+    {
+      "link": "Cow (Rift)",
+      "name": "Cow"
+    },
+    {
+      "link": "Cowboy Nick",
+      "name": "Cowboy Nick"
+    },
+    {
+      "link": "Creed",
+      "name": "Creed"
+    },
+    {
+      "link": "Cryptosis",
+      "name": "Cryptosis"
+    },
+    {
+      "link": "Dackinoru",
+      "name": "Dackinoru"
+    },
+    {
+      "link": "Damia (Rift)",
+      "name": "Damia"
+    },
+    {
+      "link": "Deer",
+      "name": "Deer"
+    },
+    {
+      "link": "Defunct Wizardman",
+      "name": "Defunct Wizardman"
+    },
+    {
+      "link": "Detective Amog",
+      "name": "Detective Amog"
+    },
+    {
+      "link": "Detransfigured Seraphine",
+      "name": "Detransfigured Seraphine"
+    },
+    {
+      "link": "Disinfestor",
+      "name": "Disinfestor"
+    },
+    {
+      "link": "Dr. Edwin",
+      "name": "Dr. Edwin"
+    },
+    {
+      "link": "Dr. Emmett",
+      "name": "Dr. Emmett"
+    },
+    {
+      "link": "Dr. Phear",
+      "name": "Dr. Phear"
+    },
+    {
+      "link": "Dust",
+      "name": "Dust"
+    },
+    {
+      "link": "Elise (Rift)",
+      "name": "Elise"
+    },
+    {
+      "link": "Enigma",
+      "name": "Enigma"
+    },
+    {
+      "link": "Fafnir",
+      "name": "Fafnir"
+    },
+    {
+      "link": "Fairylosopher",
+      "name": "Fairylosopher"
+    },
+    {
+      "link": "Fake Enigma Soul",
+      "name": "Fake Enigma Soul"
+    },
+    {
+      "link": "Finplex",
+      "name": "Finplex"
+    },
+    {
+      "link": "Frankie",
+      "name": "Frankie"
+    },
+    {
+      "link": "Garlacius",
+      "name": "Garlacius"
+    },
+    {
+      "link": "Grandma",
+      "name": "Grandma"
+    },
+    {
+      "link": "Gunther",
+      "name": "Gunther"
+    },
+    {
+      "link": "Harriette",
+      "name": "Harriette"
+    },
+    {
+      "link": "Hound",
+      "name": "Hound"
+    },
+    {
+      "link": "Ikrus",
+      "name": "Ikrus"
+    },
+    {
+      "link": "Inverted Sirius",
+      "name": "Inverted Sirius"
+    },
+    {
+      "link": "Jerry (Rift)",
+      "name": "Jerry"
+    },
+    {
+      "link": "Joey McPizza",
+      "name": "Joey McPizza"
+    },
+    {
+      "link": "Joliet",
+      "name": "Joliet"
+    },
+    {
+      "link": "Julian",
+      "name": "Julian"
+    },
+    {
+      "link": "Kat (Rift)",
+      "name": "Kat"
+    },
+    {
+      "link": "Kay",
+      "name": "Kay"
+    },
+    {
+      "link": "Kiermet",
+      "name": "Kiermet"
+    },
+    {
+      "link": "Lazarus",
+      "name": "Lazarus"
+    },
+    {
+      "link": "Lonely Ävaeìkx",
+      "name": "Lonely Ävaeìkx"
+    },
+    {
+      "link": "Lost Wizard",
+      "name": "Lost Wizard"
+    },
+    {
+      "link": "Madame Eleanor Q. Goldsworth I",
+      "name": "Madame Eleanor Q. Goldsworth I"
+    },
+    {
+      "link": "Madame Eleanor Q. Goldsworth II",
+      "name": "Madame Eleanor Q. Goldsworth II"
+    },
+    {
+      "link": "Madame Eleanor Q. Goldsworth IX",
+      "name": "Madame Eleanor Q. Goldsworth IX"
+    },
+    {
+      "link": "Madame Eleanor Q. Goldsworth V",
+      "name": "Madame Eleanor Q. Goldsworth V"
+    },
+    {
+      "link": "Madame Eleanor Q. Goldsworth VII",
+      "name": "Madame Eleanor Q. Goldsworth VII"
+    },
+    {
+      "link": "Madame Eleanor Q. Goldsworth X",
+      "name": "Madame Eleanor Q. Goldsworth X"
+    },
+    {
+      "link": "Maddox_The_Slayer_(Rift)",
+      "name": "Maddox the Slayer"
+    },
+    {
+      "link": "Marcia",
+      "name": "Marcia"
+    },
+    {
+      "link": "Master Tactician Fink",
+      "name": "Master Tactician Fink"
+    },
+    {
+      "link": "Mole",
+      "name": "Mole"
+    },
+    {
+      "link": "Motes Grubber",
+      "name": "Motes Grubber"
+    },
+    {
+      "link": "Mushroom Guy",
+      "name": "Mushroom Guy"
+    },
+    {
+      "link": "Nene",
+      "name": "Nene"
+    },
+    {
+      "link": "Noway",
+      "name": "Noway"
+    },
+    {
+      "link": "Obo",
+      "name": "Obo"
+    },
+    {
+      "link": "Old Timer",
+      "name": "Old Timer"
+    },
+    {
+      "link": "Oruo The Almighty",
+      "name": "Oruo The Almighty"
+    },
+    {
+      "link": "Phaser",
+      "name": "Phaser"
+    },
+    {
+      "link": "Plumber Joe (Rift)",
+      "name": "Plumber Joe"
+    },
+    {
+      "link": "Porhtal",
+      "name": "Porhtal"
+    },
+    {
+      "link": "Ramero",
+      "name": "Ramero"
+    },
+    {
+      "link": "Reed",
+      "name": "Reed"
+    },
+    {
+      "link": "Ribbit",
+      "name": "Ribbit"
+    },
+    {
+      "link": "Rift Weirdos",
+      "name": "Rift Weirdos"
+    },
+    {
+      "link": "Rock",
+      "name": "Rock"
+    },
+    {
+      "link": "Roger",
+      "name": "Roger"
+    },
+    {
+      "link": "Roosterzilla",
+      "name": "Roosterzilla"
+    },
+    {
+      "link": "Roy",
+      "name": "Roy"
+    },
+    {
+      "link": "Sad Jacquelle",
+      "name": "Sad Jacquelle"
+    },
+    {
+      "link": "Seskel",
+      "name": "Seskel"
+    },
+    {
+      "link": "Seymour (Rift)",
+      "name": "Seymour"
+    },
+    {
+      "link": "Shania",
+      "name": "Shania"
+    },
+    {
+      "link": "Sheep (Rift)",
+      "name": "Sheep"
+    },
+    {
+      "link": "Shen Albedo",
+      "name": "Shen Albedo"
+    },
+    {
+      "link": "Shen Chaos",
+      "name": "Shen Chaos"
+    },
+    {
+      "link": "Shen Citrinitas",
+      "name": "Shen Citrinitas"
+    },
+    {
+      "link": "Shen Magnum Opus",
+      "name": "Shen Magnum Opus"
+    },
+    {
+      "link": "Shen Rubedo",
+      "name": "Shen Rubedo"
+    },
+    {
+      "link": "Shifted",
+      "name": "Shifted"
+    },
+    {
+      "link": "Skylark",
+      "name": "Skylark"
+    },
+    {
+      "link": "Soma",
+      "name": "Soma"
+    },
+    {
+      "link": "Sorcerer Okron",
+      "name": "Sorcerer Okron"
+    },
+    {
+      "link": "Spike",
+      "name": "Spike"
+    },
+    {
+      "link": "Stain",
+      "name": "Stain"
+    },
+    {
+      "link": "Taylor (Rift)",
+      "name": "Taylor"
+    },
+    {
+      "link": "Tel Kar",
+      "name": "Tel Kar"
+    },
+    {
+      "link": "Transfigured Seraphine",
+      "name": "Transfigured Seraphine"
+    },
+    {
+      "link": "Tybalt",
+      "name": "Tybalt"
+    },
+    {
+      "link": "Ubik Von Neumann",
+      "name": "Ubik Von Neumann"
+    },
+    {
+      "link": "Unbound Explorer",
+      "name": "Unbound Explorer"
+    },
+    {
+      "link": "Unhinged Kloon",
+      "name": "Unhinged Kloon"
+    },
+    {
+      "link": "Violetta",
+      "name": "Violetta"
+    },
+    {
+      "link": "Vreike",
+      "name": "Vreike"
+    },
+    {
+      "link": "Wizard (Rift)",
+      "name": "Wizard"
+    },
+    {
+      "link": "Wizardman",
+      "name": "Wizardman"
+    },
+    {
+      "link": "Wizardman",
+      "name": "Wizardman"
+    },
+    {
+      "link": "Yoshua",
+      "name": "Yoshua"
+    },
+    {
+      "link": "yrreJ",
+      "name": "yrreJ"
+    },
+    {
+      "link": "☣ Sick Farmer ☣",
+      "name": "☣ Sick Farmer ☣"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Autonull",
+      "name": "Autonull"
+    },
+    {
+      "link": "Barking Wolf",
+      "name": "Barking Wolf"
+    },
+    {
+      "link": "Chicken (Rift Mob)|Chicken",
+      "name": "Chicken"
+    },
+    {
+      "link": "Deadgehog",
+      "name": "Deadgehog"
+    },
+    {
+      "link": "Fledgling",
+      "name": "Fledgling"
+    },
+    {
+      "link": "Frozille",
+      "name": "Frozille"
+    },
+    {
+      "link": "Not Chicken",
+      "name": "Not Chicken"
+    },
+    {
+      "link": "Scribe",
+      "name": "Scribe"
+    },
+    {
+      "link": "Shadow",
+      "name": "Shadow"
+    },
+    {
+      "link": "Shy",
+      "name": "Shy"
+    },
+    {
+      "link": "Splatter",
+      "name": "Splatter"
+    },
+    {
+      "link": "Thrall",
+      "name": "Thrall"
+    },
+    {
+      "link": "Volt",
+      "name": "Volt"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Deadgehog Spine",
+      "name": "Deadgehog Spine"
+    },
+    {
+      "link": "Frosty Crux",
+      "name": "Frosty Crux"
+    },
+    {
+      "link": "Hemovibe",
+      "name": "Hemovibe"
+    },
+    {
+      "link": "Metaphoric Egg",
+      "name": "Metaphoric Egg"
+    },
+    {
+      "link": "Muted Bark",
+      "name": "Muted Bark"
+    },
+    {
+      "link": "Nullified Metal",
+      "name": "Nullified Metal"
+    },
+    {
+      "link": "Scribe Crux",
+      "name": "Scribe Crux"
+    },
+    {
+      "link": "Shadow Crux",
+      "name": "Shadow Crux"
+    },
+    {
+      "link": "Shy Crux",
+      "name": "Shy Crux"
+    },
+    {
+      "link": "Splatter Crux",
+      "name": "Splatter Crux"
+    },
+    {
+      "link": "Vampiric Melon",
+      "name": "Vampiric Melon"
+    },
+    {
+      "link": "Volt Crux",
+      "name": "Volt Crux"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "RIFT_CASTLE_FAIRY_TOWER",
+      "number": 1,
+      "coordinates": {
+        "x": 253,
+        "y": 123,
+        "z": 90
+      }
+    }
+  ]
+}

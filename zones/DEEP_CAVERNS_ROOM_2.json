@@ -1,0 +1,71 @@
+{
+  "internalId": "DEEP_CAVERNS_ROOM_2",
+  "name": "Lapis Quarry",
+  "source": "HypixelWiki",
+  "discoveryText": "Lapis Quarry\nThe Lapis Quarry can now be traveled to via the Lift Operator.\nMine Lapis Lazuli Ore\nTalk to the Lapis Miner.\nWatch out for Lapis Zombies!",
+  "npcs": [
+    {
+      "link": "Lapis Miner",
+      "name": "Lapis Miner"
+    },
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Lapis Zombie",
+      "name": "Lapis Zombie"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Exp Share Core",
+      "name": "Exp Share Core"
+    },
+    {
+      "link": "Lapis Armor Boots",
+      "name": "Lapis Armor Boots"
+    },
+    {
+      "link": "Lapis Armor Chestplate",
+      "name": "Lapis Armor Chestplate"
+    },
+    {
+      "link": "Lapis Armor Helmet",
+      "name": "Lapis Armor Helmet"
+    },
+    {
+      "link": "Lapis Armor Leggings",
+      "name": "Lapis Armor Leggings"
+    },
+    {
+      "link": "Lapis Crystal",
+      "name": "Lapis Crystal"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "DEEP_CAVERNS_ROOM_2",
+      "number": 10,
+      "coordinates": {
+        "x": -35,
+        "y": 127,
+        "z": 28
+      }
+    }
+  ]
+}

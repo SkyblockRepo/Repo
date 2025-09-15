@@ -1,0 +1,44 @@
+{
+  "internalId": "GRAVEL_MINES",
+  "name": "Gravel Mines",
+  "source": "HypixelWiki",
+  "discoveryText": "Gravel Mines\nMine Gravel.\nTalk to Rick.",
+  "npcs": [
+    {
+      "link": "Rick",
+      "name": "Rick"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "GRAVEL_MINES",
+      "number": 5,
+      "coordinates": {
+        "x": -169,
+        "y": 62,
+        "z": -289
+      }
+    },
+    {
+      "location": "GRAVEL_MINES",
+      "number": 9,
+      "coordinates": {
+        "x": -160,
+        "y": 62,
+        "z": -275
+      }
+    }
+  ]
+}

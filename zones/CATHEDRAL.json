@@ -1,0 +1,50 @@
+{
+  "internalId": "CATHEDRAL",
+  "name": "Cathedral",
+  "source": "HypixelWiki",
+  "discoveryText": "Cathedral\nFind the Dean's office.\nPray.",
+  "npcs": [
+    {
+      "link": "Dean",
+      "name": "Dean"
+    },
+    {
+      "link": "Elle",
+      "name": "Elle"
+    },
+    {
+      "link": "Eludore",
+      "name": "Eludore"
+    },
+    {
+      "link": "Scholar Alluin",
+      "name": "Scholar Alluin"
+    },
+    {
+      "link": "Undercover Agent",
+      "name": "Undercover Agent"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "CATHEDRAL",
+      "number": 5,
+      "coordinates": {
+        "x": -31,
+        "y": 178,
+        "z": -907
+      }
+    },
+    {
+      "location": "CATHEDRAL",
+      "number": 19,
+      "coordinates": {
+        "x": -106,
+        "y": 89,
+        "z": -883
+      }
+    }
+  ]
+}

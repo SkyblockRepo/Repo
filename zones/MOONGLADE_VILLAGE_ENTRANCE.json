@@ -1,0 +1,37 @@
+{
+  "internalId": "MOONGLADE_VILLAGE_ENTRANCE",
+  "name": "Tangleburg's Path",
+  "source": "HypixelWiki",
+  "discoveryText": "Tangleburg's Path\nTalk to Hina about Heart of the Forest!\nTalk to Swoop about Tree Cutting!\nTalk to David Hunterborough about Hunting!\nCompete in Starlyn Contests!",
+  "npcs": [
+    {
+      "link": "Hina",
+      "name": "Hina"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Chillshot",
+      "name": "Chillshot"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Arcane Enchantment",
+      "name": "Arcane I"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Runeblade Talisman",
+      "name": "Runeblade Talisman"
+    },
+    {
+      "link": "Stealth Enchantment",
+      "name": "Stealth I"
+    }
+  ],
+  "fairySouls": []
+}

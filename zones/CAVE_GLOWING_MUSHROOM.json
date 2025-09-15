@@ -1,0 +1,33 @@
+{
+  "internalId": "CAVE_GLOWING_MUSHROOM",
+  "name": "Glowing Mushroom Cave",
+  "source": "HypixelWiki",
+  "discoveryText": "Glowing Mushroom Cave\nFarm mushrooms.\nMeet Moby.",
+  "npcs": [
+    {
+      "link": "Moby",
+      "name": "Moby"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Leather",
+      "name": "Leather"
+    },
+    {
+      "link": "Raw Beef",
+      "name": "Raw Beef"
+    },
+    {
+      "link": "Red Mushroom",
+      "name": "Red Mushroom"
+    }
+  ],
+  "fairySouls": []
+}

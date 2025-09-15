@@ -1,0 +1,86 @@
+{
+  "internalId": "FARM",
+  "name": "Farm",
+  "source": "HypixelWiki",
+  "discoveryText": "Farm\nTalk to the Farmer.\nGather Wheat.\nTravel to The Barn.",
+  "npcs": [
+    {
+      "link": "Arthur",
+      "name": "Arthur"
+    },
+    {
+      "link": "Bobby Joe",
+      "name": "Bobby Joe"
+    },
+    {
+      "link": "Farmer",
+      "name": "Farmer"
+    },
+    {
+      "link": "Shania",
+      "name": "Shania"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "FARM",
+      "number": 49,
+      "coordinates": {
+        "x": 34,
+        "y": 72,
+        "z": -162
+      }
+    },
+    {
+      "location": "FARM",
+      "number": 52,
+      "coordinates": {
+        "x": 72,
+        "y": 71,
+        "z": -190
+      }
+    },
+    {
+      "location": "FARM",
+      "number": 57,
+      "coordinates": {
+        "x": 104,
+        "y": 77,
+        "z": -133
+      }
+    },
+    {
+      "location": "FARM",
+      "number": 73,
+      "coordinates": {
+        "x": 70,
+        "y": 90,
+        "z": -149
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "internalId": "RABBIT_HOUSE",
+  "name": "Rabbit House",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [
+    {
+      "link": "Rabbit Bro",
+      "name": "Rabbit Bro"
+    },
+    {
+      "link": "Rabbit Cousin",
+      "name": "Rabbit Cousin"
+    },
+    {
+      "link": "Rabbit Daddy",
+      "name": "Rabbit Daddy"
+    },
+    {
+      "link": "Rabbit Dog",
+      "name": "Rabbit Dog"
+    },
+    {
+      "link": "Rabbit Granny",
+      "name": "Rabbit Granny"
+    },
+    {
+      "link": "Rabbit Sis",
+      "name": "Rabbit Sis"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "RABBIT_HOUSE",
+      "number": 54,
+      "coordinates": {
+        "x": 9,
+        "y": 75,
+        "z": 13
+      }
+    }
+  ]
+}

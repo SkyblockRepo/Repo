@@ -1,0 +1,24 @@
+{
+  "internalId": "BARBARIAN_OUTPOST",
+  "name": "Barbarian Outpost",
+  "source": "HypixelWiki",
+  "discoveryText": "Barbarian Outpost\nKill Barbarians to neutralize your Reputation with the Mage Faction.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Barbarian",
+      "name": "Barbarian"
+    },
+    {
+      "link": "Goliath Barbarian",
+      "name": "Goliath Barbarian"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    }
+  ],
+  "fairySouls": []
+}

@@ -1,0 +1,35 @@
+{
+  "internalId": "FLOATING_ISLANDS_4",
+  "name": "Savanna Woodland",
+  "source": "HypixelWiki",
+  "discoveryText": "Savanna Woodland\nChop down Acacia logs.",
+  "npcs": [
+    {
+      "link": "Master Tactician Funk",
+      "name": "Master Tactician Funk"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "FLOATING_ISLANDS_4",
+      "number": 9,
+      "coordinates": {
+        "x": -404,
+        "y": 136,
+        "z": 6
+      }
+    }
+  ]
+}

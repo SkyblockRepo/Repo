@@ -1,0 +1,46 @@
+{
+  "internalId": "DESERT_SETTLEMENT",
+  "name": "Desert Settlement",
+  "source": "HypixelWiki",
+  "discoveryText": "Desert Settlement\nTalk to the settlement inhabitants.",
+  "npcs": [
+    {
+      "link": "Beth",
+      "name": "Beth"
+    },
+    {
+      "link": "Friendly Hiker",
+      "name": "Friendly Hiker"
+    },
+    {
+      "link": "Hungry Hiker",
+      "name": "Hungry Hiker"
+    },
+    {
+      "link": "Mason",
+      "name": "Mason"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "DESERT_SETTLEMENT",
+      "number": 14,
+      "coordinates": {
+        "x": 145,
+        "y": 77,
+        "z": -374
+      }
+    },
+    {
+      "location": "DESERT_SETTLEMENT",
+      "number": 19,
+      "coordinates": {
+        "x": 152,
+        "y": 67,
+        "z": -361
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "internalId": "STRONGHOLD",
+  "name": "Stronghold",
+  "source": "HypixelWiki",
+  "discoveryText": "Stronghold\nCollect Nether Wart.\nTalk to Elle.\nDefeat Bladesoul.",
+  "npcs": [
+    {
+      "link": "Arch",
+      "name": "Arch"
+    },
+    {
+      "link": "Elle",
+      "name": "Elle"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Bezal",
+      "name": "Bezal"
+    },
+    {
+      "link": "Blaze",
+      "name": "Blaze"
+    },
+    {
+      "link": "Mutated Blaze",
+      "name": "Mutated Blaze"
+    },
+    {
+      "link": "Wither Skeleton",
+      "name": "Wither Skeleton"
+    },
+    {
+      "link": "Wither Spectre",
+      "name": "Wither Spectre"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Bezos",
+      "name": "Bezos"
+    },
+    {
+      "link": "Blaze Ashes",
+      "name": "Blaze Ashes"
+    },
+    {
+      "link": "Blaze Rod",
+      "name": "Blaze Rod"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Coal",
+      "name": "Coal"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Enchanted Charcoal",
+      "name": "Enchanted Charcoal"
+    },
+    {
+      "link": "Enchanted Coal",
+      "name": "Enchanted Coal"
+    },
+    {
+      "link": "Gunpowder",
+      "name": "Gunpowder"
+    },
+    {
+      "link": "Mutated Blaze Ashes",
+      "name": "Mutated Blaze Ashes"
+    },
+    {
+      "link": "Rampart Boots",
+      "name": "Rampart Boots"
+    },
+    {
+      "link": "Rampart Chestplate",
+      "name": "Rampart Chestplate"
+    },
+    {
+      "link": "Rampart Helmet",
+      "name": "Rampart Helmet"
+    },
+    {
+      "link": "Rampart Leggings",
+      "name": "Rampart Leggings"
+    },
+    {
+      "link": "Redstone",
+      "name": "Redstone"
+    },
+    {
+      "link": "Spectre Dust",
+      "name": "Spectre Dust"
+    },
+    {
+      "link": "Sword Of Bad Health",
+      "name": "Sword Of Bad Health"
+    },
+    {
+      "link": "Wither Soul",
+      "name": "Wither Soul"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "STRONGHOLD",
+      "number": 6,
+      "coordinates": {
+        "x": -352,
+        "y": 191,
+        "z": -553
+      }
+    },
+    {
+      "location": "STRONGHOLD",
+      "number": 8,
+      "coordinates": {
+        "x": -346,
+        "y": 75,
+        "z": -552
+      }
+    },
+    {
+      "location": "STRONGHOLD",
+      "number": 9,
+      "coordinates": {
+        "x": -342,
+        "y": 101,
+        "z": -484
+      }
+    },
+    {
+      "location": "STRONGHOLD",
+      "number": 2,
+      "coordinates": {
+        "x": -361,
+        "y": 133,
+        "z": -469
+      }
+    }
+  ]
+}

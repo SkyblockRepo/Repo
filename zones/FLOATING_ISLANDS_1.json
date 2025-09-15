@@ -1,0 +1,92 @@
+{
+  "internalId": "FLOATING_ISLANDS_1",
+  "name": "Birch Park",
+  "source": "HypixelWiki",
+  "discoveryText": "Birch Park\nTalk to Charlie.\nChop down Birch logs.",
+  "npcs": [
+    {
+      "link": "Charlie",
+      "name": "Charlie"
+    },
+    {
+      "link": "Vanessa",
+      "name": "Vanessa"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "FLOATING_ISLANDS_1",
+      "number": 1,
+      "coordinates": {
+        "x": -315,
+        "y": 89,
+        "z": -72
+      }
+    },
+    {
+      "location": "FLOATING_ISLANDS_1",
+      "number": 2,
+      "coordinates": {
+        "x": -294,
+        "y": 85,
+        "z": 31
+      }
+    }
+  ]
+}

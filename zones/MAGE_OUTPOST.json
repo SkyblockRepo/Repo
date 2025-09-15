@@ -1,0 +1,24 @@
+{
+  "internalId": "MAGE_OUTPOST",
+  "name": "Mage Outpost",
+  "source": "HypixelWiki",
+  "discoveryText": "Mage Outpost\nKill Mages to neutralize your Reputation with the Barbarian Faction.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Fire Mage",
+      "name": "Fire Mage"
+    },
+    {
+      "link": "Krondor Necromancer",
+      "name": "Krondor Necromancer"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    }
+  ],
+  "fairySouls": []
+}

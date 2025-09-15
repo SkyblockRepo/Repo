@@ -1,0 +1,57 @@
+{
+  "internalId": "ELDER_PALACE",
+  "name": "Royal Palace",
+  "source": "HypixelWiki",
+  "discoveryText": "Royal Palace\nLong live the King(s)!\nTalk to the Puzzler.",
+  "npcs": [
+    {
+      "link": "Brammor",
+      "name": "Brammor"
+    },
+    {
+      "link": "Emkam",
+      "name": "Emkam"
+    },
+    {
+      "link": "Emmor",
+      "name": "Emmor"
+    },
+    {
+      "link": "Erren",
+      "name": "Erren"
+    },
+    {
+      "link": "Grandan",
+      "name": "Grandan"
+    },
+    {
+      "link": "Queen Mismyla",
+      "name": "Queen Mismyla"
+    },
+    {
+      "link": "Redros",
+      "name": "Redros"
+    },
+    {
+      "link": "Thormyr",
+      "name": "Thormyr"
+    },
+    {
+      "link": "Tornora",
+      "name": "Tornora"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "ELDER_PALACE",
+      "number": 4,
+      "coordinates": {
+        "x": 155,
+        "y": 189,
+        "z": 123
+      }
+    }
+  ]
+}

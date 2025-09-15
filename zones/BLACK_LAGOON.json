@@ -1,0 +1,29 @@
+{
+  "internalId": "BLACK_LAGOON",
+  "name": "Black Lagoon",
+  "source": "HypixelWiki",
+  "discoveryText": "Black Lagoon\nDefeat Deadgehogs for your Rift Necklace.\nVisit the Lagoon Hut across the water.",
+  "npcs": [
+    {
+      "link": "Dr. Edwin",
+      "name": "Dr. Edwin"
+    },
+    {
+      "link": "Mushroom Guy",
+      "name": "Mushroom Guy"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Deadgehog",
+      "name": "Deadgehog"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Deadgehog Spine",
+      "name": "Deadgehog Spine"
+    }
+  ],
+  "fairySouls": []
+}

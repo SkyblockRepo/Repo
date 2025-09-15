@@ -1,0 +1,53 @@
+{
+  "internalId": "ARCHAEOLOGIST_CAMP",
+  "name": "Archaeologist's Camp",
+  "source": "HypixelWiki",
+  "discoveryText": "Archaeologist's Camp\nTalk to the Archaeologist.\nLearn about Relics.",
+  "npcs": [
+    {
+      "link": "Archaeologist",
+      "name": "Archaeologist"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "fairySouls": []
+}

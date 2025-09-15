@@ -1,0 +1,42 @@
+{
+  "internalId": "THE_MIST",
+  "name": "The Mist",
+  "source": "HypixelWiki",
+  "discoveryText": "The Mist\nPain, only pain.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Ghost",
+      "name": "Ghost"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Ghostly Boots",
+      "name": "Ghostly Boots"
+    },
+    {
+      "link": "Plasma",
+      "name": "Plasma"
+    },
+    {
+      "link": "Sorrow",
+      "name": "Sorrow"
+    },
+    {
+      "link": "Volta",
+      "name": "Volta"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "THE_MIST",
+      "number": 5,
+      "coordinates": {
+        "x": 34,
+        "y": 102,
+        "z": 86
+      }
+    }
+  ]
+}

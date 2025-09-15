@@ -1,0 +1,63 @@
+{
+  "internalId": "GOBLIN_BURROWS",
+  "name": "Goblin Burrows",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Fireslinger",
+      "name": "Fireslinger"
+    },
+    {
+      "link": "Goblin",
+      "name": "Goblin"
+    },
+    {
+      "link": "Knifethrower",
+      "name": "Knifethrower"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Goblin Boots",
+      "name": "Goblin Boots"
+    },
+    {
+      "link": "Goblin Chestplate",
+      "name": "Goblin Chestplate"
+    },
+    {
+      "link": "Goblin Egg",
+      "name": "Goblin Egg"
+    },
+    {
+      "link": "Goblin Helmet",
+      "name": "Goblin Helmet"
+    },
+    {
+      "link": "Goblin Leggings",
+      "name": "Goblin Leggings"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "GOBLIN_BURROWS",
+      "number": 8,
+      "coordinates": {
+        "x": -110,
+        "y": 142,
+        "z": 143
+      }
+    },
+    {
+      "location": "GOBLIN_BURROWS",
+      "number": 9,
+      "coordinates": {
+        "x": -116,
+        "y": 142,
+        "z": 154
+      }
+    }
+  ]
+}

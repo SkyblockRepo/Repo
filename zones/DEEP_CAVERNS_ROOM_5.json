@@ -1,0 +1,112 @@
+{
+  "internalId": "DEEP_CAVERNS_ROOM_5",
+  "name": "Diamond Reserve",
+  "source": "HypixelWiki",
+  "discoveryText": "Diamond Reserve\nThe Diamond Reserve can now be traveled to via the Lift Operator.\nMine Diamond Ore.\nThe Miner Zombies and Skeletons are highly dangerous!",
+  "npcs": [
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Miner Skeleton",
+      "name": "Miner Skeleton"
+    },
+    {
+      "link": "Miner Zombie",
+      "name": "Miner Zombie"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Exp Share Core",
+      "name": "Exp Share Core"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Miner Boots",
+      "name": "Miner Boots"
+    },
+    {
+      "link": "Miner Chestplate",
+      "name": "Miner Chestplate"
+    },
+    {
+      "link": "Miner Helmet",
+      "name": "Miner Helmet"
+    },
+    {
+      "link": "Miner Leggings",
+      "name": "Miner Leggings"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "DEEP_CAVERNS_ROOM_5",
+      "number": 17,
+      "coordinates": {
+        "x": -60,
+        "y": 37,
+        "z": 52
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_5",
+      "number": 18,
+      "coordinates": {
+        "x": -21,
+        "y": 25,
+        "z": 72
+      }
+    }
+  ]
+}

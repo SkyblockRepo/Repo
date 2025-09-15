@@ -1,0 +1,94 @@
+{
+  "internalId": "FISHING_OUTPOST",
+  "name": "Fishing Outpost",
+  "source": "HypixelWiki",
+  "discoveryText": "Fishing Outpost\nBuy fishing essentials from the Fishing Merchant.\nTalk to Fisherman Gerald and Captain Baha about your Ship.\nLearn about Fishing stats from Gwynnie.",
+  "npcs": [
+    {
+      "link": "Fishing Merchant",
+      "name": "Fishing Merchant"
+    },
+    {
+      "link": "Gwynnie",
+      "name": "Gwynnie"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 34,
+      "coordinates": {
+        "x": 155,
+        "y": 62,
+        "z": 28
+      }
+    },
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 38,
+      "coordinates": {
+        "x": 148,
+        "y": 112,
+        "z": 88
+      }
+    },
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 69,
+      "coordinates": {
+        "x": 180,
+        "y": 63,
+        "z": -15
+      }
+    },
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 70,
+      "coordinates": {
+        "x": 147,
+        "y": 53,
+        "z": 88
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "internalId": "OASIS",
+  "name": "Oasis",
+  "source": "HypixelWiki",
+  "discoveryText": "Oasis\nFish in the pond.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Rabbit",
+      "name": "Rabbit"
+    },
+    {
+      "link": "Sheep",
+      "name": "Sheep"
+    }
+  ],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "OASIS",
+      "number": 8,
+      "coordinates": {
+        "x": 111,
+        "y": 63,
+        "z": -447
+      }
+    },
+    {
+      "location": "OASIS",
+      "number": 20,
+      "coordinates": {
+        "x": 150,
+        "y": 60,
+        "z": -448
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "internalId": "DUNGEON_HUB",
+  "name": "Dungeon Hub",
+  "source": "HypixelWiki",
+  "discoveryText": "Dungeon Hub\nJoin Dungeons!\nMeet new friends and organize Dungeon parties!\nTalk with Ophelia and Malik.",
+  "npcs": [
+    {
+      "link": "Adventurer Saul",
+      "name": "Adventurer Saul"
+    },
+    {
+      "link": "Croesus",
+      "name": "Croesus"
+    },
+    {
+      "link": "Guildford",
+      "name": "Guildford"
+    },
+    {
+      "link": "Hub Selector",
+      "name": "Hub Selector"
+    },
+    {
+      "link": "Malik",
+      "name": "Malik"
+    },
+    {
+      "link": "Mort",
+      "name": "Mort"
+    },
+    {
+      "link": "Ophelia",
+      "name": "Ophelia"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "DUNGEON_HUB",
+      "number": 1,
+      "coordinates": {
+        "x": 17,
+        "y": 124,
+        "z": -58
+      }
+    },
+    {
+      "location": "DUNGEON_HUB",
+      "number": 2,
+      "coordinates": {
+        "x": 1,
+        "y": 134,
+        "z": 75
+      }
+    },
+    {
+      "location": "DUNGEON_HUB",
+      "number": 3,
+      "coordinates": {
+        "x": -139,
+        "y": 46,
+        "z": -1
+      }
+    },
+    {
+      "location": "DUNGEON_HUB",
+      "number": 4,
+      "coordinates": {
+        "x": 14,
+        "y": 60,
+        "z": 99
+      }
+    },
+    {
+      "location": "DUNGEON_HUB",
+      "number": 5,
+      "coordinates": {
+        "x": -4,
+        "y": 21,
+        "z": -17
+      }
+    },
+    {
+      "location": "DUNGEON_HUB",
+      "number": 6,
+      "coordinates": {
+        "x": -55,
+        "y": 82,
+        "z": -10
+      }
+    },
+    {
+      "location": "DUNGEON_HUB",
+      "number": 7,
+      "coordinates": {
+        "x": 10,
+        "y": 164,
+        "z": -10
+      }
+    }
+  ]
+}

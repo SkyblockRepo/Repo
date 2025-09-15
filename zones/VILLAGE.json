@@ -1,0 +1,269 @@
+{
+  "internalId": "VILLAGE",
+  "name": "Village",
+  "source": "HypixelWiki",
+  "discoveryText": "Village\nExplore the area to learn more about SkyBlock.\nVisit the Auction House.\nManage your coins in the Bank.\nEnchant items in the Library.",
+  "npcs": [
+    {
+      "link": "Adventurer",
+      "name": "Adventurer"
+    },
+    {
+      "link": "Alchemist",
+      "name": "Alchemist"
+    },
+    {
+      "link": "Alixer",
+      "name": "Alixer"
+    },
+    {
+      "link": "Amelia",
+      "name": "Amelia"
+    },
+    {
+      "link": "Andrew",
+      "name": "Andrew"
+    },
+    {
+      "link": "Apprentice",
+      "name": "Apprentice"
+    },
+    {
+      "link": "Baker",
+      "name": "Baker"
+    },
+    {
+      "link": "Billy Joe",
+      "name": "Billy Joe"
+    },
+    {
+      "link": "Bingo_(NPC)",
+      "name": "Bingo"
+    },
+    {
+      "link": "Carpenter",
+      "name": "Carpenter"
+    },
+    {
+      "link": "Centauri",
+      "name": "Centauri"
+    },
+    {
+      "link": "Christopher",
+      "name": "Christopher"
+    },
+    {
+      "link": "Chuckleton",
+      "name": "Chuckleton"
+    },
+    {
+      "link": "Duke",
+      "name": "Duke"
+    },
+    {
+      "link": "Farm Merchant",
+      "name": "Farm Merchant"
+    },
+    {
+      "link": "Fear Mongerer",
+      "name": "Fear Mongerer"
+    },
+    {
+      "link": "Felix",
+      "name": "Felix"
+    },
+    {
+      "link": "Fishing Merchant",
+      "name": "Fishing Merchant"
+    },
+    {
+      "link": "Guy",
+      "name": "Guy"
+    },
+    {
+      "link": "Hub Selector",
+      "name": "Hub Selector"
+    },
+    {
+      "link": "Hugh Pixel",
+      "name": "Hugh Pixel"
+    },
+    {
+      "link": "Jack",
+      "name": "Jack"
+    },
+    {
+      "link": "Jamie",
+      "name": "Jamie"
+    },
+    {
+      "link": "Jerry",
+      "name": "Jerry"
+    },
+    {
+      "link": "Jim Bob",
+      "name": "Jim Bob"
+    },
+    {
+      "link": "Leo",
+      "name": "Leo"
+    },
+    {
+      "link": "Liam",
+      "name": "Liam"
+    },
+    {
+      "link": "Lukas the Aquarist",
+      "name": "Lukas the Aquarist"
+    },
+    {
+      "link": "Lumber Merchant",
+      "name": "Lumber Merchant"
+    },
+    {
+      "link": "Lynn",
+      "name": "Lynn"
+    },
+    {
+      "link": "Maths Enjoyer",
+      "name": "Maths Enjoyer"
+    },
+    {
+      "link": "Oringo",
+      "name": "Oringo"
+    },
+    {
+      "link": "Pig Shop",
+      "name": "Pig Shop"
+    },
+    {
+      "link": "Plumber Joe",
+      "name": "Plumber Joe"
+    },
+    {
+      "link": "Raffle Box",
+      "name": "Raffle Box"
+    },
+    {
+      "link": "Rezzus",
+      "name": "Rezzus"
+    },
+    {
+      "link": "Ryu",
+      "name": "Ryu"
+    },
+    {
+      "link": "Salesman",
+      "name": "Salesman"
+    },
+    {
+      "link": "Security Sloth",
+      "name": "Security Sloth"
+    },
+    {
+      "link": "Simon",
+      "name": "Simon"
+    },
+    {
+      "link": "Stella",
+      "name": "Stella"
+    },
+    {
+      "link": "Tom",
+      "name": "Tom"
+    },
+    {
+      "link": "Vex",
+      "name": "Vex"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "VILLAGE",
+      "number": 1,
+      "coordinates": {
+        "x": -20,
+        "y": 90,
+        "z": -12
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 19,
+      "coordinates": {
+        "x": 40,
+        "y": 68,
+        "z": -65
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 23,
+      "coordinates": {
+        "x": -16,
+        "y": 66,
+        "z": -110
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 24,
+      "coordinates": {
+        "x": 23,
+        "y": 79,
+        "z": -134
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 63,
+      "coordinates": {
+        "x": -81,
+        "y": 70,
+        "z": -88
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 64,
+      "coordinates": {
+        "x": -49,
+        "y": 90,
+        "z": -72
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 75,
+      "coordinates": {
+        "x": 72,
+        "y": 70,
+        "z": -99
+      }
+    }
+  ]
+}

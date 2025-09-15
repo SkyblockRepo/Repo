@@ -1,0 +1,95 @@
+{
+  "internalId": "WIZARD_TOWER",
+  "name": "Wizard Tower",
+  "source": "HypixelWiki",
+  "discoveryText": "Wizard Tower\nTalk to the Wizard.\nUse the Wizard Portal.",
+  "npcs": [
+    {
+      "link": "Darr",
+      "name": "Darr"
+    },
+    {
+      "link": "Elise",
+      "name": "Elise"
+    },
+    {
+      "link": "Erihann",
+      "name": "Erihann"
+    },
+    {
+      "link": "Grumblefoot",
+      "name": "Grumblefoot"
+    },
+    {
+      "link": "Nicole",
+      "name": "Nicole"
+    },
+    {
+      "link": "Udium",
+      "name": "Udium"
+    },
+    {
+      "link": "Wizard",
+      "name": "Wizard"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "WIZARD_TOWER",
+      "number": 29,
+      "coordinates": {
+        "x": 40,
+        "y": 108,
+        "z": 78
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 30,
+      "coordinates": {
+        "x": 49,
+        "y": 121,
+        "z": 69
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 31,
+      "coordinates": {
+        "x": 43,
+        "y": 152,
+        "z": 73
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 61,
+      "coordinates": {
+        "x": 48,
+        "y": 78,
+        "z": 81
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 62,
+      "coordinates": {
+        "x": 43,
+        "y": 120,
+        "z": 70
+      }
+    }
+  ]
+}

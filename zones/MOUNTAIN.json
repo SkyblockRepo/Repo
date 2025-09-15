@@ -1,0 +1,162 @@
+{
+  "internalId": "MOUNTAIN",
+  "name": "Mountain",
+  "source": "HypixelWiki",
+  "discoveryText": "Mountain\nClimb to the top!",
+  "npcs": [
+    {
+      "link": "Coach Jackrabbit",
+      "name": "Coach Jackrabbit"
+    },
+    {
+      "link": "Hoppity",
+      "name": "Hoppity"
+    },
+    {
+      "link": "Rabbit Uncle",
+      "name": "Rabbit Uncle"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Scoop",
+      "name": "Scoop"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "MOUNTAIN",
+      "number": 2,
+      "coordinates": {
+        "x": -60,
+        "y": 108,
+        "z": 3
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 3,
+      "coordinates": {
+        "x": -50,
+        "y": 132,
+        "z": 32
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 4,
+      "coordinates": {
+        "x": -52,
+        "y": 161,
+        "z": 43
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 5,
+      "coordinates": {
+        "x": -56,
+        "y": 115,
+        "z": 28
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 6,
+      "coordinates": {
+        "x": -39,
+        "y": 191,
+        "z": 34
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 7,
+      "coordinates": {
+        "x": -3,
+        "y": 193,
+        "z": 32
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 8,
+      "coordinates": {
+        "x": 2,
+        "y": 181,
+        "z": 31
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 9,
+      "coordinates": {
+        "x": 10,
+        "y": 179,
+        "z": 22
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 28,
+      "coordinates": {
+        "x": -48,
+        "y": 76,
+        "z": 49
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 32,
+      "coordinates": {
+        "x": 57,
+        "y": 90,
+        "z": 79
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 65,
+      "coordinates": {
+        "x": 22,
+        "y": 132,
+        "z": 25
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 68,
+      "coordinates": {
+        "x": -32,
+        "y": 71,
+        "z": 21
+      }
+    }
+  ]
+}

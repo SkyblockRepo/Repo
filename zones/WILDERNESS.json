@@ -1,0 +1,206 @@
+{
+  "internalId": "WILDERNESS",
+  "name": "Wilderness",
+  "source": "HypixelWiki",
+  "discoveryText": "Wilderness\nFish in the pond.\nVisit Tia the Fairy at the Fairy Pond.\nDiscover hidden secrets.",
+  "npcs": [
+    {
+      "link": "Angler Angus",
+      "name": "Angler Angus"
+    },
+    {
+      "link": "Fisherwoman Enid",
+      "name": "Fisherwoman Enid"
+    },
+    {
+      "link": "Gladiator",
+      "name": "Gladiator"
+    },
+    {
+      "link": "Lucius",
+      "name": "Lucius"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Shifty",
+      "name": "Shifty"
+    },
+    {
+      "link": "Sirius",
+      "name": "Sirius"
+    },
+    {
+      "link": "Tia the Fairy",
+      "name": "Tia the Fairy"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "WILDERNESS",
+      "number": 33,
+      "coordinates": {
+        "x": 110,
+        "y": 67,
+        "z": 58
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 35,
+      "coordinates": {
+        "x": 132,
+        "y": 144,
+        "z": 114
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 36,
+      "coordinates": {
+        "x": 82,
+        "y": 61,
+        "z": 196
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 37,
+      "coordinates": {
+        "x": 113,
+        "y": 102,
+        "z": 106
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 39,
+      "coordinates": {
+        "x": 149,
+        "y": 116,
+        "z": 115
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 40,
+      "coordinates": {
+        "x": 111,
+        "y": 120,
+        "z": 127
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 41,
+      "coordinates": {
+        "x": 96,
+        "y": 106,
+        "z": 121
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 42,
+      "coordinates": {
+        "x": 86,
+        "y": 89,
+        "z": 66
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 45,
+      "coordinates": {
+        "x": 87,
+        "y": 77,
+        "z": 43
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 72,
+      "coordinates": {
+        "x": 162,
+        "y": 46,
+        "z": 69
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 74,
+      "coordinates": {
+        "x": 138,
+        "y": 66,
+        "z": 129
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 76,
+      "coordinates": {
+        "x": 169,
+        "y": 60,
+        "z": 129
+      }
+    }
+  ]
+}

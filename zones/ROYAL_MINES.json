@@ -1,0 +1,33 @@
+{
+  "internalId": "ROYAL_MINES",
+  "name": "Royal Mines",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [
+    {
+      "link": "Emissary Wilson",
+      "name": "Emissary Wilson"
+    },
+    {
+      "link": "Marigold",
+      "name": "Marigold"
+    },
+    {
+      "link": "Ticket Master",
+      "name": "Ticket Master"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "ROYAL_MINES",
+      "number": 6,
+      "coordinates": {
+        "x": 133,
+        "y": 104,
+        "z": 104
+      }
+    }
+  ]
+}

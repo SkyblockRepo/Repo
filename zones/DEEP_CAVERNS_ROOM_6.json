@@ -1,0 +1,129 @@
+{
+  "internalId": "DEEP_CAVERNS_ROOM_6",
+  "name": "Obsidian Sanctuary",
+  "source": "HypixelWiki",
+  "discoveryText": "Obsidian Sanctuary\nThe Obsidian Sanctuary can now be traveled to via the Lift Operator.\nMine Obsidian and Diamond Ore.\nTalk to Rhys.\nThe Miner Zombies and Skeletons here are even more dangerous!",
+  "npcs": [
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    },
+    {
+      "link": "Rhys",
+      "name": "Rhys"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Miner Skeleton",
+      "name": "Miner Skeleton"
+    },
+    {
+      "link": "Miner Zombie",
+      "name": "Miner Zombie"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Exp Share Core",
+      "name": "Exp Share Core"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Miner Boots",
+      "name": "Miner Boots"
+    },
+    {
+      "link": "Miner Chestplate",
+      "name": "Miner Chestplate"
+    },
+    {
+      "link": "Miner Helmet",
+      "name": "Miner Helmet"
+    },
+    {
+      "link": "Miner Leggings",
+      "name": "Miner Leggings"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "DEEP_CAVERNS_ROOM_6",
+      "number": 19,
+      "coordinates": {
+        "x": 3,
+        "y": 14,
+        "z": 51
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_6",
+      "number": 20,
+      "coordinates": {
+        "x": -71,
+        "y": 13,
+        "z": 5
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_6",
+      "number": 21,
+      "coordinates": {
+        "x": -76,
+        "y": 13,
+        "z": 24
+      }
+    }
+  ]
+}
