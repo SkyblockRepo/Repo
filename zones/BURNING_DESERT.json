@@ -1,0 +1,55 @@
+{
+  "internalId": "BURNING_DESERT",
+  "name": "Burning Desert",
+  "source": "HypixelWiki",
+  "discoveryText": "Burning Desert\nVisit Dragontail.\nCollect Red Sand.\nSurvive the wildlife.",
+  "npcs": [
+    {
+      "link": "Elle",
+      "name": "Elle"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Flaming Spider",
+      "name": "Flaming Spider"
+    },
+    {
+      "link": "Magma Cube Rider",
+      "name": "Magma Cube Rider"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Burning Eye",
+      "name": "Burning Eye"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Magma Chunk",
+      "name": "Magma Chunk"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "BURNING_DESERT",
+      "number": 4,
+      "coordinates": {
+        "x": -500,
+        "y": 127,
+        "z": -795
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "internalId": "SCARLETON_BANK",
+  "name": "Scarleton Bank",
+  "source": "HypixelWiki",
+  "discoveryText": "Scarleton Bank\nDeposit and withdraw your coins.",
+  "npcs": [
+    {
+      "link": "Alchemage",
+      "name": "Alchemage"
+    },
+    {
+      "link": "Belanor",
+      "name": "Belanor"
+    },
+    {
+      "link": "Udel",
+      "name": "Udel"
+    },
+    {
+      "link": "Ziri",
+      "name": "Ziri"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "SCARLETON_BANK",
+      "number": 17,
+      "coordinates": {
+        "x": -79,
+        "y": 139,
+        "z": -779
+      }
+    }
+  ]
+}

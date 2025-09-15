@@ -1,0 +1,125 @@
+{
+  "internalId": "FOREST",
+  "name": "Forest",
+  "source": "HypixelWiki",
+  "discoveryText": "Forest\nTalk to Lumber Jack.\nChop down trees.\nTravel to the Birch Park.",
+  "npcs": [
+    {
+      "link": "Bartender",
+      "name": "Bartender"
+    },
+    {
+      "link": "Lumber Jack",
+      "name": "Lumber Jack"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Graveyard Zombie",
+      "name": "Graveyard Zombie"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    },
+    {
+      "link": "Zombie Villager",
+      "name": "Zombie Villager"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Carrot",
+      "name": "Carrot"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Poisonous Potato",
+      "name": "Poisonous Potato"
+    },
+    {
+      "link": "Potato",
+      "name": "Potato"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "FOREST",
+      "number": 50,
+      "coordinates": {
+        "x": -142,
+        "y": 77,
+        "z": -31
+      }
+    },
+    {
+      "location": "FOREST",
+      "number": 51,
+      "coordinates": {
+        "x": -208,
+        "y": 70,
+        "z": -80
+      }
+    },
+    {
+      "location": "FOREST",
+      "number": 67,
+      "coordinates": {
+        "x": -225,
+        "y": 72,
+        "z": -21
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "internalId": "ABANDONED_QUARRY",
+  "name": "Abandoned Quarry",
+  "source": "HypixelWiki",
+  "discoveryText": "Abandoned Quarry\nMine Pure Quartz Ore\nFish up Mithril Grubbers",
+  "npcs": [
+    {
+      "link": "Guard Gornum",
+      "name": "Guard Gornum"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "ABANDONED_QUARRY",
+      "number": 15,
+      "coordinates": {
+        "x": -195,
+        "y": 124,
+        "z": -15
+      }
+    }
+  ]
+}

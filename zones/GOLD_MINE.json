@@ -1,0 +1,144 @@
+{
+  "internalId": "GOLD_MINE",
+  "name": "Gold Mine",
+  "source": "HypixelWiki",
+  "discoveryText": "Gold Mine\nTalk to the Lazy Miner.\nMine for gold, iron, and coal.\nVisit the Iron and Gold Forgers.\nVisit the Blacksmith.\nTalk to Rusty.",
+  "npcs": [
+    {
+      "link": "Blacksmith",
+      "name": "Blacksmith"
+    },
+    {
+      "link": "Gold Forger",
+      "name": "Gold Forger"
+    },
+    {
+      "link": "Iron Forger",
+      "name": "Iron Forger"
+    },
+    {
+      "link": "Lazy Miner",
+      "name": "Lazy Miner"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Rusty",
+      "name": "Rusty"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "GOLD_MINE",
+      "number": 1,
+      "coordinates": {
+        "x": -11,
+        "y": 76,
+        "z": -395
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 2,
+      "coordinates": {
+        "x": -19,
+        "y": 142,
+        "z": -364
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 3,
+      "coordinates": {
+        "x": -37,
+        "y": 78,
+        "z": -308
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 4,
+      "coordinates": {
+        "x": -62,
+        "y": 104,
+        "z": -289
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 5,
+      "coordinates": {
+        "x": -26,
+        "y": 94,
+        "z": -340
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 6,
+      "coordinates": {
+        "x": 17,
+        "y": 86,
+        "z": -312
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 7,
+      "coordinates": {
+        "x": 21,
+        "y": 36,
+        "z": -320
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 8,
+      "coordinates": {
+        "x": -23,
+        "y": 113,
+        "z": -353
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 9,
+      "coordinates": {
+        "x": -44,
+        "y": 100,
+        "z": -344
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 10,
+      "coordinates": {
+        "x": -47,
+        "y": 75,
+        "z": -298
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 11,
+      "coordinates": {
+        "x": -1,
+        "y": 80,
+        "z": -337
+      }
+    },
+    {
+      "location": "GOLD_MINE",
+      "number": 12,
+      "coordinates": {
+        "x": 19,
+        "y": 57,
+        "z": -341
+      }
+    }
+  ]
+}

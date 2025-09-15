@@ -1,0 +1,61 @@
+{
+  "internalId": "DWARVEN_VILLAGE",
+  "name": "Dwarven Village",
+  "source": "HypixelWiki",
+  "discoveryText": "Dwarven Village\nA fine village full of happy dwarves.\nBuy from local shops.\nVisit the dwarven Bank.\nTalk to Old Man Garry.",
+  "npcs": [
+    {
+      "link": "Banker Broadjaw",
+      "name": "Banker Broadjaw"
+    },
+    {
+      "link": "Bednom",
+      "name": "Bednom"
+    },
+    {
+      "link": "Blacksmith",
+      "name": "Blacksmith"
+    },
+    {
+      "link": "Bubu",
+      "name": "Bubu"
+    },
+    {
+      "link": "Bulvar",
+      "name": "Bulvar"
+    },
+    {
+      "link": "Emissary Eliza",
+      "name": "Emissary Eliza"
+    },
+    {
+      "link": "Old Man Garry",
+      "name": "Old Man Garry"
+    },
+    {
+      "link": "Rhys",
+      "name": "Rhys"
+    },
+    {
+      "link": "Station Master",
+      "name": "Station Master"
+    },
+    {
+      "link": "Ticket Master",
+      "name": "Ticket Master"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "DWARVEN_VILLAGE",
+      "number": 3,
+      "coordinates": {
+        "x": -9,
+        "y": 230,
+        "z": -135
+      }
+    }
+  ]
+}

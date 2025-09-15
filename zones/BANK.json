@@ -1,0 +1,25 @@
+{
+  "internalId": "BANK",
+  "name": "Bank",
+  "source": "HypixelWiki",
+  "discoveryText": "Bank\nTalk to the Banker.\nStore your coins to keep them safe.\nEarn interest on your coins.",
+  "npcs": [
+    {
+      "link": "Banker",
+      "name": "Banker"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "BANK",
+      "number": 58,
+      "coordinates": {
+        "x": -24,
+        "y": 88,
+        "z": -63
+      }
+    }
+  ]
+}

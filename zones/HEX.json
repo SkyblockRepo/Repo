@@ -1,0 +1,29 @@
+{
+  "internalId": "HEX",
+  "name": "Hexatorum",
+  "source": "HypixelWiki",
+  "discoveryText": "Hexatorum\nTalk to The Handler.\nUse The Hex.",
+  "npcs": [
+    {
+      "link": "The Handler",
+      "name": "The Handler"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "fairySouls": []
+}

@@ -1,0 +1,79 @@
+{
+  "internalId": "ARACHNES_BURROW",
+  "name": "Arachne's Burrow",
+  "source": "HypixelWiki",
+  "discoveryText": "Arachne's Burrow\nHome of Arachne.\nTread carefully.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Dasher Spider",
+      "name": "Dasher Spider"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Spider Jockey",
+      "name": "Spider Jockey"
+    },
+    {
+      "link": "Splitter Spider",
+      "name": "Splitter Spider"
+    },
+    {
+      "link": "Voracious Spider",
+      "name": "Voracious Spider"
+    },
+    {
+      "link": "Weaver Spider",
+      "name": "Weaver Spider"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Arachne's Calling",
+      "name": "Arachne's Calling"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Spider Eye",
+      "name": "Spider Eye"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    },
+    {
+      "link": "Tarantula Pet",
+      "name": "Tarantula Pet"
+    },
+    {
+      "link": "Travel Scroll To Spider's Den Top Of Nest",
+      "name": "Travel Scroll To Spider's Den Top Of Nest"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "ARACHNES_BURROW",
+      "number": 8,
+      "coordinates": {
+        "x": -294,
+        "y": 36,
+        "z": -274
+      }
+    },
+    {
+      "location": "ARACHNES_BURROW",
+      "number": 18,
+      "coordinates": {
+        "x": -309,
+        "y": 66,
+        "z": -245
+      }
+    }
+  ]
+}

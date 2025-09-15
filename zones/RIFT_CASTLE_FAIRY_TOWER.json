@@ -1,0 +1,25 @@
+{
+  "internalId": "RIFT_CASTLE_FAIRY_TOWER",
+  "name": "Fairylosophy Tower",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [
+    {
+      "link": "Fairylosopher",
+      "name": "Fairylosopher"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "RIFT_CASTLE_FAIRY_TOWER",
+      "number": 1,
+      "coordinates": {
+        "x": 253,
+        "y": 123,
+        "z": 90
+      }
+    }
+  ]
+}

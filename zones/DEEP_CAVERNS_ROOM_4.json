@@ -1,0 +1,74 @@
+{
+  "internalId": "DEEP_CAVERNS_ROOM_4",
+  "name": "Slimehill",
+  "source": "HypixelWiki",
+  "discoveryText": "Slimehill\nThe Slimehill can now be traveled to via the Lift Operator.\nMine Emerald Ore.\nThis area is covered with Emerald Slimes!",
+  "npcs": [
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Emerald Slime",
+      "name": "Emerald Slime"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Exp Share Core",
+      "name": "Exp Share Core"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Slimeball",
+      "name": "Slimeball"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 13,
+      "coordinates": {
+        "x": 18,
+        "y": 74,
+        "z": 74
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 14,
+      "coordinates": {
+        "x": 0,
+        "y": 65,
+        "z": 57
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 15,
+      "coordinates": {
+        "x": -40,
+        "y": 72,
+        "z": 0
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 16,
+      "coordinates": {
+        "x": -8,
+        "y": 74,
+        "z": -44
+      }
+    }
+  ]
+}

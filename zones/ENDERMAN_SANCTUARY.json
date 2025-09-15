@@ -1,0 +1,310 @@
+{
+  "internalId": "ENDERMAN_SANCTUARY",
+  "name": "The End",
+  "source": "HypixelWiki",
+  "discoveryText": "The End\nFight Endermen and Endermites.\nMine End Stone and Obsidian.\nTravel to the Dragon's Nest.",
+  "npcs": [
+    {
+      "link": "Gregory",
+      "name": "Gregory"
+    },
+    {
+      "link": "Guber",
+      "name": "Guber"
+    },
+    {
+      "link": "Lone Adventurer",
+      "name": "Lone Adventurer"
+    },
+    {
+      "link": "Pearl Dealer",
+      "name": "Pearl Dealer"
+    },
+    {
+      "link": "Tyzzo",
+      "name": "Tyzzo"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Enderman",
+      "name": "Enderman"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Obsidian Defender",
+      "name": "Obsidian Defender"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Voidling Extremist",
+      "name": "Voidling Extremist"
+    },
+    {
+      "link": "Voidling Fanatic",
+      "name": "Voidling Fanatic"
+    },
+    {
+      "link": "Seer",
+      "name": "Seer"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    },
+    {
+      "link": "Zealot",
+      "name": "Zealot"
+    },
+    {
+      "link": "Zealot Bruiser",
+      "name": "Zealot Bruiser"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Combat Exp Boost",
+      "name": "Combat Exp Boost"
+    },
+    {
+      "link": "Combat Exp Boost",
+      "name": "Combat Exp Boost"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Enchanted Bone",
+      "name": "Enchanted Bone"
+    },
+    {
+      "link": "Enchanted Ender Pearl",
+      "name": "Enchanted Ender Pearl"
+    },
+    {
+      "link": "Enchanted Obsidian",
+      "name": "Enchanted Obsidian"
+    },
+    {
+      "link": "End Stone Bow",
+      "name": "End Stone Bow"
+    },
+    {
+      "link": "Ender Belt",
+      "name": "Ender Belt"
+    },
+    {
+      "link": "Ender Boots",
+      "name": "Ender Boots"
+    },
+    {
+      "link": "Ender Chestplate",
+      "name": "Ender Chestplate"
+    },
+    {
+      "link": "Ender Cloak",
+      "name": "Ender Cloak"
+    },
+    {
+      "link": "Ender Helmet",
+      "name": "Ender Helmet"
+    },
+    {
+      "link": "Ender Leggings",
+      "name": "Ender Leggings"
+    },
+    {
+      "link": "Ender Monocle",
+      "name": "Ender Monocle"
+    },
+    {
+      "link": "Ender Necklace",
+      "name": "Ender Necklace"
+    },
+    {
+      "link": "Ender Pearl",
+      "name": "Ender Pearl"
+    },
+    {
+      "link": "Enderman Cortex Rewriter",
+      "name": "Enderman Cortex Rewriter"
+    },
+    {
+      "link": "Enderman Pet",
+      "name": "Enderman Pet"
+    },
+    {
+      "link": "Flint Arrow",
+      "name": "Flint Arrow"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Obsidian",
+      "name": "Obsidian"
+    },
+    {
+      "link": "Obsidian Chestplate",
+      "name": "Obsidian Chestplate"
+    },
+    {
+      "link": "Pearlescent Dye",
+      "name": "Pearlescent Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Summoning Eye",
+      "name": "Summoning Eye"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 1,
+      "coordinates": {
+        "x": -723,
+        "y": 75,
+        "z": -222
+      }
+    },
+    {
+      "location": "ZEALOT_BRUISER_HIDEOUT",
+      "number": 2,
+      "coordinates": {
+        "x": -609,
+        "y": 84,
+        "z": -230
+      }
+    },
+    {
+      "location": "VOID_SEPULTURE",
+      "number": 3,
+      "coordinates": {
+        "x": -587,
+        "y": 48,
+        "z": -293
+      }
+    },
+    {
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 4,
+      "coordinates": {
+        "x": -545,
+        "y": 92,
+        "z": -257
+      }
+    },
+    {
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 5,
+      "coordinates": {
+        "x": -492,
+        "y": 81,
+        "z": -275
+      }
+    },
+    {
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 6,
+      "coordinates": {
+        "x": -583,
+        "y": 208,
+        "z": -272
+      }
+    },
+    {
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 7,
+      "coordinates": {
+        "x": -587,
+        "y": 122,
+        "z": -276
+      }
+    },
+    {
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 8,
+      "coordinates": {
+        "x": -517,
+        "y": 100,
+        "z": -295
+      }
+    },
+    {
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 9,
+      "coordinates": {
+        "x": -492,
+        "y": 21,
+        "z": -175
+      }
+    },
+    {
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 10,
+      "coordinates": {
+        "x": -657,
+        "y": 36,
+        "z": -201
+      }
+    },
+    {
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 11,
+      "coordinates": {
+        "x": -696,
+        "y": 116,
+        "z": -256
+      }
+    },
+    {
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 12,
+      "coordinates": {
+        "x": -748,
+        "y": 106,
+        "z": -284
+      }
+    }
+  ]
+}

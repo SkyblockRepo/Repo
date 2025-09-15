@@ -1,0 +1,175 @@
+{
+  "internalId": "MUSHROOM_DESERT",
+  "name": "Mushroom Desert",
+  "source": "HypixelWiki",
+  "discoveryText": "Mushroom Desert\nA desert with a lot of plant life.",
+  "npcs": [
+    {
+      "link": "Beth",
+      "name": "Beth"
+    },
+    {
+      "link": "Farmer Jon",
+      "name": "Farmer Jon"
+    },
+    {
+      "link": "Hunter Ava",
+      "name": "Hunter Ava"
+    },
+    {
+      "link": "Jake",
+      "name": "Jake"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
+    },
+    {
+      "link": "Rabbit",
+      "name": "Rabbit"
+    },
+    {
+      "link": "Sheep",
+      "name": "Sheep"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Leather",
+      "name": "Leather"
+    },
+    {
+      "link": "Raw Beef",
+      "name": "Raw Beef"
+    },
+    {
+      "link": "Red Mushroom",
+      "name": "Red Mushroom"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "OASIS",
+      "number": 8,
+      "coordinates": {
+        "x": 111,
+        "y": 63,
+        "z": -447
+      }
+    },
+    {
+      "location": "DESERT_MOUNTAIN",
+      "number": 9,
+      "coordinates": {
+        "x": 263,
+        "y": 177,
+        "z": -565
+      }
+    },
+    {
+      "location": "MUSHROOM_DESERT",
+      "number": 10,
+      "coordinates": {
+        "x": 138,
+        "y": 72,
+        "z": -587
+      }
+    },
+    {
+      "location": "DESERT_MOUNTAIN",
+      "number": 11,
+      "coordinates": {
+        "x": 273,
+        "y": 141,
+        "z": -467
+      }
+    },
+    {
+      "location": "SHEPHERDS_KEEP",
+      "number": 12,
+      "coordinates": {
+        "x": 387,
+        "y": 78,
+        "z": -365
+      }
+    },
+    {
+      "location": "MUSHROOM_DESERT",
+      "number": 13,
+      "coordinates": {
+        "x": 261,
+        "y": 133,
+        "z": -348
+      }
+    },
+    {
+      "location": "DESERT_SETTLEMENT",
+      "number": 14,
+      "coordinates": {
+        "x": 145,
+        "y": 77,
+        "z": -374
+      }
+    },
+    {
+      "location": "GORGE",
+      "number": 15,
+      "coordinates": {
+        "x": 254,
+        "y": 70,
+        "z": -493
+      }
+    },
+    {
+      "location": "MUSHROOM_DESERT",
+      "number": 16,
+      "coordinates": {
+        "x": 193,
+        "y": 66,
+        "z": -468
+      }
+    },
+    {
+      "location": "TRAPPERS_DEN_SHOP_AREA",
+      "number": 17,
+      "coordinates": {
+        "x": 279,
+        "y": 112,
+        "z": -541
+      }
+    },
+    {
+      "location": "OVERGROWN_MUSHROOM_CAVE",
+      "number": 18,
+      "coordinates": {
+        "x": 271,
+        "y": 56,
+        "z": -361
+      }
+    },
+    {
+      "location": "DESERT_SETTLEMENT",
+      "number": 19,
+      "coordinates": {
+        "x": 152,
+        "y": 67,
+        "z": -361
+      }
+    },
+    {
+      "location": "OASIS",
+      "number": 20,
+      "coordinates": {
+        "x": 150,
+        "y": 60,
+        "z": -448
+      }
+    }
+  ]
+}

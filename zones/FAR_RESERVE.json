@@ -1,0 +1,45 @@
+{
+  "internalId": "FAR_RESERVE",
+  "name": "Far Reserve",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [
+    {
+      "link": "Ticket Master",
+      "name": "Ticket Master"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Goblin",
+      "name": "Goblin"
+    },
+    {
+      "link": "Knifethrower",
+      "name": "Knifethrower"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Goblin Boots",
+      "name": "Goblin Boots"
+    },
+    {
+      "link": "Goblin Chestplate",
+      "name": "Goblin Chestplate"
+    },
+    {
+      "link": "Goblin Egg",
+      "name": "Goblin Egg"
+    },
+    {
+      "link": "Goblin Helmet",
+      "name": "Goblin Helmet"
+    },
+    {
+      "link": "Goblin Leggings",
+      "name": "Goblin Leggings"
+    }
+  ],
+  "fairySouls": []
+}

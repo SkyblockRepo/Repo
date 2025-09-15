@@ -1,0 +1,75 @@
+{
+  "internalId": "ARACHNES_SANCTUARY",
+  "name": "Arachne's Sanctuary",
+  "source": "HypixelWiki",
+  "discoveryText": "Arachne's Sanctuary\nHome of the Keepers.\nArachne's Altar",
+  "npcs": [
+    {
+      "link": "Spider Tamer",
+      "name": "Spider Tamer"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Dasher Spider",
+      "name": "Dasher Spider"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Spider Jockey",
+      "name": "Spider Jockey"
+    },
+    {
+      "link": "Splitter Spider",
+      "name": "Splitter Spider"
+    },
+    {
+      "link": "Voracious Spider",
+      "name": "Voracious Spider"
+    },
+    {
+      "link": "Weaver Spider",
+      "name": "Weaver Spider"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Arachne's Calling",
+      "name": "Arachne's Calling"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Spider Eye",
+      "name": "Spider Eye"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    },
+    {
+      "link": "Tarantula Pet",
+      "name": "Tarantula Pet"
+    },
+    {
+      "link": "Travel Scroll To Spider's Den Top Of Nest",
+      "name": "Travel Scroll To Spider's Den Top Of Nest"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "ARACHNES_SANCTUARY",
+      "number": 13,
+      "coordinates": {
+        "x": -309,
+        "y": 63,
+        "z": -185
+      }
+    }
+  ]
+}

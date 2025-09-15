@@ -1,0 +1,45 @@
+{
+  "internalId": "PET_CARE",
+  "name": "Pet Care",
+  "source": "HypixelWiki",
+  "discoveryText": "Pet Care\nBuy your first Pet!\nLearn about Pet Items.\nTrain your Pets, and more!",
+  "npcs": [
+    {
+      "link": "Bea",
+      "name": "Bea"
+    },
+    {
+      "link": "Fann",
+      "name": "Fann"
+    },
+    {
+      "link": "George",
+      "name": "George"
+    },
+    {
+      "link": "Hootie",
+      "name": "Hootie"
+    },
+    {
+      "link": "Kat",
+      "name": "Kat"
+    },
+    {
+      "link": "Zog",
+      "name": "Zog"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "PET_CARE",
+      "number": 80,
+      "coordinates": {
+        "x": 30,
+        "y": 80,
+        "z": -94
+      }
+    }
+  ]
+}

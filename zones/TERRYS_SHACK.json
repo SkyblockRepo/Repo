@@ -1,0 +1,25 @@
+{
+  "internalId": "TERRYS_SHACK",
+  "name": "Terry's Shack",
+  "source": "HypixelWiki",
+  "discoveryText": "Terry's Shack\nTalk to Terry.\nBrowse Terry's unique wares.",
+  "npcs": [
+    {
+      "link": "Terry",
+      "name": "Terry"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "TERRYS_SHACK",
+      "number": 1,
+      "coordinates": {
+        "x": -95,
+        "y": 77,
+        "z": 20
+      }
+    }
+  ]
+}

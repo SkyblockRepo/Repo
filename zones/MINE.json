@@ -1,0 +1,89 @@
+{
+  "internalId": "MINE",
+  "name": "Coal Mine",
+  "source": "HypixelWiki",
+  "discoveryText": "Coal Mine\nMine Coal.\nTravel to the Gold Mine.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Crypt Ghoul",
+      "name": "Crypt Ghoul"
+    },
+    {
+      "link": "Golden Ghoul",
+      "name": "Golden Ghoul"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Gold Ingot",
+      "name": "Gold Ingot"
+    },
+    {
+      "link": "Golden Powder",
+      "name": "Golden Powder"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "MINE",
+      "number": 20,
+      "coordinates": {
+        "x": -34,
+        "y": 67,
+        "z": -150
+      }
+    },
+    {
+      "location": "MINE",
+      "number": 21,
+      "coordinates": {
+        "x": -21,
+        "y": 79,
+        "z": -166
+      }
+    },
+    {
+      "location": "MINE",
+      "number": 48,
+      "coordinates": {
+        "x": -6,
+        "y": 66,
+        "z": -179
+      }
+    },
+    {
+      "location": "MINE",
+      "number": 78,
+      "coordinates": {
+        "x": -33,
+        "y": 76,
+        "z": -213
+      }
+    }
+  ]
+}

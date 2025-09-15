@@ -1,0 +1,59 @@
+{
+  "internalId": "BLAZING_VOLCANO",
+  "name": "Blazing Volcano",
+  "source": "HypixelWiki",
+  "discoveryText": "Blazing Volcano\nFish for rare loot and find epic secrets.\nWatch out for the lava.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Barbarian",
+      "name": "Barbarian"
+    },
+    {
+      "link": "Fire Mage",
+      "name": "Fire Mage"
+    },
+    {
+      "link": "Flare",
+      "name": "Flare"
+    },
+    {
+      "link": "Krondor Necromancer",
+      "name": "Krondor Necromancer"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blaze Rod",
+      "name": "Blaze Rod"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Gazing Pearl",
+      "name": "Gazing Pearl"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "BLAZING_VOLCANO",
+      "number": 4,
+      "coordinates": {
+        "x": -343,
+        "y": 235,
+        "z": -780
+      }
+    },
+    {
+      "location": "BLAZING_VOLCANO",
+      "number": 12,
+      "coordinates": {
+        "x": -396,
+        "y": 108,
+        "z": -764
+      }
+    }
+  ]
+}

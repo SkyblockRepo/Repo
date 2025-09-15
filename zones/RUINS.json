@@ -1,0 +1,199 @@
+{
+  "internalId": "RUINS",
+  "name": "Ruins",
+  "source": "HypixelWiki",
+  "discoveryText": "Ruins\nExplore the ancient ruins.\nWatch out for the guard dogs!",
+  "npcs": [
+    {
+      "link": "Lonely Philosopher",
+      "name": "Lonely Philosopher"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Old Wolf",
+      "name": "Old Wolf"
+    },
+    {
+      "link": "Wolf",
+      "name": "Wolf"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Hound Pet",
+      "name": "Hound Pet"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Wolf Talisman",
+      "name": "Wolf Talisman"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "RUINS",
+      "number": 10,
+      "coordinates": {
+        "x": -207,
+        "y": 100,
+        "z": 66
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 11,
+      "coordinates": {
+        "x": -214,
+        "y": 103,
+        "z": 89
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 12,
+      "coordinates": {
+        "x": -252,
+        "y": 132,
+        "z": 51
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 13,
+      "coordinates": {
+        "x": -261,
+        "y": 56,
+        "z": 115
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 14,
+      "coordinates": {
+        "x": -229,
+        "y": 123,
+        "z": 84
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 15,
+      "coordinates": {
+        "x": -191,
+        "y": 102,
+        "z": 109
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 16,
+      "coordinates": {
+        "x": -245,
+        "y": 75,
+        "z": 149
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 17,
+      "coordinates": {
+        "x": -259,
+        "y": 114,
+        "z": 85
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 25,
+      "coordinates": {
+        "x": -262,
+        "y": 102,
+        "z": 67
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 26,
+      "coordinates": {
+        "x": -260,
+        "y": 96,
+        "z": 48
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 27,
+      "coordinates": {
+        "x": -233,
+        "y": 86,
+        "z": 84
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 43,
+      "coordinates": {
+        "x": -195,
+        "y": 55,
+        "z": 153
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 44,
+      "coordinates": {
+        "x": -152,
+        "y": 67,
+        "z": 123
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 59,
+      "coordinates": {
+        "x": -183,
+        "y": 80,
+        "z": 29
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 60,
+      "coordinates": {
+        "x": -133,
+        "y": 74,
+        "z": 133
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 66,
+      "coordinates": {
+        "x": -166,
+        "y": 79,
+        "z": 93
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 77,
+      "coordinates": {
+        "x": -248,
+        "y": 74,
+        "z": 125
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "SHEN_AUCTION",
+  "name": "Shen's Auction",
+  "source": "HypixelWiki",
+  "discoveryText": "Shen's Auction\nTalk to Damia.\nBid on high-end items.",
+  "npcs": [
+    {
+      "link": "Damia",
+      "name": "Damia"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "fairySouls": []
+}

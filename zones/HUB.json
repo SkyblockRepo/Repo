@@ -1,0 +1,1446 @@
+{
+  "internalId": "HUB",
+  "name": "Hub",
+  "source": "HypixelWiki",
+  "discoveryText": null,
+  "npcs": [
+    {
+      "link": "Aatrox",
+      "name": "Aatrox"
+    },
+    {
+      "link": "Adventurer",
+      "name": "Adventurer"
+    },
+    {
+      "link": "Alchemist",
+      "name": "Alchemist"
+    },
+    {
+      "link": "Alixer",
+      "name": "Alixer"
+    },
+    {
+      "link": "Amelia",
+      "name": "Amelia"
+    },
+    {
+      "link": "Andrew",
+      "name": "Andrew"
+    },
+    {
+      "link": "Angler Angus",
+      "name": "Angler Angus"
+    },
+    {
+      "link": "Anita",
+      "name": "Anita"
+    },
+    {
+      "link": "Apprentice",
+      "name": "Apprentice"
+    },
+    {
+      "link": "Arthur",
+      "name": "Arthur"
+    },
+    {
+      "link": "Auction Agent",
+      "name": "Auction Agent"
+    },
+    {
+      "link": "Auction Master",
+      "name": "Auction Master"
+    },
+    {
+      "link": "Baker",
+      "name": "Baker"
+    },
+    {
+      "link": "Banker",
+      "name": "Banker"
+    },
+    {
+      "link": "Barry",
+      "name": "Barry"
+    },
+    {
+      "link": "Bartender",
+      "name": "Bartender"
+    },
+    {
+      "link": "Bazaar_(NPC)",
+      "name": "Bazaar"
+    },
+    {
+      "link": "Bazaar Agent",
+      "name": "Bazaar Agent"
+    },
+    {
+      "link": "Bea",
+      "name": "Bea"
+    },
+    {
+      "link": "Biblio",
+      "name": "Biblio"
+    },
+    {
+      "link": "Billy Joe",
+      "name": "Billy Joe"
+    },
+    {
+      "link": "Bingo_(NPC)",
+      "name": "Bingo"
+    },
+    {
+      "link": "Blacksmith",
+      "name": "Blacksmith"
+    },
+    {
+      "link": "Bobby Joe",
+      "name": "Bobby Joe"
+    },
+    {
+      "link": "Builder",
+      "name": "Builder"
+    },
+    {
+      "link": "Captain Baha",
+      "name": "Captain Baha"
+    },
+    {
+      "link": "Carnival Cowboy",
+      "name": "Carnival Cowboy"
+    },
+    {
+      "link": "Carnival Fisherman",
+      "name": "Carnival Fisherman"
+    },
+    {
+      "link": "Carnival Leader",
+      "name": "Carnival Leader"
+    },
+    {
+      "link": "Carnival Pirateman",
+      "name": "Carnival Pirateman"
+    },
+    {
+      "link": "Carpenter",
+      "name": "Carpenter"
+    },
+    {
+      "link": "Centauri",
+      "name": "Centauri"
+    },
+    {
+      "link": "Chantelle",
+      "name": "Chantelle"
+    },
+    {
+      "link": "Christopher",
+      "name": "Christopher"
+    },
+    {
+      "link": "Chuckleton",
+      "name": "Chuckleton"
+    },
+    {
+      "link": "Clerk Seraphine",
+      "name": "Clerk Seraphine"
+    },
+    {
+      "link": "Coach Jackrabbit",
+      "name": "Coach Jackrabbit"
+    },
+    {
+      "link": "Cole",
+      "name": "Cole"
+    },
+    {
+      "link": "Curator",
+      "name": "Curator"
+    },
+    {
+      "link": "Damia",
+      "name": "Damia"
+    },
+    {
+      "link": "Darr",
+      "name": "Darr"
+    },
+    {
+      "link": "Derpy",
+      "name": "Derpy"
+    },
+    {
+      "link": "Diana",
+      "name": "Diana"
+    },
+    {
+      "link": "Diaz",
+      "name": "Diaz"
+    },
+    {
+      "link": "Doug",
+      "name": "Doug"
+    },
+    {
+      "link": "Duke",
+      "name": "Duke"
+    },
+    {
+      "link": "Dusk",
+      "name": "Dusk"
+    },
+    {
+      "link": "Elise",
+      "name": "Elise"
+    },
+    {
+      "link": "Elizabeth",
+      "name": "Elizabeth"
+    },
+    {
+      "link": "Erihann",
+      "name": "Erihann"
+    },
+    {
+      "link": "Fann",
+      "name": "Fann"
+    },
+    {
+      "link": "Farm Merchant",
+      "name": "Farm Merchant"
+    },
+    {
+      "link": "Farmer",
+      "name": "Farmer"
+    },
+    {
+      "link": "Fear Mongerer",
+      "name": "Fear Mongerer"
+    },
+    {
+      "link": "Felix",
+      "name": "Felix"
+    },
+    {
+      "link": "Finnegan",
+      "name": "Finnegan"
+    },
+    {
+      "link": "Fisherman Gerald",
+      "name": "Fisherman Gerald"
+    },
+    {
+      "link": "Fisherwoman Enid",
+      "name": "Fisherwoman Enid"
+    },
+    {
+      "link": "Fishing Merchant",
+      "name": "Fishing Merchant"
+    },
+    {
+      "link": "Foxy",
+      "name": "Foxy"
+    },
+    {
+      "link": "Gavin",
+      "name": "Gavin"
+    },
+    {
+      "link": "George",
+      "name": "George"
+    },
+    {
+      "link": "Gladiator",
+      "name": "Gladiator"
+    },
+    {
+      "link": "Grumblefoot",
+      "name": "Grumblefoot"
+    },
+    {
+      "link": "Guy",
+      "name": "Guy"
+    },
+    {
+      "link": "Gwynnie",
+      "name": "Gwynnie"
+    },
+    {
+      "link": "Hootie",
+      "name": "Hootie"
+    },
+    {
+      "link": "Hoppity",
+      "name": "Hoppity"
+    },
+    {
+      "link": "Hub Selector",
+      "name": "Hub Selector"
+    },
+    {
+      "link": "Hugh Pixel",
+      "name": "Hugh Pixel"
+    },
+    {
+      "link": "Jack",
+      "name": "Jack"
+    },
+    {
+      "link": "Jacob",
+      "name": "Jacob"
+    },
+    {
+      "link": "Jacobus",
+      "name": "Jacobus"
+    },
+    {
+      "link": "Jamie",
+      "name": "Jamie"
+    },
+    {
+      "link": "Jax",
+      "name": "Jax"
+    },
+    {
+      "link": "Mayor Jerry",
+      "name": "Jerry"
+    },
+    {
+      "link": "Jerry",
+      "name": "Jerry"
+    },
+    {
+      "link": "Jim Bob",
+      "name": "Jim Bob"
+    },
+    {
+      "link": "Kat",
+      "name": "Kat"
+    },
+    {
+      "link": "Leo",
+      "name": "Leo"
+    },
+    {
+      "link": "Liam",
+      "name": "Liam"
+    },
+    {
+      "link": "Librarian",
+      "name": "Librarian"
+    },
+    {
+      "link": "Liz",
+      "name": "Liz"
+    },
+    {
+      "link": "Lonely Philosopher",
+      "name": "Lonely Philosopher"
+    },
+    {
+      "link": "Lucius",
+      "name": "Lucius"
+    },
+    {
+      "link": "Lukas the Aquarist",
+      "name": "Lukas the Aquarist"
+    },
+    {
+      "link": "Lumber Jack",
+      "name": "Lumber Jack"
+    },
+    {
+      "link": "Lumber Merchant",
+      "name": "Lumber Merchant"
+    },
+    {
+      "link": "Lynn",
+      "name": "Lynn"
+    },
+    {
+      "link": "Mad Redstone Engineer",
+      "name": "Mad Redstone Engineer"
+    },
+    {
+      "link": "Madame Eleanor Q. Goldsworth III",
+      "name": "Madame Eleanor Q. Goldsworth III"
+    },
+    {
+      "link": "Maddox the Slayer",
+      "name": "Maddox the Slayer"
+    },
+    {
+      "link": "Malik",
+      "name": "Malik"
+    },
+    {
+      "link": "Marco",
+      "name": "Marco"
+    },
+    {
+      "link": "Marina",
+      "name": "Marina"
+    },
+    {
+      "link": "Maths Enjoyer",
+      "name": "Maths Enjoyer"
+    },
+    {
+      "link": "Maxwell",
+      "name": "Maxwell"
+    },
+    {
+      "link": "Mine Merchant",
+      "name": "Mine Merchant"
+    },
+    {
+      "link": "Mort",
+      "name": "Mort"
+    },
+    {
+      "link": "Nancy",
+      "name": "Nancy"
+    },
+    {
+      "link": "Nicole",
+      "name": "Nicole"
+    },
+    {
+      "link": "Ophelia",
+      "name": "Ophelia"
+    },
+    {
+      "link": "Oringo",
+      "name": "Oringo"
+    },
+    {
+      "link": "Ozanne",
+      "name": "Ozanne"
+    },
+    {
+      "link": "Pat",
+      "name": "Pat"
+    },
+    {
+      "link": "Paul",
+      "name": "Paul"
+    },
+    {
+      "link": "Pig Shop",
+      "name": "Pig Shop"
+    },
+    {
+      "link": "Plumber Joe",
+      "name": "Plumber Joe"
+    },
+    {
+      "link": "Rabbit Bro",
+      "name": "Rabbit Bro"
+    },
+    {
+      "link": "Rabbit Cousin",
+      "name": "Rabbit Cousin"
+    },
+    {
+      "link": "Rabbit Daddy",
+      "name": "Rabbit Daddy"
+    },
+    {
+      "link": "Rabbit Dog",
+      "name": "Rabbit Dog"
+    },
+    {
+      "link": "Rabbit Granny",
+      "name": "Rabbit Granny"
+    },
+    {
+      "link": "Rabbit Sis",
+      "name": "Rabbit Sis"
+    },
+    {
+      "link": "Rabbit Uncle",
+      "name": "Rabbit Uncle"
+    },
+    {
+      "link": "Raffle Box",
+      "name": "Raffle Box"
+    },
+    {
+      "link": "Rezzus",
+      "name": "Rezzus"
+    },
+    {
+      "link": "Richard",
+      "name": "Richard"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Rosetta",
+      "name": "Rosetta"
+    },
+    {
+      "link": "Ryu",
+      "name": "Ryu"
+    },
+    {
+      "link": "Salesman",
+      "name": "Salesman"
+    },
+    {
+      "link": "Scoop",
+      "name": "Scoop"
+    },
+    {
+      "link": "Scorpius",
+      "name": "Scorpius"
+    },
+    {
+      "link": "Security Sloth",
+      "name": "Security Sloth"
+    },
+    {
+      "link": "Seymour",
+      "name": "Seymour"
+    },
+    {
+      "link": "Shania",
+      "name": "Shania"
+    },
+    {
+      "link": "Shen's Agent",
+      "name": "Shen's Agent"
+    },
+    {
+      "link": "Shifty",
+      "name": "Shifty"
+    },
+    {
+      "link": "Simon",
+      "name": "Simon"
+    },
+    {
+      "link": "Sirius",
+      "name": "Sirius"
+    },
+    {
+      "link": "Smithmonger",
+      "name": "Smithmonger"
+    },
+    {
+      "link": "Stella",
+      "name": "Stella"
+    },
+    {
+      "link": "Taylor",
+      "name": "Taylor"
+    },
+    {
+      "link": "The Handler",
+      "name": "The Handler"
+    },
+    {
+      "link": "Tia the Fairy",
+      "name": "Tia the Fairy"
+    },
+    {
+      "link": "Tom",
+      "name": "Tom"
+    },
+    {
+      "link": "Udium",
+      "name": "Udium"
+    },
+    {
+      "link": "Vargul",
+      "name": "Vargul"
+    },
+    {
+      "link": "Vex",
+      "name": "Vex"
+    },
+    {
+      "link": "Vincent",
+      "name": "Vincent"
+    },
+    {
+      "link": "Weaponsmith",
+      "name": "Weaponsmith"
+    },
+    {
+      "link": "Wizard",
+      "name": "Wizard"
+    },
+    {
+      "link": "Wool Weaver",
+      "name": "Wool Weaver"
+    },
+    {
+      "link": "Zarina",
+      "name": "Zarina"
+    },
+    {
+      "link": "Zog",
+      "name": "Zog"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Crypt Ghoul",
+      "name": "Crypt Ghoul"
+    },
+    {
+      "link": "Golden Ghoul",
+      "name": "Golden Ghoul"
+    },
+    {
+      "link": "Graveyard Zombie",
+      "name": "Graveyard Zombie"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Old Wolf",
+      "name": "Old Wolf"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Skeleton",
+      "name": "Skeleton"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wolf",
+      "name": "Wolf"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    },
+    {
+      "link": "Zombie Villager",
+      "name": "Zombie Villager"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Carrot",
+      "name": "Carrot"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Gold Ingot",
+      "name": "Gold Ingot"
+    },
+    {
+      "link": "Golden Powder",
+      "name": "Golden Powder"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Hound Pet",
+      "name": "Hound Pet"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Poisonous Potato",
+      "name": "Poisonous Potato"
+    },
+    {
+      "link": "Potato",
+      "name": "Potato"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    },
+    {
+      "link": "Wolf Talisman",
+      "name": "Wolf Talisman"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "VILLAGE",
+      "number": 1,
+      "coordinates": {
+        "x": -20,
+        "y": 90,
+        "z": -12
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 2,
+      "coordinates": {
+        "x": -60,
+        "y": 108,
+        "z": 3
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 3,
+      "coordinates": {
+        "x": -50,
+        "y": 132,
+        "z": 32
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 4,
+      "coordinates": {
+        "x": -52,
+        "y": 161,
+        "z": 43
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 5,
+      "coordinates": {
+        "x": -56,
+        "y": 115,
+        "z": 28
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 6,
+      "coordinates": {
+        "x": -39,
+        "y": 191,
+        "z": 34
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 7,
+      "coordinates": {
+        "x": -3,
+        "y": 193,
+        "z": 32
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 8,
+      "coordinates": {
+        "x": 2,
+        "y": 181,
+        "z": 31
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 9,
+      "coordinates": {
+        "x": 10,
+        "y": 179,
+        "z": 22
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 10,
+      "coordinates": {
+        "x": -207,
+        "y": 100,
+        "z": 66
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 11,
+      "coordinates": {
+        "x": -214,
+        "y": 103,
+        "z": 89
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 12,
+      "coordinates": {
+        "x": -252,
+        "y": 132,
+        "z": 51
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 13,
+      "coordinates": {
+        "x": -261,
+        "y": 56,
+        "z": 115
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 14,
+      "coordinates": {
+        "x": -229,
+        "y": 123,
+        "z": 84
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 15,
+      "coordinates": {
+        "x": -191,
+        "y": 102,
+        "z": 109
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 16,
+      "coordinates": {
+        "x": -245,
+        "y": 75,
+        "z": 149
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 17,
+      "coordinates": {
+        "x": -259,
+        "y": 114,
+        "z": 85
+      }
+    },
+    {
+      "location": "FARMHOUSE",
+      "number": 18,
+      "coordinates": {
+        "x": 26,
+        "y": 80,
+        "z": -65
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 19,
+      "coordinates": {
+        "x": 40,
+        "y": 68,
+        "z": -65
+      }
+    },
+    {
+      "location": "MINE",
+      "number": 20,
+      "coordinates": {
+        "x": -34,
+        "y": 67,
+        "z": -150
+      }
+    },
+    {
+      "location": "MINE",
+      "number": 21,
+      "coordinates": {
+        "x": -21,
+        "y": 79,
+        "z": -166
+      }
+    },
+    {
+      "location": "DANGER",
+      "number": 22,
+      "coordinates": {
+        "x": -187,
+        "y": 92,
+        "z": -104
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 23,
+      "coordinates": {
+        "x": -16,
+        "y": 66,
+        "z": -110
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 24,
+      "coordinates": {
+        "x": 23,
+        "y": 79,
+        "z": -134
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 25,
+      "coordinates": {
+        "x": -262,
+        "y": 102,
+        "z": 67
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 26,
+      "coordinates": {
+        "x": -260,
+        "y": 96,
+        "z": 48
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 27,
+      "coordinates": {
+        "x": -233,
+        "y": 86,
+        "z": 84
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 28,
+      "coordinates": {
+        "x": -48,
+        "y": 76,
+        "z": 49
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 29,
+      "coordinates": {
+        "x": 40,
+        "y": 108,
+        "z": 78
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 30,
+      "coordinates": {
+        "x": 49,
+        "y": 121,
+        "z": 69
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 31,
+      "coordinates": {
+        "x": 43,
+        "y": 152,
+        "z": 73
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 32,
+      "coordinates": {
+        "x": 57,
+        "y": 90,
+        "z": 79
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 33,
+      "coordinates": {
+        "x": 110,
+        "y": 67,
+        "z": 58
+      }
+    },
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 34,
+      "coordinates": {
+        "x": 155,
+        "y": 62,
+        "z": 28
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 35,
+      "coordinates": {
+        "x": 132,
+        "y": 144,
+        "z": 114
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 36,
+      "coordinates": {
+        "x": 82,
+        "y": 61,
+        "z": 196
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 37,
+      "coordinates": {
+        "x": 113,
+        "y": 102,
+        "z": 106
+      }
+    },
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 38,
+      "coordinates": {
+        "x": 148,
+        "y": 112,
+        "z": 88
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 39,
+      "coordinates": {
+        "x": 149,
+        "y": 116,
+        "z": 115
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 40,
+      "coordinates": {
+        "x": 111,
+        "y": 120,
+        "z": 127
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 41,
+      "coordinates": {
+        "x": 96,
+        "y": 106,
+        "z": 121
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 42,
+      "coordinates": {
+        "x": 86,
+        "y": 89,
+        "z": 66
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 43,
+      "coordinates": {
+        "x": -195,
+        "y": 55,
+        "z": 153
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 44,
+      "coordinates": {
+        "x": -152,
+        "y": 67,
+        "z": 123
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 45,
+      "coordinates": {
+        "x": 87,
+        "y": 77,
+        "z": 43
+      }
+    },
+    {
+      "location": "THAUMATURGIST",
+      "number": 46,
+      "coordinates": {
+        "x": 44,
+        "y": 68,
+        "z": -34
+      }
+    },
+    {
+      "location": "AUCTION_HOUSE",
+      "number": 47,
+      "coordinates": {
+        "x": -53,
+        "y": 70,
+        "z": -100
+      }
+    },
+    {
+      "location": "MINE",
+      "number": 48,
+      "coordinates": {
+        "x": -6,
+        "y": 66,
+        "z": -179
+      }
+    },
+    {
+      "location": "FARM",
+      "number": 49,
+      "coordinates": {
+        "x": 34,
+        "y": 72,
+        "z": -162
+      }
+    },
+    {
+      "location": "FOREST",
+      "number": 50,
+      "coordinates": {
+        "x": -142,
+        "y": 77,
+        "z": -31
+      }
+    },
+    {
+      "location": "FOREST",
+      "number": 51,
+      "coordinates": {
+        "x": -208,
+        "y": 70,
+        "z": -80
+      }
+    },
+    {
+      "location": "FARM",
+      "number": 52,
+      "coordinates": {
+        "x": 72,
+        "y": 71,
+        "z": -190
+      }
+    },
+    {
+      "location": "DANGER",
+      "number": 53,
+      "coordinates": {
+        "x": -94,
+        "y": 72,
+        "z": -129
+      }
+    },
+    {
+      "location": "RABBIT_HOUSE",
+      "number": 54,
+      "coordinates": {
+        "x": 9,
+        "y": 75,
+        "z": 13
+      }
+    },
+    {
+      "location": "FISHERMAN_HUT",
+      "number": 55,
+      "coordinates": {
+        "x": 171,
+        "y": 64,
+        "z": 42
+      }
+    },
+    {
+      "location": "COLOSSEUM",
+      "number": 56,
+      "coordinates": {
+        "x": 154,
+        "y": 98,
+        "z": -71
+      }
+    },
+    {
+      "location": "FARM",
+      "number": 57,
+      "coordinates": {
+        "x": 104,
+        "y": 77,
+        "z": -133
+      }
+    },
+    {
+      "location": "BANK",
+      "number": 58,
+      "coordinates": {
+        "x": -24,
+        "y": 88,
+        "z": -63
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 59,
+      "coordinates": {
+        "x": -183,
+        "y": 80,
+        "z": 29
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 60,
+      "coordinates": {
+        "x": -133,
+        "y": 74,
+        "z": 133
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 61,
+      "coordinates": {
+        "x": 48,
+        "y": 78,
+        "z": 81
+      }
+    },
+    {
+      "location": "WIZARD_TOWER",
+      "number": 62,
+      "coordinates": {
+        "x": 43,
+        "y": 120,
+        "z": 70
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 63,
+      "coordinates": {
+        "x": -81,
+        "y": 70,
+        "z": -88
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 64,
+      "coordinates": {
+        "x": -49,
+        "y": 90,
+        "z": -72
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 65,
+      "coordinates": {
+        "x": 22,
+        "y": 132,
+        "z": 25
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 66,
+      "coordinates": {
+        "x": -166,
+        "y": 79,
+        "z": 93
+      }
+    },
+    {
+      "location": "FOREST",
+      "number": 67,
+      "coordinates": {
+        "x": -225,
+        "y": 72,
+        "z": -21
+      }
+    },
+    {
+      "location": "MOUNTAIN",
+      "number": 68,
+      "coordinates": {
+        "x": -32,
+        "y": 71,
+        "z": 21
+      }
+    },
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 69,
+      "coordinates": {
+        "x": 180,
+        "y": 63,
+        "z": -15
+      }
+    },
+    {
+      "location": "FISHING_OUTPOST",
+      "number": 70,
+      "coordinates": {
+        "x": 147,
+        "y": 53,
+        "z": 88
+      }
+    },
+    {
+      "location": "COLOSSEUM",
+      "number": 71,
+      "coordinates": {
+        "x": 168,
+        "y": 60,
+        "z": -36
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 72,
+      "coordinates": {
+        "x": 162,
+        "y": 46,
+        "z": 69
+      }
+    },
+    {
+      "location": "FARM",
+      "number": 73,
+      "coordinates": {
+        "x": 70,
+        "y": 90,
+        "z": -149
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 74,
+      "coordinates": {
+        "x": 138,
+        "y": 66,
+        "z": 129
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 75,
+      "coordinates": {
+        "x": 72,
+        "y": 70,
+        "z": -99
+      }
+    },
+    {
+      "location": "WILDERNESS",
+      "number": 76,
+      "coordinates": {
+        "x": 169,
+        "y": 60,
+        "z": 129
+      }
+    },
+    {
+      "location": "RUINS",
+      "number": 77,
+      "coordinates": {
+        "x": -248,
+        "y": 74,
+        "z": 125
+      }
+    },
+    {
+      "location": "MINE",
+      "number": 78,
+      "coordinates": {
+        "x": -33,
+        "y": 76,
+        "z": -213
+      }
+    },
+    {
+      "location": "CATACOMBS_ENTRANCE",
+      "number": 79,
+      "coordinates": {
+        "x": -92,
+        "y": 59,
+        "z": -138
+      }
+    },
+    {
+      "location": "PET_CARE",
+      "number": 80,
+      "coordinates": {
+        "x": 30,
+        "y": 80,
+        "z": -94
+      }
+    }
+  ]
+}

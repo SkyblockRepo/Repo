@@ -1,0 +1,87 @@
+{
+  "internalId": "FLOATING_ISLANDS_3",
+  "name": "Dark Thicket",
+  "source": "HypixelWiki",
+  "discoveryText": "Dark Thicket\nChop down Dark Oak logs.\nTalk to Ryan about the Trial of Fire.",
+  "npcs": [
+    {
+      "link": "Campfire Adept",
+      "name": "Campfire Adept"
+    },
+    {
+      "link": "Campfire Initiate",
+      "name": "Campfire Initiate"
+    },
+    {
+      "link": "Ryan",
+      "name": "Ryan"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "FLOATING_ISLANDS_3",
+      "number": 11,
+      "coordinates": {
+        "x": -370,
+        "y": 112,
+        "z": -118
+      }
+    }
+  ]
+}

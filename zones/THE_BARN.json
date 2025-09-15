@@ -1,0 +1,181 @@
+{
+  "internalId": "THE_BARN",
+  "name": "The Barn",
+  "source": "HypixelWiki",
+  "discoveryText": "The Barn\nHarvest Wheat, Carrots, Potatoes, Pumpkins, and Melons.\nKill cows, chickens, and pigs.\nMilk cows.",
+  "npcs": [
+    {
+      "link": "Beth",
+      "name": "Beth"
+    },
+    {
+      "link": "Farmer Jon",
+      "name": "Farmer Jon"
+    },
+    {
+      "link": "Farmhand",
+      "name": "Farmhand"
+    },
+    {
+      "link": "Friendly Hiker",
+      "name": "Friendly Hiker"
+    },
+    {
+      "link": "Hungry Hiker",
+      "name": "Hungry Hiker"
+    },
+    {
+      "link": "Hunter Ava",
+      "name": "Hunter Ava"
+    },
+    {
+      "link": "Jake",
+      "name": "Jake"
+    },
+    {
+      "link": "Mason",
+      "name": "Mason"
+    },
+    {
+      "link": "Moby",
+      "name": "Moby"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Shepherd",
+      "name": "Shepherd"
+    },
+    {
+      "link": "Talbot",
+      "name": "Talbot"
+    },
+    {
+      "link": "Tammy",
+      "name": "Tammy"
+    },
+    {
+      "link": "Tony",
+      "name": "Tony"
+    },
+    {
+      "link": "Treasure Hunter",
+      "name": "Treasure Hunter"
+    },
+    {
+      "link": "Trevor",
+      "name": "Trevor"
+    },
+    {
+      "link": "Windmill Operator",
+      "name": "Windmill Operator"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Chicken (Mob)|Chicken",
+      "name": "Chicken"
+    },
+    {
+      "link": "Cow",
+      "name": "Cow"
+    },
+    {
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
+    },
+    {
+      "link": "Pig",
+      "name": "Pig"
+    },
+    {
+      "link": "Rabbit",
+      "name": "Rabbit"
+    },
+    {
+      "link": "Sheep",
+      "name": "Sheep"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Leather",
+      "name": "Leather"
+    },
+    {
+      "link": "Raw Beef",
+      "name": "Raw Beef"
+    },
+    {
+      "link": "Red Mushroom",
+      "name": "Red Mushroom"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "THE_BARN",
+      "number": 1,
+      "coordinates": {
+        "x": 96,
+        "y": 96,
+        "z": -287
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 2,
+      "coordinates": {
+        "x": 182,
+        "y": 99,
+        "z": -235
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 3,
+      "coordinates": {
+        "x": 183,
+        "y": 99,
+        "z": -305
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 4,
+      "coordinates": {
+        "x": 126,
+        "y": 91,
+        "z": -304
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 5,
+      "coordinates": {
+        "x": 99,
+        "y": 112,
+        "z": -275
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 6,
+      "coordinates": {
+        "x": 143,
+        "y": 90,
+        "z": -243
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 7,
+      "coordinates": {
+        "x": 155,
+        "y": 23,
+        "z": -204
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "internalId": "DESERT_MOUNTAIN",
+  "name": "Desert Mountain",
+  "source": "HypixelWiki",
+  "discoveryText": "Desert Mountain\nFind Jake.",
+  "npcs": [],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "DESERT_MOUNTAIN",
+      "number": 9,
+      "coordinates": {
+        "x": 263,
+        "y": 177,
+        "z": -565
+      }
+    },
+    {
+      "location": "DESERT_MOUNTAIN",
+      "number": 11,
+      "coordinates": {
+        "x": 273,
+        "y": 141,
+        "z": -467
+      }
+    }
+  ]
+}

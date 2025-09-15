@@ -1,0 +1,231 @@
+{
+  "internalId": "DRAGONTAIL_TOWN",
+  "name": "Dragontail",
+  "source": "HypixelWiki",
+  "discoveryText": "Dragontail\nMeet the Piglins, members of the Barbarian Faction.\nTalk to Chief Scorn.\nEarn Reputation through the daily Town Board missions.",
+  "npcs": [
+    {
+      "link": "An",
+      "name": "An"
+    },
+    {
+      "link": "Barbarian Emissary",
+      "name": "Barbarian Emissary"
+    },
+    {
+      "link": "Bruuh",
+      "name": "Bruuh"
+    },
+    {
+      "link": "Captain Ahone",
+      "name": "Captain Ahone"
+    },
+    {
+      "link": "Chak",
+      "name": "Chak"
+    },
+    {
+      "link": "Chihai",
+      "name": "Chihai"
+    },
+    {
+      "link": "Chuk",
+      "name": "Chuk"
+    },
+    {
+      "link": "Deng",
+      "name": "Deng"
+    },
+    {
+      "link": "Elle",
+      "name": "Elle"
+    },
+    {
+      "link": "Etc",
+      "name": "Etc"
+    },
+    {
+      "link": "Forast",
+      "name": "Forast"
+    },
+    {
+      "link": "Gris",
+      "name": "Gris"
+    },
+    {
+      "link": "Grog",
+      "name": "Grog"
+    },
+    {
+      "link": "Jine",
+      "name": "Jine"
+    },
+    {
+      "link": "Kaus",
+      "name": "Kaus"
+    },
+    {
+      "link": "Keran",
+      "name": "Keran"
+    },
+    {
+      "link": "Kutral",
+      "name": "Kutral"
+    },
+    {
+      "link": "Kuudra Archaeologist",
+      "name": "Kuudra Archaeologist"
+    },
+    {
+      "link": "Lasea",
+      "name": "Lasea"
+    },
+    {
+      "link": "Maggie",
+      "name": "Maggie"
+    },
+    {
+      "link": "Nall",
+      "name": "Nall"
+    },
+    {
+      "link": "Nuvian",
+      "name": "Nuvian"
+    },
+    {
+      "link": "Pam",
+      "name": "Pam"
+    },
+    {
+      "link": "Plenk",
+      "name": "Plenk"
+    },
+    {
+      "link": "Pomtair",
+      "name": "Pomtair"
+    },
+    {
+      "link": "Porc",
+      "name": "Porc"
+    },
+    {
+      "link": "Prie",
+      "name": "Prie"
+    },
+    {
+      "link": "Rescue Recruiter",
+      "name": "Rescue Recruiter"
+    },
+    {
+      "link": "Sirih",
+      "name": "Sirih"
+    },
+    {
+      "link": "Sirih",
+      "name": "Sirih"
+    },
+    {
+      "link": "Strux",
+      "name": "Strux"
+    },
+    {
+      "link": "Suus",
+      "name": "Suus"
+    },
+    {
+      "link": "Truu",
+      "name": "Truu"
+    },
+    {
+      "link": "Turd",
+      "name": "Turd"
+    },
+    {
+      "link": "Ugo",
+      "name": "Ugo"
+    },
+    {
+      "link": "Yoink",
+      "name": "Yoink"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Flaming Spider",
+      "name": "Flaming Spider"
+    },
+    {
+      "link": "Magma Cube Rider",
+      "name": "Magma Cube Rider"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Burning Eye",
+      "name": "Burning Eye"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Magma Chunk",
+      "name": "Magma Chunk"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 2,
+      "coordinates": {
+        "x": -690,
+        "y": 122,
+        "z": -752
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 3,
+      "coordinates": {
+        "x": -606,
+        "y": 154,
+        "z": -800
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 15,
+      "coordinates": {
+        "x": -726,
+        "y": 144,
+        "z": -891
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 3,
+      "coordinates": {
+        "x": -721,
+        "y": 125,
+        "z": -811
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 10,
+      "coordinates": {
+        "x": -644,
+        "y": 125,
+        "z": -689
+      }
+    }
+  ]
+}

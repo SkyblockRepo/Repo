@@ -1,0 +1,28 @@
+{
+  "internalId": "MAGMA_CHAMBER",
+  "name": "Magma Chamber",
+  "source": "HypixelWiki",
+  "discoveryText": "Magma Chamber\nWatch out for fireballs!\nFight the Magma Cube Boss.\nBeware of lava.",
+  "npcs": [],
+  "mobs": [
+    {
+      "link": "Flare",
+      "name": "Flare"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blaze Rod",
+      "name": "Blaze Rod"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Gazing Pearl",
+      "name": "Gazing Pearl"
+    }
+  ],
+  "fairySouls": []
+}

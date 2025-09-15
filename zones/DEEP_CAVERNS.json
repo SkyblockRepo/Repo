@@ -1,0 +1,383 @@
+{
+  "internalId": "DEEP_CAVERNS",
+  "name": "Deep Caverns",
+  "source": "HypixelWiki",
+  "discoveryText": "Deep Caverns\nTalk to the Lift Operator.\nMine valuable ores.\nWatch out for mobs!",
+  "npcs": [
+    {
+      "link": "Lapis Miner",
+      "name": "Lapis Miner"
+    },
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    },
+    {
+      "link": "Redstone Miner",
+      "name": "Redstone Miner"
+    },
+    {
+      "link": "Rhys",
+      "name": "Rhys"
+    },
+    {
+      "link": "Walter",
+      "name": "Walter"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Emerald Slime",
+      "name": "Emerald Slime"
+    },
+    {
+      "link": "Lapis Zombie",
+      "name": "Lapis Zombie"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Miner Skeleton",
+      "name": "Miner Skeleton"
+    },
+    {
+      "link": "Miner Zombie",
+      "name": "Miner Zombie"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Redstone Pigman",
+      "name": "Redstone Pigman"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Sneaky Creeper",
+      "name": "Sneaky Creeper"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Exp Share Core",
+      "name": "Exp Share Core"
+    },
+    {
+      "link": "Flaming Sword",
+      "name": "Flaming Sword"
+    },
+    {
+      "link": "Gold Nugget",
+      "name": "Gold Nugget"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Gunpowder",
+      "name": "Gunpowder"
+    },
+    {
+      "link": "Lapis Armor Boots",
+      "name": "Lapis Armor Boots"
+    },
+    {
+      "link": "Lapis Armor Chestplate",
+      "name": "Lapis Armor Chestplate"
+    },
+    {
+      "link": "Lapis Armor Helmet",
+      "name": "Lapis Armor Helmet"
+    },
+    {
+      "link": "Lapis Armor Leggings",
+      "name": "Lapis Armor Leggings"
+    },
+    {
+      "link": "Lapis Crystal",
+      "name": "Lapis Crystal"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Miner Boots",
+      "name": "Miner Boots"
+    },
+    {
+      "link": "Miner Boots",
+      "name": "Miner Boots"
+    },
+    {
+      "link": "Miner Chestplate",
+      "name": "Miner Chestplate"
+    },
+    {
+      "link": "Miner Chestplate",
+      "name": "Miner Chestplate"
+    },
+    {
+      "link": "Miner Helmet",
+      "name": "Miner Helmet"
+    },
+    {
+      "link": "Miner Helmet",
+      "name": "Miner Helmet"
+    },
+    {
+      "link": "Miner Leggings",
+      "name": "Miner Leggings"
+    },
+    {
+      "link": "Miner Leggings",
+      "name": "Miner Leggings"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Redstone",
+      "name": "Redstone"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "Slimeball",
+      "name": "Slimeball"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "DEEP_CAVERNS_ROOM_1",
+      "number": 1,
+      "coordinates": {
+        "x": 22,
+        "y": 156,
+        "z": -42
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS",
+      "number": 2,
+      "coordinates": {
+        "x": 3,
+        "y": 152,
+        "z": 85
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS",
+      "number": 3,
+      "coordinates": {
+        "x": 71,
+        "y": 167,
+        "z": -12
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS",
+      "number": 4,
+      "coordinates": {
+        "x": -2,
+        "y": 255,
+        "z": -1
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS",
+      "number": 5,
+      "coordinates": {
+        "x": 3,
+        "y": 182,
+        "z": 50
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS",
+      "number": 6,
+      "coordinates": {
+        "x": 9,
+        "y": 170,
+        "z": 44
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_1",
+      "number": 7,
+      "coordinates": {
+        "x": 57,
+        "y": 161,
+        "z": 19
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_1",
+      "number": 8,
+      "coordinates": {
+        "x": -18,
+        "y": 163,
+        "z": 26
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_1",
+      "number": 9,
+      "coordinates": {
+        "x": 29,
+        "y": 149,
+        "z": 14
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_2",
+      "number": 10,
+      "coordinates": {
+        "x": -35,
+        "y": 127,
+        "z": 28
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_3",
+      "number": 11,
+      "coordinates": {
+        "x": 44,
+        "y": 98,
+        "z": 23
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_3",
+      "number": 12,
+      "coordinates": {
+        "x": -11,
+        "y": 102,
+        "z": -16
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 13,
+      "coordinates": {
+        "x": 18,
+        "y": 74,
+        "z": 74
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 14,
+      "coordinates": {
+        "x": 0,
+        "y": 65,
+        "z": 57
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 15,
+      "coordinates": {
+        "x": -40,
+        "y": 72,
+        "z": 0
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_4",
+      "number": 16,
+      "coordinates": {
+        "x": -8,
+        "y": 74,
+        "z": -44
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_5",
+      "number": 17,
+      "coordinates": {
+        "x": -60,
+        "y": 37,
+        "z": 52
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_5",
+      "number": 18,
+      "coordinates": {
+        "x": -21,
+        "y": 25,
+        "z": 72
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_6",
+      "number": 19,
+      "coordinates": {
+        "x": 3,
+        "y": 14,
+        "z": 51
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_6",
+      "number": 20,
+      "coordinates": {
+        "x": -71,
+        "y": 13,
+        "z": 5
+      }
+    },
+    {
+      "location": "DEEP_CAVERNS_ROOM_6",
+      "number": 21,
+      "coordinates": {
+        "x": -76,
+        "y": 13,
+        "z": 24
+      }
+    }
+  ]
+}

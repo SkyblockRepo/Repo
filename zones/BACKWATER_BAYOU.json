@@ -1,0 +1,73 @@
+{
+  "internalId": "BACKWATER_BAYOU",
+  "name": "Backwater Bayou",
+  "source": "HypixelWiki",
+  "discoveryText": "Backwater Bayou\nTalk to Junker Joel about Junk, and how to trade it for valuable items!\nAdd and remove Rod Parts at Roddy.\nFish Bayou Sea Creatures.\nLearn about Fishing Hotspots from Hattie.",
+  "npcs": [
+    {
+      "link": "Captain Baha",
+      "name": "Captain Baha"
+    },
+    {
+      "link": "Hattie",
+      "name": "Hattie"
+    },
+    {
+      "link": "Junker Joel",
+      "name": "Junker Joel"
+    },
+    {
+      "link": "Roddy",
+      "name": "Roddy"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "BACKWATER_BAYOU",
+      "number": 1,
+      "coordinates": {
+        "x": 33,
+        "y": 61,
+        "z": -41
+      }
+    },
+    {
+      "location": "BACKWATER_BAYOU",
+      "number": 2,
+      "coordinates": {
+        "x": 62,
+        "y": 76,
+        "z": 5
+      }
+    },
+    {
+      "location": "BACKWATER_BAYOU",
+      "number": 3,
+      "coordinates": {
+        "x": 16,
+        "y": 59,
+        "z": -7
+      }
+    },
+    {
+      "location": "BACKWATER_BAYOU",
+      "number": 4,
+      "coordinates": {
+        "x": 72,
+        "y": 115,
+        "z": -12
+      }
+    },
+    {
+      "location": "BACKWATER_BAYOU",
+      "number": 5,
+      "coordinates": {
+        "x": 2,
+        "y": 67,
+        "z": 10
+      }
+    }
+  ]
+}

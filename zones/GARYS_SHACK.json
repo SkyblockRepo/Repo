@@ -1,0 +1,25 @@
+{
+  "internalId": "GARYS_SHACK",
+  "name": "Gary's Shack",
+  "source": "HypixelWiki",
+  "discoveryText": "Gary's Shack\nTalk to Gary.\nAdmire his snow machine.",
+  "npcs": [
+    {
+      "link": "Gary",
+      "name": "Gary"
+    }
+  ],
+  "mobs": [],
+  "mobDrops": [],
+  "fairySouls": [
+    {
+      "location": "GARYS_SHACK",
+      "number": 4,
+      "coordinates": {
+        "x": 56,
+        "y": 108,
+        "z": 64
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "internalId": "ENDERDRAGON_BOSS_ROOM",
+  "name": "Dragon's Nest",
+  "source": "HypixelWiki",
+  "discoveryText": "Dragon's Nest\nSummon the Ender Dragon!\nFight Zealots.",
+  "npcs": [
+    {
+      "link": "Gregory",
+      "name": "Gregory"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Obsidian Defender",
+      "name": "Obsidian Defender"
+    },
+    {
+      "link": "Voidling Fanatic",
+      "name": "Voidling Fanatic"
+    },
+    {
+      "link": "Seer",
+      "name": "Seer"
+    },
+    {
+      "link": "Zealot",
+      "name": "Zealot"
+    },
+    {
+      "link": "Zealot Bruiser",
+      "name": "Zealot Bruiser"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Combat Exp Boost",
+      "name": "Combat Exp Boost"
+    },
+    {
+      "link": "Combat Exp Boost",
+      "name": "Combat Exp Boost"
+    },
+    {
+      "link": "Enchanted Bone",
+      "name": "Enchanted Bone"
+    },
+    {
+      "link": "Enchanted Ender Pearl",
+      "name": "Enchanted Ender Pearl"
+    },
+    {
+      "link": "Enchanted Obsidian",
+      "name": "Enchanted Obsidian"
+    },
+    {
+      "link": "End Stone Bow",
+      "name": "End Stone Bow"
+    },
+    {
+      "link": "Ender Belt",
+      "name": "Ender Belt"
+    },
+    {
+      "link": "Ender Cloak",
+      "name": "Ender Cloak"
+    },
+    {
+      "link": "Ender Monocle",
+      "name": "Ender Monocle"
+    },
+    {
+      "link": "Ender Pearl",
+      "name": "Ender Pearl"
+    },
+    {
+      "link": "Enderman Pet",
+      "name": "Enderman Pet"
+    },
+    {
+      "link": "Flint Arrow",
+      "name": "Flint Arrow"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Obsidian",
+      "name": "Obsidian"
+    },
+    {
+      "link": "Obsidian Chestplate",
+      "name": "Obsidian Chestplate"
+    },
+    {
+      "link": "Pearlescent Dye",
+      "name": "Pearlescent Dye"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 1,
+      "coordinates": {
+        "x": -723,
+        "y": 75,
+        "z": -222
+      }
+    },
+    {
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 10,
+      "coordinates": {
+        "x": -657,
+        "y": 36,
+        "z": -201
+      }
+    },
+    {
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 12,
+      "coordinates": {
+        "x": -748,
+        "y": 106,
+        "z": -284
+      }
+    }
+  ]
+}

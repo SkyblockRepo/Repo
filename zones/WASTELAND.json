@@ -1,0 +1,112 @@
+{
+  "internalId": "WASTELAND",
+  "name": "The Wasteland",
+  "source": "HypixelWiki",
+  "discoveryText": "The Wasteland\nLook up.",
+  "npcs": [
+    {
+      "link": "Aranya",
+      "name": "Aranya"
+    },
+    {
+      "link": "Aviar",
+      "name": "Aviar"
+    },
+    {
+      "link": "Captain Ahone",
+      "name": "Captain Ahone"
+    },
+    {
+      "link": "Cyndarin",
+      "name": "Cyndarin"
+    },
+    {
+      "link": "Desperate Engineer",
+      "name": "Desperate Engineer"
+    },
+    {
+      "link": "Drakuu",
+      "name": "Drakuu"
+    },
+    {
+      "link": "Elle",
+      "name": "Elle"
+    },
+    {
+      "link": "Gnyl",
+      "name": "Gnyl"
+    },
+    {
+      "link": "Piglin Guard",
+      "name": "Piglin Guard"
+    },
+    {
+      "link": "Ugo",
+      "name": "Ugo"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Dive Ghast",
+      "name": "Dive Ghast"
+    },
+    {
+      "link": "Ghast",
+      "name": "Ghast"
+    },
+    {
+      "link": "Smoldering Blaze",
+      "name": "Smoldering Blaze"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blaze Ashes",
+      "name": "Blaze Ashes"
+    },
+    {
+      "link": "Blaze Rod",
+      "name": "Blaze Rod"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Ghast Tear",
+      "name": "Ghast Tear"
+    },
+    {
+      "link": "Netherrack-Looking Sunshade",
+      "name": "Netherrack-Looking Sunshade"
+    },
+    {
+      "link": "Smoldering Enchantment",
+      "name": "Smoldering I"
+    },
+    {
+      "link": "Tentacle Meat",
+      "name": "Tentacle Meat"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "WASTELAND",
+      "number": 13,
+      "coordinates": {
+        "x": -310,
+        "y": 156,
+        "z": -1008
+      }
+    },
+    {
+      "location": "WASTELAND",
+      "number": 8,
+      "coordinates": {
+        "x": -35,
+        "y": 116,
+        "z": -1055
+      }
+    }
+  ]
+}

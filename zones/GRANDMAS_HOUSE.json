@@ -1,0 +1,59 @@
+{
+  "internalId": "GRANDMAS_HOUSE",
+  "name": "Grandma's House",
+  "source": "HypixelWiki",
+  "discoveryText": "Grandma's House\nTalk to Bramass.\nHelp out little old Grandma.\nFind out how to make Shaggy happy.",
+  "npcs": [
+    {
+      "link": "Bramass Beastslayer",
+      "name": "Bramass Beastslayer"
+    },
+    {
+      "link": "Grandma Wolf",
+      "name": "Grandma Wolf"
+    },
+    {
+      "link": "Shaggy",
+      "name": "Shaggy"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "fairySouls": [
+    {
+      "location": "GRANDMAS_HOUSE",
+      "number": 12,
+      "coordinates": {
+        "x": -279,
+        "y": 127,
+        "z": -177
+      }
+    }
+  ]
+}
