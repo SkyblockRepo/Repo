@@ -4,37 +4,47 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "lore": "{{Item_cocoa_generator_12}}\n\n&7Cost\n&9Cocoa Beans Minion XI\n&9Enchanted Cookie &8x16\n&575 Pelts",
+      "lore": "Cocoa Beans Minion XII\n&7Place this minion and it will start\n&7generating and harvesting cocoa\n&7beans. Requires jungle logs nearby\n&7so cocoa can be placed, or air\n&7nearby so jungle logs can be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Cocoa Beans Minion XI\n&9Enchanted Cookie &8x16\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -50,10 +60,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "COCOA_GENERATOR_12"
+        }
       ]
     },
     "b3": {
-      "lore": "{{Item_pumpkin_generator_12}}\n\n&7Cost\n&9Pumpkin Minion XI\n&aEnchanted Pumpkin &8x1024\n&575 Pelts",
+      "lore": "Pumpkin Minion XII\n&7Place this minion and it will start\n&7generating and harvesting pumpkins!\n&7Requires an open area to place\n&7pumpkins. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Pumpkin Minion XI\n&aEnchanted Pumpkin &8x1024\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -69,10 +85,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PUMPKIN_GENERATOR_12"
+        }
       ]
     },
     "b4": {
-      "lore": "{{Item_chicken_generator_12}}\n\n&7Cost\n&9Chicken Minion XI\n&aEnchanted Raw Chicken &8x1024\n&575 Pelts",
+      "lore": "Chicken Minion XII\n&7Place this minion and it will start\n&7generating and slaying Chickens!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Chicken Minion XI\n&aEnchanted Raw Chicken &8x1024\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -88,10 +110,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CHICKEN_GENERATOR_12"
+        }
       ]
     },
     "b5": {
-      "lore": "{{Item_mushroom_generator_12}}\n\n&7Cost\n&9Mushroom Minion XI\n&aEnchanted Brown Mushroom &8x512\n&aEnchanted Red Mushroom &8x512\n&575 Pelts",
+      "lore": "Mushroom Minion XII\n&7Place this minion and it will start\n&7generating and harvesting red and\n&7brown mushrooms! Requires an area\n&7that is suitable for mushrooms to be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Mushroom Minion XI\n&aEnchanted Brown Mushroom &8x512\n&aEnchanted Red Mushroom &8x512\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -112,10 +140,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_GENERATOR_12"
+        }
       ]
     },
     "b6": {
-      "lore": "{{Item_cactus_generator_12}}\n\n&7Cost\n&9Cactus Minion XI\n&9Enchanted Cactus &8x32\n&575 Pelts",
+      "lore": "Cactus Minion XII\n&7Place this minion and it will start\n&7generating and harvesting cactus.\n&7Requires sand nearby so cacti can\n&7be planted. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Cactus Minion XI\n&9Enchanted Cactus &8x32\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -131,10 +165,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CACTUS_GENERATOR_12"
+        }
       ]
     },
     "b7": {
-      "lore": "{{Item_pig_generator_12}}\n\n&7Cost\n&9Pig Minion XI\n&9Enchanted Grilled Pork &8x16\n&575 Pelts",
+      "lore": "Pig Minion XII\n&7Place this minion and it will start\n&7generating and slaying Pigs! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a10s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Pig Minion XI\n&9Enchanted Grilled Pork &8x16\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -150,10 +190,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PIG_GENERATOR_12"
+        }
       ]
     },
     "b8": {
-      "lore": "{{Item_wheat_generator_12}}\n\n&7Cost\n&9Wheat Minion XI\n&aEnchanted Hay Bale &8x64\n&575 Pelts",
+      "lore": "Wheat Minion XII\n&7Place this minion and it will start\n&7generating and harvesting wheat.\n&7Requires dirt or soil nearby so\n&7wheat can be planted. Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a7s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Wheat Minion XI\n&aEnchanted Hay Bale &8x64\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -169,16 +215,24 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WHEAT_GENERATOR_12"
+        }
       ]
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
-      "lore": "{{Item_cow_generator_12}}\n\n&7Cost\n&9Cow Minion XI\n&aEnchanted Leather &8x512\n&575 Pelts",
+      "lore": "Cow Minion XII\n&7Place this minion and it will start\n&7generating and slaying Cows! Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a10s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Cow Minion XI\n&aEnchanted Leather &8x512\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -194,10 +248,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "COW_GENERATOR_12"
+        }
       ]
     },
     "c3": {
-      "lore": "{{Item_sugar_cane_generator_12}}\n\n&7Cost\n&9Sugar Cane Minion XI\n&9Enchanted Sugar Cane &8x32\n&575 Pelts",
+      "lore": "Sugar Cane Minion XII\n&7Place this minion and it will start\n&7generating and harvesting sugar\n&7canes! Requires an area that is\n&7suitable for sugar cane to be\n&7placed. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a9s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Sugar Cane Minion XI\n&9Enchanted Sugar Cane &8x32\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -213,10 +273,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SUGAR_CANE_GENERATOR_12"
+        }
       ]
     },
     "c4": {
-      "lore": "{{Item_melon_generator_12}}\n\n&7Cost\n&9Melon Minion XI\n&9Enchanted Melon Block &8x32\n&575 Pelts",
+      "lore": "Melon Minion XII\n&7Place this minion and it will start\n&7generating and harvesting melons!\n&7Requires an open area to place\n&7melons. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a10s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Melon Minion XI\n&9Enchanted Melon Block &8x32\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -232,10 +298,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MELON_GENERATOR_12"
+        }
       ]
     },
     "c5": {
-      "lore": "{{Item_nether_warts_generator_12}}\n\n&7Cost\n&9Nether Wart Minion XI\n&aEnchanted Nether Wart &8x1024\n&575 Pelts",
+      "lore": "Nether Wart Minion XII\n&7Place this minion and it will start\n&7generating and harvesting nether\n&7warts. Requires soul sand nearby so\n&7nether warts can be planted. Minions\n&7also work when you are offline!\n\n&7Time Between Actions: &a27s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Nether Wart Minion XI\n&aEnchanted Nether Wart &8x1024\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -251,10 +323,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_WARTS_GENERATOR_12"
+        }
       ]
     },
     "c6": {
-      "lore": "{{Item_carrot_generator_12}}\n\n&7Cost\n&9Carrot Minion XI\n&aEnchanted Golden Carrot &8x32\n&575 Pelts",
+      "lore": "Carrot Minion XII\n&7Place this minion and it will start\n&7generating and harvesting carrots.\n&7Requires dirt or soil nearby so\n&7carrots can be planted. Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a8s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Carrot Minion XI\n&aEnchanted Golden Carrot &8x32\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -270,10 +348,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CARROT_GENERATOR_12"
+        }
       ]
     },
     "c7": {
-      "lore": "{{Item_potato_generator_12}}\n\n&7Cost\n&9Potato Minion XI\n&aEnchanted Baked Potato &8x32\n&575 Pelts",
+      "lore": "Potato Minion XII\n&7Place this minion and it will start\n&7generating and harvesting potatoes.\n&7Requires dirt or soil nearby so\n&7potatoes can be planted. Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a8s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Potato Minion XI\n&aEnchanted Baked Potato &8x32\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -289,10 +373,16 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "POTATO_GENERATOR_12"
+        }
       ]
     },
     "c8": {
-      "lore": "{{Item_sheep_generator_12}}\n\n&7Cost\n&9Sheep Minion XI\n&9Enchanted Cooked Mutton &8x16\n&575 Pelts",
+      "lore": "Sheep Minion XII\n&7Place this minion and it will start\n&7generating and slaying Sheep!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a9s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Sheep Minion XI\n&9Enchanted Cooked Mutton &8x16\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -308,16 +398,24 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SHEEP_GENERATOR_12"
+        }
       ]
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
-      "lore": "{{Item_rabbit_generator_12}}\n\n&7Cost\n&9Rabbit Minion XI\n&9Enchanted Rabbit Hide &8x1024\n&575 Pelts",
+      "lore": "Rabbit Minion XII\n&7Place this minion and it will start\n&7generating and slaying Rabbits!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a10s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Rabbit Minion XI\n&9Enchanted Rabbit Hide &8x1024\n&575 Pelts",
       "cost": [
         {
           "type": "ITEM",
@@ -333,28 +431,41 @@
           "type": "PELTS",
           "amount": 75
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RABBIT_GENERATOR_12"
+        }
       ]
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f5": {
       "material": "hopper",
@@ -367,13 +478,16 @@
       "lore": "&dPelts: &50\n&7Pelts are earned from &ehunting\n&7special animals on this\n&7island. Talk to &aTrevor &7to\n&7receive &dtasks &7to find and\n&7kill these animals."
     },
     "f7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "6"

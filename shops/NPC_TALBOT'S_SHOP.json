@@ -4,47 +4,77 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/TRAPPER_DEN_TRAVEL_SCROLL|lore}}\n\n&7Cost\n&5100 Pelts\n\n&eClick to trade!",
+      "lore": "Travel Scroll to the Trapper's Den\n&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Island: &aMushroom Desert\n&7Teleport: &eTrapper's Den\n\n&9&lRARE TRAVEL SCROLL&r\n\n&7Cost\n&5100 Pelts\n\n&eClick to trade!",
       "cost": [
         {
           "type": "PELTS",
           "amount": 100
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TRAPPER_DEN_TRAVEL_SCROLL"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/TALBOTS_THEODOLITE|lore}}\n\n&7Cost\n&580 Pelts\n\n&eClick to trade!",
+      "lore": "Talbot's Theodolite\n&6Ability: Track  &e&lRIGHT CLICK&r\n&7Indicates the approximate height difference\n&7and angle between you and your tracked mob.\n&8Mana Cost: &3100\n&8Cooldown: &a10s\n\n&9&lRARE&r\n\n&7Cost\n&580 Pelts\n\n&eClick to trade!",
       "cost": [
         {
           "type": "PELTS",
           "amount": 80
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TALBOTS_THEODOLITE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/PELT_BELT|lore}}\n\n&7Cost\n&5250 Pelts\n\n&eClick to trade!",
+      "lore": "Pelt Belt\n&7Farming Wisdom: &a+1\n\n&7&7Gain &f+30✦ Speed &7while in the\n&7&eMushroom Desert&7.\n&7&7Earn &5+1 pelt &7from tracker quests.\n\n&7&8This item can be reforged!\n&5&lEPIC BELT&r\n\n&7Cost\n&5250 Pelts\n\n&eClick to trade!",
       "cost": [
         {
           "type": "PELTS",
           "amount": 250
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PELT_BELT"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/TRAPPER_CREST|lore}}\n\n&7Cost\n&5340 Pelts\n\n&eClick to trade!",
+      "lore": "Trapper Crest\n&7Upgrades to &a&lUNCOMMON &r&7if you\n&7collect &5500 pelts &7while &eFinnegan &7is in\n&7office.\n\n&7Collected: &50 pelts\n\n&7Increases the odds of finding\n&7&5&lENDANGERED &r&7or &6&lELUSIVE &r&7mobs by\n&7&a10%&7.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&5340 Pelts\n\n&eClick to trade!",
       "cost": [
         {
           "type": "PELTS",
           "amount": 340
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TRAPPER_CREST"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/BROWN_BANDANA|lore}}\n\n&7Cost\n&5200 Pelts\n\n&eClick to trade!",
+      "lore": "Brown Bandana\n&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Gain &2+0.2ൠ Bonus Pest Chance &7for\n&7every &3Pest Bestiary &7tier unlocked.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&9&lRARE PET ITEM&r\n\n&7Cost\n&5200 Pelts\n\n&eClick to trade!",
       "cost": [
         {
           "type": "PELTS",
           "amount": 200
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BROWN_BANDANA"
         }
       ]
     },
@@ -55,14 +85,26 @@
           "type": "PELTS",
           "amount": 40
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "potion_stinky_cheese_1"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/PEST_VEST|lore}}\n\n&7Cost\n&5250 Pelts\n\n&eClick to trade!",
+      "lore": "Pest Vest\n&7Bonus Pest Chance: &a+10%\n\n&7Decreases the spawn cooldown of\n&7&2Pests &7by &a15%&7.\n\n&7&8This item can be reforged!\n&5&lEPIC CLOAK&r\n\n&7Cost\n&5250 Pelts\n\n&eClick to trade!",
       "cost": [
         {
           "type": "PELTS",
           "amount": 250
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PEST_VEST"
         }
       ]
     }

@@ -4,77 +4,117 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "lore": "{{Item_mercenary_axe}}\n\n&7Cost\n&630,000 Coins",
+      "lore": "Mercenary Sword\n&7Damage: &c+70\n&7Strength: &c+20\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&9&lRARE SWORD&r\n\n&7Cost\n&630,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 30000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MERCENARY_AXE"
+        }
       ]
     },
     "b3": {
-      "lore": "{{Item_mercenary_helmet}}\n\n&7Cost\n&635,000 Coins",
+      "lore": "Mercenary Helmet\n&7Health: &a+40\n&7Defense: &a+40\n\n&6Full Set Bonus: Death Tax &7(0/4)\n&7Earn &6+5 coins &7and heal &c20❤ &7each kill.\n&8Only against level 10+ mobs!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 8&c.\n&9&lRARE HELMET&r\n\n&7Cost\n&635,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 35000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MERCENARY_HELMET"
+        }
       ]
     },
     "b4": {
-      "lore": "{{Item_mercenary_chestplate}}\n\n&7Cost\n&670,000 Coins",
+      "lore": "Mercenary Chestplate\n&7Health: &a+70\n&7Defense: &a+70\n\n&6Full Set Bonus: Death Tax &7(0/4)\n&7Earn &6+5 coins &7and heal &c20❤ &7each kill.\n&8Only against level 10+ mobs!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 8&c.\n&9&lRARE CHESTPLATE&r\n\n&7Cost\n&670,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 70000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MERCENARY_CHESTPLATE"
+        }
       ]
     },
     "b5": {
-      "lore": "{{Item_mercenary_leggings}}\n\n&7Cost\n&645,000 Coins",
+      "lore": "Mercenary Leggings\n&7Health: &a+60\n&7Defense: &a+60\n\n&6Full Set Bonus: Death Tax &7(0/4)\n&7Earn &6+5 coins &7and heal &c20❤ &7each kill.\n&8Only against level 10+ mobs!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 8&c.\n&9&lRARE LEGGINGS&r\n\n&7Cost\n&645,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 45000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MERCENARY_LEGGINGS"
+        }
       ]
     },
     "b6": {
-      "lore": "{{Item_mercenary_boots}}\n\n&7Cost\n&630,000 Coins",
+      "lore": "Mercenary Boots\n&7Health: &a+30\n&7Defense: &a+30\n\n&6Full Set Bonus: Death Tax &7(0/4)\n&7Earn &6+5 coins &7and heal &c20❤ &7each kill.\n&8Only against level 10+ mobs!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 8&c.\n&9&lRARE BOOTS&r\n\n&7Cost\n&630,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 30000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MERCENARY_BOOTS"
         }
       ]
     },
@@ -85,10 +125,12 @@
       "lore": ""
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
       "lore": ""
@@ -112,10 +154,12 @@
       "lore": ""
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
       "lore": ""
@@ -139,10 +183,12 @@
       "lore": ""
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e2": {
       "lore": ""
@@ -166,16 +212,20 @@
       "lore": ""
     },
     "e9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f4": {
       "material": "arrow",
@@ -188,16 +238,20 @@
       "lore": "&7Click items in your inventory to\n&7sell them to this Shop!"
     },
     "f6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "6"

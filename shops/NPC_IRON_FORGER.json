@@ -4,11 +4,17 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/IRON_INGOT|lore}}\n\n&7Cost\n&6100 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Iron Ingot\n&7&8Collection Item\n\n&f&lCOMMON ORE&r\n\n&7Cost\n&6100 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 100
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "IRON_INGOT"
         }
       ]
     },

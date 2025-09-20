@@ -4,7 +4,7 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/KALHUIKI_MASK|lore}}\n\n&7Cost\n&fOak Planks &8x20\n&aSludge Juice &8x20\n\n&eClick to trade!",
+      "lore": "Kalhuiki Mask\n&7Health: &a+100\n&7Defense: &a+50\n\n&7&7A ceremonial mask worn by the\n&7members of the Kalhuiki Tribe.\n&7\n&7&7While wearing this mask, members of\n&7the Kalhuiki Tribe will not attack you!\n\n&7&8This item can be reforged!\n&f&lCOMMON HELMET&r\n\n&7Cost\n&fOak Planks &8x20\n&aSludge Juice &8x20\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -16,10 +16,16 @@
           "item_id": "SLUDGE_JUICE",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KALHUIKI_MASK"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/JUNGLE_AMULET|lore}}\n\n&7Cost\n&6Jungle Heart &8x4\n&aSludge Juice &8x500\n\n&eClick to trade!",
+      "lore": "Jungle Amulet\n&7Gemstone Fortune: &a+10\n\n&a&lUNCOMMON ACCESSORY&r\n\n&7Cost\n&6Jungle Heart &8x4\n&aSludge Juice &8x500\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -31,10 +37,16 @@
           "item_id": "SLUDGE_JUICE",
           "amount": 500
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "JUNGLE_AMULET"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/TRIBAL_SPEAR|lore}}\n\n&7Cost\n&6Jungle Heart\n&aSludge Juice &8x100\n\n&eClick to trade!",
+      "lore": "Tribal Spear\n&7Strength: &c+100\n\n&6Ability: Thwack  &e&lRIGHT CLICK&r\n&7Throw the spear like an arrow which\n&7will return to you.\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r\n\n&7Cost\n&6Jungle Heart\n&aSludge Juice &8x100\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -46,35 +58,59 @@
           "item_id": "SLUDGE_JUICE",
           "amount": 100
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TRIBAL_SPEAR"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/JUNGLE_PICKAXE|lore}}\n\n&7Cost\n&aSludge Juice &8x200\n\n&eClick to trade!",
+      "lore": "Jungle Pickaxe\n&8Breaking Power 5\n\n&7Damage: &c+50\n&7Mining Speed: &a+330\n\n&7Gives a chance to drop &aSludge Juice\n&a&7when mining in the &2Jungle &7of the\n&7&5Crystal Hollows&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 3&c.\n&a&lUNCOMMON PICKAXE&r\n\n&7Cost\n&aSludge Juice &8x200\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SLUDGE_JUICE",
           "amount": 200
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "JUNGLE_PICKAXE"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/JUNGLE_KEY|lore}}\n\n&7Cost\n&aSludge Juice &8x100\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Jungle Key\n&7&7Used to open the entrance to the\n&7Jungle Temple.\n\n&5&lEPIC&r\n\n&7Cost\n&aSludge Juice &8x100\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SLUDGE_JUICE",
           "amount": 100
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "JUNGLE_KEY"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/ROUGH_AMETHYST_GEM|lore}}\n\n&7Cost\n&aSludge Juice\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Rough Amethyst Gemstone\n&7&8Collection Item\n\n&7Harvested from the plentiful\n&7gemstone veins in the &5Crystal Hollows&7.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&a❈ Defense&7.\n\n&f&lCOMMON GEMSTONE&r\n\n&7Cost\n&aSludge Juice\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SLUDGE_JUICE",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ROUGH_AMETHYST_GEM"
         }
       ]
     }

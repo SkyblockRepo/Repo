@@ -4,83 +4,137 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/SHEEP_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Sheep Axe\n&7Killing a &dSheep &7increases the amount\n&7of drops by &a+2 &7for common loot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SHEEP_AXE"
         }
       ]
     },
     "item2": {
-      "lore": "{{Item/MUSHROOM_COW_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Mushroom Cow Axe\n&7Killing a &dMooshroom &7increases the\n&7amount of drops by &a+2 &7for common\n&7loot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_COW_AXE"
         }
       ]
     },
     "item3": {
-      "lore": "{{Item/COW_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Cow Axe\n&7Killing a &dCow &7increases the amount of\n&7drops by &a+2 &7for common loot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "COW_AXE"
         }
       ]
     },
     "item4": {
-      "lore": "{{Item/PIG_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Pig Axe\n&7Killing a &dPig &7increases the amount of\n&7drops by &a+2 &7for common loot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PIG_AXE"
         }
       ]
     },
     "item5": {
-      "lore": "{{Item/RABBIT_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Rabbit Axe\n&7Killing a &dRabbit &7increases the amount\n&7of drops by &a+2 &7for common loot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RABBIT_AXE"
         }
       ]
     },
     "item6": {
-      "lore": "{{Item/CHICKEN_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Chicken Axe\n&7Killing a &dChicken &7increases the\n&7amount of drops by &a+2 &7for common\n&7loot.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 15&c.\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CHICKEN_AXE"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/HARDENED_WOOD|lore}}\n\n&7Cost\n&615,000 Coins",
+      "lore": "Hardened Wood\n&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Stiff &7reforge when\n&7combined with a fishing rod&7.\n\n&9Stiff &7(&6Legendary&7):\n&7Strength: &c+10\n&7Sea Creature Chance: &c+5%\n\n&7Requires &aMining Skill Level XII&7!\n\n&a&lUNCOMMON REFORGE STONE&r\n\n&7Cost\n&615,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 15000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HARDENED_WOOD"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/LUCKY_DICE|lore}}\n\n&7Cost\n&61,000,000 Coins",
+      "lore": "Lucky Dice\n&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Lucky &7reforge when\n&7combined with a fishing rod&7.\n\n&9Lucky &7(&6Legendary&7):\n&7Magic Find: &a+5\n&7Sea Creature Chance: &c+5%\n\n&7Requires &aMining Skill Level XXIV&7!\n\n&5&lEPIC REFORGE STONE&r\n\n&7Cost\n&61,000,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LUCKY_DICE"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/GOLDEN_BALL|lore}}\n\n&7Cost\n&61,000,000 Coins",
+      "lore": "Golden Ball\n&8Reforge Stone\n&7&8Combinable in Reforge Anvil\n\n&7Applies the &9Bountiful &7reforge when\n&7combined with a hoe or axe&7.\n\n&9Bountiful &7(&6Legendary&7):\n&7Speed: &a+8\n&7Farming Fortune: &a+7\n\n&9Bountiful Bonus\n&7Grants &a+7 &6☘ Farming Fortune&7, which\n&7increases your chance for multiple\n&7crops.\n&7Grants &6+0.2 coins &7per crop.\n\n&7Requires &aMining Skill Level XXX&7!\n\n&5&lEPIC REFORGE STONE&r\n\n&7Cost\n&61,000,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLDEN_BALL"
         }
       ]
     }

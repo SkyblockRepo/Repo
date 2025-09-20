@@ -4,15 +4,27 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/WAND_OF_WARDING|lore}}\n\n&7Cost\n&d1,000 Motes"
+      "lore": "%%aqua%%Warding Diamathame\n&7&7A powerful artifact ingrained with\n&7protective properties.\n\n&6Ability: Glyph Incantation \n&7Activate &5Glyphs &7to imbue them with a\n&7&9Warding Spell&7.\n\n&9&lRARE&r\n\n&7Cost\n&d1,000 Motes",
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WAND_OF_WARDING"
+        }
+      ]
     },
     "item2": {
-      "lore": "{{Item/WARDING_TRINKET|lore}}\n\n&7Cost\n&d1,000 Motes\n&aShadow Crux &8x8",
+      "lore": "Warding Trinket\n&7Rift Time: &a+40s\n&7Intelligence: &a+5\n\n&5&lEPIC ACCESSORY&r\n\n&7Cost\n&d1,000 Motes\n&aShadow Crux &8x8",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SHADOW_CRUX",
           "amount": 8
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WARDING_TRINKET"
         }
       ]
     }

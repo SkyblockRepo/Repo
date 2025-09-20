@@ -4,42 +4,66 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/GOLDEN_BOUNTY|lore}}\n\n&7Cost\n&5Stock of Stonks &8x20\n\n&eClick to trade!",
+      "lore": "Golden Bounty\n&7&8Combinable in Anvil\n\n&7When applied to a weapon, increases\n&7its &9Scavenger &7level by &a1&7!\n&8Can be applied once.\n&8Requires Scavenger V!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&5Stock of Stonks &8x20\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "STOCK_OF_STONKS",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLDEN_BOUNTY"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/AVARICIOUS_CHALICE|lore}}\n\n&7Cost\n&5Stock of Stonks &8x50\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Avaricious Chalice\n&7&7Said to make any drink inside it taste\n&7like &6gold&7.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r\n\n&7Cost\n&5Stock of Stonks &8x50\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "STOCK_OF_STONKS",
           "amount": 50
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "AVARICIOUS_CHALICE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/GOLDEN_FRAGMENT|lore}}\n\n&7Cost\n&5Stock of Stonks &8x3\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Golden Fragment\n&7&6Gold&7, but broken into fragments. This\n&7makes it important somehow.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r\n\n&7Cost\n&5Stock of Stonks &8x3\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "STOCK_OF_STONKS",
           "amount": 3
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLDEN_FRAGMENT"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/FRESHLY_MINTED_COINS|lore}}\n\n&7Cost\n&5Stock of Stonks\n\n&cThis item has a SkyBlock-wide limit of\n&c5,000 units every 4h.\n\n&7Stock: &a5,000\n&7Resets in: &a4h 00m\n\n&eClick to trade!",
+      "lore": "Freshly-Minted Coins\n&7&7Nothing beats the smell of fresh\n&7&6Coins&7. Except for lots of things.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r\n\n&7Cost\n&5Stock of Stonks\n\n&cThis item has a SkyBlock-wide limit of\n&c5,000 units every 4h.\n\n&7Stock: &a5,000\n&7Resets in: &a4h 00m\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "STOCK_OF_STONKS",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "FRESHLY_MINTED_COINS"
         }
       ]
     }

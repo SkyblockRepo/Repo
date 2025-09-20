@@ -4,41 +4,65 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/RIFT_SPEED_ELIXIR|lore}}\n\n&7Cost\n&aShy Crux &8x5\n&d10,000 Motes",
+      "lore": "Speed Elixir\n&7Grants &fSpeed I &7(5:00)\n\n&9&lRARE&r\n\n&7Cost\n&aShy Crux &8x5\n&d10,000 Motes",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SHAME_CRUX",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RIFT_SPEED_ELIXIR"
         }
       ]
     },
     "item2": {
-      "lore": "{{Item/RIFT_JUMP_ELIXIR|lore}}\n\n&7Cost\n&aShy Crux &8x5\n&d5,000 Motes",
+      "lore": "Jump Elixir\n&7Grants &aJump Boost I &7(0:20)\n\n&9&lRARE&r\n\n&7Cost\n&aShy Crux &8x5\n&d5,000 Motes",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SHAME_CRUX",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RIFT_JUMP_ELIXIR"
         }
       ]
     },
     "item3": {
-      "lore": "{{Item/RIFT_STRENGTH_ELIXIR|lore}}\n\n&7Cost\n&aShy Crux &8x5\n&d12,000 Motes",
+      "lore": "Strength Elixir\n&7Grants &cStrength &7(10:00)&7, granting\n&7&5+3❁ Rift Damage&7.\n\n&9&lRARE&r\n\n&7Cost\n&aShy Crux &8x5\n&d12,000 Motes",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SHAME_CRUX",
           "amount": 5
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RIFT_STRENGTH_ELIXIR"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/RIFT_STABILITY_ELIXIR|lore}}\n\n&7Cost\n&d500 Motes",
+      "lore": "Stability Elixir\n&7Useful to stay integral in case\n&7you've accidentally inverted\n&7yourself.\n\n&9&lRARE&r\n\n&7Cost\n&d500 Motes",
       "cost": [
         {
           "type": "MOTES",
           "amount": 500
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RIFT_STABILITY_ELIXIR"
         }
       ]
     }

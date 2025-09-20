@@ -4,197 +4,313 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "lore": "{{Item/GOLD_THORN_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Golden Thorn Head\n&7Gear Score: &d115 &8(127)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+50 &8(+55)\n&7Defense: &a+25 &8(+27.5)\n\n&7Obtained from killing &cThorn &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor IV&7.\n\n&7&8Powerful Necromancer that\n&8specializes in animals. Calls himself a\n&8vegetarian, go figure.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_THORN_HEAD"
         }
       ]
     },
     "b3": {
-      "lore": "{{Item/GOLD_LIVID_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Golden Livid Head\n&7Gear Score: &d135 &8(149)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+60 &8(+66)\n&7Defense: &a+30 &8(+33)\n\n&7Obtained from killing &cLivid &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor V&7.\n\n&7&8Strongly believes he will become the\n&8Lord one day. Subject of mockeries,\n&8even from his disciples.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_LIVID_HEAD"
         }
       ]
     },
     "b4": {
-      "lore": "{{Item/GOLD_SADAN_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Golden Sadan Head\n&7Gear Score: &d155 &8(171)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+70 &8(+77)\n&7Defense: &a+35 &8(+38.5)\n\n&7Obtained from killing &cSadan &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor VI&7.\n\n&7&8Necromancy was always strong in his\n&8family. Says he once beat a Wither in\n&8a duel. Likes to brag.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_SADAN_HEAD"
         }
       ]
     },
     "b5": {
-      "lore": "{{Item/GOLD_NECRON_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Golden Necron Head\n&7Gear Score: &d175 &8(193)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+80 &8(+88)\n&7Defense: &a+40 &8(+44)\n\n&7Obtained from killing &cMaxor, Storm,\n&cGoldor, and Necron &7in &cThe Catacombs\n&c&7lots of times. Grants &a2x &7stats on &cThe\n&cCatacombs Floor VII&7.\n\n&7&8Disciples of the Wither King. Inherited\n&8the Catacombs eons ago. Never\n&8defeated, feared by anything living\n&8AND dead.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_NECRON_HEAD"
         }
       ]
     },
     "b6": {
-      "lore": "{{Item/DIAMOND_BONZO_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Diamond Bonzo Head\n&7Gear Score: &d100 &8(110)\n&7Strength: &c+10 &8(+11)\n&7Health: &a+50 &8(+55)\n&7Defense: &a+20 &8(+22)\n\n&7Obtained from killing &cBonzo &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor I&7.\n\n&7&8Involved in the dark arts due to his\n&8parents' insistence. Originally worked\n&8as a Circus clown.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_BONZO_HEAD"
         }
       ]
     },
     "b7": {
-      "lore": "{{Item/DIAMOND_SCARF_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Diamond Scarf Head\n&7Gear Score: &d145 &8(160)\n&7Strength: &c+15 &8(+16.5)\n&7Health: &a+70 &8(+77)\n&7Defense: &a+30 &8(+33)\n\n&7Obtained from killing &cScarf &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor II&7.\n\n&7&8First of his class. His teacher said\n&8he will do \"great things\".\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_SCARF_HEAD"
         }
       ]
     },
     "b8": {
-      "lore": "{{Item/DIAMOND_PROFESSOR_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Diamond Professor Head\n&7Gear Score: &d200 &8(220)\n&7Strength: &c+20 &8(+22)\n&7Health: &a+100 &8(+110)\n&7Defense: &a+40 &8(+44)\n\n&7Obtained from killing &cThe Professor\n&c&7in &cThe Catacombs &7lots of times.\n&7Grants &a2x &7stats on &cThe Catacombs\n&cFloor III&7.\n\n&7&8Despite his great technique, he failed\n&8the Masters exam three times. Works\n&8from 8 to 5. Cares about his\n&8students.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_PROFESSOR_HEAD"
         }
       ]
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
-      "lore": "{{Item/DIAMOND_THORN_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Diamond Thorn Head\n&7Gear Score: &d255 &8(281)\n&7Strength: &c+25 &8(+27.5)\n&7Health: &a+130 &8(+143)\n&7Defense: &a+50 &8(+55)\n\n&7Obtained from killing &cThorn &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor IV&7.\n\n&7&8Powerful Necromancer that\n&8specializes in animals. Calls himself a\n&8vegetarian, go figure.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_THORN_HEAD"
         }
       ]
     },
     "c3": {
-      "lore": "{{Item/DIAMOND_LIVID_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Diamond Livid Head\n&7Gear Score: &d310 &8(341)\n&7Strength: &c+30 &8(+33)\n&7Health: &a+160 &8(+176)\n&7Defense: &a+60 &8(+66)\n\n&7Obtained from killing &cLivid &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor V&7.\n\n&7&8Strongly believes he will become the\n&8Lord one day. Subject of mockeries,\n&8even from his disciples.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_LIVID_HEAD"
         }
       ]
     },
     "c4": {
-      "lore": "{{Item/DIAMOND_SADAN_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Diamond Sadan Head\n&7Gear Score: &d365 &8(402)\n&7Strength: &c+35 &8(+38.5)\n&7Health: &a+190 &8(+209)\n&7Defense: &a+70 &8(+77)\n\n&7Obtained from killing &cSadan &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor VI&7.\n\n&7&8Necromancy was always strong in his\n&8family. Says he once beat a Wither in\n&8a duel. Likes to brag.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_SADAN_HEAD"
         }
       ]
     },
     "c5": {
-      "lore": "{{Item/DIAMOND_NECRON_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Diamond Necron Head\n&7Gear Score: &d420 &8(462)\n&7Strength: &c+40 &8(+44)\n&7Health: &a+220 &8(+242)\n&7Defense: &a+80 &8(+88)\n\n&7Obtained from killing &cMaxor, Storm,\n&cGoldor, and Necron &7in &cThe Catacombs\n&c&7lots of times. Grants &a2x &7stats on &cThe\n&cCatacombs Floor VII&7.\n\n&7&8Disciples of the Wither King. Inherited\n&8the Catacombs eons ago. Never\n&8defeated, feared by anything living\n&8AND dead.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_NECRON_HEAD"
         }
       ]
     },
     "c6": {
-      "lore": "{{Item/ELEANOR_CAP|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Eleanor's Cap\n&7Health: &a+50\n\n&8Tiered Bonus: Riches (0/4)\n&7Gain &a1.5x &9Scavenger &7Coins.\n\n&7Scavenger Coins Gained: &60\n\n&7&8''Delicately crafted from the finest''\n&8''enchanted silk, this cap combines''\n&8''elegance with subtlety.''\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY HELMET&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ELEANOR_CAP"
         }
       ]
     },
     "c7": {
-      "lore": "{{Item/ELEANOR_TUNIC|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Eleanor's Tunic\n&7Health: &a+100\n\n&8Tiered Bonus: Riches (0/4)\n&7Gain &a1.5x &9Scavenger &7Coins.\n\n&7Scavenger Coins Gained: &60\n\n&7&8''A beautifully tailored tunic, featuring''\n&8''intricate stitching and a soft, radiant''\n&8''finish.''\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY CHESTPLATE&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ELEANOR_TUNIC"
         }
       ]
     },
     "c8": {
-      "lore": "{{Item/ELEANOR_TROUSERS|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Eleanor's Trousers\n&7Health: &a+75\n\n&8Tiered Bonus: Riches (0/4)\n&7Gain &a1.5x &9Scavenger &7Coins.\n\n&7Scavenger Coins Gained: &60\n\n&7&8''These trousers boast exquisite''\n&8''fabric, offering both comfort and a''\n&8''polished look.''\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY LEGGINGS&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ELEANOR_TROUSERS"
         }
       ]
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
-      "lore": "{{Item/ELEANOR_SLIPPERS|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Eleanor's Slippers\n&7Health: &a+40\n\n&8Tiered Bonus: Riches (0/4)\n&7Gain &a1.5x &9Scavenger &7Coins.\n\n&7Scavenger Coins Gained: &60\n\n&7&8''Made from the softest materials,''\n&8''these slippers are as stylish as''\n&8''they are serene.''\n\n&7&8This item can be reforged!\n&8&l* &r&8Soulbound &8&l*&r\n&5X&5 Rift-Transferable X\n&6&lLEGENDARY BOOTS&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ELEANOR_SLIPPERS"
+        }
       ]
     },
     "d3": {
-      "lore": "{{Item/CROOKED_ARTIFACT|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Crooked Artifact\n&7Get 2% off on most shops.\n\n&8&l* &r&8Soulbound &8&l*&r\n&9&lRARE ACCESSORY&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CROOKED_ARTIFACT"
+        }
       ]
     },
     "d4": {
-      "lore": "{{Item/SEAL_OF_THE_FAMILY|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Seal of the Family\n&7Get 3% off on most shops.\n\n&8&l* &r&8Soulbound &8&l*&r\n&5&lEPIC ACCESSORY&r\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SEAL_OF_THE_FAMILY"
         }
       ]
     },
@@ -263,10 +379,12 @@
       ]
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e2": {
       "material": "kuudra_cavity_decaying",
@@ -280,7 +398,7 @@
       ]
     },
     "e3": {
-      "lore": "{{Item/KUUDRA_FOLLOWER_RELIC|lore}}\n\n&7Cost\n&6150,000,000 Coins\n&5Kuudra Teeth &8x64\n\n&eClick to trade!",
+      "lore": "Kuudra Follower Relic\n&7Reduces damage taken from Kuudra\n&7Followers by &a65%&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&6&lLEGENDARY ACCESSORY&r\n\n&7Cost\n&6150,000,000 Coins\n&5Kuudra Teeth &8x64\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
@@ -291,55 +409,92 @@
           "item_id": "KUUDRA_TEETH",
           "amount": 64
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_FOLLOWER_RELIC"
+        }
       ]
     },
     "e4": {
-      "lore": "{{Item/DWARVEN_TANKARD|lore}}\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Dwarven Tankard\n&8Decoration Item\n\n&7&7The most stylish Dwarven drinking\n&7implement built to hold as much ale as\n&7possible.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 100000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DWARVEN_TANKARD"
         }
       ]
     },
     "e5": {
-      "lore": "{{Item/BOOK_OF_PROGRESSION|lore}}\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!",
+      "lore": "Book of Progression\n&7&7This book, imbued with great power,\n&7upgrades as you do.\n\n&7&8''A wise novel once thought to be the''\n&8''cure to all problems.''\n\n&eClick to select modifiers!\n\n&8&l* &r&8Soulbound &8&l*&r\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 100000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BOOK_OF_PROGRESSION"
+        }
       ]
     },
     "e6": {
-      "lore": "{{Item/GOLD_BONZO_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Golden Bonzo Head\n&7Gear Score: &d45 &8(50)\n&7Strength: &c+5 &8(+5.5)\n&7Health: &a+20 &8(+22)\n&7Defense: &a+10 &8(+11)\n\n&7Obtained from killing &cBonzo &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor I&7.\n\n&7&8Involved in the dark arts due to his\n&8parents' insistence. Originally worked\n&8as a Circus clown.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_BONZO_HEAD"
         }
       ]
     },
     "e7": {
-      "lore": "{{Item/GOLD_SCARF_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Golden Scarf Head\n&7Gear Score: &d70 &8(77)\n&7Strength: &c+10 &8(+11)\n&7Health: &a+30 &8(+33)\n&7Defense: &a+15 &8(+16.5)\n\n&7Obtained from killing &cScarf &7in &cThe\n&cCatacombs &7lots of times. Grants &a2x\n&a&7stats on &cThe Catacombs Floor II&7.\n\n&7&8First of his class. His teacher said\n&8he will do \"great things\".\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_SCARF_HEAD"
         }
       ]
     },
     "e8": {
-      "lore": "{{Item/GOLD_PROFESSOR_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "lore": "Golden Professor Head\n&7Gear Score: &d90 &8(99)\n&7Strength: &c+10 &8(+11)\n&7Health: &a+40 &8(+44)\n&7Defense: &a+20 &8(+22)\n\n&7Obtained from killing &cThe Professor\n&c&7in &cThe Catacombs &7lots of times.\n&7Grants &a2x &7stats on &cThe Catacombs\n&cFloor III&7.\n\n&7&8Despite his great technique, he failed\n&8the Masters exam three times. Works\n&8from 8 to 5. Cares about his\n&8students.\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lSPECIAL DUNGEON HELMET&r\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_PROFESSOR_HEAD"
+        }
       ]
     },
     "e9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f1": {
       "material": "arrow",
@@ -347,10 +502,12 @@
       "lore": "&ePage 2"
     },
     "f2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f4": {
       "material": "lime_dye",
@@ -373,10 +530,12 @@
       "lore": "&7Enabled: &cNO"
     },
     "f8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "6"

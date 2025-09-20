@@ -4,7 +4,7 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item_cobblestone_generator_12}}\n\n&7Cost\n&9Cobblestone Minion XI\n&aEnchanted Cobblestone &8x1024\n&62,000,000 Coins",
+      "lore": "Cobblestone Minion XII\n&7Place this minion and it will start\n&7generating and mining Cobblestone!\n&7Requires an open area to place\n&7Cobblestone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a6s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Cobblestone Minion XI\n&aEnchanted Cobblestone &8x1024\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -20,10 +20,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "COBBLESTONE_GENERATOR_12"
+        }
       ]
     },
     "item10": {
-      "lore": "{{Item_mithril_generator_12}}\n\n&7Cost\n&9Mithril Minion XI\n&5Refined Mithril &8x16\n&62,000,000 Coins",
+      "lore": "Mithril Minion XII\n&7Place this minion and it will start\n&7generating and mining mithril ore!\n&7Requires an open area to place\n&7mithril ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a50s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Mithril Minion XI\n&5Refined Mithril &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -39,10 +45,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MITHRIL_GENERATOR_12"
+        }
       ]
     },
     "item11": {
-      "lore": "{{Item_hard_stone_generator_12}}\n\n&7Cost\n&9Hard Stone Minion XI\n&9Concentrated Stone &8x32\n&62,000,000 Coins",
+      "lore": "Hard Stone Minion XII\n&7Place this minion and it will start\n&7generating and mining Hard Stone!\n&7Requires an open area to place\n&7Hard Stone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a6s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Hard Stone Minion XI\n&9Concentrated Stone &8x32\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -58,10 +70,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HARD_STONE_GENERATOR_12"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item_obsidian_generator_12}}\n\n&7Cost\n&9Obsidian Minion XI\n&aEnchanted Obsidian &8x1024\n&62,000,000 Coins",
+      "lore": "Obsidian Minion XII\n&7Place this minion and it will start\n&7generating and mining obsidian!\n&7Requires an open area to place\n&7obsidian. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a21s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Obsidian Minion XI\n&aEnchanted Obsidian &8x1024\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -77,10 +95,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "OBSIDIAN_GENERATOR_12"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item_coal_generator_12}}\n\n&7Cost\n&9Coal Minion XI\n&9Enchanted Block of Coal &8x16\n&62,000,000 Coins",
+      "lore": "Coal Minion XII\n&7Place this minion and it will start\n&7generating and mining coal ore!\n&7Requires an open area to place coal\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a6s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Coal Minion XI\n&9Enchanted Block of Coal &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -96,10 +120,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "COAL_GENERATOR_12"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item_iron_generator_12}}\n\n&7Cost\n&9Iron Minion XI\n&9Enchanted Iron Block &8x16\n&62,000,000 Coins",
+      "lore": "Iron Minion XII\n&7Place this minion and it will start\n&7generating and mining iron ore!\n&7Requires an open area to place iron\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a7s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Iron Minion XI\n&9Enchanted Iron Block &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -115,10 +145,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "IRON_GENERATOR_12"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item_gold_generator_12}}\n\n&7Cost\n&9Gold Minion XI\n&9Enchanted Gold Block &8x16\n&62,000,000 Coins",
+      "lore": "Gold Minion XII\n&7Place this minion and it will start\n&7generating and mining gold ore!\n&7Requires an open area to place gold\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a9s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Gold Minion XI\n&9Enchanted Gold Block &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -134,10 +170,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_GENERATOR_12"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item_diamond_generator_12}}\n\n&7Cost\n&9Diamond Minion XI\n&9Enchanted Diamond Block &8x16\n&62,000,000 Coins",
+      "lore": "Diamond Minion XII\n&7Place this minion and it will start\n&7generating and mining diamond ore!\n&7Requires an open area to place\n&7diamond ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Diamond Minion XI\n&9Enchanted Diamond Block &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -153,10 +195,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_GENERATOR_12"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item_lapis_generator_12}}\n\n&7Cost\n&9Lapis Minion XI\n&9Enchanted Lapis Lazuli Block &8x64\n&62,000,000 Coins",
+      "lore": "Lapis Minion XII\n&7Place this minion and it will start\n&7generating and mining lapis ore!\n&7Requires an open area to place lapis\n&7ore. Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a16s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Lapis Minion XI\n&9Enchanted Lapis Lazuli Block &8x64\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -172,10 +220,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LAPIS_GENERATOR_12"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item_emerald_generator_12}}\n\n&7Cost\n&9Emerald Minion XI\n&9Enchanted Emerald Block &8x16\n&62,000,000 Coins",
+      "lore": "Emerald Minion XII\n&7Place this minion and it will start\n&7generating and mining emerald ore!\n&7Requires an open area to place\n&7emerald ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a12s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Emerald Minion XI\n&9Enchanted Emerald Block &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -191,10 +245,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "EMERALD_GENERATOR_12"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item_redstone_generator_12}}\n\n&7Cost\n&9Redstone Minion XI\n&9Enchanted Redstone Block &8x32\n&62,000,000 Coins",
+      "lore": "Redstone Minion XII\n&7Place this minion and it will start\n&7generating and mining redstone ore!\n&7Requires an open area to place\n&7redstone ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a16s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Redstone Minion XI\n&9Enchanted Redstone Block &8x32\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -209,6 +269,12 @@
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REDSTONE_GENERATOR_12"
         }
       ]
     }

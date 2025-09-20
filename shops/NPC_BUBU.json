@@ -4,16 +4,22 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/FRACTURED_MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&610,000 Coins\n\n&eClick to trade!",
+      "lore": "Fractured Mithril Pickaxe\n&8Breaking Power 5\n\n&7Damage: &c+30\n&7Mining Speed: &a+225\n&7Mining Fortune: &a+2\n\n&7&8This item can be reforged!\n&a&lUNCOMMON PICKAXE&r\n\n&7Cost\n&610,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "FRACTURED_MITHRIL_PICKAXE"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/BANDAGED_MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&aFractured Mithril Pickaxe\n&9Enchanted Mithril &8x2\n\n&eClick to trade!",
+      "lore": "Bandaged Mithril Pickaxe\n&8Breaking Power 5\n\n&7Damage: &c+30\n&7Mining Speed: &a+250\n&7Mining Fortune: &a+4\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 2&c.\n&a&lUNCOMMON PICKAXE&r\n\n&7Cost\n&aFractured Mithril Pickaxe\n&9Enchanted Mithril &8x2\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -25,10 +31,16 @@
           "item_id": "ENCHANTED_MITHRIL",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BANDAGED_MITHRIL_PICKAXE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&aBandaged Mithril Pickaxe\n&9Enchanted Mithril &8x64\n&9Bejeweled Handle\n&aEnchanted Gold &8x32\n\n&eClick to trade!",
+      "lore": "Mithril Pickaxe\n&8Breaking Power 5\n\n&7Damage: &c+40\n&7Mining Speed: &a+300\n&7Mining Fortune: &a+7\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 2&c.\n&a&lUNCOMMON PICKAXE&r\n\n&7Cost\n&aBandaged Mithril Pickaxe\n&9Enchanted Mithril &8x64\n&9Bejeweled Handle\n&aEnchanted Gold &8x32\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -50,10 +62,16 @@
           "item_id": "ENCHANTED_GOLD_BLOCK",
           "amount": 32
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MITHRIL_PICKAXE"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/REFINED_MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&aMithril Pickaxe\n&5Refined Mithril &8x2\n\n&eClick to trade!",
+      "lore": "Refined Mithril Pickaxe\n&8Breaking Power 5\n\n&7Damage: &c+50\n&7Mining Speed: &a+350\n&7Mining Fortune: &a+10\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 3&c.\n&9&lRARE PICKAXE&r\n\n&7Cost\n&aMithril Pickaxe\n&5Refined Mithril &8x2\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -65,19 +83,31 @@
           "item_id": "REFINED_MITHRIL",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REFINED_MITHRIL_PICKAXE"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/RUSTY_TITANIUM_PICKAXE|lore}}\n\n&7Cost\n&650,000 Coins\n\n&eClick to trade!",
+      "lore": "Rusty Titanium Pickaxe\n&8Breaking Power 5\n\n&7Damage: &c+55\n&7Mining Speed: &a+100\n\n&7Grants &6+25☘ Mining Fortune &7when\n&7mining &fTitanium Ore&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON PICKAXE&r\n\n&7Cost\n&650,000 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 50000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RUSTY_TITANIUM_PICKAXE"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/TITANIUM_PICKAXE|lore}}\n\n&7Cost\n&aRusty Titanium Pickaxe\n&5Enchanted Titanium &8x4\n&9Bejeweled Handle\n\n&eClick to trade!",
+      "lore": "Titanium Pickaxe\n&8Breaking Power 6\n\n&7Damage: &c+60\n&7Mining Speed: &a+140\n\n&7Grants &6+50☘ Mining Fortune &7when\n&7mining &fTitanium Ore&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 3&c.\n&9&lRARE PICKAXE&r\n\n&7Cost\n&aRusty Titanium Pickaxe\n&5Enchanted Titanium &8x4\n&9Bejeweled Handle\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -94,10 +124,16 @@
           "item_id": "BEJEWELED_HANDLE",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TITANIUM_PICKAXE"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/REFINED_TITANIUM_PICKAXE|lore}}\n\n&7Cost\n&9Titanium Pickaxe\n&6Refined Titanium\n\n&eClick to trade!",
+      "lore": "Polished Titanium Pickaxe\n&8Breaking Power 6\n\n&7Damage: &c+65\n&7Mining Speed: &a+200\n\n&7Grants &6+100☘ Mining Fortune &7when\n&7mining &fTitanium Ore&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &5Heart of the Mountain Tier 4&c.\n&9&lRARE PICKAXE&r\n\n&7Cost\n&9Titanium Pickaxe\n&6Refined Titanium\n\n&eClick to trade!",
       "cost": [
         {
           "type": "ITEM",
@@ -109,14 +145,26 @@
           "item_id": "REFINED_TITANIUM",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REFINED_TITANIUM_PICKAXE"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/BIOFUEL|lore}}\n\n&7Cost\n&620,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Biofuel\n&8Machine Fuel\n\n&7&7Adds &2+3,000♢ Fuel &7to a refuelable\n&7machine.\n\n&7&7''100% renewable energy!''\n\n&9&lRARE&r\n\n&7Cost\n&620,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 20000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BIOFUEL"
         }
       ]
     }

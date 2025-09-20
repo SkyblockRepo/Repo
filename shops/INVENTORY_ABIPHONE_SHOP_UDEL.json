@@ -4,43 +4,67 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item_abiphone_x_plus}}\n\n&7Cost\n&6985,000 Coins",
+      "lore": "Abiphone X Red\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b5 \n\n&eRight-click to open!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&6985,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 985000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_X_PLUS"
+        }
       ]
     },
     "item10": {
-      "lore": "{{Item_abiphone_xiv_enormous_purple}}\n\n&7Cost\n&673,875,000 Coins",
+      "lore": "Abiphone XIV Purple\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b11 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 73875000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_PURPLE"
         }
       ]
     },
     "item11": {
-      "lore": "{{Item_abiphone_xiv_enormous_black}}\n\n&7Cost\n&673,875,000 Coins",
+      "lore": "Abiphone XIV Black\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b11 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 73875000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK"
         }
       ]
     },
     "item12": {
-      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&698,500,000 Coins",
+      "lore": "Abiphone Flip: Dragon\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&698,500,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 98500000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_DRAGON"
         }
       ]
     },
     "item13": {
-      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous",
+      "lore": "Abiphone Flip: Dragon\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous",
       "cost": [
         {
           "type": "COINS",
@@ -50,11 +74,17 @@
           "type": "ITEM",
           "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_DRAGON"
         }
       ]
     },
     "item14": {
-      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Black",
+      "lore": "Abiphone Flip: Dragon\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Black",
       "cost": [
         {
           "type": "COINS",
@@ -65,10 +95,16 @@
           "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_DRAGON"
+        }
       ]
     },
     "item15": {
-      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Purple",
+      "lore": "Abiphone Flip: Dragon\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Purple",
       "cost": [
         {
           "type": "COINS",
@@ -79,19 +115,31 @@
           "item_id": "ABIPHONE_XIV_ENORMOUS_PURPLE",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_DRAGON"
+        }
       ]
     },
     "item16": {
-      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&698,500,000 Coins",
+      "lore": "Abiphone Flip: Nucleus\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&698,500,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 98500000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_NUCLEUS"
+        }
       ]
     },
     "item17": {
-      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous",
+      "lore": "Abiphone Flip: Nucleus\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous",
       "cost": [
         {
           "type": "COINS",
@@ -101,11 +149,17 @@
           "type": "ITEM",
           "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_NUCLEUS"
         }
       ]
     },
     "item18": {
-      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Black",
+      "lore": "Abiphone Flip: Nucleus\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Black",
       "cost": [
         {
           "type": "COINS",
@@ -116,10 +170,16 @@
           "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_NUCLEUS"
+        }
       ]
     },
     "item19": {
-      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Purple",
+      "lore": "Abiphone Flip: Nucleus\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Purple",
       "cost": [
         {
           "type": "COINS",
@@ -130,28 +190,46 @@
           "item_id": "ABIPHONE_XIV_ENORMOUS_PURPLE",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_NUCLEUS"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item_abiphone_x_plus_special_edition}}\n\n&7Cost\n&61,970,000 Coins",
+      "lore": "Abiphone X Blue\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b5 \n\n&eRight-click to open!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&61,970,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1970000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_X_PLUS_SPECIAL_EDITION"
+        }
       ]
     },
     "item20": {
-      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&698,500,000 Coins",
+      "lore": "Abiphone Flip: Volcano\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&698,500,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 98500000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_VOLCANO"
+        }
       ]
     },
     "item21": {
-      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous",
+      "lore": "Abiphone Flip: Volcano\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous",
       "cost": [
         {
           "type": "COINS",
@@ -161,11 +239,17 @@
           "type": "ITEM",
           "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_VOLCANO"
         }
       ]
     },
     "item22": {
-      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Black",
+      "lore": "Abiphone Flip: Volcano\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Black",
       "cost": [
         {
           "type": "COINS",
@@ -176,10 +260,16 @@
           "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_VOLCANO"
+        }
       ]
     },
     "item23": {
-      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Purple",
+      "lore": "Abiphone Flip: Volcano\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b12 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &6&lRingtones&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins\n&6Abiphone XIV Enormous Purple",
       "cost": [
         {
           "type": "COINS",
@@ -190,68 +280,116 @@
           "item_id": "ABIPHONE_XIV_ENORMOUS_PURPLE",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_FLIP_VOLCANO"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item_abiphone_xi_ultra}}\n\n&7Cost\n&64,925,000 Coins",
+      "lore": "Abiphone XI Yellow\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b6 \n&7 &7Maximum Discs: &b2\n\n&eRight-click to open!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&64,925,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 4925000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XI_ULTRA"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item_abiphone_xi_ultra_style}}\n\n&7Cost\n&66,895,000 Coins",
+      "lore": "Abiphone XI Green\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b6 \n&7 &7Maximum Discs: &b2\n&7 &a&lContacts Directory&r\n\n&eRight-click to open!\n\n&9&lRARE&r\n\n&7Cost\n&66,895,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 6895000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XI_ULTRA_STYLE"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item_abiphone_xii_mega}}\n\n&7Cost\n&67,880,000 Coins",
+      "lore": "Abiphone XII Amber\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b7 \n&7 &7Maximum Discs: &b4\n&7 &a&lContacts Directory&r\n\n&eRight-click to open!\n\n&9&lRARE&r\n\n&7Cost\n&67,880,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 7880000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XII_MEGA"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item_abiphone_xii_mega_color}}\n\n&7Cost\n&611,820,000 Coins",
+      "lore": "Abiphone XII Amethyst\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b7 \n&7 &7Maximum Discs: &b4\n&7 &a&lContacts Directory&r\n&7 &d&lTic Tac Toe&r\n\n&eRight-click to open!\n\n&5&lEPIC&r\n\n&7Cost\n&611,820,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 11820000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XII_MEGA_COLOR"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item_abiphone_xiii_pro}}\n\n&7Cost\n&619,700,000 Coins",
+      "lore": "Abiphone XIII Jade\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b8 \n&7 &7Maximum Discs: &b10\n&7 &a&lContacts Directory&r\n&7 &d&lTic Tac Toe&r\n\n&eRight-click to open!\n\n&5&lEPIC&r\n\n&7Cost\n&619,700,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 19700000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIII_PRO"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item_abiphone_xiii_pro_giga}}\n\n&7Cost\n&639,400,000 Coins",
+      "lore": "Abiphone XIII Sapphire\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b10 \n&7 &7Maximum Discs: &b20\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&5&lEPIC&r\n\n&7Cost\n&639,400,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 39400000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIII_PRO_GIGA"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item_abiphone_xiv_enormous}}\n\n&7Cost\n&673,875,000 Coins",
+      "lore": "Abiphone XIV Orange\n&7A device that can be used to contact\n&7people! Click NPCs to add them to\n&7your contacts!\n\n&7Features:\n&7 &7Maximum Contacts: &b11 \n&7 &7Maximum Discs: &b25\n&7 &a&lContacts Directory&r\n&7 &c&lDo Not Disturb Mode&r\n&7 &d&lTic Tac Toe&r\n&7 &d&lSnake&r\n\n&eRight-click to open!\n\n&6&lLEGENDARY&r\n\n&7Cost\n&673,875,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 73875000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS"
         }
       ]
     }

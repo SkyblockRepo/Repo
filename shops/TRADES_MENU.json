@@ -44,51 +44,86 @@
       "lore": "1"
     },
     "b2": {
-      "lore": "{{Item_hub_portal}}\n\n&7Cost\n&6100 Coins",
+      "lore": "Portal to the Hub\n&7Placing this item on your private\n&7island will create a portal to &b&7the &bHub&7\n&7for you to use whenever you want!\n\n&7&8The portal will spawn facing you on\n&8the block you click on.\n\n&f&lCOMMON PORTAL&r\n\n&7Cost\n&6100 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 100
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HUB_PORTAL",
+          "amount": 1
+        }
       ]
     },
     "b3": {
-      "lore": "{{Item_coal}}\n\n&7Cost\n&fOak Wood",
+      "lore": "Coal\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&7Increases the speed of\n&7your minion by &a5%&7 for 30\n&7minutes&7!\n\n&f&lCOMMON ORE&r\n\n&7Cost\n&fOak Wood",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "LOG",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "COAL",
+          "amount": 2
+        }
       ]
     },
     "b4": {
-      "lore": "{{Item_grass}}\n\n&7Cost\n&fDirt &8x4",
+      "lore": "Grass\n&f&lCOMMON&r\n\n&7Cost\n&fDirt &8x4",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "DIRT",
           "amount": 4
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GRASS",
+          "amount": 4
+        }
       ]
     },
     "b5": {
-      "lore": "{{Item_dirt}}\n\n&7Cost\n&fSeeds &8x8",
+      "lore": "Dirt\n&f&lCOMMON&r\n\n&7Cost\n&fSeeds &8x8",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SEEDS",
           "amount": 8
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT",
+          "amount": 2
+        }
       ]
     },
     "b6": {
-      "lore": "{{Item_clay_ball}}\n\n&7Cost\n&fSeeds &8x12",
+      "lore": "Clay Ball\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&fSeeds &8x12",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SEEDS",
           "amount": 12
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CLAY_BALL",
+          "amount": 1
         }
       ]
     },
@@ -100,6 +135,13 @@
           "item_id": "SAPLING",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "oak_leaves",
+          "amount": 1
+        }
       ]
     },
     "b8": {
@@ -108,6 +150,13 @@
         {
           "type": "ITEM",
           "item_id": "SAPLING:1",
+          "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "spruce_leaves",
           "amount": 1
         }
       ]
@@ -128,6 +177,13 @@
           "item_id": "SAPLING:2",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "birch_leaves",
+          "amount": 1
+        }
       ]
     },
     "c3": {
@@ -138,15 +194,29 @@
           "item_id": "SAPLING:3",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "jungle_leaves",
+          "amount": 1
+        }
       ]
     },
     "c4": {
-      "lore": "{{Item_vine}}\n\n&7Cost\n&fJungle Leaves &8x5",
+      "lore": "Vines\n&f&lCOMMON&r\n\n&7Cost\n&fJungle Leaves &8x5",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "LEAVES:3",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "VINE",
+          "amount": 1
         }
       ]
     },
@@ -156,6 +226,13 @@
         {
           "type": "ITEM",
           "item_id": "SAPLING:4",
+          "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "acacia_leaves",
           "amount": 1
         }
       ]
@@ -168,15 +245,29 @@
           "item_id": "SAPLING:5",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dark_oak_leaves",
+          "amount": 1
+        }
       ]
     },
     "c7": {
-      "lore": "{{Item_enchanted_bone_meal}}\n\n&7Cost\n&fBone &8x32",
+      "lore": "Enchanted Bone Meal\n&7Instantly grows crops and saplings.\n\n&f&lCOMMON&r\n\n&7Cost\n&fBone &8x32",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "BONE",
           "amount": 32
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BONE_MEAL",
+          "amount": 1
         }
       ]
     },
@@ -187,6 +278,13 @@
           "type": "ITEM",
           "item_id": "DIRT",
           "amount": 8
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "long_grass",
+          "amount": 1
         }
       ]
     },
@@ -199,22 +297,36 @@
       "lore": "1"
     },
     "d2": {
-      "lore": "{{Item_fern}}\n\n&7Cost\n&fDirt &8x8",
+      "lore": "Fern\n&f&lCOMMON&r\n\n&7Cost\n&fDirt &8x8",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "DIRT",
           "amount": 8
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LONG_GRASS:2",
+          "amount": 1
+        }
       ]
     },
     "d3": {
-      "lore": "{{Item_dead_bush}}\n\n&7Cost\n&fDirt &8x8",
+      "lore": "Dead Bush\n&f&lCOMMON&r\n\n&7Cost\n&fDirt &8x8",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "DIRT",
           "amount": 8
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DEAD_BUSH",
+          "amount": 1
         }
       ]
     },
@@ -226,37 +338,65 @@
           "item_id": "DIRT",
           "amount": 8
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "tall_grass",
+          "amount": 1
+        }
       ]
     },
     "d5": {
-      "lore": "{{Item_water_bucket}}\n\n&7Cost\n&612 Coins",
+      "lore": "Water Bucket\n&f&lCOMMON&r\n\n&7Cost\n&612 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 12
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WATER_BUCKET",
+          "amount": 1
+        }
       ]
     },
     "d6": {
-      "lore": "{{Item_lava_bucket}}\n\n&7Cost\n&620 Coins",
+      "lore": "Lava Bucket\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LAVA_BUCKET",
+          "amount": 1
+        }
       ]
     },
     "d7": {
-      "lore": "{{Item_milk_bucket}}\n\n&7Cost\n&650 Coins",
+      "lore": "Milk Bucket\n&f&lCOMMON&r\n\n&7Cost\n&650 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MILK_BUCKET",
+          "amount": 1
+        }
       ]
     },
     "d8": {
-      "lore": "{{Item_soul_sand}}\n\n&7Cost\n&fSand &8x2\n&fFermented Spider Eye",
+      "lore": "Soul Sand\n&f&lCOMMON&r\n\n&7Cost\n&fSand &8x2\n&fFermented Spider Eye",
       "cost": [
         {
           "type": "ITEM",
@@ -266,6 +406,13 @@
         {
           "type": "ITEM",
           "item_id": "FERMENTED_SPIDER_EYE",
+          "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SOUL_SAND",
           "amount": 1
         }
       ]
@@ -279,32 +426,53 @@
       "lore": "1"
     },
     "e2": {
-      "lore": "{{Item_nether_brick_item}}\n\n&7Cost\n&fNetherrack",
+      "lore": "Nether Brick\n&f&lCOMMON&r\n\n&7Cost\n&fNetherrack",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "NETHERRACK",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_BRICK_ITEM",
+          "amount": 1
+        }
       ]
     },
     "e3": {
-      "lore": "{{Item_sponge}}\n\n&7Cost\n&fWet Sponge",
+      "lore": "Sponge\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&fWet Sponge",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "SPONGE:1",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SPONGE",
+          "amount": 1
+        }
       ]
     },
     "e4": {
-      "lore": "{{Item_teleport_pad}}\n\n&7Cost\n&aEnchanted Eye of Ender",
+      "lore": "Teleport Pad\n&7Places a Teleport Pad down, allowing\n&7you to teleport to any other\n&7Teleport Pad on your private island!\n&7&8Maximum of 56 per island.\n\n&a&lUNCOMMON&r\n\n&7Cost\n&aEnchanted Eye of Ender",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "ENCHANTED_EYE_OF_ENDER",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TELEPORT_PAD",
+          "amount": 2
         }
       ]
     },

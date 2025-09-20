@@ -4,7 +4,8 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
       "material": "rough_jade_gem",
@@ -47,7 +48,8 @@
       "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
       "material": "flawed_jade_gem",
@@ -90,7 +92,8 @@
       "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
       "material": "fine_jade_gem",
@@ -133,7 +136,8 @@
       "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
       "material": "flawless_jade_gem",
@@ -176,7 +180,8 @@
       "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
     },
     "e1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e2": {
       "material": "perfect_jade_gem",
@@ -219,10 +224,12 @@
       "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
     },
     "f1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f3": {
       "material": "chest",
@@ -230,7 +237,8 @@
       "lore": "&7Instantly sell all Rough Jade\n&7Gemstone derivatives in your\n&7inventory."
     },
     "f4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f5": {
       "material": "arrow",
@@ -243,13 +251,16 @@
       "lore": "&7You don't have any ongoing\n&7orders for these products."
     },
     "f7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "6"

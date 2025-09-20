@@ -4,155 +4,264 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/LOG|lore}}\n\n&7Cost\n&625 Coins",
+      "lore": "Oak Log\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LOG",
+          "amount": 5
         }
       ]
     },
     "item10": {
-      "lore": "{{Item/DIRT:2|lore}}\n\n&7Cost\n&620 Coins",
+      "lore": "Podzol\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT:2"
         }
       ]
     },
     "item11": {
-      "lore": "{{Item/SWEET_AXE|lore}}\n\n&7Cost\n&6100 Coins",
+      "lore": "Sweet Axe\n&7Damage: &c+25\n\n&7&a20% &7chance of dropping an Apple\n&7when chopping logs.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&6100 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 100
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SWEET_AXE"
         }
       ]
     },
     "item12": {
-      "lore": "{{Item/EFFICIENT_AXE|lore}}\n\n&7Cost\n&6100 Coins",
+      "lore": "Efficient Axe\n&7Damage: &c+25\n\n&7Drops 5 Planks from chopping Logs.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&6100 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 100
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "EFFICIENT_AXE"
+        }
       ]
     },
     "item13": {
-      "lore": "{{Item/WOOD_SWORD|lore}}\n\n&7Cost\n&65 Coins",
+      "lore": "Wooden Sword\n&7Damage: &c+20\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r\n\n&7Cost\n&65 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD_SWORD"
         }
       ]
     },
     "item14": {
-      "lore": "{{Item/WOOD_PICKAXE|lore}}\n\n&7Cost\n&65 Coins",
+      "lore": "Wooden Pickaxe\n&8Breaking Power 1\n\n&7Damage: &c+15\n&7Mining Speed: &a+70\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r\n\n&7Cost\n&65 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD_PICKAXE"
         }
       ]
     },
     "item15": {
-      "lore": "{{Item/WOOD_SPADE|lore}}\n\n&7Cost\n&65 Coins",
+      "lore": "Wooden Shovel\n&7Damage: &c+15\n\n&f&lCOMMON SHOVEL&r\n\n&7Cost\n&65 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD_SPADE"
         }
       ]
     },
     "item16": {
-      "lore": "{{Item/WOOD_HOE|lore}}\n\n&7Cost\n&65 Coins",
+      "lore": "Wooden Hoe\n&7&8This item can be reforged!\n&f&lCOMMON HOE&r\n\n&7Cost\n&65 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD_HOE"
         }
       ]
     },
     "item17": {
-      "lore": "{{Item/WOOD_AXE|lore}}\n\n&7Cost\n&65 Coins",
+      "lore": "Wooden Axe\n&7Damage: &c+10\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r\n\n&7Cost\n&65 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD_AXE"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/LOG:2|lore}}\n\n&7Cost\n&625 Coins",
+      "lore": "Birch Log\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LOG:2",
+          "amount": 5
         }
       ]
     },
     "item3": {
-      "lore": "{{Item/LOG:1|lore}}\n\n&7Cost\n&625 Coins",
+      "lore": "Spruce Log\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LOG:1",
+          "amount": 5
         }
       ]
     },
     "item4": {
-      "lore": "{{Item/LOG_2:1|lore}}\n\n&7Cost\n&625 Coins",
+      "lore": "Dark Oak Log\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LOG_2:1",
+          "amount": 5
         }
       ]
     },
     "item5": {
-      "lore": "{{Item/LOG_2|lore}}\n\n&7Cost\n&625 Coins",
+      "lore": "Acacia Log\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LOG_2",
+          "amount": 5
         }
       ]
     },
     "item6": {
-      "lore": "{{Item/LOG:3|lore}}\n\n&7Cost\n&625 Coins",
+      "lore": "Jungle Log\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LOG:3",
+          "amount": 5
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/STICK|lore}}\n\n&7Cost\n&620 Coins",
+      "lore": "Stick\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "STICK",
+          "amount": 32
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/ROOKIE_AXE|lore}}\n\n&7Cost\n&612 Coins",
+      "lore": "Rookie Axe\n&7Damage: &c+20\n\n&9Efficiency I\n&7Increases how quickly your tool\n&7breaks blocks.\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r\n\n&7Cost\n&612 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 12
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ROOKIE_AXE"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/PROMISING_AXE|lore}}\n\n&7Cost\n&635 Coins",
+      "lore": "Promising Axe\n&7Damage: &c+25\n\n&7Gains &9Efficiency I &7after breaking &a50\n&ablocks&7!\n\n&7Blocks Broken: &a0\n\n&7&8This item can be reforged!\n&a&lUNCOMMON AXE&r\n\n&7Cost\n&635 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 35
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PROMISING_AXE"
         }
       ]
     }

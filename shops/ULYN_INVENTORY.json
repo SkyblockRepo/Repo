@@ -4,56 +4,92 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/MYCEL|lore}}\n\n&7Cost\n&620 Coins",
+      "lore": "Mycelium\n&7&8Collection Item\n\n&f&lCOMMON BLOCK&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MYCEL"
         }
       ]
     },
     "item2": {
-      "lore": "{{Item/BLAZE_ROD|lore}}\n\n&7Cost\n&650 Coins",
+      "lore": "Blaze Rod\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&650 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_ROD"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/MAGMA_CREAM|lore}}\n\n&7Cost\n&620 Coins",
+      "lore": "Magma Cream\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CREAM"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/QUARTZ|lore}}\n\n&7Cost\n&650 Coins",
+      "lore": "Nether Quartz\n&7&8Collection Item\n\n&f&lCOMMON ORE&r\n\n&7Cost\n&650 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "QUARTZ"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/NETHER_STALK|lore}}\n\n&7Cost\n&610 Coins",
+      "lore": "Nether Wart\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&610 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_STALK"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/GHAST_TEAR|lore}}\n\n&7Cost\n&6200 Coins",
+      "lore": "Ghast Tear\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&6200 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 200
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GHAST_TEAR"
         }
       ]
     }

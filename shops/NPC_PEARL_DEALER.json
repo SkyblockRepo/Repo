@@ -4,65 +4,108 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item_enchantment_dragon_hunter_1}}\n\n&7Cost\n&61,000,000 Coins",
+      "lore": "Dragon Hunter I\n&7&9Dragon Hunter I\n&7Increases damage dealt to &7Ender\n&7Dragons&7 by &a8%&7.\n\n&7Applicable on: &9Bow&7, &9Melee Weapon\n&7Apply Cost: &320 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&61,000,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_DRAGON_HUNTER_1"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item_enchantment_ender_slayer_6}}\n\n&7Cost\n&61,500,000 Coins",
+      "lore": "Ender Slayer VI\n&7&9Ender Slayer VI\n&7Increases damage dealt to &7Ender\n&7Dragons&7, &7Endermen&7, and &7Endermites\n&7by &a100%&7.\n\n&7Applicable on: &9Melee Weapon\n&7Apply Cost: &375 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&9&lRARE&r\n\n&7Cost\n&61,500,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1500000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_ENDER_SLAYER_6"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/ENDER_STONE|lore}}\n\n&7Cost\n&610 Coins",
+      "lore": "End Stone\n&7&8Collection Item\n\n&f&lCOMMON BLOCK&r\n\n&7Cost\n&610 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENDER_STONE"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/OBSIDIAN|lore}}\n\n&7Cost\n&650 Coins",
+      "lore": "Obsidian\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON BLOCK&r\n\n&7Cost\n&650 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "OBSIDIAN"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/REMNANT_OF_THE_EYE|lore}}\n\n&7Cost\n&6200,000 Coins",
+      "lore": "Remnant of the Eye\n&7Keeps you alive when you are on\n&7death's door, granting a short\n&7period of invincibility. Consumed on\n&7use.\n\n&7&cONLY WORKS ON THE END ISLAND.\n\n&5&lEPIC&r\n\n&7Cost\n&6200,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 200000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REMNANT_OF_THE_EYE"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/STONK_PICKAXE|lore}}\n\n&7Cost\n&6499,999 Coins",
+      "lore": "Stonk\n&8Breaking Power 1\n\n&7Mining Speed: &a+510\n\n&9Efficiency VI\n&7Grants &a+130 &6⸕ Mining Speed&7.\n\n&7When mining End Stone with this\n&7pickaxe, Endermites won't spawn,\n&7experience will be dropped!\n&7&a5%&7 chance to drop an extra End\n&7Stone block.\n\n&7&8This item can be reforged!\n&5&lEPIC PICKAXE&r\n\n&7Cost\n&6499,999 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 499999
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "STONK_PICKAXE"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/SILENT_PEARL|lore}}\n\n&7Cost\n&61,200 Coins",
+      "lore": "Silent Pearl\n&7Prevents pearl damage and\n&7Enderman from spawning when\n&7thrown on &dThe End &7Island!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&61,200 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1200
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SILENT_PEARL",
+          "amount": 8
         }
       ]
     }

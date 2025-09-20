@@ -4,74 +4,123 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/UNDEAD_SWORD|lore}}\n\n&7Cost\n&6100 Coins",
+      "lore": "Undead Sword\n&7Damage: &c+30\n\n&7Deals &a+100% &7damage to &2༕ Undead\n&2&7mobs.\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r\n\n&7Cost\n&6100 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 100
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "UNDEAD_SWORD"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/END_SWORD|lore}}\n\n&7Cost\n&6150 Coins",
+      "lore": "End Sword\n&7Damage: &c+35\n\n&7Deals &a+100% &7damage to &5⊙ Ender\n&5&7mobs&7.\n\n&7&8This item can be reforged!\n&a&l UNCOMMON SWORD&r\n\n&7Cost\n&6150 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 150
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "END_SWORD"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/SPIDER_SWORD|lore}}\n\n&7Cost\n&6100 Coins",
+      "lore": "Spider Sword\n&7Damage: &c+30\n\n&7Deals &a+100% &7damage to &7Cave Spiders&7,\n&7&7Spiders&7, and &7Silverfish&7.\n\n&4This item is Arachnal Ж!\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r\n\n&7Cost\n&6100 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 100
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SPIDER_SWORD"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/DIAMOND_SWORD|lore}}\n\n&7Cost\n&660 Coins",
+      "lore": "Diamond Sword\n&7Damage: &c+35\n\n&7&8This item can be reforged!\n&a&lUNCOMMON SWORD&r\n\n&7Cost\n&660 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 60
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_SWORD"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/BOW|lore}}\n\n&7Cost\n&625 Coins",
+      "lore": "Bow\n&7Damage: &c+30\n\n&7&8This item can be reforged!\n&f&lCOMMON BOW&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BOW"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/ARROW|lore}}\n\n&7Cost\n&640 Coins",
+      "lore": "Flint Arrow\n&7Damage: &c+1\n\n&8Stats added when shot!\n&f&lCOMMON ARROW&r\n\n&7Cost\n&640 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 40
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ARROW",
+          "amount": 12
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/WITHER_BOW|lore}}\n\n&7Cost\n&6250 Coins",
+      "lore": "Wither Bow\n&7Damage: &c+30\n\n&7Deals &a+100% &7damage to &aWithers &7and\n&7&aWither Skeletons&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON BOW&r\n\n&7Cost\n&6250 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 250
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_BOW"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/ARTISANAL_SHORTBOW|lore}}\n\n&7Cost\n&6600 Coins",
+      "lore": "Artisanal Shortbow\n&7Damage: &c+40\n&7Shot Cooldown: &a0.5s\n\n&9Shortbow: Instantly shoots!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&9&lRARE BOW&r\n\n&7Cost\n&6600 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 600
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ARTISANAL_SHORTBOW"
         }
       ]
     }

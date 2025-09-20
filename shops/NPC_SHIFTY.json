@@ -4,29 +4,47 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/TUTTI_FRUTTI_POISON|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Tutti-Frutti Flavored Poison\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Adds &c+5% &7to the damage of\n&7Archery potions.\n\n&f&lCOMMON&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TUTTI_FRUTTI_POISON"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/DR_PAPER|lore}}\n\n&7Cost\n&64,000 Coins",
+      "lore": "Dctr. Paper\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Adds &6+75 Absorption ❤ &7to potions\n&7with that stat.\n\n&a&lUNCOMMON&r\n\n&7Cost\n&64,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 4000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DR_PAPER"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/SLAYER_ENERGY_DRINK|lore}}\n\n&7Cost\n&610,000 Coins",
+      "lore": "Slayer© Energy Drink\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Adds &b+10✯ Magic Find &7to Critical\n&7potions.\n\n&9&lRARE&r\n\n&7Cost\n&610,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SLAYER_ENERGY_DRINK"
         }
       ]
     }

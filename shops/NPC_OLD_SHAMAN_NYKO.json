@@ -4,20 +4,32 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/TRUE_ESSENCE|lore}}\n\n&7Cost\n&625,000 Coins",
+      "lore": "True Essence\n&7&8Brewing Ingredient\n\n&f&lCOMMON&r\n\n&7Cost\n&625,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TRUE_ESSENCE"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item_enchantment_true_protection_1}}\n\n&7Cost\n&6900,000 Coins",
+      "lore": "True Protection I\n&7&9True Protection I\n&7Grants &f+5❂ True Defense&7.\n\n&7Applicable on: &9Chestplate\n&7Apply Cost: &340 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&6900,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 900000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_TRUE_PROTECTION_1"
         }
       ]
     }

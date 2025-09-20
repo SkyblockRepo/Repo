@@ -4,92 +4,152 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/EXP_BOTTLE|lore}}\n\n&7Cost\n&630 Coins",
+      "lore": "Experience Bottle\n&7Smash it open to receive experience!\n\n&f&lCOMMON&r\n\n&7Cost\n&630 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 30
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "EXP_BOTTLE"
         }
       ]
     },
     "item10": {
-      "lore": "{{Item_enchantment_efficiency_1}}\n\n&7Cost\n&620 Coins",
+      "lore": "Efficiency I\n&7&9Efficiency I\n&7Grants &a+30 &6⸕ Mining Speed&7.\n\n&7Applicable on: &9Mining Tools&7, &9Tools\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_EFFICIENCY_1"
         }
       ]
     },
     "item2": {
-      "lore": "{{Item/BOOK|lore}}\n\n&7Cost\n&620 Coins",
+      "lore": "Book\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BOOK"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item_enchantment_sharpness_1}}\n\n&7Cost\n&630 Coins",
+      "lore": "Sharpness I\n&7&9Sharpness I\n&7Increases melee damage dealt by &a5%&7.\n\n&7Applicable on: &9Melee Weapon\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&630 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 30
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_SHARPNESS_1"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item_enchantment_scavenger_1}}\n\n&7Cost\n&640 Coins",
+      "lore": "Scavenger I\n&7&9Scavenger I\n&7Scavenge &60.3 Coins &7per monster\n&7level on kill.\n\n&7Applicable on: &9Melee Weapon\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&640 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 40
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_SCAVENGER_1"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item_enchantment_protection_1}}\n\n&7Cost\n&620 Coins",
+      "lore": "Protection I\n&7&9Protection I\n&7Grants &a+4 &a❈ Defense&7.\n\n&7Applicable on: &9Armor\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_PROTECTION_1"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item_enchantment_fire_protection_1}}\n\n&7Cost\n&630 Coins",
+      "lore": "Fire Protection I\n&7&9Fire Protection I\n&7Grants &f+2❂ True Defense &7against\n&7fire and lava.\n\n&7Applicable on: &9Armor\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&630 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 30
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_FIRE_PROTECTION_1"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item_enchantment_projectile_protection_1}}\n\n&7Cost\n&625 Coins",
+      "lore": "Projectile Protection I\n&7&9Projectile Protection I\n&7Grants &a+7 &a❈ Defense &7against\n&7projectiles.\n\n&7Applicable on: &9Armor\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_PROJECTILE_PROTECTION_1"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item_enchantment_bane_of_arthropods_1}}\n\n&7Cost\n&620 Coins",
+      "lore": "Bane of Arthropods I\n&7&9Bane of Arthropods I\n&7Increases damage dealt to &7Cave\n&7Spiders&7, &7Spiders&7, and &7Silverfish&7 by\n&a10%&7.\n\n&7Applicable on: &9Melee Weapon\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_BANE_OF_ARTHROPODS_1"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item_enchantment_smite_1}}\n\n&7Cost\n&620 Coins",
+      "lore": "Smite I\n&7&9Smite I\n&7Increases damage dealt to &7Zombies&7,\n&7Withers&7, &7Skeletons&7, and &7Zombie Pigmen\n&7by &a10%&7.\n\n&7Applicable on: &9Melee Weapon\n&7Apply Cost: &310 Exp Levels\n\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&620 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 20
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_SMITE_1"
         }
       ]
     }

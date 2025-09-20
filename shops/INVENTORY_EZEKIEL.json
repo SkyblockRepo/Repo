@@ -4,25 +4,37 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/HOT_CHOCOLATE|lore}}\n\n&7Cost\n&670,000 Coins",
+      "lore": "Hot Chocolate\n&7&7Its warm &echocolatey &7goodness\n&7imbues you with the ability to\n&7overcome the heat death of the\n&7&6Blazing Volcano&7.\n\n&a&lUNCOMMON&r\n\n&7Cost\n&670,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 70000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HOT_CHOCOLATE"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/BLACK_COFFEE|lore}}\n\n&7Cost\n&650,000 Coins",
+      "lore": "Black Coffee\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Adds &f+12✦ Speed &7to potions with\n&7that stat.\n\n&a&lUNCOMMON&r\n\n&7Cost\n&650,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BLACK_COFFEE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/MARSH_SPORE_SOUP|lore}}\n\n&7Cost\n&fMushroom Spore &8x5\n&61,000 Coins",
+      "lore": "Marsh Spore Soup\n&8Consumable\n\n&7A bubbling soup filled with poisonous\n&7mushrooms.\n\n&eRight-click to consume!\n\n&9&lRARE&r\n\n&7Cost\n&fMushroom Spore &8x5\n&61,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -33,10 +45,16 @@
           "type": "COINS",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MARSH_SPORE_SOUP"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/SCARLETON_PREMIUM|lore}}\n\n&7Cost\n&fMushroom Spore &8x50\n&620,000 Coins",
+      "lore": "Scarleton Premium\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Increases the effect of &4Wounded\n&4Potions &7by &a10%&7.\n\n&9&lRARE&r\n\n&7Cost\n&fMushroom Spore &8x50\n&620,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -46,6 +64,12 @@
         {
           "type": "COINS",
           "amount": 20000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SCARLETON_PREMIUM"
         }
       ]
     }
