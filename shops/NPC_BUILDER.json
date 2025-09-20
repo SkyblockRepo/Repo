@@ -1,0 +1,126 @@
+{
+  "internalId": "NPC_BUILDER",
+  "name": "Builder",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "oak_planks",
+      "name": "Woodworking",
+      "lore": "&7Wood-related blocks!"
+    },
+    "b3": {
+      "material": "black_stained_glass_pane"
+    },
+    "b4": {
+      "material": "stone",
+      "name": "Rocks & Bricks",
+      "lore": "&7Rocks, stones, sands and brick\n&7blocks."
+    },
+    "b5": {
+      "material": "black_stained_glass_pane"
+    },
+    "b6": {
+      "material": "rose_bush",
+      "name": "Green Thumb",
+      "lore": "&7Everything you need to grow a\n&7nice garden."
+    },
+    "b7": {
+      "material": "black_stained_glass_pane"
+    },
+    "b8": {
+      "material": "builder_orange",
+      "name": "Variety",
+      "lore": "&7Weird blocks and an assortment\n&7of decorative fruits."
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "hopper",
+      "name": "Sell Item",
+      "lore": "&7Click items in your inventory to sell\n&7them to this Shop!"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "4"
+}

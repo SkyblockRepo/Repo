@@ -1,0 +1,88 @@
+{
+  "internalId": "NPC_JAKE",
+  "name": "Jake",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/SHEEP_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/MUSHROOM_COW_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/COW_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/PIG_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/RABBIT_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/CHICKEN_AXE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/HARDENED_WOOD|lore}}\n\n&7Cost\n&615,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 15000
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/LUCKY_DICE|lore}}\n\n&7Cost\n&61,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/GOLDEN_BALL|lore}}\n\n&7Cost\n&61,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "internalId": "NPC_ODGER",
+  "name": "Trophy Fishing",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "sulphur_skitter_bronze",
+      "name": "Sulphur Skitter",
+      "lore": "\n&8How to catch\n&7Caught near Sulphur blocks.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "b3": {
+      "material": "obfuscated_fish_1_bronze",
+      "name": "Obfuscated 1",
+      "lore": "\n&8How to catch\n&7Caught with Corrupted Bait.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "b4": {
+      "material": "steaming_hot_flounder_bronze",
+      "name": "Steaming-Hot Flounder",
+      "lore": "\n&8How to catch\n&7Found in Volcano Geysers.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "b5": {
+      "material": "gusher_bronze",
+      "name": "Gusher",
+      "lore": "\n&8How to catch\n&7Caught after a volcano eruption.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "b6": {
+      "material": "blobfish_bronze",
+      "name": "Blobfish",
+      "lore": "\n&8How to catch\n&7Caught everywhere.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "b7": {
+      "material": "obfuscated_fish_2_bronze",
+      "name": "Obfuscated 2",
+      "lore": "\n&8How to catch\n&7Caught with Obfuscated 1\n&7Bait.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "b8": {
+      "material": "slugfish_bronze",
+      "name": "Slugfish",
+      "lore": "\n&8How to catch\n&7Bobber must be active for 30\n&7seconds.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "flyfish_bronze",
+      "name": "Flyfish",
+      "lore": "\n&8How to catch\n&7Caught from 8 blocks above.\n&7Found in Blazing Volcano.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "c3": {
+      "material": "obfuscated_fish_3_bronze",
+      "name": "Obfuscated 3",
+      "lore": "\n&8How to catch\n&7Caught with Obfuscated 2\n&7Bait.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "c4": {
+      "material": "lava_horse_bronze",
+      "name": "Lavahorse",
+      "lore": "\n&8How to catch\n&7Caught everywhere.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "c5": {
+      "material": "mana_ray_bronze",
+      "name": "Mana Ray",
+      "lore": "\n&8How to catch\n&7Lured by having a high amount of\n&7mana.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "c6": {
+      "material": "volcanic_stonefish_bronze",
+      "name": "Volcanic Stonefish",
+      "lore": "\n&8How to catch\n&7Found in Blazing Volcano.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "c7": {
+      "material": "vanille_bronze",
+      "name": "Vanille",
+      "lore": "\n&8How to catch\n&7Only caught with &aStarter Lava\n&aRod &7with no enchantments.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "c8": {
+      "material": "skeleton_fish_bronze",
+      "name": "Skeleton Fish",
+      "lore": "\n&8How to catch\n&7Found in Burning Desert.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "moldfin_bronze",
+      "name": "Moldfin",
+      "lore": "\n&8How to catch\n&7Found in Mystic Marsh.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "d3": {
+      "material": "soul_fish_bronze",
+      "name": "Soul Fish",
+      "lore": "\n&8How to catch\n&7Found in Stronghold.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "d4": {
+      "material": "karate_fish_bronze",
+      "name": "Karate Fish",
+      "lore": "\n&8How to catch\n&7Found in Dojo.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "d5": {
+      "material": "golden_fish_bronze",
+      "name": "Golden Fish",
+      "lore": "\n&8How to catch\n&7Found swimming around in the\n&7lava.\n\n&bDiamond &a✔\n&6Gold &a✔\n&7Silver &a✔\n&8Bronze &a✔\n\n&aDiscovered"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "magma_fish",
+      "name": "Fillet Trophy Fish",
+      "lore": "&8Inventory\n\n&7Fillets all the Trophy Fish in\n&7your inventory, giving you\n&cMagmafish &7as a reward!\n\n&eClick to fillet!"
+    },
+    "f3": {
+      "material": "fillet_trophy_fish",
+      "name": "Fillet Trophy Fish",
+      "lore": "&8Sacks\n\n&7Fillets all the Trophy Fish in\n&7your sacks, giving you\n&cMagmafish &7as a reward!\n\n&eClick to fillet!"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "barrier",
+      "name": "Close",
+      "lore": "barrier:Close"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane"
+    },
+    "f7": {
+      "material": "block_of_gold",
+      "name": "Trophy Fishing Rewards",
+      "lore": "&7Catch all Trophy Fish at a tier\n&7to gain unique rewards!\n\n&eClick to view!"
+    },
+    "f8": {
+      "material": "chest",
+      "name": "Lost Rewards Shop",
+      "lore": "&7Buy back any rewards you may\n&7have lost!\n\n&eClick to view!"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

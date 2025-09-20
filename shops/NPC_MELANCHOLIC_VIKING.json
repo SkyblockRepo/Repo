@@ -1,0 +1,45 @@
+{
+  "internalId": "NPC_MELANCHOLIC_VIKING",
+  "name": "Joyful Viking",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/VIKING_TEAR|lore}}\n\n&7Cost\n&615,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 15000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/PARK_JUNGLE_TRAVEL_SCROLL|lore}}\n\n&7Cost\n&670,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 70000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/RAIDER_AXE|lore}}\n\n&7Cost\n&6130,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 130000
+        }
+      ]
+    },
+    "item4": {
+      "material": "enchanted_book",
+      "name": "Enchanted Book",
+      "lore": "&9Experience IV\n&7Grants a &a50% &7chance for mobs\n&7and ores to drop double\n&7experience.\n\n&7Apply Cost: &368 Exp Levels\n\n&7Use this on an item in an Anvil\n&7to apply it!\n\n&f&lCOMMON&r\n\n&7Cost\n&6400,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 400000
+        }
+      ]
+    }
+  }
+}

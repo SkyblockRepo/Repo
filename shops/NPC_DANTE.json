@@ -1,0 +1,132 @@
+{
+  "internalId": "NPC_DANTE",
+  "name": "Mayor Dante",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "black_stained_glass_pane"
+    },
+    "b3": {
+      "material": "mayor_dante",
+      "name": "Mayor Dante",
+      "lore": "&8Changes List\n\n&9Economy Restoration\n&7 - Double AH & Bazaar Tax\n&7- 10% coin tax on shops\n&7- 10 coins per minute for chatting\n&7- 2 coin toll on travelling\n&7between islands\n\n&6Increased Security\n&7- Hired Goons to protect\n&7official buildings\n&7- Cancelled hazardous events\n&7- Decreased sunlight, prevent sunburn"
+    },
+    "b4": {
+      "material": "jukebox",
+      "name": "&bMayor Election Results",
+      "lore": "&8Year 128\n\n&c100.0%&8 ○ &eall votes&8 <nowiki>"
+    },
+    "b5": {
+      "material": "black_stained_glass_pane"
+    },
+    "b6": {
+      "lore": "{{Item_happy_mask}}\n\n&7Cost\n&6 100 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "b7": {
+      "lore": "{{Item_dante_talisman}}\n\n&7Cost\n&6 1,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        }
+      ]
+    },
+    "b8": {
+      "material": "black_stained_glass_pane"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "barrier"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "4"
+}

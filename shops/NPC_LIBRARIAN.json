@@ -1,0 +1,97 @@
+{
+  "internalId": "NPC_LIBRARIAN",
+  "name": "Librarian",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/EXP_BOTTLE|lore}}\n\n&7Cost\n&630 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item_enchantment_efficiency_1}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/BOOK|lore}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item_enchantment_sharpness_1}}\n\n&7Cost\n&630 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item_enchantment_scavenger_1}}\n\n&7Cost\n&640 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 40
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item_enchantment_protection_1}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_enchantment_fire_protection_1}}\n\n&7Cost\n&630 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item_enchantment_projectile_protection_1}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item_enchantment_bane_of_arthropods_1}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item_enchantment_smite_1}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    }
+  }
+}

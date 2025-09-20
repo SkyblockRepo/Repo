@@ -1,0 +1,97 @@
+{
+  "internalId": "NPC_AMELIA",
+  "name": "Amelia",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/PARKOUR_CONTROLLER|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item/SHOWCASE_BLOCK|lore}}\n\n&7Cost\n&650,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/PARKOUR_POINT|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/PARKOUR_TIMES|lore}}\n\n&7Cost\n&62,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/SOCIAL_DISPLAY|lore}}\n\n&7Cost\n&610,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/EGG_HUNT|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/ISLAND_NPC|lore}}\n\n&7Cost\n&650,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/TIC_TAC_TOE|lore}}\n\n&7Cost\n&62,500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/CONNECT_FOUR|lore}}\n\n&7Cost\n&62,500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/ROCK_PAPER_SHEARS|lore}}\n\n&7Cost\n&610,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "internalId": "NPC_TECHNOSHOP",
+  "name": "Technoshop",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "black_stained_glass_pane"
+    },
+    "b3": {
+      "material": "black_stained_glass_pane"
+    },
+    "b4": {
+      "lore": "{{Item_shiny_orb}}\n\n&7Cost\n&62,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        }
+      ]
+    },
+    "b5": {
+      "material": "black_stained_glass_pane"
+    },
+    "b6": {
+      "lore": "{{Item_the_art_of_war}}\n\n&7Cost\n&65,000,000 Coins\n&9Enchanted Cooked Porkchop &8x2",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GRILLED_PORK",
+          "amount": 2
+        }
+      ]
+    },
+    "b7": {
+      "material": "black_stained_glass_pane"
+    },
+    "b8": {
+      "material": "black_stained_glass_pane"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "lore": "{{Item_pig_mask}}\n\n&bBuyable once per profile!\n\n&7Cost\n&610,000 Coins\n&9Enchanted Raw Porkchop &8x2",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_PORK",
+          "amount": 2
+        }
+      ]
+    },
+    "d5": {
+      "material": "black_stained_glass_pane"
+    },
+    "d6": {
+      "lore": "{{Item_blood_god_crest}}\n\n&bBuyable once per profile!\n\n&7Cost\n&6500,000 Coins\n&9Enchanted Raw Porkchop &8x32",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 500000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_PORK",
+          "amount": 32
+        }
+      ]
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "black_stained_glass_pane"
+    },
+    "e3": {
+      "material": "black_stained_glass_pane"
+    },
+    "e4": {
+      "material": "black_stained_glass_pane"
+    },
+    "e5": {
+      "material": "black_stained_glass_pane"
+    },
+    "e6": {
+      "material": "black_stained_glass_pane"
+    },
+    "e7": {
+      "material": "black_stained_glass_pane"
+    },
+    "e8": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

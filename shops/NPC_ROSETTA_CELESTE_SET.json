@@ -1,0 +1,204 @@
+{
+  "internalId": "NPC_ROSETTA_CELESTE_SET",
+  "name": "Celeste Set",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "lore": "{{Item_celeste_wand}}\n\n&7Cost\n&65,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        }
+      ]
+    },
+    "b3": {
+      "lore": "{{Item_celeste_helmet}}\n\n&7Cost\n&65,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        }
+      ]
+    },
+    "b4": {
+      "lore": "{{Item_celeste_chestplate}}\n\n&7Cost\n&68,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8000
+        }
+      ]
+    },
+    "b5": {
+      "lore": "{{Item_celeste_leggings}}\n\n&7Cost\n&67,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 7000
+        }
+      ]
+    },
+    "b6": {
+      "lore": "{{Item_celeste_boots}}\n\n&7Cost\n&64,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4000
+        }
+      ]
+    },
+    "b7": {
+      "lore": ""
+    },
+    "b8": {
+      "lore": ""
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "lore": ""
+    },
+    "c3": {
+      "lore": ""
+    },
+    "c4": {
+      "lore": ""
+    },
+    "c5": {
+      "lore": ""
+    },
+    "c6": {
+      "lore": ""
+    },
+    "c7": {
+      "lore": ""
+    },
+    "c8": {
+      "lore": ""
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "lore": ""
+    },
+    "d3": {
+      "lore": ""
+    },
+    "d4": {
+      "lore": ""
+    },
+    "d5": {
+      "lore": ""
+    },
+    "d6": {
+      "lore": ""
+    },
+    "d7": {
+      "lore": ""
+    },
+    "d8": {
+      "lore": ""
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "lore": ""
+    },
+    "e3": {
+      "lore": ""
+    },
+    "e4": {
+      "lore": ""
+    },
+    "e5": {
+      "lore": ""
+    },
+    "e6": {
+      "lore": ""
+    },
+    "e7": {
+      "lore": ""
+    },
+    "e8": {
+      "lore": ""
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "arrow",
+      "name": "Go Back",
+      "lore": "&7To Rosetta's Starter Gear"
+    },
+    "f5": {
+      "material": "hopper",
+      "name": "Sell Item",
+      "lore": "&7Click items in your inventory to\n&7sell them to this Shop!"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

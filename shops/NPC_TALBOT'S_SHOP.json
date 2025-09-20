@@ -1,0 +1,70 @@
+{
+  "internalId": "NPC_TALBOT'S_SHOP",
+  "name": "Talbot (Finnegan's Friend)",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/TRAPPER_DEN_TRAVEL_SCROLL|lore}}\n\n&7Cost\n&5100 Pelts\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 100
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/TALBOTS_THEODOLITE|lore}}\n\n&7Cost\n&580 Pelts\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 80
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/PELT_BELT|lore}}\n\n&7Cost\n&5250 Pelts\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 250
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/TRAPPER_CREST|lore}}\n\n&7Cost\n&5340 Pelts\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 340
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/BROWN_BANDANA|lore}}\n\n&7Cost\n&5200 Pelts\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 200
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_potion_stinky_cheese_1}}\n\n&7Cost\n&540 Pelts\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 40
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/PEST_VEST|lore}}\n\n&7Cost\n&5250 Pelts\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 250
+        }
+      ]
+    }
+  }
+}

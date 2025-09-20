@@ -1,0 +1,196 @@
+{
+  "internalId": "NPC_BANK_ACCOUNT_UPGRADES",
+  "name": "Bank Account Upgrades",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "enchanted_wheat_seeds",
+      "name": "Starter Account",
+      "lore": "&8Not upgraded\n\n&a>-------\u2009\u2009&6Interest Tranches\u2009\u2009&a-------<\n&e\u2009\u2009First &610 &emillion coins yields &b2% &einterest.\n&e\u2009\u2009From &610 &eto &615 &emillion  yields &b1% &einterest.\n\n&7\u2009\u2009Max interest: &6250,000\n&8\u2009\u2009\u2009\u2009(With 15,000,000 balance)\n&a>-------------------------------<\n\n&7Max balance: &650 Million Coins\n\n&7Cost:&aComplimentary\n\n&aThis is your account!"
+    },
+    "b3": {
+      "material": "gold_nugget",
+      "name": "Gold Account",
+      "lore": "&8Bank Upgrade\n\n&6>-------\u2009\u2009&6Interest Tranches\u2009\u2009&6-------<\n&e\u2009\u2009First &610 &emillion coins yields &b2% &einterest.\n&e\u2009\u2009From &6 10 &eto &620 &emillion yields &b1% &einterest.\n\n&7\u2009\u2009Max interest: &6300,000\n&8\u2009\u2009\u2009\u2009(With 20,000,000 balance)\n&6>-------------------------------<\n\n&7Max balance: &6100 Million Coins\n\n&7Cost\n&65,000,000 coins\n&9Enchanted Gold Block\n\n&cRequires 100k gold collection!\n\n&cNot enough coins!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 1
+        }
+      ]
+    },
+    "b4": {
+      "material": "gold_ingot",
+      "name": "Deluxe Account",
+      "lore": "&8Bank Upgrade\n\n&d>-------\u2009\u2009&6Interest Tranches\u2009\u2009&d-------<\n&e\u2009\u2009First &610 &emillion coins yields &b2% &einterest.\n&e\u2009\u2009From &6 10 &eto &620 &emillion yields &b1% &einterest.\n&e\u2009\u2009From &6 20 &eto &630 &emillion yields &b0.5% &einterest.\n\n&7\u2009\u2009Max interest: &6350,000\n&8\u2009\u2009\u2009\u2009(With 30,000,000 balance)\n&d>-------------------------------<\n\n&7Max balance: &6250 Million Coins\n\n&7Cost\n&610,000,000 coins\n&9Enchanted Gold Block &8x5\n\n&cRequires Wealthy Museum Rank\n\n&cRequires 250k gold collection!\n\n&cNeed previous upgrade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 5
+        }
+      ]
+    },
+    "b5": {
+      "material": "golden_chestplate",
+      "name": "Super Deluxe Account",
+      "lore": "&8Bank Upgrade\n\n&5>-------\u2009\u2009&6Interest Tranches\u2009\u2009&5-------<\n&e\u2009\u2009First &610 &emillion coins yields &b2% &einterest.\n&e\u2009\u2009From &6 10 &eto &620 &emillion yields &b1% &einterest.\n&e\u2009\u2009From &6 20 &eto &630 &emillion yields &b0.5% &einterest.\n&e\u2009\u2009From &6 30 &eto &650 &emillion yields &b0.2% &einterest.\n\n&7\u2009\u2009Max interest: &6390,000\n&8\u2009\u2009\u2009\u2009(With 50,000,000 balance)\n&5>-------------------------------<\n\n&7Max balance: &6500 Million Coins\n\n&7Cost\n&625,000,000 coins\n&9Enchanted Gold Block &8x20\n\n&cRequires Prosperous Museum Rank\n\n&cRequires 500k gold collection!\n\n&cNeed previous upgrade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 20
+        }
+      ]
+    },
+    "b6": {
+      "material": "golden_horse_armor",
+      "name": "Premier Account",
+      "lore": "&8Bank Upgrade\n\n&c>-------\u2009\u2009&6Interest Tranches\u2009\u2009&c-------<\n&e\u2009\u2009First &610 &emillion coins yields &b2% &einterest.\n&e\u2009\u2009From &6 10 &eto &620 &emillion yields &b1% &einterest.\n&e\u2009\u2009From &6 20 &eto &630 &emillion yields &b0.5% &einterest.\n&e\u2009\u2009From &6 30 &eto &650 &emillion yields &b0.2% &einterest.\n&e\u2009\u2009From &6 50 &eto &6160 &emillion yields &b0.1% &einterest.\n\n&7\u2009\u2009Max interest: &6500,000\n&8\u2009\u2009\u2009\u2009(With 160,000,000 balance)\n&c>-------------------------------<\n\n&7Max balance: &61 Billion Coins\n\n&7Cost\n&650,000,000 coins\n&9Enchanted Gold Block &8x50\n\n&cRequires Gilded Museum Rank\n\n&cRequires 1M gold collection!\n\n&cNeed previous upgrade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 50
+        }
+      ]
+    },
+    "b7": {
+      "material": "bank_upgrade_luxurious",
+      "name": "&3Luxurious Account",
+      "lore": "&8Bank Upgrade\n\n&3>------- &6Interest Tranches&3-------&3<\n &eFirst &610M &ecoins yields &b2% &einterest.\n &eFrom &610M &eto &620M &ecoins yields &b1% &einterest.\n &eFrom &620M &eto &630M &ecoins yields &b0.5% &einterest.\n &eFrom &630M &eto &650M &ecoins yields &b0.2% &einterest.\n &eFrom &650M &eto &6160M &ecoins yields &b0.1% &einterest.\n &eFrom &6160M &eto &65.1B &ecoins yields &b0.01% &einterest.\n\n &7Max interest: &61,000,000\n &8 (With 5,160,000,000 balance)\n&3>-------------------------------&3<\n\n&7Max balance: &66 Billion Coins\n\n&7Cost\n&6100,000,000 coins\n&9Enchanted Gold Block &8x100\n\n&cRequires Affluent Museum Rank\n\n&cRequires 2M gold collection!\n\n&cNeed previous upgrade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 100
+        }
+      ]
+    },
+    "b8": {
+      "material": "bank_upgrade_palatial",
+      "name": "&4Palatial Account",
+      "lore": "&8Bank Upgrade\n\n&4>-------   &6Interest Tranches&4 -------&4<\n &eFirst &610M &ecoins yields &b2% &einterest.\n &eFrom &610M &eto &620M &ecoins yields &b1% &einterest.\n &eFrom &620M &eto &630M &ecoins yields &b0.5% &einterest.\n &eFrom &630M &eto &650M &ecoins yields &b0.2% &einterest.\n &eFrom &650M &eto &6160M &ecoins yields &b0.1% &einterest.\n &eFrom &6160M &eto &65.1B &ecoins yields &b0.01% &einterest.\n &eFrom &65.1B &eto &655B &ecoins yields &b0.001% &einterest.\n\n &7Max interest: &61,500,000\n &8 (With 55,160,000,000 balance)\n&4>---------------------------------&4<\n\n&7Max balance: &660 Billion Coins\n\n&7Cost\n&6200,000,000 coins\n&9Enchanted Gold Block &8x200\n\n&cRequires Palatial Museum Rank\n\n&cRequires 3M gold collection!\n\n&cNeed previous upgrade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 200
+        }
+      ]
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "arrow"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "4"
+}

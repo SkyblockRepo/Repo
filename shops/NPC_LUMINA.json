@@ -1,0 +1,34 @@
+{
+  "internalId": "NPC_LUMINA",
+  "name": "Lumina",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_torch}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_lantern}}\n\n&7Cost\n&610,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item_infini_torch}}\n\n&7Cost\n&6100,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ]
+    }
+  }
+}

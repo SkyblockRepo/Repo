@@ -1,0 +1,125 @@
+{
+  "internalId": "NPC_BARTENDER",
+  "name": "Bartender",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/CHEAP_COFFEE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item/WOLF_FUR_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/END_PORTAL_FUMES_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000
+        }
+      ]
+    },
+    "item12": {
+      "lore": "{{Item/GABAGOEY_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/TEPID_GREEN_TEA|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/PULPOUS_ORANGE_JUICE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/BITTER_ICE_TEA|lore}}\n\n&7Cost\n&61,200 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1200
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/KNOCKOFF_COLA|lore}}\n\n&7Cost\n&61,500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1500
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/DECENT_COFFEE|lore}}\n\n&7Cost\n&65,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/REVENANT_GENERATOR_12|lore}}\n\n&7Cost\n&9Revenant Minion 11\n&9Revenant Viscera &8x64\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "REVENANT_GENERATOR_1",
+          "amount": 11
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REVENANT_VISCERA",
+          "amount": 64
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/ZOMBIE_BRAIN_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/SPIDER_EGG_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000
+        }
+      ]
+    }
+  }
+}

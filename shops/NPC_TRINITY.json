@@ -1,0 +1,27 @@
+{
+  "internalId": "NPC_TRINITY",
+  "name": "Trinity",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_potion_regeneration_9}}\n\n&7Cost\n&610,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "item2": {
+      "material": "enchanted_potion_of_swiftness",
+      "name": "Speed V Potion",
+      "lore": "\n&9Speed V &f(10:00)\n&7Grants &a+25 &f✦ Speed\n\n&4Regeneration V &f(10:00)\n&7Grants &c+25❣ Health Regen&7.\n\n&9&lRARE&r\n\n&7Cost\n&6100,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ]
+    }
+  }
+}

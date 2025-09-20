@@ -1,0 +1,34 @@
+{
+  "internalId": "INVENTORY_BRYNMOR'S_SHOP",
+  "name": "Brynmor's Shop",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/MINING_PUMPKIN|lore}}\n\n&7Cost\n&650,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/FILET_O_FORTUNE|lore}}\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/CHILLED_PRISTINE_POTATO|lore}}\n\n&7Cost\n&6250,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 250000
+        }
+      ]
+    }
+  }
+}

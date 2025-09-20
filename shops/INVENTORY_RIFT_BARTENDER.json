@@ -1,0 +1,46 @@
+{
+  "internalId": "INVENTORY_RIFT_BARTENDER",
+  "name": "Rift Bartender",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/RIFT_SPEED_ELIXIR|lore}}\n\n&7Cost\n&aShy Crux &8x5\n&d10,000 Motes",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SHAME_CRUX",
+          "amount": 5
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/RIFT_JUMP_ELIXIR|lore}}\n\n&7Cost\n&aShy Crux &8x5\n&d5,000 Motes",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SHAME_CRUX",
+          "amount": 5
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/RIFT_STRENGTH_ELIXIR|lore}}\n\n&7Cost\n&aShy Crux &8x5\n&d12,000 Motes",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SHAME_CRUX",
+          "amount": 5
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/RIFT_STABILITY_ELIXIR|lore}}\n\n&7Cost\n&d500 Motes",
+      "cost": [
+        {
+          "type": "MOTES",
+          "amount": 500
+        }
+      ]
+    }
+  }
+}

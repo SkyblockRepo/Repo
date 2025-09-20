@@ -1,0 +1,108 @@
+{
+  "internalId": "NPC_GREGORY",
+  "name": "Gregory",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "lore": "{{Item/ARROW|lore}}\n\n&7Cost\n&6240 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 240
+        }
+      ]
+    },
+    "b3": {
+      "lore": "{{Item/DECENT_BOW|lore}}\n\n&7Cost\n&6500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 500
+        }
+      ]
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "hopper",
+      "name": "Sell Item",
+      "lore": "&7Click items in your inventory to\n&7sell them to this Shop!"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "quiver",
+      "name": "Fill your Quiver",
+      "lore": "&7Time is money! Save a few\n&7clicks by filling up your\n&7quiver."
+    }
+  },
+  "rows": "6"
+}

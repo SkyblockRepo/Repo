@@ -1,0 +1,70 @@
+{
+  "internalId": "NPC_PEARL_DEALER",
+  "name": "Pearl Dealer",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_enchantment_dragon_hunter_1}}\n\n&7Cost\n&61,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_enchantment_ender_slayer_6}}\n\n&7Cost\n&61,500,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1500000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/ENDER_STONE|lore}}\n\n&7Cost\n&610 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/OBSIDIAN|lore}}\n\n&7Cost\n&650 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/REMNANT_OF_THE_EYE|lore}}\n\n&7Cost\n&6200,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/STONK_PICKAXE|lore}}\n\n&7Cost\n&6499,999 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 499999
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/SILENT_PEARL|lore}}\n\n&7Cost\n&61,200 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1200
+        }
+      ]
+    }
+  }
+}

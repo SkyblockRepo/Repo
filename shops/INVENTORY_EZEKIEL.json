@@ -1,0 +1,53 @@
+{
+  "internalId": "INVENTORY_EZEKIEL",
+  "name": "Ezekiel",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/HOT_CHOCOLATE|lore}}\n\n&7Cost\n&670,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 70000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/BLACK_COFFEE|lore}}\n\n&7Cost\n&650,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/MARSH_SPORE_SOUP|lore}}\n\n&7Cost\n&fMushroom Spore &8x5\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_SPORE",
+          "amount": 5
+        },
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/SCARLETON_PREMIUM|lore}}\n\n&7Cost\n&fMushroom Spore &8x50\n&620,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_SPORE",
+          "amount": 50
+        },
+        {
+          "type": "COINS",
+          "amount": 20000
+        }
+      ]
+    }
+  }
+}

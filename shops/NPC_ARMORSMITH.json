@@ -1,0 +1,139 @@
+{
+  "internalId": "NPC_ARMORSMITH",
+  "name": "Armorsmith",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "leather_cap",
+      "name": "Leather Helmet",
+      "lore": "&7Defense: &a+5\n\n&8This item can be reforged!\n&f&lCOMMON HELMET&r\n\n&7Cost\n&68 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8
+        }
+      ]
+    },
+    "item10": {
+      "material": "enchanted_diamond_chestplate",
+      "name": "Diamond Chestplate",
+      "lore": "&7Health: &a+15 HP \n&7Defense: &a+40\n\n&9Growth I\n&7Grants &a+15 &c❤ Health\n\n&8This item can be reforged!\n&a&lUNCOMMON CHESTPLATE&r\n\n&7Cost\n&6440 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 440
+        }
+      ]
+    },
+    "item11": {
+      "material": "enchanted_diamond_leggings",
+      "name": "Diamond Leggings",
+      "lore": "&7Health: &a+15 HP \n&7Defense: &a+30\n\n&9Growth I\n&7Grants &a+15 &c❤ Health\n\n&8This item can be reforged!\n&a&lUNCOMMON LEGGINGS&r\n\n&7Cost\n&6400 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 400
+        }
+      ]
+    },
+    "item12": {
+      "material": "enchanted_diamond_boots",
+      "name": "Diamond Boots",
+      "lore": "&7Health: &a+15 HP \n&7Defense: &a+15\n\n&9Growth I\n&7Grants &a+15 &c❤ Health\n\n&8This item can be reforged!\n&a&lUNCOMMON BOOTS&r\n\n&7Cost\n&6320 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 320
+        }
+      ]
+    },
+    "item2": {
+      "material": "leather_tunic",
+      "name": "Leather Chestplate",
+      "lore": "&7Defense: &a+15\n\n&8This item can be reforged!\n&f&lCOMMON CHESTPLATE&r\n\n&7Cost\n&614 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 14
+        }
+      ]
+    },
+    "item3": {
+      "material": "leather_pants",
+      "name": "Leather Leggings",
+      "lore": "&7Defense: &a+10\n\n&8This item can be reforged!\n&f&lCOMMON LEGGINGS&r\n\n&7Cost\n&616 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 16
+        }
+      ]
+    },
+    "item4": {
+      "material": "leather_boots",
+      "name": "Leather Boots",
+      "lore": "&7Defense: &a+5\n\n&8This item can be reforged!\n&f&lCOMMON BOOTS&r\n\n&7Cost\n&610 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item5": {
+      "material": "iron_helmet",
+      "name": "Iron Helmet",
+      "lore": "&7Defense: &a+10\n\n&8This item can be reforged!\n&f&lCOMMON BOOTS&r\n\n&7Cost\n&615 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 15
+        }
+      ]
+    },
+    "item6": {
+      "material": "iron_chestplate",
+      "name": "Iron Chestplate",
+      "lore": "&7Defense: &a+30\n\n&8This item can be reforged!\n&f&lCOMMON BOOTS&r\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item7": {
+      "material": "iron_leggings",
+      "name": "Iron Leggings",
+      "lore": "&7Defense: &a+25\n\n&8This item can be reforged!\n&f&lCOMMON BOOTS&r\n\n&7Cost\n&630 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item8": {
+      "material": "iron_boots",
+      "name": "Iron Boots",
+      "lore": "&7Defense: &a+10\n\n&8This item can be reforged!\n&f&lCOMMON BOOTS&r\n\n&7Cost\n&630 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item9": {
+      "material": "enchanted_diamond_helmet",
+      "name": "Diamond Helmet",
+      "lore": "&7Health: &a+15 HP \n&7Defense: &a+25\n\n&9Growth I\n&7Grants &a+15 &c❤ Health\n\n&8This item can be reforged!\n&a&lUNCOMMON HELMET&r\n\n&7Cost\n&6350 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 350
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "internalId": "NPC_TOMIOKA",
+  "name": "Tomioka",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "enchanted_book",
+      "name": "Enchanted Book",
+      "lore": "1&9Sharpness VI\n&7Increases melee damage dealt by\n&a45%\n\n&7Use this on an item in an Anvil\n&7to apply it!\n\n&9&lRARE&r\n\n&7Cost\n&610,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "item2": {
+      "material": "enchanted_book",
+      "name": "Enchanted Book",
+      "lore": "1&9Scavenger V\n&7Scavenge &61.5 Coins &7per\n&7monster level on kill.\n\n&7Use this on an item in an Anvil\n&7to apply it!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&615,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 15000000
+        }
+      ]
+    },
+    "item3": {
+      "material": "enchanted_book",
+      "name": "Enchanted Book",
+      "lore": "1&9Protection VI\n&7Grants &a+18❈ Defense\n\n&7Use this on an item in an Anvil\n&7to apply it!\n\n&9&lRARE&r\n\n&7Cost\n&64,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4000000
+        }
+      ]
+    },
+    "item4": {
+      "material": "enchanted_book",
+      "name": "Enchanted Book",
+      "lore": "1&9Smite VII\n&7Increases damage dealt to\n&7Zombie Pigmen.\n&7Skeletons. Zombies. and \n&7Withers by &a100%\n\n&7Use this on an item in an Anvil\n&7to apply it!\n\n&5&lEPIC&r\n\n&7Cost\n&625,000,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25000000
+        }
+      ]
+    }
+  }
+}

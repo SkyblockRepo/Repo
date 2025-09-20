@@ -1,0 +1,183 @@
+{
+  "internalId": "GEMSTONE_GRINDER",
+  "name": "Gemstone Grinder",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "black_stained_glass_pane"
+    },
+    "b3": {
+      "material": "black_stained_glass_pane"
+    },
+    "b4": {
+      "material": "black_stained_glass_pane"
+    },
+    "b6": {
+      "material": "black_stained_glass_pane"
+    },
+    "b7": {
+      "material": "black_stained_glass_pane"
+    },
+    "b8": {
+      "material": "black_stained_glass_pane"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "gray_stained_glass_pane",
+      "name": "&dGemstone Slot",
+      "lore": "&7Place an item above to apply\n&7Gemstones to it!"
+    },
+    "d3": {
+      "material": "gray_stained_glass_pane",
+      "name": "&dGemstone Slot",
+      "lore": "&7Place an item above to apply\n&7Gemstones to it!"
+    },
+    "d4": {
+      "material": "gray_stained_glass_pane",
+      "name": "&dGemstone Slot",
+      "lore": "&7Place an item above to apply\n&7Gemstones to it!"
+    },
+    "d5": {
+      "material": "gray_stained_glass_pane",
+      "name": "&dGemstone Slot",
+      "lore": "&7Place an item above to apply\n&7Gemstones to it!"
+    },
+    "d6": {
+      "material": "gray_stained_glass_pane",
+      "name": "&dGemstone Slot",
+      "lore": "&7Place an item above to apply\n&7Gemstones to it!"
+    },
+    "d7": {
+      "material": "gray_stained_glass_pane",
+      "name": "&dGemstone Slot",
+      "lore": "&7Place an item above to apply\n&7Gemstones to it!"
+    },
+    "d8": {
+      "material": "gray_stained_glass_pane",
+      "name": "&dGemstone Slot",
+      "lore": "&7Place an item above to apply\n&7Gemstones to it!"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "black_stained_glass_pane"
+    },
+    "e3": {
+      "material": "black_stained_glass_pane"
+    },
+    "e4": {
+      "material": "black_stained_glass_pane"
+    },
+    "e5": {
+      "material": "black_stained_glass_pane"
+    },
+    "e6": {
+      "material": "black_stained_glass_pane"
+    },
+    "e7": {
+      "material": "black_stained_glass_pane"
+    },
+    "e8": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "redstone_torch",
+      "name": "Gemstone Guide",
+      "lore": "&7Many items can have &dGemstones\n&7applied to them. Gemstones\n&7increase the stats of an item\n&7based on the type of Gemstone\n&7used.\n\n&7There are several &aqualities\n&7of Gemstones, ranging from\n&fRough &7to &6Perfect&7. The\n&7higher the quality, the better\n&7the stat!\n\n&7This guide shows the items that\n&7can have Gemstones applied to\n&7them."
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

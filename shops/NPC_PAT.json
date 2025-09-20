@@ -1,0 +1,25 @@
+{
+  "internalId": "NPC_PAT",
+  "name": "Pat",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/FLINT|lore}}\n\n&7Cost\n&660 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 60
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/GRAVEL|lore}}\n\n&7Cost\n&665 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 65
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "internalId": "TRADES_MENU",
+  "name": "Trades",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "b2": {
+      "lore": "{{Item_hub_portal}}\n\n&7Cost\n&6100 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "b3": {
+      "lore": "{{Item_coal}}\n\n&7Cost\n&fOak Wood",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "LOG",
+          "amount": 1
+        }
+      ]
+    },
+    "b4": {
+      "lore": "{{Item_grass}}\n\n&7Cost\n&fDirt &8x4",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT",
+          "amount": 4
+        }
+      ]
+    },
+    "b5": {
+      "lore": "{{Item_dirt}}\n\n&7Cost\n&fSeeds &8x8",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SEEDS",
+          "amount": 8
+        }
+      ]
+    },
+    "b6": {
+      "lore": "{{Item_clay_ball}}\n\n&7Cost\n&fSeeds &8x12",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SEEDS",
+          "amount": 12
+        }
+      ]
+    },
+    "b7": {
+      "lore": "{{Item_oak_leaves}}\n\n&7Cost\n&fOak Sapling",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAPLING",
+          "amount": 1
+        }
+      ]
+    },
+    "b8": {
+      "lore": "{{Item_spruce_leaves}}\n\n&7Cost\n&fSpruce Sapling",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAPLING:1",
+          "amount": 1
+        }
+      ]
+    },
+    "b9": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "c2": {
+      "lore": "{{Item_birch_leaves}}\n\n&7Cost\n&fBirch Sapling",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAPLING:2",
+          "amount": 1
+        }
+      ]
+    },
+    "c3": {
+      "lore": "{{Item_jungle_leaves}}\n\n&7Cost\n&fJungle Sapling",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAPLING:3",
+          "amount": 1
+        }
+      ]
+    },
+    "c4": {
+      "lore": "{{Item_vine}}\n\n&7Cost\n&fJungle Leaves &8x5",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "LEAVES:3",
+          "amount": 5
+        }
+      ]
+    },
+    "c5": {
+      "lore": "{{Item_acacia_leaves}}\n\n&7Cost\n&fAcacia Sapling",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAPLING:4",
+          "amount": 1
+        }
+      ]
+    },
+    "c6": {
+      "lore": "{{Item_dark_oak_leaves}}\n\n&7Cost\n&fDark Oak Sapling",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAPLING:5",
+          "amount": 1
+        }
+      ]
+    },
+    "c7": {
+      "lore": "{{Item_enchanted_bone_meal}}\n\n&7Cost\n&fBone &8x32",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "BONE",
+          "amount": 32
+        }
+      ]
+    },
+    "c8": {
+      "lore": "{{Item_long_grass}}\n\n&7Cost\n&fDirt &8x8",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT",
+          "amount": 8
+        }
+      ]
+    },
+    "c9": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "d2": {
+      "lore": "{{Item_fern}}\n\n&7Cost\n&fDirt &8x8",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT",
+          "amount": 8
+        }
+      ]
+    },
+    "d3": {
+      "lore": "{{Item_dead_bush}}\n\n&7Cost\n&fDirt &8x8",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT",
+          "amount": 8
+        }
+      ]
+    },
+    "d4": {
+      "lore": "{{Item_tall_grass}}\n\n&7Cost\n&fDirt &8x8",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT",
+          "amount": 8
+        }
+      ]
+    },
+    "d5": {
+      "lore": "{{Item_water_bucket}}\n\n&7Cost\n&612 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "d6": {
+      "lore": "{{Item_lava_bucket}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "d7": {
+      "lore": "{{Item_milk_bucket}}\n\n&7Cost\n&650 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "d8": {
+      "lore": "{{Item_soul_sand}}\n\n&7Cost\n&fSand &8x2\n&fFermented Spider Eye",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAND",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FERMENTED_SPIDER_EYE",
+          "amount": 1
+        }
+      ]
+    },
+    "d9": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "e2": {
+      "lore": "{{Item_nether_brick_item}}\n\n&7Cost\n&fNetherrack",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "NETHERRACK",
+          "amount": 1
+        }
+      ]
+    },
+    "e3": {
+      "lore": "{{Item_sponge}}\n\n&7Cost\n&fWet Sponge",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SPONGE:1",
+          "amount": 1
+        }
+      ]
+    },
+    "e4": {
+      "lore": "{{Item_teleport_pad}}\n\n&7Cost\n&aEnchanted Eye of Ender",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_EYE_OF_ENDER",
+          "amount": 1
+        }
+      ]
+    },
+    "e9": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "f4": {
+      "material": "arrow",
+      "lore": "1"
+    },
+    "f5": {
+      "material": "barrier",
+      "lore": "1"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane",
+      "lore": "1"
+    }
+  },
+  "rows": "6"
+}

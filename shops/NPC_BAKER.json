@@ -1,0 +1,18 @@
+{
+  "internalId": "NPC_BAKER",
+  "name": "Baker",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "new_year_cake_bag",
+      "name": "New Year Cake Bag",
+      "lore": "&7Holds &dNew Year Cake&7. Each\n&7unique New Year Cake within this\n&7bag grants &a+1 &c❤ Health&7.\n\n&8This item can be reforged!\n&a&lUNCOMMON ACCESSORY&r\n\n&7Cost\n&6250,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 250000
+        }
+      ]
+    }
+  }
+}

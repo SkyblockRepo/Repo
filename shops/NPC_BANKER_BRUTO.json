@@ -1,0 +1,124 @@
+{
+  "internalId": "NPC_BANKER_BRUTO",
+  "name": "Personal Bank Account",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "black_stained_glass_pane"
+    },
+    "b3": {
+      "material": "chest",
+      "name": "Deposit Coins",
+      "lore": "&7Current balance: &65,000,000\n\n&7Store coins in the bank to keep\n&7them safe while you go on\n&7adventures!\n\n&7You will earn &b2% &7interest every\n&7season for your first &610 million\n&7banked coins.\n\n&7Until interest: &b12h"
+    },
+    "b4": {
+      "material": "black_stained_glass_pane"
+    },
+    "b5": {
+      "material": "dropper",
+      "name": "Withdraw Coins",
+      "lore": "&7Current balance: &65,000,000\n\n&7Take your coins out of the bank\n&7in order to spend them."
+    },
+    "b6": {
+      "material": "black_stained_glass_pane"
+    },
+    "b7": {
+      "material": "map",
+      "name": "Recent transactions",
+      "lore": "&7Unknown map\n\n&c- &6100,000&7, &e30 secs ago &7by &bSteve\n&a+ &6100,000&7, &e18 hours ago &7by Bank Interest\n&a+ &65,000,000&7, &e1 day ago &7by &bSteve"
+    },
+    "b8": {
+      "material": "black_stained_glass_pane"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "barrier"
+    },
+    "d6": {
+      "material": "redstone_torch",
+      "name": "Information",
+      "lore": "&7Keep your coins safe in the bank!\n&7You lose half the coins in your\n&7purse when dying in combat.\n\n&7Balance limit: &650 Million\n\n&7The banker rewards you every 31\n&7hours with &binterest &7for the\n&7coins in your bank balance.\n\n&7Interest in: &b12h\n&7Last interest: &6100,000 coins\n&7Projected: &6100,000 coins &b(2%)"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "4"
+}

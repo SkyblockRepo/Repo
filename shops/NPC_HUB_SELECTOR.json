@@ -1,0 +1,228 @@
+{
+  "internalId": "NPC_HUB_SELECTOR",
+  "name": "SkyBlock Hub Selector",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #1",
+      "lore": "&7Players: 80/80\n&8Server: mega21B\n\n&cFull!"
+    },
+    "b3": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #2",
+      "lore": "&7Players: 72/80\n&8Server: mega38C"
+    },
+    "b4": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #3",
+      "lore": "&7Players: 70/80\n&8Server: mega93B"
+    },
+    "b5": {
+      "material": "blue_terracotta",
+      "name": "SkyBlock Hub #4",
+      "lore": "&7Players: 74/80\n&8Server: mega99A\n\n&7Online Friends:\n&b[MVP&c+&b] Steve"
+    },
+    "b6": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #5",
+      "lore": "&7Players: 70/80\n&8Server: mega41E"
+    },
+    "b7": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #6",
+      "lore": "&7Players: 76/80\n&8Server: mega2C"
+    },
+    "b8": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #7",
+      "lore": "&7Players: 72/80\n&8Server: mega57E"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #8",
+      "lore": "&7Players: 69/80\n&8Server: mega87C"
+    },
+    "c3": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #9",
+      "lore": "&7Players: 72/80\n&8Server: mega51E"
+    },
+    "c4": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #10",
+      "lore": "&7Players: 67/80\n&8Server: mega28A"
+    },
+    "c5": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #11",
+      "lore": "&7Players: 70/80\n&8Server: mega63E"
+    },
+    "c6": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #12",
+      "lore": "&7Players: 65/80\n&8Server: mega1C"
+    },
+    "c7": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #13",
+      "lore": "&7Players: 66/80\n&8Server: mega54D"
+    },
+    "c8": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #14",
+      "lore": "&7Players: 66/80\n&8Server: mega13C"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #15",
+      "lore": "&7Players: 66/80\n&8Server: mega91A"
+    },
+    "d3": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #16",
+      "lore": "&7Players: 64/80\n&8Server: mega86E"
+    },
+    "d4": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #17",
+      "lore": "&7Players: 67/80\n&8Server: mega20E"
+    },
+    "d5": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #18",
+      "lore": "&7Players: 65/80\n&8Server: mega58C"
+    },
+    "d6": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #19",
+      "lore": "&7Players: 63/80\n&8Server: mega21A"
+    },
+    "d7": {
+      "material": "blue_terracotta",
+      "name": "SkyBlock Hub #20",
+      "lore": "&7Players: 61/80\n&8Server: mega71E\n\n&7Online Guild Members:\n&a[VIP] Alex"
+    },
+    "d8": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #21",
+      "lore": "&7Players: 60/80\n&8Server: mega59C"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "red_terracotta",
+      "name": "SkyBlock Hub #22",
+      "lore": "&7Players: 59/80\n&8Server: mega89C\n\n&cAlready connected!"
+    },
+    "e3": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #23",
+      "lore": "&7Players: 57/80\n&8Server: mega1B"
+    },
+    "e4": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #24",
+      "lore": "&7Players: 56/80\n&8Server: mega8E"
+    },
+    "e5": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #25",
+      "lore": "&7Players: 58/80\n&8Server: mega23B"
+    },
+    "e6": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #26",
+      "lore": "&7Players: 55/80\n&8Server: mega61C"
+    },
+    "e7": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #27",
+      "lore": "&7Players: 54/80\n&8Server: mega93E"
+    },
+    "e8": {
+      "material": "block_of_quartz",
+      "name": "SkyBlock Hub #28",
+      "lore": "&7Players: 50/80\n&8Server: mega99E"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "compass",
+      "name": "Random Hub",
+      "lore": "&7Have no strong feelings one way\n&7or the other?\n\n&7Hub servers: &a1,088\n&7Current:&3mega89C &7(59/80)"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

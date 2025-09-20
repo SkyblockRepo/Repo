@@ -1,0 +1,179 @@
+{
+  "internalId": "NPC_BAZAAR_ODDITIES-HIGH_REFORGE_STONES",
+  "name": "Oddities ➜ High Reforge Stones",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "amber_material",
+      "name": "Amber Material",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b3": {
+      "material": "precursor_gear",
+      "name": "Precursor Gear",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b4": {
+      "material": "wither_blood",
+      "name": "Wither Blood",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b5": {
+      "material": "deep_sea_orb",
+      "name": "Deep Sea Orb",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b6": {
+      "material": "bulky_stone",
+      "name": "Bulky Stone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b7": {
+      "material": "kuudra_mandible",
+      "name": "Kuudra Mandible",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b8": {
+      "material": "sadan_brooch",
+      "name": "Sadan's Brooch",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "blessed_fruit",
+      "name": "Blessed Fruit",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c3": {
+      "material": "petrified_starfall",
+      "name": "Petrified Starfall",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c4": {
+      "material": "giant_tooth",
+      "name": "Giant Tooth",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c5": {
+      "material": "dragon_horn",
+      "name": "Dragon Horn",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c6": {
+      "material": "refined_amber",
+      "name": "Refined Amber",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c7": {
+      "material": "lucky_dice",
+      "name": "Lucky Dice",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c8": {
+      "material": "golden_ball",
+      "name": "Golden Ball",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "hot_stuff",
+      "name": "Hot Stuff",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "black_stained_glass_pane"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "black_stained_glass_pane"
+    },
+    "e3": {
+      "material": "chest",
+      "name": "Sell Inventory Now",
+      "lore": "&7Instantly sell all Amber\n&7Material derivatives in your\n&7inventory."
+    },
+    "e4": {
+      "material": "black_stained_glass_pane"
+    },
+    "e5": {
+      "material": "arrow",
+      "name": "&r&aGo Back",
+      "lore": "&7To Bazaar"
+    },
+    "e6": {
+      "material": "book",
+      "name": "Manage Orders",
+      "lore": "&7You don't have any ongoing\n&7orders for these products."
+    },
+    "e7": {
+      "material": "black_stained_glass_pane"
+    },
+    "e8": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "5"
+}

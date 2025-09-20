@@ -1,0 +1,124 @@
+{
+  "internalId": "NPC_MAD_REDSTONE_ENGINEER",
+  "name": "Mad Redstone Engineer",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/REDSTONE_TORCH_ON|lore}}\n\n&7Cost\n&62 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item/DIODE|lore}}\n\n&7Cost\n&66 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 6
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/TRIPWIRE_HOOK|lore}}\n\n&7Cost\n&64 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4
+        }
+      ]
+    },
+    "item12": {
+      "lore": "{{Item/TNT|lore}}\n\n&7Cost\n&650 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "item13": {
+      "lore": "{{Item/HOPPER|lore}}\n\n&7Cost\n&650 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/REDSTONE|lore}}\n\n&7Cost\n&64 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/DAYLIGHT_DETECTOR|lore}}\n\n&7Cost\n&618 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 18
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/WOOD_PLATE|lore}}\n\n&7Cost\n&62 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/STONE_PLATE|lore}}\n\n&7Cost\n&64 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/IRON_PLATE|lore}}\n\n&7Cost\n&612 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/GOLD_PLATE|lore}}\n\n&7Cost\n&616 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 16
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/LEVER|lore}}\n\n&7Cost\n&62 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/REDSTONE_COMPARATOR|lore}}\n\n&7Cost\n&610 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    }
+  }
+}

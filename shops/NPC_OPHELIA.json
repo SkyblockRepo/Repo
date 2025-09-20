@@ -1,0 +1,295 @@
+{
+  "internalId": "NPC_OPHELIA",
+  "name": "Ophelia",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_dungeon_i_potion}}\n\n&7Cost\n&65,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item/GIANT_CLEAVER|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Hyper Cleaver",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HYPER_CLEAVER",
+          "amount": 1
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/UNDEAD_BOW|lore}}\n\n&7Cost\n&680,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80000
+        }
+      ]
+    },
+    "item12": {
+      "lore": "{{Item/SUPER_UNDEAD_BOW|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Undead Bow",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 800000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "UNDEAD_BOW",
+          "amount": 1
+        }
+      ]
+    },
+    "item13": {
+      "lore": "{{Item/DEATH_BOW|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Super Undead Bow",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SUPER_UNDEAD_BOW",
+          "amount": 1
+        }
+      ]
+    },
+    "item14": {
+      "lore": "{{Item/ARROW|lore}}\n\n&7Cost\n&6200 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200
+        }
+      ]
+    },
+    "item15": {
+      "lore": "{{Item/DARK_GOGGLES|lore}}\n\n&7Cost\n&680,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80000
+        }
+      ]
+    },
+    "item16": {
+      "lore": "{{Item/SHADOW_GOGGLES|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Dark Goggles",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 800000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "DARK_GOGGLES",
+          "amount": 1
+        }
+      ]
+    },
+    "item17": {
+      "lore": "{{Item/WITHER_GOGGLES|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Shadow Goggles",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SHADOW_GOGGLES",
+          "amount": 1
+        }
+      ]
+    },
+    "item18": {
+      "lore": "{{Item/MENDER_HELMET|lore}}\n\n&7Cost\n&680,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80000
+        }
+      ]
+    },
+    "item19": {
+      "lore": "{{Item/MENDER_FEDORA|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Mender Helmet",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 800000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MENDER_HELMET",
+          "amount": 1
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_dungeon_ii_potion}}\n\n&7Cost\n&610,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    },
+    "item20": {
+      "lore": "{{Item/MENDER_CROWN|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Mender Fedora",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MENDER_FEDORA",
+          "amount": 1
+        }
+      ]
+    },
+    "item21": {
+      "lore": "{{Item/SUPERBOOM_TNT|lore}}\n\n&7Cost\n&63,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 3000
+        }
+      ]
+    },
+    "item22": {
+      "lore": "{{Item/STONE_CHESTPLATE|lore}}\n\n&7Cost\n&680,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80000
+        }
+      ]
+    },
+    "item23": {
+      "lore": "{{Item/METAL_CHESTPLATE|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Stone Chestplate",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 800000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "STONE_CHESTPLATE",
+          "amount": 1
+        }
+      ]
+    },
+    "item24": {
+      "lore": "{{Item/STEEL_CHESTPLATE|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Metal Chestplate",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "METAL_CHESTPLATE",
+          "amount": 1
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item_dungeon_iii_potion}}\n\n&7Cost\n&615,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 15000
+        }
+      ]
+    },
+    "item32": {
+      "material": "lime_dye",
+      "name": "Shop Confirmations",
+      "lore": "&7Confirm when purchasing items worth\n&7at least a million coins.\n\n&eClick to disable!"
+    },
+    "item37": {
+      "material": "quiver",
+      "name": "Fill your Quiver",
+      "lore": "&7Time is money! Save a few clicks by\n&7filling up your quiver.\n\n&7Buying: &f# arrows\n\n&7Cost\n&6# Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "# Coins",
+          "amount": 1
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item_dungeon_iv_potion}}\n\n&7Cost\n&620,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20000
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item_dungeon_v_potion}}\n\n&7Cost\n&625,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_dungeon_vi_potion}}\n\n&7Cost\n&630,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30000
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item_dungeon_vii_potion}}\n\n&7Cost\n&635,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35000
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/SUPER_CLEAVER|lore}}\n\n&7Cost\n&680,000 Coins\n&aCleaver",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "CLEAVER",
+          "amount": 1
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/HYPER_CLEAVER|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Super Cleaver",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 800000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SUPER_CLEAVER",
+          "amount": 1
+        }
+      ]
+    }
+  }
+}

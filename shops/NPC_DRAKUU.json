@@ -1,0 +1,31 @@
+{
+  "internalId": "NPC_DRAKUU",
+  "name": "Drakuu",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_kuudra_follower_artifact}}\n\n&7Cost\n&6100,000,000 Coins\n&aEnchanted Red Sand &8x1024\n&aEnchanted Mycelium &8x1024\n&5Kuudra Teeth &8x64",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 1024
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 1024
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 64
+        }
+      ]
+    }
+  }
+}

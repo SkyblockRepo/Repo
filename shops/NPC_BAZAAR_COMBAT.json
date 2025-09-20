@@ -1,0 +1,183 @@
+{
+  "internalId": "NPC_BAZAAR_COMBAT",
+  "name": "Bazaar ➜ Combat",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "golden_hoe",
+      "name": "&r&eFarming",
+      "lore": "&8Category"
+    },
+    "a2": {
+      "material": "red_stained_glass_pane"
+    },
+    "a3": {
+      "material": "red_stained_glass_pane"
+    },
+    "a4": {
+      "material": "red_stained_glass_pane"
+    },
+    "a5": {
+      "material": "red_stained_glass_pane"
+    },
+    "a6": {
+      "material": "red_stained_glass_pane"
+    },
+    "a7": {
+      "material": "red_stained_glass_pane"
+    },
+    "a8": {
+      "material": "red_stained_glass_pane"
+    },
+    "a9": {
+      "material": "red_stained_glass_pane"
+    },
+    "b1": {
+      "material": "diamond_pickaxe",
+      "name": "&r&bMining",
+      "lore": "&8Category"
+    },
+    "b2": {
+      "material": "red_stained_glass_pane"
+    },
+    "b3": {
+      "material": "rotten_flesh",
+      "name": "&r&cRotten Flesh",
+      "lore": "&82 products\n\n&f▶ &7Rotten Flesh\n&a▶ &7Enchanted Rotten Flesh"
+    },
+    "b4": {
+      "material": "bone",
+      "name": "&r&cBone",
+      "lore": "&84 products\n\n&f▶ &7Bone\n&a▶ &7Enchanted Bone\n&9▶ &7Enchanted Bone Block\n&f▶ &7Enchanted Bone Meal"
+    },
+    "b5": {
+      "material": "string",
+      "name": "&r&cArachnids",
+      "lore": "&89 products\n\n&f▶ &7String\n&a▶ &7Enchanted String\n&f▶ &7Spider Eye\n&a▶ &7Enchanted Spider Eye\n&a▶ &7Enchanted Fermented Spider Eye\n&9▶ &7Soul String\n&9▶ &7Arachne's Calling\n&9▶ &7Arachne Fragment\n&a▶ &7Arachne's Fang"
+    },
+    "b6": {
+      "material": "gunpowder",
+      "name": "&r&cGunpowder",
+      "lore": "&83 products\n\n&f▶ &7Gunpowder\n&a▶ &7Enchanted Gunpowder\n&9▶ &7Enchanted Firework Rocket"
+    },
+    "b7": {
+      "material": "ender_pearl",
+      "name": "&r&cEnder Pearl",
+      "lore": "&85 products\n\n&f▶ &7Ender Pearl\n&a▶ &7Enchanted Ender Pearl\n&a▶ &7Enchanted Eye of Ender\n&9▶ &7Absolute Ender Pearl\n&6▶ &7Tessellated Ender Pearl"
+    },
+    "b8": {
+      "material": "ghast_tear",
+      "name": "&r&cGhast Tear",
+      "lore": "&82 products\n\n&f▶ &7Ghast Tear\n&a▶ &7Enchanted Ghast Tear"
+    },
+    "b9": {
+      "material": "red_stained_glass_pane"
+    },
+    "c1": {
+      "material": "enchanted_iron_sword",
+      "name": "&r&cCombat",
+      "lore": "&8Category\n\n&aCurrently viewing!"
+    },
+    "c2": {
+      "material": "red_stained_glass_pane"
+    },
+    "c3": {
+      "material": "slimeball",
+      "name": "&r&cSlimes",
+      "lore": "&84 products\n\n&f▶ &7Slimeball\n&a▶ &7Enchanted Slimeball\n&9▶ &7Enchanted Slime Block\n&a▶ &7Poison Sample"
+    },
+    "c4": {
+      "material": "magma_cream",
+      "name": "&r&cMagma Cream",
+      "lore": "&83 products\n\n&f▶ &7Magma Cream\n&a▶ &7Enchanted Magma Cream\n&9▶ &7Whipped Magma Cream"
+    },
+    "c5": {
+      "material": "blaze_rod",
+      "name": "&r&cBlaze Rod",
+      "lore": "&83 products\n\n&f▶ &7Blaze Rod\n&a▶ &7Enchanted Blaze Powder\n&a▶ &7Enchanted Blaze Rod"
+    },
+    "c6": {
+      "material": "fast_travel_end",
+      "name": "&r&cThe End",
+      "lore": "&84 products\n\n&5▶ &7Summoning Eye\n&5▶ &7Crystal Fragment\n&5▶ &7Dragon Fragments\n&5▶ &7Draconic Sacrifice"
+    },
+    "c7": {
+      "material": "fast_travel_nether",
+      "name": "&r&cCrimson Isle",
+      "lore": "&83 products\n\n&6▶ &7Mob Drops\n&5▶ &7Mini Bosses\n&e▶ &7Special"
+    },
+    "c8": {
+      "material": "aatrox_batphone",
+      "name": "&r&cSlayers",
+      "lore": "&85 products\n\n&f▶ &7Revenant Horror\n&a▶ &7Tarantula Broodfather\n&9▶ &7Sven Packmaster\n&5▶ &7Voidgloom Seraph\n&6▶ &7Inferno Demonlord"
+    },
+    "c9": {
+      "material": "red_stained_glass_pane"
+    },
+    "d1": {
+      "material": "fishing_rod",
+      "name": "&r&6Woods <nowiki>&</nowiki> Fishes",
+      "lore": "&8Category"
+    },
+    "d2": {
+      "material": "red_stained_glass_pane"
+    },
+    "d3": {
+      "material": "wither_relic",
+      "name": "&r&cCatacombs",
+      "lore": "&84 products\n\n&5▶ &7Special Fragments\n&9▶ &7Mob Drops\n&a▶ &7Secret Drops\n&9▶ &7Catacombs Misc."
+    },
+    "d9": {
+      "material": "red_stained_glass_pane"
+    },
+    "e1": {
+      "material": "enchanting_table",
+      "name": "&r&dOddities",
+      "lore": "&8Category"
+    },
+    "e2": {
+      "material": "red_stained_glass_pane"
+    },
+    "e9": {
+      "material": "red_stained_glass_pane"
+    },
+    "f1": {
+      "material": "oak_sign",
+      "name": "&aSearch",
+      "lore": "&7Find products by name!"
+    },
+    "f2": {
+      "material": "red_stained_glass_pane"
+    },
+    "f3": {
+      "material": "chest",
+      "name": "Sell Inventory Now",
+      "lore": "&7Instantly sell any items in your\n&7inventory that can be sold on\n&7the Bazaar."
+    },
+    "f4": {
+      "material": "cauldron",
+      "name": "&bSell Sacks Now",
+      "lore": "&7Instantly sell everything in\n&7your sacks on the Bazaar."
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "book",
+      "name": "Manage Orders",
+      "lore": "&7You don't have any ongoing\n&7orders."
+    },
+    "f7": {
+      "material": "red_stained_glass_pane"
+    },
+    "f8": {
+      "material": "iron_ore",
+      "name": "Direct Mode",
+      "lore": "&8Bazaar View\n\n&7 View buy and sell prices of each\n&7product."
+    },
+    "f9": {
+      "material": "red_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}
