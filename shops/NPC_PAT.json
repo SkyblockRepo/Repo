@@ -4,20 +4,34 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/FLINT|lore}}\n\n&7Cost\n&660 Coins",
+      "lore": "Flint\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&660 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 60
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "FLINT",
+          "amount": 10
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/GRAVEL|lore}}\n\n&7Cost\n&665 Coins",
+      "lore": "Gravel\n&7&8Collection Item\n\n&f&lCOMMON BLOCK&r\n\n&7Cost\n&665 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 65
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GRAVEL",
+          "amount": 15
         }
       ]
     }

@@ -4,7 +4,7 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/EMPTY_CHUM_BUCKET|lore}}\n\n&7Cost\n&62,000 Coins\n&aGlowing Mushroom &8x8",
+      "lore": "Empty Chum Bucket\n&7Place it down next to water.\n\n&7Sea Creatures slain nearby will drop\n&7&a+1 Chum&7.\n&8Up to +4 total from buckets!\n\n&f&lCOMMON&r\n\n&7Cost\n&62,000 Coins\n&aGlowing Mushroom &8x8",
       "cost": [
         {
           "type": "COINS",
@@ -15,10 +15,16 @@
           "item_id": "GLOWING_MUSHROOM",
           "amount": 8
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "EMPTY_CHUM_BUCKET"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/GLOWY_CHUM_BAIT|lore}}\n\n&7Cost\n&aFull Chum Bucket\n&aGlowing Mushroom &8x4",
+      "lore": "Glowy Chum Bait\n&8Fishing Bait\n&8Consumes on Cast\n\n&7Grants &b+25☂ Fishing Speed&7.\n&7Grants &3+3α Sea Creature Chance&7.\n\n&7&7Adds &a+2 Chums &7dropped on Sea\n&7Creatures fished with this bait.\n\n&a&lUNCOMMON BAIT&r\n\n&7Cost\n&aFull Chum Bucket\n&aGlowing Mushroom &8x4",
       "cost": [
         {
           "type": "ITEM",
@@ -30,10 +36,17 @@
           "item_id": "GLOWING_MUSHROOM",
           "amount": 4
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GLOWY_CHUM_BAIT",
+          "amount": 16
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/LUMINOUS_BRACELET|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x2\n&aGlowing Mushroom &8x10",
+      "lore": "Luminous Bracelet\n&7Sea Creature Chance: &c+1%\n&7Fishing Speed: &a+1\n\n&7Earn &6+20 Coins &7and &3+10 Fishing XP\n&3&7when depositing &aChum &7in someone\n&7ELSE's bucket.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFishing Skill 12&c.\n&a&lUNCOMMON BRACELET&r\n\n&7Cost\n&aFull Chum Bucket &8x2\n&aGlowing Mushroom &8x10",
       "cost": [
         {
           "type": "ITEM",
@@ -45,10 +58,16 @@
           "item_id": "GLOWING_MUSHROOM",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LUMINOUS_BRACELET"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/CHUM_SINKER|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x4\n&aGlowing Mushroom &8x15",
+      "lore": "Chum Sinker\n&7Materializes &aChum &7in your inventory\n&7whenever you catch something.\n\n&7Talk to &2Roddy &7in the &2Backwater\n&2Bayou &7to apply this &9Sinker &7to a\n&7Fishing Rod.\n\n&7&4❣ &cRequires &aFishing Skill 5&c.\n&9&lRARE ROD PART&r\n\n&7Cost\n&aFull Chum Bucket &8x4\n&aGlowing Mushroom &8x15",
       "cost": [
         {
           "type": "ITEM",
@@ -60,10 +79,16 @@
           "item_id": "GLOWING_MUSHROOM",
           "amount": 15
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CHUM_SINKER"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/MOBYS_SHEARS|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x5\n&aGlowing Mushroom &8x15",
+      "lore": "Moby's Shears\n&7Collects &a+1 &aGlowing Mushroom&7!\n\n&9&lRARE SHEARS&r\n\n&7Cost\n&aFull Chum Bucket &8x5\n&aGlowing Mushroom &8x15",
       "cost": [
         {
           "type": "ITEM",
@@ -74,6 +99,12 @@
           "type": "ITEM",
           "item_id": "GLOWING_MUSHROOM",
           "amount": 15
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MOBYS_SHEARS"
         }
       ]
     },
@@ -90,10 +121,16 @@
           "item_id": "GLOWING_MUSHROOM",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "mushed_glowy_tonic_i_potion"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/MUSHED_MUSHROOM_MIXIN|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x64\n&aGlowing Mushroom &8x80",
+      "lore": "Glowing Mush Mixin\n&7&8Brewing Ingredient\n\n&7&7Mixins provide a buff that can be\n&7added to &cGod Potions &7in a brewing\n&7stand and lasts for the full duration.\n\n&7Gain &b+30☂ Fishing Speed &7if you're\n&7not getting it from the &2Mushed Glowy\n&2Tonic&7.\n\n&7Duration: &a36h 0m\n\n&7The duration of Mixins can be stacked!\n\n&7&eRight-click to consume!&8\n&8(Requires active Booster Cookie)\n\n&9&lRARE&r\n\n&7Cost\n&aFull Chum Bucket &8x64\n&aGlowing Mushroom &8x80",
       "cost": [
         {
           "type": "ITEM",
@@ -105,15 +142,27 @@
           "item_id": "GLOWING_MUSHROOM",
           "amount": 80
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHED_MUSHROOM_MIXIN"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/CHUMMING_TALISMAN|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x32",
+      "lore": "Chumming Talisman\n&7Fishing Speed: &a+1\n&7Fishing Wisdom: &a+1\n\n&7Listen, it's for real chums of Moby,\n&7ok?\n\n&a&lUNCOMMON ACCESSORY&r\n\n&7Cost\n&aFull Chum Bucket &8x32",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "FULL_CHUM_BUCKET",
           "amount": 32
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CHUMMING_TALISMAN"
         }
       ]
     }

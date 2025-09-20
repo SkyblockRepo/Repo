@@ -4,17 +4,23 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/INFINIDIRT_WAND|lore}}\n\n&7Cost\n&aJacob's Ticket",
+      "lore": "InfiniDirt™ Wand\n&6Ability: Place Dirt  &e&lRIGHT CLICK&r\n&7Place a dirt block.\n&7&7Costs &61 coin&7.\n&7\n&7Can be used within the Builder's Wand!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&aJacob's Ticket",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "INFINIDIRT_WAND"
         }
       ]
     },
     "item10": {
-      "lore": "{{Item/COCO_CHOPPER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket&8x32",
+      "lore": "Cocoa Chopper\n&7Cocoa Beans Fortune: &a+20\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&7Grants &6+20☘ Cocoa Beans Fortune&7,\n&7which increases drops when\n&7harvesting Cocoa Beans.\n\n&7&8This item can be reforged!\n&5&lEPIC AXE&r\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket&8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -25,11 +31,17 @@
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 32
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "COCO_CHOPPER"
         }
       ]
     },
     "item11": {
-      "lore": "{{Item/MELON_DICER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "lore": "Melon Dicer\n&7 &8[&8☘&8]\n\n&7&7Gain &3+5☯ Farming Wisdom &7while\n&7harvesting melons&7.\n\n&6Ability: Roll em' \n&7Every melon you break, you make\n&7a wish to &dRNGesus &7which may\n&7grant you with a few or TONS of\n&7extra melons!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&5&lEPIC AXE&r\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -40,11 +52,17 @@
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 32
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MELON_DICER"
         }
       ]
     },
     "item12": {
-      "lore": "{{Item/PUMPKIN_DICER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "lore": "Pumpkin Dicer\n&7 &8[&8☘&8]\n\n&7&7Gain &3+5☯ Farming Wisdom &7while\n&7harvesting pumpkins&7.\n\n&6Ability: Roll em' \n&7Every pumpkin you break, you\n&7make a wish to &dRNGesus &7which may\n&7grant you with a few or TONS of\n&7extra pumpkins!\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&5&lEPIC AXE&r\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -55,11 +73,17 @@
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 32
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PUMPKIN_DICER"
         }
       ]
     },
     "item13": {
-      "lore": "{{Item/FUNGI_CUTTER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "lore": "Fungi Cutter\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&6Ability: Fun Guy Bonus  &e&lRIGHT CLICK&r\n&8Toggles On/Off on use\n&7Switches between red and brown\n&7mushroom cutting modes.\n\n&eMode: &6Brown Mushrooms\n\n&7&7Gain &6+30☘ Farming Fortune &7for\n&7&6Brown Mushrooms&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&5&lEPIC HOE&r\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -71,10 +95,16 @@
           "item_id": "JACOBS_TICKET",
           "amount": 32
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "FUNGI_CUTTER"
+        }
       ]
     },
     "item14": {
-      "lore": "{{Item/CACTUS_KNIFE|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "lore": "Cactus Knife\n&7 &8[&8☘&8] &8[&8☘&8]\n\n&7Slices through &acactus&7 instantly!\n\n&6Ability: Swift Slicer \n&7Increases your speed cap by 100\n&7while in &aThe Garden&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&5&lEPIC HOE&r\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -85,6 +115,12 @@
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 32
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CACTUS_KNIFE"
         }
       ]
     },
@@ -130,7 +166,7 @@
       ]
     },
     "item18": {
-      "lore": "{{Item/ANITA_TALISMAN|lore}}\n\n&7Cost\n&cBronze medal&8 x2\n&aJacob's Ticket &8x32",
+      "lore": "Anita's Talisman\n&7Grants a random &6+5☘ Farming\n&6Fortune &7stat during &eJacob's Farming\n&eContest&7.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&cBronze medal&8 x2\n&aJacob's Ticket &8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -142,10 +178,16 @@
           "item_id": "JACOBS_TICKET",
           "amount": 32
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ANITA_TALISMAN"
+        }
       ]
     },
     "item19": {
-      "lore": "{{Item/ANITA_RING|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x64\n&fAnita's Talisman",
+      "lore": "Anita's Ring\n&7Grants a random &6+15☘ Farming\n&6Fortune &7stat during &eJacob's Farming\n&eContest&7.\n\n&a&lUNCOMMON ACCESSORY&r\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x64\n&fAnita's Talisman",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -162,10 +204,16 @@
           "item_id": "ANITA_TALISMAN",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ANITA_RING"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/PRISMAPUMP|lore}}\n\n&7Cost\n&cBronze medal\n&aJacob's Ticket &8x2",
+      "lore": "Prismapump\n&6Ability: Pipeline  &e&lRIGHT CLICK&r\n&7When used, pumps water in the direction the\n&7player was facing.\n\n&9&lRARE&r\n\n&7Cost\n&cBronze medal\n&aJacob's Ticket &8x2",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -177,10 +225,17 @@
           "item_id": "JACOBS_TICKET",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PRISMAPUMP",
+          "amount": 4
+        }
       ]
     },
     "item20": {
-      "lore": "{{Item/ANITA_ARTIFACT|lore}}\n\n&7Cost\n&6Gold medal&8 x2\n&aJacob's Ticket &8x100\n&aAnita's Ring",
+      "lore": "Anita's Artifact\n&7Grants a random &6+25☘ Farming\n&6Fortune &7stat during &eJacob's Farming\n&eContest&7.\n\n&9&lRARE ACCESSORY&r\n\n&7Cost\n&6Gold medal&8 x2\n&aJacob's Ticket &8x100\n&aAnita's Ring",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -197,10 +252,16 @@
           "item_id": "ANITA_RING",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ANITA_ARTIFACT"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/HOE_OF_GREAT_TILLING|lore}}\n\n&7Cost\n&cBronze medal\n&aJacob's Ticket &8x5",
+      "lore": "Hoe of Great Tilling\n&7Tills a &93x3 &7area of farmland at a time.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 2&c.\n&a&lUNCOMMON HOE&r\n\n&7Cost\n&cBronze medal\n&aJacob's Ticket &8x5",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -211,6 +272,12 @@
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 5
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HOE_OF_GREAT_TILLING"
         }
       ]
     },
@@ -235,7 +302,7 @@
       "lore": "&c◌&f◌&6◌ &cWheat\n&c◌&f◌&6◌ &cCarrot\n&c◌&f◌&6◌ &cPotato\n&c◌&f◌&6◌ &cPumpkin\n&c◌&f◌&6◌ &cMelon Slice\n&c◌&f◌&6◌ &cMushroom\n&c◌&f◌&6◌ &cCactus\n&c◌&f◌&6◌ &cSugar Cane\n&c◌&f◌&6◌ &cNether Wart\n&c◌&f◌&6◌ &cCocoa Beans"
     },
     "item4": {
-      "lore": "{{Item/HOE_OF_GREATER_TILLING|lore}}\n\n&7Cost\n&fSilver medal\n&aJacob's Ticket &8x10",
+      "lore": "Hoe of Greater Tilling\n&7Tills a &95x5 &7area of farmland at a time.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 5&c.\n&9&lRARE HOE&r\n\n&7Cost\n&fSilver medal\n&aJacob's Ticket &8x10",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -247,10 +314,16 @@
           "item_id": "JACOBS_TICKET",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HOE_OF_GREATER_TILLING"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/HOE_OF_GREATEST_TILLING|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x20",
+      "lore": "Hoe of Greatest Tilling\n&7&7Tills a row of farmland. The perfect\n&7accessory to the &5Basket of Seeds&7!\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 10&c.\n&5&lEPIC HOE&r\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x20",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -262,10 +335,16 @@
           "item_id": "JACOBS_TICKET",
           "amount": 20
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HOE_OF_GREATEST_TILLING"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/BASKET_OF_SEEDS|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x30",
+      "lore": "Basket of Seeds\n\n&6Ability: Seed Storage  &e&lLEFT CLICK&r\n&7Place seeds in the basket.\n\n&6Ability: Farmer's Delight  &e&lRIGHT CLICK&r\n&7Automatically seed a row of farmland.\n\n&5&lEPIC&r\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x30",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -276,11 +355,17 @@
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 30
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BASKET_OF_SEEDS"
         }
       ]
     },
     "item7": {
-      "lore": "{{Item/NETHER_WART_POUCH|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x30",
+      "lore": "Nether Wart Pouch\n\n&6Ability: Nether Wart Storage  &e&lLEFT CLICK&r\n&7Place nether wart in the pouch.\n\n&6Ability: Alchemist's Bliss  &e&lRIGHT CLICK&r\n&7Automatically plant nether wart on a\n&7row of soul sand.\n\n&9&lRARE&r\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x30",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -292,10 +377,16 @@
           "item_id": "JACOBS_TICKET",
           "amount": 30
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_WART_POUCH"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item_enchantment_delicate_5}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x32",
+      "lore": "Delicate V\n&7&9Delicate V\n&7Avoids breaking stems and baby\n&7crops.\n\n&7Applicable on: &9Axe&7, &9Hoe\n&7Apply Cost: &350 Exp Levels\n\n&e▲ &7Delicate cannot be combined!\n&7Use this on an item in an Anvil to\n&7apply it!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -307,10 +398,16 @@
           "item_id": "JACOBS_TICKET",
           "amount": 32
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTMENT_DELICATE_5"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/THEORETICAL_HOE|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "lore": "Mathematical Hoe Blueprint\n&7Can be adapted into 5 specialized\n&7hoes with 3 tiers each.\n\n&eRight-click to view recipes!\n\n&7&8This item can be reforged!\n&f&lCOMMON HOE&r\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
       "cost": [
         {
           "type": "JACOB_MEDAL",
@@ -321,6 +418,12 @@
           "type": "ITEM",
           "item_id": "JACOBS_TICKET",
           "amount": 32
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "THEORETICAL_HOE"
         }
       ]
     }

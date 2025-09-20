@@ -4,29 +4,47 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/MINING_PUMPKIN|lore}}\n\n&7Cost\n&650,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Powder Pumpkin\n&8Consumable\n\n&7Effect: &2+5% Mithril Powder\n&7Duration: &a60m\n\n&eRight-click to consume!\n\n&8What happened to Malmar?\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 1&c.\n&a&lUNCOMMON&r\n\n&7Cost\n&650,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 50000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MINING_PUMPKIN"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/FILET_O_FORTUNE|lore}}\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Filet O' Fortune\n&8Consumable\n\n&7Effect: &6+20☘ Mining Fortune\n&7Duration: &a60m\n\n&eRight-click to consume!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 4&c.\n&9&lRARE&r\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 100000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "FILET_O_FORTUNE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/CHILLED_PRISTINE_POTATO|lore}}\n\n&7Cost\n&6250,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Chilled Pristine Potato\n&8Consumable\n\n&7Effect: &5+0.1✧ Pristine &7while in &bGlacite\n&bMineshafts&7.\n&7Duration: &a60m\n\n&eRight-click to consume!\n\n&7&4❣ &cRequires &5Heart of the Mountain Tier 7&c.\n&5&lEPIC&r\n\n&7Cost\n&6250,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 250000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CHILLED_PRISTINE_POTATO"
         }
       ]
     }

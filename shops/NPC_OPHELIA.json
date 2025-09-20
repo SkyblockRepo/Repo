@@ -10,10 +10,16 @@
           "type": "COINS",
           "amount": 5000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dungeon_i_potion"
+        }
       ]
     },
     "item10": {
-      "lore": "{{Item/GIANT_CLEAVER|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Hyper Cleaver",
+      "lore": "Giant Cleaver\n&7Gear Score: &d501 &8(546)\n&7Damage: &c+235 &8(+258.5)\n&7Strength: &c+120 &8(+132)\n&7Crit Damage: &c+120% &8(+132%)\n\n&6Ability: Cleave \n&7When hitting an entity, monsters in a &a5&7 block\n&7range will be hit for a portion of that damage\n&7too.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&6&lLEGENDARY DUNGEON SWORD&r\n\n&7Cost\n&65,000,000 Coins\n&5Hyper Cleaver",
       "cost": [
         {
           "type": "COINS",
@@ -24,19 +30,31 @@
           "item_id": "HYPER_CLEAVER",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GIANT_CLEAVER"
+        }
       ]
     },
     "item11": {
-      "lore": "{{Item/UNDEAD_BOW|lore}}\n\n&7Cost\n&680,000 Coins",
+      "lore": "Undead Bow\n&7Gear Score: &d80 &8(88)\n&7Damage: &c+80 &8(+88)\n\n&7Deals &a+100% &7damage to &2༕ Undead\n&2&7mobs.\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON BOW&r\n\n&7Cost\n&680,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 80000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "UNDEAD_BOW"
+        }
       ]
     },
     "item12": {
-      "lore": "{{Item/SUPER_UNDEAD_BOW|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Undead Bow",
+      "lore": "Super Undead Bow\n&7Gear Score: &d260 &8(282)\n&7Damage: &c+220 &8(+242)\n\n&7Deals &a+100% &7damage to &2༕ Undead\n&2&7mobs.\n\n&7Your arrows have a &e25% &7chance to\n&7bounce to another target after it\n&7hits something.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON BOW&r\n\n&7Cost\n&6800,000 Coins\n&9Undead Bow",
       "cost": [
         {
           "type": "COINS",
@@ -47,10 +65,16 @@
           "item_id": "UNDEAD_BOW",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SUPER_UNDEAD_BOW"
+        }
       ]
     },
     "item13": {
-      "lore": "{{Item/DEATH_BOW|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Super Undead Bow",
+      "lore": "Death Bow\n&7Gear Score: &d340 &8(370)\n&7Damage: &c+300 &8(+330)\n\n&7Deals &a+100% &7damage to &aUndead\n&amonsters&7.\n\n&7Your arrows have a &e50% &7chance to\n&7bounce to another target after it\n&7hits something.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&5&lEPIC DUNGEON BOW&r\n\n&7Cost\n&65,000,000 Coins\n&5Super Undead Bow",
       "cost": [
         {
           "type": "COINS",
@@ -61,28 +85,47 @@
           "item_id": "SUPER_UNDEAD_BOW",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DEATH_BOW"
+        }
       ]
     },
     "item14": {
-      "lore": "{{Item/ARROW|lore}}\n\n&7Cost\n&6200 Coins",
+      "lore": "Flint Arrow\n&7Damage: &c+1\n\n&8Stats added when shot!\n&f&lCOMMON ARROW&r\n\n&7Cost\n&6200 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 200
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ARROW",
+          "amount": 20
+        }
       ]
     },
     "item15": {
-      "lore": "{{Item/DARK_GOGGLES|lore}}\n\n&7Cost\n&680,000 Coins",
+      "lore": "Dark Goggles\n&7Gear Score: &d100 &8(108)\n&7Ability Damage: &c+25% &8(+25%)\n&7Intelligence: &a+150 &8(+165)\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON HELMET&r\n\n&7Cost\n&680,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 80000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DARK_GOGGLES"
+        }
       ]
     },
     "item16": {
-      "lore": "{{Item/SHADOW_GOGGLES|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Dark Goggles",
+      "lore": "Shadow Goggles\n&7Gear Score: &d195 &8(205)\n&7Ability Damage: &c+35% &8(+35%)\n&7Intelligence: &a+200 &8(+220)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON HELMET&r\n\n&7Cost\n&6800,000 Coins\n&9Dark Goggles",
       "cost": [
         {
           "type": "COINS",
@@ -93,10 +136,16 @@
           "item_id": "DARK_GOGGLES",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SHADOW_GOGGLES"
+        }
       ]
     },
     "item17": {
-      "lore": "{{Item/WITHER_GOGGLES|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Shadow Goggles",
+      "lore": "Wither Goggles\n&7Gear Score: &d255 &8(270)\n&7Ability Damage: &c+45% &8(+45%)\n&7Intelligence: &a+300 &8(+330)\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&5&lEPIC DUNGEON HELMET&r\n\n&7Cost\n&65,000,000 Coins\n&5Shadow Goggles",
       "cost": [
         {
           "type": "COINS",
@@ -107,19 +156,31 @@
           "item_id": "SHADOW_GOGGLES",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WITHER_GOGGLES"
+        }
       ]
     },
     "item18": {
-      "lore": "{{Item/MENDER_HELMET|lore}}\n\n&7Cost\n&680,000 Coins",
+      "lore": "Mender Helmet\n&7Gear Score: &d80 &8(88)\n&7Health: &a+80 &8(+88)\n&7Mending: &a+100 &8(+100)\n\n&7Grants &a+100☄ Mending &7while in\n&7Dungeons.\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON HELMET&r\n\n&7Cost\n&680,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 80000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MENDER_HELMET"
+        }
       ]
     },
     "item19": {
-      "lore": "{{Item/MENDER_FEDORA|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Mender Helmet",
+      "lore": "Mender Fedora\n&7Gear Score: &d250 &8(272)\n&7Health: &a+220 &8(+242)\n&7Mending: &a+100 &8(+100)\n\n&7Grants &a+100☄ Mending &7and &4♨ Vitality\n&4&7while in Dungeons.\n\n&7Grants &a+100☄ Mending &7while in\n&7Dungeons.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON HELMET&r\n\n&7Cost\n&6800,000 Coins\n&9Mender Helmet",
       "cost": [
         {
           "type": "COINS",
@@ -130,6 +191,12 @@
           "item_id": "MENDER_HELMET",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MENDER_FEDORA"
+        }
       ]
     },
     "item2": {
@@ -139,10 +206,16 @@
           "type": "COINS",
           "amount": 10000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dungeon_ii_potion"
+        }
       ]
     },
     "item20": {
-      "lore": "{{Item/MENDER_CROWN|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Mender Fedora",
+      "lore": "Mender Crown\n&7Gear Score: &d300 &8(327)\n&7Health: &a+270 &8(+297)\n&7Mending: &a+100 &8(+100)\n\n&7Grants &a+100☄ Mending &7and &4♨ Vitality\n&4&7while in Dungeons.\n\n&7Grants &a+100☄ Mending &7while in\n&7Dungeons.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&5&lEPIC DUNGEON HELMET&r\n\n&7Cost\n&65,000,000 Coins\n&5Mender Fedora",
       "cost": [
         {
           "type": "COINS",
@@ -153,28 +226,46 @@
           "item_id": "MENDER_FEDORA",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MENDER_CROWN"
+        }
       ]
     },
     "item21": {
-      "lore": "{{Item/SUPERBOOM_TNT|lore}}\n\n&7Cost\n&63,000 Coins",
+      "lore": "Superboom TNT\n&7Breaks weak walls. Can be used to\n&7blow up Crypts in &cThe Catacombs &7and\n&7&5Crystal Hollows&7.\n\n&9&lRARE&r\n\n&7Cost\n&63,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 3000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SUPERBOOM_TNT"
+        }
       ]
     },
     "item22": {
-      "lore": "{{Item/STONE_CHESTPLATE|lore}}\n\n&7Cost\n&680,000 Coins",
+      "lore": "Stone Chestplate\n&7Gear Score: &d260 &8(286)\n&7Defense: &a+130 &8(+143)\n\n&7While in Dungeons, players within &e10\n&e&7blocks of you take &c5% &7less damage.\n&7This range is extended to &e30 &7blocks\n&7while playing as a Tank.\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON CHESTPLATE&r\n\n&7Cost\n&680,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 80000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "STONE_CHESTPLATE"
+        }
       ]
     },
     "item23": {
-      "lore": "{{Item/METAL_CHESTPLATE|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Stone Chestplate",
+      "lore": "Metal Chestplate\n&7Gear Score: &d480 &8(526)\n&7Defense: &a+230 &8(+253)\n\n&7While in Dungeons, players within &e10\n&e&7blocks of you take &c8% &7less damage.\n&7This range is extended to &e30 &7blocks\n&7while playing as a Tank.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON CHESTPLATE&r\n\n&7Cost\n&6800,000 Coins\n&9Stone Chestplate",
       "cost": [
         {
           "type": "COINS",
@@ -185,10 +276,16 @@
           "item_id": "STONE_CHESTPLATE",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "METAL_CHESTPLATE"
+        }
       ]
     },
     "item24": {
-      "lore": "{{Item/STEEL_CHESTPLATE|lore}}\n\n&7Cost\n&65,000,000 Coins\n&5Metal Chestplate",
+      "lore": "Steel Chestplate\n&7Gear Score: &d680 &8(746)\n&7Defense: &a+330 &8(+363)\n\n&7While in Dungeons, players within &e10\n&e&7blocks of you take &c10% &7less damage.\n&7This range is extended to &e30 &7blocks\n&7while playing as a Tank.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor VI Completion&c.\n&5&lEPIC DUNGEON CHESTPLATE&r\n\n&7Cost\n&65,000,000 Coins\n&5Metal Chestplate",
       "cost": [
         {
           "type": "COINS",
@@ -199,6 +296,12 @@
           "item_id": "METAL_CHESTPLATE",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "STEEL_CHESTPLATE"
+        }
       ]
     },
     "item3": {
@@ -207,6 +310,12 @@
         {
           "type": "COINS",
           "amount": 15000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dungeon_iii_potion"
         }
       ]
     },
@@ -234,6 +343,12 @@
           "type": "COINS",
           "amount": 20000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dungeon_iv_potion"
+        }
       ]
     },
     "item5": {
@@ -242,6 +357,12 @@
         {
           "type": "COINS",
           "amount": 25000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dungeon_v_potion"
         }
       ]
     },
@@ -252,6 +373,12 @@
           "type": "COINS",
           "amount": 30000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dungeon_vi_potion"
+        }
       ]
     },
     "item7": {
@@ -261,10 +388,16 @@
           "type": "COINS",
           "amount": 35000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "dungeon_vii_potion"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/SUPER_CLEAVER|lore}}\n\n&7Cost\n&680,000 Coins\n&aCleaver",
+      "lore": "Super Cleaver\n&7Gear Score: &d141 &8(155)\n&7Damage: &c+105 &8(+115.5)\n&7Strength: &c+20 &8(+22)\n&7Crit Damage: &c+20% &8(+22%)\n\n&6Ability: Cleave \n&7When hitting an entity, monsters in a &a3&7 block\n&7range will be hit for a portion of that damage\n&7too.\n\n&7&8This item can be reforged!\n&9&lRARE DUNGEON SWORD&r\n\n&7Cost\n&680,000 Coins\n&aCleaver",
       "cost": [
         {
           "type": "COINS",
@@ -275,10 +408,16 @@
           "item_id": "CLEAVER",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SUPER_CLEAVER"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/HYPER_CLEAVER|lore}}\n\n&7Cost\n&6800,000 Coins\n&9Super Cleaver",
+      "lore": "Hyper Cleaver\n&7Gear Score: &d375 &8(411)\n&7Damage: &c+175 &8(+192.5)\n&7Strength: &c+100 &8(+110)\n&7Crit Damage: &c+100% &8(+110%)\n\n&6Ability: Cleave \n&7When hitting an entity, monsters in a &a4&7 block\n&7range will be hit for a portion of that damage\n&7too.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &cThe Catacombs Floor III Completion&c.\n&5&lEPIC DUNGEON SWORD&r\n\n&7Cost\n&6800,000 Coins\n&9Super Cleaver",
       "cost": [
         {
           "type": "COINS",
@@ -288,6 +427,12 @@
           "type": "ITEM",
           "item_id": "SUPER_CLEAVER",
           "amount": 1
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HYPER_CLEAVER"
         }
       ]
     }

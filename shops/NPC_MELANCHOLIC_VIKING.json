@@ -4,29 +4,47 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/VIKING_TEAR|lore}}\n\n&7Cost\n&615,000 Coins",
+      "lore": "Viking's Tear\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Experience potions:\n&7 &a+20% &7experience orbs.\n&7 &3+10☯ Combat Wisdom\n&7 &c+10❤ &7per second.\n\n&9&lRARE&r\n\n&7Cost\n&615,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 15000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "VIKING_TEAR"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/PARK_JUNGLE_TRAVEL_SCROLL|lore}}\n\n&7Cost\n&670,000 Coins",
+      "lore": "Travel Scroll to Jungle Island\n&7Consume this item to add its\n&7destination to your Fast Travel\n&7options.\n\n&7Requires &bMVP&c+ &7to consume!\n\n&7Island: &aThe Park\n&7Teleport: &eJungle\n\n&5&lEPIC TRAVEL SCROLL&r\n\n&7Cost\n&670,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 70000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PARK_JUNGLE_TRAVEL_SCROLL"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/RAIDER_AXE|lore}}\n\n&7Cost\n&6130,000 Coins",
+      "lore": "Raider Sword\n&7Damage: &c+80\n&7Strength: &c+50\n\n&7Earn &6+20 coins &7from monster kills (Level &e10+ &7only)\n\n&c+1 Damage &7per &c500 &7kills\n&8Max +35\n&7Kills: &c0\n\n&c+1❁ Strength &7per &e500 &7wood\n&8Sums wood collections, max +100\n&7Wood collections: &e0\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r\n\n&7Cost\n&6130,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 130000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RAIDER_AXE"
         }
       ]
     },

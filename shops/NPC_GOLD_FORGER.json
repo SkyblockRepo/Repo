@@ -4,11 +4,17 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/GOLD_INGOT|lore}}\n\n&7Cost\n&6110 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Gold Ingot\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON ORE&r\n\n&7Cost\n&6110 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 110
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_INGOT"
         }
       ]
     },
@@ -57,38 +63,62 @@
       ]
     },
     "item6": {
-      "lore": "{{Item/FANCY_SWORD|lore}}\n\n&7Cost\n&680 Coins\n\n&eClick to trade!",
+      "lore": "Fancy Sword\n&7Damage: &c+20\n\n&6Ability: Bejeweled Blade \n&7Deals &a+150% &7damage to mobs on\n&7&bMining Islands&7.\n\n&7&8This item can be reforged!\n&f&lCOMMON SWORD&r\n\n&7Cost\n&680 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 80
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "FANCY_SWORD"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/GOLD_AXE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "lore": "Golden Axe\n&7Damage: &c+20\n\n&7&8This item can be reforged!\n&f&lCOMMON AXE&r\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_AXE"
         }
       ]
     },
     "item8": {
-      "lore": "{{Item/GOLD_PICKAXE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "lore": "Golden Pickaxe\n&8Breaking Power 1\n\n&7Damage: &c+15\n&7Mining Speed: &a+250\n\n&7&8This item can be reforged!\n&f&lCOMMON PICKAXE&r\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_PICKAXE"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/GOLD_SPADE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "lore": "Golden Shovel\n&7Damage: &c+15\n\n&f&lCOMMON SHOVEL&r\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_SPADE"
         }
       ]
     }

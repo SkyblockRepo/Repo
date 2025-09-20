@@ -4,55 +4,75 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b3": {
-      "lore": "{{Item_stock_of_stonks}}\n\n&7Cost\n&6200 Coins",
+      "lore": "Stock of Stonks\n&7Can be traded in to &aLiz &7when &6Diaz &7is\n&7Mayor for &dspecial items&7!\n&7\n&7&8''Started as a shady venture by an''\n&8''estranged comrade of Diaz's. She''\n&8''later adopted it herself for''\n&8''personal use to fuel her candidacy.''\n\n&5&lEPIC&r\n\n&7Cost\n&6200 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 200
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS"
+        }
       ]
     },
     "b4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b7": {
       "material": "gold_nugget",
@@ -60,64 +80,84 @@
       "lore": "&8Stonks!\n\n&7Warren isn't buying stocks yet\n\n&7Once the Bazaar test it\n&7over, you'll be able to\n&7sell stocks for profit!\n\n&cWarning: There might also be NO profits!"
     },
     "b8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d5": {
-      "material": "barrier"
+      "material": "barrier",
+      "lore": ""
     },
     "d6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "4"

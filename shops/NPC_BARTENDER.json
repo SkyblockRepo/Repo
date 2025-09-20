@@ -4,88 +4,142 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/CHEAP_COFFEE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Cheap Coffee\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Adds &f+5✦ Speed &7to potions with\n&7that stat.\n\n&f&lCOMMON&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CHEAP_COFFEE"
         }
       ]
     },
     "item10": {
-      "lore": "{{Item/WOLF_FUR_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "lore": "Wolf Fur Mixin\n&7&8Brewing Ingredient\n\n&7&7Mixins provide a buff that can be\n&7added to &cGod Potions &7in a brewing\n&7stand and lasts for the full duration.\n\n&7Gain &b7✯ Magic Find &7when slaying\n&7monsters in one hit!\n\n&7Duration: &a36h 0m\n\n&7The duration of Mixins can be stacked!\n\n&7&eRight-click to consume!&8\n&8(Requires active Booster Cookie)\n\n&7&4☠ &cRequires &5Wolf Slayer 8&c.\n&9&lRARE&r\n\n&7Cost\n&6150,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 150000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOLF_FUR_MIXIN"
         }
       ]
     },
     "item11": {
-      "lore": "{{Item/END_PORTAL_FUMES_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "lore": "End Portal Fumes\n&7&8Brewing Ingredient\n\n&7&7Mixins provide a buff that can be\n&7added to &cGod Potions &7in a brewing\n&7stand and lasts for the full duration.\n\n&7&3⸎ Soulflow &7conversions provide\n&7&3+30% &7more &3ʬ Overflow&7.\n\n&7Duration: &a36h 0m\n\n&7The duration of Mixins can be stacked!\n\n&7&eRight-click to consume!&8\n&8(Requires active Booster Cookie)\n\n&7&4☠ &cRequires &5Enderman Slayer 8&c.\n&9&lRARE&r\n\n&7Cost\n&6150,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 150000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "END_PORTAL_FUMES_MIXIN"
         }
       ]
     },
     "item12": {
-      "lore": "{{Item/GABAGOEY_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "lore": "Gabagoey Mixin\n&7&8Brewing Ingredient\n\n&7&7Mixins provide a buff that can be\n&7added to &cGod Potions &7in a brewing\n&7stand and lasts for the full duration.\n\n&7Increases your &f❂ True Defense &7by\n&7&a5%&7.\n\n&7Duration: &a36h 0m\n\n&7The duration of Mixins can be stacked!\n\n&7&eRight-click to consume!&8\n&8(Requires active Booster Cookie)\n\n&7&4☠ &cRequires &5Blaze Slayer 8&c.\n&9&lRARE&r\n\n&7Cost\n&6150,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 150000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GABAGOEY_MIXIN"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/TEPID_GREEN_TEA|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Tepid Green Tea\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Buffs the &a❈ Defense &7value of\n&7potions by &a+10%&7.\n\n&f&lCOMMON&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TEPID_GREEN_TEA"
         }
       ]
     },
     "item3": {
-      "lore": "{{Item/PULPOUS_ORANGE_JUICE|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Pulpous Orange Juice\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Buffs the &c❤ Health &7value of\n&7potions by &a+5%&7.\n\n&f&lCOMMON&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PULPOUS_ORANGE_JUICE"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/BITTER_ICE_TEA|lore}}\n\n&7Cost\n&61,200 Coins",
+      "lore": "Bitter Iced Tea\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Buffs the &b✎ Mana &7and &bExperience\n&b&7values of potions by &a+20%&7.\n\n&f&lCOMMON&r\n\n&7Cost\n&61,200 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1200
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BITTER_ICE_TEA"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/KNOCKOFF_COLA|lore}}\n\n&7Cost\n&61,500 Coins",
+      "lore": "KnockOff™ Cola\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Buffs the &c❁ Strength &7value of\n&7potions by &a+5%&7.\n\n&f&lCOMMON&r\n\n&7Cost\n&61,500 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1500
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KNOCKOFF_COLA"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/DECENT_COFFEE|lore}}\n\n&7Cost\n&65,000 Coins",
+      "lore": "Decent Coffee\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Adds &f+8✦ Speed &7to potions with\n&7that stat.\n\n&a&lUNCOMMON&r\n\n&7Cost\n&65,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DECENT_COFFEE"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/REVENANT_GENERATOR_12|lore}}\n\n&7Cost\n&9Revenant Minion 11\n&9Revenant Viscera &8x64\n&62,000,000 Coins",
+      "lore": "Revenant Minion XII\n&7Place this minion and it will start\n&7generating and struggling with\n&7Revenants! Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a8s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&7&4☠ &cRequires &5Zombie Slayer 9&c.\n&9&lRARE&r\n\n&7Cost\n&9Revenant Minion 11\n&9Revenant Viscera &8x64\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -101,23 +155,41 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REVENANT_GENERATOR_12"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/ZOMBIE_BRAIN_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "lore": "Zombie Brain Mixin\n&7&8Brewing Ingredient\n\n&7&7Mixins provide a buff that can be\n&7added to &cGod Potions &7in a brewing\n&7stand and lasts for the full duration.\n\n&7Gain &c+10⫽ Ferocity&7!\n\n&7Duration: &a36h 0m\n\n&7The duration of Mixins can be stacked!\n\n&7&eRight-click to consume!&8\n&8(Requires active Booster Cookie)\n\n&7&4☠ &cRequires &5Zombie Slayer 8&c.\n&9&lRARE&r\n\n&7Cost\n&6150,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 150000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ZOMBIE_BRAIN_MIXIN"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/SPIDER_EGG_MIXIN|lore}}\n\n&7Cost\n&6150,000 Coins",
+      "lore": "Spider Egg Mixin\n&7&8Brewing Ingredient\n\n&7&7Mixins provide a buff that can be\n&7added to &cGod Potions &7in a brewing\n&7stand and lasts for the full duration.\n\n&7Gain &a5% &7dodge chance!\n\n&7Duration: &a36h 0m\n\n&7The duration of Mixins can be stacked!\n\n&7&eRight-click to consume!&8\n&8(Requires active Booster Cookie)\n\n&7&4☠ &cRequires &5Spider Slayer 8&c.\n&9&lRARE&r\n\n&7Cost\n&6150,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 150000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SPIDER_EGG_MIXIN"
         }
       ]
     }

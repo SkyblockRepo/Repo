@@ -4,25 +4,37 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/HOT_CHOCOLATE|lore}}\n\n&7Cost\n&670,000 Coins",
+      "lore": "Hot Chocolate\n&7&7Its warm &echocolatey &7goodness\n&7imbues you with the ability to\n&7overcome the heat death of the\n&7&6Blazing Volcano&7.\n\n&a&lUNCOMMON&r\n\n&7Cost\n&670,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 70000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HOT_CHOCOLATE"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/BLACK_COFFEE|lore}}\n\n&7Cost\n&650,000 Coins",
+      "lore": "Black Coffee\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Adds &f+12✦ Speed &7to potions with\n&7that stat.\n\n&a&lUNCOMMON&r\n\n&7Cost\n&650,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BLACK_COFFEE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/RED_THORNLEAF_TEA|lore}}\n\n&7Cost\n&aRed Thornleaf &8x50\n&620,000 Coins",
+      "lore": "Red Thornleaf Tea\n&8Basic Brew\n\n&7Use this item in place of an\n&7Awkward Potion for certain\n&7potions.\n\n&7Added to Resistance potions.\n&7\n&7Upon being hit, reflect &a5% &7of the\n&7damage back to the attacker.\n\n&9&lRARE&r\n\n&7Cost\n&aRed Thornleaf &8x50\n&620,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -33,14 +45,26 @@
           "type": "COINS",
           "amount": 20000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RED_THORNLEAF_TEA"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/SCORNCLAW_BREW|lore}}\n\n&7Cost\n&62,000 Coins",
+      "lore": "Scornclaw Brew\n&7The perfect balance between\n&7sweetness and bitterness, with a\n&7strange bite to it.\n\n&eRight-click to consume\n\n&f&lCOMMON&r\n\n&7Cost\n&62,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SCORNCLAW_BREW"
         }
       ]
     }

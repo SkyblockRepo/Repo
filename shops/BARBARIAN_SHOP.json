@@ -4,16 +4,22 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/THORNLEAF_SCYTHE|lore}}\n\n&7Cost\n&685,000 Coins",
+      "lore": "Thornleaf Scythe\n&7A crudely sharpened implement used\n&7by the &cBarbarians &7to harvest &aRed\n&aThornleaf&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON HOE&r\n\n&7Cost\n&685,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 85000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "THORNLEAF_SCYTHE"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/KUUDRA_TIER_KEY|lore}}\n\n&7Cost\n&6200,000 Coins\n&aEnchanted Red Sand &8x2\n&6Nether Star &8x2",
+      "lore": "Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Basic Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE&r\n\n&7Cost\n&6200,000 Coins\n&aEnchanted Red Sand &8x2\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -29,10 +35,16 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TIER_KEY"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/KUUDRA_HOT_TIER_KEY|lore}}\n\n&7Cost\n&6400,000 Coins\n&aEnchanted Red Sand &8x6\n&6Nether Star &8x2",
+      "lore": "Hot Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Hot Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r\n\n&7Cost\n&6400,000 Coins\n&aEnchanted Red Sand &8x6\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -48,10 +60,16 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_HOT_TIER_KEY"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/KUUDRA_BURNING_TIER_KEY|lore}}\n\n&7Cost\n&6750,000 Coins\n&aEnchanted Red Sand &8x20\n&6Nether Star &8x2",
+      "lore": "Burning Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Burning Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r\n\n&7Cost\n&6750,000 Coins\n&aEnchanted Red Sand &8x20\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -67,10 +85,16 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_BURNING_TIER_KEY"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/KUUDRA_FIERY_TIER_KEY|lore}}\n\n&7Cost\n&61,500,000 Coins\n&aEnchanted Red Sand &8x60\n&6Nether Star &8x2",
+      "lore": "Fiery Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Fiery Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r\n\n&7Cost\n&61,500,000 Coins\n&aEnchanted Red Sand &8x60\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -86,10 +110,16 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_FIERY_TIER_KEY"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/KUUDRA_INFERNAL_TIER_KEY|lore}}\n\n&7Cost\n&63,000,000 Coins\n&aEnchanted Red Sand &8x120\n&6Nether Star &8x2",
+      "lore": "Infernal Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Infernal Tier of the Kuudra fight.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&6&lLEGENDARY&r\n\n&7Cost\n&63,000,000 Coins\n&aEnchanted Red Sand &8x120\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -104,6 +134,12 @@
           "type": "ITEM",
           "item_id": "NETHER_STAR",
           "amount": 2
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_INFERNAL_TIER_KEY"
         }
       ]
     }

@@ -4,29 +4,48 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item_torch}}\n\n&7Cost\n&632 Coins",
+      "lore": "Torch\n&f&lCOMMON&r\n\n&7Cost\n&632 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 32
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TORCH",
+          "amount": 64
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item_lantern}}\n\n&7Cost\n&610,000 Coins",
+      "lore": "Lantern\n&7&7Places torches by converting &8Coal\n&8&7from your inventory when used.\n\n&eRight-Click a block to use!\n\n&9&lRARE&r\n\n&7Cost\n&610,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LANTERN"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item_infini_torch}}\n\n&7Cost\n&6100,000 Coins",
+      "lore": "InfiniTorch™\n&7&7Places a torch for &62 coins&7.\n\n&eRight-Click a block to use!\n\n&5&lEPIC&r\n\n&7Cost\n&6100,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 100000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "INFINI_TORCH"
         }
       ]
     }

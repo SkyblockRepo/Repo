@@ -4,119 +4,197 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/REDSTONE_TORCH_ON|lore}}\n\n&7Cost\n&62 Coins",
+      "lore": "Redstone Torch\n&f&lCOMMON&r\n\n&7Cost\n&62 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REDSTONE_TORCH_ON"
+        }
       ]
     },
     "item10": {
-      "lore": "{{Item/DIODE|lore}}\n\n&7Cost\n&66 Coins",
+      "lore": "Repeater\n&f&lCOMMON&r\n\n&7Cost\n&66 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 6
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DIODE"
+        }
       ]
     },
     "item11": {
-      "lore": "{{Item/TRIPWIRE_HOOK|lore}}\n\n&7Cost\n&64 Coins",
+      "lore": "Tripwire Hook\n&f&lCOMMON&r\n\n&7Cost\n&64 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 4
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TRIPWIRE_HOOK"
         }
       ]
     },
     "item12": {
-      "lore": "{{Item/TNT|lore}}\n\n&7Cost\n&650 Coins",
+      "lore": "TNT\n&f&lCOMMON&r\n\n&7Cost\n&650 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TNT"
         }
       ]
     },
     "item13": {
-      "lore": "{{Item/HOPPER|lore}}\n\n&7Cost\n&650 Coins",
+      "lore": "Hopper\n&f&lCOMMON&r\n\n&7Cost\n&650 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "HOPPER"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/REDSTONE|lore}}\n\n&7Cost\n&64 Coins",
+      "lore": "Redstone Dust\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON ORE&r\n\n&7Cost\n&64 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 4
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REDSTONE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/DAYLIGHT_DETECTOR|lore}}\n\n&7Cost\n&618 Coins",
+      "lore": "Daylight Detector\n&f&lCOMMON&r\n\n&7Cost\n&618 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 18
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DAYLIGHT_DETECTOR"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/WOOD_PLATE|lore}}\n\n&7Cost\n&62 Coins",
+      "lore": "Wooden Pressure Plate\n&f&lCOMMON&r\n\n&7Cost\n&62 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD_PLATE"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/STONE_PLATE|lore}}\n\n&7Cost\n&64 Coins",
+      "lore": "Stone Pressure Plate\n&f&lCOMMON&r\n\n&7Cost\n&64 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 4
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "STONE_PLATE"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/IRON_PLATE|lore}}\n\n&7Cost\n&612 Coins",
+      "lore": "Heavy Weighted Pressure Plate\n&f&lCOMMON&r\n\n&7Cost\n&612 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 12
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "IRON_PLATE"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/GOLD_PLATE|lore}}\n\n&7Cost\n&616 Coins",
+      "lore": "Light Weighted Pressure Plate\n&f&lCOMMON&r\n\n&7Cost\n&616 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 16
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_PLATE"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/LEVER|lore}}\n\n&7Cost\n&62 Coins",
+      "lore": "Lever\n&f&lCOMMON&r\n\n&7Cost\n&62 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "LEVER"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/REDSTONE_COMPARATOR|lore}}\n\n&7Cost\n&610 Coins",
+      "lore": "Comparator\n&f&lCOMMON&r\n\n&7Cost\n&610 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "REDSTONE_COMPARATOR"
         }
       ]
     }

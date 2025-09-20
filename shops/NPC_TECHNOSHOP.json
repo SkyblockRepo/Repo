@@ -4,55 +4,74 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b4": {
-      "lore": "{{Item_shiny_orb}}\n\n&7Cost\n&62,000 Coins",
+      "lore": "Shiny Orb\n&7Right-click shiny pigs with this item.\n\n&7Bring the pig back to the orb to gain\n&7loot.\n\n&6&lLEGENDARY&r\n\n&7Cost\n&62,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SHINY_ORB"
+        }
       ]
     },
     "b5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b6": {
-      "lore": "{{Item_the_art_of_war}}\n\n&7Cost\n&65,000,000 Coins\n&9Enchanted Cooked Porkchop &8x2",
+      "lore": "The Art of War\n&7&8Combinable in Anvil\n\n&7Grants &c+5❁ Strength &7when applied\n&7to a weapon. Can only be applied to\n&7an item once.\n\n&7&8In the midst of chaos, there is also\n&8opportunity.\n&8 - Sun Tzu\n\n&6&lLEGENDARY&r\n\n&7Cost\n&65,000,000 Coins\n&9Enchanted Cooked Porkchop &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -63,55 +82,76 @@
           "item_id": "ENCHANTED_GRILLED_PORK",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "THE_ART_OF_WAR"
+        }
       ]
     },
     "b7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d4": {
-      "lore": "{{Item_pig_mask}}\n\n&bBuyable once per profile!\n\n&7Cost\n&610,000 Coins\n&9Enchanted Raw Porkchop &8x2",
+      "lore": "Pig Mask\n&7Speed: &a+1\n\n&7Wear this mask to show your support\n&7for the Dante resistance.\n\n&9Cosmetic item!\n\n&7&8This item can be reforged!\n&6&lLEGENDARY HELMET&r\n\n&bBuyable once per profile!\n\n&7Cost\n&610,000 Coins\n&9Enchanted Raw Porkchop &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -122,13 +162,20 @@
           "item_id": "ENCHANTED_PORK",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PIG_MASK"
+        }
       ]
     },
     "d5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d6": {
-      "lore": "{{Item_blood_god_crest}}\n\n&bBuyable once per profile!\n\n&7Cost\n&6500,000 Coins\n&9Enchanted Raw Porkchop &8x32",
+      "lore": "Blood God Crest\n&7Tracks a counter for each mob\n&7killed while worn.\n\n&7Gain &c+1❁ Strength &7for each digit\n&7on the counter. &8(Max 7)\n\n&7Counter: &cNone yet!\n\n&f&lCOMMON ACCESSORY&r\n\n&bBuyable once per profile!\n\n&7Cost\n&6500,000 Coins\n&9Enchanted Raw Porkchop &8x32",
       "cost": [
         {
           "type": "COINS",
@@ -139,70 +186,97 @@
           "item_id": "ENCHANTED_PORK",
           "amount": 32
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BLOOD_GOD_CREST"
+        }
       ]
     },
     "d7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f5": {
-      "material": "barrier"
+      "material": "barrier",
+      "lore": ""
     },
     "f6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "6"

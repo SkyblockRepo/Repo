@@ -4,77 +4,117 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "lore": "{{Item_squire_sword}}\n\n&7Cost\n&65,000 Coins",
+      "lore": "Squire Sword\n&7Damage: &c+50\n&7Strength: &c+10\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON SWORD&r\n\n&7Cost\n&65,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SQUIRE_SWORD"
         }
       ]
     },
     "b3": {
-      "lore": "{{Item_squire_helmet}}\n\n&7Cost\n&65,000 Coins",
+      "lore": "Squire Helmet\n&7Health: &a+25\n&7Defense: &a+25\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON HELMET&r\n\n&7Cost\n&65,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SQUIRE_HELMET"
+        }
       ]
     },
     "b4": {
-      "lore": "{{Item_squire_chestplate}}\n\n&7Cost\n&68,000 Coins",
+      "lore": "Squire Chestplate\n&7Health: &a+40\n&7Defense: &a+40\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON CHESTPLATE&r\n\n&7Cost\n&68,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 8000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SQUIRE_CHESTPLATE"
+        }
       ]
     },
     "b5": {
-      "lore": "{{Item_squire_leggings}}\n\n&7Cost\n&67,000 Coins",
+      "lore": "Squire Leggings\n&7Health: &a+30\n&7Defense: &a+30\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON LEGGINGS&r\n\n&7Cost\n&67,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 7000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SQUIRE_LEGGINGS"
+        }
       ]
     },
     "b6": {
-      "lore": "{{Item_squire_boots}}\n\n&7Cost\n&64,000 Coins",
+      "lore": "Squire Boots\n&7Health: &a+20\n&7Defense: &a+20\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 4&c.\n&a&lUNCOMMON BOOTS&r\n\n&7Cost\n&64,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 4000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SQUIRE_BOOTS"
         }
       ]
     },
@@ -85,10 +125,12 @@
       "lore": ""
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
       "lore": ""
@@ -112,10 +154,12 @@
       "lore": ""
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
       "lore": ""
@@ -139,10 +183,12 @@
       "lore": ""
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e2": {
       "lore": ""
@@ -166,16 +212,20 @@
       "lore": ""
     },
     "e9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f4": {
       "material": "arrow",
@@ -188,16 +238,20 @@
       "lore": "&7Click items in your inventory to\n&7sell them to this Shop!"
     },
     "f6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "6"

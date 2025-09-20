@@ -4,10 +4,22 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/RETRO_ENCABULATING_VISOR|lore}}\n\n&7Cost\n&d1,000 Motes"
+      "lore": "Retro-Encabulating Visor\n&7Intelligence: &a-50\n\n&7Lets you see presumably invisible\n&7cables when worn.\n\n&8Kloon built this in a cave!\n&8With a bunch of scraps!\n\n&d&lMYTHIC HELMET&r\n\n&7Cost\n&d1,000 Motes",
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RETRO_ENCABULATING_VISOR"
+        }
+      ]
     },
     "item2": {
-      "lore": "{{Item/DEFECTIVE_MONITOR|lore}}\n\n&7Cost\n&d1,000 Motes"
+      "lore": "Defective Monitor\n&7Rift Time: &a+60s\n&7Intelligence: &a+6\n\n&7Obtained from a Kloon who doesn't\n&7seem too stable.\n\n&5&lEPIC ACCESSORY&r\n\n&7Cost\n&d1,000 Motes",
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "DEFECTIVE_MONITOR"
+        }
+      ]
     }
   }
 }

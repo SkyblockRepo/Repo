@@ -4,92 +4,154 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/PARKOUR_CONTROLLER|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Parkour Start/End\n&7Create the start/end of parkour\n&7courses on your private island!\n\n&7&4❣ &cRequires &aSocial Skill 1&c.\n&f&lCOMMON&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PARKOUR_CONTROLLER",
+          "amount": 2
+        }
       ]
     },
     "item10": {
-      "lore": "{{Item/SHOWCASE_BLOCK|lore}}\n\n&7Cost\n&650,000 Coins",
+      "lore": "Showcase Block\n&7Show off an item in this fancy glass\n&7display box! &e&lRIGHT CLICK &r&7to put in\n&7or swap an item.\n\n&7&4❣ &cRequires &aSocial Skill 10&c.\n&a&lUNCOMMON&r\n\n&7Cost\n&650,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SHOWCASE_BLOCK"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/PARKOUR_POINT|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Parkour Checkpoint\n&7Create checkpoints for parkour\n&7courses on your private island!\n\n&7&4❣ &cRequires &aSocial Skill 1&c.\n&f&lCOMMON&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PARKOUR_POINT"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/PARKOUR_TIMES|lore}}\n\n&7Cost\n&62,000 Coins",
+      "lore": "Parkour Times\n&7Places a hologram displaying the top\n&7parkour times of players on your\n&7island. Click to select which parkour\n&7is displayed.\n\n&7&4❣ &cRequires &aSocial Skill 1&c.\n&f&lCOMMON&r\n\n&7Cost\n&62,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PARKOUR_TIMES"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/SOCIAL_DISPLAY|lore}}\n\n&7Cost\n&610,000 Coins",
+      "lore": "Social Display\n&7Places a hologram displaying the top\n&7players on your island by points.\n\n&7&4❣ &cRequires &aSocial Skill 2&c.\n&a&lUNCOMMON&r\n\n&7Cost\n&610,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SOCIAL_DISPLAY"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/EGG_HUNT|lore}}\n\n&7Cost\n&61,000 Coins",
+      "lore": "Egg Hunt\n&7&7Place an egg which can be found on\n&7your island by guests for island\n&7points.\n\n&7&7Maximum of 10.\n\n&7&4❣ &cRequires &aSocial Skill 3&c.\n&f&lCOMMON&r\n\n&7Cost\n&61,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "EGG_HUNT",
+          "amount": 2
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/ISLAND_NPC|lore}}\n\n&7Cost\n&650,000 Coins",
+      "lore": "Island NPC\n&7Spawn island NPCs for your private\n&7world! Right-Click one to edit its\n&7settings and add dialogue.\n\n&7&4❣ &cRequires &aSocial Skill 5&c.\n&9&lRARE&r\n\n&7Cost\n&650,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 50000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ISLAND_NPC"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/TIC_TAC_TOE|lore}}\n\n&7Cost\n&62,500 Coins",
+      "lore": "Tic Tac Toe\n&7Click another player to initiate a\n&7game of Tic Tac Toe!\n\n&7&4❣ &cRequires &aSocial Skill 6&c.\n&a&lUNCOMMON&r\n\n&7Cost\n&62,500 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2500
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TIC_TAC_TOE"
         }
       ]
     },
     "item8": {
-      "lore": "{{Item/CONNECT_FOUR|lore}}\n\n&7Cost\n&62,500 Coins",
+      "lore": "Four in a Row\n&7Click another player to initiate a\n&7game of Four in a Row!\n\n&7&4❣ &cRequires &aSocial Skill 7&c.\n&a&lUNCOMMON&r\n\n&7Cost\n&62,500 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2500
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CONNECT_FOUR"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/ROCK_PAPER_SHEARS|lore}}\n\n&7Cost\n&610,000 Coins",
+      "lore": "Rock Paper Shears\n&7Click this item to initiate a tournament\n&7of Rock Paper Shears with all of the\n&7players on your island!\n\n&7Outsmart your opponents by\n&7choosing the least picked option to\n&7win the round! Final round uses\n&7classic rules.\n\n&7&4❣ &cRequires &aSocial Skill 8&c.\n&a&lUNCOMMON&r\n\n&7Cost\n&610,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ROCK_PAPER_SHEARS"
         }
       ]
     }

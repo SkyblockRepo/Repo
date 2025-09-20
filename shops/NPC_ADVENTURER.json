@@ -4,101 +4,167 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/ROTTEN_FLESH|lore}}\n\n&7Cost\n&68 Coins",
+      "lore": "Rotten Flesh\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&68 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 8
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ROTTEN_FLESH"
         }
       ]
     },
     "item10": {
-      "lore": "{{Item/INTIMIDATION_TALISMAN|lore}}\n\n&7Cost\n&610,000 Coins",
+      "lore": "Intimidation Talisman\n&7Level &a1 &7monsters will no longer\n&7target you.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&610,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "INTIMIDATION_TALISMAN"
         }
       ]
     },
     "item11": {
-      "lore": "{{Item/SCAVENGER_TALISMAN|lore}}\n\n&7Cost\n&610,000 Coins",
+      "lore": "Scavenger Talisman\n&7Grants &6+0.5 coins &7per level of the\n&7killed enemy.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&610,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SCAVENGER_TALISMAN"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/BONE|lore}}\n\n&7Cost\n&68 Coins",
+      "lore": "Bone\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&68 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 8
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BONE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/STRING|lore}}\n\n&7Cost\n&610 Coins",
+      "lore": "String\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&610 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "STRING"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/SLIME_BALL|lore}}\n\n&7Cost\n&614 Coins",
+      "lore": "Slimeball\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&614 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 14
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SLIME_BALL"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/SULPHUR|lore}}\n\n&7Cost\n&610 Coins",
+      "lore": "Gunpowder\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&610 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SULPHUR"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/ZOMBIE_TALISMAN|lore}}\n\n&7Cost\n&6500 Coins",
+      "lore": "Zombie Talisman\n&7Reduces the damage taken from\n&7&7Zombies by &a5%&7.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&6500 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 500
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ZOMBIE_TALISMAN"
         }
       ]
     },
     "item7": {
-      "lore": "{{Item/SKELETON_TALISMAN|lore}}\n\n&7Cost\n&6500 Coins",
+      "lore": "Skeleton Talisman\n&7Reduces the damage taken from\n&7&7Skeletons by &a5%&7.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&6500 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 500
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SKELETON_TALISMAN"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/VILLAGE_TALISMAN|lore}}\n\n&7Cost\n&62,500 Coins",
+      "lore": "Village Affinity Talisman\n&7Increases your &f✦ Speed &7by &a+10&7\n&7while held in the &bVillage&7.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&62,500 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2500
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "VILLAGE_TALISMAN"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/MINE_TALISMAN|lore}}\n\n&7Cost\n&62,500 Coins",
+      "lore": "Mine Affinity Talisman\n&7&7Grants &f+25✦ Speed &7while on &bMining\n&bIslands&7.\n\n&f&lCOMMON ACCESSORY&r\n\n&7Cost\n&62,500 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 2500
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MINE_TALISMAN"
         }
       ]
     }

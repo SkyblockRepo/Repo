@@ -4,7 +4,7 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item_kuudra_follower_artifact}}\n\n&7Cost\n&6100,000,000 Coins\n&aEnchanted Red Sand &8x1024\n&aEnchanted Mycelium &8x1024\n&5Kuudra Teeth &8x64",
+      "lore": "Kuudra Follower Artifact\n&7Reduces damage taken from Kuudra\n&7Followers by &a50%&7.\n\n&8&l* &r&8Soulbound &8&l*&r\n&5&lEPIC ACCESSORY&r\n\n&7Cost\n&6100,000,000 Coins\n&aEnchanted Red Sand &8x1024\n&aEnchanted Mycelium &8x1024\n&5Kuudra Teeth &8x64",
       "cost": [
         {
           "type": "COINS",
@@ -24,6 +24,12 @@
           "type": "ITEM",
           "item_id": "KUUDRA_TEETH",
           "amount": 64
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_FOLLOWER_ARTIFACT"
         }
       ]
     }

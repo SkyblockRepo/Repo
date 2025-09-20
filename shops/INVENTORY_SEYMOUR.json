@@ -4,158 +4,212 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c5": {
-      "lore": "{{Item/EXCEEDINGLY_COMFY_SNEAKERS|lore}}\n\n&7Cost\n&9Gunther's Sneakers\n&d49,999 Motes",
+      "lore": "Exceedingly Comfy Sneakers\n&7Rift Time: &a+45s\n&7Speed: &a+5\n\n&7Stay classy.\n\n&5&lEPIC BOOTS&r\n\n&7Cost\n&9Gunther's Sneakers\n&d49,999 Motes",
       "cost": [
         {
           "type": "ITEM",
           "item_id": "GUNTHER_SNEAKERS",
           "amount": 1
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "EXCEEDINGLY_COMFY_SNEAKERS"
+        }
       ]
     },
     "c6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "e9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f5": {
       "material": "barrier",
@@ -163,16 +217,20 @@
       "lore": "barrier:Close"
     },
     "f6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "f9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "6"

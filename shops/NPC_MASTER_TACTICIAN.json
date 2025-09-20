@@ -4,16 +4,22 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/TACTICIAN_SWORD|lore}}\n\n&7Cost\n&635,000 Coins",
+      "lore": "Tactician's Sword\n&7Damage: &c+50\n&7Crit Chance: &c+20%\n\n&7&7Gains &c+15 Damage &7for each\n&7Combat collection at Tier VII or\n&7higher.\n\n&7Your Collections: &e0&7/&e11\n\n&7&8This item can be reforged!\n&9&lRARE SWORD&r\n\n&7Cost\n&635,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 35000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TACTICIAN_SWORD"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/WOOD_SINGULARITY|lore}}\n\n&7Cost\n&aEnchanted Oak Wood &8x320\n&aEnchanted Spruce Wood &8x320\n&aEnchanted Birch Wood &8x320\n&aEnchanted Dark Oak Wood &8x320\n&aEnchanted Acacia Wood &8x320\n&aEnchanted Jungle Wood &8x320\n&61,464,000 Coins",
+      "lore": "Wood Singularity\n&7&8Combinable in Anvil\n\n\n\n&7When applied to an &9Axe&7, grants &6+25☘\n\n&6Foraging Fortune&7.\n\n\n\n&6&lLEGENDARY&r\n\n&7Cost\n&aEnchanted Oak Wood &8x320\n&aEnchanted Spruce Wood &8x320\n&aEnchanted Birch Wood &8x320\n&aEnchanted Dark Oak Wood &8x320\n&aEnchanted Acacia Wood &8x320\n&aEnchanted Jungle Wood &8x320\n&61,464,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -48,6 +54,12 @@
         {
           "type": "COINS",
           "amount": 1464000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD_SINGULARITY"
         }
       ]
     }

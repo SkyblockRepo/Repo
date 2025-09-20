@@ -26,11 +26,17 @@
       ]
     },
     "item11": {
-      "lore": "{{Item/CACTUS|lore}}\n\n&7Cost\n&615 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Cactus\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&615 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 15
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CACTUS"
         }
       ]
     },
@@ -46,11 +52,17 @@
       ]
     },
     "item13": {
-      "lore": "{{Item/ROOKIE_HOE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "lore": "Rookie Hoe\n&7Crops broken with this hoe have a\n&7&a50%&7 chance to drop a seed.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 1&c.\n&f&lCOMMON HOE&r\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
       "cost": [
         {
           "type": "COINS",
           "amount": 10
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ROOKIE_HOE"
         }
       ]
     },
@@ -99,38 +111,62 @@
       ]
     },
     "item6": {
-      "lore": "{{Item/PUMPKIN|lore}}\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Pumpkin\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "PUMPKIN"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/INK_SACK:3|lore}}\n\n&7Cost\n&65 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Cocoa Beans\n&7&8Brewing Ingredient\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&65 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 5
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "INK_SACK:3"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/RED_MUSHROOM|lore}}\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Red Mushroom\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "RED_MUSHROOM"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/BROWN_MUSHROOM|lore}}\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "lore": "Brown Mushroom\n&7&8Collection Item\n\n&f&lCOMMON&r\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
       "cost": [
         {
           "type": "COINS",
           "amount": 25
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BROWN_MUSHROOM"
         }
       ]
     }

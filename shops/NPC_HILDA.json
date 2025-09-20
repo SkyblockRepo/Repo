@@ -4,7 +4,7 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item_ghast_generator_12}}\n\n&7Cost\n&9Ghast Minion XI\n&aSilver Fang &8x1024\n&62,000,000 Coins",
+      "lore": "Ghast Minion XII\n&7Place this minion and it will start\n&7generating and slaying Ghasts!\n&7&cBEWARE OF EXPLOSIONS!&7 Minions also\n&7work when you are offline!\n\n&7Time Between Actions: &a30s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Ghast Minion XI\n&aSilver Fang &8x1024\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -20,10 +20,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GHAST_GENERATOR_12"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item_quartz_generator_12}}\n\n&7Cost\n&9Quartz Minion XI\n&9Enchanted Quartz Block &8x16\n&62,000,000 Coins",
+      "lore": "Quartz Minion XII\n&7Place this minion and it will start\n&7generating and mining quartz ore!\n&7Requires an open area to place\n&7quartz ore. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a10s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Quartz Minion XI\n&9Enchanted Quartz Block &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -39,10 +45,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "QUARTZ_GENERATOR_12"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item_glowstone_generator_12}}\n\n&7Cost\n&9Glowstone Minion XI\n&aEnchanted Glowstone &8x32\n&62,000,000 Coins",
+      "lore": "Glowstone Minion XII\n&7Place this minion and it will start\n&7generating and mining glowstone!\n&7Requires an open area to place\n&7glowstone. Minions also work when\n&7you are offline!\n\n&7Time Between Actions: &a11s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Glowstone Minion XI\n&aEnchanted Glowstone &8x32\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -58,10 +70,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GLOWSTONE_GENERATOR_12"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item_blaze_generator_12}}\n\n&7Cost\n&9Blaze Minion XI\n&aEnchanted Blaze Rod &8x16\n&62,000,000 Coins",
+      "lore": "Blaze Minion XII\n&7Place this minion and it will start\n&7generating and slaying Blazes!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a15s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Blaze Minion XI\n&aEnchanted Blaze Rod &8x16\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -77,10 +95,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_GENERATOR_12"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item_magma_cube_generator_12}}\n\n&7Cost\n&9Magma Cube Minion XI\n&aEnchanted Magma Cream &8x1024\n&62,000,000 Coins",
+      "lore": "Magma Cube Minion XII\n&7Place this minion and it will start\n&7generating and slaying Magma Cubes!\n&7Minions also work when you are\n&7offline!\n\n&7Time Between Actions: &a16s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&9&lRARE&r\n\n&7Cost\n&9Magma Cube Minion XI\n&aEnchanted Magma Cream &8x1024\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -96,10 +120,16 @@
           "type": "COINS",
           "amount": 2000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CUBE_GENERATOR_12"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item_mycelium_generator_12}}\n\n&7Cost\n&9Mycelium Minion XI\n&9Enchanted Mycelium Cube &8x32\n&62,000,000 Coins",
+      "lore": "Mycelium Minion XII\n&7Place this minion and it will start\n&7generating and mining mycelium!\n&7Requires an open area to place\n&7mycelium. Minions also work when you\n&7are offline!\n\n&7Time Between Actions: &a11s\n&7Max Storage: &e960\n&7Resources Generated: &b0\n\n&7&4❣ &cRequires &c12,000 Mage Reputation&c.\n&9&lRARE&r\n\n&7Cost\n&9Mycelium Minion XI\n&9Enchanted Mycelium Cube &8x32\n&62,000,000 Coins",
       "cost": [
         {
           "type": "ITEM",
@@ -114,6 +144,12 @@
         {
           "type": "COINS",
           "amount": 2000000
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "MYCELIUM_GENERATOR_12"
         }
       ]
     }

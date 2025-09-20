@@ -4,37 +4,48 @@
   "source": "HypixelWiki",
   "slots": {
     "a1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "a9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b3": {
       "material": "chest",
@@ -42,7 +53,8 @@
       "lore": "&7Current balance: &65,000,000\n\n&7Store coins in the bank to keep\n&7them safe while you go on\n&7adventures!\n\n&7You will earn &b2% &7interest every\n&7season for your first &610 million\n&7banked coins.\n\n&7Until interest: &b12h"
     },
     "b4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b5": {
       "material": "dropper",
@@ -50,7 +62,8 @@
       "lore": "&7Current balance: &65,000,000\n\n&7Take your coins out of the bank\n&7in order to spend them."
     },
     "b6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b7": {
       "material": "map",
@@ -58,52 +71,68 @@
       "lore": "&7Unknown map\n\n&a+ &61,000,000&7, &e30 secs ago &7by &6 Messisteve\n&c- &6500,000&7, &e5 mins ago &7by &6 Soko\n&a+ &6100,000&7, &e 6 mins ago &7by &brainbowcraft2\n&a+ &6250,000&7, &e 6 mins ago &7by &6Messisteve\n&c- &650,000&7, &e11 mins ago &7by &2Jxxtin"
     },
     "b8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "b9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c5": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c6": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "c9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d1": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d2": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d3": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d4": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d5": {
-      "material": "barrier"
+      "material": "barrier",
+      "lore": ""
     },
     "d6": {
       "material": "redstone_torch",
@@ -111,13 +140,16 @@
       "lore": "&7Keep your coins safe in the bank!\n&7You lose half the coins in your\n&7purse when dying in combat.\n\n&7Balance limit: &650 Million\n\n&7The banker rewards you every 31\n&7hours with &binterest &7for the\n&7coins in your bank balance.\n\n&7Interest in: &b12h\n&7Last interest: &6100,000 coins\n&7Projected: &6100,000 coins &b(2%)"
     },
     "d7": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d8": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     },
     "d9": {
-      "material": "black_stained_glass_pane"
+      "material": "black_stained_glass_pane",
+      "lore": ""
     }
   },
   "rows": "4"

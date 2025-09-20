@@ -4,16 +4,22 @@
   "source": "HypixelWiki",
   "slots": {
     "item1": {
-      "lore": "{{Item/SPORE_HARVESTER|lore}}\n\n&7Cost\n&6100,000 Coins",
+      "lore": "Spore Harvester\n&7&7A magically imbued axe used by\n&7&5Mages &7to carefully harvest &aBrown\n&aMushrooms &7in the &cCrimson Isle&7.\n\n&7&8This item can be reforged!\n&a&lUNCOMMON HOE&r\n\n&7Cost\n&6100,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 100000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "SPORE_HARVESTER"
+        }
       ]
     },
     "item10": {
-      "lore": "{{Item/KUUDRA_INFERNAL_TIER_KEY|lore}}\n\n&7Cost\n&63,000,000 Coins\n&aEnchanted Mycelium &8x120\n&6Nether Star &8x2",
+      "lore": "Infernal Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Infernal Tier of the Kuudra fight.\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&6&lLEGENDARY&r\n\n&7Cost\n&63,000,000 Coins\n&aEnchanted Mycelium &8x120\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -29,28 +35,46 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_INFERNAL_TIER_KEY"
+        }
       ]
     },
     "item2": {
-      "lore": "{{Item/GRAND_EXP_BOTTLE|lore}}\n\n&7Cost\n&65,000 Coins",
+      "lore": "Grand Experience Bottle\n&7Smash it open to receive experience!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&65,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 5000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "GRAND_EXP_BOTTLE"
+        }
       ]
     },
     "item3": {
-      "lore": "{{Item/TITANIC_EXP_BOTTLE|lore}}\n\n&7Cost\n&6750,000 Coins",
+      "lore": "Titanic Experience Bottle\n&7Smash it open to receive experience!\n\n&9&lRARE&r\n\n&7Cost\n&6750,000 Coins",
       "cost": [
         {
           "type": "COINS",
           "amount": 750000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "TITANIC_EXP_BOTTLE"
+        }
       ]
     },
     "item4": {
-      "lore": "{{Item/ATOMINIZER|lore}}\n\n&7Cost\n&6100,000 Coins\n&aEnchanted Mycelium &8x500",
+      "lore": "Atominizer\n&7Right-Click on a Exe, Wai or Zee\n&7Atom to harvest their orbs.\n\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC&r\n\n&7Cost\n&6100,000 Coins\n&aEnchanted Mycelium &8x500",
       "cost": [
         {
           "type": "COINS",
@@ -61,10 +85,16 @@
           "item_id": "ENCHANTED_MYCELIUM",
           "amount": 500
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "ATOMINIZER"
+        }
       ]
     },
     "item5": {
-      "lore": "{{Item/CHARMINIZER|lore}}\n\n&7Cost\n&6100,000 Coins\n&fMushroom Spore &8x1000",
+      "lore": "Charminizer\n&7Can be used on Exe, Wai or Zee\n&7Atoms to charm them into only\n&7following you.\n\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&5&lEPIC&r\n\n&7Cost\n&6100,000 Coins\n&fMushroom Spore &8x1000",
       "cost": [
         {
           "type": "COINS",
@@ -75,10 +105,16 @@
           "item_id": "MUSHROOM_SPORE",
           "amount": 1000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "CHARMINIZER"
+        }
       ]
     },
     "item6": {
-      "lore": "{{Item/KUUDRA_TIER_KEY|lore}}\n\n&7Cost\n&6200,000 Coins\n&aEnchanted Mycelium &8x2\n&6Nether Star &8x2",
+      "lore": "Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Basic Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&9&lRARE&r\n\n&7Cost\n&6200,000 Coins\n&aEnchanted Mycelium &8x2\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -94,10 +130,16 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TIER_KEY"
+        }
       ]
     },
     "item7": {
-      "lore": "{{Item/KUUDRA_HOT_TIER_KEY|lore}}\n\n&7Cost\n&6400,000 Coins\n&aEnchanted Mycelium &8x6\n&6Nether Star &8x2",
+      "lore": "Hot Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Hot Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r\n\n&7Cost\n&6400,000 Coins\n&aEnchanted Mycelium &8x6\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -113,10 +155,16 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_HOT_TIER_KEY"
+        }
       ]
     },
     "item8": {
-      "lore": "{{Item/KUUDRA_BURNING_TIER_KEY|lore}}\n\n&7Cost\n&6750,000 Coins\n&aEnchanted Mycelium &8x20\n&6Nether Star &8x2",
+      "lore": "Burning Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Burning Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r\n\n&7Cost\n&6750,000 Coins\n&aEnchanted Mycelium &8x20\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -132,10 +180,16 @@
           "item_id": "NETHER_STAR",
           "amount": 2
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_BURNING_TIER_KEY"
+        }
       ]
     },
     "item9": {
-      "lore": "{{Item/KUUDRA_FIERY_TIER_KEY|lore}}\n\n&7Cost\n&61,500,000 Coins\n&aEnchanted Mycelium &8x60\n&6Nether Star &8x2",
+      "lore": "Fiery Kuudra Key\n&7&7Used to unlock the reward chest in\n&7the Fiery Tier of the Kuudra fight.\n\n&eRight-click to view recipes!\n\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&5&lEPIC&r\n\n&7Cost\n&61,500,000 Coins\n&aEnchanted Mycelium &8x60\n&6Nether Star &8x2",
       "cost": [
         {
           "type": "COINS",
@@ -150,6 +204,12 @@
           "type": "ITEM",
           "item_id": "NETHER_STAR",
           "amount": 2
+        }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_FIERY_TIER_KEY"
         }
       ]
     }

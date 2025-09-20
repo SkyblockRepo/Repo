@@ -10,6 +10,12 @@
           "type": "COINS",
           "amount": 10000000
         }
+      ],
+      "output": [
+        {
+          "type": "ITEM",
+          "item_id": "potion_regeneration_9"
+        }
       ]
     },
     "item2": {
