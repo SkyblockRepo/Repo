@@ -1,0 +1,61 @@
+{
+  "internalId": "NPC_SHERRY",
+  "name": "Sherry",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/FESTIVE_SINKER|lore}}\n\n&7Cost\n&650,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/ICE_BAIT|lore}}\n\n&7Cost\n&612 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/SNOW_BLASTER|lore}}\n\n&7Cost\n&675,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 75000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/ICE|lore}}\n\n&7Cost\n&61 Coin\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/PACKED_ICE|lore}}\n\n&7Cost\n&69 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 9
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/LARGE_WINTER_SACK|lore}}\n\n&7Cost\n&6250,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 250000
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "internalId": "INVENTORY_ABIPHONE_SHOP_NUVIAN",
+  "name": "Abiphone Shop",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_abiphone_x_plus}}\n\n&7Cost\n&61,015,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1015000
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item_abiphone_xiv_enormous_purple}}\n\n&7Cost\n&676,125,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item_abiphone_xiv_enormous_black}}\n\n&7Cost\n&676,125,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        }
+      ]
+    },
+    "item12": {
+      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&6101,500,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 101500000
+        }
+      ]
+    },
+    "item13": {
+      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
+          "amount": 1
+        }
+      ]
+    },
+    "item14": {
+      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous Black",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
+          "amount": 1
+        }
+      ]
+    },
+    "item15": {
+      "lore": "{{Item_abiphone_flip_dragon}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous Purple",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_PURPLE",
+          "amount": 1
+        }
+      ]
+    },
+    "item16": {
+      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&6101,500,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 101500000
+        }
+      ]
+    },
+    "item17": {
+      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
+          "amount": 1
+        }
+      ]
+    },
+    "item18": {
+      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous Black",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
+          "amount": 1
+        }
+      ]
+    },
+    "item19": {
+      "lore": "{{Item_abiphone_flip_nucleus}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous Purple",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_PURPLE",
+          "amount": 1
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_abiphone_x_plus_special_edition}}\n\n&7Cost\n&62,030,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2030000
+        }
+      ]
+    },
+    "item20": {
+      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&6101,500,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 101500000
+        }
+      ]
+    },
+    "item21": {
+      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
+          "amount": 1
+        }
+      ]
+    },
+    "item22": {
+      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous Black",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_BLACK",
+          "amount": 1
+        }
+      ]
+    },
+    "item23": {
+      "lore": "{{Item_abiphone_flip_volcano}}\n\n&7Cost\n&676,125,000 Coins\n&6Abiphone XIV Enormous Purple",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ABIPHONE_XIV_ENORMOUS_PURPLE",
+          "amount": 1
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item_abiphone_xi_ultra}}\n\n&7Cost\n&65,075,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5075000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item_abiphone_xi_ultra_style}}\n\n&7Cost\n&67,105,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 7105000
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item_abiphone_xii_mega}}\n\n&7Cost\n&68,120,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8120000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_abiphone_xii_mega_color}}\n\n&7Cost\n&612,180,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12180000
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item_abiphone_xiii_pro}}\n\n&7Cost\n&620,300,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20300000
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item_abiphone_xiii_pro_giga}}\n\n&7Cost\n&640,600,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 40600000
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item_abiphone_xiv_enormous}}\n\n&7Cost\n&676,125,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 76125000
+        }
+      ]
+    }
+  }
+}

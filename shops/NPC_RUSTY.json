@@ -1,0 +1,383 @@
+{
+  "internalId": "NPC_RUSTY",
+  "name": "Rusty The Janitor",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "lore": "{{Item/GOLD_THORN_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "b3": {
+      "lore": "{{Item/GOLD_LIVID_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "b4": {
+      "lore": "{{Item/GOLD_SADAN_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "b5": {
+      "lore": "{{Item/GOLD_NECRON_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "b6": {
+      "lore": "{{Item/DIAMOND_BONZO_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "b7": {
+      "lore": "{{Item/DIAMOND_SCARF_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "b8": {
+      "lore": "{{Item/DIAMOND_PROFESSOR_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "lore": "{{Item/DIAMOND_THORN_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "c3": {
+      "lore": "{{Item/DIAMOND_LIVID_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "c4": {
+      "lore": "{{Item/DIAMOND_SADAN_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "c5": {
+      "lore": "{{Item/DIAMOND_NECRON_HEAD|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "c6": {
+      "lore": "{{Item/ELEANOR_CAP|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "c7": {
+      "lore": "{{Item/ELEANOR_TUNIC|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "c8": {
+      "lore": "{{Item/ELEANOR_TROUSERS|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "lore": "{{Item/ELEANOR_SLIPPERS|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "d3": {
+      "lore": "{{Item/CROOKED_ARTIFACT|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "d4": {
+      "lore": "{{Item/SEAL_OF_THE_FAMILY|lore}}\n\n&7Cost\n&610,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        }
+      ]
+    },
+    "d5": {
+      "material": "kuudra_follower_helmet",
+      "name": "Kuudra Follower Helmet",
+      "lore": "\n&6Full Set Bonus: Follower\n&7Shows that you are a true\n&7follower of Kuudra.\n\n&7&8This item can be reforged!\n&8&l * &r&8Soulbound &8&l *&r\n&c&l SPECIAL HELMET&r\n\n&7Cost\n&610,000,000 Coins\n&5Kuudra Teeth &8x8\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 8
+        }
+      ]
+    },
+    "d6": {
+      "material": "leather_tunic_green",
+      "name": "Kuudra Follower Chestplate",
+      "lore": "\n&6Full Set Bonus: Follower\n&7Shows that you are a true\n&7follower of Kuudra.\n\n&7&8This item can be reforged!\n&8&l * &r&8Soulbound &8&l *&r\n&c&l SPECIAL CHESTPLATE&r\n\n&7Cost\n&610,000,000 Coins\n&5Kuudra Teeth &8x8\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 8
+        }
+      ]
+    },
+    "d7": {
+      "material": "leather_pants_green",
+      "name": "Kuudra Follower Leggings",
+      "lore": "\n&6Full Set Bonus: Follower\n&7Shows that you are a true\n&7follower of Kuudra.\n\n&7&8This item can be reforged!\n&8&l * &r&8Soulbound &8&l *&r\n&c&l SPECIAL LEGGINGS&r\n\n&7Cost\n&610,000,000 Coins\n&5Kuudra Teeth &8x8\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 8
+        }
+      ]
+    },
+    "d8": {
+      "material": "leather_boots_green",
+      "name": "Kuudra Follower Boots",
+      "lore": "\n&6Full Set Bonus: Follower\n&7Shows that you are a true\n&7follower of Kuudra.\n\n&7&8This item can be reforged!\n&8&l * &r&8Soulbound &8&l *&r\n&c&l SPECIAL BOOTS&r\n\n&7Cost\n&610,000,000 Coins\n&5Kuudra Teeth &8x8\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 8
+        }
+      ]
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "kuudra_cavity_decaying",
+      "name": "Kuudra Teeth Plaque",
+      "lore": "&7&7'' Once used to poison a great''\n&7'' beast. Its remains show the true''\n&7'' mark of a great adventurer.''\n\n&7&8'' This item is in its final''\n&8'' form!''\n\n&8&l * &r&8Soulbound &8&l *&r\n&c&l SPECIAL&r\n\n&7Cost\n&650,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000000
+        }
+      ]
+    },
+    "e3": {
+      "lore": "{{Item/KUUDRA_FOLLOWER_RELIC|lore}}\n\n&7Cost\n&6150,000,000 Coins\n&5Kuudra Teeth &8x64\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 64
+        }
+      ]
+    },
+    "e4": {
+      "lore": "{{Item/DWARVEN_TANKARD|lore}}\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ]
+    },
+    "e5": {
+      "lore": "{{Item/BOOK_OF_PROGRESSION|lore}}\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ]
+    },
+    "e6": {
+      "lore": "{{Item/GOLD_BONZO_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "e7": {
+      "lore": "{{Item/GOLD_SCARF_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "e8": {
+      "lore": "{{Item/GOLD_PROFESSOR_HEAD|lore}}\n\n&7Cost\n&62,000,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "arrow",
+      "name": "Previous Page",
+      "lore": "&ePage 2"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "lime_dye",
+      "name": "Shop Confirmations",
+      "lore": "&7Confirm when purchasing items worth\n&7at least a million coins.\n\n&eClick to disable!"
+    },
+    "f5": {
+      "material": "barrier",
+      "name": "Close",
+      "lore": "barrier:Close"
+    },
+    "f6": {
+      "material": "redstone_torch",
+      "name": "The Janitor",
+      "lore": "&7Rusty watches over the neatness of the &6Gold\n&6Mines&7, but really he watches over the whole of\n&7&aSkyBlock&7.\n\n&7If you misplace a &6one-time reward &7from a\n&7quest, it may be offered here!"
+    },
+    "f7": {
+      "material": "eye_of_ender",
+      "name": "Sort by Rarity",
+      "lore": "&7Enabled: &cNO"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

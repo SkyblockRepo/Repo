@@ -1,0 +1,55 @@
+{
+  "internalId": "NPC_MASTER_TACTICIAN",
+  "name": "Master Tactician",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/TACTICIAN_SWORD|lore}}\n\n&7Cost\n&635,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/WOOD_SINGULARITY|lore}}\n\n&7Cost\n&aEnchanted Oak Wood &8x320\n&aEnchanted Spruce Wood &8x320\n&aEnchanted Birch Wood &8x320\n&aEnchanted Dark Oak Wood &8x320\n&aEnchanted Acacia Wood &8x320\n&aEnchanted Jungle Wood &8x320\n&61,464,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_OAK_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SPRUCE_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BIRCH_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_DARK_OAK_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_ACACIA_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_JUNGLE_LOG",
+          "amount": 320
+        },
+        {
+          "type": "COINS",
+          "amount": 1464000
+        }
+      ]
+    }
+  }
+}

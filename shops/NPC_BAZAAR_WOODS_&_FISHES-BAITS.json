@@ -1,0 +1,175 @@
+{
+  "internalId": "NPC_BAZAAR_WOODS_&_FISHES-BAITS",
+  "name": "Woods & Fishes ➜ Baits",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "carrot_bait",
+      "name": "Carrot Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b3": {
+      "material": "minnow_bait",
+      "name": "Minnow Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b4": {
+      "material": "fish_bait",
+      "name": "Fish Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b5": {
+      "material": "light_bait",
+      "name": "Light Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b6": {
+      "material": "dark_bait",
+      "name": "Dark Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b7": {
+      "material": "spooky_bait",
+      "name": "Spooky Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b8": {
+      "material": "spiked_bait",
+      "name": "Spiked Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "blessed_bait",
+      "name": "Blessed Bait",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c3": {
+      "material": "ice_bait",
+      "name": "Ice Bait",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c4": {
+      "material": "whale_bait",
+      "name": "Whale Bait",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c5": {
+      "material": "shark_bait",
+      "name": "Shark Bait",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c6": {
+      "material": "corrupted_bait",
+      "name": "Corrupted Bait",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c7": {
+      "material": "hot_bait",
+      "name": "Hot Bait",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "black_stained_glass_pane"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "black_stained_glass_pane"
+    },
+    "e3": {
+      "material": "chest",
+      "name": "Sell Inventory Now",
+      "lore": "&7Instantly sell all Carrot Bait\n&7derivatives in your inventory."
+    },
+    "e4": {
+      "material": "black_stained_glass_pane"
+    },
+    "e5": {
+      "material": "arrow",
+      "name": "&r&aGo Back",
+      "lore": "&7To Bazaar"
+    },
+    "e6": {
+      "material": "book",
+      "name": "Manage Orders",
+      "lore": "&7You don't have any ongoing\n&7orders for these products."
+    },
+    "e7": {
+      "material": "black_stained_glass_pane"
+    },
+    "e8": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "5"
+}

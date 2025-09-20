@@ -1,0 +1,228 @@
+{
+  "internalId": "NPC_DUNGEON_HUB_SELECTOR",
+  "name": "Dungeon Hub Selector",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "red_terracotta",
+      "name": "Dungeon Hub #1",
+      "lore": "&7Players: 36/36\n&8Server: mini96E\n\n&cAlready connected!"
+    },
+    "b3": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #2",
+      "lore": "&7Players: 33/36\n&8Server: mini185M"
+    },
+    "b4": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #3",
+      "lore": "&7Players: 35/36\n&8Server: mini203K"
+    },
+    "b5": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #4",
+      "lore": "&7Players: 34/36\n&8Server: mini240N"
+    },
+    "b6": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #5",
+      "lore": "&7Players: 30/36\n&8Server: mini296T"
+    },
+    "b7": {
+      "material": "blue_terracotta",
+      "name": "Dungeon Hub #6",
+      "lore": "&7Players: 32/36\n&8Server: mini304K\n\n&7Online Friends:\n&b[MVP&c+&b] Steve"
+    },
+    "b8": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #7",
+      "lore": "&7Players: 34/36\n&8Server: mini305H"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #8",
+      "lore": "&7Players: 30/36\n&8Server: mini312N"
+    },
+    "c3": {
+      "material": "blue_terracotta",
+      "name": "Dungeon Hub #9",
+      "lore": "&7Players: 28/36\n&8Server: mini323B\n\n&7Online Guild Members:\n&a[VIP] Alex"
+    },
+    "c4": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #10",
+      "lore": "&7Players: 23/36\n&8Server: mini340G"
+    },
+    "c5": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #11",
+      "lore": "&7Players: 27/36\n&8Server: mini253B"
+    },
+    "c6": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #21",
+      "lore": "&7Players: 34/36\n&8Server: mini248C"
+    },
+    "c7": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #13",
+      "lore": "&7Players: 25/36\n&8Server: mini393F"
+    },
+    "c8": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #14",
+      "lore": "&7Players: 22/36\n&8Server: mini449D"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #15",
+      "lore": "&7Players: 24/36\n&8Server: mini574Q"
+    },
+    "d3": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #16",
+      "lore": "&7Players: 23/36\n&8Server: mini650J"
+    },
+    "d4": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #17",
+      "lore": "&7Players: 26/36\n&8Server: mini711H"
+    },
+    "d5": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #18",
+      "lore": "&7Players: 25/36\n&8Server: mini757N"
+    },
+    "d6": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #19",
+      "lore": "&7Players: 21/36\n&8Server: mini611C"
+    },
+    "d7": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #20",
+      "lore": "&7Players: 27/36\n&8Server: mini651H"
+    },
+    "d8": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #21",
+      "lore": "&7Players: 25/36\n&8Server: mini806M"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #22",
+      "lore": "&7Players: 19/36\n&8Server: mini827K"
+    },
+    "e3": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #23",
+      "lore": "&7Players: 15/36\n&8Server: mini835K"
+    },
+    "e4": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #24",
+      "lore": "&7Players: 17/36\n&8Server: mini836H"
+    },
+    "e5": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #25",
+      "lore": "&7Players: 12/36\n&8Server: mini952B"
+    },
+    "e6": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #26",
+      "lore": "&7Players: 17/36\n&8Server: mini985E"
+    },
+    "e7": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #27",
+      "lore": "&7Players: 15/36\n&8Server: mini782P"
+    },
+    "e8": {
+      "material": "block_of_quartz",
+      "name": "Dungeon Hub #28",
+      "lore": "&7Players: 16/36\n&8Server: mini332G"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "fast_travel_hub",
+      "name": "Warp to SkyBlock Hub",
+      "lore": "&7Exit dungeons and go back to the \n&7main hub."
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

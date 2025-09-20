@@ -1,0 +1,132 @@
+{
+  "internalId": "NPC_ROSETTA_IRON_ARMOR",
+  "name": "Iron Armor",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "enchanted_iron_helmet",
+      "name": "&fIron Helmet",
+      "lore": "&7Health: &a+15 HP\n&7Defense: &a+10\n\n&9Growth 1\n&7Grants &a+15&c❤ Health&7.\n\n&8This item can be reforged!\n&l&f&lCOMMON HELMET&r\n\n&7Cost\n&615 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 15
+        }
+      ]
+    },
+    "b3": {
+      "material": "enchanted_iron_chestplate",
+      "name": "&fIron Chestplate",
+      "lore": "&7Health: &a+15 HP\n&7Defense: &a+30\n\n&9Growth 1\n&7Grants &a+15&c❤ Health&7.\n\n&8This item can be reforged!\n&l&f&lCOMMON CHESTPLATE&r\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "b4": {
+      "material": "enchanted_iron_leggings",
+      "name": "&fIron Leggings",
+      "lore": "&7Health: &a+15 HP\n&7Defense: &a+25\n\n&9Growth 1\n&7Grants &a+15&c❤ Health&7.\n\n&8This item can be reforged!\n&l&f&lCOMMON LEGGINGS&r\n\n&7Cost\n&630 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "b5": {
+      "material": "enchanted_iron_boots",
+      "name": "&fIron Boots",
+      "lore": "&7Health: &a+15 HP\n&7Defense: &a+10\n\n&9Growth 1\n&7Grants &a+15&c❤ Health&7.\n\n&8This item can be reforged!\n&l&f&lCOMMON BOOTS&r\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "arrow"
+    },
+    "f5": {
+      "material": "hopper",
+      "name": "Sell Item",
+      "lore": "&7Click items in your inventory to\n&7sell them to this Shop!"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

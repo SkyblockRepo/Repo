@@ -1,0 +1,328 @@
+{
+  "internalId": "NPC_ANITA",
+  "name": "Anita",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/INFINIDIRT_WAND|lore}}\n\n&7Cost\n&aJacob's Ticket",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 1
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item/COCO_CHOPPER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket&8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/MELON_DICER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    },
+    "item12": {
+      "lore": "{{Item/PUMPKIN_DICER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    },
+    "item13": {
+      "lore": "{{Item/FUNGI_CUTTER|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    },
+    "item14": {
+      "lore": "{{Item/CACTUS_KNIFE|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    },
+    "item15": {
+      "material": "hay_bale",
+      "name": "&e+1 Farming Level Cap",
+      "lore": "&7Raise your Farming Skill level\n&7cap by one, up to &f+10&7.\n\n&7Your cap: &eFarming L\n\n&7Requirement\n&c✖ &7Win &6&l GOLD &r&7in &e1 &7collection! (&c0&7/&e1&7)\n\n&7Cost\n&6Gold medal",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        }
+      ]
+    },
+    "item16": {
+      "material": "wheat",
+      "name": "&eExtra Farming Fortune",
+      "lore": "&7Permanently gain &6+4☘ Farming\n&6Fortune &7per tier.\n\n&7Cost\n&6Gold medal",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        }
+      ]
+    },
+    "item17": {
+      "material": "paper",
+      "name": "&ePersonal Bests",
+      "lore": "&7Beating your &6Personal Best\n&7is great! But what if it also\n&7gave you &6☘ Farming Fortune&7?!\n\n&7Cost\n&6Gold medal&8 x2\n&aJacob's Ticket &8x64",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 64
+        }
+      ]
+    },
+    "item18": {
+      "lore": "{{Item/ANITA_TALISMAN|lore}}\n\n&7Cost\n&cBronze medal&8 x2\n&aJacob's Ticket &8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "bronze",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    },
+    "item19": {
+      "lore": "{{Item/ANITA_RING|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x64\n&fAnita's Talisman",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ANITA_TALISMAN",
+          "amount": 1
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/PRISMAPUMP|lore}}\n\n&7Cost\n&cBronze medal\n&aJacob's Ticket &8x2",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "bronze",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 2
+        }
+      ]
+    },
+    "item20": {
+      "lore": "{{Item/ANITA_ARTIFACT|lore}}\n\n&7Cost\n&6Gold medal&8 x2\n&aJacob's Ticket &8x100\n&aAnita's Ring",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ANITA_RING",
+          "amount": 1
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/HOE_OF_GREAT_TILLING|lore}}\n\n&7Cost\n&cBronze medal\n&aJacob's Ticket &8x5",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "bronze",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 5
+        }
+      ]
+    },
+    "item32": {
+      "material": "paper",
+      "name": "Personal Bests",
+      "lore": "&7The higher your &6Personal Bests\n&7are from participating in\n&eJacob's Farming Contest&7, the\n&7more &6☘ Farming Fortune\n&7you'll obtain for that crop!\n\n&cPurchase the perk in Anita's\n&cShop to unlock this menu!"
+    },
+    "item33": {
+      "material": "barrier",
+      "name": "Close",
+      "lore": "barrier:Close"
+    },
+    "item34": {
+      "material": "powered_rail",
+      "name": "Medal Trades",
+      "lore": "&7Convert and sell your medals.\n\n&eClick to open!"
+    },
+    "item35": {
+      "material": "gold_ingot",
+      "name": "&eUnique Brackets Reached",
+      "lore": "&c◌&f◌&6◌ &cWheat\n&c◌&f◌&6◌ &cCarrot\n&c◌&f◌&6◌ &cPotato\n&c◌&f◌&6◌ &cPumpkin\n&c◌&f◌&6◌ &cMelon Slice\n&c◌&f◌&6◌ &cMushroom\n&c◌&f◌&6◌ &cCactus\n&c◌&f◌&6◌ &cSugar Cane\n&c◌&f◌&6◌ &cNether Wart\n&c◌&f◌&6◌ &cCocoa Beans"
+    },
+    "item4": {
+      "lore": "{{Item/HOE_OF_GREATER_TILLING|lore}}\n\n&7Cost\n&fSilver medal\n&aJacob's Ticket &8x10",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 10
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/HOE_OF_GREATEST_TILLING|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x20",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 20
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/BASKET_OF_SEEDS|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x30",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 30
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/NETHER_WART_POUCH|lore}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x30",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 30
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item_enchantment_delicate_5}}\n\n&7Cost\n&fSilver medal&8 x2\n&aJacob's Ticket &8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/THEORETICAL_HOE|lore}}\n\n&7Cost\n&6Gold medal\n&aJacob's Ticket &8x32",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    }
+  }
+}

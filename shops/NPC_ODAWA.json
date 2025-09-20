@@ -1,0 +1,82 @@
+{
+  "internalId": "NPC_ODAWA",
+  "name": "Odawa",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/KALHUIKI_MASK|lore}}\n\n&7Cost\n&fOak Planks &8x20\n&aSludge Juice &8x20\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 20
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/JUNGLE_AMULET|lore}}\n\n&7Cost\n&6Jungle Heart &8x4\n&aSludge Juice &8x500\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "JUNGLE_HEART",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 500
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/TRIBAL_SPEAR|lore}}\n\n&7Cost\n&6Jungle Heart\n&aSludge Juice &8x100\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "JUNGLE_HEART",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 100
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/JUNGLE_PICKAXE|lore}}\n\n&7Cost\n&aSludge Juice &8x200\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 200
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/JUNGLE_KEY|lore}}\n\n&7Cost\n&aSludge Juice &8x100\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 100
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/ROUGH_AMETHYST_GEM|lore}}\n\n&7Cost\n&aSludge Juice\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "internalId": "NPC_GOLD_FORGER",
+  "name": "Gold Forger",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/GOLD_INGOT|lore}}\n\n&7Cost\n&6110 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 110
+        }
+      ]
+    },
+    "item2": {
+      "material": "enchanted_golden_helmet",
+      "name": "Golden Helmet",
+      "lore": "&7Health: &a+15\n&7Defense: &a+14\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&f&l COMMON HELMET&r\n\n&7Cost\n&620 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item3": {
+      "material": "enchanted_golden_chestplate",
+      "name": "Golden Chestplate",
+      "lore": "&7Health: &a+15\n&7Defense: &a+29\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&f&l COMMON CHESTPLATE&r\n\n&7Cost\n&632 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item4": {
+      "material": "enchanted_golden_leggings",
+      "name": "Golden Leggings",
+      "lore": "&7Health: &a+15\n&7Defense: &a+19\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&f&l COMMON LEGGINGS&r\n\n&7Cost\n&628 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 28
+        }
+      ]
+    },
+    "item5": {
+      "material": "enchanted_golden_boots",
+      "name": "Golden Boots",
+      "lore": "&7Health: &a+15\n&7Defense: &a+9\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&f&l COMMON BOOTS&r\n\n&7Cost\n&618 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 18
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/FANCY_SWORD|lore}}\n\n&7Cost\n&680 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/GOLD_AXE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/GOLD_PICKAXE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/GOLD_SPADE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    }
+  }
+}

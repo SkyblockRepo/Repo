@@ -1,0 +1,176 @@
+{
+  "internalId": "NPC_MALIK_ESSENCE_CRAFTING",
+  "name": "Essence Crafting",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "red_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "red_stained_glass_pane"
+    },
+    "b1": {
+      "material": "red_stained_glass_pane"
+    },
+    "b2": {
+      "material": "black_stained_glass_pane"
+    },
+    "b3": {
+      "material": "black_stained_glass_pane"
+    },
+    "b4": {
+      "material": "black_stained_glass_pane"
+    },
+    "b5": {
+      "lore": "{{{B5|}}}"
+    },
+    "b6": {
+      "material": "black_stained_glass_pane"
+    },
+    "b7": {
+      "material": "black_stained_glass_pane"
+    },
+    "b8": {
+      "material": "black_stained_glass_pane"
+    },
+    "b9": {
+      "material": "red_stained_glass_pane"
+    },
+    "c1": {
+      "material": "red_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "anvil",
+      "name": "Upgrade Item",
+      "lore": "&7Upgrades items using \n&dEssence&7. Place a weapon or \n&7armor piece above to upgrade it \n&7to a &bDungeon item&7, improving \n&7its stats while in Dungeons. You \n&7can also upgrade an existing \n&7Dungeon item's stats!\n\n&7View the &dEssence Guide&7 below\n &7for a list of upgradeable items\n&7 and &dEssences&7!"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "red_stained_glass_pane"
+    },
+    "d1": {
+      "material": "red_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "barrier",
+      "name": "Upgrade Item",
+      "lore": " &7Upgrades items using \n&dEssence&7. Place a weapon or \n&7armor piece above to upgrade it \n&7to a &bDungeon item &7, improving \n&7its stats while in Dungeons. You \n&7can also upgrade an existing \n&7Dungeon item's stats!\n\n&7View the &dEssence Guide&7 below\n &7for a list of upgradeable items\n&7 and &dEssences&7!"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "red_stained_glass_pane"
+    },
+    "e1": {
+      "material": "red_stained_glass_pane"
+    },
+    "e2": {
+      "material": "black_stained_glass_pane"
+    },
+    "e3": {
+      "material": "black_stained_glass_pane"
+    },
+    "e4": {
+      "material": "black_stained_glass_pane"
+    },
+    "e5": {
+      "material": "black_stained_glass_pane"
+    },
+    "e6": {
+      "material": "black_stained_glass_pane"
+    },
+    "e7": {
+      "material": "black_stained_glass_pane"
+    },
+    "e8": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "red_stained_glass_pane"
+    },
+    "f1": {
+      "material": "red_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "lore": "{{{F4|mc,uncommon,arrow:Go Back,1, &7To Dungeon Blacksmith}}}"
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "lore": "{{{F6|mc,uncommon,redstone_torch:Essence Guide,1, &7Many items can be converted into \n&bDungeon items&7, which have \n&7stat boosts based on your \n&aDungeoneering Skill &7level \n&7while you are in Dungeons.\n\n&7You can also upgrade Dungeon \n&7items themselves using \n&dEssence&7. Each time you \n&7upgrade a Dungeon item, it gains \n&7an additional &a+10% &7stat \n&7boost while you are in Dungeons.\n\n&7This guide shows the different \n&7Essences you can obtain and \n&7which items can be upgraded \n&7using each one.}}}"
+    },
+    "f7": {
+      "material": "your_essence",
+      "name": "Your Essence",
+      "lore": " &7Collect Essence in Dungeons \n&7which can be used to upgrade \n&7gear and purchase perks and \n&7upgrades!\n\n&eClick to view!"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "red_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

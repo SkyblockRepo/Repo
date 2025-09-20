@@ -1,0 +1,55 @@
+{
+  "internalId": "NPC_ORINGO",
+  "name": "Oringo - Traveling Zookeeper",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "monkey",
+      "name": "monkey pet",
+      "lore": "&7[Lvl 100] &fMonkey\n&8Foraging Pet\n\n&7Speed: &a+20\n&7Intelligence: &a+50\n\n&6Treeborn\n&7&7Grants &a+40 &6☘ Foraging\n&6Fortune&7, which increases your\n&7chance at double logs.\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&610,000 Coins\n&fAcacia Wood &8x64",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "LOG_2",
+          "amount": 64
+        }
+      ]
+    },
+    "item2": {
+      "material": "elephant",
+      "name": "elephant pet",
+      "lore": "&7[Lvl 100] &5Elephant\n&8Farming Pet\n\n&7Intelligence: &a+75\n&7Health: &a+100\n\n&6Stomp\n&7&7Gain &a20❈ Defense &7for every\n&7100 &f✦ Speed.\n\n&6Walking Fortress\n&7&7Gain &c1❤ Health &7for every\n&710 &a❈ Defense.\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&61,000,000 Coins\n&aEnchanted Dark Oak Wood &8x128",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_DARK_OAK_LOG",
+          "amount": 128
+        }
+      ]
+    },
+    "item3": {
+      "material": "blue_whale",
+      "name": "blue whale pet",
+      "lore": "&7[Lvl 100] &6Blue Whale\n&8Fishing Pet\n\n&7Health: &a+200\n\n&6Ingest\n&7&7All potions heal &c+250❤.\n\n&6Bulk\n&7&7Gain &a1&a❈ Defense &7per\n&7&c20.0 Max &c❤ Health.\n\n&6Archimedes\n&7&7Gain &c+20% Max &c❤ Health.\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&610,000,000 Coins\n&9Enchanted Cooked Cod &8x8",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COOKED_FISH",
+          "amount": 8
+        }
+      ]
+    }
+  }
+}

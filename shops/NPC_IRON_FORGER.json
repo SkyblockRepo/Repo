@@ -1,0 +1,71 @@
+{
+  "internalId": "NPC_IRON_FORGER",
+  "name": "Iron Forger",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/IRON_INGOT|lore}}\n\n&7Cost\n&6100 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "item2": {
+      "material": "enchanted_chainmail_helmet",
+      "name": "Chainmail Helmet",
+      "lore": "&7Health: &a+15\n&7Defense: &a+16\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&a&l UNCOMMON HELMET&r\n\n&7Cost\n&650 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "item3": {
+      "material": "enchanted_chainmail_chestplate",
+      "name": "Chainmail Chestplate",
+      "lore": "&7Health: &a+15\n&7Defense: &a+34\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&a&l UNCOMMON CHESTPLATE&r\n\n&7Cost\n&6100 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "item4": {
+      "material": "enchanted_chainmail_leggings",
+      "name": "Chainmail Leggings",
+      "lore": "&7Health: &a+15\n&7Defense: &a+24\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&a&l UNCOMMON LEGGINGS&r\n\n&7Cost\n&675 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 75
+        }
+      ]
+    },
+    "item5": {
+      "material": "enchanted_chainmail_boots",
+      "name": "Chainmail Boots",
+      "lore": "&7Health: &a+15\n&7Defense: &a+11\n\n&9Growth I\n&7Grants &a+15 &c❤ Health&7.\n&9Protection I\n&7Grants &a+4 ❈ Defense&7.\n\n&8This item can be reforged!\n&a&l UNCOMMON BOOTS&r\n\n&7Cost\n&650 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "item6": {
+      "material": "enchanted_iron_pickaxe",
+      "name": "Iron Pickaxe",
+      "lore": "&8Breaking Power 3\n\n&7Damage: &c+25\n&7Mining Speed: &a+160\n\n&9Smelting Touch I\n&7Automatically smelts broken blocks\n&7into their smelted form.\n\n&8This item can be reforged!\n&f&l COMMON PICKAXE&r\n\n&7Cost\n&660 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 60
+        }
+      ]
+    }
+  }
+}

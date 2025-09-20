@@ -1,0 +1,18 @@
+{
+  "internalId": "NPC_MALMAR",
+  "name": "Malmar",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "enchanted_pumpkin_pie",
+      "name": "Mining Pumpkin",
+      "lore": "&7A tasty Dwarven snack!\n\n&7Gain &bSpelunker V &7and &a+5% &7more\n&2Mithril Powder &7while mining for &a60m&7.\n\n&9&l RARE&r\n\n&7Cost\n&6100,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ]
+    }
+  }
+}

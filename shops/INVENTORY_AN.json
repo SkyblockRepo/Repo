@@ -1,0 +1,61 @@
+{
+  "internalId": "INVENTORY_AN",
+  "name": "An",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/SAND:1|lore}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/BLAZE_ROD|lore}}\n\n&7Cost\n&650 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/MAGMA_CREAM|lore}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/QUARTZ|lore}}\n\n&7Cost\n&650 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/NETHER_STALK|lore}}\n\n&7Cost\n&610 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/GHAST_TEAR|lore}}\n\n&7Cost\n&6200 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200
+        }
+      ]
+    }
+  }
+}

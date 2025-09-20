@@ -1,0 +1,121 @@
+{
+  "internalId": "NPC_HILDA",
+  "name": "Hilda",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_ghast_generator_12}}\n\n&7Cost\n&9Ghast Minion XI\n&aSilver Fang &8x1024\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GHAST_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SILVER_FANG",
+          "amount": 1024
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_quartz_generator_12}}\n\n&7Cost\n&9Quartz Minion XI\n&9Enchanted Quartz Block &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "QUARTZ_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_QUARTZ_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item_glowstone_generator_12}}\n\n&7Cost\n&9Glowstone Minion XI\n&aEnchanted Glowstone &8x32\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GLOWSTONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item_blaze_generator_12}}\n\n&7Cost\n&9Blaze Minion XI\n&aEnchanted Blaze Rod &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BLAZE_ROD",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item_magma_cube_generator_12}}\n\n&7Cost\n&9Magma Cube Minion XI\n&aEnchanted Magma Cream &8x1024\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MAGMA_CUBE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MAGMA_CREAM",
+          "amount": 1024
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_mycelium_generator_12}}\n\n&7Cost\n&9Mycelium Minion XI\n&9Enchanted Mycelium Cube &8x32\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MYCELIUM_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    }
+  }
+}

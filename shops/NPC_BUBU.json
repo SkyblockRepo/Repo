@@ -1,0 +1,124 @@
+{
+  "internalId": "NPC_BUBU",
+  "name": "Bubu",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/FRACTURED_MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&610,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/BANDAGED_MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&aFractured Mithril Pickaxe\n&9Enchanted Mithril &8x2\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FRACTURED_MITHRIL_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MITHRIL",
+          "amount": 2
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&aBandaged Mithril Pickaxe\n&9Enchanted Mithril &8x64\n&9Bejeweled Handle\n&aEnchanted Gold &8x32\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "BANDAGED_MITHRIL_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MITHRIL",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEJEWELED_HANDLE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 32
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/REFINED_MITHRIL_PICKAXE|lore}}\n\n&7Cost\n&aMithril Pickaxe\n&5Refined Mithril &8x2\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MITHRIL_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REFINED_MITHRIL",
+          "amount": 2
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/RUSTY_TITANIUM_PICKAXE|lore}}\n\n&7Cost\n&650,000 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/TITANIUM_PICKAXE|lore}}\n\n&7Cost\n&aRusty Titanium Pickaxe\n&5Enchanted Titanium &8x4\n&9Bejeweled Handle\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "RUSTY_TITANIUM_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_TITANIUM",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEJEWELED_HANDLE",
+          "amount": 1
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/REFINED_TITANIUM_PICKAXE|lore}}\n\n&7Cost\n&9Titanium Pickaxe\n&6Refined Titanium\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "TITANIUM_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REFINED_TITANIUM",
+          "amount": 1
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/BIOFUEL|lore}}\n\n&7Cost\n&620,000 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20000
+        }
+      ]
+    }
+  }
+}

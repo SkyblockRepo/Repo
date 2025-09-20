@@ -1,0 +1,20 @@
+{
+  "internalId": "INVENTORY_SORCERER_OKRON",
+  "name": "Sorcerer Okron",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/WAND_OF_WARDING|lore}}\n\n&7Cost\n&d1,000 Motes"
+    },
+    "item2": {
+      "lore": "{{Item/WARDING_TRINKET|lore}}\n\n&7Cost\n&d1,000 Motes\n&aShadow Crux &8x8",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SHADOW_CRUX",
+          "amount": 8
+        }
+      ]
+    }
+  }
+}

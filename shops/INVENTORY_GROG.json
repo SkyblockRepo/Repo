@@ -1,0 +1,48 @@
+{
+  "internalId": "INVENTORY_GROG",
+  "name": "Grog",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/HOT_CHOCOLATE|lore}}\n\n&7Cost\n&670,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 70000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/BLACK_COFFEE|lore}}\n\n&7Cost\n&650,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/RED_THORNLEAF_TEA|lore}}\n\n&7Cost\n&aRed Thornleaf &8x50\n&620,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "RED_THORNLEAF",
+          "amount": 50
+        },
+        {
+          "type": "COINS",
+          "amount": 20000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/SCORNCLAW_BREW|lore}}\n\n&7Cost\n&62,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        }
+      ]
+    }
+  }
+}

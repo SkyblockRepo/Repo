@@ -1,0 +1,91 @@
+{
+  "internalId": "NPC_BEA",
+  "name": "Bea",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "bee",
+      "name": "Bee Pet",
+      "lore": "&8Farming Pet\n\n&7Speed: &a+10\n&7Strength: &a+30\n&7Intelligence: &a+50\n\n&6Hive\n&7Gain &b+3✎ Intelligence &7and\n&c+3❁ Strength &7for each nearby\n&7bee.\n&8Max 15 bees\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&64.999 Coins\n&fBlock of Coal &8x2\n&fBlock of Gold &8x2",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4999
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COAL_BLOCK",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_BLOCK",
+          "amount": 2
+        }
+      ]
+    },
+    "item2": {
+      "material": "bee",
+      "name": "Bee Pet",
+      "lore": "&8Farming Pet\n\n&7Speed: &a+10\n&7Strength: &a+30\n&7Intelligence: &a+50\n\n&6Hive\n&7Gain &b+10✎ Intelligence &7and\n&c+8❁ Strength &7for each nearby\n&7bee.\n&8Max 15 bees\n\n&6Busy Buzz Buzz\n&7Has &a50% &7chance for flowers\n&7to drop an extra one\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&650.000 Coins\n&fBlock of Coal &8x128\n&fBlock of Gold &8x128",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COAL_BLOCK",
+          "amount": 128
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_BLOCK",
+          "amount": 128
+        }
+      ]
+    },
+    "item3": {
+      "material": "bee",
+      "name": "Bee Pet",
+      "lore": "&8Farming Pet\n\n&7Speed: &a+10\n&7Strength: &a+30\n&7Intelligence: &a+50\n\n&6Hive\n&7Gain &b+15✎ Intelligence &7and\n&c+12❁ Strength &7for each nearby\n&7bee.\n&8Max 15 bees\n\n&6Busy Buzz Buzz\n&7Has &a100% &7chance for flowers\n&7to drop an extra one\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&6200.000 Coins\n&9Enchanted Block of Coal\n&9Enchanted Gold Block",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COAL_BLOCK",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 1
+        }
+      ]
+    },
+    "item4": {
+      "material": "bee",
+      "name": "Bee Pet",
+      "lore": "&8Farming Pet\n\n&7Speed: &a+10\n&7Strength: &a+30\n&7Intelligence: &a+50\n\n&6Hive\n&7Gain &b+20✎ Intelligence &7and\n&c+15❁ Strength &7for each nearby\n&7bee.\n&8Max 15 bees\n\n&6Busy Buzz Buzz\n&7Has &a100% &7chance for flowers\n&7to drop an extra one\n\n&6Weaponized Honey\n&7Gain &a25% &7of received\n&7damage as &6❤ Absorption\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&6650.000 Coins\n&9Enchanted Block of Coal &8x8\n&9Enchanted Gold Block &8x8",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 650000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COAL_BLOCK",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "internalId": "INVENTORY_LIZ'S_STOCK_REDEMPTION",
+  "name": "Liz's Stock Redemption",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/GOLDEN_BOUNTY|lore}}\n\n&7Cost\n&5Stock of Stonks &8x20\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS",
+          "amount": 20
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/AVARICIOUS_CHALICE|lore}}\n\n&7Cost\n&5Stock of Stonks &8x50\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS",
+          "amount": 50
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/GOLDEN_FRAGMENT|lore}}\n\n&7Cost\n&5Stock of Stonks &8x3\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS",
+          "amount": 3
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/FRESHLY_MINTED_COINS|lore}}\n\n&7Cost\n&5Stock of Stonks\n\n&cThis item has a SkyBlock-wide limit of\n&c5,000 units every 4h.\n\n&7Stock: &a5,000\n&7Resets in: &a4h 00m\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS",
+          "amount": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "internalId": "NPC_WINDMILL_OPERATOR",
+  "name": "Windmill Operator",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "wheat",
+      "name": "&fWheat &8x3",
+      "lore": "&f&l COMMON&r\n\n&7Cost\n&630 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item10": {
+      "material": "sand",
+      "name": "&fSand &8x2",
+      "lore": "&f&l COMMON&r\n\n&7Cost\n&68 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/CACTUS|lore}}\n\n&7Cost\n&615 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 15
+        }
+      ]
+    },
+    "item12": {
+      "material": "enchanted_bone_meal",
+      "name": "&fEnchanted Bone Meal &8x3",
+      "lore": "&7Instantly grows crops and saplings.\n\n&f&l COMMON&r\n\n&7Cost\n&66 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 6
+        }
+      ]
+    },
+    "item13": {
+      "lore": "{{Item/ROOKIE_HOE|lore}}\n\n&7Cost\n&610 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item2": {
+      "material": "carrot",
+      "name": "&fCarrot &8x3",
+      "lore": "&f&l COMMON&r\n\n&7Cost\n&630 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item3": {
+      "material": "potato",
+      "name": "&fPotato &8x3",
+      "lore": "&f&l COMMON&r\n\n&7Cost\n&630 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item4": {
+      "material": "melon_slice",
+      "name": "&fMelon &8x10",
+      "lore": "&f&l COMMON&r\n\n&7Cost\n&640 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 40
+        }
+      ]
+    },
+    "item5": {
+      "material": "sugar_cane",
+      "name": "&fSugar Cane &8x3",
+      "lore": "&f&l COMMON&r\n\n&7Cost\n&630 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/PUMPKIN|lore}}\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/INK_SACK:3|lore}}\n\n&7Cost\n&65 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/RED_MUSHROOM|lore}}\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/BROWN_MUSHROOM|lore}}\n\n&7Cost\n&625 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "internalId": "NPC_MOBY",
+  "name": "Moby",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/EMPTY_CHUM_BUCKET|lore}}\n\n&7Cost\n&62,000 Coins\n&aGlowing Mushroom &8x8",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 8
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/GLOWY_CHUM_BAIT|lore}}\n\n&7Cost\n&aFull Chum Bucket\n&aGlowing Mushroom &8x4",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 4
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/LUMINOUS_BRACELET|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x2\n&aGlowing Mushroom &8x10",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 10
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/CHUM_SINKER|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x4\n&aGlowing Mushroom &8x15",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 15
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/MOBYS_SHEARS|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x5\n&aGlowing Mushroom &8x15",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 15
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_mushed_glowy_tonic_i_potion}}\n\n&7Cost\n&aFull Chum Bucket &8x8\n&aGlowing Mushroom &8x10",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 10
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/MUSHED_MUSHROOM_MIXIN|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x64\n&aGlowing Mushroom &8x80",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 80
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/CHUMMING_TALISMAN|lore}}\n\n&7Cost\n&aFull Chum Bucket &8x32",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 32
+        }
+      ]
+    }
+  }
+}

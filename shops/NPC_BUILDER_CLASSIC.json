@@ -1,0 +1,232 @@
+{
+  "internalId": "NPC_BUILDER_CLASSIC",
+  "name": "Builder",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_dirt}}\n\n&7Cost\n&616 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 16
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item_nether_brick}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item_sandstone}}\n\n&7Cost\n&648 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 48
+        }
+      ]
+    },
+    "item12": {
+      "lore": "{{Item_red_sandstone}}\n\n&7Cost\n&648 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 48
+        }
+      ]
+    },
+    "item13": {
+      "lore": "{{Item_ice}}\n\n&7Cost\n&68 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8
+        }
+      ]
+    },
+    "item14": {
+      "lore": "{{Item_packed_ice}}\n\n&7Cost\n&672 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 72
+        }
+      ]
+    },
+    "item15": {
+      "lore": "{{Item_white_wool}}\n\n&7Cost\n&648 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 48
+        }
+      ]
+    },
+    "item16": {
+      "lore": "{{Item_hard_clay}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item17": {
+      "lore": "{{Item_brick}}\n\n&7Cost\n&648 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 48
+        }
+      ]
+    },
+    "item18": {
+      "lore": "{{Item_glass}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item19": {
+      "lore": "{{Item_quartz_block}}\n\n&7Cost\n&6256 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 256
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_stone}}\n\n&7Cost\n&616 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 16
+        }
+      ]
+    },
+    "item20": {
+      "lore": "{{Item_prismarine}}\n\n&7Cost\n&680 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80
+        }
+      ]
+    },
+    "item21": {
+      "lore": "{{Item_prismarine_bricks}}\n\n&7Cost\n&680 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80
+        }
+      ]
+    },
+    "item22": {
+      "lore": "{{Item_dark_prismarine}}\n\n&7Cost\n&680 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80
+        }
+      ]
+    },
+    "item23": {
+      "lore": "{{Item_sea_lantern}}\n\n&7Cost\n&6480 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 480
+        }
+      ]
+    },
+    "item24": {
+      "lore": "{{Item_water_bucket}}\n\n&7Cost\n&612 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "item25": {
+      "lore": "{{Item_lava_bucket}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item_smooth_brick}}\n\n&7Cost\n&616 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 16
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item_granite}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item_diorite}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_andesite}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item_mossy_cobblestone}}\n\n&7Cost\n&696 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 96
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item_mossy_stone_bricks}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item_cracked_stone_bricks}}\n\n&7Cost\n&632 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ]
+    }
+  }
+}

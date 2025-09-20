@@ -1,0 +1,140 @@
+{
+  "internalId": "NPC_MADDOX",
+  "name": "Slayer",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "rotten_flesh",
+      "name": "&c☠ &eRevenant Horror",
+      "lore": "&7Abhorrent Zombie stuck\n&7between life and death for\n&7an eternity.\n\n&eClick to view boss!"
+    },
+    "b3": {
+      "material": "cobweb",
+      "name": "☠ Tarantula Broodfather",
+      "lore": "&7Monstrous Spider who poisons\n&7and devours its victims.\n\n&cSlay Revenant Horror II!"
+    },
+    "b4": {
+      "material": "raw_mutton",
+      "name": "☠ Sven Packmaster",
+      "lore": "&7Rabid Wolf genetically\n&7modified by a famous mad\n&7scientist. Eats bones and\n&7flesh.\n\n&cSlay Tarantula Broodfather II!"
+    },
+    "b5": {
+      "material": "ender_pearl",
+      "name": "☠ Voidgloom Seraph",
+      "lore": "&7If Necron is the right-hand\n&7of the Wither King, this\n&7dark demigod is the\n&7left-hand.\n\n&cSlay Sven Packmaster IV!"
+    },
+    "b6": {
+      "material": "redstone",
+      "name": "☠ Riftstalker Bloodfiend",
+      "lore": "&7A half-vampire, half-thrall,\n&7immortal golem creation\n&7representing the multiverse\n&7coven in combat.\n\n&cOnly inside The Rift!"
+    },
+    "b7": {
+      "material": "blaze_powder",
+      "name": "☠ Inferno Demonlord",
+      "lore": "&7Even demons fear this\n&7incarnation of pure evil,\n&7constantly feeding on its\n&7burning desire for\n&7destruction.\n\n&cSlay Voidgloom Seraph III!"
+    },
+    "b8": {
+      "material": "block_of_coal",
+      "name": "Not released yet!",
+      "lore": "&7This boss is still in\n&7development!"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "gray_dye",
+      "name": "Auto-Slayer",
+      "lore": "&7Upon defeating a boss,\n&7&aautomatically &7completes the\n&7quest and starts another of the\n&7same type if you have enough\n&7&6coins &7in your purse or bank."
+    },
+    "d3": {
+      "material": "bottle_o_enchanting",
+      "name": "Slayer Leaderboards",
+      "lore": "&8Ultimate bragging rights\n\n&7Revenant Horror: &8N/A\n&7Tarantula Broodfather: &8N/A\n&7Sven Packmaster: &8N/A\n&7Voidgloom Seraph: &8N/A\n&7Riftstalker Bloodfiend: &8N/A\n&7Inferno Demonlord: &8N/A"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "barrier"
+    },
+    "d6": {
+      "material": "wheat",
+      "name": "&aGlobal Combat Wisdom &7Buff",
+      "lore": "&8Slayer Bonus\n\n&7Total buff: &3+0☯ Combat Wisdom\n\n&7Earn extra Combat XP based on\n&7your unique slayer boss kills.\n\n&8Highest slain tiers\n&7Revenant Horror: &8No kills\n&7Tarantula Broodfather: &8No kills\n&7Sven Packmaster: &8No kills\n&7Voidgloom Seraph: &8No kills\n&7Riftstalker Bloodfiend: &8No kills\n&7Inferno Demonlord: &8No kills\n\n&7Tier I, II, III grant &3+1☯ Combat Wisdom&7.\n&7Tier IV grants &3+2☯ Combat Wisdom&7."
+    },
+    "d7": {
+      "material": "powered_rail",
+      "name": "Slayer Bonus Rewards",
+      "lore": "&7&7Unlock bonuses by reaching a\n&7LVL on the first 3 bosses.\n\n&c✖ LVL 6\n&7Earn &a+3 &7of any boss's main\n&7token drop when slaying its\n&7mini-bosses.\n\n&c✖ LVL 7\n&7Slayers are &64% cheaper&7."
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "painting",
+      "name": "RNG Meter",
+      "lore": "\n&7Your &dRNG Meter &7fills with\n&dSlayer XP &7every time you\n&7 defeat a &aTier III&7 or higher!\n\n&7When your meter is full, your\n&7selected drop will be guaranteed\n&7to drop the next time you defeat\n&7the boss!"
+    }
+  },
+  "rows": "4"
+}

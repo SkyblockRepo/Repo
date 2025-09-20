@@ -1,0 +1,192 @@
+{
+  "internalId": "NPC_TAMMY",
+  "name": "Animal Abilities",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "black_stained_glass_pane"
+    },
+    "b3": {
+      "material": "trapper_trackable",
+      "name": "Trackable Animals",
+      "lore": "\n&eNothing:\n&7These animals don't really do\n&7much to defend themselves!"
+    },
+    "b4": {
+      "material": "trapper_untrappable",
+      "name": "Untrackable Animals",
+      "lore": "\n&eMobility:\n&7These animals run slowly away\n&7from you when you approach them!"
+    },
+    "b5": {
+      "material": "trapper_undetected",
+      "name": "Undetected Animals",
+      "lore": "\n&eQuickness:\n&7These animals run quickly away\n&7from you when you approach them!"
+    },
+    "b6": {
+      "material": "trapper_endangered",
+      "name": "Endangered Animals",
+      "lore": "\n&eBlind:\n&7Blinds you when you get close.\n\n&eQuickness:\n&7These animals run very quickly\n&7away from you when you approach\n&7them!"
+    },
+    "b7": {
+      "material": "trapper_elusive",
+      "name": "Elusive Animals",
+      "lore": "\n&eBlind:\n&7Blinds you when you get close\n\n&eQuickness:\n&7These animals sprint away from\n&7you when you approach them.\n\n&eAwareness:\n&7Disappears if it sees you."
+    },
+    "b8": {
+      "material": "black_stained_glass_pane"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "trapper_cow",
+      "name": "&7Cow",
+      "lore": "\n&eCowmouflage:\n&7Goes invisible when the hunter\n&7is near."
+    },
+    "d3": {
+      "material": "trapper_pig",
+      "name": "&7Pig",
+      "lore": "\n&ePig Stench:\n&7Emmits a stench that makes the\n&7hunter nauseous."
+    },
+    "d4": {
+      "material": "trapper_sheep",
+      "name": "&7Sheep",
+      "lore": "\n&eRamming:\n&7Sends the player flying when\n&7they get near."
+    },
+    "d5": {
+      "material": "black_stained_glass_pane"
+    },
+    "d6": {
+      "material": "trapper_rabbit",
+      "name": "&7Rabbit",
+      "lore": "\n&eBouncy:\n&7Jumps extra high."
+    },
+    "d7": {
+      "material": "trapper_chicken",
+      "name": "&7Chicken",
+      "lore": "\n&eNothing:\n&7Just flails around."
+    },
+    "d8": {
+      "material": "trapper_horse",
+      "name": "&7Horse",
+      "lore": "\n&eSecretive\n&7Only shows up sometimes."
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "black_stained_glass_pane"
+    },
+    "e3": {
+      "material": "black_stained_glass_pane"
+    },
+    "e4": {
+      "material": "black_stained_glass_pane"
+    },
+    "e5": {
+      "material": "black_stained_glass_pane"
+    },
+    "e6": {
+      "material": "black_stained_glass_pane"
+    },
+    "e7": {
+      "material": "black_stained_glass_pane"
+    },
+    "e8": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

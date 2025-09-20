@@ -1,0 +1,380 @@
+{
+  "internalId": "NPC_TERRY'S_SHOP",
+  "name": "Tony's Shop",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "lore": "{{Item_cocoa_generator_12}}\n\n&7Cost\n&9Cocoa Beans Minion XI\n&9Enchanted Cookie &8x16\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "COCOA_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COOKIE",
+          "amount": 16
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "b3": {
+      "lore": "{{Item_pumpkin_generator_12}}\n\n&7Cost\n&9Pumpkin Minion XI\n&aEnchanted Pumpkin &8x1024\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "PUMPKIN_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_PUMPKIN",
+          "amount": 1024
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "b4": {
+      "lore": "{{Item_chicken_generator_12}}\n\n&7Cost\n&9Chicken Minion XI\n&aEnchanted Raw Chicken &8x1024\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "CHICKEN_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RAW_CHICKEN",
+          "amount": 1024
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "b5": {
+      "lore": "{{Item_mushroom_generator_12}}\n\n&7Cost\n&9Mushroom Minion XI\n&aEnchanted Brown Mushroom &8x512\n&aEnchanted Red Mushroom &8x512\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BROWN_MUSHROOM",
+          "amount": 512
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_MUSHROOM",
+          "amount": 512
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "b6": {
+      "lore": "{{Item_cactus_generator_12}}\n\n&7Cost\n&9Cactus Minion XI\n&9Enchanted Cactus &8x32\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "CACTUS_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_CACTUS",
+          "amount": 32
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "b7": {
+      "lore": "{{Item_pig_generator_12}}\n\n&7Cost\n&9Pig Minion XI\n&9Enchanted Grilled Pork &8x16\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "PIG_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GRILLED_PORK",
+          "amount": 16
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "b8": {
+      "lore": "{{Item_wheat_generator_12}}\n\n&7Cost\n&9Wheat Minion XI\n&aEnchanted Hay Bale &8x64\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "WHEAT_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_HAY_BLOCK",
+          "amount": 64
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "lore": "{{Item_cow_generator_12}}\n\n&7Cost\n&9Cow Minion XI\n&aEnchanted Leather &8x512\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "COW_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_LEATHER",
+          "amount": 512
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "c3": {
+      "lore": "{{Item_sugar_cane_generator_12}}\n\n&7Cost\n&9Sugar Cane Minion XI\n&9Enchanted Sugar Cane &8x32\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SUGAR_CANE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SUGAR_CANE",
+          "amount": 32
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "c4": {
+      "lore": "{{Item_melon_generator_12}}\n\n&7Cost\n&9Melon Minion XI\n&9Enchanted Melon Block &8x32\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MELON_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MELON_BLOCK",
+          "amount": 32
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "c5": {
+      "lore": "{{Item_nether_warts_generator_12}}\n\n&7Cost\n&9Nether Wart Minion XI\n&aEnchanted Nether Wart &8x1024\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_WARTS_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_NETHER_STALK",
+          "amount": 1024
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "c6": {
+      "lore": "{{Item_carrot_generator_12}}\n\n&7Cost\n&9Carrot Minion XI\n&aEnchanted Golden Carrot &8x32\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "CARROT_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLDEN_CARROT",
+          "amount": 32
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "c7": {
+      "lore": "{{Item_potato_generator_12}}\n\n&7Cost\n&9Potato Minion XI\n&aEnchanted Baked Potato &8x32\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "POTATO_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BAKED_POTATO",
+          "amount": 32
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "c8": {
+      "lore": "{{Item_sheep_generator_12}}\n\n&7Cost\n&9Sheep Minion XI\n&9Enchanted Cooked Mutton &8x16\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SHEEP_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COOKED_MUTTON",
+          "amount": 16
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "lore": "{{Item_rabbit_generator_12}}\n\n&7Cost\n&9Rabbit Minion XI\n&9Enchanted Rabbit Hide &8x1024\n&575 Pelts",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "RABBIT_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RABBIT_HIDE",
+          "amount": 1024
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "hopper",
+      "name": "Sell Item",
+      "lore": "&7Click items in your inventory to\n&7sell them to this Shop!"
+    },
+    "f6": {
+      "material": "rabbit_hide",
+      "name": "pelts",
+      "lore": "&dPelts: &50\n&7Pelts are earned from &ehunting\n&7special animals on this\n&7island. Talk to &aTrevor &7to\n&7receive &dtasks &7to find and\n&7kill these animals."
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

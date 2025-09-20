@@ -1,0 +1,79 @@
+{
+  "internalId": "NPC_WEAPONSMITH_MERCHANT",
+  "name": "Weaponsmith",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/UNDEAD_SWORD|lore}}\n\n&7Cost\n&6100 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/END_SWORD|lore}}\n\n&7Cost\n&6150 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/SPIDER_SWORD|lore}}\n\n&7Cost\n&6100 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/DIAMOND_SWORD|lore}}\n\n&7Cost\n&660 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 60
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/BOW|lore}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/ARROW|lore}}\n\n&7Cost\n&640 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 40
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/WITHER_BOW|lore}}\n\n&7Cost\n&6250 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 250
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/ARTISANAL_SHORTBOW|lore}}\n\n&7Cost\n&6600 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 600
+        }
+      ]
+    }
+  }
+}

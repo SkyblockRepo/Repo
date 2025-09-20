@@ -1,0 +1,234 @@
+{
+  "internalId": "NPC_BAZAAR_MINING",
+  "name": "Bazaar ➜ Mining",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "golden_hoe",
+      "name": "&r&eFarming",
+      "lore": "&8Category"
+    },
+    "a2": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "a3": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "a4": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "a5": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "a6": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "a7": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "a8": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "a9": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "b1": {
+      "material": "enchanted_diamond_pickaxe",
+      "name": "&r&bMining",
+      "lore": "&8Category\n\n&aCurrently viewing!"
+    },
+    "b2": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "b3": {
+      "material": "cobblestone",
+      "name": "&r&bCobblestone",
+      "lore": "&82 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "b4": {
+      "material": "coal",
+      "name": "&r&bCoal",
+      "lore": "&84 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "b5": {
+      "material": "iron_ingot",
+      "name": "&r&bIron",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "b6": {
+      "material": "gold_ingot",
+      "name": "&r&bGold",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "b7": {
+      "material": "diamond",
+      "name": "&r&bDiamond",
+      "lore": "&84 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "b8": {
+      "material": "lapis_lazuli",
+      "name": "&r&bLapis",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "b9": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "c1": {
+      "material": "iron_sword",
+      "name": "&r&cCombat",
+      "lore": "&8Category"
+    },
+    "c2": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "c3": {
+      "material": "emerald",
+      "name": "&r&bEmerald",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "c4": {
+      "material": "redstone",
+      "name": "&r&bRedstone",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "c5": {
+      "material": "obsidian",
+      "name": "&r&bObsidian",
+      "lore": "&82 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "c6": {
+      "material": "end_stone",
+      "name": "&r&bEnd Stone",
+      "lore": "&82 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "c7": {
+      "material": "gravel",
+      "name": "&r&bFlint And Gravel",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "c8": {
+      "material": "sand",
+      "name": "&r&bSand",
+      "lore": "&82 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "c9": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "d1": {
+      "material": "fishing_rod",
+      "name": "&r&6Woods <nowiki>&</nowiki> Fishes",
+      "lore": "&8Category"
+    },
+    "d2": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "d3": {
+      "material": "ice",
+      "name": "&r&bIce",
+      "lore": "&85 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "d4": {
+      "material": "snow_block",
+      "name": "&r&bSnow",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "d5": {
+      "material": "stone",
+      "name": "&r&bHard Stone",
+      "lore": "&83 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "d6": {
+      "material": "perfect_ruby_gem",
+      "name": "&r&bGemstones",
+      "lore": "&812 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "d7": {
+      "material": "elder_guardian_spawn_egg",
+      "name": "&r&bGoblin Eggs",
+      "lore": "&85 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "d8": {
+      "material": "prismarine_crystals",
+      "name": "&r&bDwarven Mines",
+      "lore": "&89 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "d9": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "e1": {
+      "material": "enchanting_table",
+      "name": "&r&dOddities",
+      "lore": "&8Category"
+    },
+    "e2": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "e3": {
+      "material": "furnace",
+      "name": "&r&bForge",
+      "lore": "&88 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "e4": {
+      "material": "ruby_crystal",
+      "name": "&r&bCrystal Hollows",
+      "lore": "&816 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "e5": {
+      "material": "fast_travel_nether",
+      "name": "&r&bCrimson Isle",
+      "lore": "&86 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "e6": {
+      "material": "glacite_amalgamation",
+      "name": "&r&bGlacite Tunnels",
+      "lore": "&816 products\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "e7": {
+      "lore": ""
+    },
+    "e8": {
+      "lore": ""
+    },
+    "e9": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "f1": {
+      "material": "oak_sign",
+      "name": "&aSearch",
+      "lore": "&7Find products by name!"
+    },
+    "f2": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "f3": {
+      "material": "chest",
+      "name": "Sell Inventory Now",
+      "lore": "&7Instantly sell any items in your\n&7inventory that can be sold on\n&7the Bazaar."
+    },
+    "f4": {
+      "material": "cauldron",
+      "name": "&bSell Sacks Now",
+      "lore": "&7Instantly sell everything in\n&7your sacks on the Bazaar."
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "book",
+      "name": "Manage Orders",
+      "lore": "&7You don't have any ongoing\n&7orders."
+    },
+    "f7": {
+      "material": "cyan_stained_glass_pane"
+    },
+    "f8": {
+      "material": "redstone_torch",
+      "name": "Bazaar Settings",
+      "lore": "&7View and edit your Bazaar settings.\n\n&eClick to open!"
+    },
+    "f9": {
+      "material": "cyan_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

@@ -1,0 +1,119 @@
+{
+  "internalId": "NPC_MINE_MERCHANT",
+  "name": "Mine Merchant",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "material": "coal",
+      "name": "&fCoal &8x2",
+      "lore": "&8Brewing Ingredient\n&8Collection Item\n\n&7Increases the speed of\n&7your minion by &a5%&7 for 30\n&7minutes!\n\n&f&l COMMON ORE&r\n\n&7Cost\n&68 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8
+        }
+      ]
+    },
+    "item10": {
+      "material": "stone",
+      "name": "&fStone &8x2",
+      "lore": "&f&l COMMON BLOCK&r\n\n&7Cost\n&64 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/ONYX|lore}}\n\n&7Cost\n&6100 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "item2": {
+      "material": "iron_ingot",
+      "name": "&fIron Ingot &8x4",
+      "lore": "&8Collection Item\n\n&f&l COMMON ORE&r\n\n&7Cost\n&622 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 22
+        }
+      ]
+    },
+    "item3": {
+      "material": "gold_ingot",
+      "name": "&fGold Ingot &8x2",
+      "lore": "&8Brewing Ingredient\n&8Collection Item\n\n&f&l COMMON ORE&r\n\n&7Cost\n&612 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/ROOKIE_PICKAXE|lore}}\n\n&7Cost\n&612 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/PROMISING_PICKAXE|lore}}\n\n&7Cost\n&635 Coins\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/GOLD_PICKAXE|lore}}\n\n&7Cost\n&fGold Ingot &8x3\n\n&eClick to trade!",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_INGOT",
+          "amount": 3
+        }
+      ]
+    },
+    "item7": {
+      "material": "torch",
+      "name": "&fTorch &8x32",
+      "lore": "&f&l COMMON&r\n\n&7Cost\n&616 Coins\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 16
+        }
+      ]
+    },
+    "item8": {
+      "material": "gravel",
+      "name": "&fGravel &8x2",
+      "lore": "&8Collection Item\n\n&f&l COMMON BLOCK&r\n\n&7Cost\n&612 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/COBBLESTONE|lore}}\n\n&7Cost\n&63 Coins\n\n&7Stock\n&6640 &7remaining\n\n&eClick to trade!\n&eRight-click for more trading options!",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 3
+        }
+      ]
+    }
+  }
+}

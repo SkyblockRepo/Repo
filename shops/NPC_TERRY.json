@@ -1,0 +1,57 @@
+{
+  "internalId": "NPC_TERRY",
+  "name": "Terry",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/SALT_CUBE|lore}}\n\n&7Cost\n&aHunk of Ice &8x64",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ICE_HUNK",
+          "amount": 64
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/RUSTY_ANCHOR|lore}}\n\n&7Cost\n&9Hunk of Blue Ice &8x64",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "BLUE_ICE_HUNK",
+          "amount": 64
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/TERRY_SNOWGLOBE|lore}}\n\n&7Cost\n&aHunk of Ice &8x32\n&9Hunk of Blue Ice &8x8",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ICE_HUNK",
+          "amount": 32
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLUE_ICE_HUNK",
+          "amount": 8
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/FROZEN_BAUBLE|lore}}\n\n&7Cost\n&aHunk of Ice &8x64\n&9Hunk of Blue Ice &8x32",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ICE_HUNK",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BLUE_ICE_HUNK",
+          "amount": 32
+        }
+      ]
+    }
+  }
+}

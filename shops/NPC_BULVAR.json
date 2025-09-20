@@ -1,0 +1,216 @@
+{
+  "internalId": "NPC_BULVAR",
+  "name": "Bulvar",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item_cobblestone_generator_12}}\n\n&7Cost\n&9Cobblestone Minion XI\n&aEnchanted Cobblestone &8x1024\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "COBBLESTONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COBBLESTONE",
+          "amount": 1024
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item_mithril_generator_12}}\n\n&7Cost\n&9Mithril Minion XI\n&5Refined Mithril &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MITHRIL_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REFINED_MITHRIL",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item_hard_stone_generator_12}}\n\n&7Cost\n&9Hard Stone Minion XI\n&9Concentrated Stone &8x32\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "HARD_STONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "CONCENTRATED_STONE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_obsidian_generator_12}}\n\n&7Cost\n&9Obsidian Minion XI\n&aEnchanted Obsidian &8x1024\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "OBSIDIAN_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_OBSIDIAN",
+          "amount": 1024
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item_coal_generator_12}}\n\n&7Cost\n&9Coal Minion XI\n&9Enchanted Block of Coal &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "COAL_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COAL_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item_iron_generator_12}}\n\n&7Cost\n&9Iron Minion XI\n&9Enchanted Iron Block &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "IRON_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_IRON_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item_gold_generator_12}}\n\n&7Cost\n&9Gold Minion XI\n&9Enchanted Gold Block &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item_diamond_generator_12}}\n\n&7Cost\n&9Diamond Minion XI\n&9Enchanted Diamond Block &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "DIAMOND_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_DIAMOND_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item_lapis_generator_12}}\n\n&7Cost\n&9Lapis Minion XI\n&9Enchanted Lapis Lazuli Block &8x64\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "LAPIS_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "amount": 64
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item_emerald_generator_12}}\n\n&7Cost\n&9Emerald Minion XI\n&9Enchanted Emerald Block &8x16\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "EMERALD_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_EMERALD_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item_redstone_generator_12}}\n\n&7Cost\n&9Redstone Minion XI\n&9Enchanted Redstone Block &8x32\n&62,000,000 Coins",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "REDSTONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_REDSTONE_BLOCK",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    }
+  }
+}

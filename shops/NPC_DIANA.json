@@ -1,0 +1,139 @@
+{
+  "internalId": "NPC_DIANA",
+  "name": "Mayor Diana",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "black_stained_glass_pane"
+    },
+    "b3": {
+      "material": "mayor_diana",
+      "name": "Mayor Diana",
+      "lore": "&8Perks List\n\n&cPet XP Buff\n&7Gain &d35% &7more pet XP.\n\n&cLucky!\n&7Gain &d+25♣ Pet Luck&7.\n\n&cMythological Ritual\n&7Mayor Diana will sell the\n&7Griffin pet, which lets you\n&7find &2Mythological Creatures\n&2&7and tons of &eunique\n&eitems&7.\n\n&7The listed perks are\n&7available to all players\n&7until the closing of the next\n&7elections."
+    },
+    "b4": {
+      "material": "jukebox",
+      "name": "&bMayor Election Results",
+      "lore": "&8Year 159\n\n&d94.2% &8○ &e633,419 votes &8<nowiki>"
+    },
+    "b5": {
+      "material": "black_stained_glass_pane"
+    },
+    "b6": {
+      "lore": "{{Item_ancestral_spade}}\n\n&7Cost\n&6 5,000 Coins\n&f Gold Ingot &8x32",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_INGOT",
+          "amount": 32
+        }
+      ]
+    },
+    "b7": {
+      "material": "griffin",
+      "name": "Griffin Pet",
+      "lore": "&8Combat Pet\n\n&7Strength: &a+25\n&7Crit Damage: &a+50\n&7Intelligence: &a+10\n&7Crit Chance: &a+10\n&7Magic Find: &a+10\n\n&6Odyssey\n&2Mythological creatures &7you\n&7find and burrows you ding scale\n&7in &cdifficulty &7and &6rewards\n&7based on your equipped\n&7Griffin's rarity.\n\n&cThis is a preview of Lvl 100.\n&cNew pets are lowest level!\n\n&7Cost\n&6 25,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25000
+        }
+      ]
+    },
+    "b8": {
+      "material": "black_stained_glass_pane"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "black_stained_glass_pane"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "barrier"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "black_stained_glass_pane"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "4"
+}

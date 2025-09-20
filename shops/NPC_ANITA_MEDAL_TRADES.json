@@ -1,0 +1,186 @@
+{
+  "internalId": "NPC_ANITA_MEDAL_TRADES",
+  "name": "Medal Trades",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "black_stained_glass_pane"
+    },
+    "a3": {
+      "material": "black_stained_glass_pane"
+    },
+    "a4": {
+      "material": "black_stained_glass_pane"
+    },
+    "a5": {
+      "material": "black_stained_glass_pane"
+    },
+    "a6": {
+      "material": "black_stained_glass_pane"
+    },
+    "a7": {
+      "material": "black_stained_glass_pane"
+    },
+    "a8": {
+      "material": "black_stained_glass_pane"
+    },
+    "a9": {
+      "material": "black_stained_glass_pane"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "brick",
+      "name": "Medal Conversion",
+      "lore": "&7Gain &c2 Bronze\n&7Costs &f1 Silver"
+    },
+    "b3": {
+      "material": "black_stained_glass_pane"
+    },
+    "b4": {
+      "material": "iron_ingot",
+      "name": "Medal Conversion",
+      "lore": "&7Gain &f1 Silver\n&7Costs &c2 Bronze"
+    },
+    "b5": {
+      "material": "black_stained_glass_pane"
+    },
+    "b6": {
+      "material": "iron_ingot",
+      "name": "Medal Conversion",
+      "lore": "&7Gain &f4 Silver\n&7Costs &61 Gold"
+    },
+    "b7": {
+      "material": "black_stained_glass_pane"
+    },
+    "b8": {
+      "material": "gold_ingot",
+      "name": "Medal Conversion",
+      "lore": "&7Gain &61 Gold\n&7Costs &f4 Silver"
+    },
+    "b9": {
+      "material": "black_stained_glass_pane"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "black_stained_glass_pane"
+    },
+    "c3": {
+      "material": "black_stained_glass_pane"
+    },
+    "c4": {
+      "material": "black_stained_glass_pane"
+    },
+    "c5": {
+      "material": "black_stained_glass_pane"
+    },
+    "c6": {
+      "material": "black_stained_glass_pane"
+    },
+    "c7": {
+      "material": "black_stained_glass_pane"
+    },
+    "c8": {
+      "material": "black_stained_glass_pane"
+    },
+    "c9": {
+      "material": "black_stained_glass_pane"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "black_stained_glass_pane"
+    },
+    "d3": {
+      "material": "name_tag",
+      "name": "Medal to Tickets",
+      "lore": "&7Sell &c1 Bronze medal\n&7for &a2 Jacob's Ticket"
+    },
+    "d4": {
+      "material": "black_stained_glass_pane"
+    },
+    "d5": {
+      "material": "name_tag",
+      "name": "Medal to Tickets",
+      "lore": "&7Sell &f1 Silver medal\n&7for &a4 Jacob's Ticket"
+    },
+    "d6": {
+      "material": "black_stained_glass_pane"
+    },
+    "d7": {
+      "material": "name_tag",
+      "name": "Medal to Tickets",
+      "lore": "&7Sell &61 Gold medal\n&7for &a16 Jacob's Ticket"
+    },
+    "d8": {
+      "material": "black_stained_glass_pane"
+    },
+    "d9": {
+      "material": "black_stained_glass_pane"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "black_stained_glass_pane"
+    },
+    "e3": {
+      "material": "black_stained_glass_pane"
+    },
+    "e4": {
+      "material": "black_stained_glass_pane"
+    },
+    "e5": {
+      "material": "black_stained_glass_pane"
+    },
+    "e6": {
+      "material": "black_stained_glass_pane"
+    },
+    "e7": {
+      "material": "black_stained_glass_pane"
+    },
+    "e8": {
+      "material": "black_stained_glass_pane"
+    },
+    "e9": {
+      "material": "black_stained_glass_pane"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "black_stained_glass_pane"
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "arrow",
+      "name": "Go Back",
+      "lore": "&7To Anita"
+    },
+    "f6": {
+      "material": "black_stained_glass_pane"
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

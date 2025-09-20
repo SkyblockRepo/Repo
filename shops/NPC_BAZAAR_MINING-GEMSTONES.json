@@ -1,0 +1,256 @@
+{
+  "internalId": "NPC_BAZAAR_MINING-GEMSTONES",
+  "name": "Mining ➜ Gemstones",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "black_stained_glass_pane"
+    },
+    "a2": {
+      "material": "rough_jade_gem",
+      "name": "Rough Jade Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "a3": {
+      "material": "rough_amber_gem",
+      "name": "Rough Amber Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "a4": {
+      "material": "rough_topaz_gem",
+      "name": "Rough Topaz Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "a5": {
+      "material": "rough_sapphire_gem",
+      "name": "Rough Sapphire Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "a6": {
+      "material": "rough_amethyst_gem",
+      "name": "Rough Amethyst Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "a7": {
+      "material": "rough_jasper_gem",
+      "name": "Rough Jasper Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "a8": {
+      "material": "rough_ruby_gem",
+      "name": "Rough Ruby Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "a9": {
+      "material": "rough_opal_gem",
+      "name": "Rough Opal Gemstone",
+      "lore": "&8Common commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b1": {
+      "material": "black_stained_glass_pane"
+    },
+    "b2": {
+      "material": "flawed_jade_gem",
+      "name": "Flawed Jade Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b3": {
+      "material": "flawed_amber_gem",
+      "name": "Flawed Amber Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b4": {
+      "material": "flawed_topaz_gem",
+      "name": "Flawed Topaz Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b5": {
+      "material": "flawed_sapphire_gem",
+      "name": "Flawed Sapphire Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b6": {
+      "material": "flawed_amethyst_gem",
+      "name": "Flawed Amethyst Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b7": {
+      "material": "flawed_jasper_gem",
+      "name": "Flawed Jasper Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b8": {
+      "material": "flawed_ruby_gem",
+      "name": "Flawed Ruby Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "b9": {
+      "material": "flawed_opal_gem",
+      "name": "Flawed Opal Gemstone",
+      "lore": "&8Uncommon commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c1": {
+      "material": "black_stained_glass_pane"
+    },
+    "c2": {
+      "material": "fine_jade_gem",
+      "name": "Fine Jade Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c3": {
+      "material": "fine_amber_gem",
+      "name": "Fine Amber Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c4": {
+      "material": "fine_topaz_gem",
+      "name": "Fine Topaz Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c5": {
+      "material": "fine_sapphire_gem",
+      "name": "Fine Sapphire Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c6": {
+      "material": "fine_amethyst_gem",
+      "name": "Fine Amethyst Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c7": {
+      "material": "fine_jasper_gem",
+      "name": "Fine Jasper Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c8": {
+      "material": "fine_ruby_gem",
+      "name": "Fine Ruby Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "c9": {
+      "material": "fine_opal_gem",
+      "name": "Fine Opal Gemstone",
+      "lore": "&8Rare commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d1": {
+      "material": "black_stained_glass_pane"
+    },
+    "d2": {
+      "material": "flawless_jade_gem",
+      "name": "Flawless Jade Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d3": {
+      "material": "flawless_amber_gem",
+      "name": "Flawless Amber Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d4": {
+      "material": "flawless_topaz_gem",
+      "name": "Flawless Topaz Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d5": {
+      "material": "flawless_sapphire_gem",
+      "name": "Flawless Sapphire Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d6": {
+      "material": "flawless_amethyst_gem",
+      "name": "Flawless Amethyst Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d7": {
+      "material": "flawless_jasper_gem",
+      "name": "Flawless Jasper Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d8": {
+      "material": "flawless_ruby_gem",
+      "name": "Flawless Ruby Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "d9": {
+      "material": "flawless_opal_gem",
+      "name": "Flawless Opal Gemstone",
+      "lore": "&8Epic commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e1": {
+      "material": "black_stained_glass_pane"
+    },
+    "e2": {
+      "material": "perfect_jade_gem",
+      "name": "Perfect Jade Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e3": {
+      "material": "perfect_amber_gem",
+      "name": "Perfect Amber Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e4": {
+      "material": "perfect_topaz_gem",
+      "name": "Perfect Topaz Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e5": {
+      "material": "perfect_sapphire_gem",
+      "name": "Perfect Sapphire Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e6": {
+      "material": "perfect_amethyst_gem",
+      "name": "Perfect Amethyst Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e7": {
+      "material": "perfect_jasper_gem",
+      "name": "Perfect Jasper Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e8": {
+      "material": "perfect_ruby_gem",
+      "name": "Perfect Ruby Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "e9": {
+      "material": "perfect_opal_gem",
+      "name": "Perfect Opal Gemstone",
+      "lore": "&8Legendary commodity\n\n&7Buy Price: &8N/A\n&7Sell Price: &8N/A"
+    },
+    "f1": {
+      "material": "black_stained_glass_pane"
+    },
+    "f2": {
+      "material": "black_stained_glass_pane"
+    },
+    "f3": {
+      "material": "chest",
+      "name": "Sell Inventory Now",
+      "lore": "&7Instantly sell all Rough Jade\n&7Gemstone derivatives in your\n&7inventory."
+    },
+    "f4": {
+      "material": "black_stained_glass_pane"
+    },
+    "f5": {
+      "material": "arrow",
+      "name": "&r&aGo Back",
+      "lore": "&7To Bazaar"
+    },
+    "f6": {
+      "material": "book",
+      "name": "Manage Orders",
+      "lore": "&7You don't have any ongoing\n&7orders for these products."
+    },
+    "f7": {
+      "material": "black_stained_glass_pane"
+    },
+    "f8": {
+      "material": "black_stained_glass_pane"
+    },
+    "f9": {
+      "material": "black_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

@@ -1,0 +1,222 @@
+{
+  "internalId": "NPC_BAZAAR_ODDITIES",
+  "name": "Bazaar ➜ Oddities",
+  "source": "HypixelWiki",
+  "slots": {
+    "a1": {
+      "material": "golden_hoe",
+      "name": "&r&eFarming",
+      "lore": "&8Category"
+    },
+    "a2": {
+      "material": "pink_stained_glass_pane"
+    },
+    "a3": {
+      "material": "pink_stained_glass_pane"
+    },
+    "a4": {
+      "material": "pink_stained_glass_pane"
+    },
+    "a5": {
+      "material": "pink_stained_glass_pane"
+    },
+    "a6": {
+      "material": "pink_stained_glass_pane"
+    },
+    "a7": {
+      "material": "pink_stained_glass_pane"
+    },
+    "a8": {
+      "material": "pink_stained_glass_pane"
+    },
+    "a9": {
+      "material": "pink_stained_glass_pane"
+    },
+    "b1": {
+      "material": "diamond_pickaxe",
+      "name": "&r&bMining",
+      "lore": "&8Category"
+    },
+    "b2": {
+      "material": "pink_stained_glass_pane"
+    },
+    "b3": {
+      "material": "enchanted_cookie",
+      "name": "&r&dBooster Cookie",
+      "lore": "&81 product\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "b4": {
+      "material": "recombobulator_3000",
+      "name": "&r&dModifiers",
+      "lore": "&84 products\n\n&6▶ &7Item Upgrades\n&5▶ &7Wither Scrolls\n&5▶ &7Master Stars\n&d▶ &7Book Modifiers"
+    },
+    "b5": {
+      "material": "enchanting_table",
+      "name": "&r&dEnchantments",
+      "lore": "&82 products\n\n&6▶ &7Normal Enchantments\n&d▶ &7Ultimate Enchantments"
+    },
+    "b6": {
+      "material": "enchanted_bottle_o_enchanting",
+      "name": "&r&dEXP Bottles",
+      "lore": "&84 products\n\n&f▶ &7Experience Bottle\n&a▶ &7Grand Experience Bottle\n&9▶ &7Titanic Experience Bottle\n&5▶ &7Colossal Experience Bottle"
+    },
+    "b7": {
+      "material": "hardened_wood",
+      "name": "&r&dReforge Stones",
+      "lore": "&866 products\n\n&7Powerful stones which allow you to\n&7modify items with reforges not found\n&7at the Blacksmith."
+    },
+    "b8": {
+      "material": "displaced_leech",
+      "name": "&r&dPower Stones",
+      "lore": "&821 products\n\n&7Unique items that allow you to learn\n&7Powers at the Thaumaturgist."
+    },
+    "b9": {
+      "material": "pink_stained_glass_pane"
+    },
+    "c1": {
+      "material": "iron_sword",
+      "name": "&r&cCombat",
+      "lore": "&8Category"
+    },
+    "c2": {
+      "material": "pink_stained_glass_pane"
+    },
+    "c3": {
+      "material": "paper",
+      "name": "&r&dStock of Stonks",
+      "lore": "&81 product\n\n&7Buy price: &8N/A\n&7Sell price: &8N/A"
+    },
+    "c4": {
+      "material": "bee",
+      "name": "&r&dPet Upgrades",
+      "lore": "&814 products\n\n&d▶ &7Pet Candies\n&5▶ &7Lucky Clover Core\n&5▶ &7Exp Share Core\n&6▶ &7Tier Boost Core\n&d▶ &7Radioactive Vial\n&6▶ &7Enderman Cortex Rewriter\n&6▶ &7Jerry 3D Glasses\n&6▶ &7Vampire Fang\n&6▶ &7Mixed Mite Gel\n&6▶ &7Pure Mithril Gem\n&9▶ &7Black Woolen Yarn\n&6▶ &7Magic Top Hat\n&6▶ &7Guardian Lucky Block\n&6▶ &7Chocolate Syringe"
+    },
+    "c5": {
+      "material": "crude_gabagool",
+      "name": "&r&dInferno Minion",
+      "lore": "&815 products\n\n&a▶ &7Crude Gabagool\n&9▶ &7Very Crude Gabagool\n&9▶ &7Fuel Gabagool\n&5▶ &7Heavy Gabagool\n&6▶ &7Hypergolic Gabagool\n&5▶ &7Inferno Vertex\n&6▶ &7Inferno Apex\n&6▶ &7Reaper Pepper\n&a▶ &7Chili Pepper\n&9▶ &7Stuffed Chili Pepper\n&9▶ &7Inferno Fuel Block\n&5▶ &7Hypergolic Ionized Ceramics\n&9▶ &7Sulpheric Coal\n&a▶ &7Re-heated Gummy Polar Bear\n&9▶ &7Capsaicin Eyedrops"
+    },
+    "c6": {
+      "material": "cobblestone_generator_1",
+      "name": "&r&dMinion Upgrades",
+      "lore": "&816 products\n\n&9▶ &7Minion Storage\n&9▶ &7Compactors\n&9▶ &7Diamond Spreading\n&9▶ &7Minion Expander\n&5▶ &7Potato Spreading\n&f▶ &7Auto Smelter\n&5▶ &7Soulflow Engine\n&9▶ &7Lesser Soulflow Engine\n&a▶ &7Budget Hopper\n&9▶ &7Enchanted Hopper\n&5▶ &7Corrupt Soil\n&a▶ &7Mithril Infusion\n&9▶ &7Berberis Fuel Injector\n&5▶ &7Flycatcher\n&5▶ &7Sleepy Hollow\n&6▶ &7Free Will"
+    },
+    "c7": {
+      "material": "enchanted_lava_bucket",
+      "name": "&r&dFuels",
+      "lore": "&812 products\n\n&5▶ &7Enchanted Lava Bucket\n&6▶ &7Magma Bucket\n&d▶ &7Plasma Bucket\n&9▶ &7Hamster Wheel\n&9▶ &7Foul Flesh\n&5▶ &7Power Crystal\n&9▶ &7Catalyst\n&5▶ &7Hyper Catalyst\n&a▶ &7Solar Panel\n&a▶ &7Oil Barrel\n&6▶ &7Scorched Power Crystal\n&9▶ &7Volta"
+    },
+    "c8": {
+      "material": "wither_essence",
+      "name": "&r&dEssence",
+      "lore": "&88 products\n\n&7▶ Wither Essence\n&7▶ Spider Essence\n&7▶ Undead Essence\n&7▶ Dragon Essence\n&7▶ Gold Essence\n&7▶ Diamond Essence\n&7▶ Ice Essence\n&7▶ Crimson Essence"
+    },
+    "c9": {
+      "material": "pink_stained_glass_pane"
+    },
+    "d1": {
+      "material": "fishing_rod",
+      "name": "&r&6Woods <nowiki>&</nowiki> Fishes",
+      "lore": "&8Category"
+    },
+    "d2": {
+      "material": "pink_stained_glass_pane"
+    },
+    "d3": {
+      "material": "name_tag",
+      "name": "&r&dEvents",
+      "lore": "&89 products\n\n&6▶ &7Spooky\n&9▶ &7Winter\n&9▶ &7Minerals\n&a▶ &7Jacob's Ticket\n&9▶ &7Mythological\n&a▶ &7Fishing Festival\n&9▶ &7Jerry Boxes\n&6▶ &7Diaz\n&d▶ &7Hoppity's Hunt"
+    },
+    "d4": {
+      "material": "magic_mushroom_soup",
+      "name": "&r&dConsumables",
+      "lore": "&88 products\n\n&a▶ &7Magical Mushroom Soup\n&9▶ &7Mystical Mushroom Soup\n&5▶ &7Metaphysical Serum\n&a▶ &7Dwarven O's Ore Oats\n&9▶ &7Dwarven O's Block Bran\n&5▶ &7Dwarven O's Gemstone Grahams\n&6▶ &7Dwarven O's Metallic Minis\n&6▶ &7Spotlite"
+    },
+    "d5": {
+      "material": "large_fern",
+      "name": "&r&dCross-Dimensional",
+      "lore": "&89 products\n\n&a▶ &7Lush Berberis\n&9▶ &7Enchanted Lush Berberis\n&9▶ &7Agarimoo Tongue\n&a▶ &7Exportable Carrots\n&a▶ &7Hemovibe\n&9▶ &7Hemoglass\n&5▶ &7Hemobomb\n&5▶ &7Highlite\n&9▶ &7Extremely Real Shuriken"
+    },
+    "d6": {
+      "material": "enchanted_red_mushroom",
+      "name": "&r&dUpgrade Fragments",
+      "lore": "&87 products\n\n&9▶ &7Bonzo Fragment\n&5▶ &7Dark Queen's Soul\n&5▶ &7Golden Fragment\n&9▶ &7Livid Fragment\n&9▶ &7Scarf Fragment\n&9▶ &7Thorn Fragment\n&5▶ &7Winter Fragment"
+    },
+    "d7": {
+      "lore": ""
+    },
+    "d8": {
+      "lore": ""
+    },
+    "d9": {
+      "material": "pink_stained_glass_pane"
+    },
+    "e1": {
+      "material": "enchanted_enchanting_table",
+      "name": "&r&dOddities",
+      "lore": "&8Category\n\n&aCurrently viewing!"
+    },
+    "e2": {
+      "material": "pink_stained_glass_pane"
+    },
+    "e3": {
+      "lore": ""
+    },
+    "e4": {
+      "lore": ""
+    },
+    "e5": {
+      "lore": ""
+    },
+    "e6": {
+      "lore": ""
+    },
+    "e7": {
+      "lore": ""
+    },
+    "e8": {
+      "lore": ""
+    },
+    "e9": {
+      "material": "pink_stained_glass_pane"
+    },
+    "f1": {
+      "material": "oak_sign",
+      "name": "&aSearch",
+      "lore": "&7Find products by name!"
+    },
+    "f2": {
+      "material": "pink_stained_glass_pane"
+    },
+    "f3": {
+      "material": "chest",
+      "name": "Sell Inventory Now",
+      "lore": "&7Instantly sell any items in your\n&7inventory that can be sold on\n&7the Bazaar."
+    },
+    "f4": {
+      "material": "cauldron",
+      "name": "&bSell Sacks Now",
+      "lore": "&7Instantly sell everything in\n&7your sacks on the Bazaar."
+    },
+    "f5": {
+      "material": "barrier"
+    },
+    "f6": {
+      "material": "book",
+      "name": "Manage Orders",
+      "lore": "&7You don't have any ongoing\n&7orders."
+    },
+    "f7": {
+      "material": "pink_stained_glass_pane"
+    },
+    "f8": {
+      "material": "iron_ore",
+      "name": "Direct Mode",
+      "lore": "&8Bazaar View\n\n&7 View buy and sell prices of each\n&7product."
+    },
+    "f9": {
+      "material": "pink_stained_glass_pane"
+    }
+  },
+  "rows": "6"
+}

@@ -1,0 +1,106 @@
+{
+  "internalId": "NPC_ADVENTURER",
+  "name": "Adventurer",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/ROTTEN_FLESH|lore}}\n\n&7Cost\n&68 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item/INTIMIDATION_TALISMAN|lore}}\n\n&7Cost\n&610,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/SCAVENGER_TALISMAN|lore}}\n\n&7Cost\n&610,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/BONE|lore}}\n\n&7Cost\n&68 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/STRING|lore}}\n\n&7Cost\n&610 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/SLIME_BALL|lore}}\n\n&7Cost\n&614 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 14
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/SULPHUR|lore}}\n\n&7Cost\n&610 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/ZOMBIE_TALISMAN|lore}}\n\n&7Cost\n&6500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 500
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/SKELETON_TALISMAN|lore}}\n\n&7Cost\n&6500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 500
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/VILLAGE_TALISMAN|lore}}\n\n&7Cost\n&62,500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/MINE_TALISMAN|lore}}\n\n&7Cost\n&62,500 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        }
+      ]
+    }
+  }
+}

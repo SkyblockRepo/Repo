@@ -1,0 +1,34 @@
+{
+  "internalId": "NPC_SHIFTY",
+  "name": "Shifty",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/TUTTI_FRUTTI_POISON|lore}}\n\n&7Cost\n&61,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/DR_PAPER|lore}}\n\n&7Cost\n&64,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4000
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/SLAYER_ENERGY_DRINK|lore}}\n\n&7Cost\n&610,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    }
+  }
+}

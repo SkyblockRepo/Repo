@@ -1,0 +1,25 @@
+{
+  "internalId": "NPC_OLD_SHAMAN_NYKO",
+  "name": "Old Shaman Nyko",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/TRUE_ESSENCE|lore}}\n\n&7Cost\n&625,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25000
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item_enchantment_true_protection_1}}\n\n&7Cost\n&6900,000 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 900000
+        }
+      ]
+    }
+  }
+}

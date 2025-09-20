@@ -1,0 +1,160 @@
+{
+  "internalId": "NPC_LUMBER_MERCHANT",
+  "name": "Lumber Merchant",
+  "source": "HypixelWiki",
+  "slots": {
+    "item1": {
+      "lore": "{{Item/LOG|lore}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item10": {
+      "lore": "{{Item/DIRT:2|lore}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item11": {
+      "lore": "{{Item/SWEET_AXE|lore}}\n\n&7Cost\n&6100 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "item12": {
+      "lore": "{{Item/EFFICIENT_AXE|lore}}\n\n&7Cost\n&6100 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    },
+    "item13": {
+      "lore": "{{Item/WOOD_SWORD|lore}}\n\n&7Cost\n&65 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5
+        }
+      ]
+    },
+    "item14": {
+      "lore": "{{Item/WOOD_PICKAXE|lore}}\n\n&7Cost\n&65 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5
+        }
+      ]
+    },
+    "item15": {
+      "lore": "{{Item/WOOD_SPADE|lore}}\n\n&7Cost\n&65 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5
+        }
+      ]
+    },
+    "item16": {
+      "lore": "{{Item/WOOD_HOE|lore}}\n\n&7Cost\n&65 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5
+        }
+      ]
+    },
+    "item17": {
+      "lore": "{{Item/WOOD_AXE|lore}}\n\n&7Cost\n&65 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5
+        }
+      ]
+    },
+    "item2": {
+      "lore": "{{Item/LOG:2|lore}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item3": {
+      "lore": "{{Item/LOG:1|lore}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item4": {
+      "lore": "{{Item/LOG_2:1|lore}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item5": {
+      "lore": "{{Item/LOG_2|lore}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item6": {
+      "lore": "{{Item/LOG:3|lore}}\n\n&7Cost\n&625 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ]
+    },
+    "item7": {
+      "lore": "{{Item/STICK|lore}}\n\n&7Cost\n&620 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    },
+    "item8": {
+      "lore": "{{Item/ROOKIE_AXE|lore}}\n\n&7Cost\n&612 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    },
+    "item9": {
+      "lore": "{{Item/PROMISING_AXE|lore}}\n\n&7Cost\n&635 Coins",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35
+        }
+      ]
+    }
+  }
+}
