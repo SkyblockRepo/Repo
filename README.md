@@ -3,7 +3,8 @@
 This is a generated repository for data in Hypixel Skyblock.
 
 > [!WARNING]
-> This is not production ready yet! This is very early and all data/schemas are subject to change
+> This is not production ready yet! This is very early and all data/schemas are subject to change.
+> More data is also planned.
 
 If you want to contribute to it, you must make changes in one of these repos:
 
