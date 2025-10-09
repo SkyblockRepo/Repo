@@ -31,5 +31,142 @@
       "magic_find": 1
     }
   },
-  "recipes": []
+  "recipes": [],
+  "variants": [
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "red"
+      },
+      "item": {
+        "name": "Red Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDYwMTQzNywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZiNjFmODI2ZGQ2YmZjMWUzMTkxYTgzNjlhZWIwNDM1YzVhNTMzNTU2MzQzMWE1Mzg1ODVhZDAzOWRhMWUwYyIKICAgIH0KICB9Cn0="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "yellow"
+      },
+      "item": {
+        "name": "Yellow Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDY2OTgyMSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI5MjY4NDY0NzA1MWJkMjdlZTA0YWRiNDA5OGVlOWJjY2NhNDVhNzI2YTdjYmYzOGU5OGI3ZTc1Y2I4ODlmNCIKICAgIH0KICB9Cn0="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "purple"
+      },
+      "item": {
+        "name": "Purple Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDUzMzAyMSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmUzYWY1ODI0MDE0YjU3ZjRhNGE4NGQ0YmI3ZmI4OGNhYzllNGFjNzVkMDBjN2FkYjA5ZGZlNWFiNzM3ZTIyNCIKICAgIH0KICB9Cn0="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "pink"
+      },
+      "item": {
+        "name": "Pink Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDQ2NDY1NCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZmYWYwZGM4OWRhNThiZDFlZDA4ZjkxNzQwNzg1M2U1OGQ3YmNiZjVlNmI1ZjMzNTg2Mzg5ZWI4NjNhNWJiZCIKICAgIH0KICB9Cn0="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "orange"
+      },
+      "item": {
+        "name": "Orange Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDgzNzY5MywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWUzOGExNTcwNDA4OTY3NmEyNGU5ZWVjY2Y0YzI5MDY0NGQzNTJjN2Q4ZjJiNDEzNWZhMzUzODYyNTEwN2RiIgogICAgfQogIH0KfQ=="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "lime"
+      },
+      "item": {
+        "name": "Lime Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDM5NjEyMywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTkzYzYwZmQwZGQxMzA2OTVlMzc4ZWVmMDEwYTdkM2M1ZGZkZTc3ZjZiODJiMjBiODEyNGNmYjgzMDAxN2ZmIgogICAgfQogIH0KfQ=="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "green"
+      },
+      "item": {
+        "name": "Green Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDI1OTI0NCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOThkOTk5ODNhYjU5ODY5MjEyNTFhMjliYmE5NmM4ZTczNGY1ZGUwODRhMjk2Y2I2MjdiY2Q2NGZkMGZiYTU5MyIKICAgIH0KICB9Cn0="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "black"
+      },
+      "item": {
+        "name": "Black Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDMyNzc0NCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I4NTgyODI2N2U1OWU4M2VkYzNiZWYyMzUxMDJlNDNmYjcwOTIyNjIyY2NjMzgwOWEzMjZhOGM1NjMyMTk5YSIKICAgIH0KICB9Cn0="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "aqua"
+      },
+      "item": {
+        "name": "Aqua Crab Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgwMDE5MDc3NCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmUxNTU2OTU4YjFkZjRmZDYyMjhjOWRjYmQ4YzA1M2Y1ZDg5MDJhNDFjNGE1OTM3NmJkMGRmMWM2MGJlODM2OSIKICAgIH0KICB9Cn0="
+          }
+        }
+      }
+    }
+  ]
 }

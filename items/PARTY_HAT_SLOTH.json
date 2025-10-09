@@ -31,5 +31,157 @@
       "magic_find": 1
     }
   },
-  "recipes": []
+  "recipes": [],
+  "variants": [
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "cheeky"
+      },
+      "item": {
+        "name": "Cheeky Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3Nzg0MDE5NCwKICAicHJvZmlsZUlkIiA6ICJiNTAwOGEyMGJkY2U0YjJlOTU5NWZlNzY2MDlmYjUzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNT1JJU3hTVE9QQkFOIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk1Njg3NDk0NDY4NzQ5ZTFhYjVkOTM5NDEyMmM4MmE3NzUxZGI2YjI5M2E3Y2JiZTBhZTA4Y2EwNGYyYTdkOGIiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "cool"
+      },
+      "item": {
+        "name": "Cool Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3NzgyNDEyMywKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzRmYWE5MDVkNzYxMGY3MzJmNjJmN2NiMzc3NmUwNThmZmY4YmFjN2ViMzMxMzkwN2RmYzJiOGRlYzdlMjZkIgogICAgfQogIH0KfQ"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "cute"
+      },
+      "item": {
+        "name": "Cute Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3NzgwODU4NywKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOWQ4ZWJiYzI4OWQ5NTRmZjZlZjFjY2VmNzg5NTFmZDlhMDcwY2ExNTI5Y2M5NDliYTgzZTIzMDBmODkxY2QiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "derp"
+      },
+      "item": {
+        "name": "Derp Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3Nzc5MjY2NCwKICAicHJvZmlsZUlkIiA6ICIzYWJkYjI5ZDI2MTU0YTAxOWEzZWQ3OGRlMzI4OWUxNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmljSHViZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjc4ZTE0YTllMWE1YmRjMTU3ODk0ZDcwZTMzNjU3ZWU4MGE2MWUxYTUzMTA3ZTAxYTQ0Y2NjOTU5NjBmMmFjOSIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "flushed"
+      },
+      "item": {
+        "name": "Flushed Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3NzY5NDE5OSwKICAicHJvZmlsZUlkIiA6ICJhODJkZTliNjZhYjE0OGZhOTQ3OGY0OWJiZjg5OTk1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmdWhyM3JibDRiIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhhZWVhMzg5ZjBlYzlkNDYwNzZiOTFmOTI1ODczM2IxY2Q0MzM1MjU2NTI1ZTQyZmQ2OTk4MDljNDVkMWQ5MWIiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "grumpy"
+      },
+      "item": {
+        "name": "Grumpy Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3NzcxMDczNSwKICAicHJvZmlsZUlkIiA6ICJmZTc1MTliOWEwNWM0YzU1ODNlMTkxZTgyNThiMDJjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDMk81IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc4NTlkYTEwY2M5ZjAwMWJhZDk1ZjllNGEwNWY4NGE2OTVmMjQ2YmRmMWM3NWMzNDhjZTE2YmI2MTllMjljYWEiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "happy"
+      },
+      "item": {
+        "name": "Happy Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3NzcyMjkyNiwKICAicHJvZmlsZUlkIiA6ICJhYWQzYmVlNGNhYzI0ZGQyODJlZTQxOWRjNzQ1ZmE0MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPc2hpXzAzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwNjEwNzRkMTE0ZDJkMDFmMGJhNDRlZjI0MWMzMjY1Nzg5NmY5MTE5YzBjZjJiM2U4OWQ0Y2NiMjZiOTk5MSIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "regular"
+      },
+      "item": {
+        "name": "Regular Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3NzczODc5NywKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmZhZjVhYjNmODE3ZmJlZDcyNjNmYzFjMTUwYjU3MWYwMWIyZjdlZjE3YmM1Nzk2MTBhNDk1YmM0Y2ZlZTkiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "shock"
+      },
+      "item": {
+        "name": "Shock Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3Nzc1NjM4MiwKICAicHJvZmlsZUlkIiA6ICJiMjBiN2FkYTdhM2Y0NzM4YjUyNGMxNjg3YmM1ZGM0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdW56aV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFiMzE4MjM1MDc3YzJiYTExYzZjMmQ2MzY2MTMwNzRkOGZkMDMxMTIyZDhiMGQ0ODFhNWViY2UwMDg3NzVlNyIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_emoji",
+        "exact": "tears"
+      },
+      "item": {
+        "name": "Tears Sloth Hat of Celebration",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTk3Nzc3MzEyMywKICAicHJvZmlsZUlkIiA6ICJhYzM2YmVkZGQxNGQ0YjVmYmQyYzc5OThlMWMwOTg3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWlzYWthIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU4OWQxMGU2NWZkNjVmYmFjNWUyNTljZmNiMjRjOGMzNjcyYjM4NTU5N2VjZGM0NTZkMjUwNGIzOWQ1MmMwNTEiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    }
+  ]
 }
