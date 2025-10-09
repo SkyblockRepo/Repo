@@ -16,5 +16,143 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [],
+  "variants": [
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "red"
+      },
+      "item": {
+        "name": "Red 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjMzMDY3OCwKICAicHJvZmlsZUlkIiA6ICJhZDVjODczNmVlMjE0YjRhYTcwNWQ0NDE2YjAxMGJjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGl0Y2hfTXRsbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NjdmOTM5NjNhZDdhYzNhYmRjNDlkMDJjOTg2MWZhMmQ0NWQwMGRhMWE3YjMxMTkzY2ViMjQ2MzEzZDM5YmM1IgogICAgfQogIH0KfQ"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "yellow"
+      },
+      "item": {
+        "name": "Yellow 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0OTQ4ODYzNjk2MywKICAicHJvZmlsZUlkIiA6ICJjYzU2NjAzYmZiZjg0OGJmOTM3MzY1N2VjYzUyNGI4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpc2FhYWFhYV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTA0MDk3NjQ0MWZhZmU5ZTEwZTJmZjk5NGJkZjZiYWY2NjAzYjk5ZmY2MGM5M2Q4YjM3MTQ5OWNmNzllZjVlNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+            "signature": "Jc09j8T+CK9K4aXaL6OvxSlPlv+jLD1U2P+q/9rCPuYfSrO90tx1Suabd4XtfSO8N8xOondNkkXJvIv9k03DYLIOjQswKTxuHUhmQjkpWSkL3tRR8IgIO/8hhbz2iZh3BdHAqGXl32GHk4STkvpbHJXI+RZcdqwaAQsMc/nJyawtt+0/ejX1BHr6QTwHV7Dp/8kVGIBFwCSqf12Sp9PJANGjrPZ/iFuduFno+j3LzGLkYWpOeDEZmPh4gJIickrgmQ/vgDWhE/hP0IDHMOmvo6oHzzneCBX8JnB2CpCdJ7xAQ1VEPBtT4kppUZV2Mzqwo5DdRcr1rTp7jPGJXQukWaHDYW/ImCNFe1BXBp5m3w5ldjvEUMfwLohmNL2V/1o+VCgt0piafHFS6jqdtEplQ9Q5mkL+IuuskTGOogW+nBKxBnOK6dhF+XsPnN+wbntpgsl/WIr8Z185BLnF5sDbgjf0fIiUgK0GSVJO3wteKKNrnkCD2d7dFVulBMLxrJHTSwXaTy7BIJMo0Mi9OKVuxWHSoz0OmpKEbm2UAGAfriOWF9M40T1tGQnlr75EIDyNOprM6NLHuRltayxnd6tNiAl31g++tOfEauI9F5LghUCYT+WKHy2JP96NJdjB6sOSw8RZ2ZFcuqS+EUz1XctCsACuTFZRy4Ix4cv9vRR72Zk="
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "purple"
+      },
+      "item": {
+        "name": "Purple 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjMwNzY2NSwKICAicHJvZmlsZUlkIiA6ICIwMzcyOTQyZWRhOTQ0MjQ3YWRlODcyZjRjYjQxZTFkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJiZW5rZXRvbWkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOThiOTc5NDQwNjcyODFmYTEzNjFhYTQzYWM1MjJmZGYxOTBlNTBkNjU0NzlmODlhMzVlOGNmODcxNTRlMDA1YyIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "pink"
+      },
+      "item": {
+        "name": "Pink 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjI0ODY2MCwKICAicHJvZmlsZUlkIiA6ICIzODhhMzgxMmRhZTQ0NDFkYWI4MjJjODZmNWY0YjNmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbE1henppdGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFkNGM4NzQ3NTZhYjk2NzJhZWM1MWQ1M2I5Yjk0ZTZjOWI1YzZlN2UwYTJkNDQ5MjhkZjIxODZmNDc5MWU5NiIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "orange"
+      },
+      "item": {
+        "name": "Orange 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjM1MDM5NiwKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0MWM1ZThlMDYzN2FjZWUwOWI2OGZhYjc0M2RiNjZjNjcxNDkzOGM3Mzc5MmJjOTVhY2IxZjM5MzQ3ODE0NGIiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "lime"
+      },
+      "item": {
+        "name": "Lime 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjI3MjgxNSwKICAicHJvZmlsZUlkIiA6ICI5NTQ1NGYzOTkwNGE0MDg0OTcxMTQ0Y2Q5MmRhY2MyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcDA4MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIwMjA5YzM0NmUwNGMzMjUzZjQ5MmFiOTA0ZWY2ZTQ3MmZhYTYxN2M2ODE3MDZmOTE1M2ExMTZhYTY0ODFjMiIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "green"
+      },
+      "item": {
+        "name": "Green 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjIyNDQ2MywKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhiYTk2OGQyN2RkOTBmNjc0MzRlODE4NjQ2YjJiMDA0Mjk0NmI2N2ExNGM1OTRiMzE2OThkYWUzMDljYjUyYTQiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "black"
+      },
+      "item": {
+        "name": "Black 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjM4OTEwNiwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNiZGIxZTIxYTlmZGY5OGFmZjY3ZjBmZjRlN2RmYWRhMDVmMzQwMjEwZGQ3MGI2ODhjMDljM2NmNTBmNjQxMCIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "aqua"
+      },
+      "item": {
+        "name": "Aqua 5th Anniversary Balloon Hat",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNzQzNjI5MDUzMywKICAicHJvZmlsZUlkIiA6ICI1ZjQ5N2JmZDQwODU0NjRhOTNiMTRjN2Y3OTc5ZGYyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUVEs5ODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQzMmRkYTE5MDE0NmQ0YWQ3YTg1NjliMzg5YWVhNzc3Njg0YzQ0ZmEyNjI0ZGNmNzQwMTY0Njc3NjVlOTY5MyIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    }
+  ]
 }
