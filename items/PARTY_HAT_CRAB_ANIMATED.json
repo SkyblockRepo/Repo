@@ -31,5 +31,142 @@
       "magic_find": 1
     }
   },
-  "recipes": []
+  "recipes": [],
+  "variants": [
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "red"
+      },
+      "item": {
+        "name": "Red Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MzU4NDA1NSwKICAicHJvZmlsZUlkIiA6ICI5NmI1MTQxZTg0NzU0MjhjOTIzMmUxYjUyMmMzZmI1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlQjB5MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZGQ5MTY1MzQ1ODg0NDA5MjQ4ZWU0NmViMzFiMjgwM2E2NDk3YzRmZjZiNTM4ZmMyYWJmOTczZTY4YTVmMTA0IgogICAgfQogIH0KfQ"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "yellow"
+      },
+      "item": {
+        "name": "Yellow Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MzcyNjExNywKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I1ODcwZDUyZmU4MzBiYTkyMzRlZjI2ODcwNzM5YzkzMjQ2NDliMjBjZTBmZmJiZmZlNGI1MDBiNmQ5MWM5MCIKICAgIH0KICB9Cn0"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "purple"
+      },
+      "item": {
+        "name": "Purple Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MzQ0OTI3NSwKICAicHJvZmlsZUlkIiA6ICJhMWU4OThjNWEyNmY0MTYyOTQyYmNmNmM1MzRiMTE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0b21keGlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MWU4YzRkYTk1MTUwNmVlMDg0ZGM1YTU2YmUwZmI4MjI5Y2IyYWI0NDVjZTMzOGM5MzhhNTg0ZmQ2ZjFhYzc0IgogICAgfQogIH0KfQ"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "pink"
+      },
+      "item": {
+        "name": "Pink Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MzE1NTg4NSwKICAicHJvZmlsZUlkIiA6ICI1NTZjNDNmOWJmZjU0MjI1OTI0NDU5M2EwN2QyYzE1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHaW50b2tsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3ZGY3NTE4NWEwZGNhMGI1Y2VkZTQwNjRiNzg3YTNhMTQwMDRmZGQ0ZGNhNDk0MjI0NmRiMDBjMGMwM2U1MWIiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "orange"
+      },
+      "item": {
+        "name": "Orange Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MzMwMTY1NCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iOGY4OGU3ZGYyY2EwZGIzOGUyYTBjNDdkZTZlM2MyNGNjMDBjNWMzYzk1YTEyNTNiZGRiMTEwNTViY2UzZTg3IgogICAgfQogIH0KfQ"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "lime"
+      },
+      "item": {
+        "name": "Lime Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5Mjc0Mzc2MSwKICAicHJvZmlsZUlkIiA6ICJmMTkyZGU3MDUzMTQ0ODcxOTAwMjQ1MmIzZWE3MzA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZVhvU2V0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU5YWQzNjY0MWRkZDdjMWU3YWMzMTc3MzQ0M2YwMTk2ZjAxNjMxYmUwNzFlNjIwYmM3ZjY1MjNlM2M4NTk4NDMiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "green"
+      },
+      "item": {
+        "name": "Green Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MjE5NDUzNCwKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNGM2ZWVhZTBiNmIyYTYzMzU2NDFhMWZjNWNmOTQ3NWEzZGYyMzA3ODI2NGI1NzFkMTYzYzQ3MjlmOWY2N2Y0IgogICAgfQogIH0KfQ"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "black"
+      },
+      "item": {
+        "name": "Black Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MjYwNzM2MywKICAicHJvZmlsZUlkIiA6ICJjZmI4YzU4MTRkNmY0MTlmOTg3N2I3YmI4ZDMyOTkwOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdWx2aW8yOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYWFiMzhkNjE2NmU2MzkwMDgzMzM2ODc0YjAwY2MyNGY4ZWVhYTJiMTdhYjNjOTQ2ZDQ2MDUxNWNhODcwYjcwIgogICAgfQogIH0KfQ"
+          }
+        }
+      }
+    },
+    {
+      "by": {
+        "type": "ATTRIBUTE",
+        "key": "party_hat_color",
+        "exact": "aqua"
+      },
+      "item": {
+        "name": "Aqua Crab Hat of Celebration - 2022 Edition",
+        "data": {
+          "skin": {
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1NDc5MTg3NTg2MSwKICAicHJvZmlsZUlkIiA6ICI0N2RhZjU4YmJkNTM0OWU2YTI1MWYzMDZkYzhlYjc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJZeXJvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JlYWFlYzFhNDk1NDBmZDUxNGVlNmJlMDE1MGFmMThlMjgzMzNlYWIzNmQ3NWQyZWMyNTNiYzE0MzFjMWJlMGQiCiAgICB9CiAgfQp9"
+          }
+        }
+      }
+    }
+  ]
 }
