@@ -75,13 +75,13 @@
       "game_stage": "SKILLED"
     },
     "stats": {
-      "HEALTH": 90,
-      "DEFENSE": 130,
-      "STRENGTH": 10,
       "WALK_SPEED": 3,
-      "INTELLIGENCE": 25,
+      "DEFENSE": 130,
+      "HEALTH": 90,
+      "STRENGTH": 10,
+      "CRITICAL_DAMAGE": 10,
       "CRITICAL_CHANCE": 2,
-      "CRITICAL_DAMAGE": 10
+      "INTELLIGENCE": 25
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "DRAGON",
@@ -132,62 +132,5 @@
       }
     ]
   },
-  "recipes": [
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "SUPERIOR_DRAGON_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "4": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "5": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "6": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "7": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "9": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SUPERIOR_DRAGON_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "2": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "3": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "4": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "6": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        }
-      }
-    }
-  ]
+  "recipes": []
 }
