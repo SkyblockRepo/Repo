@@ -91,5 +91,38 @@
       }
     ]
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCORPION_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_EMERALD",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_EMERALD",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 16
+        }
+      }
+    }
+  ]
 }

@@ -71,13 +71,13 @@
       "game_stage": "SKILLED"
     },
     "stats": {
-      "WALK_SPEED": 3,
-      "DEFENSE": 170,
       "HEALTH": 130,
+      "DEFENSE": 170,
       "STRENGTH": 10,
-      "CRITICAL_DAMAGE": 10,
+      "WALK_SPEED": 3,
+      "INTELLIGENCE": 25,
       "CRITICAL_CHANCE": 2,
-      "INTELLIGENCE": 25
+      "CRITICAL_DAMAGE": 10
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "DRAGON",
@@ -128,5 +128,42 @@
       }
     ]
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SUPERIOR_DRAGON_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    }
+  ]
 }
