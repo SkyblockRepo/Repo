@@ -3,7 +3,7 @@
   "name": "Dungeon Chest Key",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 1,
+  "npcValue": 5000,
   "lore": "&7Allows you to open an additional\n&7treasure chest at the end of a\n&7dungeon!\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,7 @@
     "material": "TRIPWIRE_HOOK",
     "name": "Dungeon Chest Key",
     "tier": "RARE",
-    "npc_sell_price": 1,
+    "npc_sell_price": 5000,
     "can_interact": false,
     "dungeon_item": true
   },

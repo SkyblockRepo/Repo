@@ -1,6 +1,6 @@
 {
   "internalId": "SCORPION_BOW",
-  "name": "Scorpion Bow",
+  "name": "Spider Shortbow",
   "category": "Bow",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -18,7 +18,7 @@
   "data": {
     "id": "SCORPION_BOW",
     "material": "BOW",
-    "name": "Scorpion Bow",
+    "name": "Spider Shortbow",
     "category": "BOW",
     "tier": "EPIC",
     "requirements": [
@@ -38,8 +38,9 @@
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 110,
-      "STRENGTH": 10
+      "DAMAGE": 50,
+      "STRENGTH": 25,
+      "CRITICAL_CHANCE": 10
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "SPIDER",

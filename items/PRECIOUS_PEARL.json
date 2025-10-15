@@ -3,7 +3,7 @@
   "name": "Precious Pearl",
   "category": "Power Stone",
   "source": "HypixelAPI",
-  "npcValue": 1,
+  "npcValue": 500000,
   "lore": "&8Power Stone\n&7Combine &a9x &7of this stone at the\n&7&6Thaumaturgist &7to permanently unlock the\n&7&aPleasant &7power.\n\n&7At &6250 Magical Power&7:\n&c+130❤ Health\n&a+139❈ Defense\n\n&7Requires &aCombat Skill Level XXV&7!\n\n&5&lEPIC POWER STONE&r",
   "flags": {
     "tradable": true,
@@ -26,7 +26,7 @@
     "name": "Precious Pearl",
     "category": "REFORGE_STONE",
     "tier": "EPIC",
-    "npc_sell_price": 1
+    "npc_sell_price": 500000
   },
   "recipes": []
 }

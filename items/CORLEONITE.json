@@ -3,7 +3,7 @@
   "name": "Corleonite",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7For some reason, it's an ore.\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -25,7 +25,8 @@
     },
     "name": "Corleonite",
     "tier": "EPIC",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 50000
   },
   "recipes": []
 }

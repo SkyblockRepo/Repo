@@ -3,7 +3,7 @@
   "name": "Holy Dragon Fragment",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 2500,
   "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "L2ttgLOCyeVhCFOGgYpDIVaBOeA/hGIjDKa707mep3Ul7wJchOOZS/GUrxDC1PuiFVLRbPFgBlM4a9AltHl9YO2+Cnc+DZyy/xUaI9/3L3ibW5FCnvqCnMPALaBUVDGZw3mDKN+a/s0EP4aNZKq6VlsOywP4sKaw5s1BN34S1BKiwsNPc5ALS3QnPCOJhuOMtF/90B5tq1ITUB6SMK5WVDWiWyoDsH0N4YVi64MTV/+1xc5WX5WaQOfuszw5RdrqKPtwfYYghhElaoiuc0ZmEqiwkh6gd+Vp5r9rguFU1kdWY2GetXo13ILJ7ss8WvyEkBDvftGbf2uWdooTcSVwaZpBC9EaEfQ1+3Fbj7K2HnhWTnxLLVkKy9QSXUkfLn2Qq4Jnc6kUNgeDP6RpIAHkvegC8/27zFmcPP1zAMrT6KMjDQn0jf+KWbysnbjWFwYjpKUGwBxXXYaf9Y6hywGx8WBAL95zElZRuhpqYYdNZ9l2544VQpgVhH5arE4hlbVMlWQ8xuIg+fjyabq1mUqGk1TJS6sLmhn5nKvA1qN37oYJcGB9qVrk9g0LSqSdPtugScK8i7RGI7Kd0B4OuNcMyI32ncT/tnu1r19rXvzBhcEVtDF5PjK01BfmyK/LHCkcSapbOG+h54b4P1wy8A340SW0GXmEe26+m8uwBIPxzXg="
     },
     "name": "Holy Dragon Fragment",
-    "tier": "EPIC"
+    "tier": "EPIC",
+    "npc_sell_price": 2500
   },
   "recipes": []
 }

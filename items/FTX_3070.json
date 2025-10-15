@@ -3,7 +3,7 @@
   "name": "FTX 3070",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7A key component needed by the\n&7Professor to repair &bAutomaton Prime\n&b&7in the &bLost Precursor City&7!\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "Wd/6TkSzQ9Yc8WDZVifUiq/YTuF5SrYGKkSD6G/OOf/Nvz5uzuSdwuAF/msokizdrUQuv0R0285vcxq9k15sMAzGKmpgwj9F3MbGh4008VCWkL2rd3NHo6BcPjOm4Bf/SZfBIz9ky7zCFmhquCkYKZYCKF2rsNVWGerTVGri0052gBH8bg+IjCmqxUAg2pXx+J5f1hvQKk2+5ZeMIg1vwkHhYU3vL9aEAjp5jeW9IdfaRi4M2hvBU+U/2u8Rble/IAMFRoH9trHmROzZj+KH5by7YAWA5wqA52gVKmx+LWSG8KrgEbmc0XFwuh2H2q6i+HjmFtPcPnhTPPK1Vw1X4WMfCvqph3xgHZFOqtiIAhX77Tx8jsOVg6RGBDI/3viizX/5jBqJqilfrCV5orHtbL/SBmLM1jczKrvpDeNX43tRkOCWEkzzWACsYl62R4dNmt8YiAUqgstRFPefdFb1qovDDV+gfZU5XGXo249O29w+YWV353YDtltqoHk1uqm8eirDjmc+9qS/KddfmPZz1xNAASS5dnPWD3UJoqy6bzTAyj7pzgpS6UdIqzpTpBVXZqP6VtKO9BE5AN2gPAc3XKIKlBcMDvx3PFgT3j4es3lE/pGHIFdK0ZvWmjDB7ywbzHy8Iprbt7H60WTpXvUTr10FwsiYzCCsgPdTI+Q9c5A="
     },
     "name": "FTX 3070",
-    "tier": "RARE"
+    "tier": "RARE",
+    "npc_sell_price": 50000
   },
   "recipes": []
 }

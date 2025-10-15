@@ -3,7 +3,7 @@
   "name": "Inflatable Jerry",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 500,
   "lore": "&7&8Brewing Ingredient\n\n&7May it be a light to you in dark\n&7places, when all other lights go out.\n\n&cDungeons only!\n\n&f&lCOMMON DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -20,6 +20,7 @@
     "material": "MONSTER_EGG",
     "durability": 120,
     "name": "Inflatable Jerry",
+    "npc_sell_price": 500,
     "dungeon_item": true
   },
   "recipes": []

@@ -3,7 +3,7 @@
   "name": "L.A.S.R.'s Eye",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&8Precursor Relic\n\n&7The eye is mightier than the sword.\n\n&eRight-click to view recipes!\n\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -20,6 +20,7 @@
     "material": "EYE_OF_ENDER",
     "name": "L.A.S.R.'s Eye",
     "tier": "EPIC",
+    "npc_sell_price": 50000,
     "dungeon_item": true
   },
   "recipes": []

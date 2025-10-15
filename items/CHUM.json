@@ -3,7 +3,7 @@
   "name": "Chum",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 5,
   "lore": "&7Obtained from killing a sea creature\n&7with a nearby Chum Bucket.\n\n&7Deposit it in any Chum Bucket to earn\n&7&6+20 Coins &7and &3+10 Fishing XP&7!\n\n&a&lUNCOMMON&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "nnPjqAYQTcfxIitD7BO7gUm4T3ry4z50mVdzA1HZ2dSe+sLURqgRYDfpLvMgmehq5oUK4Z82V411+EoxvF2zTKg0y7LDv4U2/1Dcz8axdP5YMDmjJxU29D6kgp3DlRJK4Jn3yBLSni+9emGvnwMxTf74G5vmwq8SjVgETL56C+N6iTGt/foQXYB/ppjVTn8exFfBZeTV08bT14MUYb16l9OMDChDyZxBos/5TP6XHxMng4BgY+LThcoWCuBrGGsXOLOpQoyIz0LploiTYTdS7N7Twn/ABXU+qydZLsehncxtCSar2KCjiW4tr8xAo3u8UBkp7bkFfcvvuD71V2ZZR5+gXaWtMXZ44n8EbjIAM8vjOuvkikXtTbBkr1U5G5lNeTLVDLYdDn8Arz7cxltXIKLgOtuPDsroUHE6jUcAPpU/NWE4LEUaAd/wPNx0Le/mwN3t3W3d8zUAX9lVIfsfTC0j3VkgjnsGozrHawaQjywIs9fTh+840AnuLwqhDWabuXfS5NZZLCgrxhd0YGoR6ePGC3jdEe+Eh/s1/MAGT3wuA/x2jPwKFniSbH7zSBgMxgFDxD+bnHAs6Ur5VEeghpo81ofw5qE13eR19ieYDOM05zp4+oTfWoEXwUMJ5VoBv6NFxvXDFMem+utII3cPnR0pair56kGMFY8Kju8MGbg="
     },
     "name": "Chum",
-    "tier": "UNCOMMON"
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5
   },
   "recipes": []
 }

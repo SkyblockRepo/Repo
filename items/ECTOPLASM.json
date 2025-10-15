@@ -3,7 +3,7 @@
   "name": "Ectoplasm",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 10000,
   "lore": "&7Spooky, yet practical.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "PRISMARINE_CRYSTALS",
     "name": "Ectoplasm",
     "tier": "RARE",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 10000
   },
   "recipes": []
 }

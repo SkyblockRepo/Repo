@@ -3,7 +3,7 @@
   "name": "Trap",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 500,
   "lore": "&7&8Brewing Ingredient\n\n&7Place an explosive trap that\n&7triggers when mobs walk over it\n&7dealing &c20,000&7-&c250,000 &7damage\n&7based on the dungeon floor you are\n&7on.\n\n&cDungeons only!\n\n&a&lUNCOMMON DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -20,6 +20,7 @@
     "material": "IRON_PLATE",
     "name": "Trap",
     "tier": "UNCOMMON",
+    "npc_sell_price": 500,
     "dungeon_item": true
   },
   "recipes": []

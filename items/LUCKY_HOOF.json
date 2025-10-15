@@ -3,7 +3,7 @@
   "name": "Lucky Hoof",
   "category": "Accessory",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7Gain &a1% &7chance to find Trick or\n&7Treat Chests.\n\n&a&lUNCOMMON ACCESSORY&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "IRON_BARDING",
     "name": "Lucky Hoof",
     "category": "ACCESSORY",
-    "tier": "UNCOMMON"
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50000
   },
   "recipes": []
 }

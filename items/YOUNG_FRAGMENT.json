@@ -3,7 +3,7 @@
   "name": "Young Dragon Fragment",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 2500,
   "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "S9hed5j7L2T4pma1QzyApmBrS2jo7HVmqFnKLhYLA2bvRDaL3o8CGcr+UUb3fQUuH3bf3xxNIi344gqy4t+grJFAzqo35bsAzmPe/qi/eQym/kAIao+5teGCFZ4w1fO0JKPEI6ZKyc6Tam3A5bIgMqOABiM5GahBIpfg9zUWkDzyy+6aw48dIhMcPVY0cg4F+tphfbr3NDV24heY6AQnRAu+XkhytWssiFxz/ZyMV2aCEAswpxRJtuybQB65vWtfyqVbEt1zkwLSuNyzYASSzyHA6env7ZZSs4R4/QB9y2kcVt06j1ne+tKLX303iUQI5ChP/s6vjMmAat9j3BXJLgjVYsIfByJTGHvkURZzBY2G+7Ya47WvO54U2W3Yp6SQXHH5uqI/lszGDSixn1nUHK5oTaMCMh/SDZ7FPYH+M86GPpDxaVw5NasYKotu4UVDDi3FZN0dt3vj3wLrx/X4tHV7KhYjTAqneh5yvCAbnpAw5YK4+2NCpMa3SeqBm6cThBB4O/pEDTizMAHC/BFXJpcVxxtnwZ5mi+0TvrK/4TbCovkp8r7SzOTuh1SZJeDI7Xg7oJyu/XK3i3VxTx0ajFNlc8wk+Z0g6bAQFycTaPw6xUW1sH60WpYUmTYsPYBND262JVSBgQS8AnDH1tEhGejH6OLOn0gy04oHy0EZHTU="
     },
     "name": "Young Dragon Fragment",
-    "tier": "EPIC"
+    "tier": "EPIC",
+    "npc_sell_price": 2500
   },
   "recipes": []
 }

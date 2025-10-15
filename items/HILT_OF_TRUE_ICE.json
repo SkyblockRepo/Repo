@@ -3,7 +3,7 @@
   "name": "Hilt of True Ice",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 500000,
   "lore": "&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
   "flags": {
     "tradable": true,
@@ -21,6 +21,7 @@
     "name": "Hilt of True Ice",
     "tier": "LEGENDARY",
     "glowing": true,
+    "npc_sell_price": 500000,
     "salvages": [
       {
         "type": "ESSENCE",

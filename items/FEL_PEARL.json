@@ -3,7 +3,7 @@
   "name": "Fel Pearl",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 10000,
   "lore": "&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -20,6 +20,7 @@
     "material": "ENDER_PEARL",
     "name": "Fel Pearl",
     "tier": "RARE",
+    "npc_sell_price": 10000,
     "dungeon_item": true
   },
   "recipes": []

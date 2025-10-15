@@ -3,7 +3,7 @@
   "name": "Superior Dragon Fragment",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 5000,
   "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "B2l6s4oGFfcUNycsn1mMbNRBb81arbIaD+kipPHjOsDBMbvVOmT7bSf+ImoHLA6aLV50iG6OsA03+kNeWyC9cb+XdszifUvuONvloA9CMmsE3EMLAPpIINvPgMTsyDJN6srIsNdm1njYkXzgz74r5fyCoRF4JkZL9ygyKr02LyImXZRyXNGiI6pO508osNXFuDTPoAElabaAA/ZPWFqpAQ48JX259ZMNGV52oFJMTp70QUXqkPh2V0Lk6OoioGSl/P25mSlWKJ33vAxTlnKzkQ0Adw1e4DF2BpBj/DxXsiXB71rLYwHhZZnk1o/RL0doNJOOmrGTVnLJxoNYmlzbEecOGyHGqau0ADn9Yzsfrag+3oFwyeDdoOgr4irgqrH/fppIP7v3CUkd0+QPfhC6C1fhsVHWWIuHhfH3uMGPPO6UaD39QJkb57iKHtbCZmXLwy1J7FRcKwmv1Spjn0/j4EfpqefVvipMcgeszuXKtFo2yKvAOuoEq33rIgSgxxKB7pwAKqNTJDg9TEfAMI+l51Fl6c7dDYUjkhRktVBu54u2aJDIhuiQjVT7LBMsgH7zYzLdtsI7qym/2/FTm7XRnRvXWOBijk/XztMs6mSWG7GqF5U3T7D8+dszitMwh2uhY5XTvxUpBGJAxVYA3VRX2SkHoakefrQQEvlMq3iUNx4="
     },
     "name": "Superior Dragon Fragment",
-    "tier": "EPIC"
+    "tier": "EPIC",
+    "npc_sell_price": 5000
   },
   "recipes": []
 }

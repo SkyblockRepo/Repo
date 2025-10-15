@@ -3,7 +3,7 @@
   "name": "Jolly Pink Rock",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&8Precursor Relic\n\n&7The hottest shade of pink ever worn\n&7by a Giant.\n\n&eRight-click to view recipes!\n\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -20,6 +20,7 @@
     "material": "FIREWORK_CHARGE",
     "name": "Jolly Pink Rock",
     "tier": "EPIC",
+    "npc_sell_price": 50000,
     "dungeon_item": true
   },
   "recipes": []

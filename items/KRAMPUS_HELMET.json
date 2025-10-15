@@ -3,7 +3,7 @@
   "name": "Krampus Helmet",
   "category": "Helmet",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 500000,
   "lore": "&7Gains &c+1❤ &7per 50 gifts given by\n&7wearer.\n&8Max 500❤\n\n&7This item can be used as a minion\n&7upgrade. Place it in ONE minion and it\n&7will occasionally generate &cRed Gifts&7!\n\n&7&8This item can be reforged!\n&5&lEPIC HELMET&r",
   "flags": {
     "tradable": true,
@@ -26,6 +26,7 @@
     "name": "Krampus Helmet",
     "category": "HELMET",
     "tier": "EPIC",
+    "npc_sell_price": 500000,
     "museum_data": {
       "donation_xp": 5,
       "parent": {},

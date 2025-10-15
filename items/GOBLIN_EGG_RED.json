@@ -3,7 +3,7 @@
   "name": "§cRed Goblin Egg",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 25000,
   "lore": "&7&7''What came first the goblin or the''\n&7''egg?''\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -21,6 +21,7 @@
     "durability": 96,
     "name": "§cRed Goblin Egg",
     "tier": "RARE",
+    "npc_sell_price": 25000,
     "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
   },
   "recipes": []

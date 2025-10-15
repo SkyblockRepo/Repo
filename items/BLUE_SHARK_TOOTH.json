@@ -3,7 +3,7 @@
   "name": "Blue Shark Tooth",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 5000,
   "lore": "&7Dropped by a Shark during Fishing\n&7Festival.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "GHAST_TEAR",
     "name": "Blue Shark Tooth",
     "tier": "RARE",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 5000
   },
   "recipes": []
 }
