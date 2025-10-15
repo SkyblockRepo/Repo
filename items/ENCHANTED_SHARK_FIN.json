@@ -3,7 +3,7 @@
   "name": "Enchanted Shark Fin",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 32000,
   "lore": "&7&8Collection Item\n\n&7A razor-sharp shark fin designed to\n&7craft powerful items.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "PRISMARINE_SHARD",
     "name": "Enchanted Shark Fin",
     "tier": "EPIC",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 32000
   },
   "recipes": [
     {

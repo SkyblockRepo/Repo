@@ -3,7 +3,7 @@
   "name": "Unstable Dragon Fragment",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 2500,
   "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "fFqPTq8sRWUjb2NRa76kkNNbDehFRkjL3KNapnqLlQhSoxjS3dzYyhiY1jKw7YI9aXDsH+ruutLXkzZV763naU80s4Q/E3+WoHEtsrImhIsClHJ48UmtBRWFEFIm9xaemRygmpP0R6HjDYNsWjqTGott3zvufBaSW13mpB2k4eQIoOU5MfBY3t+BzqtU/+w7CKum+69DM2YGQbHEfhs+yJJMNRwSR1qM0Nf6omDQW2rClmSJSRtL1XALcHI4/Vd5DrNVSgJ/Zek7EB+jObzyV8Q0yV1Vn/6Sz059fKkSyGqgAUmo7VoCAGdoVJ9l7Uo4gXmuJkfQpk65SvnIG5NVtN9iVhqKbzJfVSMomTLis2QypGUw0V4ht1U+0q7uw3TqgU1ibTv59sz+CxRJ9XccdtmYZDpIwLMtHcjLZyCXkMU+8zarJBW8CcZrg/aXQqZiCyG0VrVUOlF31Z1xBYyuDqFBgrnerB+ALqVe5sVIWtV+y+bIOjyDMYKOfdKuzxmbQfenMkEPzmH3MF+qgUm81ZiObBU1ZoAcLLSh/WCCFZ53mcTnGEr9Z3wuLta5Fxr9XlE9++VcKUJ+eAHMGKNpeh7KNvWmHYoIJRzP9fFLf8MNwroXIl9tL7jadMCB29wD04BzyYCYwXzu2P8ZLjX2Pq3V+INJLUTGAwjIhfctA5g="
     },
     "name": "Unstable Dragon Fragment",
-    "tier": "EPIC"
+    "tier": "EPIC",
+    "npc_sell_price": 2500
   },
   "recipes": []
 }

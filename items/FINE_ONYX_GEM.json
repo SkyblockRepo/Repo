@@ -27,5 +27,62 @@
     "tier": "RARE",
     "npc_sell_price": 25600
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FINE_ONYX_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FINE_ONYX_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "FLAWED_ONYX_GEM",
+          "quantity": 16
+        }
+      }
+    }
+  ]
 }

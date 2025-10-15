@@ -3,7 +3,7 @@
   "name": "Thorn Fragment",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 10000,
   "lore": "&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -21,6 +21,7 @@
     "name": "Thorn Fragment",
     "tier": "RARE",
     "glowing": true,
+    "npc_sell_price": 10000,
     "dungeon_item": true
   },
   "recipes": []

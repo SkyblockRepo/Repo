@@ -3,7 +3,7 @@
   "name": "Vampire Fang",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 500000,
   "lore": "&7Use at &bKat &7to upgrade &eBat Pets &7to\n&7&dMythic &7rarity.\n\n&6&lLEGENDARY&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "GHAST_TEAR",
     "name": "Vampire Fang",
     "tier": "LEGENDARY",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 500000
   },
   "recipes": []
 }

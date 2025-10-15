@@ -3,7 +3,7 @@
   "name": "Control Switch",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7A key component needed by the\n&7Professor to repair &bAutomaton Prime\n&b&7in the &bLost Precursor City&7!\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "p7JglttXX3dvUpmfiFl9u8tkRhovtsGqFU3LnbwS/guojxqzaPtdzByYbNtyXqPNXBH+klRQIW2WGD7waYbcLp2ng3oqF+eANYnKE775xL26sVB+guko7xoHDCQ0C08xWdCBlHJBsh1msd8gEFhpGm2h2K5K2yj5C22k1rqMf54ModrRF7clm0TBPOZcPqUuXDRposnVPlrsU2WEF3pcBrHFLK+nO4V5s4Q/s6/9o1TpesCkSjdXbRYYIwc30yGJPU/fFpmYSGe4iREekZAoN5IrCV35S7RNv0fjxM6mYINbe/yu5DVoaFVuEuvLaNwlsxLV/gRIbF1MYsV7ugrGZeVbL9adFkD15rPBxZTlSjQrDJg9UaVl+1NMh+klmmGPLbD2iNT4TCIxSfL3JmJ2wGZ4A7fwluif/fSEfY6/EJtLnA48T7rJVkpdhB3rHXrVqYd1CAb+PwG22kABuSDZxUo3xnGiYOwr9rBt2hFDqms8jKSsUCMe7Hy/mXDz0lpeAMf/Y6ZD4zuKkuPRJCapMFNNOvvkrxWjLYYQyC3NfNQaLq41onoEWWkzT/oq0+4FZ8PbwFoBlH8i/gQHMKQ+HBZwPiFqPKseK/zX41f6TDi/8HexJSwK3Tm09TjokV5QQLKL3pnAkglYqZs/DGQeL8yDmxhnoptefYtcZTy6oag="
     },
     "name": "Control Switch",
-    "tier": "RARE"
+    "tier": "RARE",
+    "npc_sell_price": 50000
   },
   "recipes": []
 }

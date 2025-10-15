@@ -3,7 +3,7 @@
   "name": "Bobbin' Scriptures",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 35000,
+  "npcValue": 250000,
   "lore": "&7The sacred ways of bobbin', written\n&7by a long-forgotten worshipper of\n&7Kuudra.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -26,7 +26,7 @@
     "name": "Bobbin' Scriptures",
     "tier": "RARE",
     "unstackable": true,
-    "npc_sell_price": 35000,
+    "npc_sell_price": 250000,
     "description": "The sacred ways of bobbin', written by a long-forgotten worshipper of Kuudra."
   },
   "recipes": []

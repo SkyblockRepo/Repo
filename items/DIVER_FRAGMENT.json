@@ -3,7 +3,7 @@
   "name": "Emperor's Skull",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 100,
+  "npcValue": 50000,
   "lore": "&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -25,7 +25,7 @@
     },
     "name": "Emperor's Skull",
     "tier": "RARE",
-    "npc_sell_price": 100
+    "npc_sell_price": 50000
   },
   "recipes": []
 }

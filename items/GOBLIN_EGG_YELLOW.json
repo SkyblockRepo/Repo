@@ -3,7 +3,7 @@
   "name": "§eYellow Goblin Egg",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 10000,
   "lore": "&7&7''What came first the goblin or the''\n&7''egg?''\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -21,6 +21,7 @@
     "durability": 61,
     "name": "§eYellow Goblin Egg",
     "tier": "RARE",
+    "npc_sell_price": 10000,
     "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
   },
   "recipes": []

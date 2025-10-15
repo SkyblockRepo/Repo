@@ -3,7 +3,7 @@
   "name": "Radioactive Vial",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 100000,
+  "npcValue": 5000000,
   "lore": "&7Use at &bKat &7to upgrade &eFlying Fish\n&ePets &7to &dMythic &7rarity.\n\n&d&lMYTHIC&r",
   "flags": {
     "tradable": true,
@@ -25,7 +25,7 @@
     },
     "name": "Radioactive Vial",
     "tier": "MYTHIC",
-    "npc_sell_price": 100000
+    "npc_sell_price": 5000000
   },
   "recipes": []
 }

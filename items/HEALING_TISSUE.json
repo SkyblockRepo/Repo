@@ -3,7 +3,7 @@
   "name": "Healing Tissue",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 5000,
   "lore": "&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -20,6 +20,7 @@
     "material": "ROTTEN_FLESH",
     "name": "Healing Tissue",
     "tier": "RARE",
+    "npc_sell_price": 5000,
     "dungeon_item": true
   },
   "recipes": []

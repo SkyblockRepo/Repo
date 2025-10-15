@@ -3,7 +3,7 @@
   "name": "Synthetic Heart",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7A key component needed by the\n&7Professor to repair &bAutomaton Prime\n&b&7in the &bLost Precursor City&7!\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "nI4yuyMqRUTV5JYIt8b0fRWCh4W8Zi0vDHqhxPH0zWfpc1Xne9jaP5newEwnh9oM0W6GX4LZPAspKLKVatoMCbp2sjuQAHt7ctp/LvsIs5+ijUUnCsyVk6dy+9DqZIQnVwMMCh8UI2ENB4cv7oLZTGy8423CBO//NlKI+u5La6OyDuY+I/K1PIZkeB5ZmZZ5Au2XZKRRKLG4O1zdspGpj3YKgP+deGyqUTmjI0uv80Re7DwoxDzLIGfobqrVKPtGDNI8r69aeO/10ChTvOsJsGdSHmGkblcnlFDO2PVIfhT/NUsvWcuDrVTckbAkNpcYozujdh4zGaQWVfmskChHPTqG75gDaUSP/ccBl1W0ZKVeqKZV1OgwOxxTxKymLcoqEu7fqAiF8fFYEhXP8zEbA9kzdq7Hqc4JWJKCyGnhScztNsnXX9fvtdfkJnNcoj+5drVSPdXN88G+DtH5nq5j+w2WSL1b6IX9eOqCTKq/u2WqqkJ/GOHn8YVFUrWUVCvLQzha9kSsNAgZgcdfTc+O5bL072DK/qQWDuojhlRIJJXVSHpK02R5fYfKh9zynOsoTtBS/Yo2ucy61L0YLC8cUi1tnXy9mAJQA/E5HrUbaZr45KDtJfPUDBo/u2Hc1KBfn2nwJ7v/lWesnWvQzBYlsin0QGkdui+2aAoFj744PzI="
     },
     "name": "Synthetic Heart",
-    "tier": "RARE"
+    "tier": "RARE",
+    "npc_sell_price": 50000
   },
   "recipes": []
 }

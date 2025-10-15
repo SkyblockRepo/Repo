@@ -3,7 +3,7 @@
   "name": "Old Dragon Fragment",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 2500,
   "lore": "&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -24,7 +24,8 @@
       "signature": "dHcHHbPSyeCYRSXg5eK217Tio/cVVEB8WYXBPbx7/oOcX9iIQjytkKZP5F8eW8pKZhO+C/Xj/ya4sRmQ7IohOPbI1xPOU36x37Hg+JFwryrt9MI+q5NvMlhD0PNiULuekWX7L/n9BPoLGZfyIcrPAFUFZfFBU8DHYTzWA08rGUF3cAhvsjpSRv+gwW/e8ZPyNurxHw0Q/M6QMTvbnW2IKtuKEEHtWuGJa+k72Efm4WMUok0F92UhIMUK3PFjX8inq8jv7eKXLp/vaxf/Z1hTcf03BNBPuzvcweMeEzb91ve+b32CKPGeG3qw7bbOga841bRULJyOM0sxoDP7USM78GwMhgWUci6FLOTLO9ZnBRbMvV0MrSmd7y69crw4uJWLn44VkSYdB4BTGko51aeQpWc4UX6L9yzg59SfC7RsQDbr3QHmFjmfgVOKRqUZ+9hewbLfaUnw7V9Gz8JFHoHiQuaA0QN8CEEyot3ScIS/7Yg4HWpA3Z5WF1jyN1RMTLm6sp3oDTljRwmQn7ipXKMXJOVGgz0/QtzsXs6KXUkQZafQafLhQU9G/hGCbmNGCQe0Kfwrd1M+V5Sc+3ewBjnJ7EgWldicZFFyZAjHRMB6ZFif1wZr+A434xfwPdDMllg/fmnG/EzgOvoC+wa5xKS4IYzQs23jBxtZdEXGurlYPPw="
     },
     "name": "Old Dragon Fragment",
-    "tier": "EPIC"
+    "tier": "EPIC",
+    "npc_sell_price": 2500
   },
   "recipes": []
 }

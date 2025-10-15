@@ -3,7 +3,7 @@
   "name": "Exp Share Core",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7&7Used to craft the Exp Share pet item.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "INK_SACK",
     "durability": 11,
     "name": "Exp Share Core",
-    "tier": "EPIC"
+    "tier": "EPIC",
+    "npc_sell_price": 50000
   },
   "recipes": []
 }

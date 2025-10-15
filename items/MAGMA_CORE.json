@@ -3,7 +3,7 @@
   "name": "Magma Core",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 200000,
   "lore": "&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -19,7 +19,8 @@
     "id": "MAGMA_CORE",
     "material": "MAGMA_CREAM",
     "name": "Magma Core",
-    "tier": "RARE"
+    "tier": "RARE",
+    "npc_sell_price": 200000
   },
   "recipes": []
 }
