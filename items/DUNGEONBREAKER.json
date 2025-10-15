@@ -1,0 +1,37 @@
+{
+  "internalId": "DUNGEONBREAKER",
+  "name": "Dungeonbreaker",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUNGEONBREAKER",
+    "material": "DIAMOND_PICKAXE",
+    "name": "Dungeonbreaker",
+    "tier": "SPECIAL",
+    "glowing": true,
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {},
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    },
+    "stats": {
+      "WALK_SPEED": 20
+    },
+    "has_uuid": true
+  },
+  "recipes": []
+}

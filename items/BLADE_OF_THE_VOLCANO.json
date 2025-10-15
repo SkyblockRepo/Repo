@@ -3,7 +3,7 @@
   "name": "Blade of the Volcano",
   "category": "Sword",
   "source": "HypixelAPI",
-  "npcValue": 5000,
+  "npcValue": 50000,
   "lore": "&7Damage: &c+220\n&7Strength: &c+70\n&7Crit Damage: &c+20%\n\n&7A powerful blade forged in the\n&7depths of the &6Blazing Volcano&7.\n\n&7&7Gain &c+100❁ Strength &7against enemies\n&7who are in lava.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aCombat Skill 22&c.\n&9&lRARE SWORD&r",
   "flags": {
     "tradable": true,
@@ -22,7 +22,7 @@
     "category": "SWORD",
     "tier": "RARE",
     "glowing": true,
-    "npc_sell_price": 5000,
+    "npc_sell_price": 50000,
     "requirements": [
       {
         "type": "SKILL",
@@ -233,8 +233,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 10,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 10
       }
     ]
   },

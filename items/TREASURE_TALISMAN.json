@@ -3,7 +3,7 @@
   "name": "Treasure Talisman",
   "category": "Accessory",
   "source": "HypixelAPI",
-  "npcValue": 1000,
+  "npcValue": 10000,
   "lore": "&7Grants &a+1% &7extra loot to end of\n&7dungeon chests.\n\n&eRight-click to view recipes!\n\n&9&lRARE DUNGEON ACCESSORY&r",
   "flags": {
     "tradable": true,
@@ -26,13 +26,13 @@
     "name": "Treasure Talisman",
     "category": "ACCESSORY",
     "tier": "RARE",
-    "npc_sell_price": 1000,
+    "npc_sell_price": 10000,
     "dungeon_item": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 15,
-        "essence_type": "GOLD"
+        "essence_type": "GOLD",
+        "amount": 15
       }
     ]
   },

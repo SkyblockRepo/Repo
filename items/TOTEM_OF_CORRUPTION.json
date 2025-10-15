@@ -20,37 +20,9 @@
     "material": "BANNER",
     "durability": 15,
     "name": "Totem of Corruption",
+    "category": "DEPLOYABLE",
     "tier": "UNCOMMON",
     "npc_sell_price": 96000
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "TOTEM_OF_CORRUPTION",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_SULPHUR",
-          "quantity": 10
-        },
-        "5": {
-          "itemId": "ENCHANTED_SULPHUR",
-          "quantity": 10
-        },
-        "7": {
-          "itemId": "MAGMA_CHUNK",
-          "quantity": 30
-        },
-        "8": {
-          "itemId": "CORRUPTED_FRAGMENT",
-          "quantity": 20
-        },
-        "9": {
-          "itemId": "MAGMA_CHUNK",
-          "quantity": 30
-        }
-      }
-    }
-  ]
+  "recipes": []
 }
