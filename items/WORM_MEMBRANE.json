@@ -3,7 +3,7 @@
   "name": "Worm Membrane",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 15000,
   "lore": "&a&lUNCOMMON&r",
   "flags": {
     "tradable": true,
@@ -19,7 +19,8 @@
     "id": "WORM_MEMBRANE",
     "material": "ROTTEN_FLESH",
     "name": "Worm Membrane",
-    "tier": "UNCOMMON"
+    "tier": "UNCOMMON",
+    "npc_sell_price": 15000
   },
   "recipes": []
 }

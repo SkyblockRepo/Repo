@@ -3,7 +3,7 @@
   "name": "Nurse Shark Tooth",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 500,
   "lore": "&7Dropped by a Shark during Fishing\n&7Festival.\n\n&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "GHAST_TEAR",
     "name": "Nurse Shark Tooth",
     "tier": "UNCOMMON",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 500
   },
   "recipes": []
 }

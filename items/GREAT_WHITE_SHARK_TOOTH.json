@@ -3,7 +3,7 @@
   "name": "Great White Shark Tooth",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 500000,
   "lore": "&7Dropped by a Shark during Fishing\n&7Festival.\n\n&eRight-click to view recipes!\n\n&6&lLEGENDARY&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,8 @@
     "material": "GHAST_TEAR",
     "name": "Great White Shark Tooth",
     "tier": "LEGENDARY",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 500000
   },
   "recipes": []
 }

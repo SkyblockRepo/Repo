@@ -3,7 +3,7 @@
   "name": "Bigfoot's Bola",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&8Precursor Relic\n\n&7Hard to throw, even harder to catch.\n\n&eRight-click to view recipes!\n\n&5&lEPIC DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -21,6 +21,7 @@
     "name": "Bigfoot's Bola",
     "tier": "EPIC",
     "glowing": true,
+    "npc_sell_price": 50000,
     "dungeon_item": true
   },
   "recipes": []

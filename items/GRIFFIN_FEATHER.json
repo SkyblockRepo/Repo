@@ -3,7 +3,7 @@
   "name": "Griffin Feather",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 1000,
+  "npcValue": 5000,
   "lore": "&7Drops rarely off of monsters from\n&7Diana's Mythological Ritual.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,7 @@
     "material": "FEATHER",
     "name": "Griffin Feather",
     "tier": "RARE",
-    "npc_sell_price": 1000
+    "npc_sell_price": 5000
   },
   "recipes": []
 }

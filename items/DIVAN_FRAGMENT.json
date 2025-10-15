@@ -3,7 +3,7 @@
   "name": "Divan Fragment",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 200000,
   "lore": "&7&7''One of the greatest alloys naturally''\n&7''found in the Crystal Hollows, named''\n&7''after the first Dwarf to find them.''\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -25,6 +25,7 @@
     },
     "name": "Divan Fragment",
     "tier": "EPIC",
+    "npc_sell_price": 200000,
     "description": "%%gray%%One of the greatest alloys naturally found in the Crystal Hollows, named after the first Dwarf to find them."
   },
   "recipes": []

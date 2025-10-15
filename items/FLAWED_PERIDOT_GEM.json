@@ -3,7 +3,7 @@
   "name": "Flawed Peridot Gemstone",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 240,
+  "npcValue": 320,
   "lore": "&7&8Collection Item\n\n&7A slightly better version of &2Peridot&7,\n&7but it could still use some work.\n\n&7&7Some say that when &eharnessed\n&eproperly&7, it can give its owner extra\n&7&6☘ Farming Fortune&7; others say it\n&7might give bonus &fFossil Dust&7.\n\n&a&lUNCOMMON GEMSTONE&r",
   "flags": {
     "tradable": true,
@@ -25,64 +25,7 @@
     },
     "name": "Flawed Peridot Gemstone",
     "tier": "UNCOMMON",
-    "npc_sell_price": 240
+    "npc_sell_price": 320
   },
-  "recipes": [
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "FLAWED_PERIDOT_GEM",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "2": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "3": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FLAWED_PERIDOT_GEM",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "ROUGH_PERIDOT_GEM",
-          "quantity": 16
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

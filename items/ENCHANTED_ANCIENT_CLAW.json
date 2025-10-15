@@ -3,7 +3,7 @@
   "name": "Enchanted Ancient Claw",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 32000,
   "lore": "&7&8Collection Item\n\n&7Drops rarely off of monsters from\n&7Diana's Mythological Ritual.\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -20,64 +20,8 @@
     "material": "FLINT",
     "name": "Enchanted Ancient Claw",
     "tier": "EPIC",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 32000
   },
-  "recipes": [
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "ENCHANTED_ANCIENT_CLAW",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_ANCIENT_CLAW",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

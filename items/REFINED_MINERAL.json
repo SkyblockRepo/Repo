@@ -3,7 +3,7 @@
   "name": "Refined Mineral",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 2000,
+  "npcValue": 100000,
   "lore": "&7A material so pure it comes\n&7pre-refined from its place of origin.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -21,7 +21,7 @@
     "durability": 12,
     "name": "Refined Mineral",
     "tier": "RARE",
-    "npc_sell_price": 2000
+    "npc_sell_price": 100000
   },
   "recipes": []
 }

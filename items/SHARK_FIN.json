@@ -3,7 +3,7 @@
   "name": "Shark Fin",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 200,
   "lore": "&7Dropped by a Shark during Fishing\n&7Festival.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -19,7 +19,8 @@
     "id": "SHARK_FIN",
     "material": "PRISMARINE_SHARD",
     "name": "Shark Fin",
-    "tier": "RARE"
+    "tier": "RARE",
+    "npc_sell_price": 200
   },
   "recipes": []
 }

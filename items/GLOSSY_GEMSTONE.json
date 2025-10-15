@@ -3,7 +3,7 @@
   "name": "Glossy Gemstone",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 4000,
+  "npcValue": 200000,
   "lore": "&7''You can see thousands of glittering''\n&7''reflections as you stare into its''\n&7''intricate patterns. Maybe you should''\n&7''stop gazing and keep mining...''\n\n&eRight-click to view recipes!\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -21,7 +21,7 @@
     "durability": 5,
     "name": "Glossy Gemstone",
     "tier": "EPIC",
-    "npc_sell_price": 4000
+    "npc_sell_price": 200000
   },
   "recipes": []
 }
