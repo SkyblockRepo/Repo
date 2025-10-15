@@ -1,14 +1,14 @@
 {
   "internalId": "DUNGEONBREAKER",
   "name": "Dungeonbreaker",
-  "category": null,
+  "category": "Pickaxe",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Speed: &f+20\n\n\n\n&6Ability: Dungeon Breaker &e&lDIG&r\n\n&7While in &cThe Catacombs&7, consume &e1&c⸕\n\n&7charge to break a block. &320&7 blocks can\n\n&7be broken at a time, and re-appear after\n\n&a10s&7. &e2&c⸕&7 charges are regenerated each\n\n&7second.\n\n\n\n\n&7Charges: &e20&7/&e20&c⸕\n\n\n\n&c&lSPECIAL DUNGEON PICKAXE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
