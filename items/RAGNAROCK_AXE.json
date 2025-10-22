@@ -267,6 +267,26 @@
           "quantity": 1
         }
       }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "RAGNAROCK_AXE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "HALLOWED_SKULL",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "HALLOWED_SKULL",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
     }
   ]
 }
