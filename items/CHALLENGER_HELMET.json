@@ -16,5 +16,34 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHALLENGER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }

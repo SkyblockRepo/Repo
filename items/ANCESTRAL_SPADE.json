@@ -19,8 +19,18 @@
     "id": "ANCESTRAL_SPADE",
     "material": "WOOD_SPADE",
     "name": "Ancestral Spade",
+    "category": "SPADE",
     "tier": "RARE",
-    "glowing": true
+    "glowing": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {
+        "ANCESTRAL_SPADE": "ARCHAIC_SPADE"
+      },
+      "type": "RARITIES",
+      "game_stage": "AMATEUR",
+      "mapped_item_ids": []
+    }
   },
   "recipes": []
 }

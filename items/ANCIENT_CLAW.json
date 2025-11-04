@@ -4,7 +4,7 @@
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 200,
-  "lore": "&7Drops rarely off of monsters from\n&7Diana's Mythological Ritual.\n\n&eRight-click to view recipes!\n\n&9&lRARE&r",
+  "lore": "&7The claw of an ancient beast,\n\n&7hardened by time and countless\n\n&7battles.\n\n\n\n&eRight-click to view recipes!\n\n\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
     "bazaarable": true,
@@ -20,7 +20,8 @@
     "material": "FLINT",
     "name": "Ancient Claw",
     "tier": "RARE",
-    "npc_sell_price": 200
+    "npc_sell_price": 200,
+    "description": "The claw of an ancient beast, hardened by time and countless battles."
   },
   "recipes": []
 }

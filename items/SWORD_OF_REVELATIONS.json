@@ -21,9 +21,17 @@
     "name": "Sword of Revelations",
     "category": "SWORD",
     "tier": "EPIC",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
     "museum_data": {
-      "donation_xp": 8,
-      "parent": {},
+      "donation_xp": 4,
+      "parent": {
+        "SWORD_OF_REVELATIONS": "DAEDALUS_AXE"
+      },
       "type": "WEAPONS",
       "game_stage": "SKILLED",
       "mapped_item_ids": []
@@ -33,50 +41,5 @@
       "STRENGTH": 50
     }
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SWORD_OF_REVELATIONS",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "ENCHANTED_ANCIENT_CLAW",
-          "quantity": 8
-        },
-        "3": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "6": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

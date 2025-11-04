@@ -1,0 +1,65 @@
+{
+  "internalId": "DEIFIC_SPADE",
+  "name": "Deific Spade",
+  "category": "SPADE",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7Use to reveal and dig up &eGriffin\n\n&eBurrows &7in the hub while Diana's\n\n&2Mythological Ritual &7is active.\n\n\n\n&7Maximum Burrow Chain Length: &a8\n\n\n\n&7Burrows dug with this item may contain:\n\n&8 ● &cMonsters\n\n&8 ● &fGriffin Feathers\n\n&8 ● &6Coins\n\n&8 ● &9Mythos Fragments\n\n&8 ● &5Braided Griffin Feathers\n\n\n\n&6Ability: Echo  &e&lRIGHT CLICK&r\n\n&7Show the way to the next or nearby Griffin\n\n&7burrow.\n\n&8Cooldown: &a1s\n\n\n\n&8This item can be reforged!\n\n&6&lLEGENDARY &r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DEIFIC_SPADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "BRAIDED_GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "ARCHAIC_SPADE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "HILT_OF_REVELATIONS",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

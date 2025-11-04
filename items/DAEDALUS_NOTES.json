@@ -1,0 +1,26 @@
+{
+  "internalId": "DAEDALUS_NOTES",
+  "name": "Daedalus' Notes",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DAEDALUS_NOTES",
+    "material": "BOOK",
+    "name": "Daedalus' Notes",
+    "category": "REFORGE_STONE",
+    "tier": "EPIC"
+  },
+  "recipes": []
+}

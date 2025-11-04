@@ -1,0 +1,61 @@
+{
+  "internalId": "ANGUISH_TALISMAN",
+  "name": "Anguish Talisman",
+  "category": "Accessory",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7True Defense: &f+0.5\n\n&7Magic Find: &b+1\n\n\n\n&8''Why are we still here? Just to''\n\n&8''suffer?''\n\n\n\n&9&lRARE ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANGUISH_TALISMAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SORROW",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "SORROW",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "SORROW",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "SORROW",
+          "quantity": 4
+        }
+      }
+    }
+  ]
+}

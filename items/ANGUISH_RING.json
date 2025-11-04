@@ -1,0 +1,65 @@
+{
+  "internalId": "ANGUISH_RING",
+  "name": "Anguish Ring",
+  "category": "Accessory",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&7True Defense: &f+1\n\n&7Magic Find: &b+2\n\n\n\n&8''Why are we still here? Just to''\n\n&8''suffer?''\n\n\n\n&5&lEPIC ACCESSORY&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": true,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": null,
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANGUISH_RING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SORROW",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "PLASMA",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "SORROW",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "PLASMA",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ANGUISH_TALISMAN",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PLASMA",
+          "quantity": 8
+        },
+        "7": {
+          "itemId": "SORROW",
+          "quantity": 8
+        },
+        "8": {
+          "itemId": "PLASMA",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "SORROW",
+          "quantity": 8
+        }
+      }
+    }
+  ]
+}

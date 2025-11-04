@@ -3,7 +3,7 @@
   "name": "Antique Remedies",
   "category": "Pet Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 250000,
   "lore": "&8Consumed on use\n\n&aPet Items &7can boost pets in many powerful ways!\n&7A pet can only hold one &aPet Item &7at a time.\n&7The pet must be &evisible &7to apply the item!\n\n&7&7Increases the pet's &c❁ Strength &7by\n&7&a80%&7.\n\n&7&eRight-click on your summoned pet to\n&egive it this item!\n\n&5&lEPIC PET ITEM&r",
   "flags": {
     "tradable": true,
@@ -22,7 +22,8 @@
     "name": "Antique Remedies",
     "category": "PET_ITEM",
     "tier": "EPIC",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 250000
   },
   "recipes": []
 }
