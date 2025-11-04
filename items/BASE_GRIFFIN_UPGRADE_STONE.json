@@ -25,5 +25,50 @@
     },
     "name": "Base Griffin Upgrade Stone"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BASE_GRIFFIN_UPGRADE_STONE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "ENCHANTED_COBBLESTONE",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }

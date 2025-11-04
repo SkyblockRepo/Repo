@@ -36,6 +36,50 @@
       "crafting": {
         "1": {
           "itemId": "GRIFFIN_FEATHER",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "BASE_GRIFFIN_UPGRADE_STONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GRIFFIN_UPGRADE_STONE_UNCOMMON",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRIFFIN_FEATHER",
           "quantity": 2
         },
         "2": {

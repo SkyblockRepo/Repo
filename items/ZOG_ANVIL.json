@@ -26,5 +26,42 @@
     "name": "Zog Anvil",
     "tier": "RARE"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ZOG_ANVIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 16
+        }
+      }
+    }
+  ]
 }
