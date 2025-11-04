@@ -16,5 +16,34 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MYTHOS_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "CHALLENGER_HELMET",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }

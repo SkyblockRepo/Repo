@@ -16,5 +16,42 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEPHAESTUS_ANVIL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BRAIDED_GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "BRAIDED_GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ZOG_ANVIL",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

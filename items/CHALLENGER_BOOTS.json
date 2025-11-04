@@ -16,5 +16,30 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHALLENGER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 32
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 2
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }

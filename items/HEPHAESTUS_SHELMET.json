@@ -16,5 +16,30 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEPHAESTUS_SHELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "DWARF_TURTLE_SHELMET",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "DWARF_TURTLE_SHELMET",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HEPHAESTUS_ANVIL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "DWARF_TURTLE_SHELMET",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

@@ -16,5 +16,46 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MYTHOS_BRACELET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "CHALLENGER_BRACELET",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }

@@ -16,5 +16,46 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHALLENGER_BRACELET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }
