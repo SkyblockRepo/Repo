@@ -27,5 +27,50 @@
     "tier": "EPIC",
     "can_recombobulate": false
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GRIFFIN_UPGRADE_STONE_EPIC",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 6
+        },
+        "3": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 2
+        },
+        "5": {
+          "itemId": "BASE_GRIFFIN_UPGRADE_STONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 2
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 6
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 16
+        }
+      }
+    }
+  ]
 }

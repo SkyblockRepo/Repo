@@ -3,7 +3,7 @@
   "name": "Braided Griffin Feather",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 1000000,
   "lore": "&7The exquisite feather of a mythical\n\n&7creature. Its woven strands shimmer\n\n&7with an inimitable grace and majesty.\n\n\n\n&eRight-click to view recipes!\n\n\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -20,7 +20,9 @@
     "material": "STRING",
     "name": "Braided Griffin Feather",
     "tier": "EPIC",
-    "glowing": true
+    "glowing": true,
+    "npc_sell_price": 1000000,
+    "description": "The exquisite feather of a mythical creature. Its woven strands shimmer with an inimitable grace and majesty."
   },
   "recipes": [
     {

@@ -27,5 +27,50 @@
     "tier": "LEGENDARY",
     "can_recombobulate": false
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GRIFFIN_UPGRADE_STONE_LEGENDARY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "BASE_GRIFFIN_UPGRADE_STONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 8
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }
