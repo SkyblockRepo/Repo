@@ -1,0 +1,48 @@
+{
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANGUISH_ARTIFACT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SORROW",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "PLASMA",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "SORROW",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "PLASMA",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ANGUISH_RING",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "PLASMA",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "SORROW",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "PLASMA",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "SORROW",
+          "quantity": 16
+        }
+      }
+    }
+  ]
+}
