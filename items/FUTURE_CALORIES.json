@@ -34,5 +34,50 @@
     "rift_transferrable": true,
     "soulbound": "SOLO"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FUTURE_CALORIES",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 24
+        },
+        "3": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "PRE_DIGESTION_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 24
+        },
+        "9": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }
