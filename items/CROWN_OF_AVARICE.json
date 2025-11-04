@@ -36,54 +36,9 @@
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 160,
-      "DEFENSE": 110
+      "DEFENSE": 100,
+      "HEALTH": 200
     }
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CROWN_OF_AVARICE",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 16
-        },
-        "2": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "3": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "5": {
-          "itemId": "CROWN_OF_GREED",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "AVARICIOUS_CHALICE",
-          "quantity": 2
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 16
-        }
-      }
-    }
-  ]
+  "recipes": []
 }

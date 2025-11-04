@@ -24,32 +24,7 @@
     "gemstone_slots": [
       {
         "slot_type": "COMBAT",
-        "costs": [
-          {
-            "type": "COINS",
-            "coins": 50000
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_JASPER_GEM",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_SAPPHIRE_GEM",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_RUBY_GEM",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "FINE_AMETHYST_GEM",
-            "amount": 20
-          }
-        ]
+        "costs": []
       },
       {
         "slot_type": "COMBAT",
@@ -82,7 +57,7 @@
       }
     ],
     "museum_data": {
-      "donation_xp": 10,
+      "donation_xp": 8,
       "parent": {},
       "type": "WEAPONS",
       "game_stage": "PROFESSIONAL",
