@@ -16,5 +16,46 @@
     "sackable": false
   },
   "data": null,
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MANTICORE_CLAW",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "MANTI_CORE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }
