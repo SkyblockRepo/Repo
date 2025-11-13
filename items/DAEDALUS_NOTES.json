@@ -22,5 +22,50 @@
     "category": "REFORGE_STONE",
     "tier": "EPIC"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DAEDALUS_NOTES",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "DAEDALUS_STICK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }
