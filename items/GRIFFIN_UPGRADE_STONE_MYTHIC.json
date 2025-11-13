@@ -1,14 +1,14 @@
 {
   "internalId": "GRIFFIN_UPGRADE_STONE_MYTHIC",
   "name": "Mythic Griffin Upgrade Stone",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Use at &bKat &7to upgrade &eGriffin Pets\n&7from &6Legendary &7to &dMythic&7.\n\n&d&lMYTHIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
