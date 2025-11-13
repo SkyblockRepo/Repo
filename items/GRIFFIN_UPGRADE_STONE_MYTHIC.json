@@ -1,14 +1,14 @@
 {
   "internalId": "GRIFFIN_UPGRADE_STONE_MYTHIC",
   "name": "Mythic Griffin Upgrade Stone",
-  "category": null,
+  "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&7Use at &bKat &7to upgrade &eGriffin Pets\n&7from &6Legendary &7to &dMythic&7.\n\n&d&lMYTHIC&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -27,5 +27,50 @@
     "tier": "MYTHIC",
     "can_recombobulate": false
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GRIFFIN_UPGRADE_STONE_MYTHIC",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "BRAIDED_GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 48
+        },
+        "3": {
+          "itemId": "BRAIDED_GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "BASE_GRIFFIN_UPGRADE_STONE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

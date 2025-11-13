@@ -1,14 +1,14 @@
 {
   "internalId": "DAEDALUS_NOTES",
   "name": "Daedalus' Notes",
-  "category": null,
+  "category": "Reforge Stone",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "",
+  "lore": "&8Reforge Stone\n\n&8Combinable in Reforge Anvil\n\n\n\n&7Applies the &9Erudite &7reforge when\n\n&7combined with &9Ancestral Spade&7,\n\n&5Archaic Spade&7, and &6Deific Spade&7.\n\n\n\n&8''One of the greatest minds of his time.''\n\n&8''Much can be learned from what''\n\n&8''Daedalus left behind.''\n\n\n\n&9Erudite &7(&6Legendary&7):\n\n&7Speed: &f+15\n\n\n\n&9Erudite Bonus\n\n&eGriffin Burrow &7chains always consist\n\n&7of &a2 &7additional burrows.\n\n\n\n&7Requires &aMining Skill Level XXX&7!\n\n\n\n&5&lEPIC REFORGE STONE&r",
   "flags": {
-    "tradable": false,
+    "tradable": true,
     "bazaarable": false,
-    "auctionable": false,
+    "auctionable": true,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
@@ -22,5 +22,50 @@
     "category": "REFORGE_STONE",
     "tier": "EPIC"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "DAEDALUS_NOTES",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "DAEDALUS_STICK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_PAPER",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }
