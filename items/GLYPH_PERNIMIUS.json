@@ -1,6 +1,6 @@
 {
   "internalId": "GLYPH_PERNIMIUS",
-  "name": "Pernimius Glyph",
+  "name": "Glyph Pernimius",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "GLYPH_PERNIMIUS",
+    "name": "Glyph Pernimius"
+  },
   "recipes": []
 }

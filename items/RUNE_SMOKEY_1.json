@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SMOKEY_1",
-  "name": "◆ Smokey Rune I",
+  "name": "Rune Smokey 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SMOKEY_1",
+    "name": "Rune Smokey 1"
+  },
   "recipes": []
 }

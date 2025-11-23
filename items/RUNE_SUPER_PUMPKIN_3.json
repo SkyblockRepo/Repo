@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SUPER_PUMPKIN_3",
-  "name": "◆ Super Pumpkin Rune III",
+  "name": "Rune Super Pumpkin 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SUPER_PUMPKIN_3",
+    "name": "Rune Super Pumpkin 3"
+  },
   "recipes": []
 }

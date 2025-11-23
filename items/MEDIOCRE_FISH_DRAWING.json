@@ -1,6 +1,6 @@
 {
   "internalId": "MEDIOCRE_FISH_DRAWING",
-  "name": "Mediocre Drawing Of A Fish",
+  "name": "Mediocre Fish Drawing",
   "category": "Memento",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "MEDIOCRE_FISH_DRAWING",
+    "name": "Mediocre Fish Drawing"
+  },
   "recipes": []
 }

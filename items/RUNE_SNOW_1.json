@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SNOW_1",
-  "name": "◆ Snow Rune I",
+  "name": "Rune Snow 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SNOW_1",
+    "name": "Rune Snow 1"
+  },
   "recipes": []
 }

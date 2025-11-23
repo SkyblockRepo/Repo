@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_CLOUDS_2",
-  "name": "◆ Clouds Rune II",
+  "name": "Rune Clouds 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_CLOUDS_2",
+    "name": "Rune Clouds 2"
+  },
   "recipes": []
 }

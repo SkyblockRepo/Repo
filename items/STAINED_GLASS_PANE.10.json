@@ -1,6 +1,6 @@
 {
   "internalId": "STAINED_GLASS_PANE.10",
-  "name": "Purple Stained Glass Pane",
+  "name": "Stained Glass PANE.10",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "STAINED_GLASS_PANE.10",
+    "name": "Stained Glass PANE.10"
+  },
   "recipes": []
 }

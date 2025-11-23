@@ -1,6 +1,6 @@
 {
   "internalId": "GIFT_GREEN_BACKPACK",
-  "name": "Green Gift Backpack Skin",
+  "name": "Gift Green Backpack",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "GIFT_GREEN_BACKPACK",
+    "name": "Gift Green Backpack"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_MUSIC_3",
-  "name": "◆ Music Rune III",
+  "name": "Rune Music 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_MUSIC_3",
+    "name": "Rune Music 3"
+  },
   "recipes": []
 }

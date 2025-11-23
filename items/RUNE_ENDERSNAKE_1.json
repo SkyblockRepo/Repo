@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_ENDERSNAKE_1",
-  "name": "◆ Endersnake Rune I",
+  "name": "Rune Endersnake 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_ENDERSNAKE_1",
+    "name": "Rune Endersnake 1"
+  },
   "recipes": []
 }

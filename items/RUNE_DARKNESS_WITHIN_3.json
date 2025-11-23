@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_DARKNESS_WITHIN_3",
-  "name": "◆ Darkness Within Rune III",
+  "name": "Rune Darkness Within 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_DARKNESS_WITHIN_3",
+    "name": "Rune Darkness Within 3"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "FROZEN_BLAZE_ICEBERG",
-  "name": "Iceberg Skin",
+  "name": "Frozen Blaze Iceberg",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "FROZEN_BLAZE_ICEBERG",
+    "name": "Frozen Blaze Iceberg"
+  },
   "recipes": []
 }

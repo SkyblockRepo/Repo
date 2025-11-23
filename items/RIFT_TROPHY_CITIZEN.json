@@ -1,6 +1,6 @@
 {
   "internalId": "RIFT_TROPHY_CITIZEN",
-  "name": "SkyBlock Citizen Timecharm",
+  "name": "Rift Trophy Citizen",
   "category": "Rift Timecharm",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": true,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RIFT_TROPHY_CITIZEN",
+    "name": "Rift Trophy Citizen"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "GLYPH_CONCLAMATUS",
-  "name": "Conclamatus Glyph",
+  "name": "Glyph Conclamatus",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "GLYPH_CONCLAMATUS",
+    "name": "Glyph Conclamatus"
+  },
   "recipes": []
 }

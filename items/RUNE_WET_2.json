@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_WET_2",
-  "name": "◆ Wet Rune II",
+  "name": "Rune Wet 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_WET_2",
+    "name": "Rune Wet 2"
+  },
   "recipes": []
 }

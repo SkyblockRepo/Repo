@@ -1,6 +1,6 @@
 {
   "internalId": "GLYPH_VALIDUS",
-  "name": "Validus Glyph",
+  "name": "Glyph Validus",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "GLYPH_VALIDUS",
+    "name": "Glyph Validus"
+  },
   "recipes": []
 }

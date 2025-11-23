@@ -1,6 +1,6 @@
 {
   "internalId": "RIFT_TROPHY_VAMPIRIC",
-  "name": "Vampiric Timecharm",
+  "name": "Rift Trophy Vampiric",
   "category": "Rift Timecharm",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,7 +15,10 @@
     "soulboundable": true,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RIFT_TROPHY_VAMPIRIC",
+    "name": "Rift Trophy Vampiric"
+  },
   "recipes": [
     {
       "name": "first",

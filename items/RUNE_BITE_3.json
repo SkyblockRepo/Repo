@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_BITE_3",
-  "name": "◆ Bite Rune III",
+  "name": "Rune Bite 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_BITE_3",
+    "name": "Rune Bite 3"
+  },
   "recipes": []
 }

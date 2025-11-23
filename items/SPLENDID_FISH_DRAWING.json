@@ -1,6 +1,6 @@
 {
   "internalId": "SPLENDID_FISH_DRAWING",
-  "name": "Splendid Drawing Of A Fish",
+  "name": "Splendid Fish Drawing",
   "category": "Memento",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SPLENDID_FISH_DRAWING",
+    "name": "Splendid Fish Drawing"
+  },
   "recipes": []
 }

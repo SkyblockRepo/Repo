@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_ICE_3",
-  "name": "◆ Ice Rune III",
+  "name": "Rune Ice 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_ICE_3",
+    "name": "Rune Ice 3"
+  },
   "recipes": []
 }

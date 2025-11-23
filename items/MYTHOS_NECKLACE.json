@@ -36,10 +36,51 @@
       "game_stage": "SKILLED"
     },
     "stats": {
-      "STRENGTH": 15,
       "HEALTH": 25,
-      "DEFENSE": 15
+      "DEFENSE": 15,
+      "STRENGTH": 15
     }
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MYTHOS_NECKLACE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "CHALLENGER_NECKLACE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        }
+      }
+    }
+  ]
 }

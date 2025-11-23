@@ -1,6 +1,6 @@
 {
   "internalId": "BAG_OF_COAL_BACKPACK",
-  "name": "Bag Of Coal Backpack Skin",
+  "name": "Bag Of Coal Backpack",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "BAG_OF_COAL_BACKPACK",
+    "name": "Bag Of Coal Backpack"
+  },
   "recipes": []
 }

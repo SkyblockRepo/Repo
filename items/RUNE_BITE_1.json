@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_BITE_1",
-  "name": "◆ Bite Rune I",
+  "name": "Rune Bite 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_BITE_1",
+    "name": "Rune Bite 1"
+  },
   "recipes": []
 }

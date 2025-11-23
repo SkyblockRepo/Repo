@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SLIMY_3",
-  "name": "◆ Slimy Rune III",
+  "name": "Rune Slimy 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SLIMY_3",
+    "name": "Rune Slimy 3"
+  },
   "recipes": []
 }

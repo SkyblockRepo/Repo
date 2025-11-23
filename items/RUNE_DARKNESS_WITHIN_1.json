@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_DARKNESS_WITHIN_1",
-  "name": "◆ Darkness Within Rune I",
+  "name": "Rune Darkness Within 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_DARKNESS_WITHIN_1",
+    "name": "Rune Darkness Within 1"
+  },
   "recipes": []
 }

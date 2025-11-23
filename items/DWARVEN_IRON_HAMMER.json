@@ -1,6 +1,6 @@
 {
   "internalId": "DWARVEN_IRON_HAMMER",
-  "name": "Scavenged Iron Hammer",
+  "name": "Dwarven Iron Hammer",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 1,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "DWARVEN_IRON_HAMMER",
+    "name": "Dwarven Iron Hammer"
+  },
   "recipes": []
 }

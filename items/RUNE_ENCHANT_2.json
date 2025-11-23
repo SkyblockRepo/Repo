@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_ENCHANT_2",
-  "name": "◆ Enchant Rune II",
+  "name": "Rune Enchant 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_ENCHANT_2",
+    "name": "Rune Enchant 2"
+  },
   "recipes": []
 }

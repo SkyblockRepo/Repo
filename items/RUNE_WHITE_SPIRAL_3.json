@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_WHITE_SPIRAL_3",
-  "name": "◆ White Spiral Rune III",
+  "name": "Rune White Spiral 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_WHITE_SPIRAL_3",
+    "name": "Rune White Spiral 3"
+  },
   "recipes": []
 }

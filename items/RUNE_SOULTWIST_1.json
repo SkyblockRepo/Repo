@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SOULTWIST_1",
-  "name": "◆ Soultwist Rune I",
+  "name": "Rune Soultwist 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SOULTWIST_1",
+    "name": "Rune Soultwist 1"
+  },
   "recipes": []
 }

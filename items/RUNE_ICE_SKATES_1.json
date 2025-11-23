@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_ICE_SKATES_1",
-  "name": "◆ Ice Skates Rune I",
+  "name": "Rune Ice Skates 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_ICE_SKATES_1",
+    "name": "Rune Ice Skates 1"
+  },
   "recipes": []
 }

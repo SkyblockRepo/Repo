@@ -1,6 +1,6 @@
 {
   "internalId": "INK_SACK.2",
-  "name": "Cactus Green",
+  "name": "Ink SACK.2",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 3,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "INK_SACK.2",
+    "name": "Ink SACK.2"
+  },
   "recipes": []
 }

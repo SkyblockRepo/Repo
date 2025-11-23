@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_BLOOMING_1",
-  "name": "◆ Blooming Rune I",
+  "name": "Rune Blooming 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_BLOOMING_1",
+    "name": "Rune Blooming 1"
+  },
   "recipes": []
 }

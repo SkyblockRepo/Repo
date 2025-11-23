@@ -32,5 +32,46 @@
     },
     "description": "%%dark_gray%%%%italic%%Why are we still here? Just to suffer?"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANGUISH_TALISMAN",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SORROW",
+          "quantity": 4
+        },
+        "2": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "3": {
+          "itemId": "SORROW",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "7": {
+          "itemId": "SORROW",
+          "quantity": 4
+        },
+        "8": {
+          "itemId": "PLASMA",
+          "quantity": 4
+        },
+        "9": {
+          "itemId": "SORROW",
+          "quantity": 4
+        }
+      }
+    }
+  ]
 }

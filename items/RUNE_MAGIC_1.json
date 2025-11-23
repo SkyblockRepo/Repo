@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_MAGIC_1",
-  "name": "◆ Magical Rune I",
+  "name": "Rune Magic 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_MAGIC_1",
+    "name": "Rune Magic 1"
+  },
   "recipes": []
 }

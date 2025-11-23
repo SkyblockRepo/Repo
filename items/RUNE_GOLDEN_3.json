@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_GOLDEN_3",
-  "name": "◆ Golden Rune III",
+  "name": "Rune Golden 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_GOLDEN_3",
+    "name": "Rune Golden 3"
+  },
   "recipes": []
 }

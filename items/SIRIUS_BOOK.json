@@ -1,6 +1,6 @@
 {
   "internalId": "SIRIUS_BOOK",
-  "name": "Shadows Indicate Riddles, Illuminating Unseen Stars",
+  "name": "Sirius Book",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 1,
@@ -15,6 +15,9 @@
     "soulboundable": true,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SIRIUS_BOOK",
+    "name": "Sirius Book"
+  },
   "recipes": []
 }

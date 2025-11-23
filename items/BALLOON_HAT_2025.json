@@ -1,6 +1,6 @@
 {
   "internalId": "BALLOON_HAT_2025",
-  "name": "6th Anniversary Balloon Hat",
+  "name": "Balloon Hat 2025",
   "category": "Accessory",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,7 +15,10 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "BALLOON_HAT_2025",
+    "name": "Balloon Hat 2025"
+  },
   "recipes": [],
   "variants": [
     {

@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_ICE_1",
-  "name": "◆ Ice Rune I",
+  "name": "Rune Ice 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_ICE_1",
+    "name": "Rune Ice 1"
+  },
   "recipes": []
 }

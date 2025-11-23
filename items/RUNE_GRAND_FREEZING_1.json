@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_GRAND_FREEZING_1",
-  "name": "◆ Grand Freezing Rune I",
+  "name": "Rune Grand Freezing 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_GRAND_FREEZING_1",
+    "name": "Rune Grand Freezing 1"
+  },
   "recipes": []
 }

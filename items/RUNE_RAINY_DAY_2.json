@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_RAINY_DAY_2",
-  "name": "◆ Rainy Day Rune II",
+  "name": "Rune Rainy Day 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_RAINY_DAY_2",
+    "name": "Rune Rainy Day 2"
+  },
   "recipes": []
 }

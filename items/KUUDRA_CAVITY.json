@@ -1,6 +1,6 @@
 {
   "internalId": "KUUDRA_CAVITY",
-  "name": "Kuudra Teeth Plaque",
+  "name": "Kuudra Cavity",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": true,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "KUUDRA_CAVITY",
+    "name": "Kuudra Cavity"
+  },
   "recipes": []
 }

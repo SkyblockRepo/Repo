@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_RAINBOW_1",
-  "name": "◆ Rainbow Rune I",
+  "name": "Rune Rainbow 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_RAINBOW_1",
+    "name": "Rune Rainbow 1"
+  },
   "recipes": []
 }

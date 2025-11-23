@@ -1,6 +1,6 @@
 {
   "internalId": "ADMINS_WARM_SWEATER",
-  "name": "Admin's Warm Sweater",
+  "name": "Admins Warm Sweater",
   "category": "Admin Items",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ADMINS_WARM_SWEATER",
+    "name": "Admins Warm Sweater"
+  },
   "recipes": []
 }

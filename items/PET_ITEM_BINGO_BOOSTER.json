@@ -1,6 +1,6 @@
 {
   "internalId": "PET_ITEM_BINGO_BOOSTER",
-  "name": "Bingo Booster",
+  "name": "Pet Item Bingo Booster",
   "category": "Pet Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "PET_ITEM_BINGO_BOOSTER",
+    "name": "Pet Item Bingo Booster"
+  },
   "recipes": []
 }

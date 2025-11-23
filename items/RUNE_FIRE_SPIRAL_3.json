@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_FIRE_SPIRAL_3",
-  "name": "◆ Fire Spiral Rune III",
+  "name": "Rune Fire Spiral 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_FIRE_SPIRAL_3",
+    "name": "Rune Fire Spiral 3"
+  },
   "recipes": []
 }

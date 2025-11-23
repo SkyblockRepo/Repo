@@ -1,6 +1,6 @@
 {
   "internalId": "UNIVERSE_BOW",
-  "name": "Bow Of The Universe",
+  "name": "Universe Bow",
   "category": "Admin Items",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "UNIVERSE_BOW",
+    "name": "Universe Bow"
+  },
   "recipes": []
 }

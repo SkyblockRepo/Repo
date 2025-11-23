@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_PRIMAL_FEAR_2",
-  "name": "◆ Primal Fear Rune II",
+  "name": "Rune Primal Fear 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_PRIMAL_FEAR_2",
+    "name": "Rune Primal Fear 2"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_MAGIC_2",
-  "name": "◆ Magical Rune II",
+  "name": "Rune Magic 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_MAGIC_2",
+    "name": "Rune Magic 2"
+  },
   "recipes": []
 }

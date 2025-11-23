@@ -1,6 +1,6 @@
 {
   "internalId": "PET_SKIN_RAT_KARATE",
-  "name": "Karate Rat Skin",
+  "name": "Pet Skin Rat Karate",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "PET_SKIN_RAT_KARATE",
+    "name": "Pet Skin Rat Karate"
+  },
   "recipes": []
 }

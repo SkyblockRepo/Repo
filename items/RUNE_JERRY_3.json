@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_JERRY_3",
-  "name": "◆ Jerry Rune III",
+  "name": "Rune Jerry 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_JERRY_3",
+    "name": "Rune Jerry 3"
+  },
   "recipes": []
 }

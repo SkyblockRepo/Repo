@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_FIERY_BURST_3",
-  "name": "◆ Fiery Burst Rune III",
+  "name": "Rune Fiery Burst 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_FIERY_BURST_3",
+    "name": "Rune Fiery Burst 3"
+  },
   "recipes": []
 }

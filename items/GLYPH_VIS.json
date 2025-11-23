@@ -1,6 +1,6 @@
 {
   "internalId": "GLYPH_VIS",
-  "name": "Vis Glyph",
+  "name": "Glyph Vis",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "GLYPH_VIS",
+    "name": "Glyph Vis"
+  },
   "recipes": []
 }

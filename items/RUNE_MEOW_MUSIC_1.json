@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_MEOW_MUSIC_1",
-  "name": "◆ Meow Music Rune I",
+  "name": "Rune Meow Music 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_MEOW_MUSIC_1",
+    "name": "Rune Meow Music 1"
+  },
   "recipes": []
 }

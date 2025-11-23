@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_LAVATEARS_2",
-  "name": "◆ Lavatears Rune II",
+  "name": "Rune Lavatears 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_LAVATEARS_2",
+    "name": "Rune Lavatears 2"
+  },
   "recipes": []
 }

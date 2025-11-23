@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_GOLDEN_2",
-  "name": "◆ Golden Rune II",
+  "name": "Rune Golden 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_GOLDEN_2",
+    "name": "Rune Golden 2"
+  },
   "recipes": []
 }

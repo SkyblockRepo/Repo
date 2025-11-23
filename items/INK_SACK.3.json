@@ -1,6 +1,6 @@
 {
   "internalId": "INK_SACK.3",
-  "name": "Cocoa Beans",
+  "name": "Ink SACK.3",
   "category": "Collection",
   "source": "HypixelWiki",
   "npcValue": 3,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "INK_SACK.3",
+    "name": "Ink SACK.3"
+  },
   "recipes": []
 }

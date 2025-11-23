@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_LAVATEARS_3",
-  "name": "◆ Lavatears Rune III",
+  "name": "Rune Lavatears 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_LAVATEARS_3",
+    "name": "Rune Lavatears 3"
+  },
   "recipes": []
 }

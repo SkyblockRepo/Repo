@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SPIRIT_3",
-  "name": "◆ Spirit Rune III",
+  "name": "Rune Spirit 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SPIRIT_3",
+    "name": "Rune Spirit 3"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_BARK_TUNES_3",
-  "name": "◆ Bark Tunes Rune III",
+  "name": "Rune Bark Tunes 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_BARK_TUNES_3",
+    "name": "Rune Bark Tunes 3"
+  },
   "recipes": []
 }

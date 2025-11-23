@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_HEARTSPLOSION_3",
-  "name": "◆ Heartsplosion Rune III",
+  "name": "Rune Heartsplosion 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_HEARTSPLOSION_3",
+    "name": "Rune Heartsplosion 3"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_LAVA_1",
-  "name": "◆ Lava Rune I",
+  "name": "Rune Lava 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_LAVA_1",
+    "name": "Rune Lava 1"
+  },
   "recipes": []
 }

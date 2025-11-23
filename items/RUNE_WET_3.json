@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_WET_3",
-  "name": "◆ Wet Rune III",
+  "name": "Rune Wet 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_WET_3",
+    "name": "Rune Wet 3"
+  },
   "recipes": []
 }

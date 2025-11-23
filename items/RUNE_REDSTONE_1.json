@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_REDSTONE_1",
-  "name": "◆ Redstone Rune I",
+  "name": "Rune Redstone 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_REDSTONE_1",
+    "name": "Rune Redstone 1"
+  },
   "recipes": []
 }

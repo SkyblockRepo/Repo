@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_HEARTS_2",
-  "name": "◆ Hearts Rune II",
+  "name": "Rune Hearts 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_HEARTS_2",
+    "name": "Rune Hearts 2"
+  },
   "recipes": []
 }

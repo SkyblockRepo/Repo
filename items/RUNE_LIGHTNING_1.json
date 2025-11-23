@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_LIGHTNING_1",
-  "name": "◆ Lightning Rune I",
+  "name": "Rune Lightning 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_LIGHTNING_1",
+    "name": "Rune Lightning 1"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SLIMY_1",
-  "name": "◆ Slimy Rune I",
+  "name": "Rune Slimy 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SLIMY_1",
+    "name": "Rune Slimy 1"
+  },
   "recipes": []
 }

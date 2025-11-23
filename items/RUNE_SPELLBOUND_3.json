@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SPELLBOUND_3",
-  "name": "◆ Spellbound Rune III",
+  "name": "Rune Spellbound 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SPELLBOUND_3",
+    "name": "Rune Spellbound 3"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "GLYPH_POTENTIA",
-  "name": "Potentia Glyph",
+  "name": "Glyph Potentia",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "GLYPH_POTENTIA",
+    "name": "Glyph Potentia"
+  },
   "recipes": []
 }

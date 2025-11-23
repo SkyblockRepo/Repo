@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_GEM_3",
-  "name": "◆ Gem Rune III",
+  "name": "Rune Gem 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_GEM_3",
+    "name": "Rune Gem 3"
+  },
   "recipes": []
 }

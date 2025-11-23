@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_RAINBOW_3",
-  "name": "◆ Rainbow Rune III",
+  "name": "Rune Rainbow 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_RAINBOW_3",
+    "name": "Rune Rainbow 3"
+  },
   "recipes": []
 }

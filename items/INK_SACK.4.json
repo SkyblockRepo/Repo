@@ -1,6 +1,6 @@
 {
   "internalId": "INK_SACK.4",
-  "name": "Lapis Lazuli",
+  "name": "Ink SACK.4",
   "category": "Collection",
   "source": "HypixelWiki",
   "npcValue": 1,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "INK_SACK.4",
+    "name": "Ink SACK.4"
+  },
   "recipes": []
 }

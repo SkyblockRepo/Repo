@@ -1,6 +1,6 @@
 {
   "internalId": "ANGER_EMBRACE",
-  "name": "Tormentor",
+  "name": "Anger Embrace",
   "category": "Sword",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ANGER_EMBRACE",
+    "name": "Anger Embrace"
+  },
   "recipes": []
 }

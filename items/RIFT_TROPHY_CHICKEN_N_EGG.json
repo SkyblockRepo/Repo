@@ -1,6 +1,6 @@
 {
   "internalId": "RIFT_TROPHY_CHICKEN_N_EGG",
-  "name": "Chicken N Egg Timecharm",
+  "name": "Rift Trophy Chicken N Egg",
   "category": "Rift Timecharm",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,7 +15,10 @@
     "soulboundable": true,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RIFT_TROPHY_CHICKEN_N_EGG",
+    "name": "Rift Trophy Chicken N Egg"
+  },
   "recipes": [
     {
       "name": "first",

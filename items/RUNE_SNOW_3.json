@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SNOW_3",
-  "name": "◆ Snow Rune III",
+  "name": "Rune Snow 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SNOW_3",
+    "name": "Rune Snow 3"
+  },
   "recipes": []
 }

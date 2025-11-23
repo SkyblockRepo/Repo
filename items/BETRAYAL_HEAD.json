@@ -1,6 +1,6 @@
 {
   "internalId": "BETRAYAL_HEAD",
-  "name": "Head Of Betrayal",
+  "name": "Betrayal Head",
   "category": "Helmet",
   "source": "HypixelWiki",
   "npcValue": 1,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "BETRAYAL_HEAD",
+    "name": "Betrayal Head"
+  },
   "recipes": []
 }

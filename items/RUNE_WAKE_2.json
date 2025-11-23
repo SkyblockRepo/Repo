@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_WAKE_2",
-  "name": "◆ Wake Rune II",
+  "name": "Rune Wake 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_WAKE_2",
+    "name": "Rune Wake 2"
+  },
   "recipes": []
 }

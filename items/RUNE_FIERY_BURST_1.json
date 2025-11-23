@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_FIERY_BURST_1",
-  "name": "◆ Fiery Burst Rune I",
+  "name": "Rune Fiery Burst 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_FIERY_BURST_1",
+    "name": "Rune Fiery Burst 1"
+  },
   "recipes": []
 }

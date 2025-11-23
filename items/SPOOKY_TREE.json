@@ -1,6 +1,6 @@
 {
   "internalId": "SPOOKY_TREE",
-  "name": "Great Spook Tree",
+  "name": "Spooky Tree",
   "category": "Item",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SPOOKY_TREE",
+    "name": "Spooky Tree"
+  },
   "recipes": []
 }

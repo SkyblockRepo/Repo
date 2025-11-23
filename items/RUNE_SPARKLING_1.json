@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SPARKLING_1",
-  "name": "◆ Sparkling Rune I",
+  "name": "Rune Sparkling 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SPARKLING_1",
+    "name": "Rune Sparkling 1"
+  },
   "recipes": []
 }

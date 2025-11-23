@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_GOLDEN_CARPET_3",
-  "name": "◆ Golden Carpet Rune III",
+  "name": "Rune Golden Carpet 3",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_GOLDEN_CARPET_3",
+    "name": "Rune Golden Carpet 3"
+  },
   "recipes": []
 }

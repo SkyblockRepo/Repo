@@ -1,6 +1,6 @@
 {
   "internalId": "ADMIN_ROD",
-  "name": "Admin Lava Rod (Sea Creature Edition)",
+  "name": "Admin Rod",
   "category": "Admin Items",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ADMIN_ROD",
+    "name": "Admin Rod"
+  },
   "recipes": []
 }

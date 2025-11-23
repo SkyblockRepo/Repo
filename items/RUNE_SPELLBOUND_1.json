@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_SPELLBOUND_1",
-  "name": "◆ Spellbound Rune I",
+  "name": "Rune Spellbound 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_SPELLBOUND_1",
+    "name": "Rune Spellbound 1"
+  },
   "recipes": []
 }

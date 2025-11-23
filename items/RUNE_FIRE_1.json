@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_FIRE_1",
-  "name": "◆ Fire Rune I",
+  "name": "Rune Fire 1",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_FIRE_1",
+    "name": "Rune Fire 1"
+  },
   "recipes": []
 }

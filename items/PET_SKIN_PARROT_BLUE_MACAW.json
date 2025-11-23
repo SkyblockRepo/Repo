@@ -1,6 +1,6 @@
 {
   "internalId": "PET_SKIN_PARROT_BLUE_MACAW",
-  "name": "Blue Macaw Parrot Skin",
+  "name": "Pet Skin Parrot Blue Macaw",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "PET_SKIN_PARROT_BLUE_MACAW",
+    "name": "Pet Skin Parrot Blue Macaw"
+  },
   "recipes": []
 }

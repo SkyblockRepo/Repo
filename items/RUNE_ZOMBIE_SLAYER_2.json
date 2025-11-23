@@ -1,6 +1,6 @@
 {
   "internalId": "RUNE_ZOMBIE_SLAYER_2",
-  "name": "◆ Pestilence Rune II",
+  "name": "Rune Zombie Slayer 2",
   "category": "Cosmetic",
   "source": "HypixelWiki",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RUNE_ZOMBIE_SLAYER_2",
+    "name": "Rune Zombie Slayer 2"
+  },
   "recipes": []
 }

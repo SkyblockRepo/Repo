@@ -1,6 +1,6 @@
 {
   "internalId": "RAW_FISH.3",
-  "name": "Pufferfish",
+  "name": "Raw FISH.3",
   "category": "Collection",
   "source": "HypixelWiki",
   "npcValue": 15,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RAW_FISH.3",
+    "name": "Raw FISH.3"
+  },
   "recipes": []
 }
