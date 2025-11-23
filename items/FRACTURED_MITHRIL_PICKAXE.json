@@ -38,5 +38,18 @@
       "MINING_FORTUNE": 2
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUBU",
+      "name": "Bubu",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

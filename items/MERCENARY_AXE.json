@@ -41,5 +41,18 @@
       "STRENGTH": 20
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ROSETTA_MERCENARY_ARMOR",
+      "name": "Mercenary Armor",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

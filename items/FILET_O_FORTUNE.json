@@ -27,5 +27,18 @@
       }
     ]
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_BRYNMOR'S_SHOP",
+      "name": "Brynmor's Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

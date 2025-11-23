@@ -28,5 +28,28 @@
     "generator_tier": 12,
     "generator": "GOLD"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BULVAR",
+      "name": "Bulvar",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

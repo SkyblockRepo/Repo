@@ -15,7 +15,14 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "MYTHOS_BELT",
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjg2OTQ0NTU2NywKICAicHJvZmlsZUlkIiA6ICJiZTQxM2Y4M2Y4ZWE0MjE0OGMwMjk0YTJiYzIyN2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaWdodGJveTEwMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZjY3NTUxY2NlNzI5MzZjYWFmZWE0ZTg1ZTdmY2U2YTNiZTM2ZjkxMjU5MDkwYTIyYzE2NTc3NjhiYjg3NjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "qUviKdi1nn7NzEVtSbAG47s3miyGBIk6rmsPXLSmUieWdDjRczS/lOASyQ+SaibI/wBTbNZyCXccUpDw/wvuo+38rnnqdpNHmmtrVgJw/cllZgR2DJJSZdFsfGpTqprjc0YhmsnFADOV/wQDuX+gDi4jvdgGRIxZEC/F0tgCmHGmnFUPDwnLk6Vxwf8cBXlrYJvIKCvEJFxkM25l74tCH5ClIAsmpvFx6SY4PRr4FBwxSuJU0202bk65YUDLA570tF9zKGt3UX4BWVSNcuB5QtKdU2LQBwTle8HWbvmmcRtpdKxbZcCOfxI4Yf78u1hnbfKAKTYhQCabi+WVIDmLkeRTkujjIbvJUKevFKhMtCzTU0Oe/SkAtIN/JSEiElCYt9OsWekW0HtNtuQ8aWtjKksVqsRbLZ7LsnqsZzn42osn+C5u0LzDy/yScghXYdcTw93mW+vuYNvz/UeLWEE3dfDPJSdWlqMRC0kLsmhNdrqgWHaxOnFgc2igqX6c3/hp4EDu0YKKd4nIWsVpoaRBEXgD0e1YeuAr+9K35LfjSZsIIk5mcZdOudwomUvl8sD2YNmwhNFpCQAkWx5CBLR/efs3EbLdsckJCkOB9gFqM/lBkCooB+B4nzXHGRiWv7svASpuBMK3/I2RIz+C2S/3WmWUg3R3wJIFJ53V4EU51hI="
+    },
+    "name": "Mythos Belt"
+  },
   "recipes": [
     {
       "name": "first",

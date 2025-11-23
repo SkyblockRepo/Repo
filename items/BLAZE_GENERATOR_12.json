@@ -28,5 +28,49 @@
     "generator_tier": 12,
     "generator": "BLAZE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_HILDA",
+      "name": "Hilda",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BLAZE_ROD",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    },
+    {
+      "id": "NPC_MARTHOS",
+      "name": "Marthos",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "BLAZE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BLAZE_ROD",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

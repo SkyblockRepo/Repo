@@ -42,5 +42,24 @@
       "MINING_FORTUNE": 10
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUBU",
+      "name": "Bubu",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MITHRIL_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REFINED_MITHRIL",
+          "amount": 2
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

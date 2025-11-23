@@ -24,5 +24,19 @@
     "can_interact": false,
     "description": "%%gray%%Used to open the entrance to the Jungle Temple."
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ODAWA",
+      "name": "Odawa",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 100
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

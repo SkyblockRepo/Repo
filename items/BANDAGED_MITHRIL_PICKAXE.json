@@ -44,5 +44,24 @@
       "MINING_FORTUNE": 4
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUBU",
+      "name": "Bubu",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FRACTURED_MITHRIL_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MITHRIL",
+          "amount": 2
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

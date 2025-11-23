@@ -24,5 +24,18 @@
     "glowing": true,
     "npc_sell_price": 50
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "BARBARIAN_SHOP",
+      "name": "Barbarian Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 85000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

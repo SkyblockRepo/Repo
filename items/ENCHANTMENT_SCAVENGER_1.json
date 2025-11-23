@@ -15,6 +15,22 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": []
+  "data": {
+    "id": "ENCHANTMENT_SCAVENGER_1",
+    "name": "Enchantment Scavenger 1"
+  },
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LIBRARIAN",
+      "name": "Librarian",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 40
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -28,5 +28,18 @@
     ],
     "description": "Places a hologram displaying the top parkour times of players on your island. Click to select which parkour is displayed."
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_AMELIA",
+      "name": "Amelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

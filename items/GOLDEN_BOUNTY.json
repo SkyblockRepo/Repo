@@ -29,5 +29,19 @@
     "npc_sell_price": 1000000,
     "has_uuid": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_LIZ'S_STOCK_REDEMPTION",
+      "name": "Liz's Stock Redemption",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS",
+          "amount": 20
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

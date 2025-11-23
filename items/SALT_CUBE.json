@@ -28,5 +28,19 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 1
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TERRY",
+      "name": "Terry",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ICE_HUNK",
+          "amount": 64
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

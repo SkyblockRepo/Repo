@@ -26,5 +26,18 @@
     },
     "motes_sell_price": 105
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_WEAPONSMITH_MERCHANT",
+      "name": "Weaponsmith",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -22,5 +22,18 @@
     "name": "Jungle Log",
     "npc_sell_price": 2
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LUMBER_MERCHANT",
+      "name": "Lumber Merchant",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25
+        }
+      ],
+      "amount": 5
+    }
+  ]
 }

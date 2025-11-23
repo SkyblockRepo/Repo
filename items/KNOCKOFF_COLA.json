@@ -26,5 +26,18 @@
     "name": "KnockOff™ Cola",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BARTENDER",
+      "name": "Bartender",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1500
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

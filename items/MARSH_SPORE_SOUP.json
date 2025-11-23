@@ -21,5 +21,23 @@
     "name": "Marsh Spore Soup",
     "tier": "RARE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_EZEKIEL",
+      "name": "Ezekiel",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_SPORE",
+          "amount": 5
+        },
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

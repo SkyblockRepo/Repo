@@ -34,5 +34,18 @@
       }
     ]
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BARTENDER",
+      "name": "Bartender",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

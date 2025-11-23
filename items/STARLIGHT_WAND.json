@@ -40,5 +40,18 @@
       "WEAPON_ABILITY_DAMAGE": 50
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ROSETTA_STARLIGHT_SET",
+      "name": "Starlight Set",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

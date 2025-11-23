@@ -27,5 +27,18 @@
     "tier": "UNCOMMON",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BARTENDER",
+      "name": "Bartender",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

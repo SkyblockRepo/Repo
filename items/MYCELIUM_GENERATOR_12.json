@@ -35,5 +35,28 @@
     "generator_tier": 12,
     "generator": "MYCELIUM"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_HILDA",
+      "name": "Hilda",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MYCELIUM_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM_CUBE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

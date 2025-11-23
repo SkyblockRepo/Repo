@@ -28,5 +28,30 @@
     "unstackable": true,
     "origin": "RIFT"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_RIFT_BARTENDER",
+      "name": "Rift Bartender",
+      "cost": [
+        {
+          "type": "MOTES",
+          "amount": 500
+        }
+      ],
+      "amount": 0
+    },
+    {
+      "id": "NPC_ARGOFAY_SERIALBATHER",
+      "name": "Argofay \"Alchemist\"",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SHAME_CRUX",
+          "amount": 1
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

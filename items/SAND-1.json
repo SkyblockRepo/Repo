@@ -22,5 +22,18 @@
     "name": "Red Sand",
     "npc_sell_price": 5
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_AN",
+      "name": "An",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -77,5 +77,18 @@
     ],
     "dungeon_item": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

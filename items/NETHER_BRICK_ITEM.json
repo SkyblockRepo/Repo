@@ -21,5 +21,19 @@
     "name": "Nether Brick",
     "npc_sell_price": 1
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "NETHERRACK",
+          "amount": 1
+        }
+      ],
+      "amount": 1
+    }
+  ]
 }

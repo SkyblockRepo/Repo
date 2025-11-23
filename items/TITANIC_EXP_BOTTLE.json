@@ -23,42 +23,18 @@
     "glowing": true,
     "npc_sell_price": 5000
   },
-  "recipes": [
+  "recipes": [],
+  "soldBy": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "TITANIC_EXP_BOTTLE",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "GLASS_BOTTLE",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "ENCHANTED_LAPIS_LAZULI_BLOCK",
-          "quantity": 1
+      "id": "MAGE_SHOP",
+      "name": "Mage Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 750000
         }
-      }
+      ],
+      "amount": 0
     }
   ]
 }

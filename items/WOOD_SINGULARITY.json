@@ -27,5 +27,48 @@
     "tier": "LEGENDARY",
     "has_uuid": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MASTER_TACTICIAN",
+      "name": "Master Tactician",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_OAK_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_SPRUCE_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BIRCH_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_DARK_OAK_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_ACACIA_LOG",
+          "amount": 320
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_JUNGLE_LOG",
+          "amount": 320
+        },
+        {
+          "type": "COINS",
+          "amount": 1464000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -15,6 +15,22 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": []
+  "data": {
+    "id": "ENCHANTMENT_DRAGON_HUNTER_1",
+    "name": "Enchantment Dragon Hunter 1"
+  },
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_PEARL_DEALER",
+      "name": "Pearl Dealer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

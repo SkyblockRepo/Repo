@@ -22,5 +22,18 @@
     "npc_sell_price": 0.25,
     "motes_sell_price": 15
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LUMBER_MERCHANT",
+      "name": "Lumber Merchant",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ],
+      "amount": 32
+    }
+  ]
 }

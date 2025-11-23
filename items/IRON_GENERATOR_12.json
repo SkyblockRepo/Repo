@@ -28,5 +28,28 @@
     "generator_tier": 12,
     "generator": "IRON"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BULVAR",
+      "name": "Bulvar",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "IRON_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_IRON_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

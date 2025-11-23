@@ -45,5 +45,18 @@
       "INTELLIGENCE": 20
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ROSETTA_CELESTE_SET",
+      "name": "Celeste Set",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

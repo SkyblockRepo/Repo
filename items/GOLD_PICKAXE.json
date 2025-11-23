@@ -27,5 +27,30 @@
       "BREAKING_POWER": 1
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_GOLD_FORGER",
+      "name": "Gold Forger",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ],
+      "amount": 0
+    },
+    {
+      "id": "NPC_MINE_MERCHANT",
+      "name": "Mine Merchant",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GOLD_INGOT",
+          "amount": 3
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

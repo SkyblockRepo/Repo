@@ -37,5 +37,18 @@
       "efficiency": 6
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_PEARL_DEALER",
+      "name": "Pearl Dealer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 499999
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

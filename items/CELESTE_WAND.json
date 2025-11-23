@@ -39,5 +39,18 @@
       "WEAPON_ABILITY_DAMAGE": 40
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ROSETTA_CELESTE_SET",
+      "name": "Celeste Set",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -28,5 +28,49 @@
     "generator_tier": 12,
     "generator": "GLOWSTONE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_HILDA",
+      "name": "Hilda",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GLOWSTONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    },
+    {
+      "id": "NPC_MARTHOS",
+      "name": "Marthos",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "GLOWSTONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GLOWSTONE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

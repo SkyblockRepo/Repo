@@ -41,5 +41,18 @@
       "speed_on_farming_island": 30
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TALBOT'S_SHOP",
+      "name": "Talbot (Finnegan's Friend)",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 250
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

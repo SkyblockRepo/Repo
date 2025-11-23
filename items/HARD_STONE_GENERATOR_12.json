@@ -28,5 +28,28 @@
     "generator_tier": 12,
     "generator": "HARD_STONE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BULVAR",
+      "name": "Bulvar",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "HARD_STONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "CONCENTRATED_STONE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

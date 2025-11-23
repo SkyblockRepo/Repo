@@ -44,5 +44,34 @@
       "MINING_FORTUNE": 7
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUBU",
+      "name": "Bubu",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "BANDAGED_MITHRIL_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MITHRIL",
+          "amount": 64
+        },
+        {
+          "type": "ITEM",
+          "item_id": "BEJEWELED_HANDLE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_GOLD",
+          "amount": 32
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

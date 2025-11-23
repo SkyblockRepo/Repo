@@ -15,6 +15,28 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": []
+  "data": {
+    "id": "ENCHANTMENT_DELICATE_5",
+    "name": "Enchantment Delicate 5"
+  },
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ANITA",
+      "name": "Anita",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

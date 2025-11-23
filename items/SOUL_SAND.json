@@ -21,5 +21,24 @@
     "name": "Soul Sand",
     "npc_sell_price": 4
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SAND",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FERMENTED_SPIDER_EYE",
+          "amount": 1
+        }
+      ],
+      "amount": 1
+    }
+  ]
 }

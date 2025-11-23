@@ -21,5 +21,18 @@
     "name": "Block of Quartz",
     "npc_sell_price": 16
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 256
+        }
+      ],
+      "amount": 8
+    }
+  ]
 }

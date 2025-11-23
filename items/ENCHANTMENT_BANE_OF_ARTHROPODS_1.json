@@ -15,6 +15,22 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": []
+  "data": {
+    "id": "ENCHANTMENT_BANE_OF_ARTHROPODS_1",
+    "name": "Enchantment Bane Of Arthropods 1"
+  },
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LIBRARIAN",
+      "name": "Librarian",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

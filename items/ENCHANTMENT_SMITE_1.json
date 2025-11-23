@@ -15,6 +15,22 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": []
+  "data": {
+    "id": "ENCHANTMENT_SMITE_1",
+    "name": "Enchantment Smite 1"
+  },
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LIBRARIAN",
+      "name": "Librarian",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

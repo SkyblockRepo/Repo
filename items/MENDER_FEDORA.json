@@ -84,5 +84,23 @@
     "dungeon_item": true,
     "gear_score": 30
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 800000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MENDER_HELMET",
+          "amount": 1
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -41,5 +41,18 @@
       "game_stage": "STARTER"
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_SHERRY",
+      "name": "Sherry",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

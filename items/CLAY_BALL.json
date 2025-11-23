@@ -21,5 +21,19 @@
     "name": "Clay Ball",
     "npc_sell_price": 3
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SEEDS",
+          "amount": 12
+        }
+      ],
+      "amount": 1
+    }
+  ]
 }

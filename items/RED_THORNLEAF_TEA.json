@@ -27,5 +27,23 @@
     "tier": "RARE",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_GROG",
+      "name": "Grog",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "RED_THORNLEAF",
+          "amount": 50
+        },
+        {
+          "type": "COINS",
+          "amount": 20000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

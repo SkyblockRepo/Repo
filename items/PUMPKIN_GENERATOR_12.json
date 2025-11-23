@@ -28,5 +28,28 @@
     "generator_tier": 12,
     "generator": "PUMPKIN"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TERRY'S_SHOP",
+      "name": "Tony's Shop",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "PUMPKIN_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_PUMPKIN",
+          "amount": 1024
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

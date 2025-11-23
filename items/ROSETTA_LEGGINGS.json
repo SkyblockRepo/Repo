@@ -35,5 +35,18 @@
       "DEFENSE": 30
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ROSETTA_ARMOR",
+      "name": "Rosetta's Armor",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1200
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

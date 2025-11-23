@@ -28,5 +28,18 @@
     "npc_sell_price": 1,
     "has_uuid": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_PEARL_DEALER",
+      "name": "Pearl Dealer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -21,5 +21,18 @@
     "name": "Iron Ingot",
     "npc_sell_price": 2
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_IRON_FORGER",
+      "name": "Iron Forger",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -22,5 +22,19 @@
     "name": "Fern",
     "npc_sell_price": 2
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "DIRT",
+          "amount": 8
+        }
+      ],
+      "amount": 1
+    }
+  ]
 }

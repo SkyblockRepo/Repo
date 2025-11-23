@@ -28,5 +28,19 @@
     "tier": "EPIC",
     "description": "%%gray%%Said to make any drink inside it taste like %%gold%%gold%%gray%%."
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_LIZ'S_STOCK_REDEMPTION",
+      "name": "Liz's Stock Redemption",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS",
+          "amount": 50
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

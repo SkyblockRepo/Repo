@@ -25,5 +25,18 @@
       "DAMAGE": 15
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_GOLD_FORGER",
+      "name": "Gold Forger",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

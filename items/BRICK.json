@@ -21,5 +21,18 @@
     "name": "Bricks",
     "npc_sell_price": 3
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 48
+        }
+      ],
+      "amount": 8
+    }
+  ]
 }

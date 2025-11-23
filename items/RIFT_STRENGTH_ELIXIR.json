@@ -28,5 +28,23 @@
     "unstackable": true,
     "origin": "RIFT"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_RIFT_BARTENDER",
+      "name": "Rift Bartender",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SHAME_CRUX",
+          "amount": 5
+        },
+        {
+          "type": "MOTES",
+          "amount": 12000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

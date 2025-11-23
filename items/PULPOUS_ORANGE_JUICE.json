@@ -26,5 +26,18 @@
     "name": "Pulpous Orange Juice",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BARTENDER",
+      "name": "Bartender",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

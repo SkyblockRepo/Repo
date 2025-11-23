@@ -41,5 +41,24 @@
       "BREAKING_POWER": 6
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUBU",
+      "name": "Bubu",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "TITANIUM_PICKAXE",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REFINED_TITANIUM",
+          "amount": 1
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

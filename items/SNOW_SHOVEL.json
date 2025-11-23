@@ -21,5 +21,18 @@
     "name": "Snow Shovel",
     "tier": "RARE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_SCOOP",
+      "name": "Scoop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

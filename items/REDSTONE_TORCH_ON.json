@@ -21,5 +21,18 @@
     "name": "Redstone Torch",
     "npc_sell_price": 1
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MAD_REDSTONE_ENGINEER",
+      "name": "Mad Redstone Engineer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

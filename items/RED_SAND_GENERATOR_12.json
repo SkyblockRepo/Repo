@@ -35,5 +35,28 @@
     "generator_tier": 12,
     "generator": "RED_SAND"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MARTHOS",
+      "name": "Marthos",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "RED_SAND_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND_CUBE",
+          "amount": 32
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

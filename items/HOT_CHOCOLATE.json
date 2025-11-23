@@ -28,5 +28,29 @@
     "unstackable": true,
     "npc_sell_price": 50
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_EZEKIEL",
+      "name": "Ezekiel",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 70000
+        }
+      ],
+      "amount": 0
+    },
+    {
+      "id": "INVENTORY_GROG",
+      "name": "Grog",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 70000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

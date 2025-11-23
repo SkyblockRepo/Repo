@@ -28,5 +28,28 @@
     "generator_tier": 12,
     "generator": "COBBLESTONE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BULVAR",
+      "name": "Bulvar",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "COBBLESTONE_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COBBLESTONE",
+          "amount": 1024
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

@@ -15,6 +15,22 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": []
+  "data": {
+    "id": "ENCHANTMENT_FIRE_PROTECTION_1",
+    "name": "Enchantment Fire Protection 1"
+  },
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LIBRARIAN",
+      "name": "Librarian",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

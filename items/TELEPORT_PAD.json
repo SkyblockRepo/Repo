@@ -23,5 +23,19 @@
     "glowing": true,
     "npc_sell_price": 1000
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_EYE_OF_ENDER",
+          "amount": 1
+        }
+      ],
+      "amount": 2
+    }
+  ]
 }

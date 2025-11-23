@@ -36,5 +36,23 @@
       }
     ]
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "MAGE_SHOP",
+      "name": "Mage Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 500
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

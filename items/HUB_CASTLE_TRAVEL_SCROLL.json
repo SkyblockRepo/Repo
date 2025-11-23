@@ -22,5 +22,18 @@
     "category": "TRAVEL_SCROLL",
     "tier": "EPIC"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LONELY_PHILOSOPHER",
+      "name": "Lonely Philosopher",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 150000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }

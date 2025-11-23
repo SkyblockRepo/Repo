@@ -27,5 +27,18 @@
     "tier": "RARE",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_SHERRY",
+      "name": "Sherry",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 250000
+        }
+      ],
+      "amount": 0
+    }
+  ]
 }
