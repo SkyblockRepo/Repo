@@ -19,17 +19,5 @@
     "id": "ENCHANTMENT_PROJECTILE_PROTECTION_1",
     "name": "Enchantment Projectile Protection 1"
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_LIBRARIAN",
-      "name": "Librarian",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 25
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

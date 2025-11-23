@@ -26,18 +26,5 @@
     "name": "Rough Amethyst Gemstone",
     "npc_sell_price": 3
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_ODAWA",
-      "name": "Odawa",
-      "cost": [
-        {
-          "type": "ITEM",
-          "item_id": "SLUDGE_JUICE",
-          "amount": 1
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

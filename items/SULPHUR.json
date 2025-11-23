@@ -21,17 +21,5 @@
     "name": "Gunpowder",
     "npc_sell_price": 4
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_ADVENTURER",
-      "name": "Adventurer",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 10
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

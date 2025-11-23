@@ -21,17 +21,5 @@
     "name": "Rotten Flesh",
     "npc_sell_price": 2
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_ADVENTURER",
-      "name": "Adventurer",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 8
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

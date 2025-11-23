@@ -23,19 +23,5 @@
     "glowing": true,
     "npc_sell_price": 1
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "TRADES_MENU",
-      "name": "Trades",
-      "cost": [
-        {
-          "type": "ITEM",
-          "item_id": "BONE",
-          "amount": 32
-        }
-      ],
-      "amount": 1
-    }
-  ]
+  "recipes": []
 }

@@ -21,27 +21,5 @@
     "name": "Cactus",
     "npc_sell_price": 4
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_FARM_MERCHANT",
-      "name": "Farm Merchant",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 15
-        }
-      ]
-    },
-    {
-      "id": "NPC_WINDMILL_OPERATOR",
-      "name": "Windmill Operator",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 15
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

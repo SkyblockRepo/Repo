@@ -21,27 +21,5 @@
     "name": "Magma Cream",
     "npc_sell_price": 8
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "INVENTORY_AN",
-      "name": "An",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 20
-        }
-      ]
-    },
-    {
-      "id": "ULYN_INVENTORY",
-      "name": "Ulyn",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 20
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

@@ -21,27 +21,5 @@
     "name": "Ghast Tear",
     "npc_sell_price": 16
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "INVENTORY_AN",
-      "name": "An",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 200
-        }
-      ]
-    },
-    {
-      "id": "ULYN_INVENTORY",
-      "name": "Ulyn",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 200
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

@@ -22,17 +22,5 @@
     "npc_sell_price": 5,
     "motes_sell_price": 30
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_ADVENTURER",
-      "name": "Adventurer",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 14
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

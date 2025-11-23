@@ -28,17 +28,22 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 3
   },
-  "recipes": [],
-  "soldBy": [
+  "recipes": [
     {
-      "id": "NPC_SHERRY",
-      "name": "Sherry",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 12
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ICE_BAIT",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
         }
-      ]
+      }
     }
   ]
 }

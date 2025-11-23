@@ -28,18 +28,5 @@
     "tier": "RARE",
     "npc_sell_price": 1
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_TERRY",
-      "name": "Terry",
-      "cost": [
-        {
-          "type": "ITEM",
-          "item_id": "BLUE_ICE_HUNK",
-          "amount": 64
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

@@ -21,27 +21,34 @@
     "name": "Nether Wart",
     "npc_sell_price": 4
   },
-  "recipes": [],
-  "soldBy": [
+  "recipes": [
     {
-      "id": "INVENTORY_AN",
-      "name": "An",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 10
+      "name": "stranded",
+      "type": "crafting",
+      "resultId": "NETHER_STALK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SEEDS",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SEEDS",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "FERMENTED_SPIDER_EYE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SEEDS",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SEEDS",
+          "quantity": 1
         }
-      ]
-    },
-    {
-      "id": "ULYN_INVENTORY",
-      "name": "Ulyn",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 10
-        }
-      ]
+      }
     }
   ]
 }

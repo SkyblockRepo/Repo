@@ -28,17 +28,5 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 1
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "NPC_JAKE",
-      "name": "Jake",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 15000
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }

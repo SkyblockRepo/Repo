@@ -21,27 +21,5 @@
     "name": "Nether Quartz",
     "npc_sell_price": 4
   },
-  "recipes": [],
-  "soldBy": [
-    {
-      "id": "INVENTORY_AN",
-      "name": "An",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 50
-        }
-      ]
-    },
-    {
-      "id": "ULYN_INVENTORY",
-      "name": "Ulyn",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 50
-        }
-      ]
-    }
-  ]
+  "recipes": []
 }
