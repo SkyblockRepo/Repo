@@ -60,5 +60,17 @@
         }
       }
     }
+  ],
+  "soldBy": [
+    {
+      "id": "MAGE_SHOP",
+      "name": "Mage Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000
+        }
+      ]
+    }
   ]
 }

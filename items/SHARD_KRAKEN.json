@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_KRAKEN",
-  "name": "SHARD_KRAKEN",
+  "name": "Shard Kraken",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_KRAKEN",
+    "name": "Shard Kraken"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_POWER_DRAGON",
-  "name": "SHARD_POWER_DRAGON",
+  "name": "Shard Power Dragon",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_POWER_DRAGON",
+    "name": "Shard Power Dragon"
+  },
   "recipes": []
 }

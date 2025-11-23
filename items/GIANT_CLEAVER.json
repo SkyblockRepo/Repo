@@ -81,5 +81,22 @@
     "dungeon_item": true,
     "gear_score": 50
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "HYPER_CLEAVER",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }

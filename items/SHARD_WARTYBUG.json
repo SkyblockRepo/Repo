@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_WARTYBUG",
-  "name": "SHARD_WARTYBUG",
+  "name": "Shard Wartybug",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_WARTYBUG",
+    "name": "Shard Wartybug"
+  },
   "recipes": []
 }

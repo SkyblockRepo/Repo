@@ -15,47 +15,31 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MYTHOS_CLOAK",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "2": {
-          "itemId": "MYTHOS_FRAGMENT",
-          "quantity": 4
-        },
-        "3": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "ENCHANTED_ANCIENT_CLAW",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "CHALLENGER_CLOAK",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_ANCIENT_CLAW",
-          "quantity": 16
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        }
-      }
+  "data": {
+    "id": "MYTHOS_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjg2OTQ0ODA4MSwKICAicHJvZmlsZUlkIiA6ICJkNGUwNTFjZGRhNDU0NTUxYjk1ZWRiZjdkNTM1ZTA3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVtZW50YWxfTWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0MjdhNTk4OGUwZjcyMWUyOTRjZmY3ZWNiM2IwOTNmNzlhODRlNWNhZTg4ZGZiZjNlYjYxMWFlMGFhMDQ3MDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "BBcbqH/MrZd7o+gpxZE48OyUrt4nl048GX/4EIvZcQtXD/dyhqxMIzvLLDldDmhDG0/emRGIfeoA5u07NLm06U5/retLnXxgV7tpyMBTnf31Rve7etzzL2LlZhdpFPMe62yZZOgDKXYOrKWFNRv4Pcg/HA2c9WM6dsb0IISetaAB0PylI124SGgvZb8q4nSrT7DnO04/LiLTwbobPXHV/p3C0toHGojOutPSbSJUp8qV3K0u83TAtIFxGhmsfIOcvi/Ex99aisDE8rRluDS/okbCaKaeB7rX6PxbLnOrNlJclwgwLZquvabv8Cobm4WeTZzqgkx5KxVVq+SMK1FsZrEWZgofoL5Eq6siyzaXPBYicGDYmlOkJLV+2bDRucob/FzSpHpbpLdBIfRsi9ChF8SGr1iVd1UNgueyLaCJCdGqrJDvFc/N+RQKbmsMoppJT469l/iQcLbfhyOqgxc4E4iDA199u7HuuLQC2psleQ4/wxbdEcSDkGiVmPOotte7bNar+HiDG+qYNffaJLeeP5jBMOT0xi0snM3BtUq77VuX/VbXHlNiEUBrchLZSlreDEiJPwo3uQFY5qZEQCslb3ulmFjXkYwB9u1ZwtGh7lv8qgvwhev1I1w78TGKTZ1bhYFssvcw991or9Xj6e/2Nf8hfS11XGegrK196sRhKDU="
+    },
+    "name": "Mythos Cloak",
+    "category": "CLOAK",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MYTHOS": 12
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "STRENGTH": 15,
+      "HEALTH": 25,
+      "DEFENSE": 15
     }
-  ]
+  },
+  "recipes": []
 }

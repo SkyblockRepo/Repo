@@ -50,5 +50,27 @@
         }
       }
     }
+  ],
+  "soldBy": [
+    {
+      "id": "INVENTORY_AN",
+      "name": "An",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": "ULYN_INVENTORY",
+      "name": "Ulyn",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    }
   ]
 }

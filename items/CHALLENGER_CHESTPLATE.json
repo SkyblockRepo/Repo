@@ -15,47 +15,28 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CHALLENGER_CHESTPLATE",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 16
-        },
-        "3": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 64
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        }
-      }
+  "data": {
+    "id": "CHALLENGER_CHESTPLATE",
+    "material": "GOLD_CHESTPLATE",
+    "name": "Challenger's Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "CHALLENGER": "MYTHOS"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CHALLENGER": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "STRENGTH": 25,
+      "HEALTH": 80,
+      "DEFENSE": 40
     }
-  ]
+  },
+  "recipes": []
 }

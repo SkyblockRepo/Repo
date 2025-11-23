@@ -21,5 +21,18 @@
     "name": "Moss Stone",
     "npc_sell_price": 6
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 96
+        }
+      ],
+      "amount": 8
+    }
+  ]
 }

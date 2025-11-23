@@ -28,5 +28,17 @@
     "tier": "UNCOMMON",
     "museum": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_DANTE",
+      "name": "Mayor Dante",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    }
+  ]
 }

@@ -27,5 +27,17 @@
       }
     ]
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_AMELIA",
+      "name": "Amelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    }
+  ]
 }

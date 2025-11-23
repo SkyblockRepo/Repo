@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_FLAMING_SPIDER",
-  "name": "SHARD_FLAMING_SPIDER",
+  "name": "Shard Flaming Spider",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_FLAMING_SPIDER",
+    "name": "Shard Flaming Spider"
+  },
   "recipes": []
 }

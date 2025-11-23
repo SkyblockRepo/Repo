@@ -27,5 +27,17 @@
     "tier": "COMMON",
     "npc_sell_price": 50
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_GROG",
+      "name": "Grog",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        }
+      ]
+    }
+  ]
 }

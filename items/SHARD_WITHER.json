@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_WITHER",
-  "name": "SHARD_WITHER",
+  "name": "Shard Wither",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_WITHER",
+    "name": "Shard Wither"
+  },
   "recipes": []
 }

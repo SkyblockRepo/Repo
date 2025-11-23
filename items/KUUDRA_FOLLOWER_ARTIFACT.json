@@ -29,5 +29,32 @@
     "unstackable": true,
     "soulbound": "SOLO"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_DRAKUU",
+      "name": "Drakuu",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 1024
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 1024
+        },
+        {
+          "type": "ITEM",
+          "item_id": "KUUDRA_TEETH",
+          "amount": 64
+        }
+      ]
+    }
+  ]
 }

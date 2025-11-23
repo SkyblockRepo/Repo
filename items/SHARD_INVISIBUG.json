@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_INVISIBUG",
-  "name": "SHARD_INVISIBUG",
+  "name": "Shard Invisibug",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_INVISIBUG",
+    "name": "Shard Invisibug"
+  },
   "recipes": []
 }

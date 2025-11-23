@@ -1,6 +1,6 @@
 {
   "internalId": "ENCHANTMENT_CAYENNE_3",
-  "name": "ENCHANTMENT_CAYENNE_3",
+  "name": "Enchantment Cayenne 3",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ENCHANTMENT_CAYENNE_3",
+    "name": "Enchantment Cayenne 3"
+  },
   "recipes": []
 }

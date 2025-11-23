@@ -21,5 +21,17 @@
     "name": "Cobblestone",
     "npc_sell_price": 1
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MINE_MERCHANT",
+      "name": "Mine Merchant",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 3
+        }
+      ]
+    }
+  ]
 }

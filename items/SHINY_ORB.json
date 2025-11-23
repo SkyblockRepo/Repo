@@ -27,5 +27,17 @@
     "tier": "LEGENDARY",
     "museum": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TECHNOSHOP",
+      "name": "Technoshop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        }
+      ]
+    }
+  ]
 }

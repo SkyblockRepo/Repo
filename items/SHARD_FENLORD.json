@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_FENLORD",
-  "name": "SHARD_FENLORD",
+  "name": "Shard Fenlord",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_FENLORD",
+    "name": "Shard Fenlord"
+  },
   "recipes": []
 }

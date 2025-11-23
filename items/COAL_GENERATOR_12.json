@@ -28,5 +28,27 @@
     "generator_tier": 12,
     "generator": "COAL"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BULVAR",
+      "name": "Bulvar",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "COAL_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_COAL_BLOCK",
+          "amount": 16
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    }
+  ]
 }

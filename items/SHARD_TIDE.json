@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_TIDE",
-  "name": "SHARD_TIDE",
+  "name": "Shard Tide",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_TIDE",
+    "name": "Shard Tide"
+  },
   "recipes": []
 }

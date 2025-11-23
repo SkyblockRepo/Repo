@@ -22,5 +22,17 @@
     "category": "TRAVEL_SCROLL",
     "tier": "EPIC"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MELANCHOLIC_VIKING",
+      "name": "Joyful Viking",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 70000
+        }
+      ]
+    }
+  ]
 }

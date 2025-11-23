@@ -23,5 +23,18 @@
     "unstackable": true,
     "glowing": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ANITA",
+      "name": "Anita",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }

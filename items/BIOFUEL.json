@@ -25,5 +25,17 @@
     "npc_sell_price": 10000,
     "description": "%%dark_gray%%%%italic%%100% renewable energy!"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUBU",
+      "name": "Bubu",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20000
+        }
+      ]
+    }
+  ]
 }

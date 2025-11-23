@@ -42,5 +42,23 @@
       ]
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ODAWA",
+      "name": "Odawa",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "WOOD",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 20
+        }
+      ]
+    }
+  ]
 }

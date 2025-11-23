@@ -15,35 +15,42 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MYTHOS_CHESTPLATE",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "MYTHOS_FRAGMENT",
-          "quantity": 2
-        },
-        "4": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "CHALLENGER_CHESTPLATE",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "MYTHOS_FRAGMENT",
-          "quantity": 2
-        }
+  "data": {
+    "id": "MYTHOS_CHESTPLATE",
+    "material": "GOLD_CHESTPLATE",
+    "name": "Mythos Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "LEGENDARY",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_JASPER_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
       }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MYTHOS": 12
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "STRENGTH": 50,
+      "HEALTH": 160,
+      "DEFENSE": 80
     }
-  ]
+  },
+  "recipes": []
 }

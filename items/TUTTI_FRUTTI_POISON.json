@@ -26,5 +26,17 @@
     "name": "Tutti-Frutti Flavored Poison",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_SHIFTY",
+      "name": "Shifty",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1000
+        }
+      ]
+    }
+  ]
 }

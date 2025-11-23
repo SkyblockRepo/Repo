@@ -1,6 +1,6 @@
 {
   "internalId": "ESSENCE_ICE",
-  "name": "ESSENCE_ICE",
+  "name": "Essence Ice",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ESSENCE_ICE",
+    "name": "Essence Ice"
+  },
   "recipes": []
 }

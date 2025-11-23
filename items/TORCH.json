@@ -21,5 +21,18 @@
     "name": "Torch",
     "npc_sell_price": 0.3
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LUMINA",
+      "name": "Lumina",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ],
+      "amount": 64
+    }
+  ]
 }

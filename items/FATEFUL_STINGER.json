@@ -3,7 +3,7 @@
   "name": "Fateful Stinger",
   "category": "Item",
   "source": "HypixelWiki",
-  "npcValue": 0,
+  "npcValue": 1000000,
   "lore": "&8Combinable in Anvil\n\n\n\n&7When applied to a weapon, increases\n\n&7its &9Venomous &7level by &a1&7!\n\n&8Can be applied once.\n\n&8Requires Venomous VI!\n\n\n\n&8''The sting of the Manticore is fatal to''\n\n&8''all but the Elephant.''\n\n\n\n&6&lLEGENDARY&r",
   "flags": {
     "tradable": true,
@@ -15,6 +15,20 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "FATEFUL_STINGER",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1MTY1OTEwOTU3MSwKICAicHJvZmlsZUlkIiA6ICIwMzA5NGIxMzM1ZjY0M2RlOGQxM2MzN2MzYTliOTQxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWFtWFNhZ2UiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUyYzI2YWQ4OGZkZDEwMzgxMjg0NjUwNzcwZDliNTlkMzY4OGE1Mjg2OGIzYmNjNzc2MmY4OGEzNDMwM2RlOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "MeB4uTO69ULJztO6MBv9i5oNNZ3myxEWHuA7CGhO8QUrct/XN9NopsaUrCOuQ0vrSq0THM0QiOKBeWSPcgmGv0URz/Go2xlugsqaAvZ0nObiXg3EnuOGLZwv7UeIk97YfUJcAYNOwuAuaDZfPFzZtMzlhiQxcBkRTc/RXDGR3ozW0+llueUA9ctcJ2OAxAQ/Vw4cxUSSuP7ZfIi5Sgya7gJgetAy/ZqK/HVLZPCv3rVFG/YYtvwDidVOFCCHp32FZBnosBiqgOznbae48njiIYPxPCuzp+1ZKCIAMj3x3lRDqNvcUmNOUUp0aFv/CAcXXUubz6Hc+pM/JA3o0+kSifizai4sXuAgsLI31fWxb4IBtC8aCfE1KoBVKYT7+hbXEwTOEgxM2EctFCKwDGOsvCMyMuGL0velIsPK4cRZZNgOTuKVVhF6t41fAESZdH5Wcg0EItVR9IJKoYceFnouf+e86YcLryvdpiEx+toJ3pAGyAch+ES7ybmsy7bAXZ1P9o1hGDnV3MM7FVhmKr1GPfsat9FZ9an/tcDr4w9NJ0KpdB9POF5Fv6hWXLD7fctYeZNQZ2Div+Yi9SdcCk8G/S7xs2i9+fGujZRMvF6dUJt9x8NEZGKpKEXBpEXnxw43tbvb35UECJGv4cNaEn5+ayxBgi1rYwaZmmHj9F47uXY="
+    },
+    "name": "Fateful Stinger",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 1000000,
+    "description": "%%dark_gray%%%%italic%%The sting of the Manticore is fatal to all but the Elephant.",
+    "has_uuid": true
+  },
   "recipes": []
 }

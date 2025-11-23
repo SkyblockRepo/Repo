@@ -21,5 +21,30 @@
     "name": "Dirt",
     "npc_sell_price": 1
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 16
+        }
+      ],
+      "amount": 8
+    },
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SEEDS",
+          "amount": 8
+        }
+      ],
+      "amount": 2
+    }
+  ]
 }

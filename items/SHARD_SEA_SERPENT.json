@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_SEA_SERPENT",
-  "name": "SHARD_SEA_SERPENT",
+  "name": "Shard Sea Serpent",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_SEA_SERPENT",
+    "name": "Shard Sea Serpent"
+  },
   "recipes": []
 }

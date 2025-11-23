@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_LORD_JAWBUS",
-  "name": "SHARD_LORD_JAWBUS",
+  "name": "Shard Lord Jawbus",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_LORD_JAWBUS",
+    "name": "Shard Lord Jawbus"
+  },
   "recipes": []
 }

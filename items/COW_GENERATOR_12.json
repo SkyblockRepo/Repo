@@ -28,5 +28,27 @@
     "generator_tier": 12,
     "generator": "COW"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TERRY'S_SHOP",
+      "name": "Tony's Shop",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "COW_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_LEATHER",
+          "amount": 512
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    }
+  ]
 }

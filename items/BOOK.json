@@ -21,5 +21,17 @@
     "name": "Book",
     "npc_sell_price": 12
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LIBRARIAN",
+      "name": "Librarian",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 20
+        }
+      ]
+    }
+  ]
 }

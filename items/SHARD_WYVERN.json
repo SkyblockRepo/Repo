@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_WYVERN",
-  "name": "SHARD_WYVERN",
+  "name": "Shard Wyvern",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_WYVERN",
+    "name": "Shard Wyvern"
+  },
   "recipes": []
 }

@@ -26,5 +26,22 @@
     "name": "Blood God Crest",
     "category": "ACCESSORY"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TECHNOSHOP",
+      "name": "Technoshop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 500000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_PORK",
+          "amount": 32
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_MORAY_EEL",
-  "name": "SHARD_MORAY_EEL",
+  "name": "Shard Moray Eel",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_MORAY_EEL",
+    "name": "Shard Moray Eel"
+  },
   "recipes": []
 }

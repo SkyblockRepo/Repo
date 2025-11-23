@@ -28,5 +28,27 @@
     "generator_tier": 12,
     "generator": "WHEAT"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TERRY'S_SHOP",
+      "name": "Tony's Shop",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "WHEAT_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_HAY_BALE",
+          "amount": 64
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    }
+  ]
 }

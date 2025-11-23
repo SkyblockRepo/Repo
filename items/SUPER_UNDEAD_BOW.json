@@ -80,5 +80,22 @@
     "dungeon_item": true,
     "gear_score": 40
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 800000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "UNDEAD_BOW",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }

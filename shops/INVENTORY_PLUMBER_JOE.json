@@ -93,6 +93,12 @@
     },
     "c5": {
       "lore": "Plumber's Bucket\n&7Instructions:\n&7 &b1. &7Empty water bucket.\n&7 &b2. &7Do it again because it's infinite.\n&7 &b3. &7Triple-bill client.\n\n&8Thanks Plumber Joe!\n\n&a&lUNCOMMON&r\n\n&7Cost\n&d1,000 Motes",
+      "cost": [
+        {
+          "type": "MOTES",
+          "amount": 1000
+        }
+      ],
       "output": [
         {
           "type": "ITEM",

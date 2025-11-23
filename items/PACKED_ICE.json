@@ -66,5 +66,28 @@
         }
       }
     }
+  ],
+  "soldBy": [
+    {
+      "id": "NPC_SHERRY",
+      "name": "Sherry",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 9
+        }
+      ]
+    },
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 72
+        }
+      ],
+      "amount": 8
+    }
   ]
 }

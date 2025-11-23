@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_HIDEONSACK",
-  "name": "SHARD_HIDEONSACK",
+  "name": "Shard Hideonsack",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_HIDEONSACK",
+    "name": "Shard Hideonsack"
+  },
   "recipes": []
 }

@@ -26,5 +26,17 @@
       "DAMAGE": 35
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_WEAPONSMITH_MERCHANT",
+      "name": "Weaponsmith",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 60
+        }
+      ]
+    }
+  ]
 }

@@ -26,5 +26,23 @@
     "name": "Nether Wart Pouch",
     "tier": "RARE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ANITA",
+      "name": "Anita",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "silver",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 30
+        }
+      ]
+    }
+  ]
 }

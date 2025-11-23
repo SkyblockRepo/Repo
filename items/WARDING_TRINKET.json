@@ -32,5 +32,22 @@
     },
     "origin": "RIFT"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_SORCERER_OKRON",
+      "name": "Sorcerer Okron",
+      "cost": [
+        {
+          "type": "MOTES",
+          "amount": 1000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SHADOW_CRUX",
+          "amount": 8
+        }
+      ]
+    }
+  ]
 }

@@ -21,5 +21,17 @@
     "name": "Comparator",
     "npc_sell_price": 5
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MAD_REDSTONE_ENGINEER",
+      "name": "Mad Redstone Engineer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "ENCHANTMENT_WITHER_HUNTER_0",
-  "name": "ENCHANTMENT_WITHER_HUNTER_0",
+  "name": "Enchantment Wither Hunter 0",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ENCHANTMENT_WITHER_HUNTER_0",
+    "name": "Enchantment Wither Hunter 0"
+  },
   "recipes": []
 }

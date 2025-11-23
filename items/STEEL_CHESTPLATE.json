@@ -79,5 +79,22 @@
     "dungeon_item": true,
     "gear_score": 20
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "METAL_CHESTPLATE",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }

@@ -27,5 +27,22 @@
     "tier": "RARE",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_EZEKIEL",
+      "name": "Ezekiel",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_SPORE",
+          "amount": 50
+        },
+        {
+          "type": "COINS",
+          "amount": 20000
+        }
+      ]
+    }
+  ]
 }

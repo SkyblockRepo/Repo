@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_LAPIS_CREEPER",
-  "name": "SHARD_LAPIS_CREEPER",
+  "name": "Shard Lapis Creeper",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_LAPIS_CREEPER",
+    "name": "Shard Lapis Creeper"
+  },
   "recipes": []
 }

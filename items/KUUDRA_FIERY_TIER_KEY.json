@@ -22,102 +22,47 @@
       "signature": "MxFghnShR4bjK34QxM0stUaayhG8+15w+vBccS8mtN6Qwyp3HeD4SPKKP2hnervCVD3Ey/jEkM39O8E/onAjciKT7qQe+wSqWTGpVOAlk0EhxPCkP2M85JQiyPkYKtRq2IiLJQ111xRTOJeFahAxBaBfder+37Rzyd/F0vYg4KYRoamblxvfw2hB0vwS6WTvIDT6BLjnAoeodB0JQOWRw6G27g9uGrkbev1hferUTwfDK3ZSW0tLqGUBWN2Kyix2mwIvpRdt07NncnKCI/6r+D9h73zBpiiUbmWl/6cUuy4EtKR6TFyde2KE+lka2EUNcffoI81F997HIw0INrVNAz2T1PqUbtsuFJXfFORYVBHbzh7Irox6lQqTswtlJ3TVmpdgSvdnE7vhCHSkYbJyTYrGyVyFQXOYV7k7HvCmrRGtpk87AUOwGKsrzL1wlbNRDXhpzoqZheeayjQq6UZr7/6osh10bh7TynFb/O7y5UANOerQ+NTpSomEtS/1JuuH6YmeXegiJdQBLKRJYZQHoOUSkxqcUmlW6H3JK4XZdrssz1IEtNmMR4DMnYta5M/XO40qJPCqv6nsKsSzrMdLcopx+fx9HYcUgcuH7Ia3kmbAxnwB1hGvsms/gFUuWrtcjKOVFi6iVHaf7DiGLemN+1C4BwYShJggcbgnFhS+FdQ="
     }
   },
-  "recipes": [
+  "recipes": [],
+  "soldBy": [
     {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "KUUDRA_FIERY_TIER_KEY",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
+      "id": "BARBARIAN_SHOP",
+      "name": "Barbarian Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1500000
         },
-        "3": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 60
         },
-        "5": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_STAR",
+          "amount": 2
         }
-      }
+      ]
     },
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "KUUDRA_FIERY_TIER_KEY",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
+      "id": "MAGE_SHOP",
+      "name": "Mage Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1500000
         },
-        "2": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 60
         },
-        "4": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_STAR",
+          "amount": 2
         }
-      }
-    },
-    {
-      "name": "fourth",
-      "type": "crafting",
-      "resultId": "KUUDRA_FIERY_TIER_KEY",
-      "resultQuantity": 1,
-      "crafting": {
-        "4": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "KUUDRA_FIERY_TIER_KEY",
-      "resultQuantity": 1,
-      "crafting": {
-        "5": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        }
-      }
+      ]
     }
   ]
 }

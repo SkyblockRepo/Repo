@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_YOG",
-  "name": "SHARD_YOG",
+  "name": "Shard Yog",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_YOG",
+    "name": "Shard Yog"
+  },
   "recipes": []
 }

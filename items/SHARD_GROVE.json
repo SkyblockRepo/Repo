@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_GROVE",
-  "name": "SHARD_GROVE",
+  "name": "Shard Grove",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_GROVE",
+    "name": "Shard Grove"
+  },
   "recipes": []
 }

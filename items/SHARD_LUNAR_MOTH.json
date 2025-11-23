@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_LUNAR_MOTH",
-  "name": "SHARD_LUNAR_MOTH",
+  "name": "Shard Lunar Moth",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_LUNAR_MOTH",
+    "name": "Shard Lunar Moth"
+  },
   "recipes": []
 }

@@ -21,5 +21,17 @@
     "name": "Plumber's Sponge",
     "tier": "UNCOMMON"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_PLUMBER_JOE",
+      "name": "Plumber Joe",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    }
+  ]
 }

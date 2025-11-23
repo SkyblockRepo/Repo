@@ -28,5 +28,27 @@
     "generator_tier": 12,
     "generator": "LAPIS"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BULVAR",
+      "name": "Bulvar",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "LAPIS_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+          "amount": 64
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    }
+  ]
 }

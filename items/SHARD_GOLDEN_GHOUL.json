@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_GOLDEN_GHOUL",
-  "name": "SHARD_GOLDEN_GHOUL",
+  "name": "Shard Golden Ghoul",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_GOLDEN_GHOUL",
+    "name": "Shard Golden Ghoul"
+  },
   "recipes": []
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_DREADWING",
-  "name": "SHARD_DREADWING",
+  "name": "Shard Dreadwing",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_DREADWING",
+    "name": "Shard Dreadwing"
+  },
   "recipes": []
 }

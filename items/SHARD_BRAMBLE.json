@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_BRAMBLE",
-  "name": "SHARD_BRAMBLE",
+  "name": "Shard Bramble",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_BRAMBLE",
+    "name": "Shard Bramble"
+  },
   "recipes": []
 }

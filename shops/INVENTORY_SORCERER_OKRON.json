@@ -5,6 +5,12 @@
   "slots": {
     "item1": {
       "lore": "%%aqua%%Warding Diamathame\n&7&7A powerful artifact ingrained with\n&7protective properties.\n\n&6Ability: Glyph Incantation \n&7Activate &5Glyphs &7to imbue them with a\n&7&9Warding Spell&7.\n\n&9&lRARE&r\n\n&7Cost\n&d1,000 Motes",
+      "cost": [
+        {
+          "type": "MOTES",
+          "amount": 1000
+        }
+      ],
       "output": [
         {
           "type": "ITEM",
@@ -15,6 +21,10 @@
     "item2": {
       "lore": "Warding Trinket\n&7Rift Time: &a+40s\n&7Intelligence: &a+5\n\n&5&lEPIC ACCESSORY&r\n\n&7Cost\n&d1,000 Motes\n&aShadow Crux &8x8",
       "cost": [
+        {
+          "type": "MOTES",
+          "amount": 1000
+        },
         {
           "type": "ITEM",
           "item_id": "SHADOW_CRUX",

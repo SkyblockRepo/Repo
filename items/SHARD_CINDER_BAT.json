@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_CINDER_BAT",
-  "name": "SHARD_CINDER_BAT",
+  "name": "Shard Cinder Bat",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_CINDER_BAT",
+    "name": "Shard Cinder Bat"
+  },
   "recipes": []
 }

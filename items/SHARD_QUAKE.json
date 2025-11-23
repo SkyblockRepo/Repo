@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_QUAKE",
-  "name": "SHARD_QUAKE",
+  "name": "Shard Quake",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_QUAKE",
+    "name": "Shard Quake"
+  },
   "recipes": []
 }

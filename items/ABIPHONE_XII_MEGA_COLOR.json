@@ -31,5 +31,27 @@
       "max_musicdiscs": 10
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_ABIPHONE_SHOP_NUVIAN",
+      "name": "Abiphone Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12180000
+        }
+      ]
+    },
+    {
+      "id": "INVENTORY_ABIPHONE_SHOP_UDEL",
+      "name": "Abiphone Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 11820000
+        }
+      ]
+    }
+  ]
 }

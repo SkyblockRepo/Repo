@@ -83,5 +83,22 @@
     "dungeon_item": true,
     "gear_score": 30
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "MENDER_FEDORA",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }

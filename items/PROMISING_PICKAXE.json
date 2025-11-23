@@ -35,34 +35,17 @@
       "BREAKING_POWER": 3
     }
   },
-  "recipes": [
+  "recipes": [],
+  "soldBy": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "PROMISING_PICKAXE",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
+      "id": "NPC_MINE_MERCHANT",
+      "name": "Mine Merchant",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35
         }
-      }
+      ]
     }
   ]
 }

@@ -33,5 +33,17 @@
       "DAMAGE": 45
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_GREGORY",
+      "name": "Gregory",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 500
+        }
+      ]
+    }
+  ]
 }

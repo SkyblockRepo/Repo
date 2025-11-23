@@ -28,5 +28,18 @@
     "tier": "EPIC",
     "description": "%%gold%%Gold%%gray%%, but broken into fragments. This makes it important somehow."
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_LIZ'S_STOCK_REDEMPTION",
+      "name": "Liz's Stock Redemption",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "STOCK_OF_STONKS",
+          "amount": 3
+        }
+      ]
+    }
+  ]
 }

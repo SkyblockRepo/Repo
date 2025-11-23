@@ -39,5 +39,18 @@
       }
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ],
+      "amount": 1
+    }
+  ]
 }

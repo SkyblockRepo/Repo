@@ -35,5 +35,27 @@
     "generator_tier": 12,
     "generator": "REVENANT"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BARTENDER",
+      "name": "Bartender",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "REVENANT_GENERATOR_1",
+          "amount": 11
+        },
+        {
+          "type": "ITEM",
+          "item_id": "REVENANT_VISCERA",
+          "amount": 64
+        },
+        {
+          "type": "COINS",
+          "amount": 2000000
+        }
+      ]
+    }
+  ]
 }

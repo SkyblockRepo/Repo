@@ -21,5 +21,28 @@
     "name": "Ice",
     "npc_sell_price": 0.5
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_SHERRY",
+      "name": "Sherry",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 8
+        }
+      ],
+      "amount": 8
+    }
+  ]
 }

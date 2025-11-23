@@ -1,6 +1,6 @@
 {
   "internalId": "ESSENCE_DRAGON",
-  "name": "ESSENCE_DRAGON",
+  "name": "Essence Dragon",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ESSENCE_DRAGON",
+    "name": "Essence Dragon"
+  },
   "recipes": []
 }

@@ -22,5 +22,17 @@
     "tier": "EPIC",
     "glowing": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LUMINA",
+      "name": "Lumina",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100000
+        }
+      ]
+    }
+  ]
 }

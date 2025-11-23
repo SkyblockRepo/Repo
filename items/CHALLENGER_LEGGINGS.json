@@ -15,43 +15,29 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CHALLENGER_LEGGINGS",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 64
-        },
-        "2": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 16
-        },
-        "3": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 1
-        }
-      }
+  "data": {
+    "id": "CHALLENGER_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "42,91,72",
+    "name": "Challenger's Leggings",
+    "category": "LEGGINGS",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "CHALLENGER": "MYTHOS"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CHALLENGER": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "STRENGTH": 20,
+      "HEALTH": 70,
+      "DEFENSE": 35
     }
-  ]
+  },
+  "recipes": []
 }

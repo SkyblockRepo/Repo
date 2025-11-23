@@ -23,5 +23,17 @@
     "unstackable": true,
     "npc_sell_price": 10
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TALBOT'S_SHOP",
+      "name": "Talbot (Finnegan's Friend)",
+      "cost": [
+        {
+          "type": "PELTS",
+          "amount": 80
+        }
+      ]
+    }
+  ]
 }

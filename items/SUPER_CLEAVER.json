@@ -75,5 +75,22 @@
     ],
     "dungeon_item": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 80000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "CLEAVER",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }

@@ -27,5 +27,28 @@
     "category": "ACCESSORY",
     "tier": "RARE"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ANITA",
+      "name": "Anita",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 100
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ANITA_RING",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }

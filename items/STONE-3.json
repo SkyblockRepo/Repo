@@ -22,5 +22,18 @@
     "name": "Diorite",
     "npc_sell_price": 2
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 32
+        }
+      ],
+      "amount": 8
+    }
+  ]
 }

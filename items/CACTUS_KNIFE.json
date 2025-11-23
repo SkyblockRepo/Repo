@@ -66,5 +66,23 @@
       "mapped_item_ids": []
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ANITA",
+      "name": "Anita",
+      "cost": [
+        {
+          "type": "JACOB_MEDAL",
+          "medal_type": "gold",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "JACOBS_TICKET",
+          "amount": 32
+        }
+      ]
+    }
+  ]
 }

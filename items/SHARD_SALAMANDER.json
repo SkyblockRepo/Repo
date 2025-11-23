@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_SALAMANDER",
-  "name": "SHARD_SALAMANDER",
+  "name": "Shard Salamander",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_SALAMANDER",
+    "name": "Shard Salamander"
+  },
   "recipes": []
 }

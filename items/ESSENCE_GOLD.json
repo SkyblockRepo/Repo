@@ -1,6 +1,6 @@
 {
   "internalId": "ESSENCE_GOLD",
-  "name": "ESSENCE_GOLD",
+  "name": "Essence Gold",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ESSENCE_GOLD",
+    "name": "Essence Gold"
+  },
   "recipes": []
 }

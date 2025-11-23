@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_BOLT",
-  "name": "SHARD_BOLT",
+  "name": "Shard Bolt",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_BOLT",
+    "name": "Shard Bolt"
+  },
   "recipes": []
 }

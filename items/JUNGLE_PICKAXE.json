@@ -41,5 +41,18 @@
       "BREAKING_POWER": 5
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ODAWA",
+      "name": "Odawa",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 200
+        }
+      ]
+    }
+  ]
 }

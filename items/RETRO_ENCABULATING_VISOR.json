@@ -31,5 +31,17 @@
     },
     "origin": "RIFT"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_UNHINGED_KLOON",
+      "name": "Unhinged Kloon",
+      "cost": [
+        {
+          "type": "MOTES",
+          "amount": 1000
+        }
+      ]
+    }
+  ]
 }

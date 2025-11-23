@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_VIPER",
-  "name": "SHARD_VIPER",
+  "name": "Shard Viper",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_VIPER",
+    "name": "Shard Viper"
+  },
   "recipes": []
 }

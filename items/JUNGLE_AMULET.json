@@ -30,5 +30,23 @@
       "GEMSTONE_FORTUNE": 10
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ODAWA",
+      "name": "Odawa",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "JUNGLE_HEART",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SLUDGE_JUICE",
+          "amount": 500
+        }
+      ]
+    }
+  ]
 }

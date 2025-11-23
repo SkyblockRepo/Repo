@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_HERON",
-  "name": "SHARD_HERON",
+  "name": "Shard Heron",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_HERON",
+    "name": "Shard Heron"
+  },
   "recipes": []
 }

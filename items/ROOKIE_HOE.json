@@ -36,5 +36,27 @@
       "game_stage": "STARTER"
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_FARM_MERCHANT",
+      "name": "Farm Merchant",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": "NPC_WINDMILL_OPERATOR",
+      "name": "Windmill Operator",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    }
+  ]
 }

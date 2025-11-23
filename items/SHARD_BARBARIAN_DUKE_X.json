@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_BARBARIAN_DUKE_X",
-  "name": "SHARD_BARBARIAN_DUKE_X",
+  "name": "Shard Barbarian Duke X",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_BARBARIAN_DUKE_X",
+    "name": "Shard Barbarian Duke X"
+  },
   "recipes": []
 }

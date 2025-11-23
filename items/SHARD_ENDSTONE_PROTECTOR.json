@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_ENDSTONE_PROTECTOR",
-  "name": "SHARD_ENDSTONE_PROTECTOR",
+  "name": "Shard Endstone Protector",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_ENDSTONE_PROTECTOR",
+    "name": "Shard Endstone Protector"
+  },
   "recipes": []
 }

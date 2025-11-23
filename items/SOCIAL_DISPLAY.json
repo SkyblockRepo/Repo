@@ -29,5 +29,17 @@
     ],
     "description": "Places a hologram displaying the top players on your island by points."
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_AMELIA",
+      "name": "Amelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    }
+  ]
 }

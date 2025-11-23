@@ -32,5 +32,27 @@
     },
     "double_tap_to_drop": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_ABIPHONE_SHOP_NUVIAN",
+      "name": "Abiphone Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5075000
+        }
+      ]
+    },
+    {
+      "id": "INVENTORY_ABIPHONE_SHOP_UDEL",
+      "name": "Abiphone Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4925000
+        }
+      ]
+    }
+  ]
 }

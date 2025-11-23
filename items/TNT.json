@@ -1,6 +1,6 @@
 {
   "internalId": "TNT",
-  "name": "TNT",
+  "name": "Tnt",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 15,
@@ -21,5 +21,17 @@
     "name": "TNT",
     "npc_sell_price": 15
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MAD_REDSTONE_ENGINEER",
+      "name": "Mad Redstone Engineer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 50
+        }
+      ]
+    }
+  ]
 }

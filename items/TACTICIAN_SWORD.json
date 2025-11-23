@@ -33,5 +33,17 @@
       "CRITICAL_CHANCE": 20
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MASTER_TACTICIAN",
+      "name": "Master Tactician",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35000
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_KOMODO_DRAGON",
-  "name": "SHARD_KOMODO_DRAGON",
+  "name": "Shard Komodo Dragon",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_KOMODO_DRAGON",
+    "name": "Shard Komodo Dragon"
+  },
   "recipes": []
 }

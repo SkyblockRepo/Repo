@@ -28,5 +28,32 @@
     "generator_tier": 12,
     "generator": "MUSHROOM"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TERRY'S_SHOP",
+      "name": "Tony's Shop",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "MUSHROOM_GENERATOR_11",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_BROWN_MUSHROOM",
+          "amount": 512
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_MUSHROOM",
+          "amount": 512
+        },
+        {
+          "type": "PELTS",
+          "amount": 75
+        }
+      ]
+    }
+  ]
 }

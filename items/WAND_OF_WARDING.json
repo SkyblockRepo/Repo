@@ -24,5 +24,17 @@
     "glowing": true,
     "origin": "RIFT"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "INVENTORY_SORCERER_OKRON",
+      "name": "Sorcerer Okron",
+      "cost": [
+        {
+          "type": "MOTES",
+          "amount": 1000
+        }
+      ]
+    }
+  ]
 }

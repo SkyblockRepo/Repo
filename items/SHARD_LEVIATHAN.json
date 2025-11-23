@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_LEVIATHAN",
-  "name": "SHARD_LEVIATHAN",
+  "name": "Shard Leviathan",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_LEVIATHAN",
+    "name": "Shard Leviathan"
+  },
   "recipes": []
 }

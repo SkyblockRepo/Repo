@@ -23,5 +23,37 @@
     "glowing": true,
     "npc_sell_price": 2
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 3000
+        }
+      ]
+    },
+    {
+      "id": "NPC_CHUNK",
+      "name": "Chunk",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        }
+      ]
+    },
+    {
+      "id": "NPC_WALTER",
+      "name": "Walter",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2500
+        }
+      ]
+    }
+  ]
 }

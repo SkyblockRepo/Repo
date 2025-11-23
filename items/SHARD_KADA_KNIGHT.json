@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_KADA_KNIGHT",
-  "name": "SHARD_KADA_KNIGHT",
+  "name": "Shard Kada Knight",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_KADA_KNIGHT",
+    "name": "Shard Kada Knight"
+  },
   "recipes": []
 }

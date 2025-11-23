@@ -27,5 +27,17 @@
     "category": "ACCESSORY",
     "npc_sell_price": 200
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ADVENTURER",
+      "name": "Adventurer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        }
+      ]
+    }
+  ]
 }

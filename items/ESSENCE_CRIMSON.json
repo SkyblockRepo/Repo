@@ -1,6 +1,6 @@
 {
   "internalId": "ESSENCE_CRIMSON",
-  "name": "ESSENCE_CRIMSON",
+  "name": "Essence Crimson",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "ESSENCE_CRIMSON",
+    "name": "Essence Crimson"
+  },
   "recipes": []
 }

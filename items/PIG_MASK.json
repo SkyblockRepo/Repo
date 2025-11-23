@@ -31,5 +31,22 @@
       "WALK_SPEED": 1
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_TECHNOSHOP",
+      "name": "Technoshop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_PORK",
+          "amount": 2
+        }
+      ]
+    }
+  ]
 }

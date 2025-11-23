@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_HUMMINGBIRD",
-  "name": "SHARD_HUMMINGBIRD",
+  "name": "Shard Hummingbird",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_HUMMINGBIRD",
+    "name": "Shard Hummingbird"
+  },
   "recipes": []
 }

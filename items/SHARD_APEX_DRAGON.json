@@ -1,6 +1,6 @@
 {
   "internalId": "SHARD_APEX_DRAGON",
-  "name": "SHARD_APEX_DRAGON",
+  "name": "Shard Apex Dragon",
   "category": null,
   "source": "HypixelBazaar",
   "npcValue": 0,
@@ -15,6 +15,9 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHARD_APEX_DRAGON",
+    "name": "Shard Apex Dragon"
+  },
   "recipes": []
 }

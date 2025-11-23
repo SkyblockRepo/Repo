@@ -22,5 +22,17 @@
     "name": "True Essence",
     "glowing": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OLD_SHAMAN_NYKO",
+      "name": "Old Shaman Nyko",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 25000
+        }
+      ]
+    }
+  ]
 }

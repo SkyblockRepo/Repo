@@ -27,5 +27,17 @@
     "tier": "UNCOMMON",
     "unstackable": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_SHIFTY",
+      "name": "Shifty",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4000
+        }
+      ]
+    }
+  ]
 }

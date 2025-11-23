@@ -15,6 +15,51 @@
     "soulboundable": true,
     "sackable": false
   },
-  "data": null,
-  "recipes": []
+  "data": {
+    "id": "KUUDRA_TIER_KEY",
+    "name": "Kuudra Tier Key"
+  },
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "BARBARIAN_SHOP",
+      "name": "Barbarian Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_STAR",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "MAGE_SHOP",
+      "name": "Mage Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 2
+        },
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_STAR",
+          "amount": 2
+        }
+      ]
+    }
+  ]
 }

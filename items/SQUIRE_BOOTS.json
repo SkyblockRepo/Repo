@@ -44,5 +44,17 @@
       "DEFENSE": 20
     }
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_ROSETTA_SQUIRE_ARMOR",
+      "name": "Squire Armor",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 4000
+        }
+      ]
+    }
+  ]
 }

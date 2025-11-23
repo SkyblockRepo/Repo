@@ -84,5 +84,22 @@
     "dungeon_item": true,
     "gear_score": 60
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 5000000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "SHADOW_GOGGLES",
+          "amount": 1
+        }
+      ]
+    }
+  ]
 }
