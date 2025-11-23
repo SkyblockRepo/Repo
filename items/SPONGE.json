@@ -21,5 +21,19 @@
     "name": "Sponge",
     "npc_sell_price": 50
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "TRADES_MENU",
+      "name": "Trades",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "SPONGE:1",
+          "amount": 1
+        }
+      ],
+      "amount": 1
+    }
+  ]
 }

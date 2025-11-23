@@ -21,5 +21,18 @@
     "name": "Flint",
     "npc_sell_price": 4
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_PAT",
+      "name": "Pat",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 60
+        }
+      ],
+      "amount": 10
+    }
+  ]
 }

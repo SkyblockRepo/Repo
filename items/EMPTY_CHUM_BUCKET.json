@@ -26,5 +26,22 @@
     "name": "Empty Chum Bucket",
     "tier": "COMMON"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MOBY",
+      "name": "Moby",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 2000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 8
+        }
+      ]
+    }
+  ]
 }

@@ -19,5 +19,17 @@
     "id": "ENCHANTMENT_SHARPNESS_1",
     "name": "Enchantment Sharpness 1"
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_LIBRARIAN",
+      "name": "Librarian",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
+    }
+  ]
 }

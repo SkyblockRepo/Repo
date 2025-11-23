@@ -28,5 +28,24 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 25
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_MOBY",
+      "name": "Moby",
+      "cost": [
+        {
+          "type": "ITEM",
+          "item_id": "FULL_CHUM_BUCKET",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "GLOWING_MUSHROOM",
+          "amount": 4
+        }
+      ],
+      "amount": 16
+    }
+  ]
 }

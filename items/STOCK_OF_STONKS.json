@@ -22,5 +22,17 @@
     "tier": "EPIC",
     "museum": true
   },
-  "recipes": []
+  "recipes": [],
+  "soldBy": [
+    {
+      "id": "NPC_WARREN",
+      "name": "Warren",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200
+        }
+      ]
+    }
+  ]
 }
