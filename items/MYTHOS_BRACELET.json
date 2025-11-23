@@ -17,52 +17,29 @@
   },
   "data": {
     "id": "MYTHOS_BRACELET",
+    "material": "SKULL_ITEM",
+    "durability": 3,
     "skin": {
       "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjg2OTQ0Njc1OSwKICAicHJvZmlsZUlkIiA6ICJkNDAwODgyZmY3OGQ0ZGVhYjliMGNlMTc2YmQ1ZTQyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcmF4aWJldGwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzZkMGJmMDVlM2UyMGY0MjRiZWI4OWJhZWUyM2JiMGEwNTAxMGIxYjUzYzU5YjE1MWVjMGI5NGViZDMzZWRkYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "signature": "YFAR0Lg0fptUkHrIv3chDfnlYMaeunFTPS82bR6wMItvByvjczX47tfFMyMseCvxjhz8xEEkMHesQQPd+fccYoYzdrvhN4MObAVnhbqwIYJgOnR53vzs+UQV3TosjXcCzFZhrAyjUZNBfeuSnsmSswSTcLOXifSEr2khEFcV1O+AUqjnUmj533NcHHgJGJjkozWQAuOHJz6UGQ677uRQwlcK8xLdDA965yJgvK0/ECmSOkgBhcFX/xINqkH60I7RqOgyVooWWFSNDZLp6qrhPUlf7g+G3i9irfrNGSJLwewJw5Eqs0Ey5U3Ep3C6mWHD4cef9ZMdZz8Bw+mcHHpkpOURIRw5Xct1yKYGoMDBp7hDP3ralXaW7R3VVnjF7nAF/w8aJLDVzBcFzFmZybqEij/PtBY7drYSKghaERFcg1AB0CjaFtEp2WZyGdb0S6LOmpclQEIpxEczK6GoKNKlmNXKrl0DYQWVmJW+BvYWc2YM3jGIe1oVga3cTZTZV/eO/9lb7o+zFFnojrkPbCrf0jDK1u9aoTFqDjkRx1htM9c2xHqP7FeJg8qqFLvL1RpKegrRc3rtA+ye1WotZG72YJubLTulCplZCX2AcT6c8IVRro4fIgGJFjWQzfKuwryOdmLphyUzEwBcgP0lbHVeJbwaJVDJj+SKYyWe5791vFA="
     },
-    "name": "Mythos Bracelet"
-  },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MYTHOS_BRACELET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "2": {
-          "itemId": "MYTHOS_FRAGMENT",
-          "quantity": 4
-        },
-        "3": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "ENCHANTED_ANCIENT_CLAW",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "ENCHANTED_ANCIENT_CLAW",
-          "quantity": 16
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "CHALLENGER_BRACELET",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        }
-      }
+    "name": "Mythos Bracelet",
+    "category": "BRACELET",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MYTHOS": 12
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "STRENGTH": 15,
+      "HEALTH": 25,
+      "DEFENSE": 15
     }
-  ]
+  },
+  "recipes": []
 }

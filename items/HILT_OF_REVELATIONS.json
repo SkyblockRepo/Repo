@@ -3,7 +3,7 @@
   "name": "Hilt of Revelations",
   "category": "Item",
   "source": "HypixelWiki",
-  "npcValue": 0,
+  "npcValue": 150000,
   "lore": "&7A rusted hilt, dropped by the Minos\n\n&7Hunter.\n\n\n\n&eRight-click to view recipes!\n\n\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -15,6 +15,13 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "HILT_OF_REVELATIONS",
+    "material": "STICK",
+    "name": "Hilt of Revelations",
+    "tier": "RARE",
+    "npc_sell_price": 150000,
+    "has_uuid": true
+  },
   "recipes": []
 }

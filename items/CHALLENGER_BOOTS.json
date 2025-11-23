@@ -15,31 +15,29 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CHALLENGER_BOOTS",
-      "resultQuantity": 1,
-      "crafting": {
-        "4": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 32
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 2
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 2
-        }
-      }
+  "data": {
+    "id": "CHALLENGER_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "42,91,72",
+    "name": "Challenger's Boots",
+    "category": "BOOTS",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "CHALLENGER": "MYTHOS"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CHALLENGER": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "STRENGTH": 5,
+      "HEALTH": 40,
+      "DEFENSE": 30
     }
-  ]
+  },
+  "recipes": []
 }

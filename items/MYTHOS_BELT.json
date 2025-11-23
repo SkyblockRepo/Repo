@@ -17,48 +17,29 @@
   },
   "data": {
     "id": "MYTHOS_BELT",
+    "material": "SKULL_ITEM",
+    "durability": 3,
     "skin": {
       "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjg2OTQ0NTU2NywKICAicHJvZmlsZUlkIiA6ICJiZTQxM2Y4M2Y4ZWE0MjE0OGMwMjk0YTJiYzIyN2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaWdodGJveTEwMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZjY3NTUxY2NlNzI5MzZjYWFmZWE0ZTg1ZTdmY2U2YTNiZTM2ZjkxMjU5MDkwYTIyYzE2NTc3NjhiYjg3NjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "signature": "qUviKdi1nn7NzEVtSbAG47s3miyGBIk6rmsPXLSmUieWdDjRczS/lOASyQ+SaibI/wBTbNZyCXccUpDw/wvuo+38rnnqdpNHmmtrVgJw/cllZgR2DJJSZdFsfGpTqprjc0YhmsnFADOV/wQDuX+gDi4jvdgGRIxZEC/F0tgCmHGmnFUPDwnLk6Vxwf8cBXlrYJvIKCvEJFxkM25l74tCH5ClIAsmpvFx6SY4PRr4FBwxSuJU0202bk65YUDLA570tF9zKGt3UX4BWVSNcuB5QtKdU2LQBwTle8HWbvmmcRtpdKxbZcCOfxI4Yf78u1hnbfKAKTYhQCabi+WVIDmLkeRTkujjIbvJUKevFKhMtCzTU0Oe/SkAtIN/JSEiElCYt9OsWekW0HtNtuQ8aWtjKksVqsRbLZ7LsnqsZzn42osn+C5u0LzDy/yScghXYdcTw93mW+vuYNvz/UeLWEE3dfDPJSdWlqMRC0kLsmhNdrqgWHaxOnFgc2igqX6c3/hp4EDu0YKKd4nIWsVpoaRBEXgD0e1YeuAr+9K35LfjSZsIIk5mcZdOudwomUvl8sD2YNmwhNFpCQAkWx5CBLR/efs3EbLdsckJCkOB9gFqM/lBkCooB+B4nzXHGRiWv7svASpuBMK3/I2RIz+C2S/3WmWUg3R3wJIFJ53V4EU51hI="
     },
-    "name": "Mythos Belt"
-  },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MYTHOS_BELT",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "5": {
-          "itemId": "CHALLENGER_BELT",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_GOLD_BLOCK",
-          "quantity": 8
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "MYTHOS_FRAGMENT",
-          "quantity": 4
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 32
-        }
-      }
+    "name": "Mythos Belt",
+    "category": "BELT",
+    "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "MYTHOS": 12
+      },
+      "game_stage": "SKILLED"
+    },
+    "stats": {
+      "STRENGTH": 15,
+      "HEALTH": 25,
+      "DEFENSE": 15
     }
-  ]
+  },
+  "recipes": []
 }

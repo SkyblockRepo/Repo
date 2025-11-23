@@ -17,44 +17,31 @@
   },
   "data": {
     "id": "CHALLENGER_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
     "skin": {
       "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1MjUyMjI1Mjc4NCwKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU4ZTRlNzQyOGU0ODRlMGU3ZDk4MTMyZWIwYzQwN2U5ZjdjYzI0MzRiZTc3NDg0YThjMTQ4ODFjZGVmMGE2MjYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "signature": "SXPF33rf8yiXqYKPsjHArTntHH5CYF2Z/aWIG9W0kM4lkjwvBb+G2LbL2EhgDrD5a+vfMMm0YbsEDAmlMpF4tmlS5igCHVo/n4Holy4yMpnSk4Wah5ocU90ocxJc0pYl6rQBwNRZ5oMCUlJuv0o6NO6MZ7RJFW/OFK7FFD/2zfFHqXiknD6VMGFfFcKNy2nPMigBFdw+Azn80E6rGrMmarlDhR86gz5jtxe31XKCALkEomKB/89zCw45lmO71PE/wOTbgm45TeK8Hj0MN/HgrpYbTSU2Pv/lNGrNogYGSfcU+DIS911iVIXqM2R/RZcpjHwuXIUtZzfSXHqBB5Zw7Kv9gdha54v9IVVCOmsMQOBmfWUfbn4cRhwG/wQtNT7hUVuHlfbaul0RuY1Y2wvZWdCp5JNp2yQbGLUPqjsr9V7VTkk4kr+O0oAFTsPNwCKjhGPV8MhV20SpcZPM96jSKqI3c5SL/5sCM2XPPLjeJw8FRk1iib9jcryiFxaTGWEdpmBJEWwcdNPOvVm0kFO62RWDPRDZ8ffGpVfvt2kfRYOD4WReNgTr+VxkTw8BxxFFFiPNIiZmEKqAwc6pr0EBfZJwF2F3FovuObTamx5/v+K9I1teB+gzPDOdsucG44mRDifKtYmE03Xn6/CXjnbiSBN446xEoH6tX5avT3T1LdE="
     },
-    "name": "Challenger Cloak"
-  },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CHALLENGER_CLOAK",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ENCHANTED_GOLD",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "ANCIENT_CLAW",
-          "quantity": 32
-        },
-        "7": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 2
-        },
-        "9": {
-          "itemId": "GRIFFIN_FEATHER",
-          "quantity": 2
-        }
-      }
+    "name": "Challenger's Cloak",
+    "category": "CLOAK",
+    "tier": "EPIC",
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {
+        "CHALLENGER": "MYTHOS"
+      },
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "CHALLENGER": 6
+      },
+      "game_stage": "INTERMEDIATE"
+    },
+    "stats": {
+      "STRENGTH": 5,
+      "HEALTH": 20,
+      "DEFENSE": 10
     }
-  ]
+  },
+  "recipes": []
 }

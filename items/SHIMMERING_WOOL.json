@@ -3,7 +3,7 @@
   "name": "Shimmering Wool",
   "category": "Item",
   "source": "HypixelWiki",
-  "npcValue": 0,
+  "npcValue": 5000000,
   "lore": "&7A splendid wool found nowhere else;\n\n&7it caresses your fingers and\n\n&7exudes a unique warmth the likes of\n\n&7which you have never experienced\n\n&7before, and likely never will again.\n\n\n\n&eRight-click to view recipes!\n\n\n\n&6&lLEGENDARY&r",
   "flags": {
     "tradable": true,
@@ -15,6 +15,14 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "SHIMMERING_WOOL",
+    "material": "WOOL",
+    "durability": 4,
+    "name": "Shimmering Wool",
+    "tier": "LEGENDARY",
+    "glowing": true,
+    "npc_sell_price": 5000000
+  },
   "recipes": []
 }
