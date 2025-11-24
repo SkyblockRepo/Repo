@@ -33,64 +33,7 @@
       "DAMAGE": 25
     }
   },
-  "recipes": [
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "PROMISING_AXE",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "PROMISING_AXE",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    }
-  ],
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_LUMBER_MERCHANT",
