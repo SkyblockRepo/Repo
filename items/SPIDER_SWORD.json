@@ -75,7 +75,68 @@
       ]
     ]
   },
-  "recipes": [],
+  "recipes": [
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "SPIDER_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SPIDER_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPIDER_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "SPIDER_EYE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    }
+  ],
   "soldBy": [
     {
       "id": "NPC_WEAPONSMITH_MERCHANT",
