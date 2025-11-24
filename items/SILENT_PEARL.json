@@ -22,52 +22,7 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 100
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SILENT_PEARL",
-      "resultQuantity": 8,
-      "crafting": {
-        "1": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "ENDER_PEARL",
-          "quantity": 8
-        },
-        "6": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "ENDER_STONE",
-          "quantity": 1
-        }
-      }
-    }
-  ],
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_PEARL_DEALER",
