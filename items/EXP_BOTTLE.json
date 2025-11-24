@@ -21,44 +21,7 @@
     "name": "Experience Bottle",
     "npc_sell_price": 5
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "EXP_BOTTLE",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "INK_SACK:4",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "INK_SACK:4",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "GLASS_BOTTLE",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "INK_SACK:4",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "INK_SACK:4",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "INK_SACK:4",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "INK_SACK:4",
-          "quantity": 1
-        }
-      }
-    }
-  ],
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_LIBRARIAN",
