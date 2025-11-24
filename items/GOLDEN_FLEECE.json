@@ -35,9 +35,50 @@
     },
     "stats": {
       "STRENGTH": 20,
-      "CRITICAL_DAMAGE": 15,
-      "TRUE_DEFENSE": 10
+      "TRUE_DEFENSE": 10,
+      "CRITICAL_DAMAGE": 15
     }
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GOLDEN_FLEECE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_WOOL",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "SHIMMERING_WOOL",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_WOOL",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "BRAIDED_GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        },
+        "9": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 64
+        }
+      }
+    }
+  ]
 }

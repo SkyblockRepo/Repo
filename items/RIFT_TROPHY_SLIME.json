@@ -15,7 +15,10 @@
     "soulboundable": true,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "RIFT_TROPHY_SLIME",
+    "name": "Rift Trophy Slime"
+  },
   "recipes": [
     {
       "name": "first",

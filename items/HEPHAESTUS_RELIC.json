@@ -27,5 +27,30 @@
     "category": "PET_ITEM",
     "tier": "LEGENDARY"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEPHAESTUS_RELIC",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MINOS_RELIC",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MINOS_RELIC",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HEPHAESTUS_ANVIL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MINOS_RELIC",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

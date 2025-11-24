@@ -27,5 +27,30 @@
     "category": "PET_ITEM",
     "tier": "LEGENDARY"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEPHAESTUS_SOUVENIR",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "WASHED_UP_SOUVENIR",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "WASHED_UP_SOUVENIR",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HEPHAESTUS_ANVIL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "WASHED_UP_SOUVENIR",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

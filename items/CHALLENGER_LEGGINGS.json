@@ -34,10 +34,47 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "STRENGTH": 20,
       "HEALTH": 70,
-      "DEFENSE": 35
+      "DEFENSE": 35,
+      "STRENGTH": 20
     }
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHALLENGER_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "ENCHANTED_GOLD",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "ANCIENT_CLAW",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

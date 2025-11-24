@@ -15,7 +15,10 @@
     "soulboundable": false,
     "sackable": false
   },
-  "data": null,
+  "data": {
+    "id": "OASIS_HOOK",
+    "name": "Oasis Hook"
+  },
   "recipes": [
     {
       "name": "first",

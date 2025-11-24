@@ -32,5 +32,50 @@
       "mapped_item_ids": []
     }
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ARCHAIC_SPADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 2
+        },
+        "2": {
+          "itemId": "GRIFFIN_FEATHER",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ANCESTRAL_SPADE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 2
+        },
+        "8": {
+          "itemId": "HILT_OF_REVELATIONS",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_ANCIENT_CLAW",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }

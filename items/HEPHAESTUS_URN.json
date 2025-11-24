@@ -27,5 +27,30 @@
     "category": "PET_ITEM",
     "tier": "LEGENDARY"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HEPHAESTUS_URN",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "CRETAN_URN",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "CRETAN_URN",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "HEPHAESTUS_ANVIL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CRETAN_URN",
+          "quantity": 1
+        }
+      }
+    }
+  ]
 }

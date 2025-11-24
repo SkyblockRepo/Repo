@@ -47,10 +47,39 @@
       "game_stage": "SKILLED"
     },
     "stats": {
-      "STRENGTH": 50,
       "HEALTH": 160,
-      "DEFENSE": 80
+      "DEFENSE": 80,
+      "STRENGTH": 50
     }
   },
-  "recipes": []
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MYTHOS_CHESTPLATE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 2
+        },
+        "4": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "CHALLENGER_CHESTPLATE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_GOLD_BLOCK",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "MYTHOS_FRAGMENT",
+          "quantity": 2
+        }
+      }
+    }
+  ]
 }
