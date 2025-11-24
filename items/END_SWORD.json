@@ -33,28 +33,7 @@
       "DAMAGE": 35
     }
   },
-  "recipes": [
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "END_SWORD",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENDER_PEARL",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "ENDER_PEARL",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    }
-  ],
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_WEAPONSMITH_MERCHANT",
