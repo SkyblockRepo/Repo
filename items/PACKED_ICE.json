@@ -21,7 +21,52 @@
     "name": "Packed Ice",
     "npc_sell_price": 4.5
   },
-  "recipes": [],
+  "recipes": [
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PACKED_ICE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ICE",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ICE",
+          "quantity": 1
+        }
+      }
+    }
+  ],
   "soldBy": [
     {
       "id": "NPC_SHERRY",
