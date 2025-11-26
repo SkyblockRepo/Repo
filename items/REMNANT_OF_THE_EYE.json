@@ -28,6 +28,7 @@
     "npc_sell_price": 1,
     "has_uuid": true
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_PEARL_DEALER",
@@ -39,6 +40,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }

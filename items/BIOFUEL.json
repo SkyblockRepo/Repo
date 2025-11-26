@@ -25,6 +25,7 @@
     "npc_sell_price": 10000,
     "description": "%%dark_gray%%%%italic%%100% renewable energy!"
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_BUBU",
@@ -36,6 +37,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }

@@ -35,18 +35,6 @@
       "BREAKING_POWER": 3
     }
   },
-  "soldBy": [
-    {
-      "id": "NPC_MINE_MERCHANT",
-      "name": "Mine Merchant",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 35
-        }
-      ]
-    }
-  ],
   "recipes": [
     {
       "name": "first",
@@ -75,6 +63,18 @@
           "quantity": 1
         }
       }
+    }
+  ],
+  "soldBy": [
+    {
+      "id": "NPC_MINE_MERCHANT",
+      "name": "Mine Merchant",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35
+        }
+      ]
     }
   ]
 }
