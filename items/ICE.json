@@ -21,7 +21,6 @@
     "name": "Ice",
     "npc_sell_price": 0.5
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_SHERRY",
@@ -44,5 +43,6 @@
       ],
       "amount": 8
     }
-  ]
+  ],
+  "recipes": []
 }

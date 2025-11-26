@@ -75,6 +75,18 @@
       ]
     ]
   },
+  "soldBy": [
+    {
+      "id": "NPC_WEAPONSMITH_MERCHANT",
+      "name": "Weaponsmith",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 100
+        }
+      ]
+    }
+  ],
   "recipes": [
     {
       "name": "third",
@@ -135,18 +147,6 @@
           "quantity": 1
         }
       }
-    }
-  ],
-  "soldBy": [
-    {
-      "id": "NPC_WEAPONSMITH_MERCHANT",
-      "name": "Weaponsmith",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 100
-        }
-      ]
     }
   ]
 }
