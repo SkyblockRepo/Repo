@@ -21,6 +21,29 @@
     "name": "Packed Ice",
     "npc_sell_price": 4.5
   },
+  "soldBy": [
+    {
+      "id": "NPC_SHERRY",
+      "name": "Sherry",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 9
+        }
+      ]
+    },
+    {
+      "id": "NPC_BUILDER_CLASSIC",
+      "name": "Builder",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 72
+        }
+      ],
+      "amount": 8
+    }
+  ],
   "recipes": [
     {
       "name": "first",
@@ -65,29 +88,6 @@
           "quantity": 1
         }
       }
-    }
-  ],
-  "soldBy": [
-    {
-      "id": "NPC_SHERRY",
-      "name": "Sherry",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 9
-        }
-      ]
-    },
-    {
-      "id": "NPC_BUILDER_CLASSIC",
-      "name": "Builder",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 72
-        }
-      ],
-      "amount": 8
     }
   ]
 }

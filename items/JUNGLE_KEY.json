@@ -24,7 +24,6 @@
     "can_interact": false,
     "description": "%%gray%%Used to open the entrance to the Jungle Temple."
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_ODAWA",
@@ -37,5 +36,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

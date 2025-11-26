@@ -21,6 +21,28 @@
     "name": "Nether Wart",
     "npc_sell_price": 4
   },
+  "soldBy": [
+    {
+      "id": "INVENTORY_AN",
+      "name": "An",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": "ULYN_INVENTORY",
+      "name": "Ulyn",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 10
+        }
+      ]
+    }
+  ],
   "recipes": [
     {
       "name": "stranded",
@@ -49,28 +71,6 @@
           "quantity": 1
         }
       }
-    }
-  ],
-  "soldBy": [
-    {
-      "id": "INVENTORY_AN",
-      "name": "An",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 10
-        }
-      ]
-    },
-    {
-      "id": "ULYN_INVENTORY",
-      "name": "Ulyn",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 10
-        }
-      ]
     }
   ]
 }

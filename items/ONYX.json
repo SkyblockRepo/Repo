@@ -28,7 +28,6 @@
     "tier": "RARE",
     "npc_sell_price": 1
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_MINE_MERCHANT",
@@ -40,5 +39,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }
