@@ -2,8 +2,6 @@
   "internalId": "LUCK",
   "name": "Luck",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 7,
   "items": [
     "ENCHANTMENT_LUCK_1",
     "ENCHANTMENT_LUCK_2",
@@ -12,5 +10,7 @@
     "ENCHANTMENT_LUCK_5",
     "ENCHANTMENT_LUCK_6",
     "ENCHANTMENT_LUCK_7"
-  ]
+  ],
+  "maxLevel": 7,
+  "minLevel": 1
 }

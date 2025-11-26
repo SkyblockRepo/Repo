@@ -1,21 +1,21 @@
 {
   "internalId": "BINGO",
   "name": "Bingo",
-  "source": "HypixelWiki",
   "category": "",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Strength",
-    "Speed"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": false,
     "mountable": false,
     "tradable": false,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Strength",
+    "Speed"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

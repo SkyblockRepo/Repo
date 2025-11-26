@@ -2,13 +2,13 @@
   "internalId": "LAPIDARY",
   "name": "Lapidary",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_LAPIDARY_1",
     "ENCHANTMENT_LAPIDARY_2",
     "ENCHANTMENT_LAPIDARY_3",
     "ENCHANTMENT_LAPIDARY_4",
     "ENCHANTMENT_LAPIDARY_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

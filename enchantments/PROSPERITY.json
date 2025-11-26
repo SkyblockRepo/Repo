@@ -2,13 +2,13 @@
   "internalId": "PROSPERITY",
   "name": "Prosperity",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_PROSPERITY_1",
     "ENCHANTMENT_PROSPERITY_2",
     "ENCHANTMENT_PROSPERITY_3",
     "ENCHANTMENT_PROSPERITY_4",
     "ENCHANTMENT_PROSPERITY_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

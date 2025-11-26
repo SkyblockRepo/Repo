@@ -3,6 +3,9 @@
   "name": "Tavern",
   "source": "HypixelWiki",
   "discoveryText": "Tavern\nPurchase refreshing drinks.\nTalk to Maddox the Slayer about Slayer Quests.",
+  "fairySouls": [],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Bartender",
@@ -12,8 +15,5 @@
       "link": "Maddox the Slayer",
       "name": "Maddox the Slayer"
     }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": []
+  ]
 }

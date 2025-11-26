@@ -1,20 +1,20 @@
 {
   "internalId": "ZOMBIE",
   "name": "Zombie",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Crit Damage"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Crit Damage"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

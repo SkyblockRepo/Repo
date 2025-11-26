@@ -2,8 +2,6 @@
   "internalId": "VAMPIRISM",
   "name": "Vampirism",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_VAMPIRISM_1",
     "ENCHANTMENT_VAMPIRISM_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_VAMPIRISM_4",
     "ENCHANTMENT_VAMPIRISM_5",
     "ENCHANTMENT_VAMPIRISM_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

@@ -3,7 +3,17 @@
   "name": "Drowned Reliquary",
   "source": "HypixelWiki",
   "discoveryText": "Drowned Reliquary\nHunt the habitants of the depths!",
-  "npcs": [],
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Gill Membrane",
+      "name": "Gill Membrane"
+    },
+    {
+      "link": "Sturdy Bone",
+      "name": "Sturdy Bone"
+    }
+  ],
   "mobs": [
     {
       "link": "Hydrospear",
@@ -18,15 +28,5 @@
       "name": "Tidetot"
     }
   ],
-  "mobDrops": [
-    {
-      "link": "Gill Membrane",
-      "name": "Gill Membrane"
-    },
-    {
-      "link": "Sturdy Bone",
-      "name": "Sturdy Bone"
-    }
-  ],
-  "fairySouls": []
+  "npcs": []
 }

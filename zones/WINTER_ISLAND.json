@@ -3,6 +3,55 @@
   "name": "Jerry's Workshop",
   "source": "HypixelWiki",
   "discoveryText": "Jerry's Workshop\nTalk to Frosty.\nDefend the village from enemies!\nIce fishing\nExchange Gifts!",
+  "fairySouls": [
+    {
+      "location": "TERRYS_SHACK",
+      "number": 1,
+      "coordinates": {
+        "x": -95,
+        "y": 77,
+        "z": 20
+      }
+    },
+    {
+      "location": "WINTER_ISLAND",
+      "number": 2,
+      "coordinates": {
+        "x": 74,
+        "y": 109,
+        "z": -18
+      }
+    },
+    {
+      "location": "WINTER_ISLAND",
+      "number": 3,
+      "coordinates": {
+        "x": -44,
+        "y": 87,
+        "z": 76
+      }
+    },
+    {
+      "location": "GARYS_SHACK",
+      "number": 4,
+      "coordinates": {
+        "x": 56,
+        "y": 108,
+        "z": 64
+      }
+    },
+    {
+      "location": "WINTER_ISLAND",
+      "number": 5,
+      "coordinates": {
+        "x": -7,
+        "y": 108,
+        "z": 107
+      }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Banker Barry",
@@ -71,55 +120,6 @@
     {
       "link": "Terry",
       "name": "Terry"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": [
-    {
-      "location": "TERRYS_SHACK",
-      "number": 1,
-      "coordinates": {
-        "x": -95,
-        "y": 77,
-        "z": 20
-      }
-    },
-    {
-      "location": "WINTER_ISLAND",
-      "number": 2,
-      "coordinates": {
-        "x": 74,
-        "y": 109,
-        "z": -18
-      }
-    },
-    {
-      "location": "WINTER_ISLAND",
-      "number": 3,
-      "coordinates": {
-        "x": -44,
-        "y": 87,
-        "z": 76
-      }
-    },
-    {
-      "location": "GARYS_SHACK",
-      "number": 4,
-      "coordinates": {
-        "x": 56,
-        "y": 108,
-        "z": 64
-      }
-    },
-    {
-      "location": "WINTER_ISLAND",
-      "number": 5,
-      "coordinates": {
-        "x": -7,
-        "y": 108,
-        "z": 107
-      }
     }
   ]
 }

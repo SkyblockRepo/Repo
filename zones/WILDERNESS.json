@@ -3,96 +3,6 @@
   "name": "Wilderness",
   "source": "HypixelWiki",
   "discoveryText": "Wilderness\nFish in the pond.\nVisit Tia the Fairy at the Fairy Pond.\nDiscover hidden secrets.",
-  "npcs": [
-    {
-      "link": "Angler Angus",
-      "name": "Angler Angus"
-    },
-    {
-      "link": "Fisherwoman Enid",
-      "name": "Fisherwoman Enid"
-    },
-    {
-      "link": "Gladiator",
-      "name": "Gladiator"
-    },
-    {
-      "link": "Lucius",
-      "name": "Lucius"
-    },
-    {
-      "link": "Romero",
-      "name": "Romero"
-    },
-    {
-      "link": "Shifty",
-      "name": "Shifty"
-    },
-    {
-      "link": "Sirius",
-      "name": "Sirius"
-    },
-    {
-      "link": "Tia the Fairy",
-      "name": "Tia the Fairy"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
-    },
-    {
-      "link": "Scary Jerry",
-      "name": "Scary Jerry"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Wither Gourd",
-      "name": "Wither Gourd"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Blast O' Lantern",
-      "name": "Blast O' Lantern"
-    },
-    {
-      "link": "Bone Dye",
-      "name": "Bone Dye"
-    },
-    {
-      "link": "Ectoplasm",
-      "name": "Ectoplasm"
-    },
-    {
-      "link": "Green Candy",
-      "name": "Green Candy"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Purple Candy",
-      "name": "Purple Candy"
-    }
-  ],
   "fairySouls": [
     {
       "location": "WILDERNESS",
@@ -201,6 +111,96 @@
         "y": 60,
         "z": 129
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Angler Angus",
+      "name": "Angler Angus"
+    },
+    {
+      "link": "Fisherwoman Enid",
+      "name": "Fisherwoman Enid"
+    },
+    {
+      "link": "Gladiator",
+      "name": "Gladiator"
+    },
+    {
+      "link": "Lucius",
+      "name": "Lucius"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Shifty",
+      "name": "Shifty"
+    },
+    {
+      "link": "Sirius",
+      "name": "Sirius"
+    },
+    {
+      "link": "Tia the Fairy",
+      "name": "Tia the Fairy"
     }
   ]
 }

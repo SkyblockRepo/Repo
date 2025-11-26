@@ -3,6 +3,9 @@
   "name": "The Forge",
   "source": "HypixelWiki",
   "discoveryText": "The Forge\nRefine ores and cast items at the Forge!",
+  "fairySouls": [],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Forger",
@@ -12,8 +15,5 @@
       "link": "Fred",
       "name": "Fred"
     }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": []
+  ]
 }

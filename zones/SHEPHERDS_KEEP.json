@@ -3,19 +3,6 @@
   "name": "Shepherd's Keep",
   "source": "HypixelWiki",
   "discoveryText": "Shepherd's Keep\nTalk to the Shepherd.",
-  "npcs": [
-    {
-      "link": "Shepherd",
-      "name": "Shepherd"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Sheep",
-      "name": "Sheep"
-    }
-  ],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "SHEPHERDS_KEEP",
@@ -25,6 +12,19 @@
         "y": 78,
         "z": -365
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [
+    {
+      "link": "Sheep",
+      "name": "Sheep"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Shepherd",
+      "name": "Shepherd"
     }
   ]
 }

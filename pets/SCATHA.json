@@ -1,20 +1,20 @@
 {
   "internalId": "SCATHA",
   "name": "Scatha",
-  "source": "HypixelWiki",
   "category": "Mining",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Mining Speed",
-    "Mining Fortune"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Mining Speed",
+    "Mining Fortune"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "RARE": {
       "lore": {

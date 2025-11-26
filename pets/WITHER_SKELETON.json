@@ -1,10 +1,14 @@
 {
   "internalId": "WITHER_SKELETON",
   "name": "Wither Skeleton",
-  "source": "HypixelWiki",
   "category": "Mining",
-  "minLevel": 1,
-  "maxLevel": 100,
+  "source": "HypixelWiki",
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
   "baseStats": [
     "Crit Chance",
     "Strength",
@@ -12,12 +16,8 @@
     "Intelligence",
     "Defense"
   ],
-  "flags": {
-    "auctionable": true,
-    "mountable": false,
-    "tradable": true,
-    "museumable": false
-  },
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

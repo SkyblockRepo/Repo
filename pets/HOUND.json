@@ -1,22 +1,22 @@
 {
   "internalId": "HOUND",
   "name": "Hound",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Strength",
-    "Ferocity",
-    "Bonus Attack Speed",
-    "Speed"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Ferocity",
+    "Bonus Attack Speed",
+    "Speed"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "EPIC": {
       "lore": {

@@ -2,12 +2,12 @@
   "internalId": "SNIPE",
   "name": "Snipe",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 4,
   "items": [
     "ENCHANTMENT_SNIPE_1",
     "ENCHANTMENT_SNIPE_2",
     "ENCHANTMENT_SNIPE_3",
     "ENCHANTMENT_SNIPE_4"
-  ]
+  ],
+  "maxLevel": 4,
+  "minLevel": 1
 }

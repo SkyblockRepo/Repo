@@ -3,6 +3,29 @@
   "name": "Fisherman's Hut",
   "source": "HypixelWiki",
   "discoveryText": "Fisherman's Hut\nLearn about the Sea Creature Guide from Gavin.\nUse the Ship Navigator to reach the Backwater Bayou!",
+  "fairySouls": [
+    {
+      "location": "FISHERMAN_HUT",
+      "number": 55,
+      "coordinates": {
+        "x": 171,
+        "y": 64,
+        "z": 42
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
   "npcs": [
     {
       "link": "Captain Baha",
@@ -15,29 +38,6 @@
     {
       "link": "Gavin",
       "name": "Gavin"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "FISHERMAN_HUT",
-      "number": 55,
-      "coordinates": {
-        "x": 171,
-        "y": 64,
-        "z": 42
-      }
     }
   ]
 }

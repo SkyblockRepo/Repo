@@ -3,28 +3,15 @@
   "name": "Howling Cave",
   "source": "HypixelWiki",
   "discoveryText": "Howling Cave\nFight for your life against wolves from the past.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Old Shaman Nyko",
-      "name": "Old Shaman Nyko"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Howling Spirit",
-      "name": "Howling Spirit"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Pack Spirit",
-      "name": "Pack Spirit"
-    },
-    {
-      "link": "Soul of the Alpha",
-      "name": "Soul of the Alpha"
+      "location": "WOLF_DEN",
+      "number": 3,
+      "coordinates": {
+        "x": -390,
+        "y": 61,
+        "z": -6
+      }
     }
   ],
   "mobDrops": [
@@ -77,15 +64,28 @@
       "name": "Weak Wolf Catalyst"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "WOLF_DEN",
-      "number": 3,
-      "coordinates": {
-        "x": -390,
-        "y": 61,
-        "z": -6
-      }
+      "link": "Howling Spirit",
+      "name": "Howling Spirit"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Pack Spirit",
+      "name": "Pack Spirit"
+    },
+    {
+      "link": "Soul of the Alpha",
+      "name": "Soul of the Alpha"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Old Shaman Nyko",
+      "name": "Old Shaman Nyko"
     }
   ]
 }

@@ -3,84 +3,114 @@
   "name": "The End",
   "source": "HypixelWiki",
   "discoveryText": "The End\nFight Endermen and Endermites.\nMine End Stone and Obsidian.\nTravel to the Dragon's Nest.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Gregory",
-      "name": "Gregory"
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 1,
+      "coordinates": {
+        "x": -723,
+        "y": 75,
+        "z": -222
+      }
     },
     {
-      "link": "Guber",
-      "name": "Guber"
+      "location": "ZEALOT_BRUISER_HIDEOUT",
+      "number": 2,
+      "coordinates": {
+        "x": -609,
+        "y": 84,
+        "z": -230
+      }
     },
     {
-      "link": "Lone Adventurer",
-      "name": "Lone Adventurer"
+      "location": "VOID_SEPULTURE",
+      "number": 3,
+      "coordinates": {
+        "x": -587,
+        "y": 48,
+        "z": -293
+      }
     },
     {
-      "link": "Pearl Dealer",
-      "name": "Pearl Dealer"
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 4,
+      "coordinates": {
+        "x": -545,
+        "y": 92,
+        "z": -257
+      }
     },
     {
-      "link": "Tyzzo",
-      "name": "Tyzzo"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 5,
+      "coordinates": {
+        "x": -492,
+        "y": 81,
+        "z": -275
+      }
     },
     {
-      "link": "Enderman",
-      "name": "Enderman"
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 6,
+      "coordinates": {
+        "x": -583,
+        "y": 208,
+        "z": -272
+      }
     },
     {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 7,
+      "coordinates": {
+        "x": -587,
+        "y": 122,
+        "z": -276
+      }
     },
     {
-      "link": "Obsidian Defender",
-      "name": "Obsidian Defender"
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 8,
+      "coordinates": {
+        "x": -517,
+        "y": 100,
+        "z": -295
+      }
     },
     {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 9,
+      "coordinates": {
+        "x": -492,
+        "y": 21,
+        "z": -175
+      }
     },
     {
-      "link": "Scary Jerry",
-      "name": "Scary Jerry"
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 10,
+      "coordinates": {
+        "x": -657,
+        "y": 36,
+        "z": -201
+      }
     },
     {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
+      "location": "ENDERMAN_SANCTUARY",
+      "number": 11,
+      "coordinates": {
+        "x": -696,
+        "y": 116,
+        "z": -256
+      }
     },
     {
-      "link": "Voidling Extremist",
-      "name": "Voidling Extremist"
-    },
-    {
-      "link": "Voidling Fanatic",
-      "name": "Voidling Fanatic"
-    },
-    {
-      "link": "Seer",
-      "name": "Seer"
-    },
-    {
-      "link": "Wither Gourd",
-      "name": "Wither Gourd"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
-    },
-    {
-      "link": "Zealot",
-      "name": "Zealot"
-    },
-    {
-      "link": "Zealot Bruiser",
-      "name": "Zealot Bruiser"
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 12,
+      "coordinates": {
+        "x": -748,
+        "y": 106,
+        "z": -284
+      }
     }
   ],
   "mobDrops": [
@@ -197,114 +227,84 @@
       "name": "Summoning Eye"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "ENDERDRAGON_BOSS_ROOM",
-      "number": 1,
-      "coordinates": {
-        "x": -723,
-        "y": 75,
-        "z": -222
-      }
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
     },
     {
-      "location": "ZEALOT_BRUISER_HIDEOUT",
-      "number": 2,
-      "coordinates": {
-        "x": -609,
-        "y": 84,
-        "z": -230
-      }
+      "link": "Enderman",
+      "name": "Enderman"
     },
     {
-      "location": "VOID_SEPULTURE",
-      "number": 3,
-      "coordinates": {
-        "x": -587,
-        "y": 48,
-        "z": -293
-      }
+      "link": "Mega Bat",
+      "name": "Mega Bat"
     },
     {
-      "location": "ENDERMAN_SANCTUARY",
-      "number": 4,
-      "coordinates": {
-        "x": -545,
-        "y": 92,
-        "z": -257
-      }
+      "link": "Obsidian Defender",
+      "name": "Obsidian Defender"
     },
     {
-      "location": "ENDERMAN_SANCTUARY",
-      "number": 5,
-      "coordinates": {
-        "x": -492,
-        "y": 81,
-        "z": -275
-      }
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
     },
     {
-      "location": "ENDERMAN_SANCTUARY",
-      "number": 6,
-      "coordinates": {
-        "x": -583,
-        "y": 208,
-        "z": -272
-      }
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
     },
     {
-      "location": "ENDERMAN_SANCTUARY",
-      "number": 7,
-      "coordinates": {
-        "x": -587,
-        "y": 122,
-        "z": -276
-      }
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
     },
     {
-      "location": "ENDERMAN_SANCTUARY",
-      "number": 8,
-      "coordinates": {
-        "x": -517,
-        "y": 100,
-        "z": -295
-      }
+      "link": "Voidling Extremist",
+      "name": "Voidling Extremist"
     },
     {
-      "location": "ENDERMAN_SANCTUARY",
-      "number": 9,
-      "coordinates": {
-        "x": -492,
-        "y": 21,
-        "z": -175
-      }
+      "link": "Voidling Fanatic",
+      "name": "Voidling Fanatic"
     },
     {
-      "location": "ENDERDRAGON_BOSS_ROOM",
-      "number": 10,
-      "coordinates": {
-        "x": -657,
-        "y": 36,
-        "z": -201
-      }
+      "link": "Seer",
+      "name": "Seer"
     },
     {
-      "location": "ENDERMAN_SANCTUARY",
-      "number": 11,
-      "coordinates": {
-        "x": -696,
-        "y": 116,
-        "z": -256
-      }
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
     },
     {
-      "location": "ENDERDRAGON_BOSS_ROOM",
-      "number": 12,
-      "coordinates": {
-        "x": -748,
-        "y": 106,
-        "z": -284
-      }
+      "link": "Wraith",
+      "name": "Wraith"
+    },
+    {
+      "link": "Zealot",
+      "name": "Zealot"
+    },
+    {
+      "link": "Zealot Bruiser",
+      "name": "Zealot Bruiser"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Gregory",
+      "name": "Gregory"
+    },
+    {
+      "link": "Guber",
+      "name": "Guber"
+    },
+    {
+      "link": "Lone Adventurer",
+      "name": "Lone Adventurer"
+    },
+    {
+      "link": "Pearl Dealer",
+      "name": "Pearl Dealer"
+    },
+    {
+      "link": "Tyzzo",
+      "name": "Tyzzo"
     }
   ]
 }

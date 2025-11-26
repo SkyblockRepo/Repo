@@ -3,6 +3,27 @@
   "name": "Village Plaza",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Scribe Crux",
+      "name": "Scribe Crux"
+    },
+    {
+      "link": "Shadow Crux",
+      "name": "Shadow Crux"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Scribe",
+      "name": "Scribe"
+    },
+    {
+      "link": "Shadow",
+      "name": "Shadow"
+    }
+  ],
   "npcs": [
     {
       "link": "Cowboy Nick",
@@ -28,26 +49,5 @@
       "link": "Roger",
       "name": "Roger"
     }
-  ],
-  "mobs": [
-    {
-      "link": "Scribe",
-      "name": "Scribe"
-    },
-    {
-      "link": "Shadow",
-      "name": "Shadow"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Scribe Crux",
-      "name": "Scribe Crux"
-    },
-    {
-      "link": "Shadow Crux",
-      "name": "Shadow Crux"
-    }
-  ],
-  "fairySouls": []
+  ]
 }

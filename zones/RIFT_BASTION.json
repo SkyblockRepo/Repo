@@ -3,18 +3,18 @@
   "name": "The Bastion",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Barking Wolf",
-      "name": "Barking Wolf"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Muted Bark",
       "name": "Muted Bark"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Barking Wolf",
+      "name": "Barking Wolf"
+    }
+  ],
+  "npcs": []
 }

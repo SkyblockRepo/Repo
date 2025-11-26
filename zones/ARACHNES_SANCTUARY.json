@@ -3,36 +3,15 @@
   "name": "Arachne's Sanctuary",
   "source": "HypixelWiki",
   "discoveryText": "Arachne's Sanctuary\nHome of the Keepers.\nArachne's Altar",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Spider Tamer",
-      "name": "Spider Tamer"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Dasher Spider",
-      "name": "Dasher Spider"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Spider Jockey",
-      "name": "Spider Jockey"
-    },
-    {
-      "link": "Splitter Spider",
-      "name": "Splitter Spider"
-    },
-    {
-      "link": "Voracious Spider",
-      "name": "Voracious Spider"
-    },
-    {
-      "link": "Weaver Spider",
-      "name": "Weaver Spider"
+      "location": "ARACHNES_SANCTUARY",
+      "number": 13,
+      "coordinates": {
+        "x": -309,
+        "y": 63,
+        "z": -185
+      }
     }
   ],
   "mobDrops": [
@@ -61,15 +40,36 @@
       "name": "Travel Scroll To Spider's Den Top Of Nest"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "ARACHNES_SANCTUARY",
-      "number": 13,
-      "coordinates": {
-        "x": -309,
-        "y": 63,
-        "z": -185
-      }
+      "link": "Dasher Spider",
+      "name": "Dasher Spider"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Spider Jockey",
+      "name": "Spider Jockey"
+    },
+    {
+      "link": "Splitter Spider",
+      "name": "Splitter Spider"
+    },
+    {
+      "link": "Voracious Spider",
+      "name": "Voracious Spider"
+    },
+    {
+      "link": "Weaver Spider",
+      "name": "Weaver Spider"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Spider Tamer",
+      "name": "Spider Tamer"
     }
   ]
 }

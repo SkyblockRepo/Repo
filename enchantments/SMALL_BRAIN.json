@@ -2,11 +2,11 @@
   "internalId": "SMALL_BRAIN",
   "name": "Small Brain",
   "source": "HypixelWiki",
-  "minLevel": 3,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_SMALL_BRAIN_3",
     "ENCHANTMENT_SMALL_BRAIN_4",
     "ENCHANTMENT_SMALL_BRAIN_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 3
 }

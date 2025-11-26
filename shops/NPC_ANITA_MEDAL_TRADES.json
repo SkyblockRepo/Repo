@@ -2,6 +2,7 @@
   "internalId": "NPC_ANITA_MEDAL_TRADES",
   "name": "Medal Trades",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -227,6 +228,5 @@
       "material": "black_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "6"
+  }
 }

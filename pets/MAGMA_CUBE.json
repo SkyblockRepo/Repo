@@ -1,21 +1,21 @@
 {
   "internalId": "MAGMA_CUBE",
   "name": "Magma Cube",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Strength",
-    "Defense"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Strength",
+    "Defense"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

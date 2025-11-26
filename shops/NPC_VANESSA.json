@@ -2,6 +2,7 @@
   "internalId": "NPC_VANESSA",
   "name": "Vanessa",
   "source": "HypixelWiki",
+  "rows": "4",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -148,6 +149,5 @@
       "material": "black_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "4"
+  }
 }

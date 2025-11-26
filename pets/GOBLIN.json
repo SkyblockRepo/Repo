@@ -1,20 +1,20 @@
 {
   "internalId": "GOBLIN",
   "name": "Goblin",
-  "source": "HypixelWiki",
   "category": "Mining",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Magic Find",
-    "Ore Fortune"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Magic Find",
+    "Ore Fortune"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "LEGENDARY": {
       "lore": {

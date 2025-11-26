@@ -3,19 +3,24 @@
   "name": "Goblin Burrows",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [],
-  "mobs": [
+  "fairySouls": [
     {
-      "link": "Fireslinger",
-      "name": "Fireslinger"
+      "location": "GOBLIN_BURROWS",
+      "number": 8,
+      "coordinates": {
+        "x": -110,
+        "y": 142,
+        "z": 143
+      }
     },
     {
-      "link": "Goblin",
-      "name": "Goblin"
-    },
-    {
-      "link": "Knifethrower",
-      "name": "Knifethrower"
+      "location": "GOBLIN_BURROWS",
+      "number": 9,
+      "coordinates": {
+        "x": -116,
+        "y": 142,
+        "z": 154
+      }
     }
   ],
   "mobDrops": [
@@ -40,24 +45,19 @@
       "name": "Goblin Leggings"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "GOBLIN_BURROWS",
-      "number": 8,
-      "coordinates": {
-        "x": -110,
-        "y": 142,
-        "z": 143
-      }
+      "link": "Fireslinger",
+      "name": "Fireslinger"
     },
     {
-      "location": "GOBLIN_BURROWS",
-      "number": 9,
-      "coordinates": {
-        "x": -116,
-        "y": 142,
-        "z": 154
-      }
+      "link": "Goblin",
+      "name": "Goblin"
+    },
+    {
+      "link": "Knifethrower",
+      "name": "Knifethrower"
     }
-  ]
+  ],
+  "npcs": []
 }

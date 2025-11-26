@@ -2,11 +2,11 @@
   "internalId": "BIG_BRAIN",
   "name": "Big Brain",
   "source": "HypixelWiki",
-  "minLevel": 3,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_BIG_BRAIN_3",
     "ENCHANTMENT_BIG_BRAIN_4",
     "ENCHANTMENT_BIG_BRAIN_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 3
 }

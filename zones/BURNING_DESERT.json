@@ -3,20 +3,15 @@
   "name": "Burning Desert",
   "source": "HypixelWiki",
   "discoveryText": "Burning Desert\nVisit Dragontail.\nCollect Red Sand.\nSurvive the wildlife.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Elle",
-      "name": "Elle"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Flaming Spider",
-      "name": "Flaming Spider"
-    },
-    {
-      "link": "Magma Cube Rider",
-      "name": "Magma Cube Rider"
+      "location": "BURNING_DESERT",
+      "number": 4,
+      "coordinates": {
+        "x": -500,
+        "y": 127,
+        "z": -795
+      }
     }
   ],
   "mobDrops": [
@@ -41,15 +36,20 @@
       "name": "String"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "BURNING_DESERT",
-      "number": 4,
-      "coordinates": {
-        "x": -500,
-        "y": 127,
-        "z": -795
-      }
+      "link": "Flaming Spider",
+      "name": "Flaming Spider"
+    },
+    {
+      "link": "Magma Cube Rider",
+      "name": "Magma Cube Rider"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Elle",
+      "name": "Elle"
     }
   ]
 }

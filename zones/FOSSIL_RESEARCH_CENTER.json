@@ -3,14 +3,6 @@
   "name": "Fossil Research Center",
   "source": "HypixelWiki",
   "discoveryText": "Fossil Research Center\nTalk to Dr. Stone.\nUse the Fossil Excavator.\nDonate Fossils!\nTurn Fossils into Pets!",
-  "npcs": [
-    {
-      "link": "Dr. Stone",
-      "name": "Dr. Stone"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "FOSSIL_RESEARCH_CENTER",
@@ -20,6 +12,14 @@
         "y": 121,
         "z": 240
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Dr. Stone",
+      "name": "Dr. Stone"
     }
   ]
 }

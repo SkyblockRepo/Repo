@@ -2,8 +2,6 @@
   "internalId": "EXPERTISE",
   "name": "Expertise",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_EXPERTISE_1",
     "ENCHANTMENT_EXPERTISE_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_EXPERTISE_8",
     "ENCHANTMENT_EXPERTISE_9",
     "ENCHANTMENT_EXPERTISE_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

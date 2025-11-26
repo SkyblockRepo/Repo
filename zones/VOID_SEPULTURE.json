@@ -3,15 +3,15 @@
   "name": "Void Sepulture",
   "source": "HypixelWiki",
   "discoveryText": "Void Sepulture\nDefeat fanatics for Enderman Slayer.\nBe careful.",
-  "npcs": [],
-  "mobs": [
+  "fairySouls": [
     {
-      "link": "Voidling Extremist",
-      "name": "Voidling Extremist"
-    },
-    {
-      "link": "Voidling Fanatic",
-      "name": "Voidling Fanatic"
+      "location": "VOID_SEPULTURE",
+      "number": 3,
+      "coordinates": {
+        "x": -587,
+        "y": 48,
+        "z": -293
+      }
     }
   ],
   "mobDrops": [
@@ -40,15 +40,15 @@
       "name": "Summoning Eye"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "VOID_SEPULTURE",
-      "number": 3,
-      "coordinates": {
-        "x": -587,
-        "y": 48,
-        "z": -293
-      }
+      "link": "Voidling Extremist",
+      "name": "Voidling Extremist"
+    },
+    {
+      "link": "Voidling Fanatic",
+      "name": "Voidling Fanatic"
     }
-  ]
+  ],
+  "npcs": []
 }

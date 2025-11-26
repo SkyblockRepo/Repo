@@ -2,8 +2,6 @@
   "internalId": "FEROCIOUS_MANA",
   "name": "Ferocious Mana",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_FEROCIOUS_MANA_1",
     "ENCHANTMENT_FEROCIOUS_MANA_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_FEROCIOUS_MANA_8",
     "ENCHANTMENT_FEROCIOUS_MANA_9",
     "ENCHANTMENT_FEROCIOUS_MANA_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

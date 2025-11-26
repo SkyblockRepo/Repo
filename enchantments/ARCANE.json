@@ -2,8 +2,6 @@
   "internalId": "ARCANE",
   "name": "Woodsplitter",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_ARCANE_1",
     "ENCHANTMENT_ARCANE_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_ARCANE_4",
     "ENCHANTMENT_ARCANE_5",
     "ENCHANTMENT_ARCANE_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

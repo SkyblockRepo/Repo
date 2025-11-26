@@ -3,14 +3,6 @@
   "name": "Terry's Shack",
   "source": "HypixelWiki",
   "discoveryText": "Terry's Shack\nTalk to Terry.\nBrowse Terry's unique wares.",
-  "npcs": [
-    {
-      "link": "Terry",
-      "name": "Terry"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "TERRYS_SHACK",
@@ -20,6 +12,14 @@
         "y": 77,
         "z": 20
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Terry",
+      "name": "Terry"
     }
   ]
 }

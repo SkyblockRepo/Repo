@@ -3,6 +3,23 @@
   "name": "Community Center",
   "source": "HypixelWiki",
   "discoveryText": "Community Center\nParticipate in the Mayor Elections.\nContribute to City Projects.\nUnlock upgrades, buffs, and cosmetics in the Community Shop.",
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
   "npcs": [
     {
       "link": "Aatrox",
@@ -68,22 +85,5 @@
       "link": "Scorpius",
       "name": "Scorpius"
     }
-  ],
-  "mobs": [
-    {
-      "link": "Rat",
-      "name": "Rat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Rat Pet",
-      "name": "Rat Pet"
-    },
-    {
-      "link": "Tasty Cheese",
-      "name": "Tasty Cheese"
-    }
-  ],
-  "fairySouls": []
+  ]
 }

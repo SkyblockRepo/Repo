@@ -1,22 +1,22 @@
 {
   "internalId": "WISP",
   "name": "Wisp",
-  "source": "HypixelWiki",
   "category": "Gabagool",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Damage",
-    "True Defense",
-    "Intelligence"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Damage",
+    "True Defense",
+    "Intelligence"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "UNCOMMON": {
       "lore": {

@@ -2,6 +2,7 @@
   "internalId": "NPC_AUCTION_MASTER_ACCESSORIES",
   "name": "Auction Browser",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "golden_sword",
@@ -208,6 +209,5 @@
       "material": "green_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "6"
+  }
 }

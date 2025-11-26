@@ -2,13 +2,13 @@
   "internalId": "TRIPLE_STRIKE",
   "name": "Triple-Strike",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_TRIPLE_STRIKE_1",
     "ENCHANTMENT_TRIPLE_STRIKE_2",
     "ENCHANTMENT_TRIPLE_STRIKE_3",
     "ENCHANTMENT_TRIPLE_STRIKE_4",
     "ENCHANTMENT_TRIPLE_STRIKE_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

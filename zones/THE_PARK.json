@@ -3,176 +3,6 @@
   "name": "The Park",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Campfire Adept",
-      "name": "Campfire Adept"
-    },
-    {
-      "link": "Campfire Initiate",
-      "name": "Campfire Initiate"
-    },
-    {
-      "link": "Charlie",
-      "name": "Charlie"
-    },
-    {
-      "link": "Gustave",
-      "name": "Gustave"
-    },
-    {
-      "link": "Juliette",
-      "name": "Juliette"
-    },
-    {
-      "link": "Kelly",
-      "name": "Kelly"
-    },
-    {
-      "link": "Master Tactician Funk",
-      "name": "Master Tactician Funk"
-    },
-    {
-      "link": "Melancholic Viking",
-      "name": "Melancholic Viking"
-    },
-    {
-      "link": "Melody ♫",
-      "name": "Melody ♫"
-    },
-    {
-      "link": "Molbert",
-      "name": "Molbert"
-    },
-    {
-      "link": "Old Shaman Nyko",
-      "name": "Old Shaman Nyko"
-    },
-    {
-      "link": "Ryan",
-      "name": "Ryan"
-    },
-    {
-      "link": "Vanessa",
-      "name": "Vanessa"
-    },
-    {
-      "link": "Worker Xavier",
-      "name": "Worker Xavier"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
-    },
-    {
-      "link": "Howling Spirit",
-      "name": "Howling Spirit"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Pack Spirit",
-      "name": "Pack Spirit"
-    },
-    {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
-    },
-    {
-      "link": "Scary Jerry",
-      "name": "Scary Jerry"
-    },
-    {
-      "link": "Soul of the Alpha",
-      "name": "Soul of the Alpha"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Wither Gourd",
-      "name": "Wither Gourd"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Acacia Log",
-      "name": "Acacia Log"
-    },
-    {
-      "link": "Birch Log",
-      "name": "Birch Log"
-    },
-    {
-      "link": "Blast O' Lantern",
-      "name": "Blast O' Lantern"
-    },
-    {
-      "link": "Bone",
-      "name": "Bone"
-    },
-    {
-      "link": "Bone Dye",
-      "name": "Bone Dye"
-    },
-    {
-      "link": "Dark Oak Log",
-      "name": "Dark Oak Log"
-    },
-    {
-      "link": "Ectoplasm",
-      "name": "Ectoplasm"
-    },
-    {
-      "link": "Foraging Exp Boost",
-      "name": "Foraging Exp Boost"
-    },
-    {
-      "link": "Green Candy",
-      "name": "Green Candy"
-    },
-    {
-      "link": "Hound Pet",
-      "name": "Hound Pet"
-    },
-    {
-      "link": "Jungle Log",
-      "name": "Jungle Log"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Oak Log",
-      "name": "Oak Log"
-    },
-    {
-      "link": "Purple Candy",
-      "name": "Purple Candy"
-    },
-    {
-      "link": "Spruce Log",
-      "name": "Spruce Log"
-    },
-    {
-      "link": "Travel Scroll To Howling Cave",
-      "name": "Travel Scroll To Howling Cave"
-    },
-    {
-      "link": "Weak Wolf Catalyst",
-      "name": "Weak Wolf Catalyst"
-    }
-  ],
   "fairySouls": [
     {
       "location": "FLOATING_ISLANDS_1",
@@ -272,6 +102,176 @@
         "y": 112,
         "z": -118
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Acacia Log",
+      "name": "Acacia Log"
+    },
+    {
+      "link": "Birch Log",
+      "name": "Birch Log"
+    },
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Dark Oak Log",
+      "name": "Dark Oak Log"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Foraging Exp Boost",
+      "name": "Foraging Exp Boost"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Hound Pet",
+      "name": "Hound Pet"
+    },
+    {
+      "link": "Jungle Log",
+      "name": "Jungle Log"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Oak Log",
+      "name": "Oak Log"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Spruce Log",
+      "name": "Spruce Log"
+    },
+    {
+      "link": "Travel Scroll To Howling Cave",
+      "name": "Travel Scroll To Howling Cave"
+    },
+    {
+      "link": "Weak Wolf Catalyst",
+      "name": "Weak Wolf Catalyst"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Howling Spirit",
+      "name": "Howling Spirit"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Pack Spirit",
+      "name": "Pack Spirit"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Soul of the Alpha",
+      "name": "Soul of the Alpha"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Campfire Adept",
+      "name": "Campfire Adept"
+    },
+    {
+      "link": "Campfire Initiate",
+      "name": "Campfire Initiate"
+    },
+    {
+      "link": "Charlie",
+      "name": "Charlie"
+    },
+    {
+      "link": "Gustave",
+      "name": "Gustave"
+    },
+    {
+      "link": "Juliette",
+      "name": "Juliette"
+    },
+    {
+      "link": "Kelly",
+      "name": "Kelly"
+    },
+    {
+      "link": "Master Tactician Funk",
+      "name": "Master Tactician Funk"
+    },
+    {
+      "link": "Melancholic Viking",
+      "name": "Melancholic Viking"
+    },
+    {
+      "link": "Melody ♫",
+      "name": "Melody ♫"
+    },
+    {
+      "link": "Molbert",
+      "name": "Molbert"
+    },
+    {
+      "link": "Old Shaman Nyko",
+      "name": "Old Shaman Nyko"
+    },
+    {
+      "link": "Ryan",
+      "name": "Ryan"
+    },
+    {
+      "link": "Vanessa",
+      "name": "Vanessa"
+    },
+    {
+      "link": "Worker Xavier",
+      "name": "Worker Xavier"
     }
   ]
 }

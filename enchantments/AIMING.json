@@ -2,13 +2,13 @@
   "internalId": "AIMING",
   "name": "Dragon Tracer",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_AIMING_1",
     "ENCHANTMENT_AIMING_2",
     "ENCHANTMENT_AIMING_3",
     "ENCHANTMENT_AIMING_4",
     "ENCHANTMENT_AIMING_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

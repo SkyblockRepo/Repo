@@ -3,6 +3,39 @@
   "name": "Dreadfarm",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Frosty Crux",
+      "name": "Frosty Crux"
+    },
+    {
+      "link": "Metaphoric Egg",
+      "name": "Metaphoric Egg"
+    },
+    {
+      "link": "Volt Crux",
+      "name": "Volt Crux"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Chicken (Rift Mob)",
+      "name": "Chicken"
+    },
+    {
+      "link": "Frozille",
+      "name": "Frozille"
+    },
+    {
+      "link": "Not Chicken",
+      "name": "Not Chicken"
+    },
+    {
+      "link": "Volt",
+      "name": "Volt"
+    }
+  ],
   "npcs": [
     {
       "link": "Chicken (Rift NPC)",
@@ -24,38 +57,5 @@
       "link": "☣ Sick Farmer ☣",
       "name": "☣ Sick Farmer ☣"
     }
-  ],
-  "mobs": [
-    {
-      "link": "Chicken (Rift Mob)",
-      "name": "Chicken"
-    },
-    {
-      "link": "Frozille",
-      "name": "Frozille"
-    },
-    {
-      "link": "Not Chicken",
-      "name": "Not Chicken"
-    },
-    {
-      "link": "Volt",
-      "name": "Volt"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Frosty Crux",
-      "name": "Frosty Crux"
-    },
-    {
-      "link": "Metaphoric Egg",
-      "name": "Metaphoric Egg"
-    },
-    {
-      "link": "Volt Crux",
-      "name": "Volt Crux"
-    }
-  ],
-  "fairySouls": []
+  ]
 }

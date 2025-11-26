@@ -1,20 +1,20 @@
 {
   "internalId": "KUUDRA",
   "name": "Kuudra",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Strength",
-    "Health"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": false,
     "mountable": false,
     "tradable": false,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Health"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

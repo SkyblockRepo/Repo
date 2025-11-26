@@ -2,6 +2,7 @@
   "internalId": "GEMSTONE_GRINDER",
   "name": "Gemstone Grinder",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -223,6 +224,5 @@
       "material": "black_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "6"
+  }
 }

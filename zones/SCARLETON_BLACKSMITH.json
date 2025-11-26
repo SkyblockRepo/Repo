@@ -3,6 +3,9 @@
   "name": "Scarleton Blacksmith",
   "source": "HypixelWiki",
   "discoveryText": "Scarleton Blacksmith\nTalk to Alwin.\nUpgrade and salvage your gear.\nLearn about Attribute Fusion.",
+  "fairySouls": [],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Alwin",
@@ -12,8 +15,5 @@
       "link": "Offea",
       "name": "Offea"
     }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": []
+  ]
 }

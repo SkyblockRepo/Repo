@@ -1,20 +1,20 @@
 {
   "internalId": "ENDERMITE",
   "name": "Endermite",
-  "source": "HypixelWiki",
   "category": "Mining",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Intelligence",
-    "Pet Luck"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Intelligence",
+    "Pet Luck"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

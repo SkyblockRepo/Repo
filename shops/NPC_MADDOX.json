@@ -2,6 +2,7 @@
   "internalId": "NPC_MADDOX",
   "name": "Slayer",
   "source": "HypixelWiki",
+  "rows": "4",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -159,6 +160,5 @@
       "name": "RNG Meter",
       "lore": "\n&7Your &dRNG Meter &7fills with\n&dSlayer XP &7every time you\n&7 defeat a &aTier III&7 or higher!\n\n&7When your meter is full, your\n&7selected drop will be guaranteed\n&7to drop the next time you defeat\n&7the boss!"
     }
-  },
-  "rows": "4"
+  }
 }

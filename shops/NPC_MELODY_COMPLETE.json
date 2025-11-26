@@ -2,6 +2,7 @@
   "internalId": "NPC_MELODY_COMPLETE",
   "name": "Melody",
   "source": "HypixelWiki",
+  "rows": "5",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -194,6 +195,5 @@
     "e9": {
       "lore": "{{{E9|sb,epic,harp:Personal Harp,1,&7Use the Harp furniture to\n&7complete songs from the comfort\n&7of your island!\n\n&7Cost: &6600,000 Coins}}}"
     }
-  },
-  "rows": "5"
+  }
 }

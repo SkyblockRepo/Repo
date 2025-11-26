@@ -3,22 +3,7 @@
   "name": "Divan's Gateway",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Bylma",
-      "name": "Bylma"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Ghost",
-      "name": "Ghost"
-    },
-    {
-      "link": "Glacite Walker",
-      "name": "Glacite Walker"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Ghostly Boots",
@@ -57,5 +42,20 @@
       "name": "Volta"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Ghost",
+      "name": "Ghost"
+    },
+    {
+      "link": "Glacite Walker",
+      "name": "Glacite Walker"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Bylma",
+      "name": "Bylma"
+    }
+  ]
 }

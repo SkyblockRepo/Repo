@@ -2,8 +2,6 @@
   "internalId": "HARDENED_MANA",
   "name": "Hardened Mana",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_HARDENED_MANA_1",
     "ENCHANTMENT_HARDENED_MANA_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_HARDENED_MANA_8",
     "ENCHANTMENT_HARDENED_MANA_9",
     "ENCHANTMENT_HARDENED_MANA_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

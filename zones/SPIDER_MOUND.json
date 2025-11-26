@@ -3,7 +3,29 @@
   "name": "Spider Mound",
   "source": "HypixelWiki",
   "discoveryText": "Spider Mound\nScale the structure.\nSlay Spiders.",
-  "npcs": [],
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Spider Eye",
+      "name": "Spider Eye"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    },
+    {
+      "link": "Tarantula Pet",
+      "name": "Tarantula Pet"
+    },
+    {
+      "link": "Travel Scroll To Spider's Den Top Of Nest",
+      "name": "Travel Scroll To Spider's Den Top Of Nest"
+    }
+  ],
   "mobs": [
     {
       "link": "Dasher Spider",
@@ -30,27 +52,5 @@
       "name": "Weaver Spider"
     }
   ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Spider Eye",
-      "name": "Spider Eye"
-    },
-    {
-      "link": "String",
-      "name": "String"
-    },
-    {
-      "link": "Tarantula Pet",
-      "name": "Tarantula Pet"
-    },
-    {
-      "link": "Travel Scroll To Spider's Den Top Of Nest",
-      "name": "Travel Scroll To Spider's Den Top Of Nest"
-    }
-  ],
-  "fairySouls": []
+  "npcs": []
 }

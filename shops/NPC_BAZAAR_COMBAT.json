@@ -2,6 +2,7 @@
   "internalId": "NPC_BAZAAR_COMBAT",
   "name": "Bazaar ➜ Combat",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "golden_hoe",
@@ -198,6 +199,5 @@
       "material": "red_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "6"
+  }
 }

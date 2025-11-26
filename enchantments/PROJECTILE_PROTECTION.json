@@ -2,8 +2,6 @@
   "internalId": "PROJECTILE_PROTECTION",
   "name": "Projectile Protection",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 7,
   "items": [
     "ENCHANTMENT_PROJECTILE_PROTECTION_1",
     "ENCHANTMENT_PROJECTILE_PROTECTION_2",
@@ -12,5 +10,7 @@
     "ENCHANTMENT_PROJECTILE_PROTECTION_5",
     "ENCHANTMENT_PROJECTILE_PROTECTION_6",
     "ENCHANTMENT_PROJECTILE_PROTECTION_7"
-  ]
+  ],
+  "maxLevel": 7,
+  "minLevel": 1
 }

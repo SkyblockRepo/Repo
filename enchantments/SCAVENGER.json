@@ -2,8 +2,6 @@
   "internalId": "SCAVENGER",
   "name": "Scavenger",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_SCAVENGER_1",
     "ENCHANTMENT_SCAVENGER_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_SCAVENGER_4",
     "ENCHANTMENT_SCAVENGER_5",
     "ENCHANTMENT_SCAVENGER_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

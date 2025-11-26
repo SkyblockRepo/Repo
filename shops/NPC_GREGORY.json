@@ -2,6 +2,7 @@
   "internalId": "NPC_GREGORY",
   "name": "Gregory",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -140,6 +141,5 @@
       "name": "Fill your Quiver",
       "lore": "&7Time is money! Save a few\n&7clicks by filling up your\n&7quiver."
     }
-  },
-  "rows": "6"
+  }
 }

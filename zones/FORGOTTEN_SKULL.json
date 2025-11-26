@@ -3,6 +3,41 @@
   "name": "Forgotten Skull",
   "source": "HypixelWiki",
   "discoveryText": "Forgotten Skull\nAn unknown skull structure.",
+  "fairySouls": [
+    {
+      "location": "FORGOTTEN_SKULL",
+      "number": 16,
+      "coordinates": {
+        "x": -380,
+        "y": 141,
+        "z": -1020
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Ghast Tear",
+      "name": "Ghast Tear"
+    },
+    {
+      "link": "Tentacle Meat",
+      "name": "Tentacle Meat"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Dive Ghast",
+      "name": "Dive Ghast"
+    },
+    {
+      "link": "Ghast",
+      "name": "Ghast"
+    }
+  ],
   "npcs": [
     {
       "link": "Captain Ahone",
@@ -23,41 +58,6 @@
     {
       "link": "Vulcan",
       "name": "Vulcan"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Dive Ghast",
-      "name": "Dive Ghast"
-    },
-    {
-      "link": "Ghast",
-      "name": "Ghast"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Cyclamen Dye",
-      "name": "Cyclamen Dye"
-    },
-    {
-      "link": "Ghast Tear",
-      "name": "Ghast Tear"
-    },
-    {
-      "link": "Tentacle Meat",
-      "name": "Tentacle Meat"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "FORGOTTEN_SKULL",
-      "number": 16,
-      "coordinates": {
-        "x": -380,
-        "y": 141,
-        "z": -1020
-      }
     }
   ]
 }

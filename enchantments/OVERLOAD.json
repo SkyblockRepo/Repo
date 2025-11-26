@@ -2,13 +2,13 @@
   "internalId": "OVERLOAD",
   "name": "Overload",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_OVERLOAD_1",
     "ENCHANTMENT_OVERLOAD_2",
     "ENCHANTMENT_OVERLOAD_3",
     "ENCHANTMENT_OVERLOAD_4",
     "ENCHANTMENT_OVERLOAD_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

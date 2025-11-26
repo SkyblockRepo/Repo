@@ -3,23 +3,15 @@
   "name": "Mystic Marsh",
   "source": "HypixelWiki",
   "discoveryText": "Mystic Marsh\nVisit Scarleton.\nCollect Mycelium.\nDon't let the bulls catch up.",
-  "npcs": [],
-  "mobs": [
+  "fairySouls": [
     {
-      "link": "Cinderbat",
-      "name": "Cinderbat"
-    },
-    {
-      "link": "Fire Mage",
-      "name": "Fire Mage"
-    },
-    {
-      "link": "Flare",
-      "name": "Flare"
-    },
-    {
-      "link": "Mushroom Bull",
-      "name": "Mushroom Bull"
+      "location": "MYSTIC_MARSH",
+      "number": 7,
+      "coordinates": {
+        "x": -297,
+        "y": 81,
+        "z": -835
+      }
     }
   ],
   "mobDrops": [
@@ -56,15 +48,23 @@
       "name": "Red Mushroom"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "MYSTIC_MARSH",
-      "number": 7,
-      "coordinates": {
-        "x": -297,
-        "y": 81,
-        "z": -835
-      }
+      "link": "Cinderbat",
+      "name": "Cinderbat"
+    },
+    {
+      "link": "Fire Mage",
+      "name": "Fire Mage"
+    },
+    {
+      "link": "Flare",
+      "name": "Flare"
+    },
+    {
+      "link": "Mushroom Bull",
+      "name": "Mushroom Bull"
     }
-  ]
+  ],
+  "npcs": []
 }

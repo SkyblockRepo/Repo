@@ -3,21 +3,7 @@
   "name": "Spirit Cave",
   "source": "HypixelWiki",
   "discoveryText": "Spirit Cave\nFight for your life against wolves from the past.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Howling Spirit",
-      "name": "Howling Spirit"
-    },
-    {
-      "link": "Pack Spirit",
-      "name": "Pack Spirit"
-    },
-    {
-      "link": "Soul of the Alpha",
-      "name": "Soul of the Alpha"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Acacia Log",
@@ -64,5 +50,19 @@
       "name": "Weak Wolf Catalyst"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Howling Spirit",
+      "name": "Howling Spirit"
+    },
+    {
+      "link": "Pack Spirit",
+      "name": "Pack Spirit"
+    },
+    {
+      "link": "Soul of the Alpha",
+      "name": "Soul of the Alpha"
+    }
+  ],
+  "npcs": []
 }

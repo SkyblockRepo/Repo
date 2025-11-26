@@ -3,6 +3,35 @@
   "name": "West Village",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Scribe Crux",
+      "name": "Scribe Crux"
+    },
+    {
+      "link": "Shadow Crux",
+      "name": "Shadow Crux"
+    },
+    {
+      "link": "Volt Crux",
+      "name": "Volt Crux"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Scribe",
+      "name": "Scribe"
+    },
+    {
+      "link": "Shadow",
+      "name": "Shadow"
+    },
+    {
+      "link": "Volt",
+      "name": "Volt"
+    }
+  ],
   "npcs": [
     {
       "link": "Alchemist (Rift)",
@@ -56,34 +85,5 @@
       "link": "Yoshua",
       "name": "Yoshua"
     }
-  ],
-  "mobs": [
-    {
-      "link": "Scribe",
-      "name": "Scribe"
-    },
-    {
-      "link": "Shadow",
-      "name": "Shadow"
-    },
-    {
-      "link": "Volt",
-      "name": "Volt"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Scribe Crux",
-      "name": "Scribe Crux"
-    },
-    {
-      "link": "Shadow Crux",
-      "name": "Shadow Crux"
-    },
-    {
-      "link": "Volt Crux",
-      "name": "Volt Crux"
-    }
-  ],
-  "fairySouls": []
+  ]
 }

@@ -1,20 +1,20 @@
 {
   "internalId": "RIFT_FERRET",
   "name": "Rift Ferret",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Intelligence",
-    "Speed"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": false,
     "mountable": false,
     "tradable": false,
     "museumable": false
   },
+  "baseStats": [
+    "Intelligence",
+    "Speed"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "EPIC": {
       "lore": {

@@ -1,22 +1,22 @@
 {
   "internalId": "WOLF",
   "name": "Wolf",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "True Defense",
-    "Speed",
-    "Crit Damage"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "True Defense",
+    "Speed",
+    "Crit Damage"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

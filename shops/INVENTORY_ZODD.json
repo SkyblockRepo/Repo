@@ -2,6 +2,7 @@
   "internalId": "INVENTORY_ZODD",
   "name": "Confirm",
   "source": "HypixelWiki",
+  "rows": "3",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -221,6 +222,5 @@
       "material": "black_stained_glass_pane\n}}\n{{Inventory",
       "lore": ""
     }
-  },
-  "rows": "3"
+  }
 }

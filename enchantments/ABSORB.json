@@ -2,8 +2,6 @@
   "internalId": "ABSORB",
   "name": "Absorb",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_ABSORB_1",
     "ENCHANTMENT_ABSORB_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_ABSORB_8",
     "ENCHANTMENT_ABSORB_9",
     "ENCHANTMENT_ABSORB_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

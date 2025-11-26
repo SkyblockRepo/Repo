@@ -3,19 +3,15 @@
   "name": "Zealot Bruiser Hideout",
   "source": "HypixelWiki",
   "discoveryText": "Zealot Bruiser Hideout\nFight powerful Zealot Bruisers.",
-  "npcs": [],
-  "mobs": [
+  "fairySouls": [
     {
-      "link": "Enderman",
-      "name": "Enderman"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Zealot Bruiser",
-      "name": "Zealot Bruiser"
+      "location": "ZEALOT_BRUISER_HIDEOUT",
+      "number": 2,
+      "coordinates": {
+        "x": -609,
+        "y": 84,
+        "z": -230
+      }
     }
   ],
   "mobDrops": [
@@ -60,15 +56,19 @@
       "name": "Pearlescent Dye"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "ZEALOT_BRUISER_HIDEOUT",
-      "number": 2,
-      "coordinates": {
-        "x": -609,
-        "y": 84,
-        "z": -230
-      }
+      "link": "Enderman",
+      "name": "Enderman"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Zealot Bruiser",
+      "name": "Zealot Bruiser"
     }
-  ]
+  ],
+  "npcs": []
 }

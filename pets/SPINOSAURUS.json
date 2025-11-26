@@ -1,20 +1,20 @@
 {
   "internalId": "SPINOSAURUS",
   "name": "Spinosaurus",
-  "source": "HypixelWiki",
   "category": "Fishing",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Sea Creature Chance",
-    "Fishing Speed"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Sea Creature Chance",
+    "Fishing Speed"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "LEGENDARY": {
       "lore": {

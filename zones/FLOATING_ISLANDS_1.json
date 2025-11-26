@@ -3,14 +3,50 @@
   "name": "Birch Park",
   "source": "HypixelWiki",
   "discoveryText": "Birch Park\nTalk to Charlie.\nChop down Birch logs.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Charlie",
-      "name": "Charlie"
+      "location": "FLOATING_ISLANDS_1",
+      "number": 1,
+      "coordinates": {
+        "x": -315,
+        "y": 89,
+        "z": -72
+      }
     },
     {
-      "link": "Vanessa",
-      "name": "Vanessa"
+      "location": "FLOATING_ISLANDS_1",
+      "number": 2,
+      "coordinates": {
+        "x": -294,
+        "y": 85,
+        "z": 31
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
     }
   ],
   "mobs": [
@@ -43,50 +79,14 @@
       "name": "Wraith"
     }
   ],
-  "mobDrops": [
+  "npcs": [
     {
-      "link": "Blast O' Lantern",
-      "name": "Blast O' Lantern"
+      "link": "Charlie",
+      "name": "Charlie"
     },
     {
-      "link": "Bone Dye",
-      "name": "Bone Dye"
-    },
-    {
-      "link": "Ectoplasm",
-      "name": "Ectoplasm"
-    },
-    {
-      "link": "Green Candy",
-      "name": "Green Candy"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Purple Candy",
-      "name": "Purple Candy"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "FLOATING_ISLANDS_1",
-      "number": 1,
-      "coordinates": {
-        "x": -315,
-        "y": 89,
-        "z": -72
-      }
-    },
-    {
-      "location": "FLOATING_ISLANDS_1",
-      "number": 2,
-      "coordinates": {
-        "x": -294,
-        "y": 85,
-        "z": 31
-      }
+      "link": "Vanessa",
+      "name": "Vanessa"
     }
   ]
 }

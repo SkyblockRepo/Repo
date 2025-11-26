@@ -1,21 +1,21 @@
 {
   "internalId": "ANKYLOSAURUS",
   "name": "Ankylosaurus",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Defense",
-    "True Defense"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Defense",
+    "True Defense"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "LEGENDARY": {
       "lore": {

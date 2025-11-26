@@ -2,13 +2,13 @@
   "internalId": "TURBO_PUMPKIN",
   "name": "Turbo-Pumpkin",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_TURBO_PUMPKIN_1",
     "ENCHANTMENT_TURBO_PUMPKIN_2",
     "ENCHANTMENT_TURBO_PUMPKIN_3",
     "ENCHANTMENT_TURBO_PUMPKIN_4",
     "ENCHANTMENT_TURBO_PUMPKIN_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

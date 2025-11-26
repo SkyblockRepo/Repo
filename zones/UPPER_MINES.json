@@ -3,22 +3,7 @@
   "name": "Upper Mines",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Emissary Fraiser",
-      "name": "Emissary Fraiser"
-    },
-    {
-      "link": "Ticket Master",
-      "name": "Ticket Master"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Treasure Hoarder",
-      "name": "Treasure Hoarder"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Kaleidoscopic Mineral",
@@ -33,5 +18,20 @@
       "name": "Treasurite"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Treasure Hoarder",
+      "name": "Treasure Hoarder"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Emissary Fraiser",
+      "name": "Emissary Fraiser"
+    },
+    {
+      "link": "Ticket Master",
+      "name": "Ticket Master"
+    }
+  ]
 }

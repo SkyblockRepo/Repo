@@ -1,19 +1,19 @@
 {
   "internalId": "FRACTURED_MONTEZUMA_SOUL",
   "name": "Montezuma",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Rift Time"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": false,
     "mountable": false,
     "tradable": false,
     "museumable": false
   },
+  "baseStats": [
+    "Rift Time"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "RARE": {
       "lore": {

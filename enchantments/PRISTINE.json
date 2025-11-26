@@ -2,13 +2,13 @@
   "internalId": "PRISTINE",
   "name": "Prismatic",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_PRISTINE_1",
     "ENCHANTMENT_PRISTINE_2",
     "ENCHANTMENT_PRISTINE_3",
     "ENCHANTMENT_PRISTINE_4",
     "ENCHANTMENT_PRISTINE_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

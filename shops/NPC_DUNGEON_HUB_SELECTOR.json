@@ -2,6 +2,7 @@
   "internalId": "NPC_DUNGEON_HUB_SELECTOR",
   "name": "Dungeon Hub Selector",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -248,6 +249,5 @@
       "material": "black_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "6"
+  }
 }

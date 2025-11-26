@@ -3,21 +3,7 @@
   "name": "Crimson Fields",
   "source": "HypixelWiki",
   "discoveryText": "Crimson Fields\nSlay Magma Cubes.\nCollect Netherrack.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Barbarian",
-      "name": "Barbarian"
-    },
-    {
-      "link": "Magma Cube",
-      "name": "Magma Cube"
-    },
-    {
-      "link": "Wither Skeleton",
-      "name": "Wither Skeleton"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Bone",
@@ -84,5 +70,19 @@
       "name": "Wither Soul"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Barbarian",
+      "name": "Barbarian"
+    },
+    {
+      "link": "Magma Cube",
+      "name": "Magma Cube"
+    },
+    {
+      "link": "Wither Skeleton",
+      "name": "Wither Skeleton"
+    }
+  ],
+  "npcs": []
 }

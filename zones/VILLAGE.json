@@ -3,6 +3,95 @@
   "name": "Village",
   "source": "HypixelWiki",
   "discoveryText": "Village\nExplore the area to learn more about SkyBlock.\nVisit the Auction House.\nManage your coins in the Bank.\nEnchant items in the Library.",
+  "fairySouls": [
+    {
+      "location": "VILLAGE",
+      "number": 1,
+      "coordinates": {
+        "x": -20,
+        "y": 90,
+        "z": -12
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 19,
+      "coordinates": {
+        "x": 40,
+        "y": 68,
+        "z": -65
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 23,
+      "coordinates": {
+        "x": -16,
+        "y": 66,
+        "z": -110
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 24,
+      "coordinates": {
+        "x": 23,
+        "y": 79,
+        "z": -134
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 63,
+      "coordinates": {
+        "x": -81,
+        "y": 70,
+        "z": -88
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 64,
+      "coordinates": {
+        "x": -49,
+        "y": 90,
+        "z": -72
+      }
+    },
+    {
+      "location": "VILLAGE",
+      "number": 75,
+      "coordinates": {
+        "x": 72,
+        "y": 70,
+        "z": -99
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
   "npcs": [
     {
       "link": "Adventurer",
@@ -175,95 +264,6 @@
     {
       "link": "Vex",
       "name": "Vex"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Rat",
-      "name": "Rat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Rat Pet",
-      "name": "Rat Pet"
-    },
-    {
-      "link": "Tasty Cheese",
-      "name": "Tasty Cheese"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "VILLAGE",
-      "number": 1,
-      "coordinates": {
-        "x": -20,
-        "y": 90,
-        "z": -12
-      }
-    },
-    {
-      "location": "VILLAGE",
-      "number": 19,
-      "coordinates": {
-        "x": 40,
-        "y": 68,
-        "z": -65
-      }
-    },
-    {
-      "location": "VILLAGE",
-      "number": 23,
-      "coordinates": {
-        "x": -16,
-        "y": 66,
-        "z": -110
-      }
-    },
-    {
-      "location": "VILLAGE",
-      "number": 24,
-      "coordinates": {
-        "x": 23,
-        "y": 79,
-        "z": -134
-      }
-    },
-    {
-      "location": "VILLAGE",
-      "number": 63,
-      "coordinates": {
-        "x": -81,
-        "y": 70,
-        "z": -88
-      }
-    },
-    {
-      "location": "VILLAGE",
-      "number": 64,
-      "coordinates": {
-        "x": -49,
-        "y": 90,
-        "z": -72
-      }
-    },
-    {
-      "location": "VILLAGE",
-      "number": 75,
-      "coordinates": {
-        "x": 72,
-        "y": 70,
-        "z": -99
-      }
     }
   ]
 }

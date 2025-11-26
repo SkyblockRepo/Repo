@@ -1,20 +1,20 @@
 {
   "internalId": "MITHRIL_GOLEM",
   "name": "Mithril Golem",
-  "source": "HypixelWiki",
   "category": "Mining",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "True Defense",
-    "Mining Fortune"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "True Defense",
+    "Mining Fortune"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

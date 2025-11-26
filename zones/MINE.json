@@ -3,51 +3,6 @@
   "name": "Coal Mine",
   "source": "HypixelWiki",
   "discoveryText": "Coal Mine\nMine Coal.\nTravel to the Gold Mine.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Crypt Ghoul",
-      "name": "Crypt Ghoul"
-    },
-    {
-      "link": "Golden Ghoul",
-      "name": "Golden Ghoul"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Rat",
-      "name": "Rat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Gold Ingot",
-      "name": "Gold Ingot"
-    },
-    {
-      "link": "Golden Powder",
-      "name": "Golden Powder"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Rat Pet",
-      "name": "Rat Pet"
-    },
-    {
-      "link": "Rotten Flesh",
-      "name": "Rotten Flesh"
-    },
-    {
-      "link": "Tasty Cheese",
-      "name": "Tasty Cheese"
-    }
-  ],
   "fairySouls": [
     {
       "location": "MINE",
@@ -85,5 +40,50 @@
         "z": -213
       }
     }
-  ]
+  ],
+  "mobDrops": [
+    {
+      "link": "Gold Ingot",
+      "name": "Gold Ingot"
+    },
+    {
+      "link": "Golden Powder",
+      "name": "Golden Powder"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crypt Ghoul",
+      "name": "Crypt Ghoul"
+    },
+    {
+      "link": "Golden Ghoul",
+      "name": "Golden Ghoul"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "npcs": []
 }

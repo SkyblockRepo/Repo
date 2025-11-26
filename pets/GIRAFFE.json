@@ -1,21 +1,21 @@
 {
   "internalId": "GIRAFFE",
   "name": "Giraffe",
-  "source": "HypixelWiki",
   "category": "Foraging",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Crit Chance",
-    "Swing Range"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Crit Chance",
+    "Swing Range"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

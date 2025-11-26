@@ -3,52 +3,24 @@
   "name": "Graveyard",
   "source": "HypixelWiki",
   "discoveryText": "Graveyard\nFight Zombies.\nTravel to the Spider's Den.\nTalk to Pat.\nInvestigate the Catacombs.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Pat",
-      "name": "Pat"
+      "location": "DANGER",
+      "number": 22,
+      "coordinates": {
+        "x": -187,
+        "y": 92,
+        "z": -104
+      }
     },
     {
-      "link": "Romero",
-      "name": "Romero"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
-    },
-    {
-      "link": "Graveyard Zombie",
-      "name": "Graveyard Zombie"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
-    },
-    {
-      "link": "Scary Jerry",
-      "name": "Scary Jerry"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Wither Gourd",
-      "name": "Wither Gourd"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
-    },
-    {
-      "link": "Zombie Villager",
-      "name": "Zombie Villager"
+      "location": "DANGER",
+      "number": 53,
+      "coordinates": {
+        "x": -94,
+        "y": 72,
+        "z": -129
+      }
     }
   ],
   "mobDrops": [
@@ -93,24 +65,52 @@
       "name": "Rotten Flesh"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "DANGER",
-      "number": 22,
-      "coordinates": {
-        "x": -187,
-        "y": 92,
-        "z": -104
-      }
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
     },
     {
-      "location": "DANGER",
-      "number": 53,
-      "coordinates": {
-        "x": -94,
-        "y": 72,
-        "z": -129
-      }
+      "link": "Graveyard Zombie",
+      "name": "Graveyard Zombie"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    },
+    {
+      "link": "Zombie Villager",
+      "name": "Zombie Villager"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Pat",
+      "name": "Pat"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
     }
   ]
 }

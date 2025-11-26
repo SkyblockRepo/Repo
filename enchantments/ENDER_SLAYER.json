@@ -2,8 +2,6 @@
   "internalId": "ENDER_SLAYER",
   "name": "Ender Slayer",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 7,
   "items": [
     "ENCHANTMENT_ENDER_SLAYER_1",
     "ENCHANTMENT_ENDER_SLAYER_2",
@@ -12,5 +10,7 @@
     "ENCHANTMENT_ENDER_SLAYER_5",
     "ENCHANTMENT_ENDER_SLAYER_6",
     "ENCHANTMENT_ENDER_SLAYER_7"
-  ]
+  ],
+  "maxLevel": 7,
+  "minLevel": 1
 }

@@ -3,11 +3,15 @@
   "name": "The Mist",
   "source": "HypixelWiki",
   "discoveryText": "The Mist\nPain, only pain.",
-  "npcs": [],
-  "mobs": [
+  "fairySouls": [
     {
-      "link": "Ghost",
-      "name": "Ghost"
+      "location": "THE_MIST",
+      "number": 5,
+      "coordinates": {
+        "x": 34,
+        "y": 102,
+        "z": 86
+      }
     }
   ],
   "mobDrops": [
@@ -28,15 +32,11 @@
       "name": "Volta"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "THE_MIST",
-      "number": 5,
-      "coordinates": {
-        "x": 34,
-        "y": 102,
-        "z": 86
-      }
+      "link": "Ghost",
+      "name": "Ghost"
     }
-  ]
+  ],
+  "npcs": []
 }

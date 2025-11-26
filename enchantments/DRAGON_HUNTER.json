@@ -2,8 +2,6 @@
   "internalId": "DRAGON_HUNTER",
   "name": "Gravity",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_DRAGON_HUNTER_1",
     "ENCHANTMENT_DRAGON_HUNTER_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_DRAGON_HUNTER_4",
     "ENCHANTMENT_DRAGON_HUNTER_5",
     "ENCHANTMENT_DRAGON_HUNTER_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

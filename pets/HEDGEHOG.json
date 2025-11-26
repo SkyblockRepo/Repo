@@ -1,19 +1,19 @@
 {
   "internalId": "HEDGEHOG",
   "name": "Hedgehog",
-  "source": "HypixelWiki",
   "category": "Farming",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Speed"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Speed"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "LEGENDARY": {
       "lore": {

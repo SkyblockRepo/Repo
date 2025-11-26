@@ -3,6 +3,121 @@
   "name": "Rift Dimension",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [
+    {
+      "location": "RIFT_CASTLE_FAIRY_TOWER",
+      "number": 1,
+      "coordinates": {
+        "x": 253,
+        "y": 123,
+        "z": 90
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Deadgehog Spine",
+      "name": "Deadgehog Spine"
+    },
+    {
+      "link": "Frosty Crux",
+      "name": "Frosty Crux"
+    },
+    {
+      "link": "Hemovibe",
+      "name": "Hemovibe"
+    },
+    {
+      "link": "Metaphoric Egg",
+      "name": "Metaphoric Egg"
+    },
+    {
+      "link": "Muted Bark",
+      "name": "Muted Bark"
+    },
+    {
+      "link": "Nullified Metal",
+      "name": "Nullified Metal"
+    },
+    {
+      "link": "Scribe Crux",
+      "name": "Scribe Crux"
+    },
+    {
+      "link": "Shadow Crux",
+      "name": "Shadow Crux"
+    },
+    {
+      "link": "Shy Crux",
+      "name": "Shy Crux"
+    },
+    {
+      "link": "Splatter Crux",
+      "name": "Splatter Crux"
+    },
+    {
+      "link": "Vampiric Melon",
+      "name": "Vampiric Melon"
+    },
+    {
+      "link": "Volt Crux",
+      "name": "Volt Crux"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Autonull",
+      "name": "Autonull"
+    },
+    {
+      "link": "Barking Wolf",
+      "name": "Barking Wolf"
+    },
+    {
+      "link": "Chicken (Rift Mob)",
+      "name": "Chicken"
+    },
+    {
+      "link": "Deadgehog",
+      "name": "Deadgehog"
+    },
+    {
+      "link": "Fledgling",
+      "name": "Fledgling"
+    },
+    {
+      "link": "Frozille",
+      "name": "Frozille"
+    },
+    {
+      "link": "Not Chicken",
+      "name": "Not Chicken"
+    },
+    {
+      "link": "Scribe",
+      "name": "Scribe"
+    },
+    {
+      "link": "Shadow",
+      "name": "Shadow"
+    },
+    {
+      "link": "Shy",
+      "name": "Shy"
+    },
+    {
+      "link": "Splatter",
+      "name": "Splatter"
+    },
+    {
+      "link": "Thrall",
+      "name": "Thrall"
+    },
+    {
+      "link": "Volt",
+      "name": "Volt"
+    }
+  ],
   "npcs": [
     {
       "link": "Alabaster",
@@ -495,121 +610,6 @@
     {
       "link": "☣ Sick Farmer ☣",
       "name": "☣ Sick Farmer ☣"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Autonull",
-      "name": "Autonull"
-    },
-    {
-      "link": "Barking Wolf",
-      "name": "Barking Wolf"
-    },
-    {
-      "link": "Chicken (Rift Mob)",
-      "name": "Chicken"
-    },
-    {
-      "link": "Deadgehog",
-      "name": "Deadgehog"
-    },
-    {
-      "link": "Fledgling",
-      "name": "Fledgling"
-    },
-    {
-      "link": "Frozille",
-      "name": "Frozille"
-    },
-    {
-      "link": "Not Chicken",
-      "name": "Not Chicken"
-    },
-    {
-      "link": "Scribe",
-      "name": "Scribe"
-    },
-    {
-      "link": "Shadow",
-      "name": "Shadow"
-    },
-    {
-      "link": "Shy",
-      "name": "Shy"
-    },
-    {
-      "link": "Splatter",
-      "name": "Splatter"
-    },
-    {
-      "link": "Thrall",
-      "name": "Thrall"
-    },
-    {
-      "link": "Volt",
-      "name": "Volt"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Deadgehog Spine",
-      "name": "Deadgehog Spine"
-    },
-    {
-      "link": "Frosty Crux",
-      "name": "Frosty Crux"
-    },
-    {
-      "link": "Hemovibe",
-      "name": "Hemovibe"
-    },
-    {
-      "link": "Metaphoric Egg",
-      "name": "Metaphoric Egg"
-    },
-    {
-      "link": "Muted Bark",
-      "name": "Muted Bark"
-    },
-    {
-      "link": "Nullified Metal",
-      "name": "Nullified Metal"
-    },
-    {
-      "link": "Scribe Crux",
-      "name": "Scribe Crux"
-    },
-    {
-      "link": "Shadow Crux",
-      "name": "Shadow Crux"
-    },
-    {
-      "link": "Shy Crux",
-      "name": "Shy Crux"
-    },
-    {
-      "link": "Splatter Crux",
-      "name": "Splatter Crux"
-    },
-    {
-      "link": "Vampiric Melon",
-      "name": "Vampiric Melon"
-    },
-    {
-      "link": "Volt Crux",
-      "name": "Volt Crux"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "RIFT_CASTLE_FAIRY_TOWER",
-      "number": 1,
-      "coordinates": {
-        "x": 253,
-        "y": 123,
-        "z": 90
-      }
     }
   ]
 }

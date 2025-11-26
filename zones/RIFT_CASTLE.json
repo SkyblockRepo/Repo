@@ -3,14 +3,19 @@
   "name": "Stillgore Château",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
+  "fairySouls": [],
+  "mobDrops": [
     {
-      "link": "Maddox_The_Slayer_(Rift)",
-      "name": "Maddox the Slayer"
+      "link": "Hemovibe",
+      "name": "Hemovibe"
     },
     {
-      "link": "Motes Grubber",
-      "name": "Motes Grubber"
+      "link": "Splatter Crux",
+      "name": "Splatter Crux"
+    },
+    {
+      "link": "Vampiric Melon",
+      "name": "Vampiric Melon"
     }
   ],
   "mobs": [
@@ -27,19 +32,14 @@
       "name": "Thrall"
     }
   ],
-  "mobDrops": [
+  "npcs": [
     {
-      "link": "Hemovibe",
-      "name": "Hemovibe"
+      "link": "Maddox_The_Slayer_(Rift)",
+      "name": "Maddox the Slayer"
     },
     {
-      "link": "Splatter Crux",
-      "name": "Splatter Crux"
-    },
-    {
-      "link": "Vampiric Melon",
-      "name": "Vampiric Melon"
+      "link": "Motes Grubber",
+      "name": "Motes Grubber"
     }
-  ],
-  "fairySouls": []
+  ]
 }

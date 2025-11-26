@@ -3,36 +3,42 @@
   "name": "Stronghold",
   "source": "HypixelWiki",
   "discoveryText": "Stronghold\nCollect Nether Wart.\nTalk to Elle.\nDefeat Bladesoul.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Arch",
-      "name": "Arch"
+      "location": "STRONGHOLD",
+      "number": 6,
+      "coordinates": {
+        "x": -352,
+        "y": 191,
+        "z": -553
+      }
     },
     {
-      "link": "Elle",
-      "name": "Elle"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Bezal",
-      "name": "Bezal"
+      "location": "STRONGHOLD",
+      "number": 8,
+      "coordinates": {
+        "x": -346,
+        "y": 75,
+        "z": -552
+      }
     },
     {
-      "link": "Blaze",
-      "name": "Blaze"
+      "location": "STRONGHOLD",
+      "number": 9,
+      "coordinates": {
+        "x": -342,
+        "y": 101,
+        "z": -484
+      }
     },
     {
-      "link": "Mutated Blaze",
-      "name": "Mutated Blaze"
-    },
-    {
-      "link": "Wither Skeleton",
-      "name": "Wither Skeleton"
-    },
-    {
-      "link": "Wither Spectre",
-      "name": "Wither Spectre"
+      "location": "STRONGHOLD",
+      "number": 2,
+      "coordinates": {
+        "x": -361,
+        "y": 133,
+        "z": -469
+      }
     }
   ],
   "mobDrops": [
@@ -113,42 +119,36 @@
       "name": "Wither Soul"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "STRONGHOLD",
-      "number": 6,
-      "coordinates": {
-        "x": -352,
-        "y": 191,
-        "z": -553
-      }
+      "link": "Bezal",
+      "name": "Bezal"
     },
     {
-      "location": "STRONGHOLD",
-      "number": 8,
-      "coordinates": {
-        "x": -346,
-        "y": 75,
-        "z": -552
-      }
+      "link": "Blaze",
+      "name": "Blaze"
     },
     {
-      "location": "STRONGHOLD",
-      "number": 9,
-      "coordinates": {
-        "x": -342,
-        "y": 101,
-        "z": -484
-      }
+      "link": "Mutated Blaze",
+      "name": "Mutated Blaze"
     },
     {
-      "location": "STRONGHOLD",
-      "number": 2,
-      "coordinates": {
-        "x": -361,
-        "y": 133,
-        "z": -469
-      }
+      "link": "Wither Skeleton",
+      "name": "Wither Skeleton"
+    },
+    {
+      "link": "Wither Spectre",
+      "name": "Wither Spectre"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Arch",
+      "name": "Arch"
+    },
+    {
+      "link": "Elle",
+      "name": "Elle"
     }
   ]
 }

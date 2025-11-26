@@ -3,24 +3,24 @@
   "name": "Pigmen's Den",
   "source": "HypixelWiki",
   "discoveryText": "Pigmen's Den\nThe Pigmen's Den can now be traveled to via the Lift Operator.\nMine Redstone Ore.\nTalk to Redstone Miner.\nBe careful mining Redstone Ore around the Redstone Pigmen!",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Lift Operator",
-      "name": "Lift Operator"
+      "location": "DEEP_CAVERNS_ROOM_3",
+      "number": 11,
+      "coordinates": {
+        "x": 44,
+        "y": 98,
+        "z": 23
+      }
     },
     {
-      "link": "Redstone Miner",
-      "name": "Redstone Miner"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Redstone Pigman",
-      "name": "Redstone Pigman"
+      "location": "DEEP_CAVERNS_ROOM_3",
+      "number": 12,
+      "coordinates": {
+        "x": -11,
+        "y": 102,
+        "z": -16
+      }
     }
   ],
   "mobDrops": [
@@ -45,24 +45,24 @@
       "name": "Redstone"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "DEEP_CAVERNS_ROOM_3",
-      "number": 11,
-      "coordinates": {
-        "x": 44,
-        "y": 98,
-        "z": 23
-      }
+      "link": "Mega Bat",
+      "name": "Mega Bat"
     },
     {
-      "location": "DEEP_CAVERNS_ROOM_3",
-      "number": 12,
-      "coordinates": {
-        "x": -11,
-        "y": 102,
-        "z": -16
-      }
+      "link": "Redstone Pigman",
+      "name": "Redstone Pigman"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    },
+    {
+      "link": "Redstone Miner",
+      "name": "Redstone Miner"
     }
   ]
 }

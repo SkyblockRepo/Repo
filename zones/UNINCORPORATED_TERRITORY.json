@@ -3,34 +3,7 @@
   "name": "Unincorporated Territory",
   "source": "HypixelWiki",
   "discoveryText": "Unincorporated Territory\nPonder life's greatest questions.\nMake plans for the future.",
-  "npcs": [
-    {
-      "link": "Vargul",
-      "name": "Vargul"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Scary Jerry",
-      "name": "Scary Jerry"
-    },
-    {
-      "link": "Skeleton",
-      "name": "Skeleton"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Wither Gourd",
-      "name": "Wither Gourd"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Blast O' Lantern",
@@ -57,5 +30,32 @@
       "name": "Purple Candy"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Skeleton",
+      "name": "Skeleton"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Vargul",
+      "name": "Vargul"
+    }
+  ]
 }

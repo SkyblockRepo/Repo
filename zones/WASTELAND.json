@@ -3,6 +3,70 @@
   "name": "The Wasteland",
   "source": "HypixelWiki",
   "discoveryText": "The Wasteland\nLook up.",
+  "fairySouls": [
+    {
+      "location": "WASTELAND",
+      "number": 13,
+      "coordinates": {
+        "x": -310,
+        "y": 156,
+        "z": -1008
+      }
+    },
+    {
+      "location": "WASTELAND",
+      "number": 8,
+      "coordinates": {
+        "x": -35,
+        "y": 116,
+        "z": -1055
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blaze Ashes",
+      "name": "Blaze Ashes"
+    },
+    {
+      "link": "Blaze Rod",
+      "name": "Blaze Rod"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Ghast Tear",
+      "name": "Ghast Tear"
+    },
+    {
+      "link": "Netherrack-Looking Sunshade",
+      "name": "Netherrack-Looking Sunshade"
+    },
+    {
+      "link": "Smoldering Enchantment",
+      "name": "Smoldering I"
+    },
+    {
+      "link": "Tentacle Meat",
+      "name": "Tentacle Meat"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Dive Ghast",
+      "name": "Dive Ghast"
+    },
+    {
+      "link": "Ghast",
+      "name": "Ghast"
+    },
+    {
+      "link": "Smoldering Blaze",
+      "name": "Smoldering Blaze"
+    }
+  ],
   "npcs": [
     {
       "link": "Aranya",
@@ -43,70 +107,6 @@
     {
       "link": "Ugo",
       "name": "Ugo"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Dive Ghast",
-      "name": "Dive Ghast"
-    },
-    {
-      "link": "Ghast",
-      "name": "Ghast"
-    },
-    {
-      "link": "Smoldering Blaze",
-      "name": "Smoldering Blaze"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Blaze Ashes",
-      "name": "Blaze Ashes"
-    },
-    {
-      "link": "Blaze Rod",
-      "name": "Blaze Rod"
-    },
-    {
-      "link": "Cyclamen Dye",
-      "name": "Cyclamen Dye"
-    },
-    {
-      "link": "Ghast Tear",
-      "name": "Ghast Tear"
-    },
-    {
-      "link": "Netherrack-Looking Sunshade",
-      "name": "Netherrack-Looking Sunshade"
-    },
-    {
-      "link": "Smoldering Enchantment",
-      "name": "Smoldering I"
-    },
-    {
-      "link": "Tentacle Meat",
-      "name": "Tentacle Meat"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "WASTELAND",
-      "number": 13,
-      "coordinates": {
-        "x": -310,
-        "y": 156,
-        "z": -1008
-      }
-    },
-    {
-      "location": "WASTELAND",
-      "number": 8,
-      "coordinates": {
-        "x": -35,
-        "y": 116,
-        "z": -1055
-      }
     }
   ]
 }

@@ -3,24 +3,6 @@
   "name": "Viking Longhouse",
   "source": "HypixelWiki",
   "discoveryText": "Viking Longhouse\nHelp the Melancholic Viking.",
-  "npcs": [
-    {
-      "link": "Melancholic Viking",
-      "name": "Melancholic Viking"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    }
-  ],
   "fairySouls": [
     {
       "location": "MELANCHOLIC_VIKING",
@@ -30,6 +12,24 @@
         "y": 99,
         "z": 79
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Melancholic Viking",
+      "name": "Melancholic Viking"
     }
   ]
 }

@@ -3,39 +3,6 @@
   "name": "Blazing Volcano",
   "source": "HypixelWiki",
   "discoveryText": "Blazing Volcano\nFish for rare loot and find epic secrets.\nWatch out for the lava.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Barbarian",
-      "name": "Barbarian"
-    },
-    {
-      "link": "Fire Mage",
-      "name": "Fire Mage"
-    },
-    {
-      "link": "Flare",
-      "name": "Flare"
-    },
-    {
-      "link": "Krondor Necromancer",
-      "name": "Krondor Necromancer"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Blaze Rod",
-      "name": "Blaze Rod"
-    },
-    {
-      "link": "Cyclamen Dye",
-      "name": "Cyclamen Dye"
-    },
-    {
-      "link": "Gazing Pearl",
-      "name": "Gazing Pearl"
-    }
-  ],
   "fairySouls": [
     {
       "location": "BLAZING_VOLCANO",
@@ -55,5 +22,38 @@
         "z": -764
       }
     }
-  ]
+  ],
+  "mobDrops": [
+    {
+      "link": "Blaze Rod",
+      "name": "Blaze Rod"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Gazing Pearl",
+      "name": "Gazing Pearl"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Barbarian",
+      "name": "Barbarian"
+    },
+    {
+      "link": "Fire Mage",
+      "name": "Fire Mage"
+    },
+    {
+      "link": "Flare",
+      "name": "Flare"
+    },
+    {
+      "link": "Krondor Necromancer",
+      "name": "Krondor Necromancer"
+    }
+  ],
+  "npcs": []
 }

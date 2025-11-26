@@ -2,13 +2,13 @@
   "internalId": "ULTIMATE_LEGION",
   "name": "Legion",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_ULTIMATE_LEGION_1",
     "ENCHANTMENT_ULTIMATE_LEGION_2",
     "ENCHANTMENT_ULTIMATE_LEGION_3",
     "ENCHANTMENT_ULTIMATE_LEGION_4",
     "ENCHANTMENT_ULTIMATE_LEGION_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

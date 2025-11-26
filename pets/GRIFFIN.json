@@ -1,22 +1,22 @@
 {
   "internalId": "GRIFFIN",
   "name": "Griffin",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Strength",
-    "Crit Chance",
-    "Crit Damage a",
-    "Bonus Attack Speed"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Crit Chance",
+    "Crit Damage a",
+    "Bonus Attack Speed"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

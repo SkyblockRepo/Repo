@@ -3,22 +3,7 @@
   "name": "Far Reserve",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Ticket Master",
-      "name": "Ticket Master"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Goblin",
-      "name": "Goblin"
-    },
-    {
-      "link": "Knifethrower",
-      "name": "Knifethrower"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Goblin Boots",
@@ -41,5 +26,20 @@
       "name": "Goblin Leggings"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Goblin",
+      "name": "Goblin"
+    },
+    {
+      "link": "Knifethrower",
+      "name": "Knifethrower"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Ticket Master",
+      "name": "Ticket Master"
+    }
+  ]
 }

@@ -3,6 +3,19 @@
   "name": "Rabbit House",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [
+    {
+      "location": "RABBIT_HOUSE",
+      "number": 54,
+      "coordinates": {
+        "x": 9,
+        "y": 75,
+        "z": 13
+      }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Rabbit Bro",
@@ -27,19 +40,6 @@
     {
       "link": "Rabbit Sis",
       "name": "Rabbit Sis"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": [
-    {
-      "location": "RABBIT_HOUSE",
-      "number": 54,
-      "coordinates": {
-        "x": 9,
-        "y": 75,
-        "z": 13
-      }
     }
   ]
 }

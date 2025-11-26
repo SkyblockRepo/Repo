@@ -3,6 +3,239 @@
   "name": "Dwarven Mines",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [
+    {
+      "location": "DEEPER_CAVERNS",
+      "number": 1,
+      "coordinates": {
+        "x": -21,
+        "y": 208,
+        "z": -59
+      }
+    },
+    {
+      "location": "DEEPER_CAVERNS",
+      "number": 2,
+      "coordinates": {
+        "x": -139,
+        "y": 220,
+        "z": -89
+      }
+    },
+    {
+      "location": "DWARVEN_VILLAGE",
+      "number": 3,
+      "coordinates": {
+        "x": -9,
+        "y": 230,
+        "z": -135
+      }
+    },
+    {
+      "location": "ELDER_PALACE",
+      "number": 4,
+      "coordinates": {
+        "x": 155,
+        "y": 189,
+        "z": 123
+      }
+    },
+    {
+      "location": "THE_MIST",
+      "number": 5,
+      "coordinates": {
+        "x": 34,
+        "y": 102,
+        "z": 86
+      }
+    },
+    {
+      "location": "ROYAL_MINES",
+      "number": 6,
+      "coordinates": {
+        "x": 133,
+        "y": 104,
+        "z": 104
+      }
+    },
+    {
+      "location": "DEEPER_CAVERNS",
+      "number": 7,
+      "coordinates": {
+        "x": 22,
+        "y": 127,
+        "z": 184
+      }
+    },
+    {
+      "location": "GOBLIN_BURROWS",
+      "number": 8,
+      "coordinates": {
+        "x": -110,
+        "y": 142,
+        "z": 143
+      }
+    },
+    {
+      "location": "GOBLIN_BURROWS",
+      "number": 9,
+      "coordinates": {
+        "x": -116,
+        "y": 142,
+        "z": 154
+      }
+    },
+    {
+      "location": "DEEPER_CAVERNS",
+      "number": 10,
+      "coordinates": {
+        "x": -204,
+        "y": 131,
+        "z": 199
+      }
+    },
+    {
+      "location": "DEEPER_CAVERNS",
+      "number": 11,
+      "coordinates": {
+        "x": -53,
+        "y": 205,
+        "z": 50
+      }
+    },
+    {
+      "location": "FOSSIL_RESEARCH_CENTER",
+      "number": 12,
+      "coordinates": {
+        "x": 20,
+        "y": 121,
+        "z": 240
+      }
+    },
+    {
+      "location": "GLACITE_LAKE",
+      "number": 13,
+      "coordinates": {
+        "x": -19,
+        "y": 121,
+        "z": 397
+      }
+    },
+    {
+      "location": "GLACITE_TUNNELS",
+      "number": 14,
+      "coordinates": {
+        "x": 111,
+        "y": 160,
+        "z": 412
+      }
+    },
+    {
+      "location": "ABANDONED_QUARRY",
+      "number": 15,
+      "coordinates": {
+        "x": -195,
+        "y": 124,
+        "z": -15
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Ghostly Boots",
+      "name": "Ghostly Boots"
+    },
+    {
+      "link": "Glacite Boots",
+      "name": "Glacite Boots"
+    },
+    {
+      "link": "Glacite Chestplate",
+      "name": "Glacite Chestplate"
+    },
+    {
+      "link": "Glacite Helmet",
+      "name": "Glacite Helmet"
+    },
+    {
+      "link": "Glacite Jewel",
+      "name": "Glacite Jewel"
+    },
+    {
+      "link": "Glacite Leggings",
+      "name": "Glacite Leggings"
+    },
+    {
+      "link": "Goblin Boots",
+      "name": "Goblin Boots"
+    },
+    {
+      "link": "Goblin Chestplate",
+      "name": "Goblin Chestplate"
+    },
+    {
+      "link": "Goblin Egg",
+      "name": "Goblin Egg"
+    },
+    {
+      "link": "Goblin Helmet",
+      "name": "Goblin Helmet"
+    },
+    {
+      "link": "Goblin Leggings",
+      "name": "Goblin Leggings"
+    },
+    {
+      "link": "Kaleidoscopic Mineral",
+      "name": "Kaleidoscopic Mineral"
+    },
+    {
+      "link": "Plasma",
+      "name": "Plasma"
+    },
+    {
+      "link": "Sorrow",
+      "name": "Sorrow"
+    },
+    {
+      "link": "Starfall",
+      "name": "Starfall"
+    },
+    {
+      "link": "Treasurite",
+      "name": "Treasurite"
+    },
+    {
+      "link": "Volta",
+      "name": "Volta"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Fireslinger",
+      "name": "Fireslinger"
+    },
+    {
+      "link": "Ghost",
+      "name": "Ghost"
+    },
+    {
+      "link": "Glacite Walker",
+      "name": "Glacite Walker"
+    },
+    {
+      "link": "Goblin",
+      "name": "Goblin"
+    },
+    {
+      "link": "Knifethrower",
+      "name": "Knifethrower"
+    },
+    {
+      "link": "Treasure Hoarder",
+      "name": "Treasure Hoarder"
+    }
+  ],
   "npcs": [
     {
       "link": "Banker Broadjaw",
@@ -259,239 +492,6 @@
     {
       "link": "Tornora",
       "name": "Tornora"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Fireslinger",
-      "name": "Fireslinger"
-    },
-    {
-      "link": "Ghost",
-      "name": "Ghost"
-    },
-    {
-      "link": "Glacite Walker",
-      "name": "Glacite Walker"
-    },
-    {
-      "link": "Goblin",
-      "name": "Goblin"
-    },
-    {
-      "link": "Knifethrower",
-      "name": "Knifethrower"
-    },
-    {
-      "link": "Treasure Hoarder",
-      "name": "Treasure Hoarder"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Ghostly Boots",
-      "name": "Ghostly Boots"
-    },
-    {
-      "link": "Glacite Boots",
-      "name": "Glacite Boots"
-    },
-    {
-      "link": "Glacite Chestplate",
-      "name": "Glacite Chestplate"
-    },
-    {
-      "link": "Glacite Helmet",
-      "name": "Glacite Helmet"
-    },
-    {
-      "link": "Glacite Jewel",
-      "name": "Glacite Jewel"
-    },
-    {
-      "link": "Glacite Leggings",
-      "name": "Glacite Leggings"
-    },
-    {
-      "link": "Goblin Boots",
-      "name": "Goblin Boots"
-    },
-    {
-      "link": "Goblin Chestplate",
-      "name": "Goblin Chestplate"
-    },
-    {
-      "link": "Goblin Egg",
-      "name": "Goblin Egg"
-    },
-    {
-      "link": "Goblin Helmet",
-      "name": "Goblin Helmet"
-    },
-    {
-      "link": "Goblin Leggings",
-      "name": "Goblin Leggings"
-    },
-    {
-      "link": "Kaleidoscopic Mineral",
-      "name": "Kaleidoscopic Mineral"
-    },
-    {
-      "link": "Plasma",
-      "name": "Plasma"
-    },
-    {
-      "link": "Sorrow",
-      "name": "Sorrow"
-    },
-    {
-      "link": "Starfall",
-      "name": "Starfall"
-    },
-    {
-      "link": "Treasurite",
-      "name": "Treasurite"
-    },
-    {
-      "link": "Volta",
-      "name": "Volta"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "DEEPER_CAVERNS",
-      "number": 1,
-      "coordinates": {
-        "x": -21,
-        "y": 208,
-        "z": -59
-      }
-    },
-    {
-      "location": "DEEPER_CAVERNS",
-      "number": 2,
-      "coordinates": {
-        "x": -139,
-        "y": 220,
-        "z": -89
-      }
-    },
-    {
-      "location": "DWARVEN_VILLAGE",
-      "number": 3,
-      "coordinates": {
-        "x": -9,
-        "y": 230,
-        "z": -135
-      }
-    },
-    {
-      "location": "ELDER_PALACE",
-      "number": 4,
-      "coordinates": {
-        "x": 155,
-        "y": 189,
-        "z": 123
-      }
-    },
-    {
-      "location": "THE_MIST",
-      "number": 5,
-      "coordinates": {
-        "x": 34,
-        "y": 102,
-        "z": 86
-      }
-    },
-    {
-      "location": "ROYAL_MINES",
-      "number": 6,
-      "coordinates": {
-        "x": 133,
-        "y": 104,
-        "z": 104
-      }
-    },
-    {
-      "location": "DEEPER_CAVERNS",
-      "number": 7,
-      "coordinates": {
-        "x": 22,
-        "y": 127,
-        "z": 184
-      }
-    },
-    {
-      "location": "GOBLIN_BURROWS",
-      "number": 8,
-      "coordinates": {
-        "x": -110,
-        "y": 142,
-        "z": 143
-      }
-    },
-    {
-      "location": "GOBLIN_BURROWS",
-      "number": 9,
-      "coordinates": {
-        "x": -116,
-        "y": 142,
-        "z": 154
-      }
-    },
-    {
-      "location": "DEEPER_CAVERNS",
-      "number": 10,
-      "coordinates": {
-        "x": -204,
-        "y": 131,
-        "z": 199
-      }
-    },
-    {
-      "location": "DEEPER_CAVERNS",
-      "number": 11,
-      "coordinates": {
-        "x": -53,
-        "y": 205,
-        "z": 50
-      }
-    },
-    {
-      "location": "FOSSIL_RESEARCH_CENTER",
-      "number": 12,
-      "coordinates": {
-        "x": 20,
-        "y": 121,
-        "z": 240
-      }
-    },
-    {
-      "location": "GLACITE_LAKE",
-      "number": 13,
-      "coordinates": {
-        "x": -19,
-        "y": 121,
-        "z": 397
-      }
-    },
-    {
-      "location": "GLACITE_TUNNELS",
-      "number": 14,
-      "coordinates": {
-        "x": 111,
-        "y": 160,
-        "z": 412
-      }
-    },
-    {
-      "location": "ABANDONED_QUARRY",
-      "number": 15,
-      "coordinates": {
-        "x": -195,
-        "y": 124,
-        "z": -15
-      }
     }
   ]
 }
