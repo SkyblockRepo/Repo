@@ -23,6 +23,7 @@
     "glowing": true,
     "npc_sell_price": 1000
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "TRADES_MENU",
@@ -36,6 +37,5 @@
       ],
       "amount": 2
     }
-  ],
-  "recipes": []
+  ]
 }

@@ -21,6 +21,7 @@
     "name": "Book",
     "npc_sell_price": 12
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_LIBRARIAN",
@@ -32,6 +33,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }

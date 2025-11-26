@@ -22,19 +22,6 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 100
   },
-  "soldBy": [
-    {
-      "id": "NPC_PEARL_DEALER",
-      "name": "Pearl Dealer",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 1200
-        }
-      ],
-      "amount": 8
-    }
-  ],
   "recipes": [
     {
       "name": "first",
@@ -79,6 +66,19 @@
           "quantity": 1
         }
       }
+    }
+  ],
+  "soldBy": [
+    {
+      "id": "NPC_PEARL_DEALER",
+      "name": "Pearl Dealer",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1200
+        }
+      ],
+      "amount": 8
     }
   ]
 }
