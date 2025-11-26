@@ -21,7 +21,6 @@
     "name": "Water Bucket",
     "npc_sell_price": 4
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_BUILDER_CLASSIC",
@@ -44,5 +43,6 @@
       ],
       "amount": 1
     }
-  ]
+  ],
+  "recipes": []
 }

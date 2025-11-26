@@ -22,7 +22,6 @@
     "name": "Podzol",
     "npc_sell_price": 5
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_LUMBER_MERCHANT",
@@ -34,5 +33,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }
