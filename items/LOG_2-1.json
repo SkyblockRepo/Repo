@@ -22,6 +22,7 @@
     "name": "Dark Oak Log",
     "npc_sell_price": 2
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_LUMBER_MERCHANT",
@@ -34,6 +35,5 @@
       ],
       "amount": 5
     }
-  ],
-  "recipes": []
+  ]
 }
