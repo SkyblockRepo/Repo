@@ -21,6 +21,7 @@
     "name": "Dead Bush",
     "npc_sell_price": 2
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "TRADES_MENU",
@@ -34,6 +35,5 @@
       ],
       "amount": 1
     }
-  ],
-  "recipes": []
+  ]
 }
