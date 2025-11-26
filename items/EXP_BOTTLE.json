@@ -21,18 +21,6 @@
     "name": "Experience Bottle",
     "npc_sell_price": 5
   },
-  "soldBy": [
-    {
-      "id": "NPC_LIBRARIAN",
-      "name": "Librarian",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 30
-        }
-      ]
-    }
-  ],
   "recipes": [
     {
       "name": "first",
@@ -69,6 +57,18 @@
           "quantity": 1
         }
       }
+    }
+  ],
+  "soldBy": [
+    {
+      "id": "NPC_LIBRARIAN",
+      "name": "Librarian",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 30
+        }
+      ]
     }
   ]
 }
