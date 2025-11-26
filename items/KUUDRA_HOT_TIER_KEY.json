@@ -22,6 +22,104 @@
       "signature": "XH+ez9zIlZ1DINfonekJ5ptZYYu2B5hFZPqutgcWmmgqEtJC/u9IxUFLylXADvgRi5vYrXStPqHPxoBQmmN4bsxvb30j1Ounlz3rR7s7TH+yKheMM8+lH187VcEmHoZVSAg6unuNERorWiSR1S6ZTZKURDznBAZ9MABGSBNheqBY/lNlsu/zS9g2rcS6CGKzda/ZtrjSSEAl3xbrd5nMJ4sLQDPFiTv84Fk6sgBHG5rEKo9IqDTA1FOu66dG6yifubKT3kaLDclCswEux6ZrE8NY8mmPig3oEKSQViOAdUvSpW26/TOPe8uhHHRaH57vH7cmUdm330x+gJbH0OhzG5UeDSJZc5xikqTtnzojVOB75iJUGRa/K9ezWmUJ4+4fSgwVbanlv3Gr1QP3gWLxE9J5A2fXIt1lnNjkY9Fr/5gm2W++T+j2aswMMR3XC5wFWk6BCj9QxmKSAL/kNlc+Wlt/MP/eCgfvGCMxAL4LCedujn0j8i6o3dSXjy3gStVXpt96eCwTL0iaHks9rg1/6ZHRQ5Fwd7eHryy0Fr3CoIb7tWrB9yZC+pu+hN+o/rnTLZ+OGh1jNVZv0XK/ylk1WsYIo+Pcpd2k3HyqaQtcPg6BnyUkz/TuVUhQ6JZ5gQ3dlZkbl6+n8/AoEkRbMU76iyMsEHQFPgqdB1fB8YiDmJE="
     }
   },
+  "recipes": [
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "KUUDRA_HOT_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "KUUDRA_HOT_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "KUUDRA_HOT_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "KUUDRA_HOT_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KUUDRA_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    }
+  ],
   "soldBy": [
     {
       "id": "BARBARIAN_SHOP",
@@ -63,6 +161,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }
