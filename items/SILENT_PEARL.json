@@ -22,7 +22,6 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 100
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_PEARL_DEALER",
@@ -35,5 +34,6 @@
       ],
       "amount": 8
     }
-  ]
+  ],
+  "recipes": []
 }

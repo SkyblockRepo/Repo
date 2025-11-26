@@ -21,7 +21,6 @@
     "name": "Gravel",
     "npc_sell_price": 3
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_PAT",
@@ -34,5 +33,6 @@
       ],
       "amount": 15
     }
-  ]
+  ],
+  "recipes": []
 }

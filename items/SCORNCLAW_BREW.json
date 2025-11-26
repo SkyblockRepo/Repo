@@ -27,7 +27,6 @@
     "tier": "COMMON",
     "npc_sell_price": 50
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "INVENTORY_GROG",
@@ -39,5 +38,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

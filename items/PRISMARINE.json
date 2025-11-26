@@ -21,7 +21,6 @@
     "name": "Prismarine",
     "npc_sell_price": 5
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_BUILDER_CLASSIC",
@@ -34,5 +33,6 @@
       ],
       "amount": 8
     }
-  ]
+  ],
+  "recipes": []
 }
