@@ -29,7 +29,6 @@
     "npc_sell_price": 1000000,
     "has_uuid": true
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "INVENTORY_LIZ'S_STOCK_REDEMPTION",
@@ -42,5 +41,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

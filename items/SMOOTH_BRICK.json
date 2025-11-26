@@ -21,7 +21,6 @@
     "name": "Stone Bricks",
     "npc_sell_price": 1
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_BUILDER_CLASSIC",
@@ -34,5 +33,6 @@
       ],
       "amount": 8
     }
-  ]
+  ],
+  "recipes": []
 }

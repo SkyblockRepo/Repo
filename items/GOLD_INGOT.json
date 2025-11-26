@@ -21,7 +21,6 @@
     "name": "Gold Ingot",
     "npc_sell_price": 3
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_GOLD_FORGER",
@@ -33,5 +32,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

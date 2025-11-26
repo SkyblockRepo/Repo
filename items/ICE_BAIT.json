@@ -28,6 +28,18 @@
     "tier": "UNCOMMON",
     "npc_sell_price": 3
   },
+  "soldBy": [
+    {
+      "id": "NPC_SHERRY",
+      "name": "Sherry",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 12
+        }
+      ]
+    }
+  ],
   "recipes": [
     {
       "name": "first",
@@ -44,18 +56,6 @@
           "quantity": 1
         }
       }
-    }
-  ],
-  "soldBy": [
-    {
-      "id": "NPC_SHERRY",
-      "name": "Sherry",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 12
-        }
-      ]
     }
   ]
 }

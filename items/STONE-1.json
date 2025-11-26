@@ -22,7 +22,6 @@
     "name": "Granite",
     "npc_sell_price": 2
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_BUILDER_CLASSIC",
@@ -35,5 +34,6 @@
       ],
       "amount": 8
     }
-  ]
+  ],
+  "recipes": []
 }

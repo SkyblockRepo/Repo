@@ -28,7 +28,6 @@
     "tier": "RARE",
     "description": "%%gray%%Nothing beats the smell of fresh %%gold%%Coins%%gray%%. Except for lots of things."
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "INVENTORY_LIZ'S_STOCK_REDEMPTION",
@@ -41,5 +40,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

@@ -24,7 +24,6 @@
     "glowing": true,
     "npc_sell_price": 50
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "BARBARIAN_SHOP",
@@ -36,5 +35,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

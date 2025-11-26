@@ -21,7 +21,6 @@
     "name": "Gunpowder",
     "npc_sell_price": 4
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_ADVENTURER",
@@ -33,5 +32,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

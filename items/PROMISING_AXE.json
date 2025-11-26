@@ -33,6 +33,18 @@
       "DAMAGE": 25
     }
   },
+  "soldBy": [
+    {
+      "id": "NPC_LUMBER_MERCHANT",
+      "name": "Lumber Merchant",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 35
+        }
+      ]
+    }
+  ],
   "recipes": [
     {
       "name": "second",
@@ -89,18 +101,6 @@
           "quantity": 1
         }
       }
-    }
-  ],
-  "soldBy": [
-    {
-      "id": "NPC_LUMBER_MERCHANT",
-      "name": "Lumber Merchant",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 35
-        }
-      ]
     }
   ]
 }
