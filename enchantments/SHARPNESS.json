@@ -2,8 +2,6 @@
   "internalId": "SHARPNESS",
   "name": "Sharpness",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 7,
   "items": [
     "ENCHANTMENT_SHARPNESS_1",
     "ENCHANTMENT_SHARPNESS_2",
@@ -12,5 +10,7 @@
     "ENCHANTMENT_SHARPNESS_5",
     "ENCHANTMENT_SHARPNESS_6",
     "ENCHANTMENT_SHARPNESS_7"
-  ]
+  ],
+  "maxLevel": 7,
+  "minLevel": 1
 }

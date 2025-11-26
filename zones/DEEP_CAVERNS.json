@@ -3,192 +3,6 @@
   "name": "Deep Caverns",
   "source": "HypixelWiki",
   "discoveryText": "Deep Caverns\nTalk to the Lift Operator.\nMine valuable ores.\nWatch out for mobs!",
-  "npcs": [
-    {
-      "link": "Lapis Miner",
-      "name": "Lapis Miner"
-    },
-    {
-      "link": "Lift Operator",
-      "name": "Lift Operator"
-    },
-    {
-      "link": "Redstone Miner",
-      "name": "Redstone Miner"
-    },
-    {
-      "link": "Rhys",
-      "name": "Rhys"
-    },
-    {
-      "link": "Walter",
-      "name": "Walter"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
-    },
-    {
-      "link": "Emerald Slime",
-      "name": "Emerald Slime"
-    },
-    {
-      "link": "Lapis Zombie",
-      "name": "Lapis Zombie"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Miner Skeleton",
-      "name": "Miner Skeleton"
-    },
-    {
-      "link": "Miner Zombie",
-      "name": "Miner Zombie"
-    },
-    {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
-    },
-    {
-      "link": "Redstone Pigman",
-      "name": "Redstone Pigman"
-    },
-    {
-      "link": "Scary Jerry",
-      "name": "Scary Jerry"
-    },
-    {
-      "link": "Sneaky Creeper",
-      "name": "Sneaky Creeper"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Wither Gourd",
-      "name": "Wither Gourd"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Blast O' Lantern",
-      "name": "Blast O' Lantern"
-    },
-    {
-      "link": "Bone",
-      "name": "Bone"
-    },
-    {
-      "link": "Bone Dye",
-      "name": "Bone Dye"
-    },
-    {
-      "link": "Ectoplasm",
-      "name": "Ectoplasm"
-    },
-    {
-      "link": "Exp Share Core",
-      "name": "Exp Share Core"
-    },
-    {
-      "link": "Flaming Sword",
-      "name": "Flaming Sword"
-    },
-    {
-      "link": "Gold Nugget",
-      "name": "Gold Nugget"
-    },
-    {
-      "link": "Green Candy",
-      "name": "Green Candy"
-    },
-    {
-      "link": "Gunpowder",
-      "name": "Gunpowder"
-    },
-    {
-      "link": "Lapis Armor Boots",
-      "name": "Lapis Armor Boots"
-    },
-    {
-      "link": "Lapis Armor Chestplate",
-      "name": "Lapis Armor Chestplate"
-    },
-    {
-      "link": "Lapis Armor Helmet",
-      "name": "Lapis Armor Helmet"
-    },
-    {
-      "link": "Lapis Armor Leggings",
-      "name": "Lapis Armor Leggings"
-    },
-    {
-      "link": "Lapis Crystal",
-      "name": "Lapis Crystal"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Miner Boots",
-      "name": "Miner Boots"
-    },
-    {
-      "link": "Miner Boots",
-      "name": "Miner Boots"
-    },
-    {
-      "link": "Miner Chestplate",
-      "name": "Miner Chestplate"
-    },
-    {
-      "link": "Miner Chestplate",
-      "name": "Miner Chestplate"
-    },
-    {
-      "link": "Miner Helmet",
-      "name": "Miner Helmet"
-    },
-    {
-      "link": "Miner Helmet",
-      "name": "Miner Helmet"
-    },
-    {
-      "link": "Miner Leggings",
-      "name": "Miner Leggings"
-    },
-    {
-      "link": "Miner Leggings",
-      "name": "Miner Leggings"
-    },
-    {
-      "link": "Purple Candy",
-      "name": "Purple Candy"
-    },
-    {
-      "link": "Redstone",
-      "name": "Redstone"
-    },
-    {
-      "link": "Rotten Flesh",
-      "name": "Rotten Flesh"
-    },
-    {
-      "link": "Slimeball",
-      "name": "Slimeball"
-    }
-  ],
   "fairySouls": [
     {
       "location": "DEEP_CAVERNS_ROOM_1",
@@ -378,6 +192,192 @@
         "y": 13,
         "z": 24
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Exp Share Core",
+      "name": "Exp Share Core"
+    },
+    {
+      "link": "Flaming Sword",
+      "name": "Flaming Sword"
+    },
+    {
+      "link": "Gold Nugget",
+      "name": "Gold Nugget"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Gunpowder",
+      "name": "Gunpowder"
+    },
+    {
+      "link": "Lapis Armor Boots",
+      "name": "Lapis Armor Boots"
+    },
+    {
+      "link": "Lapis Armor Chestplate",
+      "name": "Lapis Armor Chestplate"
+    },
+    {
+      "link": "Lapis Armor Helmet",
+      "name": "Lapis Armor Helmet"
+    },
+    {
+      "link": "Lapis Armor Leggings",
+      "name": "Lapis Armor Leggings"
+    },
+    {
+      "link": "Lapis Crystal",
+      "name": "Lapis Crystal"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Miner Boots",
+      "name": "Miner Boots"
+    },
+    {
+      "link": "Miner Boots",
+      "name": "Miner Boots"
+    },
+    {
+      "link": "Miner Chestplate",
+      "name": "Miner Chestplate"
+    },
+    {
+      "link": "Miner Chestplate",
+      "name": "Miner Chestplate"
+    },
+    {
+      "link": "Miner Helmet",
+      "name": "Miner Helmet"
+    },
+    {
+      "link": "Miner Helmet",
+      "name": "Miner Helmet"
+    },
+    {
+      "link": "Miner Leggings",
+      "name": "Miner Leggings"
+    },
+    {
+      "link": "Miner Leggings",
+      "name": "Miner Leggings"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Redstone",
+      "name": "Redstone"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "Slimeball",
+      "name": "Slimeball"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Emerald Slime",
+      "name": "Emerald Slime"
+    },
+    {
+      "link": "Lapis Zombie",
+      "name": "Lapis Zombie"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Miner Skeleton",
+      "name": "Miner Skeleton"
+    },
+    {
+      "link": "Miner Zombie",
+      "name": "Miner Zombie"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Redstone Pigman",
+      "name": "Redstone Pigman"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Sneaky Creeper",
+      "name": "Sneaky Creeper"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Lapis Miner",
+      "name": "Lapis Miner"
+    },
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    },
+    {
+      "link": "Redstone Miner",
+      "name": "Redstone Miner"
+    },
+    {
+      "link": "Rhys",
+      "name": "Rhys"
+    },
+    {
+      "link": "Walter",
+      "name": "Walter"
     }
   ]
 }

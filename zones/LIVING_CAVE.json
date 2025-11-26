@@ -3,18 +3,18 @@
   "name": "Living Cave",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Autonull",
-      "name": "Autonull"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Nullified Metal",
       "name": "Nullified Metal"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Autonull",
+      "name": "Autonull"
+    }
+  ],
+  "npcs": []
 }

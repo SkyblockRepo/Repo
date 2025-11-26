@@ -3,18 +3,41 @@
   "name": "Dark Thicket",
   "source": "HypixelWiki",
   "discoveryText": "Dark Thicket\nChop down Dark Oak logs.\nTalk to Ryan about the Trial of Fire.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Campfire Adept",
-      "name": "Campfire Adept"
+      "location": "FLOATING_ISLANDS_3",
+      "number": 11,
+      "coordinates": {
+        "x": -370,
+        "y": 112,
+        "z": -118
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
     },
     {
-      "link": "Campfire Initiate",
-      "name": "Campfire Initiate"
+      "link": "Bone Dye",
+      "name": "Bone Dye"
     },
     {
-      "link": "Ryan",
-      "name": "Ryan"
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
     }
   ],
   "mobs": [
@@ -47,41 +70,18 @@
       "name": "Wraith"
     }
   ],
-  "mobDrops": [
+  "npcs": [
     {
-      "link": "Blast O' Lantern",
-      "name": "Blast O' Lantern"
+      "link": "Campfire Adept",
+      "name": "Campfire Adept"
     },
     {
-      "link": "Bone Dye",
-      "name": "Bone Dye"
+      "link": "Campfire Initiate",
+      "name": "Campfire Initiate"
     },
     {
-      "link": "Ectoplasm",
-      "name": "Ectoplasm"
-    },
-    {
-      "link": "Green Candy",
-      "name": "Green Candy"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Purple Candy",
-      "name": "Purple Candy"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "FLOATING_ISLANDS_3",
-      "number": 11,
-      "coordinates": {
-        "x": -370,
-        "y": 112,
-        "z": -118
-      }
+      "link": "Ryan",
+      "name": "Ryan"
     }
   ]
 }

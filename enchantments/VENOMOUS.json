@@ -2,8 +2,6 @@
   "internalId": "VENOMOUS",
   "name": "Venomous",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_VENOMOUS_1",
     "ENCHANTMENT_VENOMOUS_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_VENOMOUS_4",
     "ENCHANTMENT_VENOMOUS_5",
     "ENCHANTMENT_VENOMOUS_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

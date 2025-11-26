@@ -3,56 +3,6 @@
   "name": "Fishing Outpost",
   "source": "HypixelWiki",
   "discoveryText": "Fishing Outpost\nBuy fishing essentials from the Fishing Merchant.\nTalk to Fisherman Gerald and Captain Baha about your Ship.\nLearn about Fishing stats from Gwynnie.",
-  "npcs": [
-    {
-      "link": "Fishing Merchant",
-      "name": "Fishing Merchant"
-    },
-    {
-      "link": "Gwynnie",
-      "name": "Gwynnie"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Ectoplasm",
-      "name": "Ectoplasm"
-    },
-    {
-      "link": "Green Candy",
-      "name": "Green Candy"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Purple Candy",
-      "name": "Purple Candy"
-    }
-  ],
   "fairySouls": [
     {
       "location": "FISHING_OUTPOST",
@@ -89,6 +39,56 @@
         "y": 53,
         "z": 88
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Fishing Merchant",
+      "name": "Fishing Merchant"
+    },
+    {
+      "link": "Gwynnie",
+      "name": "Gwynnie"
     }
   ]
 }

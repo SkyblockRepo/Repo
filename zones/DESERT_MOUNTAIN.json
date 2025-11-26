@@ -3,9 +3,6 @@
   "name": "Desert Mountain",
   "source": "HypixelWiki",
   "discoveryText": "Desert Mountain\nFind Jake.",
-  "npcs": [],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "DESERT_MOUNTAIN",
@@ -25,5 +22,8 @@
         "z": -467
       }
     }
-  ]
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": []
 }

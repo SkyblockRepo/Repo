@@ -3,40 +3,24 @@
   "name": "Diamond Reserve",
   "source": "HypixelWiki",
   "discoveryText": "Diamond Reserve\nThe Diamond Reserve can now be traveled to via the Lift Operator.\nMine Diamond Ore.\nThe Miner Zombies and Skeletons are highly dangerous!",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Lift Operator",
-      "name": "Lift Operator"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
+      "location": "DEEP_CAVERNS_ROOM_5",
+      "number": 17,
+      "coordinates": {
+        "x": -60,
+        "y": 37,
+        "z": 52
+      }
     },
     {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Miner Skeleton",
-      "name": "Miner Skeleton"
-    },
-    {
-      "link": "Miner Zombie",
-      "name": "Miner Zombie"
-    },
-    {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
+      "location": "DEEP_CAVERNS_ROOM_5",
+      "number": 18,
+      "coordinates": {
+        "x": -21,
+        "y": 25,
+        "z": 72
+      }
     }
   ],
   "mobDrops": [
@@ -89,24 +73,40 @@
       "name": "Rotten Flesh"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "DEEP_CAVERNS_ROOM_5",
-      "number": 17,
-      "coordinates": {
-        "x": -60,
-        "y": 37,
-        "z": 52
-      }
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
     },
     {
-      "location": "DEEP_CAVERNS_ROOM_5",
-      "number": 18,
-      "coordinates": {
-        "x": -21,
-        "y": 25,
-        "z": 72
-      }
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Miner Skeleton",
+      "name": "Miner Skeleton"
+    },
+    {
+      "link": "Miner Zombie",
+      "name": "Miner Zombie"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
     }
   ]
 }

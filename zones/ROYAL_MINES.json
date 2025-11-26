@@ -3,6 +3,19 @@
   "name": "Royal Mines",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [
+    {
+      "location": "ROYAL_MINES",
+      "number": 6,
+      "coordinates": {
+        "x": 133,
+        "y": 104,
+        "z": 104
+      }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Emissary Wilson",
@@ -15,19 +28,6 @@
     {
       "link": "Ticket Master",
       "name": "Ticket Master"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": [
-    {
-      "location": "ROYAL_MINES",
-      "number": 6,
-      "coordinates": {
-        "x": 133,
-        "y": 104,
-        "z": 104
-      }
     }
   ]
 }

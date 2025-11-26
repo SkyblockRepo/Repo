@@ -2,13 +2,13 @@
   "internalId": "PALEONTOLOGIST",
   "name": "Paleontologist",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_PALEONTOLOGIST_1",
     "ENCHANTMENT_PALEONTOLOGIST_2",
     "ENCHANTMENT_PALEONTOLOGIST_3",
     "ENCHANTMENT_PALEONTOLOGIST_4",
     "ENCHANTMENT_PALEONTOLOGIST_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 1
 }

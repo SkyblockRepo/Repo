@@ -3,31 +3,24 @@
   "name": "Arachne's Burrow",
   "source": "HypixelWiki",
   "discoveryText": "Arachne's Burrow\nHome of Arachne.\nTread carefully.",
-  "npcs": [],
-  "mobs": [
+  "fairySouls": [
     {
-      "link": "Dasher Spider",
-      "name": "Dasher Spider"
+      "location": "ARACHNES_BURROW",
+      "number": 8,
+      "coordinates": {
+        "x": -294,
+        "y": 36,
+        "z": -274
+      }
     },
     {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Spider Jockey",
-      "name": "Spider Jockey"
-    },
-    {
-      "link": "Splitter Spider",
-      "name": "Splitter Spider"
-    },
-    {
-      "link": "Voracious Spider",
-      "name": "Voracious Spider"
-    },
-    {
-      "link": "Weaver Spider",
-      "name": "Weaver Spider"
+      "location": "ARACHNES_BURROW",
+      "number": 18,
+      "coordinates": {
+        "x": -309,
+        "y": 66,
+        "z": -245
+      }
     }
   ],
   "mobDrops": [
@@ -56,24 +49,31 @@
       "name": "Travel Scroll To Spider's Den Top Of Nest"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "ARACHNES_BURROW",
-      "number": 8,
-      "coordinates": {
-        "x": -294,
-        "y": 36,
-        "z": -274
-      }
+      "link": "Dasher Spider",
+      "name": "Dasher Spider"
     },
     {
-      "location": "ARACHNES_BURROW",
-      "number": 18,
-      "coordinates": {
-        "x": -309,
-        "y": 66,
-        "z": -245
-      }
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Spider Jockey",
+      "name": "Spider Jockey"
+    },
+    {
+      "link": "Splitter Spider",
+      "name": "Splitter Spider"
+    },
+    {
+      "link": "Voracious Spider",
+      "name": "Voracious Spider"
+    },
+    {
+      "link": "Weaver Spider",
+      "name": "Weaver Spider"
     }
-  ]
+  ],
+  "npcs": []
 }

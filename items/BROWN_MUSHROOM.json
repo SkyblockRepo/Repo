@@ -21,6 +21,7 @@
     "name": "Brown Mushroom",
     "npc_sell_price": 10
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_FARM_MERCHANT",
@@ -42,6 +43,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }

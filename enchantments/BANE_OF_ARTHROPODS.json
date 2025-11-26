@@ -2,8 +2,6 @@
   "internalId": "BANE_OF_ARTHROPODS",
   "name": "Bane of Arthropods",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 7,
   "items": [
     "ENCHANTMENT_BANE_OF_ARTHROPODS_1",
     "ENCHANTMENT_BANE_OF_ARTHROPODS_2",
@@ -12,5 +10,7 @@
     "ENCHANTMENT_BANE_OF_ARTHROPODS_5",
     "ENCHANTMENT_BANE_OF_ARTHROPODS_6",
     "ENCHANTMENT_BANE_OF_ARTHROPODS_7"
-  ]
+  ],
+  "maxLevel": 7,
+  "minLevel": 1
 }

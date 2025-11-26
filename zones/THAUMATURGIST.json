@@ -3,24 +3,15 @@
   "name": "Thaumaturgist",
   "source": "HypixelWiki",
   "discoveryText": "Thaumaturgist\nUnleash the power of your accessories!",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Jacobus",
-      "name": "Jacobus"
-    },
-    {
-      "link": "Maxwell",
-      "name": "Maxwell"
-    },
-    {
-      "link": "Ozanne",
-      "name": "Ozanne"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Rat",
-      "name": "Rat"
+      "location": "THAUMATURGIST",
+      "number": 46,
+      "coordinates": {
+        "x": 44,
+        "y": 68,
+        "z": -34
+      }
     }
   ],
   "mobDrops": [
@@ -33,15 +24,24 @@
       "name": "Tasty Cheese"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "THAUMATURGIST",
-      "number": 46,
-      "coordinates": {
-        "x": 44,
-        "y": 68,
-        "z": -34
-      }
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Jacobus",
+      "name": "Jacobus"
+    },
+    {
+      "link": "Maxwell",
+      "name": "Maxwell"
+    },
+    {
+      "link": "Ozanne",
+      "name": "Ozanne"
     }
   ]
 }

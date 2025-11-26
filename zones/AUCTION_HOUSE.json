@@ -3,20 +3,15 @@
   "name": "Auction House",
   "source": "HypixelWiki",
   "discoveryText": "Auction House\nAuction off your special items.\nBid on other players' items.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Auction Agent",
-      "name": "Auction Agent"
-    },
-    {
-      "link": "Auction Master",
-      "name": "Auction Master"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Rat",
-      "name": "Rat"
+      "location": "AUCTION_HOUSE",
+      "number": 47,
+      "coordinates": {
+        "x": -53,
+        "y": 70,
+        "z": -100
+      }
     }
   ],
   "mobDrops": [
@@ -29,15 +24,20 @@
       "name": "Tasty Cheese"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "AUCTION_HOUSE",
-      "number": 47,
-      "coordinates": {
-        "x": -53,
-        "y": 70,
-        "z": -100
-      }
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Auction Agent",
+      "name": "Auction Agent"
+    },
+    {
+      "link": "Auction Master",
+      "name": "Auction Master"
     }
   ]
 }

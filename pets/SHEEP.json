@@ -1,20 +1,20 @@
 {
   "internalId": "SHEEP",
   "name": "Sheep",
-  "source": "HypixelWiki",
   "category": "Alchemy",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Intelligence",
-    "Ability Damage"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Intelligence",
+    "Ability Damage"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

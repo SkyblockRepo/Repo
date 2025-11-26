@@ -1,20 +1,20 @@
 {
   "internalId": "BABY_YETI",
   "name": "Baby Yeti",
-  "source": "HypixelWiki",
   "category": "Fishing",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Strength",
-    "Intelligence"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Intelligence"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "EPIC": {
       "lore": {

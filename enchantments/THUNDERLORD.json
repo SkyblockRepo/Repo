@@ -2,8 +2,6 @@
   "internalId": "THUNDERLORD",
   "name": "Thunderlord",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 7,
   "items": [
     "ENCHANTMENT_THUNDERLORD_1",
     "ENCHANTMENT_THUNDERLORD_2",
@@ -12,5 +10,7 @@
     "ENCHANTMENT_THUNDERLORD_5",
     "ENCHANTMENT_THUNDERLORD_6",
     "ENCHANTMENT_THUNDERLORD_7"
-  ]
+  ],
+  "maxLevel": 7,
+  "minLevel": 1
 }

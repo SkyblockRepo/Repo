@@ -1,20 +1,20 @@
 {
   "internalId": "GLACITE_GOLEM",
   "name": "Glacite Golem",
-  "source": "HypixelWiki",
   "category": "Mining",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Mining Speed",
-    "Cold Resistance"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Mining Speed",
+    "Cold Resistance"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

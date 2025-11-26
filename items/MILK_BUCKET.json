@@ -21,6 +21,7 @@
     "name": "Milk Bucket",
     "npc_sell_price": 4
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "TRADES_MENU",
@@ -33,6 +34,5 @@
       ],
       "amount": 1
     }
-  ],
-  "recipes": []
+  ]
 }

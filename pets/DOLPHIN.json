@@ -1,20 +1,20 @@
 {
   "internalId": "DOLPHIN",
   "name": "Dolphin",
-  "source": "HypixelWiki",
   "category": "Fishing",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Sea Creature Chance",
-    "Intelligence"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Sea Creature Chance",
+    "Intelligence"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

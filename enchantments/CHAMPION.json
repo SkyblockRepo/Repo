@@ -2,8 +2,6 @@
   "internalId": "CHAMPION",
   "name": "Champion",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_CHAMPION_1",
     "ENCHANTMENT_CHAMPION_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_CHAMPION_8",
     "ENCHANTMENT_CHAMPION_9",
     "ENCHANTMENT_CHAMPION_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

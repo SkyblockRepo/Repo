@@ -2,11 +2,11 @@
   "internalId": "VICIOUS",
   "name": "Vicious",
   "source": "HypixelWiki",
-  "minLevel": 3,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_VICIOUS_3",
     "ENCHANTMENT_VICIOUS_4",
     "ENCHANTMENT_VICIOUS_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 3
 }

@@ -3,6 +3,111 @@
   "name": "The Barn",
   "source": "HypixelWiki",
   "discoveryText": "The Barn\nHarvest Wheat, Carrots, Potatoes, Pumpkins, and Melons.\nKill cows, chickens, and pigs.\nMilk cows.",
+  "fairySouls": [
+    {
+      "location": "THE_BARN",
+      "number": 1,
+      "coordinates": {
+        "x": 96,
+        "y": 96,
+        "z": -287
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 2,
+      "coordinates": {
+        "x": 182,
+        "y": 99,
+        "z": -235
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 3,
+      "coordinates": {
+        "x": 183,
+        "y": 99,
+        "z": -305
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 4,
+      "coordinates": {
+        "x": 126,
+        "y": 91,
+        "z": -304
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 5,
+      "coordinates": {
+        "x": 99,
+        "y": 112,
+        "z": -275
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 6,
+      "coordinates": {
+        "x": 143,
+        "y": 90,
+        "z": -243
+      }
+    },
+    {
+      "location": "THE_BARN",
+      "number": 7,
+      "coordinates": {
+        "x": 155,
+        "y": 23,
+        "z": -204
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Leather",
+      "name": "Leather"
+    },
+    {
+      "link": "Raw Beef",
+      "name": "Raw Beef"
+    },
+    {
+      "link": "Red Mushroom",
+      "name": "Red Mushroom"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Chicken (Mob)",
+      "name": "Chicken"
+    },
+    {
+      "link": "Cow",
+      "name": "Cow"
+    },
+    {
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
+    },
+    {
+      "link": "Pig",
+      "name": "Pig"
+    },
+    {
+      "link": "Rabbit",
+      "name": "Rabbit"
+    },
+    {
+      "link": "Sheep",
+      "name": "Sheep"
+    }
+  ],
   "npcs": [
     {
       "link": "Beth",
@@ -71,111 +176,6 @@
     {
       "link": "Windmill Operator",
       "name": "Windmill Operator"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Chicken (Mob)",
-      "name": "Chicken"
-    },
-    {
-      "link": "Cow",
-      "name": "Cow"
-    },
-    {
-      "link": "Mushroom Cow",
-      "name": "Mushroom Cow"
-    },
-    {
-      "link": "Pig",
-      "name": "Pig"
-    },
-    {
-      "link": "Rabbit",
-      "name": "Rabbit"
-    },
-    {
-      "link": "Sheep",
-      "name": "Sheep"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Leather",
-      "name": "Leather"
-    },
-    {
-      "link": "Raw Beef",
-      "name": "Raw Beef"
-    },
-    {
-      "link": "Red Mushroom",
-      "name": "Red Mushroom"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "THE_BARN",
-      "number": 1,
-      "coordinates": {
-        "x": 96,
-        "y": 96,
-        "z": -287
-      }
-    },
-    {
-      "location": "THE_BARN",
-      "number": 2,
-      "coordinates": {
-        "x": 182,
-        "y": 99,
-        "z": -235
-      }
-    },
-    {
-      "location": "THE_BARN",
-      "number": 3,
-      "coordinates": {
-        "x": 183,
-        "y": 99,
-        "z": -305
-      }
-    },
-    {
-      "location": "THE_BARN",
-      "number": 4,
-      "coordinates": {
-        "x": 126,
-        "y": 91,
-        "z": -304
-      }
-    },
-    {
-      "location": "THE_BARN",
-      "number": 5,
-      "coordinates": {
-        "x": 99,
-        "y": 112,
-        "z": -275
-      }
-    },
-    {
-      "location": "THE_BARN",
-      "number": 6,
-      "coordinates": {
-        "x": 143,
-        "y": 90,
-        "z": -243
-      }
-    },
-    {
-      "location": "THE_BARN",
-      "number": 7,
-      "coordinates": {
-        "x": 155,
-        "y": 23,
-        "z": -204
-      }
     }
   ]
 }

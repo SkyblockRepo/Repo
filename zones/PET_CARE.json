@@ -3,6 +3,19 @@
   "name": "Pet Care",
   "source": "HypixelWiki",
   "discoveryText": "Pet Care\nBuy your first Pet!\nLearn about Pet Items.\nTrain your Pets, and more!",
+  "fairySouls": [
+    {
+      "location": "PET_CARE",
+      "number": 80,
+      "coordinates": {
+        "x": 30,
+        "y": 80,
+        "z": -94
+      }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Bea",
@@ -27,19 +40,6 @@
     {
       "link": "Zog",
       "name": "Zog"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": [
-    {
-      "location": "PET_CARE",
-      "number": 80,
-      "coordinates": {
-        "x": 30,
-        "y": 80,
-        "z": -94
-      }
     }
   ]
 }

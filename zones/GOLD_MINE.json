@@ -3,34 +3,6 @@
   "name": "Gold Mine",
   "source": "HypixelWiki",
   "discoveryText": "Gold Mine\nTalk to the Lazy Miner.\nMine for gold, iron, and coal.\nVisit the Iron and Gold Forgers.\nVisit the Blacksmith.\nTalk to Rusty.",
-  "npcs": [
-    {
-      "link": "Blacksmith",
-      "name": "Blacksmith"
-    },
-    {
-      "link": "Gold Forger",
-      "name": "Gold Forger"
-    },
-    {
-      "link": "Iron Forger",
-      "name": "Iron Forger"
-    },
-    {
-      "link": "Lazy Miner",
-      "name": "Lazy Miner"
-    },
-    {
-      "link": "Romero",
-      "name": "Romero"
-    },
-    {
-      "link": "Rusty",
-      "name": "Rusty"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "GOLD_MINE",
@@ -139,6 +111,34 @@
         "y": 57,
         "z": -341
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Blacksmith",
+      "name": "Blacksmith"
+    },
+    {
+      "link": "Gold Forger",
+      "name": "Gold Forger"
+    },
+    {
+      "link": "Iron Forger",
+      "name": "Iron Forger"
+    },
+    {
+      "link": "Lazy Miner",
+      "name": "Lazy Miner"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Rusty",
+      "name": "Rusty"
     }
   ]
 }

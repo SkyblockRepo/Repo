@@ -3,36 +3,33 @@
   "name": "Dragon's Nest",
   "source": "HypixelWiki",
   "discoveryText": "Dragon's Nest\nSummon the Ender Dragon!\nFight Zealots.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Gregory",
-      "name": "Gregory"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 1,
+      "coordinates": {
+        "x": -723,
+        "y": 75,
+        "z": -222
+      }
     },
     {
-      "link": "Obsidian Defender",
-      "name": "Obsidian Defender"
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 10,
+      "coordinates": {
+        "x": -657,
+        "y": 36,
+        "z": -201
+      }
     },
     {
-      "link": "Voidling Fanatic",
-      "name": "Voidling Fanatic"
-    },
-    {
-      "link": "Seer",
-      "name": "Seer"
-    },
-    {
-      "link": "Zealot",
-      "name": "Zealot"
-    },
-    {
-      "link": "Zealot Bruiser",
-      "name": "Zealot Bruiser"
+      "location": "ENDERDRAGON_BOSS_ROOM",
+      "number": 12,
+      "coordinates": {
+        "x": -748,
+        "y": 106,
+        "z": -284
+      }
     }
   ],
   "mobDrops": [
@@ -105,33 +102,36 @@
       "name": "Pearlescent Dye"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "ENDERDRAGON_BOSS_ROOM",
-      "number": 1,
-      "coordinates": {
-        "x": -723,
-        "y": 75,
-        "z": -222
-      }
+      "link": "Mega Bat",
+      "name": "Mega Bat"
     },
     {
-      "location": "ENDERDRAGON_BOSS_ROOM",
-      "number": 10,
-      "coordinates": {
-        "x": -657,
-        "y": 36,
-        "z": -201
-      }
+      "link": "Obsidian Defender",
+      "name": "Obsidian Defender"
     },
     {
-      "location": "ENDERDRAGON_BOSS_ROOM",
-      "number": 12,
-      "coordinates": {
-        "x": -748,
-        "y": 106,
-        "z": -284
-      }
+      "link": "Voidling Fanatic",
+      "name": "Voidling Fanatic"
+    },
+    {
+      "link": "Seer",
+      "name": "Seer"
+    },
+    {
+      "link": "Zealot",
+      "name": "Zealot"
+    },
+    {
+      "link": "Zealot Bruiser",
+      "name": "Zealot Bruiser"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Gregory",
+      "name": "Gregory"
     }
   ]
 }

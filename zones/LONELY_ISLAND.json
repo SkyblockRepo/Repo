@@ -3,18 +3,18 @@
   "name": "Lonely Island",
   "source": "HypixelWiki",
   "discoveryText": "Lonely Island\nExplore the lonely structure.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Midnight Dye",
       "name": "Midnight Dye"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "npcs": []
 }

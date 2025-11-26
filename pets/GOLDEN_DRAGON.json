@@ -1,21 +1,21 @@
 {
   "internalId": "GOLDEN_DRAGON",
   "name": "Golden Dragon",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 101,
-  "maxLevel": 200,
-  "baseStats": [
-    "Strength",
-    "Magic Find",
-    "Bonus Attack Speed"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Magic Find",
+    "Bonus Attack Speed"
+  ],
+  "maxLevel": 200,
+  "minLevel": 101,
   "rarities": {
     "LEGENDARY": {
       "lore": {

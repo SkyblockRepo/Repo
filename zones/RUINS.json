@@ -3,44 +3,6 @@
   "name": "Ruins",
   "source": "HypixelWiki",
   "discoveryText": "Ruins\nExplore the ancient ruins.\nWatch out for the guard dogs!",
-  "npcs": [
-    {
-      "link": "Lonely Philosopher",
-      "name": "Lonely Philosopher"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Old Wolf",
-      "name": "Old Wolf"
-    },
-    {
-      "link": "Wolf",
-      "name": "Wolf"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Bone",
-      "name": "Bone"
-    },
-    {
-      "link": "Hound Pet",
-      "name": "Hound Pet"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Wolf Talisman",
-      "name": "Wolf Talisman"
-    }
-  ],
   "fairySouls": [
     {
       "location": "RUINS",
@@ -194,6 +156,44 @@
         "y": 74,
         "z": 125
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Hound Pet",
+      "name": "Hound Pet"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Wolf Talisman",
+      "name": "Wolf Talisman"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Old Wolf",
+      "name": "Old Wolf"
+    },
+    {
+      "link": "Wolf",
+      "name": "Wolf"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Lonely Philosopher",
+      "name": "Lonely Philosopher"
     }
   ]
 }

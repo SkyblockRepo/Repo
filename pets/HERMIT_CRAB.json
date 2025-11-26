@@ -1,21 +1,21 @@
 {
   "internalId": "HERMIT_CRAB",
   "name": "Hermit Crab",
-  "source": "HypixelWiki",
   "category": "Fishing",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Defense",
-    "Fishing Speed",
-    "Sea Creature Chance"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Defense",
+    "Fishing Speed",
+    "Sea Creature Chance"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

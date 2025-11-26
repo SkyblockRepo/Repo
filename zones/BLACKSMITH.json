@@ -3,6 +3,9 @@
   "name": "Blacksmith",
   "source": "HypixelWiki",
   "discoveryText": "Blacksmith\nTalk to the Blacksmith about Reforges.\nCombine items in the Anvil.\nApply runes at the Rune Pedestal.",
+  "fairySouls": [],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Blacksmith",
@@ -16,8 +19,5 @@
       "link": "Smithmonger",
       "name": "Smithmonger"
     }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": []
+  ]
 }

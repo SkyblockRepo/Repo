@@ -2,6 +2,7 @@
   "internalId": "NPC_BAZAAR_ODDITIES",
   "name": "Bazaar ➜ Oddities",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "golden_hoe",
@@ -237,6 +238,5 @@
       "material": "pink_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "6"
+  }
 }

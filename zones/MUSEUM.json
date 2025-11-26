@@ -3,6 +3,9 @@
   "name": "Museum",
   "source": "HypixelWiki",
   "discoveryText": "Museum\nTalk to Madame Goldsworth.\nDonate items to your Museum.\nVisit other players' Museums.",
+  "fairySouls": [],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Curator",
@@ -12,8 +15,5 @@
       "link": "Madame Eleanor Q. Goldsworth III",
       "name": "Madame Eleanor Q. Goldsworth III"
     }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": []
+  ]
 }

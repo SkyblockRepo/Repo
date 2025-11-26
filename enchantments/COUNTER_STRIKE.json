@@ -2,11 +2,11 @@
   "internalId": "COUNTER_STRIKE",
   "name": "Counter-Strike",
   "source": "HypixelWiki",
-  "minLevel": 3,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_COUNTER_STRIKE_3",
     "ENCHANTMENT_COUNTER_STRIKE_4",
     "ENCHANTMENT_COUNTER_STRIKE_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 3
 }

@@ -2,8 +2,6 @@
   "internalId": "FEATHER_FALLING",
   "name": "Feather Falling",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_FEATHER_FALLING_1",
     "ENCHANTMENT_FEATHER_FALLING_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_FEATHER_FALLING_8",
     "ENCHANTMENT_FEATHER_FALLING_9",
     "ENCHANTMENT_FEATHER_FALLING_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

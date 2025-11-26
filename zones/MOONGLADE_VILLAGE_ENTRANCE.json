@@ -3,18 +3,7 @@
   "name": "Tangleburg's Path",
   "source": "HypixelWiki",
   "discoveryText": "Tangleburg's Path\nTalk to Hina about Heart of the Forest!\nTalk to Swoop about Tree Cutting!\nTalk to David Hunterborough about Hunting!\nCompete in Starlyn Contests!",
-  "npcs": [
-    {
-      "link": "Hina",
-      "name": "Hina"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Chillshot",
-      "name": "Chillshot"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Arcane Enchantment",
@@ -33,5 +22,16 @@
       "name": "Stealth I"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Chillshot",
+      "name": "Chillshot"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Hina",
+      "name": "Hina"
+    }
+  ]
 }

@@ -3,40 +3,6 @@
   "name": "Gunpowder Mines",
   "source": "HypixelWiki",
   "discoveryText": "Gunpowder Mines\nTalk to the Lift Operator.\nExplore the caverns.\nMine Coal, Iron, and Gold Ore.\nWatch out for Sneaky Creepers!",
-  "npcs": [
-    {
-      "link": "Lift Operator",
-      "name": "Lift Operator"
-    },
-    {
-      "link": "Walter",
-      "name": "Walter"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Sneaky Creeper",
-      "name": "Sneaky Creeper"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Exp Share Core",
-      "name": "Exp Share Core"
-    },
-    {
-      "link": "Gunpowder",
-      "name": "Gunpowder"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    }
-  ],
   "fairySouls": [
     {
       "location": "DEEP_CAVERNS_ROOM_1",
@@ -73,6 +39,40 @@
         "y": 149,
         "z": 14
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Exp Share Core",
+      "name": "Exp Share Core"
+    },
+    {
+      "link": "Gunpowder",
+      "name": "Gunpowder"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Sneaky Creeper",
+      "name": "Sneaky Creeper"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Lift Operator",
+      "name": "Lift Operator"
+    },
+    {
+      "link": "Walter",
+      "name": "Walter"
     }
   ]
 }

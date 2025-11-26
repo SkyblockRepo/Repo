@@ -3,56 +3,6 @@
   "name": "Mushroom Desert",
   "source": "HypixelWiki",
   "discoveryText": "Mushroom Desert\nA desert with a lot of plant life.",
-  "npcs": [
-    {
-      "link": "Beth",
-      "name": "Beth"
-    },
-    {
-      "link": "Farmer Jon",
-      "name": "Farmer Jon"
-    },
-    {
-      "link": "Hunter Ava",
-      "name": "Hunter Ava"
-    },
-    {
-      "link": "Jake",
-      "name": "Jake"
-    },
-    {
-      "link": "Romero",
-      "name": "Romero"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mushroom Cow",
-      "name": "Mushroom Cow"
-    },
-    {
-      "link": "Rabbit",
-      "name": "Rabbit"
-    },
-    {
-      "link": "Sheep",
-      "name": "Sheep"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Leather",
-      "name": "Leather"
-    },
-    {
-      "link": "Raw Beef",
-      "name": "Raw Beef"
-    },
-    {
-      "link": "Red Mushroom",
-      "name": "Red Mushroom"
-    }
-  ],
   "fairySouls": [
     {
       "location": "OASIS",
@@ -170,6 +120,56 @@
         "y": 60,
         "z": -448
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Leather",
+      "name": "Leather"
+    },
+    {
+      "link": "Raw Beef",
+      "name": "Raw Beef"
+    },
+    {
+      "link": "Red Mushroom",
+      "name": "Red Mushroom"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
+    },
+    {
+      "link": "Rabbit",
+      "name": "Rabbit"
+    },
+    {
+      "link": "Sheep",
+      "name": "Sheep"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Beth",
+      "name": "Beth"
+    },
+    {
+      "link": "Farmer Jon",
+      "name": "Farmer Jon"
+    },
+    {
+      "link": "Hunter Ava",
+      "name": "Hunter Ava"
+    },
+    {
+      "link": "Jake",
+      "name": "Jake"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
     }
   ]
 }

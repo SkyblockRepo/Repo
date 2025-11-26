@@ -3,48 +3,6 @@
   "name": "Wizard Tower",
   "source": "HypixelWiki",
   "discoveryText": "Wizard Tower\nTalk to the Wizard.\nUse the Wizard Portal.",
-  "npcs": [
-    {
-      "link": "Darr",
-      "name": "Darr"
-    },
-    {
-      "link": "Elise",
-      "name": "Elise"
-    },
-    {
-      "link": "Erihann",
-      "name": "Erihann"
-    },
-    {
-      "link": "Grumblefoot",
-      "name": "Grumblefoot"
-    },
-    {
-      "link": "Nicole",
-      "name": "Nicole"
-    },
-    {
-      "link": "Udium",
-      "name": "Udium"
-    },
-    {
-      "link": "Wizard",
-      "name": "Wizard"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    }
-  ],
   "fairySouls": [
     {
       "location": "WIZARD_TOWER",
@@ -90,6 +48,48 @@
         "y": 120,
         "z": 70
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Darr",
+      "name": "Darr"
+    },
+    {
+      "link": "Elise",
+      "name": "Elise"
+    },
+    {
+      "link": "Erihann",
+      "name": "Erihann"
+    },
+    {
+      "link": "Grumblefoot",
+      "name": "Grumblefoot"
+    },
+    {
+      "link": "Nicole",
+      "name": "Nicole"
+    },
+    {
+      "link": "Udium",
+      "name": "Udium"
+    },
+    {
+      "link": "Wizard",
+      "name": "Wizard"
     }
   ]
 }

@@ -3,28 +3,6 @@
   "name": "Jungle Island",
   "source": "HypixelWiki",
   "discoveryText": "Jungle Island\nChop down Jungle logs.",
-  "npcs": [
-    {
-      "link": "Juliette",
-      "name": "Juliette"
-    },
-    {
-      "link": "Molbert",
-      "name": "Molbert"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    }
-  ],
   "fairySouls": [
     {
       "location": "FLOATING_ISLANDS_5",
@@ -52,6 +30,28 @@
         "y": 120,
         "z": -58
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Juliette",
+      "name": "Juliette"
+    },
+    {
+      "link": "Molbert",
+      "name": "Molbert"
     }
   ]
 }

@@ -3,16 +3,15 @@
   "name": "Mushroom Gorge",
   "source": "HypixelWiki",
   "discoveryText": "Mushroom Gorge\nHelp out the Hungry Hiker.\nFarm mushrooms.",
-  "npcs": [
+  "fairySouls": [
     {
-      "link": "Hungry Hiker",
-      "name": "Hungry Hiker"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mushroom Cow",
-      "name": "Mushroom Cow"
+      "location": "GORGE",
+      "number": 15,
+      "coordinates": {
+        "x": 254,
+        "y": 70,
+        "z": -493
+      }
     }
   ],
   "mobDrops": [
@@ -29,15 +28,16 @@
       "name": "Red Mushroom"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "GORGE",
-      "number": 15,
-      "coordinates": {
-        "x": 254,
-        "y": 70,
-        "z": -493
-      }
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Hungry Hiker",
+      "name": "Hungry Hiker"
     }
   ]
 }

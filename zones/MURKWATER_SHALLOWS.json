@@ -3,18 +3,7 @@
   "name": "Murkwater Shallows",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Nemo",
-      "name": "Nemo"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Chillshot",
-      "name": "Chillshot"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Arcane Enchantment",
@@ -33,5 +22,16 @@
       "name": "Stealth I"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Chillshot",
+      "name": "Chillshot"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Nemo",
+      "name": "Nemo"
+    }
+  ]
 }

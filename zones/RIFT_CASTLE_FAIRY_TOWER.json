@@ -3,14 +3,6 @@
   "name": "Fairylosophy Tower",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Fairylosopher",
-      "name": "Fairylosopher"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "RIFT_CASTLE_FAIRY_TOWER",
@@ -20,6 +12,14 @@
         "y": 123,
         "z": 90
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Fairylosopher",
+      "name": "Fairylosopher"
     }
   ]
 }

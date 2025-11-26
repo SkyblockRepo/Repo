@@ -2,6 +2,7 @@
   "internalId": "TRADES_MENU",
   "name": "Trades",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -516,6 +517,5 @@
       "material": "black_stained_glass_pane",
       "lore": "1"
     }
-  },
-  "rows": "6"
+  }
 }

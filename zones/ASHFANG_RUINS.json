@@ -3,31 +3,6 @@
   "name": "Ruins of Ashfang",
   "source": "HypixelWiki",
   "discoveryText": "Ruins of Ashfang\nDefeat Ashfang.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Dive Ghast",
-      "name": "Dive Ghast"
-    },
-    {
-      "link": "Ghast",
-      "name": "Ghast"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Cyclamen Dye",
-      "name": "Cyclamen Dye"
-    },
-    {
-      "link": "Ghast Tear",
-      "name": "Ghast Tear"
-    },
-    {
-      "link": "Tentacle Meat",
-      "name": "Tentacle Meat"
-    }
-  ],
   "fairySouls": [
     {
       "location": "ASHFANG_RUINS",
@@ -47,5 +22,30 @@
         "z": -972
       }
     }
-  ]
+  ],
+  "mobDrops": [
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Ghast Tear",
+      "name": "Ghast Tear"
+    },
+    {
+      "link": "Tentacle Meat",
+      "name": "Tentacle Meat"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Dive Ghast",
+      "name": "Dive Ghast"
+    },
+    {
+      "link": "Ghast",
+      "name": "Ghast"
+    }
+  ],
+  "npcs": []
 }

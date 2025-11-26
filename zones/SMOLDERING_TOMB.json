@@ -3,17 +3,7 @@
   "name": "Smoldering Tomb",
   "source": "HypixelWiki",
   "discoveryText": "Smoldering Tomb\nSlay really mean Blazes.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Millennia-Aged Blaze",
-      "name": "Millennia-Aged Blaze"
-    },
-    {
-      "link": "Smoldering Blaze",
-      "name": "Smoldering Blaze"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Blaze Ashes",
@@ -40,5 +30,15 @@
       "name": "Smoldering I"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Millennia-Aged Blaze",
+      "name": "Millennia-Aged Blaze"
+    },
+    {
+      "link": "Smoldering Blaze",
+      "name": "Smoldering Blaze"
+    }
+  ],
+  "npcs": []
 }

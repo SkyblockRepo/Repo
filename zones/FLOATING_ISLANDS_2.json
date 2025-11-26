@@ -3,6 +3,19 @@
   "name": "Spruce Woods",
   "source": "HypixelWiki",
   "discoveryText": "Spruce Woods\nChop down Spruce logs.",
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
   "npcs": [
     {
       "link": "Gustave",
@@ -12,18 +25,5 @@
       "link": "Kelly",
       "name": "Kelly"
     }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    }
-  ],
-  "fairySouls": []
+  ]
 }

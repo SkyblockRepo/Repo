@@ -2,11 +2,11 @@
   "internalId": "THORNS",
   "name": "Thorns",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 3,
   "items": [
     "ENCHANTMENT_THORNS_1",
     "ENCHANTMENT_THORNS_2",
     "ENCHANTMENT_THORNS_3"
-  ]
+  ],
+  "maxLevel": 3,
+  "minLevel": 1
 }

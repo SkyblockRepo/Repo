@@ -2,12 +2,12 @@
   "internalId": "FORTUNE",
   "name": "Fortune",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 4,
   "items": [
     "ENCHANTMENT_FORTUNE_1",
     "ENCHANTMENT_FORTUNE_2",
     "ENCHANTMENT_FORTUNE_3",
     "ENCHANTMENT_FORTUNE_4"
-  ]
+  ],
+  "maxLevel": 4,
+  "minLevel": 1
 }

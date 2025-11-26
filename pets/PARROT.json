@@ -1,20 +1,20 @@
 {
   "internalId": "PARROT",
   "name": "Parrot",
-  "source": "HypixelWiki",
   "category": "Alchemy",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Crit Damage",
-    "Intelligence"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Crit Damage",
+    "Intelligence"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "EPIC": {
       "lore": {

@@ -3,10 +3,11 @@
   "name": "Living Stillness",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
+  "fairySouls": [],
+  "mobDrops": [
     {
-      "link": "Rock",
-      "name": "Rock"
+      "link": "Frosty Crux",
+      "name": "Frosty Crux"
     }
   ],
   "mobs": [
@@ -15,11 +16,10 @@
       "name": "Frozille"
     }
   ],
-  "mobDrops": [
+  "npcs": [
     {
-      "link": "Frosty Crux",
-      "name": "Frosty Crux"
+      "link": "Rock",
+      "name": "Rock"
     }
-  ],
-  "fairySouls": []
+  ]
 }

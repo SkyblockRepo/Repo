@@ -1,20 +1,20 @@
 {
   "internalId": "MOOSHROOM_COW",
   "name": "Mooshroom Cow",
-  "source": "HypixelWiki",
   "category": "Farming",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Farming Fortune"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Farming Fortune"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

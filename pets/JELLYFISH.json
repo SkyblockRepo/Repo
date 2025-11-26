@@ -1,20 +1,20 @@
 {
   "internalId": "JELLYFISH",
   "name": "Jellyfish",
-  "source": "HypixelWiki",
   "category": "Alchemy",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Health",
-    "Health Regeneration"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Health",
+    "Health Regeneration"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "EPIC": {
       "lore": {

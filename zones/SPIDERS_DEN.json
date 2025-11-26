@@ -3,148 +3,6 @@
   "name": "Spider's Den",
   "source": "HypixelWiki",
   "discoveryText": "Spider's Den\nTalk to Haymitch.\nWatch out for spiders!\nTry to make it to the top of the Spider Mound.\nLearn about the Bestiary.",
-  "npcs": [
-    {
-      "link": "Archaeologist",
-      "name": "Archaeologist"
-    },
-    {
-      "link": "Bramass Beastslayer",
-      "name": "Bramass Beastslayer"
-    },
-    {
-      "link": "Grandma Wolf",
-      "name": "Grandma Wolf"
-    },
-    {
-      "link": "Haymitch",
-      "name": "Haymitch"
-    },
-    {
-      "link": "Rick",
-      "name": "Rick"
-    },
-    {
-      "link": "Shaggy",
-      "name": "Shaggy"
-    },
-    {
-      "link": "Spider Tamer",
-      "name": "Spider Tamer"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Crazy Witch",
-      "name": "Crazy Witch"
-    },
-    {
-      "link": "Dasher Spider",
-      "name": "Dasher Spider"
-    },
-    {
-      "link": "Gravel Skeleton",
-      "name": "Gravel Skeleton"
-    },
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Phantom Spirit",
-      "name": "Phantom Spirit"
-    },
-    {
-      "link": "Rain Slime",
-      "name": "Rain Slime"
-    },
-    {
-      "link": "Scary Jerry",
-      "name": "Scary Jerry"
-    },
-    {
-      "link": "Spider Jockey",
-      "name": "Spider Jockey"
-    },
-    {
-      "link": "Splitter Spider",
-      "name": "Splitter Spider"
-    },
-    {
-      "link": "Trick or Treater",
-      "name": "Trick or Treater"
-    },
-    {
-      "link": "Voracious Spider",
-      "name": "Voracious Spider"
-    },
-    {
-      "link": "Weaver Spider",
-      "name": "Weaver Spider"
-    },
-    {
-      "link": "Wither Gourd",
-      "name": "Wither Gourd"
-    },
-    {
-      "link": "Wraith",
-      "name": "Wraith"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Arachne's Calling",
-      "name": "Arachne's Calling"
-    },
-    {
-      "link": "Blast O' Lantern",
-      "name": "Blast O' Lantern"
-    },
-    {
-      "link": "Bone",
-      "name": "Bone"
-    },
-    {
-      "link": "Bone Dye",
-      "name": "Bone Dye"
-    },
-    {
-      "link": "Ectoplasm",
-      "name": "Ectoplasm"
-    },
-    {
-      "link": "Green Candy",
-      "name": "Green Candy"
-    },
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Purple Candy",
-      "name": "Purple Candy"
-    },
-    {
-      "link": "Slimeball",
-      "name": "Slimeball"
-    },
-    {
-      "link": "Spider Eye",
-      "name": "Spider Eye"
-    },
-    {
-      "link": "String",
-      "name": "String"
-    },
-    {
-      "link": "Tarantula Pet",
-      "name": "Tarantula Pet"
-    },
-    {
-      "link": "Travel Scroll To Spider's Den Top Of Nest",
-      "name": "Travel Scroll To Spider's Den Top Of Nest"
-    }
-  ],
   "fairySouls": [
     {
       "location": "SPIDERS_DEN",
@@ -316,6 +174,148 @@
         "y": 160,
         "z": -331
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Arachne's Calling",
+      "name": "Arachne's Calling"
+    },
+    {
+      "link": "Blast O' Lantern",
+      "name": "Blast O' Lantern"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Ectoplasm",
+      "name": "Ectoplasm"
+    },
+    {
+      "link": "Green Candy",
+      "name": "Green Candy"
+    },
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Purple Candy",
+      "name": "Purple Candy"
+    },
+    {
+      "link": "Slimeball",
+      "name": "Slimeball"
+    },
+    {
+      "link": "Spider Eye",
+      "name": "Spider Eye"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    },
+    {
+      "link": "Tarantula Pet",
+      "name": "Tarantula Pet"
+    },
+    {
+      "link": "Travel Scroll To Spider's Den Top Of Nest",
+      "name": "Travel Scroll To Spider's Den Top Of Nest"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Crazy Witch",
+      "name": "Crazy Witch"
+    },
+    {
+      "link": "Dasher Spider",
+      "name": "Dasher Spider"
+    },
+    {
+      "link": "Gravel Skeleton",
+      "name": "Gravel Skeleton"
+    },
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Phantom Spirit",
+      "name": "Phantom Spirit"
+    },
+    {
+      "link": "Rain Slime",
+      "name": "Rain Slime"
+    },
+    {
+      "link": "Scary Jerry",
+      "name": "Scary Jerry"
+    },
+    {
+      "link": "Spider Jockey",
+      "name": "Spider Jockey"
+    },
+    {
+      "link": "Splitter Spider",
+      "name": "Splitter Spider"
+    },
+    {
+      "link": "Trick or Treater",
+      "name": "Trick or Treater"
+    },
+    {
+      "link": "Voracious Spider",
+      "name": "Voracious Spider"
+    },
+    {
+      "link": "Weaver Spider",
+      "name": "Weaver Spider"
+    },
+    {
+      "link": "Wither Gourd",
+      "name": "Wither Gourd"
+    },
+    {
+      "link": "Wraith",
+      "name": "Wraith"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Archaeologist",
+      "name": "Archaeologist"
+    },
+    {
+      "link": "Bramass Beastslayer",
+      "name": "Bramass Beastslayer"
+    },
+    {
+      "link": "Grandma Wolf",
+      "name": "Grandma Wolf"
+    },
+    {
+      "link": "Haymitch",
+      "name": "Haymitch"
+    },
+    {
+      "link": "Rick",
+      "name": "Rick"
+    },
+    {
+      "link": "Shaggy",
+      "name": "Shaggy"
+    },
+    {
+      "link": "Spider Tamer",
+      "name": "Spider Tamer"
     }
   ]
 }

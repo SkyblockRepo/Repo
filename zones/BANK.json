@@ -3,14 +3,6 @@
   "name": "Bank",
   "source": "HypixelWiki",
   "discoveryText": "Bank\nTalk to the Banker.\nStore your coins to keep them safe.\nEarn interest on your coins.",
-  "npcs": [
-    {
-      "link": "Banker",
-      "name": "Banker"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "BANK",
@@ -20,6 +12,14 @@
         "y": 88,
         "z": -63
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Banker",
+      "name": "Banker"
     }
   ]
 }

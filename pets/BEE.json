@@ -1,21 +1,21 @@
 {
   "internalId": "BEE",
   "name": "Bee",
-  "source": "HypixelWiki",
   "category": "Farming",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Strength",
-    "Speed",
-    "Intelligence"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Speed",
+    "Intelligence"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

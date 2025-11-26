@@ -1,20 +1,20 @@
 {
   "internalId": "OCELOT",
   "name": "Ocelot",
-  "source": "HypixelWiki",
   "category": "Foraging",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Speed",
-    "Ferocity"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Speed",
+    "Ferocity"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

@@ -2,8 +2,6 @@
   "internalId": "CRITICAL",
   "name": "Critical",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 7,
   "items": [
     "ENCHANTMENT_CRITICAL_1",
     "ENCHANTMENT_CRITICAL_2",
@@ -12,5 +10,7 @@
     "ENCHANTMENT_CRITICAL_5",
     "ENCHANTMENT_CRITICAL_6",
     "ENCHANTMENT_CRITICAL_7"
-  ]
+  ],
+  "maxLevel": 7,
+  "minLevel": 1
 }

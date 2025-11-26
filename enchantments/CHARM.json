@@ -2,8 +2,6 @@
   "internalId": "CHARM",
   "name": "Charm",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_CHARM_1",
     "ENCHANTMENT_CHARM_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_CHARM_4",
     "ENCHANTMENT_CHARM_5",
     "ENCHANTMENT_CHARM_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

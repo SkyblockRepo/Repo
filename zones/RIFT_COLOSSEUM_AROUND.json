@@ -3,6 +3,19 @@
   "name": "Around Colosseum",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Shadow Crux",
+      "name": "Shadow Crux"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Shadow",
+      "name": "Shadow"
+    }
+  ],
   "npcs": [
     {
       "link": "Detective Amog",
@@ -12,18 +25,5 @@
       "link": "Master Tactician Fink",
       "name": "Master Tactician Fink"
     }
-  ],
-  "mobs": [
-    {
-      "link": "Shadow",
-      "name": "Shadow"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Shadow Crux",
-      "name": "Shadow Crux"
-    }
-  ],
-  "fairySouls": []
+  ]
 }

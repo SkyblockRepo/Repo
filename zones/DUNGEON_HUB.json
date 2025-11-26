@@ -3,38 +3,6 @@
   "name": "Dungeon Hub",
   "source": "HypixelWiki",
   "discoveryText": "Dungeon Hub\nJoin Dungeons!\nMeet new friends and organize Dungeon parties!\nTalk with Ophelia and Malik.",
-  "npcs": [
-    {
-      "link": "Adventurer Saul",
-      "name": "Adventurer Saul"
-    },
-    {
-      "link": "Croesus",
-      "name": "Croesus"
-    },
-    {
-      "link": "Guildford",
-      "name": "Guildford"
-    },
-    {
-      "link": "Hub Selector",
-      "name": "Hub Selector"
-    },
-    {
-      "link": "Malik",
-      "name": "Malik"
-    },
-    {
-      "link": "Mort",
-      "name": "Mort"
-    },
-    {
-      "link": "Ophelia",
-      "name": "Ophelia"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "DUNGEON_HUB",
@@ -98,6 +66,38 @@
         "y": 164,
         "z": -10
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Adventurer Saul",
+      "name": "Adventurer Saul"
+    },
+    {
+      "link": "Croesus",
+      "name": "Croesus"
+    },
+    {
+      "link": "Guildford",
+      "name": "Guildford"
+    },
+    {
+      "link": "Hub Selector",
+      "name": "Hub Selector"
+    },
+    {
+      "link": "Malik",
+      "name": "Malik"
+    },
+    {
+      "link": "Mort",
+      "name": "Mort"
+    },
+    {
+      "link": "Ophelia",
+      "name": "Ophelia"
     }
   ]
 }

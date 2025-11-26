@@ -3,6 +3,497 @@
   "name": "Crimson Isle",
   "source": "HypixelWiki",
   "discoveryText": "Crimson Isle\nBattle against brutal mobs!\nCollect exotic resources like Spores, Thornleaf, Nether Wart, and more!\nVisit the Dojo.\nDefeat Kuudra.",
+  "fairySouls": [
+    {
+      "location": "CRIMSON_ISLE",
+      "number": 1,
+      "coordinates": {
+        "x": -383,
+        "y": 71,
+        "z": -883
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 2,
+      "coordinates": {
+        "x": -690,
+        "y": 122,
+        "z": -752
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 3,
+      "coordinates": {
+        "x": -606,
+        "y": 154,
+        "z": -800
+      }
+    },
+    {
+      "location": "BLAZING_VOLCANO",
+      "number": 4,
+      "coordinates": {
+        "x": -343,
+        "y": 235,
+        "z": -780
+      }
+    },
+    {
+      "location": "CATHEDRAL",
+      "number": 5,
+      "coordinates": {
+        "x": -31,
+        "y": 178,
+        "z": -907
+      }
+    },
+    {
+      "location": "STRONGHOLD",
+      "number": 6,
+      "coordinates": {
+        "x": -352,
+        "y": 191,
+        "z": -553
+      }
+    },
+    {
+      "location": "CRIMSON_ISLE",
+      "number": 7,
+      "coordinates": {
+        "x": -480,
+        "y": 104,
+        "z": -593
+      }
+    },
+    {
+      "location": "STRONGHOLD",
+      "number": 8,
+      "coordinates": {
+        "x": -346,
+        "y": 75,
+        "z": -552
+      }
+    },
+    {
+      "location": "STRONGHOLD",
+      "number": 9,
+      "coordinates": {
+        "x": -342,
+        "y": 101,
+        "z": -484
+      }
+    },
+    {
+      "location": "CRIMSON_ISLE",
+      "number": 10,
+      "coordinates": {
+        "x": -462,
+        "y": 78,
+        "z": -698
+      }
+    },
+    {
+      "location": "CRIMSON_ISLE",
+      "number": 11,
+      "coordinates": {
+        "x": -361,
+        "y": 69,
+        "z": -425
+      }
+    },
+    {
+      "location": "BLAZING_VOLCANO",
+      "number": 12,
+      "coordinates": {
+        "x": -396,
+        "y": 108,
+        "z": -764
+      }
+    },
+    {
+      "location": "WASTELAND",
+      "number": 13,
+      "coordinates": {
+        "x": -310,
+        "y": 156,
+        "z": -1008
+      }
+    },
+    {
+      "location": "ASHFANG_RUINS",
+      "number": 14,
+      "coordinates": {
+        "x": -445,
+        "y": 110,
+        "z": -1026
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 15,
+      "coordinates": {
+        "x": -726,
+        "y": 144,
+        "z": -891
+      }
+    },
+    {
+      "location": "FORGOTTEN_SKULL",
+      "number": 16,
+      "coordinates": {
+        "x": -380,
+        "y": 141,
+        "z": -1020
+      }
+    },
+    {
+      "location": "SCARLETON_BANK",
+      "number": 17,
+      "coordinates": {
+        "x": -79,
+        "y": 139,
+        "z": -779
+      }
+    },
+    {
+      "location": "SCARLETON",
+      "number": 18,
+      "coordinates": {
+        "x": 14,
+        "y": 108,
+        "z": -769
+      }
+    },
+    {
+      "location": "CATHEDRAL",
+      "number": 19,
+      "coordinates": {
+        "x": -106,
+        "y": 89,
+        "z": -883
+      }
+    },
+    {
+      "location": "CRIMSON_ISLE",
+      "number": 1,
+      "coordinates": {
+        "x": -247,
+        "y": 44,
+        "z": -512
+      }
+    },
+    {
+      "location": "STRONGHOLD",
+      "number": 2,
+      "coordinates": {
+        "x": -361,
+        "y": 133,
+        "z": -469
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 3,
+      "coordinates": {
+        "x": -721,
+        "y": 125,
+        "z": -811
+      }
+    },
+    {
+      "location": "BURNING_DESERT",
+      "number": 4,
+      "coordinates": {
+        "x": -500,
+        "y": 127,
+        "z": -795
+      }
+    },
+    {
+      "location": "BASTION",
+      "number": 5,
+      "coordinates": {
+        "x": -717,
+        "y": 164,
+        "z": -981
+      }
+    },
+    {
+      "location": "CRIMSON_ISLE",
+      "number": 6,
+      "coordinates": {
+        "x": -412,
+        "y": 58,
+        "z": -935
+      }
+    },
+    {
+      "location": "MYSTIC_MARSH",
+      "number": 7,
+      "coordinates": {
+        "x": -297,
+        "y": 81,
+        "z": -835
+      }
+    },
+    {
+      "location": "WASTELAND",
+      "number": 8,
+      "coordinates": {
+        "x": -35,
+        "y": 116,
+        "z": -1055
+      }
+    },
+    {
+      "location": "ASHFANG_RUINS",
+      "number": 9,
+      "coordinates": {
+        "x": -479,
+        "y": 114,
+        "z": -972
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 10,
+      "coordinates": {
+        "x": -644,
+        "y": 125,
+        "z": -689
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Bezos",
+      "name": "Bezos"
+    },
+    {
+      "link": "Blaze Ashes",
+      "name": "Blaze Ashes"
+    },
+    {
+      "link": "Blaze Rod",
+      "name": "Blaze Rod"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Bone Dye",
+      "name": "Bone Dye"
+    },
+    {
+      "link": "Burning Eye",
+      "name": "Burning Eye"
+    },
+    {
+      "link": "Coal",
+      "name": "Coal"
+    },
+    {
+      "link": "Combat Exp Boost",
+      "name": "Combat Exp Boost"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Digested Mushrooms",
+      "name": "Digested Mushrooms"
+    },
+    {
+      "link": "Enchanted Charcoal",
+      "name": "Enchanted Charcoal"
+    },
+    {
+      "link": "Enchanted Coal",
+      "name": "Enchanted Coal"
+    },
+    {
+      "link": "Flames",
+      "name": "Flames"
+    },
+    {
+      "link": "Gazing Pearl",
+      "name": "Gazing Pearl"
+    },
+    {
+      "link": "Ghast Tear",
+      "name": "Ghast Tear"
+    },
+    {
+      "link": "Gunpowder",
+      "name": "Gunpowder"
+    },
+    {
+      "link": "Leather",
+      "name": "Leather"
+    },
+    {
+      "link": "Magma Chunk",
+      "name": "Magma Chunk"
+    },
+    {
+      "link": "Magma Cream",
+      "name": "Magma Cream"
+    },
+    {
+      "link": "Magma Cube Pet",
+      "name": "Magma Cube Pet"
+    },
+    {
+      "link": "Millennia-Old Blaze Ashes",
+      "name": "Millennia-Old Blaze Ashes"
+    },
+    {
+      "link": "Mutated Blaze Ashes",
+      "name": "Mutated Blaze Ashes"
+    },
+    {
+      "link": "Netherrack-Looking Sunshade",
+      "name": "Netherrack-Looking Sunshade"
+    },
+    {
+      "link": "Rampart Boots",
+      "name": "Rampart Boots"
+    },
+    {
+      "link": "Rampart Chestplate",
+      "name": "Rampart Chestplate"
+    },
+    {
+      "link": "Rampart Helmet",
+      "name": "Rampart Helmet"
+    },
+    {
+      "link": "Rampart Leggings",
+      "name": "Rampart Leggings"
+    },
+    {
+      "link": "Raw Beef",
+      "name": "Raw Beef"
+    },
+    {
+      "link": "Red Mushroom",
+      "name": "Red Mushroom"
+    },
+    {
+      "link": "Redstone",
+      "name": "Redstone"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "Smoldering Enchantment",
+      "name": "Smoldering I"
+    },
+    {
+      "link": "Spectre Dust",
+      "name": "Spectre Dust"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    },
+    {
+      "link": "Sword Of Bad Health",
+      "name": "Sword Of Bad Health"
+    },
+    {
+      "link": "Tentacle Meat",
+      "name": "Tentacle Meat"
+    },
+    {
+      "link": "Wither Soul",
+      "name": "Wither Soul"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Barbarian",
+      "name": "Barbarian"
+    },
+    {
+      "link": "Bezal",
+      "name": "Bezal"
+    },
+    {
+      "link": "Blaze",
+      "name": "Blaze"
+    },
+    {
+      "link": "Cinderbat",
+      "name": "Cinderbat"
+    },
+    {
+      "link": "Dive Ghast",
+      "name": "Dive Ghast"
+    },
+    {
+      "link": "Fire Mage",
+      "name": "Fire Mage"
+    },
+    {
+      "link": "Flaming Spider",
+      "name": "Flaming Spider"
+    },
+    {
+      "link": "Flare",
+      "name": "Flare"
+    },
+    {
+      "link": "Ghast",
+      "name": "Ghast"
+    },
+    {
+      "link": "Goliath Barbarian",
+      "name": "Goliath Barbarian"
+    },
+    {
+      "link": "Krondor Necromancer",
+      "name": "Krondor Necromancer"
+    },
+    {
+      "link": "Magma Cube",
+      "name": "Magma Cube"
+    },
+    {
+      "link": "Magma Cube Rider",
+      "name": "Magma Cube Rider"
+    },
+    {
+      "link": "Millennia-Aged Blaze",
+      "name": "Millennia-Aged Blaze"
+    },
+    {
+      "link": "Mushroom Bull",
+      "name": "Mushroom Bull"
+    },
+    {
+      "link": "Mutated Blaze",
+      "name": "Mutated Blaze"
+    },
+    {
+      "link": "Smoldering Blaze",
+      "name": "Smoldering Blaze"
+    },
+    {
+      "link": "Wither Skeleton",
+      "name": "Wither Skeleton"
+    },
+    {
+      "link": "Wither Spectre",
+      "name": "Wither Spectre"
+    }
+  ],
   "npcs": [
     {
       "link": "Alchemage",
@@ -423,497 +914,6 @@
     {
       "link": "Ziri",
       "name": "Ziri"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Barbarian",
-      "name": "Barbarian"
-    },
-    {
-      "link": "Bezal",
-      "name": "Bezal"
-    },
-    {
-      "link": "Blaze",
-      "name": "Blaze"
-    },
-    {
-      "link": "Cinderbat",
-      "name": "Cinderbat"
-    },
-    {
-      "link": "Dive Ghast",
-      "name": "Dive Ghast"
-    },
-    {
-      "link": "Fire Mage",
-      "name": "Fire Mage"
-    },
-    {
-      "link": "Flaming Spider",
-      "name": "Flaming Spider"
-    },
-    {
-      "link": "Flare",
-      "name": "Flare"
-    },
-    {
-      "link": "Ghast",
-      "name": "Ghast"
-    },
-    {
-      "link": "Goliath Barbarian",
-      "name": "Goliath Barbarian"
-    },
-    {
-      "link": "Krondor Necromancer",
-      "name": "Krondor Necromancer"
-    },
-    {
-      "link": "Magma Cube",
-      "name": "Magma Cube"
-    },
-    {
-      "link": "Magma Cube Rider",
-      "name": "Magma Cube Rider"
-    },
-    {
-      "link": "Millennia-Aged Blaze",
-      "name": "Millennia-Aged Blaze"
-    },
-    {
-      "link": "Mushroom Bull",
-      "name": "Mushroom Bull"
-    },
-    {
-      "link": "Mutated Blaze",
-      "name": "Mutated Blaze"
-    },
-    {
-      "link": "Smoldering Blaze",
-      "name": "Smoldering Blaze"
-    },
-    {
-      "link": "Wither Skeleton",
-      "name": "Wither Skeleton"
-    },
-    {
-      "link": "Wither Spectre",
-      "name": "Wither Spectre"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Bezos",
-      "name": "Bezos"
-    },
-    {
-      "link": "Blaze Ashes",
-      "name": "Blaze Ashes"
-    },
-    {
-      "link": "Blaze Rod",
-      "name": "Blaze Rod"
-    },
-    {
-      "link": "Bone",
-      "name": "Bone"
-    },
-    {
-      "link": "Bone Dye",
-      "name": "Bone Dye"
-    },
-    {
-      "link": "Burning Eye",
-      "name": "Burning Eye"
-    },
-    {
-      "link": "Coal",
-      "name": "Coal"
-    },
-    {
-      "link": "Combat Exp Boost",
-      "name": "Combat Exp Boost"
-    },
-    {
-      "link": "Cyclamen Dye",
-      "name": "Cyclamen Dye"
-    },
-    {
-      "link": "Digested Mushrooms",
-      "name": "Digested Mushrooms"
-    },
-    {
-      "link": "Enchanted Charcoal",
-      "name": "Enchanted Charcoal"
-    },
-    {
-      "link": "Enchanted Coal",
-      "name": "Enchanted Coal"
-    },
-    {
-      "link": "Flames",
-      "name": "Flames"
-    },
-    {
-      "link": "Gazing Pearl",
-      "name": "Gazing Pearl"
-    },
-    {
-      "link": "Ghast Tear",
-      "name": "Ghast Tear"
-    },
-    {
-      "link": "Gunpowder",
-      "name": "Gunpowder"
-    },
-    {
-      "link": "Leather",
-      "name": "Leather"
-    },
-    {
-      "link": "Magma Chunk",
-      "name": "Magma Chunk"
-    },
-    {
-      "link": "Magma Cream",
-      "name": "Magma Cream"
-    },
-    {
-      "link": "Magma Cube Pet",
-      "name": "Magma Cube Pet"
-    },
-    {
-      "link": "Millennia-Old Blaze Ashes",
-      "name": "Millennia-Old Blaze Ashes"
-    },
-    {
-      "link": "Mutated Blaze Ashes",
-      "name": "Mutated Blaze Ashes"
-    },
-    {
-      "link": "Netherrack-Looking Sunshade",
-      "name": "Netherrack-Looking Sunshade"
-    },
-    {
-      "link": "Rampart Boots",
-      "name": "Rampart Boots"
-    },
-    {
-      "link": "Rampart Chestplate",
-      "name": "Rampart Chestplate"
-    },
-    {
-      "link": "Rampart Helmet",
-      "name": "Rampart Helmet"
-    },
-    {
-      "link": "Rampart Leggings",
-      "name": "Rampart Leggings"
-    },
-    {
-      "link": "Raw Beef",
-      "name": "Raw Beef"
-    },
-    {
-      "link": "Red Mushroom",
-      "name": "Red Mushroom"
-    },
-    {
-      "link": "Redstone",
-      "name": "Redstone"
-    },
-    {
-      "link": "Rotten Flesh",
-      "name": "Rotten Flesh"
-    },
-    {
-      "link": "Smoldering Enchantment",
-      "name": "Smoldering I"
-    },
-    {
-      "link": "Spectre Dust",
-      "name": "Spectre Dust"
-    },
-    {
-      "link": "String",
-      "name": "String"
-    },
-    {
-      "link": "Sword Of Bad Health",
-      "name": "Sword Of Bad Health"
-    },
-    {
-      "link": "Tentacle Meat",
-      "name": "Tentacle Meat"
-    },
-    {
-      "link": "Wither Soul",
-      "name": "Wither Soul"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "CRIMSON_ISLE",
-      "number": 1,
-      "coordinates": {
-        "x": -383,
-        "y": 71,
-        "z": -883
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 2,
-      "coordinates": {
-        "x": -690,
-        "y": 122,
-        "z": -752
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 3,
-      "coordinates": {
-        "x": -606,
-        "y": 154,
-        "z": -800
-      }
-    },
-    {
-      "location": "BLAZING_VOLCANO",
-      "number": 4,
-      "coordinates": {
-        "x": -343,
-        "y": 235,
-        "z": -780
-      }
-    },
-    {
-      "location": "CATHEDRAL",
-      "number": 5,
-      "coordinates": {
-        "x": -31,
-        "y": 178,
-        "z": -907
-      }
-    },
-    {
-      "location": "STRONGHOLD",
-      "number": 6,
-      "coordinates": {
-        "x": -352,
-        "y": 191,
-        "z": -553
-      }
-    },
-    {
-      "location": "CRIMSON_ISLE",
-      "number": 7,
-      "coordinates": {
-        "x": -480,
-        "y": 104,
-        "z": -593
-      }
-    },
-    {
-      "location": "STRONGHOLD",
-      "number": 8,
-      "coordinates": {
-        "x": -346,
-        "y": 75,
-        "z": -552
-      }
-    },
-    {
-      "location": "STRONGHOLD",
-      "number": 9,
-      "coordinates": {
-        "x": -342,
-        "y": 101,
-        "z": -484
-      }
-    },
-    {
-      "location": "CRIMSON_ISLE",
-      "number": 10,
-      "coordinates": {
-        "x": -462,
-        "y": 78,
-        "z": -698
-      }
-    },
-    {
-      "location": "CRIMSON_ISLE",
-      "number": 11,
-      "coordinates": {
-        "x": -361,
-        "y": 69,
-        "z": -425
-      }
-    },
-    {
-      "location": "BLAZING_VOLCANO",
-      "number": 12,
-      "coordinates": {
-        "x": -396,
-        "y": 108,
-        "z": -764
-      }
-    },
-    {
-      "location": "WASTELAND",
-      "number": 13,
-      "coordinates": {
-        "x": -310,
-        "y": 156,
-        "z": -1008
-      }
-    },
-    {
-      "location": "ASHFANG_RUINS",
-      "number": 14,
-      "coordinates": {
-        "x": -445,
-        "y": 110,
-        "z": -1026
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 15,
-      "coordinates": {
-        "x": -726,
-        "y": 144,
-        "z": -891
-      }
-    },
-    {
-      "location": "FORGOTTEN_SKULL",
-      "number": 16,
-      "coordinates": {
-        "x": -380,
-        "y": 141,
-        "z": -1020
-      }
-    },
-    {
-      "location": "SCARLETON_BANK",
-      "number": 17,
-      "coordinates": {
-        "x": -79,
-        "y": 139,
-        "z": -779
-      }
-    },
-    {
-      "location": "SCARLETON",
-      "number": 18,
-      "coordinates": {
-        "x": 14,
-        "y": 108,
-        "z": -769
-      }
-    },
-    {
-      "location": "CATHEDRAL",
-      "number": 19,
-      "coordinates": {
-        "x": -106,
-        "y": 89,
-        "z": -883
-      }
-    },
-    {
-      "location": "CRIMSON_ISLE",
-      "number": 1,
-      "coordinates": {
-        "x": -247,
-        "y": 44,
-        "z": -512
-      }
-    },
-    {
-      "location": "STRONGHOLD",
-      "number": 2,
-      "coordinates": {
-        "x": -361,
-        "y": 133,
-        "z": -469
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 3,
-      "coordinates": {
-        "x": -721,
-        "y": 125,
-        "z": -811
-      }
-    },
-    {
-      "location": "BURNING_DESERT",
-      "number": 4,
-      "coordinates": {
-        "x": -500,
-        "y": 127,
-        "z": -795
-      }
-    },
-    {
-      "location": "BASTION",
-      "number": 5,
-      "coordinates": {
-        "x": -717,
-        "y": 164,
-        "z": -981
-      }
-    },
-    {
-      "location": "CRIMSON_ISLE",
-      "number": 6,
-      "coordinates": {
-        "x": -412,
-        "y": 58,
-        "z": -935
-      }
-    },
-    {
-      "location": "MYSTIC_MARSH",
-      "number": 7,
-      "coordinates": {
-        "x": -297,
-        "y": 81,
-        "z": -835
-      }
-    },
-    {
-      "location": "WASTELAND",
-      "number": 8,
-      "coordinates": {
-        "x": -35,
-        "y": 116,
-        "z": -1055
-      }
-    },
-    {
-      "location": "ASHFANG_RUINS",
-      "number": 9,
-      "coordinates": {
-        "x": -479,
-        "y": 114,
-        "z": -972
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 10,
-      "coordinates": {
-        "x": -644,
-        "y": 125,
-        "z": -689
-      }
     }
   ]
 }

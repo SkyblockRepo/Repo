@@ -3,6 +3,85 @@
   "name": "Dragontail",
   "source": "HypixelWiki",
   "discoveryText": "Dragontail\nMeet the Piglins, members of the Barbarian Faction.\nTalk to Chief Scorn.\nEarn Reputation through the daily Town Board missions.",
+  "fairySouls": [
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 2,
+      "coordinates": {
+        "x": -690,
+        "y": 122,
+        "z": -752
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 3,
+      "coordinates": {
+        "x": -606,
+        "y": 154,
+        "z": -800
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 15,
+      "coordinates": {
+        "x": -726,
+        "y": 144,
+        "z": -891
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 3,
+      "coordinates": {
+        "x": -721,
+        "y": 125,
+        "z": -811
+      }
+    },
+    {
+      "location": "DRAGONTAIL_TOWN",
+      "number": 10,
+      "coordinates": {
+        "x": -644,
+        "y": 125,
+        "z": -689
+      }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Burning Eye",
+      "name": "Burning Eye"
+    },
+    {
+      "link": "Cyclamen Dye",
+      "name": "Cyclamen Dye"
+    },
+    {
+      "link": "Magma Chunk",
+      "name": "Magma Chunk"
+    },
+    {
+      "link": "Rotten Flesh",
+      "name": "Rotten Flesh"
+    },
+    {
+      "link": "String",
+      "name": "String"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Flaming Spider",
+      "name": "Flaming Spider"
+    },
+    {
+      "link": "Magma Cube Rider",
+      "name": "Magma Cube Rider"
+    }
+  ],
   "npcs": [
     {
       "link": "An",
@@ -147,85 +226,6 @@
     {
       "link": "Yoink",
       "name": "Yoink"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Flaming Spider",
-      "name": "Flaming Spider"
-    },
-    {
-      "link": "Magma Cube Rider",
-      "name": "Magma Cube Rider"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Burning Eye",
-      "name": "Burning Eye"
-    },
-    {
-      "link": "Cyclamen Dye",
-      "name": "Cyclamen Dye"
-    },
-    {
-      "link": "Magma Chunk",
-      "name": "Magma Chunk"
-    },
-    {
-      "link": "Rotten Flesh",
-      "name": "Rotten Flesh"
-    },
-    {
-      "link": "String",
-      "name": "String"
-    }
-  ],
-  "fairySouls": [
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 2,
-      "coordinates": {
-        "x": -690,
-        "y": 122,
-        "z": -752
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 3,
-      "coordinates": {
-        "x": -606,
-        "y": 154,
-        "z": -800
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 15,
-      "coordinates": {
-        "x": -726,
-        "y": 144,
-        "z": -891
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 3,
-      "coordinates": {
-        "x": -721,
-        "y": 125,
-        "z": -811
-      }
-    },
-    {
-      "location": "DRAGONTAIL_TOWN",
-      "number": 10,
-      "coordinates": {
-        "x": -644,
-        "y": 125,
-        "z": -689
-      }
     }
   ]
 }

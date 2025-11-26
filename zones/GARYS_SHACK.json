@@ -3,14 +3,6 @@
   "name": "Gary's Shack",
   "source": "HypixelWiki",
   "discoveryText": "Gary's Shack\nTalk to Gary.\nAdmire his snow machine.",
-  "npcs": [
-    {
-      "link": "Gary",
-      "name": "Gary"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "GARYS_SHACK",
@@ -20,6 +12,14 @@
         "y": 108,
         "z": 64
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Gary",
+      "name": "Gary"
     }
   ]
 }

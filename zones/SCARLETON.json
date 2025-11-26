@@ -3,6 +3,19 @@
   "name": "Scarleton",
   "source": "HypixelWiki",
   "discoveryText": "Scarleton\nMeet the Taika, members of the Mage Faction.\nTalk to Queen Nyx.\nEarn Reputation through the daily Town Board missions.",
+  "fairySouls": [
+    {
+      "location": "SCARLETON",
+      "number": 18,
+      "coordinates": {
+        "x": 14,
+        "y": 108,
+        "z": -769
+      }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Arba",
@@ -99,19 +112,6 @@
     {
       "link": "Velyna",
       "name": "Velyna"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": [
-    {
-      "location": "SCARLETON",
-      "number": 18,
-      "coordinates": {
-        "x": 14,
-        "y": 108,
-        "z": -769
-      }
     }
   ]
 }

@@ -3,52 +3,6 @@
   "name": "Mountain",
   "source": "HypixelWiki",
   "discoveryText": "Mountain\nClimb to the top!",
-  "npcs": [
-    {
-      "link": "Coach Jackrabbit",
-      "name": "Coach Jackrabbit"
-    },
-    {
-      "link": "Hoppity",
-      "name": "Hoppity"
-    },
-    {
-      "link": "Rabbit Uncle",
-      "name": "Rabbit Uncle"
-    },
-    {
-      "link": "Romero",
-      "name": "Romero"
-    },
-    {
-      "link": "Scoop",
-      "name": "Scoop"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    },
-    {
-      "link": "Rat",
-      "name": "Rat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    },
-    {
-      "link": "Rat Pet",
-      "name": "Rat Pet"
-    },
-    {
-      "link": "Tasty Cheese",
-      "name": "Tasty Cheese"
-    }
-  ],
   "fairySouls": [
     {
       "location": "MOUNTAIN",
@@ -157,6 +111,52 @@
         "y": 71,
         "z": 21
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    },
+    {
+      "link": "Rat Pet",
+      "name": "Rat Pet"
+    },
+    {
+      "link": "Tasty Cheese",
+      "name": "Tasty Cheese"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    },
+    {
+      "link": "Rat",
+      "name": "Rat"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Coach Jackrabbit",
+      "name": "Coach Jackrabbit"
+    },
+    {
+      "link": "Hoppity",
+      "name": "Hoppity"
+    },
+    {
+      "link": "Rabbit Uncle",
+      "name": "Rabbit Uncle"
+    },
+    {
+      "link": "Romero",
+      "name": "Romero"
+    },
+    {
+      "link": "Scoop",
+      "name": "Scoop"
     }
   ]
 }

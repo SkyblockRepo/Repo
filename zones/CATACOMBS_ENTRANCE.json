@@ -3,6 +3,19 @@
   "name": "Catacombs Entrance",
   "source": "HypixelWiki",
   "discoveryText": "Catacombs Entrance\nJoin The Catacombs.\nTalk to Ophelia and Malik.",
+  "fairySouls": [
+    {
+      "location": "CATACOMBS_ENTRANCE",
+      "number": 79,
+      "coordinates": {
+        "x": -92,
+        "y": 59,
+        "z": -138
+      }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Malik",
@@ -15,19 +28,6 @@
     {
       "link": "Ophelia",
       "name": "Ophelia"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": [
-    {
-      "location": "CATACOMBS_ENTRANCE",
-      "number": 79,
-      "coordinates": {
-        "x": -92,
-        "y": 59,
-        "z": -138
-      }
     }
   ]
 }

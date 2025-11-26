@@ -1,10 +1,14 @@
 {
   "internalId": "GHOUL",
   "name": "Ghoul",
-  "source": "HypixelWiki",
   "category": "Combat",
-  "minLevel": 1,
-  "maxLevel": 100,
+  "source": "HypixelWiki",
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
   "baseStats": [
     "Health",
     "Intelligence",
@@ -12,12 +16,8 @@
     "Vitality",
     "Mending"
   ],
-  "flags": {
-    "auctionable": true,
-    "mountable": false,
-    "tradable": true,
-    "museumable": false
-  },
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "EPIC": {
       "lore": {

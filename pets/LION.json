@@ -1,21 +1,21 @@
 {
   "internalId": "LION",
   "name": "Lion",
-  "source": "HypixelWiki",
   "category": "Foraging",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [
-    "Strength",
-    "Speed",
-    "Ferocity"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Speed",
+    "Ferocity"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "COMMON": {
       "lore": {

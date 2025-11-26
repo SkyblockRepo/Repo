@@ -3,14 +3,6 @@
   "name": "Colosseum",
   "source": "HypixelWiki",
   "discoveryText": "Colosseum\nBehold the destruction of a cruel tyrant.",
-  "npcs": [
-    {
-      "link": "Romero",
-      "name": "Romero"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
   "fairySouls": [
     {
       "location": "COLOSSEUM",
@@ -29,6 +21,14 @@
         "y": 60,
         "z": -36
       }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
+  "npcs": [
+    {
+      "link": "Romero",
+      "name": "Romero"
     }
   ]
 }

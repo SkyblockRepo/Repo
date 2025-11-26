@@ -3,33 +3,7 @@
   "name": "Moonglade Marsh",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Chillblade",
-      "name": "Chillblade"
-    },
-    {
-      "link": "Chillshot",
-      "name": "Chillshot"
-    },
-    {
-      "link": "Hydrospear",
-      "name": "Hydrospear"
-    },
-    {
-      "link": "Seacurse",
-      "name": "Seacurse"
-    },
-    {
-      "link": "Stridersurfer",
-      "name": "Stridersurfer"
-    },
-    {
-      "link": "Tidetot",
-      "name": "Tidetot"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Arcane Enchantment",
@@ -56,5 +30,31 @@
       "name": "Sturdy Bone"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Chillblade",
+      "name": "Chillblade"
+    },
+    {
+      "link": "Chillshot",
+      "name": "Chillshot"
+    },
+    {
+      "link": "Hydrospear",
+      "name": "Hydrospear"
+    },
+    {
+      "link": "Seacurse",
+      "name": "Seacurse"
+    },
+    {
+      "link": "Stridersurfer",
+      "name": "Stridersurfer"
+    },
+    {
+      "link": "Tidetot",
+      "name": "Tidetot"
+    }
+  ],
+  "npcs": []
 }

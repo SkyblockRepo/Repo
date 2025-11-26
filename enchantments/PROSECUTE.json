@@ -2,8 +2,6 @@
   "internalId": "PROSECUTE",
   "name": "Prosecute",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_PROSECUTE_1",
     "ENCHANTMENT_PROSECUTE_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_PROSECUTE_4",
     "ENCHANTMENT_PROSECUTE_5",
     "ENCHANTMENT_PROSECUTE_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

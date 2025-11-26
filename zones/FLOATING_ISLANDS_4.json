@@ -3,28 +3,6 @@
   "name": "Savanna Woodland",
   "source": "HypixelWiki",
   "discoveryText": "Savanna Woodland\nChop down Acacia logs.",
-  "npcs": [
-    {
-      "link": "Master Tactician Funk",
-      "name": "Master Tactician Funk"
-    },
-    {
-      "link": "Worker Xavier",
-      "name": "Worker Xavier"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Mega Bat",
-      "name": "Mega Bat"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Midnight Dye",
-      "name": "Midnight Dye"
-    }
-  ],
   "fairySouls": [
     {
       "location": "FLOATING_ISLANDS_4",
@@ -34,6 +12,28 @@
         "y": 136,
         "z": 6
       }
+    }
+  ],
+  "mobDrops": [
+    {
+      "link": "Midnight Dye",
+      "name": "Midnight Dye"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Mega Bat",
+      "name": "Mega Bat"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Master Tactician Funk",
+      "name": "Master Tactician Funk"
+    },
+    {
+      "link": "Worker Xavier",
+      "name": "Worker Xavier"
     }
   ]
 }

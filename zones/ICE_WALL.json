@@ -3,18 +3,7 @@
   "name": "Great Ice Wall",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Ticket Master",
-      "name": "Ticket Master"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Glacite Walker",
-      "name": "Glacite Walker"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Glacite Boots",
@@ -37,5 +26,16 @@
       "name": "Glacite Leggings"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Glacite Walker",
+      "name": "Glacite Walker"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Ticket Master",
+      "name": "Ticket Master"
+    }
+  ]
 }

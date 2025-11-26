@@ -3,18 +3,7 @@
   "name": "Rampart's Quarry",
   "source": "HypixelWiki",
   "discoveryText": null,
-  "npcs": [
-    {
-      "link": "Emissary Carlton",
-      "name": "Emissary Carlton"
-    }
-  ],
-  "mobs": [
-    {
-      "link": "Treasure Hoarder",
-      "name": "Treasure Hoarder"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Kaleidoscopic Mineral",
@@ -29,5 +18,16 @@
       "name": "Treasurite"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Treasure Hoarder",
+      "name": "Treasure Hoarder"
+    }
+  ],
+  "npcs": [
+    {
+      "link": "Emissary Carlton",
+      "name": "Emissary Carlton"
+    }
+  ]
 }

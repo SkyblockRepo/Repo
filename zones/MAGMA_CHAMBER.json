@@ -3,13 +3,7 @@
   "name": "Magma Chamber",
   "source": "HypixelWiki",
   "discoveryText": "Magma Chamber\nWatch out for fireballs!\nFight the Magma Cube Boss.\nBeware of lava.",
-  "npcs": [],
-  "mobs": [
-    {
-      "link": "Flare",
-      "name": "Flare"
-    }
-  ],
+  "fairySouls": [],
   "mobDrops": [
     {
       "link": "Blaze Rod",
@@ -24,5 +18,11 @@
       "name": "Gazing Pearl"
     }
   ],
-  "fairySouls": []
+  "mobs": [
+    {
+      "link": "Flare",
+      "name": "Flare"
+    }
+  ],
+  "npcs": []
 }

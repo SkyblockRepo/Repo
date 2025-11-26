@@ -2,8 +2,6 @@
   "internalId": "TOXOPHILITE",
   "name": "Toxophilite",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_TOXOPHILITE_1",
     "ENCHANTMENT_TOXOPHILITE_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_TOXOPHILITE_8",
     "ENCHANTMENT_TOXOPHILITE_9",
     "ENCHANTMENT_TOXOPHILITE_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

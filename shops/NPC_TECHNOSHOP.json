@@ -2,6 +2,7 @@
   "internalId": "NPC_TECHNOSHOP",
   "name": "Technoshop",
   "source": "HypixelWiki",
+  "rows": "6",
   "slots": {
     "a1": {
       "material": "black_stained_glass_pane",
@@ -278,6 +279,5 @@
       "material": "black_stained_glass_pane",
       "lore": ""
     }
-  },
-  "rows": "6"
+  }
 }

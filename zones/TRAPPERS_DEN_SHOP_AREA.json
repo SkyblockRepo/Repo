@@ -3,6 +3,19 @@
   "name": "Trapper's Den",
   "source": "HypixelWiki",
   "discoveryText": "Trapper's Den\nComplete hunting tasks.\nBrowse animal varieties.\nPurchase new minions!",
+  "fairySouls": [
+    {
+      "location": "TRAPPERS_DEN_SHOP_AREA",
+      "number": 17,
+      "coordinates": {
+        "x": 279,
+        "y": 112,
+        "z": -541
+      }
+    }
+  ],
+  "mobDrops": [],
+  "mobs": [],
   "npcs": [
     {
       "link": "Talbot",
@@ -19,19 +32,6 @@
     {
       "link": "Trevor",
       "name": "Trevor"
-    }
-  ],
-  "mobs": [],
-  "mobDrops": [],
-  "fairySouls": [
-    {
-      "location": "TRAPPERS_DEN_SHOP_AREA",
-      "number": 17,
-      "coordinates": {
-        "x": 279,
-        "y": 112,
-        "z": -541
-      }
     }
   ]
 }

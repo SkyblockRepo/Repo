@@ -21,6 +21,7 @@
     "name": "Lava Bucket",
     "npc_sell_price": 8
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_BUILDER_CLASSIC",
@@ -43,6 +44,5 @@
       ],
       "amount": 1
     }
-  ],
-  "recipes": []
+  ]
 }

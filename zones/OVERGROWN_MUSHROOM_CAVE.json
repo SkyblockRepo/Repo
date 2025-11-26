@@ -3,11 +3,15 @@
   "name": "Overgrown Mushroom Cave",
   "source": "HypixelWiki",
   "discoveryText": "Overgrown Mushroom Cave\nFarm mushrooms.",
-  "npcs": [],
-  "mobs": [
+  "fairySouls": [
     {
-      "link": "Mushroom Cow",
-      "name": "Mushroom Cow"
+      "location": "OVERGROWN_MUSHROOM_CAVE",
+      "number": 18,
+      "coordinates": {
+        "x": 271,
+        "y": 56,
+        "z": -361
+      }
     }
   ],
   "mobDrops": [
@@ -24,15 +28,11 @@
       "name": "Red Mushroom"
     }
   ],
-  "fairySouls": [
+  "mobs": [
     {
-      "location": "OVERGROWN_MUSHROOM_CAVE",
-      "number": 18,
-      "coordinates": {
-        "x": 271,
-        "y": 56,
-        "z": -361
-      }
+      "link": "Mushroom Cow",
+      "name": "Mushroom Cow"
     }
-  ]
+  ],
+  "npcs": []
 }

@@ -2,8 +2,6 @@
   "internalId": "CLEAVE",
   "name": "Cleave",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 6,
   "items": [
     "ENCHANTMENT_CLEAVE_1",
     "ENCHANTMENT_CLEAVE_2",
@@ -11,5 +9,7 @@
     "ENCHANTMENT_CLEAVE_4",
     "ENCHANTMENT_CLEAVE_5",
     "ENCHANTMENT_CLEAVE_6"
-  ]
+  ],
+  "maxLevel": 6,
+  "minLevel": 1
 }

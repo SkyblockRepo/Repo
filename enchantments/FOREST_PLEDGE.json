@@ -2,11 +2,11 @@
   "internalId": "FOREST_PLEDGE",
   "name": "Forest Pledge",
   "source": "HypixelWiki",
-  "minLevel": 3,
-  "maxLevel": 5,
   "items": [
     "ENCHANTMENT_FOREST_PLEDGE_3",
     "ENCHANTMENT_FOREST_PLEDGE_4",
     "ENCHANTMENT_FOREST_PLEDGE_5"
-  ]
+  ],
+  "maxLevel": 5,
+  "minLevel": 3
 }

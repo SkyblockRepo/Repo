@@ -3,6 +3,59 @@
   "name": "Galatea",
   "source": "HypixelWiki",
   "discoveryText": null,
+  "fairySouls": [],
+  "mobDrops": [
+    {
+      "link": "Arcane Enchantment",
+      "name": "Arcane I"
+    },
+    {
+      "link": "Bone",
+      "name": "Bone"
+    },
+    {
+      "link": "Gill Membrane",
+      "name": "Gill Membrane"
+    },
+    {
+      "link": "Runeblade Talisman",
+      "name": "Runeblade Talisman"
+    },
+    {
+      "link": "Stealth Enchantment",
+      "name": "Stealth I"
+    },
+    {
+      "link": "Sturdy Bone",
+      "name": "Sturdy Bone"
+    }
+  ],
+  "mobs": [
+    {
+      "link": "Chillblade",
+      "name": "Chillblade"
+    },
+    {
+      "link": "Chillshot",
+      "name": "Chillshot"
+    },
+    {
+      "link": "Hydrospear",
+      "name": "Hydrospear"
+    },
+    {
+      "link": "Seacurse",
+      "name": "Seacurse"
+    },
+    {
+      "link": "Stridersurfer",
+      "name": "Stridersurfer"
+    },
+    {
+      "link": "Tidetot",
+      "name": "Tidetot"
+    }
+  ],
   "npcs": [
     {
       "link": "Agatha",
@@ -120,58 +173,5 @@
       "link": "Vaeri",
       "name": "Vaeri"
     }
-  ],
-  "mobs": [
-    {
-      "link": "Chillblade",
-      "name": "Chillblade"
-    },
-    {
-      "link": "Chillshot",
-      "name": "Chillshot"
-    },
-    {
-      "link": "Hydrospear",
-      "name": "Hydrospear"
-    },
-    {
-      "link": "Seacurse",
-      "name": "Seacurse"
-    },
-    {
-      "link": "Stridersurfer",
-      "name": "Stridersurfer"
-    },
-    {
-      "link": "Tidetot",
-      "name": "Tidetot"
-    }
-  ],
-  "mobDrops": [
-    {
-      "link": "Arcane Enchantment",
-      "name": "Arcane I"
-    },
-    {
-      "link": "Bone",
-      "name": "Bone"
-    },
-    {
-      "link": "Gill Membrane",
-      "name": "Gill Membrane"
-    },
-    {
-      "link": "Runeblade Talisman",
-      "name": "Runeblade Talisman"
-    },
-    {
-      "link": "Stealth Enchantment",
-      "name": "Stealth I"
-    },
-    {
-      "link": "Sturdy Bone",
-      "name": "Sturdy Bone"
-    }
-  ],
-  "fairySouls": []
+  ]
 }

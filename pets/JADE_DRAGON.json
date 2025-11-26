@@ -1,21 +1,21 @@
 {
   "internalId": "JADE_DRAGON",
   "name": "Jade Dragon",
-  "source": "HypixelWiki",
   "category": "Foraging",
-  "minLevel": 101,
-  "maxLevel": 200,
-  "baseStats": [
-    "Strength",
-    "Magic Find",
-    "Foraging Fortune"
-  ],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [
+    "Strength",
+    "Magic Find",
+    "Foraging Fortune"
+  ],
+  "maxLevel": 200,
+  "minLevel": 101,
   "rarities": {
     "LEGENDARY": {
       "lore": {

@@ -2,8 +2,6 @@
   "internalId": "INFINITE_QUIVER",
   "name": "Infinite Quiver",
   "source": "HypixelWiki",
-  "minLevel": 1,
-  "maxLevel": 10,
   "items": [
     "ENCHANTMENT_INFINITE_QUIVER_1",
     "ENCHANTMENT_INFINITE_QUIVER_2",
@@ -15,5 +13,7 @@
     "ENCHANTMENT_INFINITE_QUIVER_8",
     "ENCHANTMENT_INFINITE_QUIVER_9",
     "ENCHANTMENT_INFINITE_QUIVER_10"
-  ]
+  ],
+  "maxLevel": 10,
+  "minLevel": 1
 }

@@ -1,17 +1,17 @@
 {
   "internalId": "OWL",
   "name": "Owl",
-  "source": "HypixelWiki",
   "category": "Taming",
-  "minLevel": 1,
-  "maxLevel": 100,
-  "baseStats": [],
+  "source": "HypixelWiki",
   "flags": {
     "auctionable": true,
     "mountable": false,
     "tradable": true,
     "museumable": false
   },
+  "baseStats": [],
+  "maxLevel": 100,
+  "minLevel": 1,
   "rarities": {
     "LEGENDARY": {
       "lore": {
