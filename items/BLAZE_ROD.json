@@ -21,7 +21,6 @@
     "name": "Blaze Rod",
     "npc_sell_price": 9
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "INVENTORY_AN",
@@ -43,5 +42,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

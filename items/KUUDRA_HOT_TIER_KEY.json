@@ -22,6 +22,48 @@
       "signature": "XH+ez9zIlZ1DINfonekJ5ptZYYu2B5hFZPqutgcWmmgqEtJC/u9IxUFLylXADvgRi5vYrXStPqHPxoBQmmN4bsxvb30j1Ounlz3rR7s7TH+yKheMM8+lH187VcEmHoZVSAg6unuNERorWiSR1S6ZTZKURDznBAZ9MABGSBNheqBY/lNlsu/zS9g2rcS6CGKzda/ZtrjSSEAl3xbrd5nMJ4sLQDPFiTv84Fk6sgBHG5rEKo9IqDTA1FOu66dG6yifubKT3kaLDclCswEux6ZrE8NY8mmPig3oEKSQViOAdUvSpW26/TOPe8uhHHRaH57vH7cmUdm330x+gJbH0OhzG5UeDSJZc5xikqTtnzojVOB75iJUGRa/K9ezWmUJ4+4fSgwVbanlv3Gr1QP3gWLxE9J5A2fXIt1lnNjkY9Fr/5gm2W++T+j2aswMMR3XC5wFWk6BCj9QxmKSAL/kNlc+Wlt/MP/eCgfvGCMxAL4LCedujn0j8i6o3dSXjy3gStVXpt96eCwTL0iaHks9rg1/6ZHRQ5Fwd7eHryy0Fr3CoIb7tWrB9yZC+pu+hN+o/rnTLZ+OGh1jNVZv0XK/ylk1WsYIo+Pcpd2k3HyqaQtcPg6BnyUkz/TuVUhQ6JZ5gQ3dlZkbl6+n8/AoEkRbMU76iyMsEHQFPgqdB1fB8YiDmJE="
     }
   },
+  "soldBy": [
+    {
+      "id": "BARBARIAN_SHOP",
+      "name": "Barbarian Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 400000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_RED_SAND",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_STAR",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "MAGE_SHOP",
+      "name": "Mage Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 400000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MYCELIUM",
+          "amount": 6
+        },
+        {
+          "type": "ITEM",
+          "item_id": "NETHER_STAR",
+          "amount": 2
+        }
+      ]
+    }
+  ],
   "recipes": [
     {
       "name": "fourth",
@@ -118,48 +160,6 @@
           "quantity": 1
         }
       }
-    }
-  ],
-  "soldBy": [
-    {
-      "id": "BARBARIAN_SHOP",
-      "name": "Barbarian Shop",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 400000
-        },
-        {
-          "type": "ITEM",
-          "item_id": "ENCHANTED_RED_SAND",
-          "amount": 6
-        },
-        {
-          "type": "ITEM",
-          "item_id": "NETHER_STAR",
-          "amount": 2
-        }
-      ]
-    },
-    {
-      "id": "MAGE_SHOP",
-      "name": "Mage Shop",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 400000
-        },
-        {
-          "type": "ITEM",
-          "item_id": "ENCHANTED_MYCELIUM",
-          "amount": 6
-        },
-        {
-          "type": "ITEM",
-          "item_id": "NETHER_STAR",
-          "amount": 2
-        }
-      ]
     }
   ]
 }
