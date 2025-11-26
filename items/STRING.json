@@ -22,6 +22,7 @@
     "npc_sell_price": 3,
     "motes_sell_price": 30
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_ADVENTURER",
@@ -33,6 +34,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }
