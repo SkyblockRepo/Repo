@@ -21,6 +21,7 @@
     "name": "Rotten Flesh",
     "npc_sell_price": 2
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_ADVENTURER",
@@ -32,6 +33,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }

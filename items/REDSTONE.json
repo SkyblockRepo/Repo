@@ -21,6 +21,7 @@
     "name": "Redstone Dust",
     "npc_sell_price": 1
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_MAD_REDSTONE_ENGINEER",
@@ -32,6 +33,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }
