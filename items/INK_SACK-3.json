@@ -22,6 +22,7 @@
     "name": "Cocoa Beans",
     "npc_sell_price": 3
   },
+  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_FARM_MERCHANT",
@@ -43,6 +44,5 @@
         }
       ]
     }
-  ],
-  "recipes": []
+  ]
 }
