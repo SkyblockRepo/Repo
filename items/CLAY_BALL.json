@@ -21,7 +21,6 @@
     "name": "Clay Ball",
     "npc_sell_price": 3
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "TRADES_MENU",
@@ -35,5 +34,6 @@
       ],
       "amount": 1
     }
-  ]
+  ],
+  "recipes": []
 }

@@ -21,7 +21,6 @@
     "name": "Repeater",
     "npc_sell_price": 3
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_MAD_REDSTONE_ENGINEER",
@@ -33,5 +32,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

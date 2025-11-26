@@ -23,7 +23,6 @@
     "category": "ACCESSORY",
     "npc_sell_price": 50
   },
-  "recipes": [],
   "soldBy": [
     {
       "id": "NPC_ADVENTURER",
@@ -35,5 +34,6 @@
         }
       ]
     }
-  ]
+  ],
+  "recipes": []
 }

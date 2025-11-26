@@ -23,6 +23,18 @@
     "glowing": true,
     "npc_sell_price": 5000
   },
+  "soldBy": [
+    {
+      "id": "MAGE_SHOP",
+      "name": "Mage Shop",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 750000
+        }
+      ]
+    }
+  ],
   "recipes": [
     {
       "name": "first",
@@ -59,18 +71,6 @@
           "quantity": 1
         }
       }
-    }
-  ],
-  "soldBy": [
-    {
-      "id": "MAGE_SHOP",
-      "name": "Mage Shop",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 750000
-        }
-      ]
     }
   ]
 }
