@@ -32,6 +32,26 @@
   },
   "recipes": [
     {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "PROMISING_SPADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
       "name": "first",
       "type": "crafting",
       "resultId": "PROMISING_SPADE",
@@ -66,26 +86,6 @@
           "quantity": 1
         },
         "9": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "PROMISING_SPADE",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "7": {
           "itemId": "STICK",
           "quantity": 1
         }

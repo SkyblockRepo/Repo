@@ -29,50 +29,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "LARGE_EVENTS_SACK",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "CARNIVAL_TICKET",
-          "quantity": 10
-        },
-        "2": {
-          "itemId": "LARGE_WINTER_SACK",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "CARNIVAL_TICKET",
-          "quantity": 10
-        },
-        "4": {
-          "itemId": "CARNIVAL_TICKET",
-          "quantity": 10
-        },
-        "5": {
-          "itemId": "LARGE_CANDY_SACK",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "CARNIVAL_TICKET",
-          "quantity": 10
-        },
-        "7": {
-          "itemId": "CARNIVAL_TICKET",
-          "quantity": 10
-        },
-        "8": {
-          "itemId": "CARNIVAL_TICKET",
-          "quantity": 10
-        },
-        "9": {
-          "itemId": "CARNIVAL_TICKET",
-          "quantity": 10
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "LARGE_EVENTS_SACK",
@@ -96,6 +52,50 @@
         },
         "5": {
           "itemId": "LARGE_WINTER_SACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "CARNIVAL_TICKET",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "CARNIVAL_TICKET",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "CARNIVAL_TICKET",
+          "quantity": 10
+        },
+        "9": {
+          "itemId": "CARNIVAL_TICKET",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LARGE_EVENTS_SACK",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CARNIVAL_TICKET",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "LARGE_WINTER_SACK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "CARNIVAL_TICKET",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "CARNIVAL_TICKET",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "LARGE_CANDY_SACK",
           "quantity": 1
         },
         "6": {

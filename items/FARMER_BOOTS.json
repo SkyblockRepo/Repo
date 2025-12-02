@@ -63,30 +63,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FARMER_BOOTS",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "3": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "4": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        },
-        "6": {
-          "itemId": "ENCHANTED_PUMPKIN",
-          "quantity": 64
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FARMER_BOOTS",
@@ -105,6 +81,30 @@
           "quantity": 64
         },
         "9": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FARMER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "3": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "ENCHANTED_PUMPKIN",
+          "quantity": 64
+        },
+        "6": {
           "itemId": "ENCHANTED_PUMPKIN",
           "quantity": 64
         }

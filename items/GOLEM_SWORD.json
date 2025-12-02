@@ -38,26 +38,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "GOLEM_SWORD",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_IRON_BLOCK",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "ENCHANTED_IRON_BLOCK",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "GOLEM_SWORD",
@@ -92,6 +72,26 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "GOLEM_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_IRON_BLOCK",
+          "quantity": 1
+        },
+        "8": {
           "itemId": "STICK",
           "quantity": 1
         }

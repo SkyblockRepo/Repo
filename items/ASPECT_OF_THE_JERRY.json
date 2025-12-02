@@ -34,26 +34,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ASPECT_OF_THE_JERRY",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ASSISTANT",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "ASSISTANT",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ASPECT_OF_THE_JERRY",
@@ -88,6 +68,26 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ASPECT_OF_THE_JERRY",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ASSISTANT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ASSISTANT",
+          "quantity": 1
+        },
+        "8": {
           "itemId": "STICK",
           "quantity": 1
         }

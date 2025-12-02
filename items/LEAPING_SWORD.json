@@ -108,26 +108,6 @@
       }
     },
     {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "LEAPING_SWORD",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
-          "quantity": 12
-        },
-        "4": {
-          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
-          "quantity": 12
-        },
-        "7": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "third",
       "type": "crafting",
       "resultId": "LEAPING_SWORD",
@@ -142,6 +122,26 @@
           "quantity": 12
         },
         "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "LEAPING_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "4": {
+          "itemId": "ENCHANTED_FERMENTED_SPIDER_EYE",
+          "quantity": 12
+        },
+        "7": {
           "itemId": "STICK",
           "quantity": 1
         }

@@ -133,6 +133,50 @@
   },
   "recipes": [
     {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "WISE_WITHER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "TANK_WITHER_BOOTS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "GIANT_FRAGMENT_LASER",
+          "quantity": 1
+        }
+      }
+    },
+    {
       "name": "first",
       "type": "crafting",
       "resultId": "WISE_WITHER_BOOTS",
@@ -200,50 +244,6 @@
         },
         "5": {
           "itemId": "POWER_WITHER_BOOTS",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "WISE_WITHER_BOOTS",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "GIANT_FRAGMENT_LASER",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "TANK_WITHER_BOOTS",
           "quantity": 1
         },
         "6": {
