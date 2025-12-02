@@ -99,38 +99,6 @@
       "resultQuantity": 1,
       "crafting": {
         "2": {
-          "itemId": "SPIDER_CATALYST",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "TARANTULA_WEB",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "SPIDER_CATALYST",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "TARANTULA_WEB",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "SPIDER_CATALYST",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "TARANTULA_WEB",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SCORPION_BOW",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
           "itemId": "ENCHANTED_EMERALD",
           "quantity": 32
         },
@@ -153,6 +121,38 @@
         "9": {
           "itemId": "TARANTULA_SILK",
           "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCORPION_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "SPIDER_CATALYST",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "SPIDER_CATALYST",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "SPIDER_CATALYST",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TARANTULA_WEB",
+          "quantity": 1
         }
       }
     }

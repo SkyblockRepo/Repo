@@ -35,26 +35,6 @@
   },
   "recipes": [
     {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "EMERALD_BLADE",
-      "resultQuantity": 1,
-      "crafting": {
-        "3": {
-          "itemId": "ENCHANTED_EMERALD_BLOCK",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_EMERALD_BLOCK",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "first",
       "type": "crafting",
       "resultId": "EMERALD_BLADE",
@@ -89,6 +69,26 @@
           "quantity": 1
         },
         "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "EMERALD_BLADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_EMERALD_BLOCK",
+          "quantity": 1
+        },
+        "9": {
           "itemId": "STICK",
           "quantity": 1
         }
