@@ -21,22 +21,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_SHEARS",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_IRON",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "ENCHANTED_IRON",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_SHEARS",
@@ -47,6 +31,22 @@
           "quantity": 1
         },
         "5": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SHEARS",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_IRON",
+          "quantity": 1
+        },
+        "4": {
           "itemId": "ENCHANTED_IRON",
           "quantity": 1
         }

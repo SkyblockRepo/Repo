@@ -36,26 +36,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "PRISMARINE_BLADE",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "PRISMARINE_SHARD",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "PRISMARINE_SHARD",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "PRISMARINE_BLADE",
@@ -90,6 +70,26 @@
           "quantity": 32
         },
         "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PRISMARINE_BLADE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "PRISMARINE_SHARD",
+          "quantity": 32
+        },
+        "8": {
           "itemId": "STICK",
           "quantity": 1
         }

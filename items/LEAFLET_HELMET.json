@@ -37,34 +37,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "LEAFLET_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "LOG",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "LOG",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "LOG",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "LOG",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "LOG",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "LEAFLET_HELMET",
@@ -87,6 +59,34 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "LOG",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "LEAFLET_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "LOG",
+          "quantity": 1
+        },
+        "6": {
           "itemId": "LOG",
           "quantity": 1
         }

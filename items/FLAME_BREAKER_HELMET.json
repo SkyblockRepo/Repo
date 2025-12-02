@@ -83,34 +83,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FLAME_BREAKER_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_HARD_STONE",
-          "quantity": 20
-        },
-        "2": {
-          "itemId": "ENCHANTED_HARD_STONE",
-          "quantity": 20
-        },
-        "3": {
-          "itemId": "ENCHANTED_HARD_STONE",
-          "quantity": 20
-        },
-        "4": {
-          "itemId": "ENCHANTED_HARD_STONE",
-          "quantity": 20
-        },
-        "6": {
-          "itemId": "ENCHANTED_HARD_STONE",
-          "quantity": 20
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FLAME_BREAKER_HELMET",
@@ -133,6 +105,34 @@
           "quantity": 20
         },
         "9": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAME_BREAKER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "3": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "ENCHANTED_HARD_STONE",
+          "quantity": 20
+        },
+        "6": {
           "itemId": "ENCHANTED_HARD_STONE",
           "quantity": 20
         }

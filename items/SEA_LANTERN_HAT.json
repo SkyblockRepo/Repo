@@ -25,34 +25,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SEA_LANTERN_HAT",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "PRISMARINE_CRYSTALS",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "PRISMARINE_CRYSTALS",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "PRISMARINE_CRYSTALS",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "PRISMARINE_CRYSTALS",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "PRISMARINE_CRYSTALS",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "SEA_LANTERN_HAT",
@@ -75,6 +47,34 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SEA_LANTERN_HAT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "PRISMARINE_CRYSTALS",
+          "quantity": 1
+        },
+        "6": {
           "itemId": "PRISMARINE_CRYSTALS",
           "quantity": 1
         }
