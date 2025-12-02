@@ -141,6 +141,50 @@
           "quantity": 1
         },
         "5": {
+          "itemId": "SCORPION_FOIL",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "SHRIVELED_WASP",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        },
+        "8": {
+          "itemId": "SHRIVELED_WASP",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STING",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        },
+        "2": {
+          "itemId": "SHRIVELED_WASP",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "TARANTULA_SILK",
+          "quantity": 64
+        },
+        "4": {
+          "itemId": "SHRIVELED_WASP",
+          "quantity": 1
+        },
+        "5": {
           "itemId": "TARANTULA_FANG",
           "quantity": 1
         },

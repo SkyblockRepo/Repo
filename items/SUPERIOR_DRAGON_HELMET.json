@@ -134,34 +134,6 @@
   },
   "recipes": [
     {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "SUPERIOR_DRAGON_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "4": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "5": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "6": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "7": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        },
-        "9": {
-          "itemId": "SUPERIOR_FRAGMENT",
-          "quantity": 10
-        }
-      }
-    },
-    {
       "name": "first",
       "type": "crafting",
       "resultId": "SUPERIOR_DRAGON_HELMET",
@@ -184,6 +156,34 @@
           "quantity": 10
         },
         "6": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "SUPERIOR_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "SUPERIOR_FRAGMENT",
+          "quantity": 10
+        },
+        "9": {
           "itemId": "SUPERIOR_FRAGMENT",
           "quantity": 10
         }
