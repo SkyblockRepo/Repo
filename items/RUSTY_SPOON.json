@@ -1,0 +1,27 @@
+{
+  "internalId": "RUSTY_SPOON",
+  "name": "Rusty Spoon",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "RUSTY_SPOON",
+    "material": "WOOD_SPADE",
+    "name": "Rusty Spoon",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "has_uuid": true,
+    "hide_from_api": false
+  }
+}
