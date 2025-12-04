@@ -29,34 +29,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FINE_AMETHYST_GEM",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "FLAWED_AMETHYST_GEM",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "FLAWED_AMETHYST_GEM",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "FLAWED_AMETHYST_GEM",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "FLAWED_AMETHYST_GEM",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "FLAWED_AMETHYST_GEM",
-          "quantity": 16
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FINE_AMETHYST_GEM",
@@ -79,6 +51,34 @@
           "quantity": 16
         },
         "5": {
+          "itemId": "FLAWED_AMETHYST_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FINE_AMETHYST_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FLAWED_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FLAWED_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FLAWED_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FLAWED_AMETHYST_GEM",
+          "quantity": 16
+        },
+        "8": {
           "itemId": "FLAWED_AMETHYST_GEM",
           "quantity": 16
         }

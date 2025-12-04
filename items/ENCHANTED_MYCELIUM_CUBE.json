@@ -29,34 +29,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_MYCELIUM_CUBE",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_MYCELIUM",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ENCHANTED_MYCELIUM",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "ENCHANTED_MYCELIUM",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "ENCHANTED_MYCELIUM",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "ENCHANTED_MYCELIUM",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_MYCELIUM_CUBE",
@@ -79,6 +51,34 @@
           "quantity": 32
         },
         "5": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MYCELIUM_CUBE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "ENCHANTED_MYCELIUM",
+          "quantity": 32
+        },
+        "8": {
           "itemId": "ENCHANTED_MYCELIUM",
           "quantity": 32
         }

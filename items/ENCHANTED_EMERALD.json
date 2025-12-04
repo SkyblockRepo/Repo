@@ -25,34 +25,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_EMERALD",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "EMERALD",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "EMERALD",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "EMERALD",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "EMERALD",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "EMERALD",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_EMERALD",
@@ -81,29 +53,29 @@
       }
     },
     {
-      "name": "third",
+      "name": "first",
       "type": "crafting",
       "resultId": "ENCHANTED_EMERALD",
-      "resultQuantity": 9,
+      "resultQuantity": 1,
       "crafting": {
         "2": {
-          "itemId": "EMERALD_BLOCK",
+          "itemId": "EMERALD",
           "quantity": 32
         },
         "4": {
-          "itemId": "EMERALD_BLOCK",
+          "itemId": "EMERALD",
           "quantity": 32
         },
         "5": {
-          "itemId": "EMERALD_BLOCK",
+          "itemId": "EMERALD",
           "quantity": 32
         },
         "6": {
-          "itemId": "EMERALD_BLOCK",
+          "itemId": "EMERALD",
           "quantity": 32
         },
         "8": {
-          "itemId": "EMERALD_BLOCK",
+          "itemId": "EMERALD",
           "quantity": 32
         }
       }
@@ -131,6 +103,34 @@
           "quantity": 32
         },
         "5": {
+          "itemId": "EMERALD_BLOCK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "ENCHANTED_EMERALD",
+      "resultQuantity": 9,
+      "crafting": {
+        "2": {
+          "itemId": "EMERALD_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "EMERALD_BLOCK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "EMERALD_BLOCK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "EMERALD_BLOCK",
+          "quantity": 32
+        },
+        "8": {
           "itemId": "EMERALD_BLOCK",
           "quantity": 32
         }

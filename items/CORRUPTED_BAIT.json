@@ -29,16 +29,16 @@
   },
   "recipes": [
     {
-      "name": "first",
+      "name": "sixth",
       "type": "crafting",
       "resultId": "CORRUPTED_BAIT",
       "resultQuantity": 16,
       "crafting": {
-        "4": {
+        "8": {
           "itemId": "CORRUPTED_FRAGMENT",
           "quantity": 1
         },
-        "5": {
+        "9": {
           "itemId": "MAGMA_FISH",
           "quantity": 1
         }
@@ -55,6 +55,22 @@
           "quantity": 1
         },
         "2": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CORRUPTED_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "4": {
+          "itemId": "CORRUPTED_FRAGMENT",
+          "quantity": 1
+        },
+        "5": {
           "itemId": "MAGMA_FISH",
           "quantity": 1
         }
@@ -103,22 +119,6 @@
           "quantity": 1
         },
         "6": {
-          "itemId": "MAGMA_FISH",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "sixth",
-      "type": "crafting",
-      "resultId": "CORRUPTED_BAIT",
-      "resultQuantity": 16,
-      "crafting": {
-        "8": {
-          "itemId": "CORRUPTED_FRAGMENT",
-          "quantity": 1
-        },
-        "9": {
           "itemId": "MAGMA_FISH",
           "quantity": 1
         }
