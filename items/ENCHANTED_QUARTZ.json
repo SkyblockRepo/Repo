@@ -25,29 +25,29 @@
   },
   "recipes": [
     {
-      "name": "fourth",
+      "name": "first",
       "type": "crafting",
       "resultId": "ENCHANTED_QUARTZ",
-      "resultQuantity": 4,
+      "resultQuantity": 1,
       "crafting": {
-        "1": {
-          "itemId": "QUARTZ_BLOCK",
-          "quantity": 32
-        },
         "2": {
-          "itemId": "QUARTZ_BLOCK",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "QUARTZ_BLOCK",
+          "itemId": "QUARTZ",
           "quantity": 32
         },
         "4": {
-          "itemId": "QUARTZ_BLOCK",
+          "itemId": "QUARTZ",
           "quantity": 32
         },
         "5": {
-          "itemId": "QUARTZ_BLOCK",
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "QUARTZ",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "QUARTZ",
           "quantity": 32
         }
       }
@@ -81,34 +81,6 @@
       }
     },
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_QUARTZ",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "QUARTZ",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "QUARTZ",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "QUARTZ",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "QUARTZ",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "QUARTZ",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "third",
       "type": "crafting",
       "resultId": "ENCHANTED_QUARTZ",
@@ -131,6 +103,34 @@
           "quantity": 32
         },
         "8": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "ENCHANTED_QUARTZ",
+      "resultQuantity": 4,
+      "crafting": {
+        "1": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "QUARTZ_BLOCK",
+          "quantity": 32
+        },
+        "5": {
           "itemId": "QUARTZ_BLOCK",
           "quantity": 32
         }

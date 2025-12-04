@@ -25,6 +25,30 @@
   },
   "recipes": [
     {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_HUGE_MUSHROOM_1",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        },
+        "2": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 8
+        }
+      }
+    },
+    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_HUGE_MUSHROOM_1",
@@ -65,30 +89,6 @@
         "9": {
           "itemId": "HUGE_MUSHROOM_1",
           "quantity": 64
-        }
-      }
-    },
-    {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_HUGE_MUSHROOM_1",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 8
-        },
-        "2": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 8
-        },
-        "5": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 8
         }
       }
     }

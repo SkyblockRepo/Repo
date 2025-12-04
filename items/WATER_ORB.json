@@ -40,6 +40,50 @@
           "quantity": 16
         },
         "2": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_RAW_SALMON",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_PRISMARINE_SHARD",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENCHANTED_WATER_LILY",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ENCHANTED_PRISMARINE_CRYSTALS",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "ENCHANTED_CLAY_BALL",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_PUFFERFISH",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "ENCHANTED_CLOWNFISH",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "WATER_ORB",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RAW_FISH",
+          "quantity": 16
+        },
+        "2": {
           "itemId": "ENCHANTED_WATER_LILY",
           "quantity": 8
         },
