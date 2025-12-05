@@ -45,34 +45,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "PUMPKIN_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "PUMPKIN",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "PUMPKIN",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "PUMPKIN",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "PUMPKIN",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "PUMPKIN",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "PUMPKIN_HELMET",
@@ -95,6 +67,34 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "PUMPKIN_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "PUMPKIN",
+          "quantity": 1
+        },
+        "6": {
           "itemId": "PUMPKIN",
           "quantity": 1
         }

@@ -142,7 +142,7 @@
   },
   "recipes": [
     {
-      "name": "first",
+      "name": "third",
       "type": "crafting",
       "resultId": "TANK_WITHER_HELMET",
       "resultQuantity": 1,
@@ -164,7 +164,7 @@
           "quantity": 1
         },
         "5": {
-          "itemId": "WITHER_HELMET",
+          "itemId": "POWER_WITHER_HELMET",
           "quantity": 1
         },
         "6": {
@@ -230,7 +230,7 @@
       }
     },
     {
-      "name": "third",
+      "name": "first",
       "type": "crafting",
       "resultId": "TANK_WITHER_HELMET",
       "resultQuantity": 1,
@@ -252,7 +252,7 @@
           "quantity": 1
         },
         "5": {
-          "itemId": "POWER_WITHER_HELMET",
+          "itemId": "WITHER_HELMET",
           "quantity": 1
         },
         "6": {

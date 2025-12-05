@@ -237,34 +237,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SCOVILLE_BELT",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "COMPACT_OOZE",
-          "quantity": 5
-        },
-        "3": {
-          "itemId": "COMPACT_OOZE",
-          "quantity": 5
-        },
-        "4": {
-          "itemId": "COMPACT_OOZE",
-          "quantity": 5
-        },
-        "5": {
-          "itemId": "REKINDLED_EMBER_FRAGMENT",
-          "quantity": 5
-        },
-        "6": {
-          "itemId": "COMPACT_OOZE",
-          "quantity": 5
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "SCOVILLE_BELT",
@@ -287,6 +259,34 @@
           "quantity": 5
         },
         "9": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SCOVILLE_BELT",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "3": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "4": {
+          "itemId": "COMPACT_OOZE",
+          "quantity": 5
+        },
+        "5": {
+          "itemId": "REKINDLED_EMBER_FRAGMENT",
+          "quantity": 5
+        },
+        "6": {
           "itemId": "COMPACT_OOZE",
           "quantity": 5
         }

@@ -50,26 +50,6 @@
       }
     },
     {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "FLINT_SHOVEL",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "FLINT",
-          "quantity": 10
-        },
-        "4": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "third",
       "type": "crafting",
       "resultId": "FLINT_SHOVEL",
@@ -84,6 +64,26 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FLINT_SHOVEL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "FLINT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "7": {
           "itemId": "STICK",
           "quantity": 1
         }

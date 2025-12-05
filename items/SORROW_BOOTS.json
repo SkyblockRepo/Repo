@@ -120,30 +120,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "SORROW_BOOTS",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SORROW",
-          "quantity": 3
-        },
-        "3": {
-          "itemId": "SORROW",
-          "quantity": 3
-        },
-        "4": {
-          "itemId": "SORROW",
-          "quantity": 3
-        },
-        "6": {
-          "itemId": "SORROW",
-          "quantity": 3
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "SORROW_BOOTS",
@@ -162,6 +138,30 @@
           "quantity": 3
         },
         "9": {
+          "itemId": "SORROW",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SORROW_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "3": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "4": {
+          "itemId": "SORROW",
+          "quantity": 3
+        },
+        "6": {
           "itemId": "SORROW",
           "quantity": 3
         }

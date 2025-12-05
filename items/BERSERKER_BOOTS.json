@@ -240,30 +240,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "BERSERKER_BOOTS",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_RED_SAND_CUBE",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "ENCHANTED_RED_SAND_CUBE",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "MAGMA_CHUNK",
-          "quantity": 20
-        },
-        "6": {
-          "itemId": "MAGMA_CHUNK",
-          "quantity": 20
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "BERSERKER_BOOTS",
@@ -282,6 +258,30 @@
           "quantity": 20
         },
         "9": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BERSERKER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        },
+        "6": {
           "itemId": "MAGMA_CHUNK",
           "quantity": 20
         }

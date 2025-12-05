@@ -67,30 +67,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FARM_ARMOR_BOOTS",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 8
-        },
-        "3": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 8
-        },
-        "6": {
-          "itemId": "ENCHANTED_WHEAT",
-          "quantity": 8
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FARM_ARMOR_BOOTS",
@@ -109,6 +85,30 @@
           "quantity": 8
         },
         "9": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FARM_ARMOR_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "3": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_WHEAT",
+          "quantity": 8
+        },
+        "6": {
           "itemId": "ENCHANTED_WHEAT",
           "quantity": 8
         }

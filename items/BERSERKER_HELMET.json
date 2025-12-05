@@ -244,34 +244,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "BERSERKER_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "MAGMA_CHUNK",
-          "quantity": 20
-        },
-        "2": {
-          "itemId": "BURNING_EYE",
-          "quantity": 50
-        },
-        "3": {
-          "itemId": "MAGMA_CHUNK",
-          "quantity": 20
-        },
-        "4": {
-          "itemId": "ENCHANTED_RED_SAND_CUBE",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_RED_SAND_CUBE",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "BERSERKER_HELMET",
@@ -294,6 +266,34 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "BERSERKER_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        },
+        "2": {
+          "itemId": "BURNING_EYE",
+          "quantity": 50
+        },
+        "3": {
+          "itemId": "MAGMA_CHUNK",
+          "quantity": 20
+        },
+        "4": {
+          "itemId": "ENCHANTED_RED_SAND_CUBE",
+          "quantity": 1
+        },
+        "6": {
           "itemId": "ENCHANTED_RED_SAND_CUBE",
           "quantity": 1
         }

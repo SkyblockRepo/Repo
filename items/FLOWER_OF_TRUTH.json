@@ -101,26 +101,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FLOWER_OF_TRUTH",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "GOLEM_POPPY",
-          "quantity": 3
-        },
-        "5": {
-          "itemId": "GOLEM_POPPY",
-          "quantity": 3
-        },
-        "8": {
-          "itemId": "GOLEM_POPPY",
-          "quantity": 3
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FLOWER_OF_TRUTH",
@@ -155,6 +135,26 @@
           "quantity": 3
         },
         "9": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLOWER_OF_TRUTH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "5": {
+          "itemId": "GOLEM_POPPY",
+          "quantity": 3
+        },
+        "8": {
           "itemId": "GOLEM_POPPY",
           "quantity": 3
         }

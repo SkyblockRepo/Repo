@@ -82,26 +82,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FEL_SWORD",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "FEL_PEARL",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "FEL_PEARL",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FEL_SWORD",
@@ -116,6 +96,26 @@
           "quantity": 16
         },
         "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FEL_SWORD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FEL_PEARL",
+          "quantity": 16
+        },
+        "8": {
           "itemId": "STICK",
           "quantity": 1
         }

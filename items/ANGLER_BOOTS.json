@@ -40,30 +40,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ANGLER_BOOTS",
-      "resultQuantity": 1,
-      "crafting": {
-        "4": {
-          "itemId": "RAW_FISH",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "RAW_FISH",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "RAW_FISH",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "RAW_FISH",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ANGLER_BOOTS",
@@ -82,6 +58,30 @@
           "quantity": 1
         },
         "6": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ANGLER_BOOTS",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "RAW_FISH",
+          "quantity": 1
+        },
+        "9": {
           "itemId": "RAW_FISH",
           "quantity": 1
         }

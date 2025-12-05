@@ -39,34 +39,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "CHICKEN_HEAD",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "EGG",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "EGG",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "EGG",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "EGG",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "EGG",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "CHICKEN_HEAD",
@@ -89,6 +61,34 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "EGG",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "CHICKEN_HEAD",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "EGG",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "EGG",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "EGG",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "EGG",
+          "quantity": 1
+        },
+        "6": {
           "itemId": "EGG",
           "quantity": 1
         }
