@@ -1,0 +1,28 @@
+{
+  "internalId": "ROSE_DRAGON",
+  "name": "Rose Dragon",
+  "category": "Farming",
+  "source": "HypixelWiki",
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "baseStats": [
+    "Health",
+    "Farming Fortune"
+  ],
+  "maxLevel": 200,
+  "minLevel": 101,
+  "rarities": {
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lv 101] &6Rose Dragon\n \n&8Farming Pet\n\n\n\n&7Health: &c+101\n\n&7Farming Fortune: &6+20.2\n\n\n\n&6Awakening\n\n&7Grants &6+1.52☘ Farming Fortune &7per\n\n&aFarming &7level.\n\n\n\n&6Purity\n\n&7Grants &6+2.52☘ Farming Fortune &7and\n\n&f+1.01✦ Speed &7for every digit in\n\n&7your lowest crop Collection.\n\n\n\n&6Serenity\n\n&7Increases the chance to drop rare\n\n&7items when breaking crops by &a10.1%&7.\n\n\n\n&6Spiritual Perfection\n\n&7Gain &a5.05% &7more &cCopper &7from &aGarden\n\n&aVisitors&7.\n\n\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lv 200] &6Rose Dragon\n \n&8Farming Pet\n\n\n\n&7Health: &c+200\n\n&7Farming Fortune: &6+40\n\n\n\n&6Awakening\n\n&7Grants &6+3☘ Farming Fortune &7per\n\n&aFarming &7level.\n\n\n\n&6Purity\n\n&7Grants &6+5☘ Farming Fortune &7and\n\n&f+2✦ Speed &7for every digit in your\n\n&7lowest crop Collection.\n\n\n\n&6Serenity\n\n&7Increases the chance to drop rare\n\n&7items when breaking crops by &a20%&7.\n\n\n\n&6Spiritual Perfection\n\n&7Gain &a10% &7more &cCopper &7from &aGarden\n\n&aVisitors&7.\n\n\n\n&6&lLEGENDARY&r"
+      },
+      "value": 5000000,
+      "katUpgradeable": false
+    }
+  }
+}
