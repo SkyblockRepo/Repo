@@ -1,0 +1,22 @@
+{
+  "internalId": "SYNTHESIS_GARDEN_CHIP",
+  "name": "Synthesis Chip",
+  "category": "Garden Chip",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&8Garden Chip\n\n\n\n&6Ability: Synthesis \n\n&7Analyzing a mutation in the &eCrop\n\n&eAnalyzer &7gives &a1% &7more &cCopper &7per\n\n&9Chip &7Level!\n\n\n\n&7Redeem Chips to increase their rarity!\n\n\n\n&eRight-Click to redeem!\n\n&eShift Right-Click to redeem all!\n\n\n\n&9&lRARE GARDEN CHIP&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SYNTHESIS_GARDEN_CHIP",
+    "name": "Synthesis Chip"
+  }
+}

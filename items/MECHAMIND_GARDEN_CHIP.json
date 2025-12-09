@@ -1,0 +1,22 @@
+{
+  "internalId": "MECHAMIND_GARDEN_CHIP",
+  "name": "Mechamind Chip",
+  "category": "Garden Chip",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&8Garden Chip\n\n\n\n&6Ability: Mechamind \n\n&7Grants &a1.5% &7more &eFarming Tool\n\n&7Experience per &9Chip &7Level!\n\n\n\n&7Redeem Chips to increase their rarity!\n\n\n\n&eRight-Click to redeem!\n\n&eShift Right-Click to redeem all!\n\n\n\n&9&lRARE GARDEN CHIP&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MECHAMIND_GARDEN_CHIP",
+    "name": "Mechamind Chip"
+  }
+}

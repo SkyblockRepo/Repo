@@ -1,0 +1,22 @@
+{
+  "internalId": "SOWLEDGE_GARDEN_CHIP",
+  "name": "Sowledge Chip",
+  "category": "Garden Chip",
+  "source": "HypixelWiki",
+  "npcValue": 0,
+  "lore": "&8Garden Chip\n\n\n\n&6Ability: Sowledge \n\n&7Grants &3+1☯ Farming Wisdom &7per &9Chip\n\n&7Level!\n\n\n\n&7Redeem Chips to increase their rarity!\n\n\n\n&eRight-Click to redeem!\n\n&eShift Right-Click to redeem all!\n\n\n\n&9&lRARE GARDEN CHIP&r",
+  "flags": {
+    "tradable": true,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SOWLEDGE_GARDEN_CHIP",
+    "name": "Sowledge Chip"
+  }
+}
