@@ -1,14 +1,14 @@
 {
   "internalId": "DOUBLE_PLANT",
   "name": "Sunflower",
-  "category": "Item",
+  "category": "Collection",
   "source": "HypixelAPI",
   "npcValue": 1,
-  "lore": "&f&lCOMMON&r",
+  "lore": "&7&8Collection Item\n\n&f&lCOMMON&r",
   "flags": {
     "tradable": true,
-    "bazaarable": false,
-    "auctionable": true,
+    "bazaarable": true,
+    "auctionable": false,
     "reforgeable": false,
     "enchantable": false,
     "museumable": false,
