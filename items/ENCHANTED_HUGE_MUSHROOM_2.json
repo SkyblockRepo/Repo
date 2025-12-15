@@ -3,7 +3,7 @@
   "name": "Enchanted Red Mushroom Block",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 51200,
+  "npcValue": 256000,
   "lore": "&7&8Collection Item\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -21,7 +21,7 @@
     "name": "Enchanted Red Mushroom Block",
     "tier": "RARE",
     "glowing": true,
-    "npc_sell_price": 51200
+    "npc_sell_price": 256000
   },
   "recipes": [
     {
