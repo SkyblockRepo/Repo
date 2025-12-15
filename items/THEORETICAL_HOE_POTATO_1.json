@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_POTATO_1",
-  "name": "Pythagorean Potato Hoe",
+  "name": "Pythagorean Potato Hoe Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,9 +17,10 @@
   },
   "data": {
     "id": "THEORETICAL_HOE_POTATO_1",
-    "material": "STONE_HOE",
-    "name": "Pythagorean Potato Hoe",
+    "material": "IRON_HOE",
+    "name": "Pythagorean Potato Hoe Mk. I",
     "category": "HOE",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -34,13 +35,31 @@
             "coins": 50000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
       }
     ],
     "requirements": [
       {
         "type": "SKILL",
         "skill": "FARMING",
-        "level": 15
+        "level": 10
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 3
       }
     ],
     "museum_data": {

@@ -1,0 +1,26 @@
+{
+  "internalId": "MOONFLOWER",
+  "name": "Moonflower",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "MOONFLOWER",
+    "material": "RED_ROSE",
+    "durability": 1,
+    "name": "Moonflower",
+    "tier": "COMMON",
+    "npc_sell_price": 4
+  }
+}

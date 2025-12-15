@@ -1,6 +1,6 @@
 {
   "internalId": "MELON_DICER_2",
-  "name": "Melon Dicer 2.0",
+  "name": "Melon Dicer Mk. II",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,10 +17,10 @@
   },
   "data": {
     "id": "MELON_DICER_2",
-    "material": "DIAMOND_AXE",
-    "name": "Melon Dicer 2.0",
+    "material": "GOLD_AXE",
+    "name": "Melon Dicer Mk. II",
     "category": "AXE",
-    "tier": "EPIC",
+    "tier": "RARE",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -49,6 +49,31 @@
             "coins": 100000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 15
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 6
       }
     ],
     "museum_data": {
@@ -60,7 +85,7 @@
       "game_stage": "SKILLED",
       "mapped_item_ids": []
     },
-    "description": "%%italic%%Same as the Melon Dicer 1.0, just better!"
+    "description": "%%italic%%Same as the Melon Dicer Mk. I, just better!"
   },
   "recipes": [
     {

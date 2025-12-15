@@ -1,0 +1,27 @@
+{
+  "internalId": "SUNFLOWER_GENERATOR_11",
+  "name": "Sunflower Minion XI",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUNFLOWER_GENERATOR_11",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "name": "Sunflower Minion XI",
+    "tier": "RARE",
+    "generator_tier": 11,
+    "generator": "SUNFLOWER"
+  }
+}

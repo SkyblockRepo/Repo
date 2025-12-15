@@ -1,6 +1,6 @@
 {
   "internalId": "CACTUS_KNIFE",
-  "name": "Cactus Knife",
+  "name": "Cactus Knife Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,10 +17,10 @@
   },
   "data": {
     "id": "CACTUS_KNIFE",
-    "material": "GOLD_HOE",
-    "name": "Cactus Knife",
+    "material": "IRON_SWORD",
+    "name": "Cactus Knife Mk. I",
     "category": "HOE",
-    "tier": "EPIC",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -56,11 +56,17 @@
         "type": "SKILL",
         "skill": "FARMING",
         "level": 10
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 7
       }
     ],
     "museum_data": {
       "donation_xp": 4,
-      "parent": {},
+      "parent": {
+        "CACTUS_KNIFE": "CACTUS_KNIFE_2"
+      },
       "type": "RARITIES",
       "game_stage": "INTERMEDIATE",
       "mapped_item_ids": []

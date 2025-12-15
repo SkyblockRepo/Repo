@@ -1,0 +1,27 @@
+{
+  "internalId": "THORNY_VINES",
+  "name": "Thorny Vines",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10240,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THORNY_VINES",
+    "material": "VINE",
+    "name": "Thorny Vines",
+    "tier": "RARE",
+    "unstackable": true,
+    "glowing": true,
+    "npc_sell_price": 10240
+  }
+}

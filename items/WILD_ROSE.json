@@ -1,0 +1,26 @@
+{
+  "internalId": "WILD_ROSE",
+  "name": "Wild Rose",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 4,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WILD_ROSE",
+    "material": "DOUBLE_PLANT",
+    "durability": 4,
+    "name": "Wild Rose",
+    "tier": "COMMON",
+    "npc_sell_price": 4
+  }
+}

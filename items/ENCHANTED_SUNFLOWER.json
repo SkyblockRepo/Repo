@@ -17,6 +17,10 @@
   },
   "data": {
     "id": "ENCHANTED_SUNFLOWER",
-    "name": "Enchanted Sunflower"
+    "material": "DOUBLE_PLANT",
+    "name": "Enchanted Sunflower",
+    "tier": "UNCOMMON",
+    "glowing": true,
+    "npc_sell_price": 640
   }
 }

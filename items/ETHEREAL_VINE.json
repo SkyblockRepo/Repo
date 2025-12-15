@@ -3,7 +3,7 @@
   "name": "Ethereal Vine",
   "category": "Item",
   "source": "HypixelWiki",
-  "npcValue": 0,
+  "npcValue": 20000,
   "lore": "&7Allows you to unlock additional plant\n\n&7slots in the &aGreenhouse &7by\n\n&7right-clicking on a locked plant slot.\n\n\n\n&8''This elusive vine seems to grow''\n\n&8''wherever it pleases, bending the''\n\n&8''rules of nature.''\n\n\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -17,6 +17,9 @@
   },
   "data": {
     "id": "ETHEREAL_VINE",
-    "name": "Ethereal Vine"
+    "material": "VINE",
+    "name": "Ethereal Vine",
+    "tier": "EPIC",
+    "npc_sell_price": 20000
   }
 }

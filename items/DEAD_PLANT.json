@@ -1,0 +1,26 @@
+{
+  "internalId": "DEAD_PLANT",
+  "name": "Dead Plant",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 500,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DEAD_PLANT",
+    "material": "DEAD_BUSH",
+    "name": "Dead Plant",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 500,
+    "description": "Once full of life, now a reminder of your terrible gardening skills."
+  }
+}

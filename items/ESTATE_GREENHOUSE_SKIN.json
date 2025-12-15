@@ -1,0 +1,25 @@
+{
+  "internalId": "ESTATE_GREENHOUSE_SKIN",
+  "name": "Estate Greenhouse Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ESTATE_GREENHOUSE_SKIN",
+    "material": "QUARTZ_BLOCK",
+    "name": "Estate Greenhouse Skin",
+    "category": "COSMETIC",
+    "tier": "EPIC"
+  }
+}

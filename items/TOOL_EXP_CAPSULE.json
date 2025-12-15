@@ -1,0 +1,30 @@
+{
+  "internalId": "TOOL_EXP_CAPSULE",
+  "name": "Tool Exp Capsule",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 100000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "TOOL_EXP_CAPSULE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0Nzc1MTMyODEzNCwKICAicHJvZmlsZUlkIiA6ICJiOWIzY2RlZmIyZmQ0YWY1ODQxMGViZWZjY2ZmYTBhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbnRlcnNlY2F0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OGI4MWQ4OTM1ZmMxMDFlMzVmM2U1NGY1MzdiNjEyODIyZjE4ZmFmNzUyYTkwMDM3Y2M0MjE1YTVkYzg4MWVmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "nxXvxXQJ+9/yIP7WPwKXZiWtoBNI//tqqinEoTWI8cwS3W4x3EyutlbuHmztl0drUr7eNIWnrdaiixm6STVPhh8KChUDBsgH/Wo2qXP3NMQJQf46Tca+nWSHei5qZqu3Rl6/jxstv0zIj/zMBi3EqF37Df153NSkYJgmzCfrBAnnk2ODIE6NmSIeWa2bmqKksanx3STdv5ZUOlDPmMWJGWMyXZhajDsp2KFjYiP21qyOm1Rfr3q6Y+HklW1xy9aPowD8j583KqeeRKbWbfucU5iH3qiqi+2pxtm0o7VmhqHx4QKClrwVnPAc3JmspJPOkLJy6asTowmiO3WWp63yVD8Tc7k9cujW9Dk9HkFV/e7/j2ckwma7HHqKg1AyflNXkGanOpVoxQVbFG/ed5LP1Z3UxKblw9iYvMbmZp29rY45WzvQa5oyd8anV3hBa7mJOz37DnSGuCvrtpdq5rGzXiukGHOrGYXIM0a9OQgyRldBtF6U+39oKLoFMnVJCluK+jAQz+n3HCLlCyWHsZ7sjC+rtgnv1EuyRyC4WnBs8xQbqzxH6v/jQ50vbnnFatDgOY1dGglbE8TZDE4qKkFpPxDOZUJxTbb1VUEwXQHqerMaBhg/oPU7Ifk8NQBjB8ElrlcVHfqh3Z5yjLquDPudpSLEuCy/Xsf3Av5kH/LMMIc="
+    },
+    "name": "Tool Exp Capsule",
+    "tier": "RARE",
+    "npc_sell_price": 100000
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "internalId": "CACTUS_KNIFE_2",
+  "name": "Cactus Knife Mk. II",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CACTUS_KNIFE_2",
+    "material": "GOLD_SWORD",
+    "name": "Cactus Knife Mk. II",
+    "category": "HOE",
+    "tier": "RARE",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 15
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 7
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "CACTUS_KNIFE_2": "CACTUS_KNIFE_3"
+      },
+      "type": "RARITIES",
+      "game_stage": "SKILLED",
+      "mapped_item_ids": []
+    }
+  }
+}

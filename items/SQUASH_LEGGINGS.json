@@ -4,7 +4,7 @@
   "category": "Leggings",
   "source": "HypixelAPI",
   "npcValue": 0,
-  "lore": "&7Health: &a+180\n&7Defense: &a+35\n&7Speed: &a+5\n&7Farming Fortune: &a+30\n&7 &8[&8☘&8]\n\n&8Tiered Bonus: Mento Fermento (0/4)\n&7&7Farming Sugar Cane, Cacti,\n&7Mushrooms, and Nether Warts has a\n&7&a0.005% &7chance of dropping a\n&7Fermento. &7Grants &60☘ Farming\n&6Fortune&7.\n\n&7&8This item can be reforged!\n&7&4❣ &cRequires &aFarming Skill 35&c.\n&5&lEPIC LEGGINGS&r",
+  "lore": "&7Health: &c+180\n\n&7Defense: &a+35\n\n&7Bonus Pest Chance: &2+5%\n\n&7Farming Fortune: &6+30\n\n&7Speed: &f+5\n\n&7 &8[☘]\n\n\n\n&8Tiered Bonus: Mento Fermento (0/4)\n\n&7Farming Sugar Cane, Cacti,\n\n&7Mushrooms, and Nether Warts has a\n\n&a0.005% &7chance of dropping a\n\n&7Fermento. Grants &60☘ Farming\n\n&6Fortune&7.\n\n\n\n&8This item can be reforged!\n\n&4❣ &cRequires &aFarming Skill 35&c.\n\n&9&lRARE LEGGINGS&r",
   "flags": {
     "tradable": true,
     "bazaarable": false,
@@ -21,7 +21,7 @@
     "color": "12,74,22",
     "name": "Squash Leggings",
     "category": "LEGGINGS",
-    "tier": "EPIC",
+    "tier": "RARE",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -57,10 +57,11 @@
       "game_stage": "SKILLED"
     },
     "stats": {
+      "farming_fortune": 30,
+      "walk_speed": 5,
       "health": 180,
       "defense": 35,
-      "walk_speed": 5,
-      "FARMING_FORTUNE": 30
+      "bonus_pest_chance": 15
     }
   },
   "recipes": [

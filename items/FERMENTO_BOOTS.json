@@ -21,7 +21,7 @@
     "color": "131,176,59",
     "name": "Fermento Boots",
     "category": "BOOTS",
-    "tier": "LEGENDARY",
+    "tier": "EPIC",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -61,7 +61,9 @@
     ],
     "museum_data": {
       "donation_xp": 0,
-      "parent": {},
+      "parent": {
+        "FERMENTO": "HELIANTHUS"
+      },
       "type": "ARMOR_SETS",
       "armor_set_donation_xp": {
         "FERMENTO": 12
@@ -69,10 +71,11 @@
       "game_stage": "PROFESSIONAL"
     },
     "stats": {
+      "farming_fortune": 30,
+      "walk_speed": 5,
       "health": 130,
       "defense": 40,
-      "walk_speed": 5,
-      "FARMING_FORTUNE": 30
+      "bonus_pest_chance": 17.5
     }
   },
   "recipes": [

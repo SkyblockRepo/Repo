@@ -1,6 +1,6 @@
 {
   "internalId": "COCO_CHOPPER",
-  "name": "Cocoa Chopper",
+  "name": "Cocoa Chopper Mk. I",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,10 +17,10 @@
   },
   "data": {
     "id": "COCO_CHOPPER",
-    "material": "GOLD_AXE",
-    "name": "Cocoa Chopper",
+    "material": "IRON_AXE",
+    "name": "Cocoa Chopper Mk. I",
     "category": "AXE",
-    "tier": "EPIC",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -51,15 +51,25 @@
         ]
       }
     ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 8
+      }
+    ],
     "museum_data": {
       "donation_xp": 4,
-      "parent": {},
+      "parent": {
+        "COCO_CHOPPER": "COCO_CHOPPER_2"
+      },
       "type": "RARITIES",
       "game_stage": "INTERMEDIATE",
       "mapped_item_ids": []
-    },
-    "stats": {
-      "cocoa_beans_fortune": 20
     }
   },
   "recipes": [],

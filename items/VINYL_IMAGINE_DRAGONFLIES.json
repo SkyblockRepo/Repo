@@ -1,0 +1,26 @@
+{
+  "internalId": "VINYL_IMAGINE_DRAGONFLIES",
+  "name": "Imagine Dragonflies Vinyl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VINYL_IMAGINE_DRAGONFLIES",
+    "material": "GREEN_RECORD",
+    "name": "Imagine Dragonflies Vinyl",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50000,
+    "has_uuid": true
+  }
+}

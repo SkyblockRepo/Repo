@@ -1,6 +1,6 @@
 {
   "internalId": "PUMPKIN_DICER_3",
-  "name": "Pumpkin Dicer 3.0",
+  "name": "Pumpkin Dicer Mk. III",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,10 +17,10 @@
   },
   "data": {
     "id": "PUMPKIN_DICER_3",
-    "material": "GOLD_AXE",
-    "name": "Pumpkin Dicer 3.0",
+    "material": "DIAMOND_AXE",
+    "name": "Pumpkin Dicer Mk. III",
     "category": "AXE",
-    "tier": "LEGENDARY",
+    "tier": "EPIC",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -63,6 +63,31 @@
             "coins": 250000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 2
+          },
+          {
+            "type": "COINS",
+            "coins": 1000000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 20
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 4
       }
     ],
     "museum_data": {
@@ -72,7 +97,7 @@
       "game_stage": "EXPERT",
       "mapped_item_ids": []
     },
-    "description": "%%italic%%\"3.0 is better than the 2.0 version\" - CEO of PumpkinDicer LLC."
+    "description": "%%italic%%\"III is better than the II version\" - CEO of PumpkinDicer LLC."
   },
   "recipes": [
     {

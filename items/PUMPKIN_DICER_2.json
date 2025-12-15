@@ -1,6 +1,6 @@
 {
   "internalId": "PUMPKIN_DICER_2",
-  "name": "Pumpkin Dicer 2.0",
+  "name": "Pumpkin Dicer Mk. II",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -18,9 +18,9 @@
   "data": {
     "id": "PUMPKIN_DICER_2",
     "material": "GOLD_AXE",
-    "name": "Pumpkin Dicer 2.0",
+    "name": "Pumpkin Dicer Mk. II",
     "category": "AXE",
-    "tier": "EPIC",
+    "tier": "RARE",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -49,6 +49,31 @@
             "coins": 100000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 15
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 4
       }
     ],
     "museum_data": {
@@ -60,7 +85,7 @@
       "game_stage": "SKILLED",
       "mapped_item_ids": []
     },
-    "description": "%%italic%%Someone once said, 2 is always better than 1!"
+    "description": "%%italic%%Someone once said, II is always better than I!"
   },
   "recipes": [
     {

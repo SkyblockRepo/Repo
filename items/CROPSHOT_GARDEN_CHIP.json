@@ -3,7 +3,7 @@
   "name": "Cropshot Chip",
   "category": "Garden Chip",
   "source": "HypixelWiki",
-  "npcValue": 0,
+  "npcValue": 250000,
   "lore": "&8Garden Chip\n\n\n\n&6Ability: Cropshot \n\n&7Grants &6+3☘ Farming Fortune &7per\n\n&9Chip &7Level!\n\n\n\n&7Redeem Chips to increase their rarity!\n\n\n\n&eRight-Click to redeem!\n\n&eShift Right-Click to redeem all!\n\n\n\n&9&lRARE GARDEN CHIP&r",
   "flags": {
     "tradable": true,
@@ -17,6 +17,15 @@
   },
   "data": {
     "id": "CROPSHOT_GARDEN_CHIP",
-    "name": "Cropshot Chip"
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NjM5NDA2NjczOCwKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U4NWI2ZjkyZjAzODY3ZjgzNWQzMTc5YTQyNTU3YjRjNGJkZDM1NDVjOWE4ZTkyODViZGQzMmRhYjQ2NGQwOGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "E0O3YcfpBLZ1rtZKWmb1gHlNcbFlVLsLwNJ9nwQDP5BC/3/r8T4eht86r5vG37WBlv+EYiFhqaRrAd20ZVIhveqWdId6fyJ6cuwPxPZ4K6reiDAJ/QjhNMJbcin7Ct58DfxtSn8DyNKJXOqvQohNg8n4hS1itjJ7QSA6PC0JtHWd7Vene8jhYMq4UvfgRG0SnChRS50aEVQFcHkbc/d1b+bzkiWEtCGLWVSNr0fhIYpF4rrjgIwkDvbtZoX/RgkwIPYvXZx6htR43pwl+US1lgK4OYJO55kOX6Ou+TOFeFpC49Nunq1ssoG0+RmF2lOSkXkTYGiBdeaQYeYaiZi96wGPn8mamxR3rfDN3ZtH3eKxlvWrQzxDHghE4jo/HJvnFFl0kyuLa4546yCga0V8+8kDB0umtZcCYf3mPQxH6SI/CAmnc3TFjb/dHzKKD9E1LBYaJ4ThQsc//ydeI06wWh1yPdBdla7brh5fz7LJKq4YZcT2pmYeB5MiNHq/C8Ekh6xjpLkJnpS5UNR/lsFDe6u0yigKHtau7p06yWN6nmvsY35ecu03QXoeuK+QYyYW1pHIJVW0nDQUHBbxGmv6YQWFSg850ge+IcBmSHobkfTUuaE2XeAGD5KumffcBbfse+XrD2OKjzJgbiTov00LdGiXEEUpRuO6pqG19pZYiWE="
+    },
+    "name": "Cropshot Chip",
+    "category": "GARDEN_CHIP",
+    "tier": "RARE",
+    "npc_sell_price": 250000
   }
 }

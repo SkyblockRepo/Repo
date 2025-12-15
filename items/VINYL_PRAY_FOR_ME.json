@@ -1,0 +1,26 @@
+{
+  "internalId": "VINYL_PRAY_FOR_ME",
+  "name": "Pray For Me Vinyl",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 50000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VINYL_PRAY_FOR_ME",
+    "material": "RECORD_7",
+    "name": "Pray For Me Vinyl",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50000,
+    "has_uuid": true
+  }
+}

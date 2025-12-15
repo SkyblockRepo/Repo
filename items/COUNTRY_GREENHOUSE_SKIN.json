@@ -1,0 +1,25 @@
+{
+  "internalId": "COUNTRY_GREENHOUSE_SKIN",
+  "name": "Country Greenhouse Skin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COUNTRY_GREENHOUSE_SKIN",
+    "material": "FENCE_GATE",
+    "name": "Country Greenhouse Skin",
+    "category": "COSMETIC",
+    "tier": "UNCOMMON"
+  }
+}
