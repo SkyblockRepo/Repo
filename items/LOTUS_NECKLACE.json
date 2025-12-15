@@ -40,7 +40,9 @@
     ],
     "museum_data": {
       "donation_xp": 0,
-      "parent": {},
+      "parent": {
+        "LOTUS": "BLOSSOM"
+      },
       "type": "ARMOR_SETS",
       "armor_set_donation_xp": {
         "LOTUS": 4
@@ -48,8 +50,8 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
-      "health": 10,
-      "FARMING_FORTUNE": 5
+      "FARMING_FORTUNE": 5,
+      "health": 10
     },
     "double_tap_to_drop": true
   },

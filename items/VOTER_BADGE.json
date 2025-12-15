@@ -1,0 +1,33 @@
+{
+  "internalId": "VOTER_BADGE",
+  "name": "Voter's Badge",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VOTER_BADGE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTM0MjExNDA3NSwKICAicHJvZmlsZUlkIiA6ICJkYjZiYWRlN2NjMzI0MjM4YjU3OTQ4NzMxNTBkNjA1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJRdWFudHVtQmxvY2tlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZjg4NzAyYmQ1YmNlMDI5M2YzMDQxMWZmNDNjNzJkZmUyZjc1NmQ3ODUyZmEyNTYwNmUwZmU1MGVlMDhjZTg3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "ihU1CoaR0gz3i2VHEyxFR94NJBVKmbCwapHASOGL9qxLuloNa7pCUAia4zOroIzxcl6rn3CgJM2j1OThqwcwWSrxG77Yd2ubbItNuPU0j+1DssyCyPaRkuRg3xbBBNOgaVJZZBjc4l27dcKaDIOp+CYMZP6FiEEg6xsl0ZhSkS6itAWPiXQbMmz9YJzIBYv4+yHx6jBqtHt77y3hNRzpePqCqkrQLRTd4wxPo29k24kK53sz2GuCAQPnu3KCXIn6rzJZgTYBcyusUC0wlNkdgEByul0PLah24uDxsJeTe2qUXIH6eBfV/j6KVcm0TJ4xSzr1NPy8y8p1IaeLjX/D3zDO+VeiDXypvuOfp9E4aukMTIQYObU0UqdLVEx1JIwZq2bv0HJEdPts/cNl91pEN2yIac8USYkj0mkwnarmKMUgoICWSyJM4ZowpSbnDd8y9X4aZ7htDSz/s8uGD6DPXti/G3m/bZW5NMIePksLAiV8WjPSu6HK+tjMZKVTbDpMBRywLlVX+NKD6pguYdRMnjRMGTLrHGNib4n+AujuxhdN8SyquZxzLaWX1imMLhn05GHdWzVQjXzfPoTsfbPa8athg6DnfCui9EUdlxCqjW4YGUFgby7lY0IYNHAOM60cZOAp4V9zVWBkL8JQ+ygWcZqt66OKikmqzyU8fnxb0So="
+    },
+    "name": "Voter's Badge",
+    "category": "ACCESSORY",
+    "tier": "COMMON",
+    "npc_sell_price": 1000,
+    "can_recombobulate": false,
+    "soulbound": "COOP"
+  }
+}

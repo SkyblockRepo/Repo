@@ -1,0 +1,27 @@
+{
+  "internalId": "SUNFLOWER_GENERATOR_3",
+  "name": "Sunflower Minion III",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUNFLOWER_GENERATOR_3",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "name": "Sunflower Minion III",
+    "tier": "RARE",
+    "generator_tier": 3,
+    "generator": "SUNFLOWER"
+  }
+}

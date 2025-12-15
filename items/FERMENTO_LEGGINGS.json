@@ -21,7 +21,7 @@
     "color": "106,156,27",
     "name": "Fermento Leggings",
     "category": "LEGGINGS",
-    "tier": "LEGENDARY",
+    "tier": "EPIC",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -61,7 +61,9 @@
     ],
     "museum_data": {
       "donation_xp": 0,
-      "parent": {},
+      "parent": {
+        "FERMENTO": "HELIANTHUS"
+      },
       "type": "ARMOR_SETS",
       "armor_set_donation_xp": {
         "FERMENTO": 12
@@ -69,10 +71,11 @@
       "game_stage": "PROFESSIONAL"
     },
     "stats": {
+      "farming_fortune": 35,
+      "walk_speed": 6,
       "health": 195,
       "defense": 40,
-      "walk_speed": 6,
-      "FARMING_FORTUNE": 35
+      "bonus_pest_chance": 17.5
     }
   },
   "recipes": [

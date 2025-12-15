@@ -21,7 +21,7 @@
     "color": "187,101,53",
     "name": "Cropie Boots",
     "category": "BOOTS",
-    "tier": "RARE",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -57,10 +57,11 @@
       "game_stage": "SKILLED"
     },
     "stats": {
+      "farming_fortune": 20,
+      "walk_speed": 4,
       "health": 110,
       "defense": 30,
-      "walk_speed": 4,
-      "FARMING_FORTUNE": 20
+      "bonus_pest_chance": 12.5
     }
   },
   "recipes": [

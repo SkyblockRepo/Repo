@@ -21,7 +21,7 @@
     "color": "148,69,31",
     "name": "Cropie Leggings",
     "category": "LEGGINGS",
-    "tier": "RARE",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -57,10 +57,11 @@
       "game_stage": "SKILLED"
     },
     "stats": {
+      "farming_fortune": 25,
+      "walk_speed": 4,
       "health": 165,
       "defense": 30,
-      "walk_speed": 4,
-      "FARMING_FORTUNE": 25
+      "bonus_pest_chance": 12.5
     }
   },
   "recipes": [

@@ -3,7 +3,7 @@
   "name": "Evergreen Chip",
   "category": "Garden Chip",
   "source": "HypixelWiki",
-  "npcValue": 0,
+  "npcValue": 150000,
   "lore": "&8Garden Chip\n\n\n\n&6Ability: Evergreen \n\n&7Gain &a2% &7more base crops when\n\n&7harvesting in the &aGreenhouse &7per\n\n&9Chip &7Level!\n\n\n\n&7Redeem Chips to increase their rarity!\n\n\n\n&eRight-Click to redeem!\n\n&eShift Right-Click to redeem all!\n\n\n\n&9&lRARE GARDEN CHIP&r",
   "flags": {
     "tradable": true,
@@ -17,6 +17,15 @@
   },
   "data": {
     "id": "EVERGREEN_GARDEN_CHIP",
-    "name": "Evergreen Chip"
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NjM5NDA2ODU5NSwKICAicHJvZmlsZUlkIiA6ICI5MjI1NDBlMTRjZjI0NDI3YmExYmZjOTk3NWVmNGQ0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRmxhbnR5XyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYmZiM2Y5N2IxZTllNDQ2OTZiN2RjMmYyZTU5N2I4MDU2OWJlOGEwZWUxM2NjYzZiMDY0MjQwYTUwNGJlOTFlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "qrDg4l8bW1e9/3+fBSFDycs92QIQiQLKp1x66r24lXgv/E7ZvdTx98bAulvJ+TqX9EOD9TGmzyEPpf9LJ/b7dDngVHN01nIsXX5eba30Q47adjHk9VXAvk9pJn0NxbfnGLTNewo7ju+iBuCOrovtv1yw4G9NW1D2t1lUZlhJwoiZMXT21g3bK5xbB/J4cZ3E9AclsW6Ev6JRFRxr34I2TIGMcV2NBgJ8r/gIVEj9yIyzkT2axO3j6wS2q0P7006JqOWC2eE+3nue+zHJpTevBj0+IVBUwvrxGzMIFgIgydQDxCUYLCuTkDh7OxD+wmI3SlRR2/+BZVRPcaNWzXmiVVCU4M23/AO1v2vWEpoGbD6Qz/7v4COIvlKRDrD8XnUDCV4ITaT7K6LIxuGJqDJQh508wtiyCDVZEF3Pssu/0jybtO0SSUspLU5pqpvHHK3XsY44zqGKaYCWPU91Ptdwz95YLDRLysKP0MiKMRCnUMs4qDGBFuYEhGr5iqpK0959NbFckrpkBZnB/L9vkOnsIBcjyANMSmBi+mz31wSwYD+N6gYTQLYbvCe3kiC+Of7fkEYomQq+tNHGot5Amhh35KBRHVkpH5lACrub3Ugo5w61hcFor3B4dWpMFCPOQ7o9mK6f1e+6tkgHSsCBsxd7htXGwo3+dN60KI08BFufbM4="
+    },
+    "name": "Evergreen Chip",
+    "category": "GARDEN_CHIP",
+    "tier": "RARE",
+    "npc_sell_price": 150000
   }
 }

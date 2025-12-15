@@ -21,7 +21,7 @@
     "color": "122,41,0",
     "name": "Cropie Chestplate",
     "category": "CHESTPLATE",
-    "tier": "RARE",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -57,10 +57,11 @@
       "game_stage": "SKILLED"
     },
     "stats": {
+      "farming_fortune": 25,
+      "walk_speed": 4,
       "health": 165,
       "defense": 30,
-      "walk_speed": 4,
-      "FARMING_FORTUNE": 25
+      "bonus_pest_chance": 12.5
     }
   },
   "recipes": [

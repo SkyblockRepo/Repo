@@ -1,0 +1,56 @@
+{
+  "internalId": "BLOSSOM_CLOAK",
+  "name": "Blossom Cloak",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 10000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BLOSSOM_CLOAK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMDM1MywKICAicHJvZmlsZUlkIiA6ICIyYjcyZWYyYWUzMmQ0Zjc1OGEyMThlMDI4MTViYmNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2xrb2RhZl82MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDUzYTgwODRiNzc3M2MxYjJiYjYyMTM5MDFkYThjZmI1MGRlNWU1ZDBjOGM1MjRmZjRmYWQwZTE4MmVhNjhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "h2vhpLaPp6oEx2Rb0zHmUh0mqZmwbAqxjGRPa8vjLuuco+FikVMIB2P3xJg45HyEJeWOxSsyBhJnhbiKdrlzKNko3wsh5yHLGyijj+gTffxBnBh6uuxMir/YebgncOrO+LJY9NnIveQll8JdKOD8lCwa6liw5BKi00MBnna8FwgHIZtJXpbOc8tia7e8mq/va24JK2DFDrY0fd2ZAnlDtD1GEvOYg/c+gIa9ppaGdRpVI4Q+dRfK0EIDbN06RbllX5R4X3FJETwm1FikwTrmbRV1bl0yriLQyarMSe4YHAap8Ljdg+f3UoxuVstgSTqMK4FcRyhGEh7YAZaSQd4Q7M3BtS9KCoCOnJxPS42rrpbqeVaUoTqAWIDaXyADw9IpWhVNCCIBy6pW46sWh1CmqH2YamhtE9ik4TSEVzynA69Pchu5dbeZzwTwW5vX0T2U80GKcAh8tLcC3aOVoQFgPo6aWHzZ1shoR7FJzpOaonfyp/AfHwy2mVjfy+QXTqA+QjbDVU2TG9bD7jUZg6sMKLlJbuGZQybIVvC1NMI3dAZ11lp2mlBTgWzMQMoI9ETGDRDZtmWPi/gsfj/Sl7+RomtFz6pDRF2IG8XARI/chD5zhCdtTlkNBAga5mxi3M0PANpxXio5Z4RMnwdfXLNONKb6HDjFVCYCCqfaMVqZeP4="
+    },
+    "name": "Blossom Cloak",
+    "category": "CLOAK",
+    "tier": "EPIC",
+    "npc_sell_price": 10000,
+    "requirements": [
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 9
+      },
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 20
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": "ARMOR_SETS",
+      "armor_set_donation_xp": {
+        "BLOSSOM": 8
+      },
+      "game_stage": "EXPERT"
+    },
+    "stats": {
+      "farming_fortune": 7,
+      "health": 15
+    },
+    "double_tap_to_drop": true
+  }
+}

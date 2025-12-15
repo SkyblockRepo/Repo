@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_WARTS_3",
-  "name": "Newton Nether Warts Hoe",
+  "name": "Newton Nether Wart Hoe Mk. III",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -18,9 +18,9 @@
   "data": {
     "id": "THEORETICAL_HOE_WARTS_3",
     "material": "DIAMOND_HOE",
-    "name": "Newton Nether Warts Hoe",
+    "name": "Newton Nether Wart Hoe Mk. III",
     "category": "HOE",
-    "tier": "RARE",
+    "tier": "EPIC",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -63,13 +63,31 @@
             "coins": 250000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 2
+          },
+          {
+            "type": "COINS",
+            "coins": 1000000
+          }
+        ]
       }
     ],
     "requirements": [
       {
         "type": "SKILL",
         "skill": "FARMING",
-        "level": 25
+        "level": 20
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 10
       }
     ],
     "museum_data": {

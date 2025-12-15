@@ -1,0 +1,31 @@
+{
+  "internalId": "PHANTOMLEAF",
+  "name": "Phantomleaf",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "PHANTOMLEAF",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjc3NjA0MDE3MSwKICAicHJvZmlsZUlkIiA6ICI2NWI5NTU1YWQyMGU0NWM5YjFkNmU3MjQwNjU0NTBkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWVybCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMWMyMDZhYjA1Y2JhYzRhMjJmNTRmODc3OGMzYmZiZDg3MGYxOWMzODAxNzZmMjg4NjE0Yzc3ZDE5YjVkMTIyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "dxKrFEP9vloZuMthssPdHmHd8sU9pvxYDgPFn0yguTH0wUVUBwU0pBxBkXvK0yr/AmeK97CW8rom6oxMAExPp0AeZuuaH32U7zdCqm/2I9OHAM3H0OkClrm11kRCVF7I+H+oof5h7Bp+Onc4pYCVuUi1aL8oict8C6ic91Sh84VjAVA6868zUcNMcNlganuY8M4FD3lj+HIq2IBxNhBeolV0I2PWES1Em5VoJ5sBmemVNb9L4bTtGcsVM7ZmFV5P0W/WPma6I4gqB97cu4gxBemhGF6AuAVSkBKzcAwJQ597vTSbFdlCyfomRazVbxQhBFFWo7jsZuuvyKR1rIu9bPGMpdUHOfDFcefX/HNTANcDvGKbqbNLckwsMBf1fWkpXQuUyyMi9hN4qL/3tX9Jl7WeTYVchXkpJEWvZJrSW7fQYpannIoakvFvei9b/osN9XegtKbrFV6SslChcfyie/9HLvCyuUKXlald5A11ojxiGAjBt9nFT8+0HatcYeilGVuLqxyjRgHgrQl9qMfD9x2i2XLWE2Hu6BMBstm++BlG8F4vx0SblP8Ys/DrL+hl6010YI2tzh2ZdMHTSmx0hGeWXxSNy3wPXy9Igt75fWZF+UnmLzAGXxdrMqiOtj8kHy4f+fsBFfIF8z7eOxpe8TXiFEMyrM056HO1nDeE/Ys="
+    },
+    "name": "Phantomleaf",
+    "category": "MUTATION",
+    "tier": "LEGENDARY",
+    "description": "It hides in plain sight, blending in with its surroundings until it's ready to reveal itself. If you listen closely, you can hear its pulse guiding you to the right spot."
+  }
+}

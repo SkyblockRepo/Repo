@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_WHEAT_2",
-  "name": "Euclid's Wheat Hoe",
+  "name": "Euclid's Wheat Hoe Mk. II",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,10 +17,10 @@
   },
   "data": {
     "id": "THEORETICAL_HOE_WHEAT_2",
-    "material": "IRON_HOE",
-    "name": "Euclid's Wheat Hoe",
+    "material": "GOLD_HOE",
+    "name": "Euclid's Wheat Hoe Mk. II",
     "category": "HOE",
-    "tier": "UNCOMMON",
+    "tier": "RARE",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -49,13 +49,31 @@
             "coins": 100000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 1
+          },
+          {
+            "type": "COINS",
+            "coins": 250000
+          }
+        ]
       }
     ],
     "requirements": [
       {
         "type": "SKILL",
         "skill": "FARMING",
-        "level": 20
+        "level": 15
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 1
       }
     ],
     "museum_data": {

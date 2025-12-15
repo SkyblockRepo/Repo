@@ -41,10 +41,11 @@
       "game_stage": "INTERMEDIATE"
     },
     "stats": {
+      "farming_fortune": 20,
+      "walk_speed": 3,
       "health": 150,
       "defense": 25,
-      "walk_speed": 3,
-      "FARMING_FORTUNE": 20
+      "bonus_pest_chance": 10
     }
   },
   "recipes": [

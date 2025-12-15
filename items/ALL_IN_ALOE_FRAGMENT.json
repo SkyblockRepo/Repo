@@ -1,0 +1,26 @@
+{
+  "internalId": "ALL_IN_ALOE_FRAGMENT",
+  "name": "All-in Aloe Fragment",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "ALL_IN_ALOE_FRAGMENT",
+    "material": "GOLD_NUGGET",
+    "name": "All-in Aloe Fragment",
+    "tier": "UNCOMMON",
+    "description": "Hope you hit it big!",
+    "soulbound": "COOP"
+  }
+}

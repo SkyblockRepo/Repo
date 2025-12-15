@@ -1,6 +1,6 @@
 {
   "internalId": "MELON_DICER",
-  "name": "Melon Dicer",
+  "name": "Melon Dicer Mk. I",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,10 +17,10 @@
   },
   "data": {
     "id": "MELON_DICER",
-    "material": "DIAMOND_AXE",
-    "name": "Melon Dicer",
+    "material": "IRON_AXE",
+    "name": "Melon Dicer Mk. I",
     "category": "AXE",
-    "tier": "EPIC",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -35,6 +35,31 @@
             "coins": 50000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 6
       }
     ],
     "museum_data": {

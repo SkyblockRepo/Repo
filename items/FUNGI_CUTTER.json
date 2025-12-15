@@ -1,6 +1,6 @@
 {
   "internalId": "FUNGI_CUTTER",
-  "name": "Fungi Cutter",
+  "name": "Fungi Cutter Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -17,10 +17,10 @@
   },
   "data": {
     "id": "FUNGI_CUTTER",
-    "material": "GOLD_HOE",
-    "name": "Fungi Cutter",
+    "material": "IRON_HOE",
+    "name": "Fungi Cutter Mk. I",
     "category": "HOE",
-    "tier": "EPIC",
+    "tier": "UNCOMMON",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -56,11 +56,17 @@
         "type": "SKILL",
         "skill": "FARMING",
         "level": 10
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 9
       }
     ],
     "museum_data": {
       "donation_xp": 4,
-      "parent": {},
+      "parent": {
+        "FUNGI_CUTTER": "FUNGI_CUTTER_2"
+      },
       "type": "RARITIES",
       "game_stage": "INTERMEDIATE",
       "mapped_item_ids": []

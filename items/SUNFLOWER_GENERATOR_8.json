@@ -1,0 +1,27 @@
+{
+  "internalId": "SUNFLOWER_GENERATOR_8",
+  "name": "Sunflower Minion VIII",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SUNFLOWER_GENERATOR_8",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "name": "Sunflower Minion VIII",
+    "tier": "RARE",
+    "generator_tier": 8,
+    "generator": "SUNFLOWER"
+  }
+}

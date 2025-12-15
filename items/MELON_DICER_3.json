@@ -1,6 +1,6 @@
 {
   "internalId": "MELON_DICER_3",
-  "name": "Melon Dicer 3.0",
+  "name": "Melon Dicer Mk. III",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -18,9 +18,9 @@
   "data": {
     "id": "MELON_DICER_3",
     "material": "DIAMOND_AXE",
-    "name": "Melon Dicer 3.0",
+    "name": "Melon Dicer Mk. III",
     "category": "AXE",
-    "tier": "LEGENDARY",
+    "tier": "EPIC",
     "gemstone_slots": [
       {
         "slot_type": "PERIDOT",
@@ -63,6 +63,31 @@
             "coins": 250000
           }
         ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FLAWLESS_PERIDOT_GEM",
+            "amount": 2
+          },
+          {
+            "type": "COINS",
+            "coins": 1000000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 20
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 6
       }
     ],
     "museum_data": {
@@ -72,7 +97,7 @@
       "game_stage": "EXPERT",
       "mapped_item_ids": []
     },
-    "description": "%%italic%%Almost identical to the Melon Dicer 2.0, but it has 3.0 in the name!"
+    "description": "%%italic%%Almost identical to the Melon Dicer Mk. II, but it has Mk. III in the name!"
   },
   "recipes": [
     {

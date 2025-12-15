@@ -3,7 +3,7 @@
   "name": "Sowledge Chip",
   "category": "Garden Chip",
   "source": "HypixelWiki",
-  "npcValue": 0,
+  "npcValue": 100000,
   "lore": "&8Garden Chip\n\n\n\n&6Ability: Sowledge \n\n&7Grants &3+1☯ Farming Wisdom &7per &9Chip\n\n&7Level!\n\n\n\n&7Redeem Chips to increase their rarity!\n\n\n\n&eRight-Click to redeem!\n\n&eShift Right-Click to redeem all!\n\n\n\n&9&lRARE GARDEN CHIP&r",
   "flags": {
     "tradable": true,
@@ -17,6 +17,15 @@
   },
   "data": {
     "id": "SOWLEDGE_GARDEN_CHIP",
-    "name": "Sowledge Chip"
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NjM5NDA3ODE3NiwKICAicHJvZmlsZUlkIiA6ICJiMTM1MDRmMjMxOGI0OWNjYWFkZDcyYWVhYmMyNTQ1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeXBrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU5NmVlZjEwYWVmZWJkM2ZhOWY4YzcyNjY0ZGRmYjA0NWZiNTE1ZWFhMmI4NDQ0YWM3YzVkODkxZjYzZmIwYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "signature": "JwTzzL39bfCbBCF1eQX/iNF50zc/ccGj10FeWzXL/J2Gv1UDYiYfGGTkErb+7DeYR6l6VuxjHdmUwlrmgjMFBbYGxeR6bpCB0F6t0DlKB7X3Zrv08cgcKzLYhovHh9oBR9fmMwpKva0Xh/scKHGljSjNlEFlN9JeXUVKIWBXSqXftzzQKNzVjFXfLPYUteN0vNNUOlVFJTX2V86DRdUcJ041RgPPJp1gyIWTzXa5Rbop5BamGgY2W3gmqVtkkY+pFoe8JD1Ofi4tKTyCPfqRsLEhQwztt8cm9/ak7sRoIRHMYazupr/10kiQ1qUnp12vLeptusa1HzB23sCW9DDPTpaI+UUVAd6P2tN2nWU+0+oqt/tz4b1oTA176I1cDLOMBLJ7vsd0h32lxeAskI9kBvy963IZRwMnJkkrtxuh26DcNuO2P8YRjihVKcG041V/8necPOLuZGbhE64jb0rdwnBwYF5DhPlCF2FFgq8Xt9lEnBC8BBpFh2fe1LSHQCDoDwmkZ9ZeAJ6bYpiEXc1iiQEjEQb44impvOFAlbQlCMCpWIRkwC2oqHWRYQj47jw2cJBKVUqLECjTRF+DkKyhbWTmZkyWqNwXp2i0IhUBPT3LTtEeFd6lzb6yBqGEe0+tHMIdORUDMF7wBiKlfOwWe/B3z9bQcz4PJBqcXer5F8s="
+    },
+    "name": "Sowledge Chip",
+    "category": "GARDEN_CHIP",
+    "tier": "RARE",
+    "npc_sell_price": 100000
   }
 }

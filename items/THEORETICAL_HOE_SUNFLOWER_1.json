@@ -1,0 +1,75 @@
+{
+  "internalId": "THEORETICAL_HOE_SUNFLOWER_1",
+  "name": "Eclipse Hoe Mk. I",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THEORETICAL_HOE_SUNFLOWER_1",
+    "material": "IRON_HOE",
+    "name": "Eclipse Hoe Mk. I",
+    "category": "HOE",
+    "tier": "UNCOMMON",
+    "gemstone_slots": [
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 20
+          },
+          {
+            "type": "COINS",
+            "coins": 50000
+          }
+        ]
+      },
+      {
+        "slot_type": "PERIDOT",
+        "costs": [
+          {
+            "type": "ITEM",
+            "item_id": "FINE_PERIDOT_GEM",
+            "amount": 40
+          },
+          {
+            "type": "COINS",
+            "coins": 100000
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "FARMING",
+        "level": 10
+      },
+      {
+        "type": "GARDEN_LEVEL",
+        "level": 12
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "THEORETICAL_HOE_SUNFLOWER_1": "THEORETICAL_HOE_SUNFLOWER_2"
+      },
+      "type": "RARITIES",
+      "game_stage": "INTERMEDIATE",
+      "mapped_item_ids": []
+    }
+  }
+}

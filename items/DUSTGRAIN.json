@@ -1,0 +1,31 @@
+{
+  "internalId": "DUSTGRAIN",
+  "name": "Dustgrain",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "DUSTGRAIN",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2NTQ2MDQ0NSwKICAicHJvZmlsZUlkIiA6ICI1MzgyNzM1OGIzOTc0ZmJiOTg0OTY5MWM5Yzg3NTA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdmVyQmlnYm95MTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2OTgzMzFmMTgzYTU4NmFlNzI1OGQ2YjNjODNjY2QzNjIwYmIyNDExZDgwMzEyM2JkNjcwNjQ0NGMxZWZkZjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "signature": "vJ5Mq1V6C10q9/lTRLDC0nhhs0g1uew5IyVy5tmfAGPvYXxKAsgD6hbbqWfmMRz5IPxM12+xaQOyOvKo5mQb4CDB4AfE5VY4D2YNHGLQMrvmCKAOurnRy3dvetnwtIPzx9eMPWuO1zcJkDWMmMj1MDSkV/9Kruh3sTsQ7ZVB19jlmmHbWPy67CbXO2GFDfVI2kt+3TDrBWvTF8/jffLTUIKb1w/TMovcBf6q/QVv7bAcSirFMXAiUZpYhGAFV4jciGFPQqYmQdgLUafLVGq5cIqh6BzDINgyOiIqPCfCoMieBBkrMPAyttthhrK/T2hhbtjd7i73NE28ktct0iatDoPHtBjtTWtqKd3grdLf2ekODHOXKJuciuMf8k6Fiw4jKfBEuJiR/AOOxqVF5Xq8DL4bYZNgF585XXLDSFVIMBWOwEFCY56MGhpkkGdb78+LO9SEFwsWpLrWZCklf2QzAdovfgzxeCQ3Xaad1AGVk7EfeDCCAsYBJUwUi6hrsp9JtSq/6TVqchLJppVGGVvhWoE8m8OXPqIwBU1nSOZT0THfi6UFEsDiSYk022Gqv9LEEBK009JScBskuT8qghleRQjVy4jBSl3ah4w35Tu4DFcwV2Kj0F0HzkbCrqytgPoNtSuxuugY8ih4LylxevlgalyGXIiTsaov3ckXfQ48A0M="
+    },
+    "name": "Dustgrain",
+    "category": "MUTATION",
+    "tier": "COMMON",
+    "description": "Fragile and dry, it crumbles with the slightest touch."
+  }
+}
