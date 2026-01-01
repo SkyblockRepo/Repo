@@ -24,16 +24,6 @@
   "recipes": [],
   "soldBy": [
     {
-      "id": "NPC_SHERRY",
-      "name": "Sherry",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 1
-        }
-      ]
-    },
-    {
       "id": "NPC_BUILDER_CLASSIC",
       "name": "Builder",
       "cost": [
@@ -43,6 +33,16 @@
         }
       ],
       "amount": 8
+    },
+    {
+      "id": "NPC_SHERRY",
+      "name": "Sherry",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 1
+        }
+      ]
     }
   ]
 }

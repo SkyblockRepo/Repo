@@ -28,23 +28,23 @@
   "recipes": [],
   "soldBy": [
     {
-      "id": "NPC_OPHELIA",
-      "name": "Ophelia",
-      "cost": [
-        {
-          "type": "COINS",
-          "amount": 200
-        }
-      ],
-      "amount": 20
-    },
-    {
       "id": "NPC_GREGORY",
       "name": "Gregory",
       "cost": [
         {
           "type": "COINS",
           "amount": 240
+        }
+      ],
+      "amount": 20
+    },
+    {
+      "id": "NPC_OPHELIA",
+      "name": "Ophelia",
+      "cost": [
+        {
+          "type": "COINS",
+          "amount": 200
         }
       ],
       "amount": 20
