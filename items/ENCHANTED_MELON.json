@@ -25,57 +25,29 @@
   },
   "recipes": [
     {
-      "name": "fourth",
+      "name": "first",
       "type": "crafting",
       "resultId": "ENCHANTED_MELON",
-      "resultQuantity": 9,
+      "resultQuantity": 1,
       "crafting": {
-        "1": {
-          "itemId": "MELON_BLOCK",
-          "quantity": 32
-        },
         "2": {
-          "itemId": "MELON_BLOCK",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "MELON_BLOCK",
+          "itemId": "MELON",
           "quantity": 32
         },
         "4": {
-          "itemId": "MELON_BLOCK",
+          "itemId": "MELON",
           "quantity": 32
         },
         "5": {
-          "itemId": "MELON_BLOCK",
-          "quantity": 32
-        }
-      }
-    },
-    {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "ENCHANTED_MELON",
-      "resultQuantity": 9,
-      "crafting": {
-        "2": {
-          "itemId": "MELON_BLOCK",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "MELON_BLOCK",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "MELON_BLOCK",
+          "itemId": "MELON",
           "quantity": 32
         },
         "6": {
-          "itemId": "MELON_BLOCK",
+          "itemId": "MELON",
           "quantity": 32
         },
         "8": {
-          "itemId": "MELON_BLOCK",
+          "itemId": "MELON",
           "quantity": 32
         }
       }
@@ -109,29 +81,57 @@
       }
     },
     {
-      "name": "first",
+      "name": "third",
       "type": "crafting",
       "resultId": "ENCHANTED_MELON",
-      "resultQuantity": 1,
+      "resultQuantity": 9,
       "crafting": {
         "2": {
-          "itemId": "MELON",
+          "itemId": "MELON_BLOCK",
           "quantity": 32
         },
         "4": {
-          "itemId": "MELON",
+          "itemId": "MELON_BLOCK",
           "quantity": 32
         },
         "5": {
-          "itemId": "MELON",
+          "itemId": "MELON_BLOCK",
           "quantity": 32
         },
         "6": {
-          "itemId": "MELON",
+          "itemId": "MELON_BLOCK",
           "quantity": 32
         },
         "8": {
-          "itemId": "MELON",
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "ENCHANTED_MELON",
+      "resultQuantity": 9,
+      "crafting": {
+        "1": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "MELON_BLOCK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "MELON_BLOCK",
           "quantity": 32
         }
       }

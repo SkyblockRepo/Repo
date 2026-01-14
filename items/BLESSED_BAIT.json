@@ -30,14 +30,14 @@
   },
   "recipes": [
     {
-      "name": "second",
+      "name": "first",
       "type": "crafting",
       "resultId": "BLESSED_BAIT",
       "resultQuantity": 1,
       "crafting": {
         "4": {
-          "itemId": "GOLD_INGOT",
-          "quantity": 9
+          "itemId": "GOLD_BLOCK",
+          "quantity": 1
         },
         "5": {
           "itemId": "RAW_FISH",
@@ -50,14 +50,14 @@
       }
     },
     {
-      "name": "first",
+      "name": "second",
       "type": "crafting",
       "resultId": "BLESSED_BAIT",
       "resultQuantity": 1,
       "crafting": {
         "4": {
-          "itemId": "GOLD_BLOCK",
-          "quantity": 1
+          "itemId": "GOLD_INGOT",
+          "quantity": 9
         },
         "5": {
           "itemId": "RAW_FISH",

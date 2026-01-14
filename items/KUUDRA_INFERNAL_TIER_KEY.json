@@ -24,48 +24,24 @@
   },
   "recipes": [
     {
-      "name": "fourth",
+      "name": "first",
       "type": "crafting",
       "resultId": "KUUDRA_INFERNAL_TIER_KEY",
       "resultQuantity": 1,
       "crafting": {
+        "1": {
+          "itemId": "KUUDRA_FIERY_TIER_KEY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "KUUDRA_FIERY_TIER_KEY",
+          "quantity": 1
+        },
         "4": {
           "itemId": "KUUDRA_FIERY_TIER_KEY",
           "quantity": 1
         },
         "5": {
-          "itemId": "KUUDRA_FIERY_TIER_KEY",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "KUUDRA_FIERY_TIER_KEY",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "KUUDRA_FIERY_TIER_KEY",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "KUUDRA_INFERNAL_TIER_KEY",
-      "resultQuantity": 1,
-      "crafting": {
-        "5": {
-          "itemId": "KUUDRA_FIERY_TIER_KEY",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "KUUDRA_FIERY_TIER_KEY",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "KUUDRA_FIERY_TIER_KEY",
-          "quantity": 1
-        },
-        "9": {
           "itemId": "KUUDRA_FIERY_TIER_KEY",
           "quantity": 1
         }
@@ -96,24 +72,48 @@
       }
     },
     {
-      "name": "first",
+      "name": "third",
       "type": "crafting",
       "resultId": "KUUDRA_INFERNAL_TIER_KEY",
       "resultQuantity": 1,
       "crafting": {
-        "1": {
+        "5": {
           "itemId": "KUUDRA_FIERY_TIER_KEY",
           "quantity": 1
         },
-        "2": {
+        "6": {
           "itemId": "KUUDRA_FIERY_TIER_KEY",
           "quantity": 1
         },
+        "8": {
+          "itemId": "KUUDRA_FIERY_TIER_KEY",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "KUUDRA_FIERY_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "fourth",
+      "type": "crafting",
+      "resultId": "KUUDRA_INFERNAL_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
         "4": {
           "itemId": "KUUDRA_FIERY_TIER_KEY",
           "quantity": 1
         },
         "5": {
+          "itemId": "KUUDRA_FIERY_TIER_KEY",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "KUUDRA_FIERY_TIER_KEY",
+          "quantity": 1
+        },
+        "8": {
           "itemId": "KUUDRA_FIERY_TIER_KEY",
           "quantity": 1
         }

@@ -112,6 +112,30 @@
       }
     },
     {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "FROZEN_SCYTHE",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "ENCHANTED_PACKED_ICE",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "STICK",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "STICK",
+          "quantity": 1
+        }
+      }
+    },
+    {
       "name": "third",
       "type": "crafting",
       "resultId": "FROZEN_SCYTHE",
@@ -154,30 +178,6 @@
           "quantity": 1
         },
         "9": {
-          "itemId": "STICK",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "FROZEN_SCYTHE",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_PACKED_ICE",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "ENCHANTED_PACKED_ICE",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "STICK",
-          "quantity": 1
-        },
-        "7": {
           "itemId": "STICK",
           "quantity": 1
         }

@@ -25,29 +25,29 @@
   },
   "recipes": [
     {
-      "name": "fourth",
+      "name": "first",
       "type": "crafting",
       "resultId": "ENCHANTED_GLOWSTONE_DUST",
-      "resultQuantity": 4,
+      "resultQuantity": 1,
       "crafting": {
-        "1": {
-          "itemId": "GLOWSTONE",
-          "quantity": 32
-        },
         "2": {
-          "itemId": "GLOWSTONE",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "GLOWSTONE",
+          "itemId": "GLOWSTONE_DUST",
           "quantity": 32
         },
         "4": {
-          "itemId": "GLOWSTONE",
+          "itemId": "GLOWSTONE_DUST",
           "quantity": 32
         },
         "5": {
-          "itemId": "GLOWSTONE",
+          "itemId": "GLOWSTONE_DUST",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "GLOWSTONE_DUST",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "GLOWSTONE_DUST",
           "quantity": 32
         }
       }
@@ -109,29 +109,29 @@
       }
     },
     {
-      "name": "first",
+      "name": "fourth",
       "type": "crafting",
       "resultId": "ENCHANTED_GLOWSTONE_DUST",
-      "resultQuantity": 1,
+      "resultQuantity": 4,
       "crafting": {
+        "1": {
+          "itemId": "GLOWSTONE",
+          "quantity": 32
+        },
         "2": {
-          "itemId": "GLOWSTONE_DUST",
+          "itemId": "GLOWSTONE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "GLOWSTONE",
           "quantity": 32
         },
         "4": {
-          "itemId": "GLOWSTONE_DUST",
+          "itemId": "GLOWSTONE",
           "quantity": 32
         },
         "5": {
-          "itemId": "GLOWSTONE_DUST",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "GLOWSTONE_DUST",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "GLOWSTONE_DUST",
+          "itemId": "GLOWSTONE",
           "quantity": 32
         }
       }
