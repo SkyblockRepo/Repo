@@ -25,21 +25,21 @@
   },
   "recipes": [
     {
-      "name": "first",
+      "name": "third",
       "type": "crafting",
       "resultId": "ENCHANTED_PAPER",
       "resultQuantity": 1,
       "crafting": {
         "3": {
-          "itemId": "SUGAR_CANE",
+          "itemId": "PAPER",
           "quantity": 64
         },
         "5": {
-          "itemId": "SUGAR_CANE",
+          "itemId": "PAPER",
           "quantity": 64
         },
         "7": {
-          "itemId": "SUGAR_CANE",
+          "itemId": "PAPER",
           "quantity": 64
         }
       }
@@ -77,26 +77,6 @@
       }
     },
     {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "ENCHANTED_PAPER",
-      "resultQuantity": 1,
-      "crafting": {
-        "3": {
-          "itemId": "PAPER",
-          "quantity": 64
-        },
-        "5": {
-          "itemId": "PAPER",
-          "quantity": 64
-        },
-        "7": {
-          "itemId": "PAPER",
-          "quantity": 64
-        }
-      }
-    },
-    {
       "name": "fourth",
       "type": "crafting",
       "resultId": "ENCHANTED_PAPER",
@@ -124,6 +104,26 @@
         },
         "6": {
           "itemId": "PAPER",
+          "quantity": 64
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_PAPER",
+      "resultQuantity": 1,
+      "crafting": {
+        "3": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "5": {
+          "itemId": "SUGAR_CANE",
+          "quantity": 64
+        },
+        "7": {
+          "itemId": "SUGAR_CANE",
           "quantity": 64
         }
       }
