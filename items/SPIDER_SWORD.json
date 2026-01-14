@@ -77,20 +77,20 @@
   },
   "recipes": [
     {
-      "name": "first",
+      "name": "third",
       "type": "crafting",
       "resultId": "SPIDER_SWORD",
       "resultQuantity": 1,
       "crafting": {
-        "2": {
+        "3": {
           "itemId": "SPIDER_EYE",
           "quantity": 1
         },
-        "5": {
+        "6": {
           "itemId": "SPIDER_EYE",
           "quantity": 1
         },
-        "8": {
+        "9": {
           "itemId": "STICK",
           "quantity": 1
         }
@@ -117,20 +117,20 @@
       }
     },
     {
-      "name": "third",
+      "name": "first",
       "type": "crafting",
       "resultId": "SPIDER_SWORD",
       "resultQuantity": 1,
       "crafting": {
-        "3": {
+        "2": {
           "itemId": "SPIDER_EYE",
           "quantity": 1
         },
-        "6": {
+        "5": {
           "itemId": "SPIDER_EYE",
           "quantity": 1
         },
-        "9": {
+        "8": {
           "itemId": "STICK",
           "quantity": 1
         }

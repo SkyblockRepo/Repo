@@ -122,34 +122,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "UNSTABLE_DRAGON_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "UNSTABLE_FRAGMENT",
-          "quantity": 10
-        },
-        "2": {
-          "itemId": "UNSTABLE_FRAGMENT",
-          "quantity": 10
-        },
-        "3": {
-          "itemId": "UNSTABLE_FRAGMENT",
-          "quantity": 10
-        },
-        "4": {
-          "itemId": "UNSTABLE_FRAGMENT",
-          "quantity": 10
-        },
-        "6": {
-          "itemId": "UNSTABLE_FRAGMENT",
-          "quantity": 10
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "UNSTABLE_DRAGON_HELMET",
@@ -172,6 +144,34 @@
           "quantity": 10
         },
         "9": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "UNSTABLE_DRAGON_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "2": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "3": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "4": {
+          "itemId": "UNSTABLE_FRAGMENT",
+          "quantity": 10
+        },
+        "6": {
           "itemId": "UNSTABLE_FRAGMENT",
           "quantity": 10
         }

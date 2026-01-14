@@ -39,34 +39,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MINER_OUTFIT_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "IRON_BLOCK",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "MINER_OUTFIT_HELMET",
@@ -89,6 +61,34 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MINER_OUTFIT_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "IRON_BLOCK",
+          "quantity": 1
+        },
+        "6": {
           "itemId": "IRON_BLOCK",
           "quantity": 1
         }

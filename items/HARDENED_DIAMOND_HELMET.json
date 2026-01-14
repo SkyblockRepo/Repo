@@ -80,34 +80,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "HARDENED_DIAMOND_HELMET",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_DIAMOND",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "ENCHANTED_DIAMOND",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "ENCHANTED_DIAMOND",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "ENCHANTED_DIAMOND",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_DIAMOND",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "HARDENED_DIAMOND_HELMET",
@@ -130,6 +102,34 @@
           "quantity": 1
         },
         "9": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HARDENED_DIAMOND_HELMET",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_DIAMOND",
+          "quantity": 1
+        },
+        "6": {
           "itemId": "ENCHANTED_DIAMOND",
           "quantity": 1
         }

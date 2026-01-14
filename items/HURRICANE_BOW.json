@@ -36,38 +36,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "HURRICANE_BOW",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_BONE",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "STRING",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "ENCHANTED_BONE",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "STRING",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "ENCHANTED_BONE",
-          "quantity": 32
-        },
-        "9": {
-          "itemId": "STRING",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "HURRICANE_BOW",
@@ -95,6 +63,38 @@
         },
         "8": {
           "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "HURRICANE_BOW",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "STRING",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "STRING",
+          "quantity": 32
+        },
+        "8": {
+          "itemId": "ENCHANTED_BONE",
+          "quantity": 32
+        },
+        "9": {
+          "itemId": "STRING",
           "quantity": 32
         }
       }
