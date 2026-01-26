@@ -1,0 +1,143 @@
+{
+  "internalId": "CROW",
+  "name": "Crow",
+  "category": "Combat",
+  "source": "HypixelWiki",
+  "flags": {
+    "auctionable": true,
+    "mountable": false,
+    "tradable": true,
+    "museumable": false
+  },
+  "baseStats": [
+    "Intelligence",
+    "Ability Damage"
+  ],
+  "maxLevel": 100,
+  "minLevel": 1,
+  "rarities": {
+    "COMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &fCrow\n&8Combat Pet\n\n&7Intelligence: &b+1.5\n&7Ability Damage: &c+0.2%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a3%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f&lCOMMON&r",
+        "max": "&7[Lvl 100] &fCrow\n&8Combat Pet\n\n&7Intelligence: &b+150\n&7Ability Damage: &c+20%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a5%&7.\n\n&b&lMAX LEVEL&r\n&8▸ 5,624,785 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&f&lCOMMON&r"
+      },
+      "value": 10000,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es="
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 249250
+        },
+        {
+          "type": "ITEM",
+          "item_id": "ENCHANTED_MOONFLOWER",
+          "amount": 128
+        }
+      ],
+      "katUpgradeSeconds": 86400
+    },
+    "UNCOMMON": {
+      "lore": {
+        "min": "&7[Lvl 1] &aCrow\n&8Combat Pet\n\n&7Intelligence: &b+1.5\n&7Ability Damage: &c+0.2%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a3.1%&7.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r",
+        "max": "&7[Lvl 100] &aCrow\n&8Combat Pet\n\n&7Intelligence: &b+150\n&7Ability Damage: &c+20%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a10%&7.\n\n&b&lMAX LEVEL&r\n&8▸ 8,644,220 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&a&lUNCOMMON&r"
+      },
+      "value": 250000,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es="
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 997000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COMPACTED_MOONFLOWER",
+          "amount": 4
+        },
+        {
+          "type": "ITEM",
+          "item_id": "VEILSHROOM",
+          "amount": 2
+        }
+      ],
+      "katUpgradeSeconds": 172800
+    },
+    "RARE": {
+      "lore": {
+        "min": "&7[Lvl 1] &9Crow\n&8Combat Pet\n\n&7Intelligence: &b+1.5\n&7Ability Damage: &c+0.2%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a3.1%&7.\n\n&6Camouflage\n&7After casting an ability, increase\n&7your &a❈ Defense &7by &a+5.1 &7for &b20\n&bseconds&7.\n&8Capped at 500 Defense\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r",
+        "max": "&7[Lvl 100] &9Crow\n&8Combat Pet\n\n&7Intelligence: &b+150\n&7Ability Damage: &c+20%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a10%&7.\n\n&6Camouflage\n&7After casting an ability, increase\n&7your &a❈ Defense &7by &a+15 &7for &b20\n&bseconds&7.\n&8Capped at 500 Defense\n\n&b&lMAX LEVEL&r\n&8▸ 12,626,665 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&9&lRARE&r"
+      },
+      "value": 500000,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es="
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 4985000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COMPACTED_MOONFLOWER",
+          "amount": 8
+        },
+        {
+          "type": "ITEM",
+          "item_id": "DUSKBLOOM",
+          "amount": 4
+        }
+      ],
+      "katUpgradeSeconds": 259200
+    },
+    "EPIC": {
+      "lore": {
+        "min": "&7[Lvl 1] &5Crow\n&8Combat Pet\n\n&7Intelligence: &b+1.5\n&7Ability Damage: &c+0.2%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a3.1%&7.\n\n&6Camouflage\n&7After casting an ability, increase\n&7your &a❈ Defense &7by &a+5.2 &7for &b20\n&bseconds&7.\n&8Capped at 500 Defense\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r",
+        "max": "&7[Lvl 100] &5Crow\n&8Combat Pet\n\n&7Intelligence: &b+150\n&7Ability Damage: &c+20%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a15%&7.\n\n&6Camouflage\n&7After casting an ability, increase\n&7your &a❈ Defense &7by &a+20 &7for &b20\n&bseconds&7.\n&8Capped at 500 Defense\n\n&b&lMAX LEVEL&r\n&8▸ 18,608,500 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&5&lEPIC&r"
+      },
+      "value": 1000000,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es="
+      },
+      "katUpgradeable": true,
+      "katUpgradeCosts": [
+        {
+          "type": "COINS",
+          "amount": 9970000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "COMPACTED_MOONFLOWER",
+          "amount": 16
+        },
+        {
+          "type": "ITEM",
+          "item_id": "DO_NOT_EAT_SHROOM",
+          "amount": 8
+        }
+      ],
+      "katUpgradeSeconds": 432000
+    },
+    "LEGENDARY": {
+      "lore": {
+        "min": "&7[Lvl 1] &6Crow\n&8Combat Pet\n\n&7Intelligence: &b+1.5\n&7Ability Damage: &c+0.2%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a3.1%&7.\n\n&6Camouflage\n&7After casting an ability, increase\n&7your &a❈ Defense &7by &a+5.2 &7for &b20\n&bseconds&7.\n&8Capped at 500 Defense\n\n&6Insightful\n&7Gives a &a3.1% &7chance to not consume\n&7Mana when using an ability.\n\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r",
+        "max": "&7[Lvl 100] &6Crow\n&8Combat Pet\n\n&7Intelligence: &b+150\n&7Ability Damage: &c+20%\n\n&6Quick Hands\n&7Lowers the cooldown of your\n&7abilities by &a15%&7.\n\n&6Camouflage\n&7After casting an ability, increase\n&7your &a❈ Defense &7by &a+20 &7for &b20\n&bseconds&7.\n&8Capped at 500 Defense\n\n&6Insightful\n&7Gives a &a15% &7chance to not consume\n&7Mana when using an ability.\n\n&b&lMAX LEVEL&r\n&8▸ 25,353,230 XP\n\n&eRight-click to add this pet to your \n&epet menu!\n\n&6&lLEGENDARY&r"
+      },
+      "value": 2500000,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "signature": "eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es="
+      },
+      "katUpgradeable": false
+    }
+  }
+}
