@@ -17,12 +17,14 @@
   },
   "data": {
     "id": "WITHER_SHIELD_SCROLL",
-    "material": "BOOK_AND_QUILL",
+    "material": "PAPER",
     "name": "Wither Shield",
     "tier": "EPIC",
+    "unstackable": true,
     "glowing": true,
     "npc_sell_price": 1,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "item_model": "minecraft:writable_book"
   },
   "recipes": []
 }

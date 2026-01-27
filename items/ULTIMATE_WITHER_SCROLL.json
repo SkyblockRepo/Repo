@@ -17,15 +17,17 @@
   },
   "data": {
     "id": "ULTIMATE_WITHER_SCROLL",
-    "material": "BOOK_AND_QUILL",
+    "material": "PAPER",
     "name": "Ultimate Wither Scroll",
     "tier": "EPIC",
+    "unstackable": true,
     "glowing": true,
     "stats": {
       "WEAPON_ABILITY_DAMAGE": 10000
     },
     "ability_damage_scaling": 0.3,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "item_model": "minecraft:writable_book"
   },
   "recipes": []
 }

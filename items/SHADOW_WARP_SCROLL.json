@@ -17,16 +17,18 @@
   },
   "data": {
     "id": "SHADOW_WARP_SCROLL",
-    "material": "BOOK_AND_QUILL",
+    "material": "PAPER",
     "name": "Shadow Warp",
     "tier": "EPIC",
+    "unstackable": true,
     "glowing": true,
     "npc_sell_price": 1,
     "stats": {
       "WEAPON_ABILITY_DAMAGE": 10000
     },
     "ability_damage_scaling": 0.3,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "item_model": "minecraft:writable_book"
   },
   "recipes": []
 }
