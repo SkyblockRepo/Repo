@@ -17,10 +17,12 @@
   },
   "data": {
     "id": "SAPPHIRE_POWER_SCROLL",
-    "material": "BOOK_AND_QUILL",
+    "material": "PAPER",
     "name": "Sapphire Power Scroll",
     "tier": "EPIC",
-    "glowing": true
+    "unstackable": true,
+    "glowing": true,
+    "item_model": "minecraft:writable_book"
   },
   "recipes": [
     {
