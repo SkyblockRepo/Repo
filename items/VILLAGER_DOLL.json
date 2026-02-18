@@ -1,0 +1,36 @@
+{
+  "internalId": "VILLAGER_DOLL",
+  "name": "Villager Doll",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VILLAGER_DOLL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1MTg0MzIxMDUwNCwKICAicHJvZmlsZUlkIiA6ICJlYTdiMmRmZDZjNGU0NDU0YWQ2YWMwZDFjZWNjYjNhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGV2ZW5DaGFycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTI1NDg0ZWI2MjFjMTNiOWQ2ODEzZmU5NmMwNWRmMzg4NThhZTk5N2ZjZjVjMGY0ZGNkOTAwOTM1YWUxNjk1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "BG/baPBQ4TD2gIXcg5nnnTNOBAijvXnBvtaLXZkInn8CjCgTZKueR4/gU4mW3yQhdg1y9CBRGzka0Spixyw05BCFMM5QsQnI7+yihrzabwsd83rgHCPSROwIRgVeBGfsnLWJ7NeiGNIYsoqZ8fmvArbx7sZs3KOEVKHatPGFJm4o8bTGvxJH7/tqpjd/vxkR95o/w0dsyUnZ3vsgxgoDmsuyjIcPCYn8JwBLBC4V/fAyO1vp1YxoKGUUx4Cj3X8qtKmMUgFFGjwrsONup6ksXaPEe8IPIjPtc/G6VO8R/7Kee8tk1YH+5mcdB3WXX874tdEAhUzIdhyLftHkWALeiTvh3cNLjI/q33I3FiMnOCycp8J1fGXk4LAQN+t+fTAOOdLcm2yGjn7Cp4cFgxA0YFl5YDYNla1YOfQRJBHXL1q9bCtBQrMQgJRld2qdwwHpXgHfAAiwdOe9QKjbznR+vwaNgroNJtuX+Lh7n0mWfFnzlAB+EkG3/NMyjmhuDFEdRjxDs/eN9vhB9WWdniyYjwcJIxkSz6BT96iKAk5xs4wr/kFVBDc0uvnA28bQ82RrUrwEZRn4x0JJg/+GSF7l2zxlw4xd8mxluBnePYp/y9+tBFvBylG60iMEtwrrsz8A7ZIesM1IZARrHl/eZuD/V9eFdfSFlyGNOhha9FRZvoE="
+    },
+    "name": "Villager Doll",
+    "category": "MEMENTO",
+    "tier": "SPECIAL",
+    "unstackable": true,
+    "item_specific": {
+      "memorable_event_key": "hub_revamp"
+    },
+    "description": "%%dark_gray%%%%italic%%An ugly doll of a villager. Holding it evokes suppressed memories of walking aimlessly in circles around the Hub for hours on end.",
+    "editioned": false
+  }
+}
