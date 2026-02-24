@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_CANE_3",
-  "name": "Turing Sugar Cane Hoe",
+  "name": "Turing Sugar Cane Hoe Mk. III",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -93,8 +93,9 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

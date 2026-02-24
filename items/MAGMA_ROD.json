@@ -50,16 +50,17 @@
       "parent": {
         "MAGMA_ROD": "INFERNO_ROD"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "FISHING",
       "mapped_item_ids": []
     },
     "stats": {
       "damage": 175,
       "strength": 175,
       "fishing_speed": 40,
-      "trophy_fish_chance": 15,
-      "sea_creature_chance": 6
+      "sea_creature_chance": 6,
+      "trophy_fish_chance": 15
     },
     "upgrade_costs": [
       [

@@ -1,6 +1,6 @@
 {
   "internalId": "HOE_OF_GREAT_TILLING",
-  "name": "Hoe Of Great Tilling",
+  "name": "Hoe of Great Tilling",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -33,8 +33,9 @@
       "parent": {
         "HOE_OF_GREAT_TILLING": "HOE_OF_GREATER_TILLING"
       },
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "FARMING"
     }
   },
   "recipes": [],

@@ -50,16 +50,17 @@
       "parent": {
         "INFERNO_ROD": "HELLFIRE_ROD"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "FISHING",
       "mapped_item_ids": []
     },
     "stats": {
       "damage": 200,
       "strength": 200,
       "fishing_speed": 50,
-      "trophy_fish_chance": 20,
-      "sea_creature_chance": 10
+      "sea_creature_chance": 10,
+      "trophy_fish_chance": 20
     },
     "upgrade_costs": [
       [

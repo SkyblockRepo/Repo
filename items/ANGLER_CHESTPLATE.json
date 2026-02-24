@@ -27,11 +27,12 @@
       "parent": {
         "ANGLER": "BACKWATER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ANGLER": 2
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "FISHING"
     },
     "stats": {
       "defense": 40,

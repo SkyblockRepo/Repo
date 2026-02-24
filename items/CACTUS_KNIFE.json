@@ -1,6 +1,6 @@
 {
   "internalId": "CACTUS_KNIFE",
-  "name": "Cactus Knife",
+  "name": "Cactus Knife Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "CACTUS_KNIFE": "CACTUS_KNIFE_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

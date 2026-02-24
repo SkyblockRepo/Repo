@@ -1,6 +1,6 @@
 {
   "internalId": "PUMPKIN_DICER",
-  "name": "Pumpkin Dicer",
+  "name": "Pumpkin Dicer Mk. I",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "PUMPKIN_DICER": "PUMPKIN_DICER_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

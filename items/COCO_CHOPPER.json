@@ -1,6 +1,6 @@
 {
   "internalId": "COCO_CHOPPER",
-  "name": "Cocoa Chopper",
+  "name": "Cocoa Chopper Mk. I",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "COCO_CHOPPER": "COCO_CHOPPER_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

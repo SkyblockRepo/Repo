@@ -38,15 +38,16 @@
     "museum_data": {
       "donation_xp": 3,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "FISHING"
     },
     "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 5,
-        "essence_type": "ICE"
+        "essence_type": "ICE",
+        "amount": 5
       }
     ]
   },

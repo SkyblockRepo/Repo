@@ -1,6 +1,6 @@
 {
   "internalId": "ROD_OF_THE_SEA",
-  "name": "Rod Of The Sea",
+  "name": "Rod of the Sea",
   "category": "Fishing Rod",
   "source": "HypixelAPI",
   "npcValue": 111000,
@@ -62,8 +62,9 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "FISHING",
       "mapped_item_ids": []
     },
     "stats": {

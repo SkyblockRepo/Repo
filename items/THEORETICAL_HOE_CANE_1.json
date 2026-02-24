@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_CANE_1",
-  "name": "Turing Sugar Cane Hoe",
+  "name": "Turing Sugar Cane Hoe Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "THEORETICAL_HOE_CANE_1": "THEORETICAL_HOE_CANE_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

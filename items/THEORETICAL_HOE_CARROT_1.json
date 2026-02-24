@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_CARROT_1",
-  "name": "Gauss Carrot Hoe",
+  "name": "Gauss Carrot Hoe Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "THEORETICAL_HOE_CARROT_1": "THEORETICAL_HOE_CARROT_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

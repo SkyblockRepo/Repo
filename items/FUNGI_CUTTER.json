@@ -1,6 +1,6 @@
 {
   "internalId": "FUNGI_CUTTER",
-  "name": "Fungi Cutter",
+  "name": "Fungi Cutter Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "FUNGI_CUTTER": "FUNGI_CUTTER_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

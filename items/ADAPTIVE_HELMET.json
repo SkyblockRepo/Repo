@@ -43,15 +43,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ADAPTIVE": 7
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 110,
       "DEFENSE": 50,
+      "HEALTH": 110,
       "STRENGTH": 15,
       "INTELLIGENCE": 15
     },

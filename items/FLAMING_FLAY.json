@@ -66,13 +66,14 @@
     "museum_data": {
       "donation_xp": 12,
       "parent": {},
-      "type": "WEAPONS",
-      "game_stage": "MASTER"
+      "type": null,
+      "game_stage": "MASTER",
+      "category": "COMBAT"
     },
     "stats": {
       "damage": 200,
-      "ferocity": 25,
-      "strength": 250
+      "strength": 250,
+      "ferocity": 25
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "WITHER",

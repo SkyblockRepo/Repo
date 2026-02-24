@@ -30,15 +30,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ARACHNE": 4
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "health": 55,
-      "defense": 40
+      "defense": 40,
+      "health": 55
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "SPIDER",
@@ -85,8 +86,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 5,
-        "essence_type": "SPIDER"
+        "essence_type": "SPIDER",
+        "amount": 5
       }
     ],
     "soulbound": "COOP"

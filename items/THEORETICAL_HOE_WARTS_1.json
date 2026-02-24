@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_WARTS_1",
-  "name": "Newton Nether Warts Hoe",
+  "name": "Newton Nether Wart Hoe Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "THEORETICAL_HOE_WARTS_1": "THEORETICAL_HOE_WARTS_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

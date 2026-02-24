@@ -1,6 +1,6 @@
 {
   "internalId": "MELON_DICER",
-  "name": "Melon Dicer",
+  "name": "Melon Dicer Mk. I",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "MELON_DICER": "MELON_DICER_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

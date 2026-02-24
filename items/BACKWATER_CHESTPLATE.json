@@ -32,17 +32,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "BACKWATER": 6
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "FISHING"
     },
     "stats": {
       "health": 50,
       "defense": 25,
-      "treasure_chance": 0.1,
-      "sea_creature_chance": 1
+      "sea_creature_chance": 1,
+      "treasure_chance": 0.1
     }
   },
   "recipes": []

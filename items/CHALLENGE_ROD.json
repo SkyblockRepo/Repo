@@ -34,8 +34,9 @@
       "parent": {
         "CHALLENGE_ROD": "CHAMP_ROD"
       },
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "FISHING"
     },
     "stats": {
       "damage": 75,

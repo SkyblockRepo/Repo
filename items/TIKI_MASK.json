@@ -81,8 +81,9 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "MASTER"
+      "type": null,
+      "game_stage": "MASTER",
+      "category": "FISHING"
     },
     "stats": {
       "health": 300,

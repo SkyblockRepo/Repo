@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_WHEAT_1",
-  "name": "Euclid's Wheat Hoe",
+  "name": "Euclid's Wheat Hoe Mk. I",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -67,8 +67,9 @@
       "parent": {
         "THEORETICAL_HOE_WHEAT_1": "THEORETICAL_HOE_WHEAT_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },

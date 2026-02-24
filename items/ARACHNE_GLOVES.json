@@ -30,22 +30,23 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ARACHNE": 4
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "health": 10,
-      "defense": 5
+      "defense": 5,
+      "health": 10
     },
     "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 5,
-        "essence_type": "SPIDER"
+        "essence_type": "SPIDER",
+        "amount": 5
       }
     ],
     "soulbound": "COOP"

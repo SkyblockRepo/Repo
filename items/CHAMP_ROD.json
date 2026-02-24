@@ -1,6 +1,6 @@
 {
   "internalId": "CHAMP_ROD",
-  "name": "Rod Of Champions",
+  "name": "Rod of Champions",
   "category": "Fishing Rod",
   "source": "HypixelAPI",
   "npcValue": 17800,
@@ -50,8 +50,9 @@
       "parent": {
         "CHAMP_ROD": "LEGEND_ROD"
       },
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "FISHING"
     },
     "stats": {
       "damage": 100,

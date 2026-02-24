@@ -1,6 +1,6 @@
 {
   "internalId": "THEORETICAL_HOE_WARTS_3",
-  "name": "Newton Nether Warts Hoe",
+  "name": "Newton Nether Wart Hoe Mk. III",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -93,8 +93,9 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "FARMING",
       "mapped_item_ids": []
     }
   },
