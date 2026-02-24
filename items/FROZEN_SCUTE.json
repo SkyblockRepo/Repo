@@ -3,7 +3,7 @@
   "name": "Frozen Scute",
   "category": null,
   "source": "HypixelAPI",
-  "npcValue": 1000000,
+  "npcValue": 5000000,
   "lore": "",
   "flags": {
     "tradable": false,
@@ -25,7 +25,14 @@
     },
     "name": "Frozen Scute",
     "tier": "LEGENDARY",
-    "npc_sell_price": 1000000
+    "npc_sell_price": 5000000,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 100,
+        "essence_type": "ICE"
+      }
+    ]
   },
   "recipes": []
 }

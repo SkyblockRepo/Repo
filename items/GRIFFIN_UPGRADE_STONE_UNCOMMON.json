@@ -1,6 +1,6 @@
 {
   "internalId": "GRIFFIN_UPGRADE_STONE_UNCOMMON",
-  "name": "Griffin Upgrade Stone",
+  "name": "Uncommon Griffin Upgrade Stone",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -25,7 +25,8 @@
     },
     "name": "Uncommon Griffin Upgrade Stone",
     "tier": "UNCOMMON",
-    "can_recombobulate": false
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

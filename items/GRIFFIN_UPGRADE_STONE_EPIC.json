@@ -1,6 +1,6 @@
 {
   "internalId": "GRIFFIN_UPGRADE_STONE_EPIC",
-  "name": "Griffin Upgrade Stone",
+  "name": "Epic Griffin Upgrade Stone",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -25,7 +25,8 @@
     },
     "name": "Epic Griffin Upgrade Stone",
     "tier": "EPIC",
-    "can_recombobulate": false
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

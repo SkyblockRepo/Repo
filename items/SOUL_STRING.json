@@ -20,7 +20,9 @@
     "material": "STRING",
     "name": "Soul String",
     "tier": "RARE",
-    "npc_sell_price": 5000
+    "npc_sell_price": 5000,
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": []
 }

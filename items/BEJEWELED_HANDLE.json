@@ -21,7 +21,9 @@
     "name": "Bejeweled Handle",
     "tier": "RARE",
     "glowing": true,
-    "npc_sell_price": 100
+    "npc_sell_price": 100,
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

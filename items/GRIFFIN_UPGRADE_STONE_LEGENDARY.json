@@ -1,6 +1,6 @@
 {
   "internalId": "GRIFFIN_UPGRADE_STONE_LEGENDARY",
-  "name": "Griffin Upgrade Stone",
+  "name": "Legendary Griffin Upgrade Stone",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -25,7 +25,8 @@
     },
     "name": "Legendary Griffin Upgrade Stone",
     "tier": "LEGENDARY",
-    "can_recombobulate": false
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {
