@@ -1,6 +1,6 @@
 {
   "internalId": "STAFF_OF_THE_VOLCANO",
-  "name": "Staff of the Volcano",
+  "name": "Staff Of The Volcano",
   "category": "Wand",
   "source": "HypixelAPI",
   "npcValue": 5000,
@@ -39,8 +39,8 @@
     },
     "stats": {
       "DAMAGE": 60,
-      "WEAPON_ABILITY_DAMAGE": 24000,
-      "INTELLIGENCE": 150
+      "INTELLIGENCE": 150,
+      "WEAPON_ABILITY_DAMAGE": 24000
     },
     "upgrade_costs": [
       [
@@ -184,8 +184,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "CRIMSON",
-        "amount": 10
+        "amount": 10,
+        "essence_type": "CRIMSON"
       }
     ]
   },

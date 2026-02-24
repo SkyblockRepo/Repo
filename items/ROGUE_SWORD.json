@@ -74,10 +74,10 @@
       ]
     ],
     "item_specific": {
+      "mana_cost": 50,
       "speed_boost": 100,
-      "effect_duration_seconds": 30,
       "cooldown_seconds": 5,
-      "mana_cost": 50
+      "effect_duration_seconds": 30
     },
     "soulbound": "COOP"
   },

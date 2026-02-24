@@ -104,11 +104,11 @@
       "category": "COMBAT"
     },
     "stats": {
-      "WALK_SPEED": 5,
-      "DEFENSE": 60,
       "HEALTH": 225,
-      "INTELLIGENCE": 85,
-      "mending": 5
+      "DEFENSE": 60,
+      "mending": 5,
+      "WALK_SPEED": 5,
+      "INTELLIGENCE": 85
     },
     "upgrade_costs": [
       [
@@ -198,19 +198,19 @@
       ]
     ],
     "prestige": {
-      "item_id": "HOT_HOLLOW_LEGGINGS",
       "costs": [
         {
           "type": "ESSENCE",
-          "essence_type": "CRIMSON",
-          "amount": 150
+          "amount": 150,
+          "essence_type": "CRIMSON"
         },
         {
           "type": "ITEM",
-          "item_id": "KUUDRA_TEETH",
-          "amount": 10
+          "amount": 10,
+          "item_id": "KUUDRA_TEETH"
         }
-      ]
+      ],
+      "item_id": "HOT_HOLLOW_LEGGINGS"
     }
   },
   "recipes": []

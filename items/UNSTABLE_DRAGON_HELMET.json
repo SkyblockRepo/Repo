@@ -66,11 +66,11 @@
       "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 110,
       "HEALTH": 70,
-      "CRITICAL_DAMAGE": 15,
+      "DEFENSE": 110,
+      "INTELLIGENCE": 25,
       "CRITICAL_CHANCE": 5,
-      "INTELLIGENCE": 25
+      "CRITICAL_DAMAGE": 15
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "DRAGON",

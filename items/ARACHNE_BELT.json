@@ -38,15 +38,15 @@
       "category": "COMBAT"
     },
     "stats": {
-      "defense": 5,
-      "health": 10
+      "health": 10,
+      "defense": 5
     },
     "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "SPIDER",
-        "amount": 5
+        "amount": 5,
+        "essence_type": "SPIDER"
       }
     ],
     "soulbound": "COOP"

@@ -86,9 +86,9 @@
       "category": "COMBAT"
     },
     "stats": {
-      "WALK_SPEED": 2,
       "DEFENSE": 95,
-      "STRENGTH": 40
+      "STRENGTH": 40,
+      "WALK_SPEED": 2
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "ICE",

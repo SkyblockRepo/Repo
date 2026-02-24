@@ -107,11 +107,11 @@
       "category": "DUNGEONEERING"
     },
     "stats": {
-      "WALK_SPEED": 30,
-      "DEFENSE": 80,
       "HEALTH": 180,
-      "CRITICAL_DAMAGE": 45,
-      "INTELLIGENCE": 15
+      "DEFENSE": 80,
+      "WALK_SPEED": 30,
+      "INTELLIGENCE": 15,
+      "CRITICAL_DAMAGE": 45
     },
     "upgrade_costs": [
       [

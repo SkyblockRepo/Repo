@@ -41,10 +41,10 @@
     "stats": {
       "DAMAGE": 200,
       "STRENGTH": 100,
-      "CRITICAL_DAMAGE": 30,
+      "INTELLIGENCE": 300,
       "CRITICAL_CHANCE": 5,
-      "WEAPON_ABILITY_DAMAGE": 30000,
-      "INTELLIGENCE": 300
+      "CRITICAL_DAMAGE": 30,
+      "WEAPON_ABILITY_DAMAGE": 30000
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "UNDEAD",

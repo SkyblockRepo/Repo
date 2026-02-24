@@ -44,9 +44,9 @@
       "WEAPON_ABILITY_DAMAGE": 1500
     },
     "item_specific": {
-      "slow_duration_seconds": 10,
       "mana_cost": 200,
-      "cooldown_seconds": 5
+      "cooldown_seconds": 5,
+      "slow_duration_seconds": 10
     },
     "double_tap_to_drop": true
   },

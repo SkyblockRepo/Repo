@@ -1,6 +1,6 @@
 {
   "internalId": "DIVAN_CHESTPLATE",
-  "name": "Chestplate of Divan",
+  "name": "Chestplate Of Divan",
   "category": "Chestplate",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -90,10 +90,10 @@
       "category": "MINING"
     },
     "stats": {
-      "DEFENSE": 130,
       "HEALTH": 200,
-      "MINING_FORTUNE": 30,
+      "DEFENSE": 130,
       "MINING_SPEED": 80,
+      "MINING_FORTUNE": 30,
       "HEAT_RESISTANCE": 10
     }
   },

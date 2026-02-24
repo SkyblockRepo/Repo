@@ -34,12 +34,12 @@
     },
     "description": "%%gray%%A ceremonial mask worn by the members of the Kalhuiki Tribe.\n\n%%gray%%While wearing this mask, members of the Kalhuiki Tribe will not attack you!",
     "tiered_stats": {
-      "DEFENSE": [
-        50
-      ],
       "HEALTH": [
         100,
         10
+      ],
+      "DEFENSE": [
+        50
       ]
     }
   },

@@ -100,11 +100,11 @@
     },
     "stats": {
       "DAMAGE": 270,
-      "STRENGTH": 150,
-      "CRITICAL_DAMAGE": 35,
-      "CRITICAL_CHANCE": 12,
       "FEROCITY": 30,
-      "INTELLIGENCE": 50
+      "STRENGTH": 150,
+      "INTELLIGENCE": 50,
+      "CRITICAL_CHANCE": 12,
+      "CRITICAL_DAMAGE": 35
     },
     "upgrade_costs": [
       [

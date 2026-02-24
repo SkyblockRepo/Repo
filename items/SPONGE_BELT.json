@@ -31,16 +31,16 @@
       "parent": {},
       "type": null,
       "armor_set_donation_xp": {
-        "FISHERMAN": 3,
-        "SPONGE": 5
+        "SPONGE": 5,
+        "FISHERMAN": 3
       },
       "game_stage": "AMATEUR",
       "category": "FISHING"
     },
     "stats": {
-      "sea_creature_chance": 0.5,
       "health": 5,
-      "fishing_speed": 2
+      "fishing_speed": 2,
+      "sea_creature_chance": 0.5
     }
   },
   "recipes": [

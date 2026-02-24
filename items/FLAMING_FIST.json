@@ -43,11 +43,11 @@
       "mapped_item_ids": []
     },
     "stats": {
-      "STRENGTH": 10,
       "HEALTH": 30,
       "DEFENSE": 20,
-      "CRITICAL_DAMAGE": 10,
-      "FEROCITY": 1
+      "FEROCITY": 1,
+      "STRENGTH": 10,
+      "CRITICAL_DAMAGE": 10
     },
     "upgrade_costs": [
       [
@@ -240,13 +240,13 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "CRIMSON",
-        "amount": 50
+        "amount": 50,
+        "essence_type": "CRIMSON"
       },
       {
         "type": "ITEM",
-        "item_id": "LEATHER_CLOTH",
-        "amount": 3
+        "amount": 3,
+        "item_id": "LEATHER_CLOTH"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "internalId": "DIVAN_BOOTS",
-  "name": "Boots of Divan",
+  "name": "Boots Of Divan",
   "category": "Boots",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -90,10 +90,10 @@
       "category": "MINING"
     },
     "stats": {
-      "DEFENSE": 110,
       "HEALTH": 80,
-      "MINING_FORTUNE": 30,
+      "DEFENSE": 110,
       "MINING_SPEED": 80,
+      "MINING_FORTUNE": 30,
       "HEAT_RESISTANCE": 10
     }
   },

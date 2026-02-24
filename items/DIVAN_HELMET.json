@@ -1,6 +1,6 @@
 {
   "internalId": "DIVAN_HELMET",
-  "name": "Helmet of Divan",
+  "name": "Helmet Of Divan",
   "category": "Helmet",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -95,10 +95,10 @@
       "category": "MINING"
     },
     "stats": {
-      "DEFENSE": 130,
       "HEALTH": 100,
-      "MINING_FORTUNE": 30,
+      "DEFENSE": 130,
       "MINING_SPEED": 80,
+      "MINING_FORTUNE": 30,
       "HEAT_RESISTANCE": 10
     }
   },

@@ -27,8 +27,8 @@
         "type": "ANY_OF",
         "requirements": [
           {
-            "type": "HEART_OF_THE_MOUNTAIN",
-            "tier": 5
+            "tier": 5,
+            "type": "HEART_OF_THE_MOUNTAIN"
           },
           {
             "type": "PROFILE_TYPE",

@@ -81,18 +81,6 @@
     "gear_score": 5,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "DEFENSE": [
-        33,
-        35,
-        37,
-        40,
-        42,
-        45,
-        48,
-        51,
-        55,
-        59
-      ],
       "HEALTH": [
         14,
         15,
@@ -104,6 +92,18 @@
         26,
         28,
         30
+      ],
+      "DEFENSE": [
+        33,
+        35,
+        37,
+        40,
+        42,
+        45,
+        48,
+        51,
+        55,
+        59
       ],
       "CRITICAL_DAMAGE": [
         15,

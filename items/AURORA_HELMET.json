@@ -108,8 +108,8 @@
       "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 50,
       "HEALTH": 160,
+      "DEFENSE": 50,
       "INTELLIGENCE": 275,
       "ABILITY_DAMAGE_PERCENT": 16
     },
@@ -201,19 +201,19 @@
       ]
     ],
     "prestige": {
-      "item_id": "HOT_AURORA_HELMET",
       "costs": [
         {
           "type": "ESSENCE",
-          "essence_type": "CRIMSON",
-          "amount": 150
+          "amount": 150,
+          "essence_type": "CRIMSON"
         },
         {
           "type": "ITEM",
-          "item_id": "KUUDRA_TEETH",
-          "amount": 10
+          "amount": 10,
+          "item_id": "KUUDRA_TEETH"
         }
-      ]
+      ],
+      "item_id": "HOT_AURORA_HELMET"
     }
   },
   "recipes": []

@@ -1,6 +1,6 @@
 {
   "internalId": "SWORD_OF_BAD_HEALTH",
-  "name": "Sword of Bad Health",
+  "name": "Sword Of Bad Health",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 4000,
@@ -183,8 +183,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "CRIMSON",
-        "amount": 5
+        "amount": 5,
+        "essence_type": "CRIMSON"
       }
     ]
   },

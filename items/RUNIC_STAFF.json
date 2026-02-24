@@ -62,15 +62,15 @@
     },
     "stats": {
       "DAMAGE": 20,
-      "WEAPON_ABILITY_DAMAGE": 10000,
-      "INTELLIGENCE": 250
+      "INTELLIGENCE": 250,
+      "WEAPON_ABILITY_DAMAGE": 10000
     },
     "ability_damage_scaling": 0.2,
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "CRIMSON",
-        "amount": 500
+        "amount": 500,
+        "essence_type": "CRIMSON"
       }
     ]
   },

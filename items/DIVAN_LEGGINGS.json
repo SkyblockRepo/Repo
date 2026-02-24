@@ -1,6 +1,6 @@
 {
   "internalId": "DIVAN_LEGGINGS",
-  "name": "Leggings of Divan",
+  "name": "Leggings Of Divan",
   "category": "Leggings",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -90,10 +90,10 @@
       "category": "MINING"
     },
     "stats": {
-      "DEFENSE": 170,
       "HEALTH": 130,
-      "MINING_FORTUNE": 30,
+      "DEFENSE": 170,
       "MINING_SPEED": 80,
+      "MINING_FORTUNE": 30,
       "HEAT_RESISTANCE": 10
     }
   },

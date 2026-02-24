@@ -96,8 +96,8 @@
             "profile_type": "ISLAND"
           },
           {
-            "type": "HEART_OF_THE_MOUNTAIN",
-            "tier": 5
+            "tier": 5,
+            "type": "HEART_OF_THE_MOUNTAIN"
           }
         ]
       }
@@ -114,9 +114,9 @@
     },
     "stats": {
       "MAGIC_FIND": 5,
-      "MINING_FORTUNE": 20,
+      "MINING_SPEED": 50,
       "TRUE_DEFENSE": 40,
-      "MINING_SPEED": 50
+      "MINING_FORTUNE": 20
     }
   },
   "recipes": [

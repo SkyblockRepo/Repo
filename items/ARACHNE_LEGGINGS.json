@@ -34,8 +34,8 @@
       "category": "COMBAT"
     },
     "stats": {
-      "defense": 50,
-      "health": 75
+      "health": 75,
+      "defense": 50
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "SPIDER",
@@ -82,8 +82,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "SPIDER",
-        "amount": 5
+        "amount": 5,
+        "essence_type": "SPIDER"
       }
     ],
     "soulbound": "COOP"

@@ -45,8 +45,8 @@
       "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 45,
       "HEALTH": 100,
+      "DEFENSE": 45,
       "INTELLIGENCE": 15
     },
     "upgrade_costs": [
@@ -275,8 +275,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "CRIMSON",
-        "amount": 5
+        "amount": 5,
+        "essence_type": "CRIMSON"
       }
     ],
     "soulbound": "COOP"

@@ -1,6 +1,6 @@
 {
   "internalId": "SKYMART_TURBO_VACUUM",
-  "name": "SkyMart Turbo Vacuum",
+  "name": "Skymart Turbo Vacuum",
   "category": "Vacuum",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -38,8 +38,8 @@
       "mapped_item_ids": []
     },
     "stats": {
-      "farming_fortune": 10,
-      "damage": 120
+      "damage": 120,
+      "farming_fortune": 10
     },
     "has_uuid": true
   },

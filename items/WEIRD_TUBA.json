@@ -39,6 +39,7 @@
       "mapped_item_ids": []
     },
     "item_specific": {
+      "range": 10,
       "stats": {
         "strength": 30,
         "walk_speed": 30
@@ -47,9 +48,8 @@
         "rift_damage": 1,
         "rift_walk_speed": 10
       },
-      "duration_seconds": 20,
       "cooldown_seconds": 20,
-      "range": 10,
+      "duration_seconds": 20,
       "max_other_players": 4
     },
     "rift_transferrable": true

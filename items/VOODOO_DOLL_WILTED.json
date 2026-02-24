@@ -42,9 +42,9 @@
       "WEAPON_ABILITY_DAMAGE": 2222
     },
     "item_specific": {
-      "slow_duration_seconds": 12,
       "mana_cost": 180,
-      "cooldown_seconds": 3
+      "cooldown_seconds": 3,
+      "slow_duration_seconds": 12
     }
   },
   "recipes": [

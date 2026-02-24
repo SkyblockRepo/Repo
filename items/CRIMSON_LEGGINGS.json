@@ -104,10 +104,10 @@
       "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 55,
       "HEALTH": 205,
-      "INTELLIGENCE": 5,
+      "DEFENSE": 55,
       "STRENGTH": 30,
+      "INTELLIGENCE": 5,
       "CRITICAL_DAMAGE": 20
     },
     "upgrade_costs": [
@@ -198,19 +198,19 @@
       ]
     ],
     "prestige": {
-      "item_id": "HOT_CRIMSON_LEGGINGS",
       "costs": [
         {
           "type": "ESSENCE",
-          "essence_type": "CRIMSON",
-          "amount": 150
+          "amount": 150,
+          "essence_type": "CRIMSON"
         },
         {
           "type": "ITEM",
-          "item_id": "KUUDRA_TEETH",
-          "amount": 10
+          "amount": 10,
+          "item_id": "KUUDRA_TEETH"
         }
-      ]
+      ],
+      "item_id": "HOT_CRIMSON_LEGGINGS"
     }
   },
   "recipes": []

@@ -40,15 +40,15 @@
       "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 30,
-      "HEALTH": 70
+      "HEALTH": 70,
+      "DEFENSE": 30
     },
     "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "ICE",
-        "amount": 10
+        "amount": 10,
+        "essence_type": "ICE"
       }
     ]
   },

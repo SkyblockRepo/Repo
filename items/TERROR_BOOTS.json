@@ -104,11 +104,11 @@
       "category": "COMBAT"
     },
     "stats": {
-      "WALK_SPEED": 12,
-      "DEFENSE": 40,
       "HEALTH": 130,
-      "CRITICAL_DAMAGE": 50,
-      "INTELLIGENCE": 5
+      "DEFENSE": 40,
+      "WALK_SPEED": 12,
+      "INTELLIGENCE": 5,
+      "CRITICAL_DAMAGE": 50
     },
     "upgrade_costs": [
       [
@@ -198,19 +198,19 @@
       ]
     ],
     "prestige": {
-      "item_id": "HOT_TERROR_BOOTS",
       "costs": [
         {
           "type": "ESSENCE",
-          "essence_type": "CRIMSON",
-          "amount": 150
+          "amount": 150,
+          "essence_type": "CRIMSON"
         },
         {
           "type": "ITEM",
-          "item_id": "KUUDRA_TEETH",
-          "amount": 10
+          "amount": 10,
+          "item_id": "KUUDRA_TEETH"
         }
-      ]
+      ],
+      "item_id": "HOT_TERROR_BOOTS"
     }
   },
   "recipes": []

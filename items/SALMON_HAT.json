@@ -35,13 +35,13 @@
       "category": "FISHING"
     },
     "stats": {
-      "WALK_SPEED": 2,
-      "STRENGTH": 15
+      "STRENGTH": 15,
+      "WALK_SPEED": 2
     },
     "enchantments": {
-      "depth_strider": 1,
       "respiration": 5,
-      "aqua_affinity": 1
+      "aqua_affinity": 1,
+      "depth_strider": 1
     }
   },
   "recipes": [

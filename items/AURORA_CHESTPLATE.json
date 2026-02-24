@@ -104,8 +104,8 @@
       "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 65,
       "HEALTH": 230,
+      "DEFENSE": 65,
       "INTELLIGENCE": 175
     },
     "upgrade_costs": [
@@ -196,19 +196,19 @@
       ]
     ],
     "prestige": {
-      "item_id": "HOT_AURORA_CHESTPLATE",
       "costs": [
         {
           "type": "ESSENCE",
-          "essence_type": "CRIMSON",
-          "amount": 150
+          "amount": 150,
+          "essence_type": "CRIMSON"
         },
         {
           "type": "ITEM",
-          "item_id": "KUUDRA_TEETH",
-          "amount": 10
+          "amount": 10,
+          "item_id": "KUUDRA_TEETH"
         }
-      ]
+      ],
+      "item_id": "HOT_AURORA_CHESTPLATE"
     }
   },
   "recipes": []

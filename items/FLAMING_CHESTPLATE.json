@@ -73,8 +73,8 @@
     "stats": {
       "health": 225,
       "defense": 200,
-      "sea_creature_chance": 3,
-      "strength": 25
+      "strength": 25,
+      "sea_creature_chance": 3
     },
     "upgrade_costs": [
       [
@@ -217,8 +217,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "CRIMSON",
-        "amount": 25
+        "amount": 25,
+        "essence_type": "CRIMSON"
       }
     ]
   },

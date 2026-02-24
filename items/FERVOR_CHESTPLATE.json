@@ -104,8 +104,8 @@
       "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 140,
       "HEALTH": 265,
+      "DEFENSE": 140,
       "INTELLIGENCE": 5,
       "TRUE_DEFENSE": 5
     },
@@ -197,19 +197,19 @@
       ]
     ],
     "prestige": {
-      "item_id": "HOT_FERVOR_CHESTPLATE",
       "costs": [
         {
           "type": "ESSENCE",
-          "essence_type": "CRIMSON",
-          "amount": 150
+          "amount": 150,
+          "essence_type": "CRIMSON"
         },
         {
           "type": "ITEM",
-          "item_id": "KUUDRA_TEETH",
-          "amount": 10
+          "amount": 10,
+          "item_id": "KUUDRA_TEETH"
         }
-      ]
+      ],
+      "item_id": "HOT_FERVOR_CHESTPLATE"
     }
   },
   "recipes": []
