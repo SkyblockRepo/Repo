@@ -34,12 +34,13 @@
       "parent": {
         "TARANTULA": "PRIMORDIAL"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "TARANTULA": 6,
         "MONSTER_RAIDER": 4
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 70,

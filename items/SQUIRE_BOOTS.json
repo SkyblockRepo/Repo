@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SQUIRE": 1
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 20,

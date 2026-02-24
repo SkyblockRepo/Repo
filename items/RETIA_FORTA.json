@@ -33,6 +33,15 @@
         "level": 15
       }
     ],
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "RETIA_FORTA": "RETIA_SUPREMA"
+      },
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "HUNTING"
+    },
     "description": "%%gray%%%%italic%%Sagacitas et fortitudo coniuncta."
   },
   "recipes": [

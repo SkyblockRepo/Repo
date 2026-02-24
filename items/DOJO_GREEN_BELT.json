@@ -32,8 +32,9 @@
       "parent": {
         "DOJO_GREEN_BELT": "DOJO_BLUE_BELT"
       },
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 20,

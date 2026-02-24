@@ -50,11 +50,12 @@
       "parent": {
         "SPONGE": "SHARK_SCALE"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SPONGE": 6
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "FISHING"
     },
     "stats": {
       "defense": 100,

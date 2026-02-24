@@ -53,11 +53,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FARM_ARMOR": 3
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "FARMING"
     },
     "stats": {
       "HEALTH": 20,

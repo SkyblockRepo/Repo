@@ -56,8 +56,9 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "WEAPONS",
-      "game_stage": "EXPERT"
+      "type": null,
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
       "DAMAGE": 20,

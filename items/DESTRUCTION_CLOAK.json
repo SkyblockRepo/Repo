@@ -38,8 +38,9 @@
       "parent": {
         "DESTRUCTION_CLOAK": "ANNIHILATION_CLOAK"
       },
-      "type": "RARITIES",
-      "game_stage": "PROFESSIONAL"
+      "type": null,
+      "game_stage": "PROFESSIONAL",
+      "category": "COMBAT"
     },
     "stats": {
       "health": 60,

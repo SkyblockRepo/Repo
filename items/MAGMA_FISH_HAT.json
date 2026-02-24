@@ -31,8 +31,9 @@
     "museum_data": {
       "donation_xp": 1,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
       "INTELLIGENCE": 50

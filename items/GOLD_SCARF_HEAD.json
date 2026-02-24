@@ -26,14 +26,22 @@
     "name": "Golden Scarf Head",
     "category": "HELMET",
     "tier": "SPECIAL",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "dungeon_type": "CATACOMBS",
+        "tier": 2
+      }
+    ],
     "museum": true,
     "museum_data": {
       "donation_xp": 5,
       "parent": {
         "GOLD_SCARF_HEAD": "DIAMOND_SCARF_HEAD"
       },
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "HEALTH": 30,

@@ -54,11 +54,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "OLD_DRAGON": 10
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 130,

@@ -25,7 +25,8 @@
     },
     "name": "Legendary Griffin Upgrade Stone",
     "tier": "LEGENDARY",
-    "can_recombobulate": false
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

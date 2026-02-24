@@ -62,11 +62,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
-        "FERMENTO": 15
+        "HELIANTHUS": 15
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "MASTER",
+      "category": "FARMING"
     },
     "stats": {
       "farming_fortune": 40,

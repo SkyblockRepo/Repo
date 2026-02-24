@@ -89,11 +89,12 @@
       "parent": {
         "TANK_WITHER": "WISE_WITHER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "TANK_WITHER": 6
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "HEALTH": 210,

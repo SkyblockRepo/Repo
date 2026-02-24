@@ -3,7 +3,7 @@
   "name": "Shattered Locket",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 5000000,
   "lore": "&7A dainty piece of jewelry covered in\n&7a thick coat of glacite. The frosty\n&7layer obscures the details of the\n&7photograph nestled within.\n\n&6&lLEGENDARY&r",
   "flags": {
     "tradable": true,
@@ -25,6 +25,7 @@
     },
     "name": "Shattered Locket",
     "tier": "LEGENDARY",
+    "npc_sell_price": 5000000,
     "description": "A dainty piece of jewelry covered in a thick coat of glacite. The frosty layer obscures the details of the photograph nestled within."
   },
   "recipes": []

@@ -29,10 +29,14 @@
     "unstackable": true,
     "npc_sell_price": 5000,
     "museum_data": {
-      "donation_xp": 4,
+      "donation_xp": 0,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
+      "armor_set_donation_xp": {
+        "FROZEN": 4
+      },
       "game_stage": "INTERMEDIATE",
+      "category": "FISHING",
       "mapped_item_ids": []
     },
     "stats": {

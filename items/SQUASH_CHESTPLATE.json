@@ -50,11 +50,12 @@
       "parent": {
         "SQUASH": "FERMENTO"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SQUASH": 9
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "FARMING"
     },
     "stats": {
       "health": 180,

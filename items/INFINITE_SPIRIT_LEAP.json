@@ -27,6 +27,13 @@
     "tier": "EPIC",
     "unstackable": true,
     "npc_sell_price": 1000,
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {},
+      "type": null,
+      "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING"
+    },
     "dungeon_item": true
   },
   "recipes": []

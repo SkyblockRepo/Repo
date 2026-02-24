@@ -34,11 +34,12 @@
       "parent": {
         "MELON": "CROPIE"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MELON": 4
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "FARMING"
     },
     "stats": {
       "health": 150,

@@ -38,8 +38,9 @@
       "parent": {
         "BASIC_GARDENING_HOE": "ADVANCED_GARDENING_HOE"
       },
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "FARMING"
     },
     "stats": {
       "FARMING_FORTUNE": 5

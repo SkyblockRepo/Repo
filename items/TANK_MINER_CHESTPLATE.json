@@ -27,11 +27,12 @@
       "parent": {
         "TANK_MINER": "HEAT"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "TANK_MINER": 3
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "MINING"
     },
     "stats": {
       "DEFENSE": 15,

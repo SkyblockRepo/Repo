@@ -25,7 +25,8 @@
     },
     "name": "Epic Griffin Upgrade Stone",
     "tier": "EPIC",
-    "can_recombobulate": false
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

@@ -64,11 +64,12 @@
       "parent": {
         "FERMENTO": "HELIANTHUS"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FERMENTO": 12
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "FARMING"
     },
     "stats": {
       "health": 130,

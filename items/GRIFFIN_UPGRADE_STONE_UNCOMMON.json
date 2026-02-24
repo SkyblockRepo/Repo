@@ -25,7 +25,8 @@
     },
     "name": "Uncommon Griffin Upgrade Stone",
     "tier": "UNCOMMON",
-    "can_recombobulate": false
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

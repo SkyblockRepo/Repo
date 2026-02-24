@@ -33,6 +33,15 @@
         "level": 10
       }
     ],
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {
+        "RETIA_ROBUSTA": "RETIA_FORTA"
+      },
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "HUNTING"
+    },
     "description": "%%gray%%%%italic%%In robore, fiducia."
   },
   "recipes": [

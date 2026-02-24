@@ -26,12 +26,21 @@
     "name": "Diamond Thorn Head",
     "category": "HELMET",
     "tier": "SPECIAL",
+    "requirements": [
+      {
+        "type": "DUNGEON_BOSS_COLLECTION",
+        "amount": 1000,
+        "dungeon_type": "CATACOMBS",
+        "tier": 4
+      }
+    ],
     "museum": true,
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "PROFESSIONAL"
+      "type": null,
+      "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "HEALTH": 130,

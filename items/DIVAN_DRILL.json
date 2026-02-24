@@ -94,8 +94,9 @@
     "museum_data": {
       "donation_xp": 25,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "MASTER"
+      "type": null,
+      "game_stage": "MASTER",
+      "category": "MINING"
     },
     "stats": {
       "DAMAGE": 75,

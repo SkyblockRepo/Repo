@@ -35,11 +35,12 @@
       "parent": {
         "SNORKELING": "DIVER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SNORKELING": 3
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "FISHING"
     },
     "stats": {
       "health": 60,

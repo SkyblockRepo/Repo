@@ -66,8 +66,9 @@
     "museum_data": {
       "donation_xp": 12,
       "parent": {},
-      "type": "WEAPONS",
-      "game_stage": "MASTER"
+      "type": null,
+      "game_stage": "MASTER",
+      "category": "COMBAT"
     },
     "stats": {
       "damage": 200,

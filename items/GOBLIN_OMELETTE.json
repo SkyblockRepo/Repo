@@ -26,6 +26,15 @@
     "name": "Goblin Omelette",
     "tier": "RARE",
     "npc_sell_price": 20840,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "GOBLIN_OMELETTE": "GOBLIN_OMELETTE_PESTO"
+      },
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "MINING"
+    },
     "description": "%%gray%%%%italic%%May cause diseases"
   },
   "recipes": [

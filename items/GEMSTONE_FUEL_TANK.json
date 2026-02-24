@@ -25,7 +25,16 @@
     },
     "name": "Gemstone Fuel Tank",
     "tier": "RARE",
-    "npc_sell_price": 103000
+    "npc_sell_price": 103000,
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {
+        "GEMSTONE_FUEL_TANK": "PERFECTLY_CUT_FUEL_TANK"
+      },
+      "type": null,
+      "game_stage": "PROFESSIONAL",
+      "category": "MINING"
+    }
   },
   "recipes": [
     {

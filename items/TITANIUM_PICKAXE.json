@@ -34,8 +34,9 @@
       "parent": {
         "TITANIUM_PICKAXE": "REFINED_TITANIUM_PICKAXE"
       },
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "MINING"
     },
     "stats": {
       "DAMAGE": 60,

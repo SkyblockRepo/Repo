@@ -50,8 +50,9 @@
       "parent": {
         "CHAMP_ROD": "LEGEND_ROD"
       },
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "FISHING"
     },
     "stats": {
       "damage": 100,

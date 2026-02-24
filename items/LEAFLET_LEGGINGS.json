@@ -25,11 +25,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "LEAFLET": 2
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "FORAGING"
     },
     "stats": {
       "health": 20,

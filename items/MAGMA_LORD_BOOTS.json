@@ -91,11 +91,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MAGMA_LORD": 20
       },
-      "game_stage": "MASTER"
+      "game_stage": "MASTER",
+      "category": "FISHING"
     },
     "stats": {
       "health": 200,

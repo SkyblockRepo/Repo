@@ -21,7 +21,9 @@
     "name": "Griffin Feather",
     "tier": "RARE",
     "npc_sell_price": 5000,
-    "description": "The feather of a mythical creature that was buried for centuries. It still retains its pleasant scent and fluffiness despite the damage."
+    "can_recombobulate": false,
+    "description": "The feather of a mythical creature that was buried for centuries. It still retains its pleasant scent and fluffiness despite the damage.",
+    "force_wipe_recomb": true
   },
   "recipes": []
 }

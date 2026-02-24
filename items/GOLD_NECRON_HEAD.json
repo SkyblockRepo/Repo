@@ -26,14 +26,22 @@
     "name": "Golden Necron Head",
     "category": "HELMET",
     "tier": "SPECIAL",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "dungeon_type": "CATACOMBS",
+        "tier": 7
+      }
+    ],
     "museum": true,
     "museum_data": {
       "donation_xp": 5,
       "parent": {
         "GOLD_NECRON_HEAD": "DIAMOND_NECRON_HEAD"
       },
-      "type": "RARITIES",
-      "game_stage": "EXPERT"
+      "type": null,
+      "game_stage": "EXPERT",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "HEALTH": 80,

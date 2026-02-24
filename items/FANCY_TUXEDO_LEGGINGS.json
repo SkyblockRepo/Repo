@@ -27,11 +27,12 @@
       "parent": {
         "FANCY_TUXEDO": "ELEGANT_TUXEDO"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FANCY_TUXEDO": 4
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
       "INTELLIGENCE": 75,

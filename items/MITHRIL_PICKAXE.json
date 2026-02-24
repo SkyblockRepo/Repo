@@ -34,8 +34,9 @@
       "parent": {
         "MITHRIL_PICKAXE": "REFINED_MITHRIL_PICKAXE"
       },
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "MINING"
     },
     "stats": {
       "DAMAGE": 40,

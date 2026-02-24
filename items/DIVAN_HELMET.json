@@ -87,11 +87,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "DIVAN": 20
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "MINING"
     },
     "stats": {
       "HEALTH": 100,

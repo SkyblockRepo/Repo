@@ -1,0 +1,44 @@
+{
+  "internalId": "WILL_O_WISP",
+  "name": "Will-o'-wisp",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WILL_O_WISP",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MDgxOTAxMDg0OCwKICAicHJvZmlsZUlkIiA6ICIyNDY1ODI2NWVjMjg0NTY4YTg3MDJkOTVlYzdlYTc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmdvc1oxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZWMxYTY5NTdmMDJhNDI1OGU2NGRjN2M1MjA0NjNkOTI2NDc4ODg0OTk4NDVkNzg0ZWYwZTdhYmU4ZjM4NDAyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "NpMQ5mhy4v/XkgqcjU/8AiHB8X6H12b+O20CtC13Ailj98im5gJ5Bq4rQzt0L1riQO9l7ZUJcVx32fk/f//lxLIQf/uZx9HhfatG4t0wDGUyAQ5Op4u3YKcxJQoTg1gnFRhxhE+yOCagAzmOKkca22vP83RqDOViQQTq4/2MDLTPy2HNVpVC2V+/aMVsCKMXi3idiZcUC47OhQqq6622CkvO80J0AFGTYn9wFCLT1S2kxgCa/vfAI2Ecv9WgxjG0FsNa0yzG1WxWmThx/UJMKBVL78rEFlGBMH962LInk62IYB2d6R8Rt7pAGFYqlgoSQu6keTnUlhaYO7YuiyvLji9SYKHLClH5V3wx/oszsrckJ9po7sY4zISw9+NhgmKHL+JuprD8+X8hPWDKk/AGMOWblsc9AgZBkQxvAlz5Ew8p8lWb45T5P+exbULiCeGqsnJnfhrxZNxLcxZyKKL8Zw1iMj9btd5tO3ejb/yzrvgQfgVe9kaHalvwm1Qm+CJ3rtLKT8DKPidU7BIYrpZwbGcdbjo9/svF1FgnlMruRXlhMY8b2yoCcBR55vY408+8XSjtHU0QVfDcUUreQYLdzVhg/vWpivjW1V4jAIYaO3pP8FcYzAUC38Uu3VPScNaLPSZVNWyHJdHx6tCtJBWtamO6uWC4cCWPD1n7Q7ZMzGU="
+    },
+    "name": "Will-o'-wisp",
+    "category": "DEPLOYABLE",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "HEART_OF_THE_MOUNTAIN",
+        "tier": 10
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 15,
+      "parent": {},
+      "type": null,
+      "game_stage": "PROFESSIONAL",
+      "category": "MINING"
+    },
+    "has_uuid": true
+  }
+}

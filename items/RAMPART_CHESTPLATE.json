@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "RAMPART": 6
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 175,

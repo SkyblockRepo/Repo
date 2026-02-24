@@ -1,0 +1,31 @@
+{
+  "internalId": "FUNNY_BONE",
+  "name": "Funny Bone",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FUNNY_BONE",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2NzgyMjk1MzMyNCwKICAicHJvZmlsZUlkIiA6ICI4OGMyOGYwOTY3MjU0NmNkYTg3ZjVhMTc0ODU0MzExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaXRlQ2F2ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZThmMzZiMjcxNWFlNGQ4OTdhY2RhN2YwNmNiMmIwNTNkZTUzMjg4NjllM2ZhNzYwOGVmNWVjNzUyMzhhZDJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "WEsPwVhjW4LN7+FDd6K0ojiOZuhbaCbbubY6A8TR+GUJRxuNcUODdHMTF3YD8IvzWj4N010V57U1+a45MgVPbIJNUFRQRn9I6kuxC3E89zWtnamUYS54oBJPATaCqbQZmaNOjV4D1q/wYz66HcbbHEV+Srd6lB+Rtve3yrfQC/ae4c26sPMOXUcMR1xHFFGHfdoBcg4OOf5Qa/DZJ0/a0ON6QZ4YC8nr+S+6sN3WKtU4zZ9L60i8i3lkWW4ZE/rQDOdFQvzlEXNc4GMrMGM1YX50KLCykOnC1L9aK0OxYeUgd7srcUzsO+P7q/U71APwiBEoiylFcSo6+RiNzE0OjIdGLYPP1Ri7RXGon1IHHspm6kb7lnwqaN1x9kVFIIurIiQIRg4ZRLrrCe9ZjXD7oIl4BSyLRgh5hXmDJqcb7JmrUTK5oqfoYnotGZ8B9y8ntgpAKfI9bsSsLzPlsd4oqAomaM0ZgcfTErTB7JZTooFB6o9qZEDuE2Iy7Irqsi/F0yDoPdblMNkJEJfExsDfucZ1SXiVilAYTn8D4CpIq182uYxLQpdS1AHNWtNkiubxbSE3ObyjkQhQbeiGEPcBFnkNIuGbnzhBbA60W20JaZAjhyszOaQtdy8BSWRXWz+nl+oPQVFfRUgoisGH1u2ROdVOMYfvWvhsMQwD184bYbE="
+    },
+    "name": "Funny Bone",
+    "tier": "RARE",
+    "npc_sell_price": 5,
+    "soulbound": "SOLO"
+  }
+}

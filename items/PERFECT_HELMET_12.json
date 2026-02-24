@@ -41,11 +41,12 @@
       "parent": {
         "PERFECT_TIER_12": "PERFECT_TIER_13"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "PERFECT_TIER_12": 8
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
       "DEFENSE": 330

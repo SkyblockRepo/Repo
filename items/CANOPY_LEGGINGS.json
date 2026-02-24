@@ -35,11 +35,12 @@
       "parent": {
         "CANOPY": "FIG"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CANOPY": 3
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "FORAGING"
     },
     "stats": {
       "sweep": 6,

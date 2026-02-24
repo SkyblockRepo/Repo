@@ -3,7 +3,7 @@
   "name": "Wolf Talisman",
   "category": "Accessory",
   "source": "HypixelAPI",
-  "npcValue": 50,
+  "npcValue": 10000,
   "lore": "&7Reduces the damage taken from\n&7&7Wolves by &a5%&7.\n\n&f&lCOMMON ACCESSORY&r",
   "flags": {
     "tradable": true,
@@ -25,7 +25,8 @@
     },
     "name": "Wolf Talisman",
     "category": "ACCESSORY",
-    "npc_sell_price": 50
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10000
   },
   "recipes": []
 }

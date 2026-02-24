@@ -38,11 +38,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FARM_SUIT": 1
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "FARMING"
     },
     "stats": {
       "DEFENSE": 40,

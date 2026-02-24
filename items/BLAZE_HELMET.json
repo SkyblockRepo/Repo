@@ -55,12 +55,13 @@
       "parent": {
         "BLAZE": "FROZEN_BLAZE"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "BLAZE": 7,
         "CRIMSON_HUNTER": 4
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
       "DEFENSE": 90,

@@ -63,11 +63,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "LAVA_SEA_CREATURE": 10
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "FISHING"
     },
     "stats": {
       "health": 200,

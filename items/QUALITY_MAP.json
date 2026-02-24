@@ -3,7 +3,7 @@
   "name": "Quality Map",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 1337,
+  "npcValue": 0,
   "lore": "&7It took motivation, skills, effort and a\n&7lot of love and caring to create this\n&7map. By far the best quality on the\n&7market!\n\n&c&lSPECIAL&r",
   "flags": {
     "tradable": true,
@@ -21,7 +21,6 @@
     "name": "Quality Map",
     "tier": "SPECIAL",
     "glowing": true,
-    "npc_sell_price": 1337,
     "museum": true,
     "has_uuid": true
   },

@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SKELETON_GRUNT": 3
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [

@@ -64,11 +64,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SUPERIOR_DRAGON": 15
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 130,

@@ -34,8 +34,9 @@
     "museum_data": {
       "donation_xp": 2,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "FARMING"
     },
     "has_uuid": true,
     "soulbound": "COOP"

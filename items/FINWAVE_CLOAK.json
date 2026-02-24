@@ -32,11 +32,12 @@
       "parent": {
         "FINWAVE": "GILLSPLASH"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FINWAVE": 10
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "FISHING"
     },
     "stats": {
       "health": 15,

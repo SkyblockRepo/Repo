@@ -32,8 +32,9 @@
       "parent": {
         "SNOW_BLASTER": "SNOW_HOWITZER"
       },
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "double_tap_to_drop": true
   },

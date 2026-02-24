@@ -53,11 +53,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FIG": 7
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "FORAGING"
     },
     "stats": {
       "sweep": 6,

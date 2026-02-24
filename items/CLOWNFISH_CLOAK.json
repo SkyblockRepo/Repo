@@ -29,12 +29,13 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SPONGE": 5,
         "FISHERMAN": 3
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "FISHING"
     },
     "stats": {
       "fishing_speed": 2,

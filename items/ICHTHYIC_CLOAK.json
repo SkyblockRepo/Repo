@@ -32,11 +32,12 @@
       "parent": {
         "ICHTHYIC": "FINWAVE"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ICHTHYIC": 6
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "FISHING"
     },
     "stats": {
       "health": 10,

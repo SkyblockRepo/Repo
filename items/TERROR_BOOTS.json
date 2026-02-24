@@ -96,11 +96,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "TERROR": 10
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 130,

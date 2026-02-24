@@ -29,8 +29,9 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "item_specific": {
       "scaling": {

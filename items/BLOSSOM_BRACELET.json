@@ -41,11 +41,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "BLOSSOM": 8
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "FARMING"
     },
     "stats": {
       "farming_fortune": 7,

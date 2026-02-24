@@ -27,11 +27,12 @@
       "parent": {
         "CHEAP_TUXEDO": "FANCY_TUXEDO"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CHEAP_TUXEDO": 3
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
       "INTELLIGENCE": 25,

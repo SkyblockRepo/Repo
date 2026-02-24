@@ -55,10 +55,14 @@
       }
     ],
     "museum_data": {
-      "donation_xp": 25,
+      "donation_xp": 0,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
+      "armor_set_donation_xp": {
+        "DIVAN_EQUIPMENT": 25
+      },
       "game_stage": "MASTER",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {

@@ -3,7 +3,7 @@
   "name": "The Cake",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 1337,
+  "npcValue": 0,
   "lore": "&dThere is no cake.\n\n&8&l* &r&8Soulbound &8&l*&r\n&c&lSPECIAL&r",
   "flags": {
     "tradable": false,
@@ -21,7 +21,6 @@
     "name": "The Cake",
     "tier": "SPECIAL",
     "glowing": true,
-    "npc_sell_price": 1337,
     "museum": true,
     "soulbound": "SOLO"
   },

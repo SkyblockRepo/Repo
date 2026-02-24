@@ -50,11 +50,12 @@
       "parent": {
         "CROPIE": "SQUASH"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CROPIE": 6
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "FARMING"
     },
     "stats": {
       "health": 110,

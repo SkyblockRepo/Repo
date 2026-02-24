@@ -26,12 +26,21 @@
     "name": "Diamond Livid Head",
     "category": "HELMET",
     "tier": "SPECIAL",
+    "requirements": [
+      {
+        "type": "DUNGEON_BOSS_COLLECTION",
+        "amount": 1000,
+        "dungeon_type": "CATACOMBS",
+        "tier": 5
+      }
+    ],
     "museum": true,
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "MASTER"
+      "type": null,
+      "game_stage": "MASTER",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "HEALTH": 160,

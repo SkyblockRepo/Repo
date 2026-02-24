@@ -32,8 +32,9 @@
     "museum_data": {
       "donation_xp": 1,
       "parent": {},
-      "type": "WEAPONS",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "COMBAT"
     },
     "stats": {
       "WEAPON_ABILITY_DAMAGE": 40

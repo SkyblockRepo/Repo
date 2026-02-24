@@ -31,7 +31,16 @@
         "type": "HEART_OF_THE_MOUNTAIN",
         "tier": 5
       }
-    ]
+    ],
+    "museum_data": {
+      "donation_xp": 8,
+      "parent": {
+        "RUBY_POLISHED_DRILL_ENGINE": "SAPPHIRE_POLISHED_DRILL_ENGINE"
+      },
+      "type": null,
+      "game_stage": "EXPERT",
+      "category": "MINING"
+    }
   },
   "recipes": [
     {

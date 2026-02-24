@@ -25,7 +25,9 @@
     },
     "name": "Wisp Upgrade Stone",
     "tier": "LEGENDARY",
-    "unstackable": true
+    "unstackable": true,
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

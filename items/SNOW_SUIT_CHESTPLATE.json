@@ -28,11 +28,12 @@
       "parent": {
         "SNOW_SUIT": "NUTCRACKER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SNOW_SUIT": 6
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 100,

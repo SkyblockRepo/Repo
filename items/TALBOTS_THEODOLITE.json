@@ -21,7 +21,14 @@
     "name": "Talbot's Theodolite",
     "tier": "RARE",
     "unstackable": true,
-    "npc_sell_price": 10
+    "npc_sell_price": 10,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "HUNTING"
+    }
   },
   "recipes": [],
   "soldBy": [

@@ -26,6 +26,15 @@
     "name": "Small Huntrap",
     "category": "TRAP",
     "tier": "COMMON",
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {
+        "RETIA_BASICA": "RETIA_MELIORA"
+      },
+      "type": null,
+      "game_stage": "STARTER",
+      "category": "HUNTING"
+    },
     "description": "%%dark_gray%%%%italic%%Fundamentum artis venandi."
   },
   "recipes": [

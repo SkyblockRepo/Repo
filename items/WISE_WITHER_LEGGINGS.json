@@ -80,11 +80,12 @@
       "parent": {
         "WISE_WITHER": "SPEED_WITHER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "WISE_WITHER": 6
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "HEALTH": 230,

@@ -34,8 +34,9 @@
       "parent": {
         "SUPER_UNDEAD_BOW": "DEATH_BOW"
       },
-      "type": "WEAPONS",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "DAMAGE": 220
