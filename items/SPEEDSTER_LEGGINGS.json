@@ -26,15 +26,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SPEEDSTER": 5
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "FARMING"
     },
     "stats": {
-      "DEFENSE": 95,
-      "WALK_SPEED": 15
+      "WALK_SPEED": 15,
+      "DEFENSE": 95
     }
   },
   "recipes": [

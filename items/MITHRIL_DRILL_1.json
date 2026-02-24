@@ -34,14 +34,15 @@
       "parent": {
         "MITHRIL_DRILL_1": "MITHRIL_DRILL_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
+      "BREAKING_POWER": 5,
       "DAMAGE": 65,
       "MINING_SPEED": 450,
-      "BREAKING_POWER": 5,
       "MINING_FORTUNE": 15
     }
   },

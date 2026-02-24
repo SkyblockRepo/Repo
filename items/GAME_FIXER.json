@@ -3,7 +3,7 @@
   "name": "Game Fixer",
   "category": "Pickaxe",
   "source": "HypixelAPI",
-  "npcValue": 777,
+  "npcValue": 0,
   "lore": "&7&7Given to individuals who broke the\n&7game too many times. Thanks for\n&7your great help!\n\n&7&8This item can be reforged!\n&8&l* &r&8Co-op Soulbound &8&l*&r\n&c&lVERY SPECIAL PICKAXE&r",
   "flags": {
     "tradable": false,
@@ -22,7 +22,6 @@
     "category": "PICKAXE",
     "tier": "VERY_SPECIAL",
     "glowing": true,
-    "npc_sell_price": 777,
     "museum": true,
     "description": "%%gray%%Given to individuals who broke the game too many times. Thanks for your great help!",
     "soulbound": "COOP"

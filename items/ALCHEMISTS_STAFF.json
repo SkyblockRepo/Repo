@@ -33,15 +33,16 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 50,
       "STRENGTH": 20,
-      "INTELLIGENCE": 20,
-      "WEAPON_ABILITY_DAMAGE": 10000
+      "WEAPON_ABILITY_DAMAGE": 10000,
+      "INTELLIGENCE": 20
     },
     "upgrade_costs": [
       [

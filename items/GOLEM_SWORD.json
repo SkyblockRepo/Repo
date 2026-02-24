@@ -25,13 +25,14 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 80,
       "DEFENSE": 25,
+      "DAMAGE": 80,
       "STRENGTH": 125,
       "WEAPON_ABILITY_DAMAGE": 250
     }

@@ -49,17 +49,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FIG": 7
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "FORAGING"
     },
     "stats": {
-      "sweep": 6,
       "health": 65,
       "defense": 25,
-      "foraging_fortune": 30
+      "foraging_fortune": 30,
+      "sweep": 6
     },
     "can_have_booster": true
   },

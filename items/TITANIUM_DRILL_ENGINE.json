@@ -25,7 +25,16 @@
     },
     "name": "Titanium-Plated Drill Engine",
     "tier": "RARE",
-    "npc_sell_price": 103000
+    "npc_sell_price": 103000,
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {
+        "TITANIUM_DRILL_ENGINE": "RUBY_POLISHED_DRILL_ENGINE"
+      },
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "MINING"
+    }
   },
   "recipes": [
     {

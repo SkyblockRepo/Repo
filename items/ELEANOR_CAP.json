@@ -25,15 +25,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ELEANOR": 5
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "health": 50,
-      "rift_Time": 20
+      "rift_Time": 20,
+      "health": 50
     },
     "description": "%%dark_gray%%%%italic%%Delicately crafted from the finest enchanted silk, this cap combines elegance with subtlety.",
     "rift_transferrable": true,

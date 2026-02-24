@@ -30,17 +30,18 @@
     "museum_data": {
       "donation_xp": 1,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "STARTER"
+      "type": null,
+      "game_stage": "STARTER",
+      "category": "FISHING"
     },
     "stats": {
-      "STRENGTH": 15,
-      "WALK_SPEED": 2
+      "WALK_SPEED": 2,
+      "STRENGTH": 15
     },
     "enchantments": {
+      "depth_strider": 1,
       "respiration": 5,
-      "aqua_affinity": 1,
-      "depth_strider": 1
+      "aqua_affinity": 1
     }
   },
   "recipes": [

@@ -82,18 +82,19 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "POWER_WITHER": 6
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 180,
       "DEFENSE": 100,
+      "HEALTH": 180,
       "STRENGTH": 40,
-      "INTELLIGENCE": 30,
-      "CRITICAL_DAMAGE": 30
+      "CRITICAL_DAMAGE": 30,
+      "INTELLIGENCE": 30
     },
     "upgrade_costs": [
       [

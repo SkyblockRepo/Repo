@@ -1,6 +1,6 @@
 {
   "internalId": "LEGGINGS_OF_THE_PACK",
-  "name": "Leggings Of The Pack",
+  "name": "Leggings of the Pack",
   "category": "Leggings",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -31,15 +31,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ARMOR_OF_THE_PACK": 7
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 80,
-      "DEFENSE": 75
+      "DEFENSE": 75,
+      "HEALTH": 80
     },
     "rift_transferrable": true
   },

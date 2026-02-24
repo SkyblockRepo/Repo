@@ -31,16 +31,17 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": [
         "STARRED_FELTHORN_REAPER"
       ]
     },
     "stats": {
       "DAMAGE": 275,
-      "SWING_RANGE": 1,
-      "CRITICAL_DAMAGE": 115
+      "CRITICAL_DAMAGE": 115,
+      "SWING_RANGE": 1
     },
     "upgrade_costs": [
       [

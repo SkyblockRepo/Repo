@@ -25,16 +25,17 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ELEGANT_TUXEDO": 6
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "COMBAT"
     },
     "stats": {
       "WALK_SPEED": 10,
-      "INTELLIGENCE": 100,
-      "CRITICAL_DAMAGE": 50
+      "CRITICAL_DAMAGE": 50,
+      "INTELLIGENCE": 100
     }
   },
   "recipes": []

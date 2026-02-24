@@ -29,14 +29,15 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "STRENGTH": 20,
-      "TRUE_DEFENSE": 10,
-      "CRITICAL_DAMAGE": 15
+      "CRITICAL_DAMAGE": 15,
+      "TRUE_DEFENSE": 10
     }
   },
   "recipes": [

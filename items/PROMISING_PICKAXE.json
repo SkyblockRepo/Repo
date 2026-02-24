@@ -26,13 +26,14 @@
     "museum_data": {
       "donation_xp": 2,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "STARTER"
+      "type": null,
+      "game_stage": "STARTER",
+      "category": "MINING"
     },
     "stats": {
+      "BREAKING_POWER": 3,
       "DAMAGE": 20,
-      "MINING_SPEED": 50,
-      "BREAKING_POWER": 3
+      "MINING_SPEED": 50
     }
   },
   "recipes": [

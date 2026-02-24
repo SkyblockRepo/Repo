@@ -1,6 +1,6 @@
 {
   "internalId": "PUMPKIN_DICER_2",
-  "name": "Pumpkin Dicer 2.0",
+  "name": "Pumpkin Dicer Mk. II",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -81,8 +81,9 @@
       "parent": {
         "PUMPKIN_DICER_2": "PUMPKIN_DICER_3"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "description": "%%italic%%Someone once said, II is always better than I!"

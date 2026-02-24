@@ -26,11 +26,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MINER_OUTFIT": 3
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "MINING"
     },
     "stats": {
       "DEFENSE": 40,

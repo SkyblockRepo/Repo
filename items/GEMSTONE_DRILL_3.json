@@ -54,16 +54,17 @@
       "parent": {
         "GEMSTONE_DRILL_3": "GEMSTONE_DRILL_4"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 75,
-      "PRISTINE": 1.5,
-      "MINING_SPEED": 450,
       "BREAKING_POWER": 9,
-      "GEMSTONE_FORTUNE": 100
+      "DAMAGE": 75,
+      "MINING_SPEED": 450,
+      "GEMSTONE_FORTUNE": 100,
+      "PRISTINE": 1.5
     }
   },
   "recipes": [

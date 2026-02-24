@@ -32,12 +32,13 @@
     "museum_data": {
       "donation_xp": 1,
       "parent": {},
-      "type": "WEAPONS",
-      "game_stage": "STARTER"
+      "type": null,
+      "game_stage": "STARTER",
+      "category": "COMBAT"
     },
     "stats": {
-      "DAMAGE": 50,
-      "STRENGTH": 10
+      "STRENGTH": 10,
+      "DAMAGE": 50
     }
   },
   "recipes": [],

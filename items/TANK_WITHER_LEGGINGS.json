@@ -85,15 +85,16 @@
       "parent": {
         "TANK_WITHER": "WISE_WITHER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "TANK_WITHER": 6
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 260,
       "DEFENSE": 240,
+      "HEALTH": 260,
       "INTELLIGENCE": 20
     },
     "upgrade_costs": [

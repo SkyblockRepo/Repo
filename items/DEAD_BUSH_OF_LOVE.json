@@ -1,9 +1,9 @@
 {
   "internalId": "DEAD_BUSH_OF_LOVE",
-  "name": "Dead Bush Of Love",
+  "name": "Dead Bush of Love",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 333,
+  "npcValue": 0,
   "lore": "&7This item was given to the kind souls\n&7who helped so much testing SkyBlock!\n&7Much love &c❤\n\n&c&lSPECIAL&r",
   "flags": {
     "tradable": true,
@@ -21,7 +21,6 @@
     "name": "Dead Bush of Love",
     "tier": "SPECIAL",
     "glowing": true,
-    "npc_sell_price": 333,
     "museum": true,
     "has_uuid": true
   },

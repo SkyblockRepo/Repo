@@ -1,6 +1,6 @@
 {
   "internalId": "HELMET_OF_THE_PACK",
-  "name": "Helmet Of The Pack",
+  "name": "Helmet of the Pack",
   "category": "Helmet",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -32,15 +32,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ARMOR_OF_THE_PACK": 7
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 70,
-      "DEFENSE": 65
+      "DEFENSE": 65,
+      "HEALTH": 70
     }
   },
   "recipes": [

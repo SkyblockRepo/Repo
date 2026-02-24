@@ -43,15 +43,16 @@
       "parent": {
         "LOTUS": "BLOSSOM"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "LOTUS": 4
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "FARMING"
     },
     "stats": {
-      "health": 10,
-      "FARMING_FORTUNE": 5
+      "FARMING_FORTUNE": 5,
+      "health": 10
     },
     "double_tap_to_drop": true
   },

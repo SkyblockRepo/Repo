@@ -31,13 +31,14 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 333,
-      "WALK_SPEED": 10
+      "WALK_SPEED": 10,
+      "DAMAGE": 333
     },
     "upgrade_costs": [
       [

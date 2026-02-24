@@ -1,6 +1,6 @@
 {
   "internalId": "MELON_DICER_2",
-  "name": "Melon Dicer 2.0",
+  "name": "Melon Dicer Mk. II",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -81,8 +81,9 @@
       "parent": {
         "MELON_DICER_2": "MELON_DICER_3"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "description": "%%italic%%Same as the Melon Dicer Mk. I, just better!"

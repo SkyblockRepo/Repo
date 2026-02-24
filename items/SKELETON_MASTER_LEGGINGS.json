@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SKELETON_MASTER": 3
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -80,18 +81,6 @@
     "gear_score": 10,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "HEALTH": [
-        24,
-        26,
-        28,
-        31,
-        34,
-        36,
-        40,
-        43,
-        47,
-        51
-      ],
       "DEFENSE": [
         38,
         42,
@@ -104,17 +93,17 @@
         74,
         82
       ],
-      "CRITICAL_CHANCE": [
-        2,
-        2,
-        2,
-        2,
-        3,
-        3,
-        3,
-        3,
-        4,
-        4
+      "HEALTH": [
+        24,
+        26,
+        28,
+        31,
+        34,
+        36,
+        40,
+        43,
+        47,
+        51
       ],
       "CRITICAL_DAMAGE": [
         22,
@@ -127,6 +116,18 @@
         38,
         41,
         45
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
       ]
     }
   },

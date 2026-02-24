@@ -35,11 +35,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GEMSTONE": 5
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "MINING"
     },
     "stats": {
       "mining_speed": 30,

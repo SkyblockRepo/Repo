@@ -64,15 +64,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "NECROMANCER_LORD": 12
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 300,
       "DEFENSE": 250,
+      "HEALTH": 300,
       "INTELLIGENCE": 10
     },
     "upgrade_costs": [

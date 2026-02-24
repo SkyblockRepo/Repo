@@ -1,6 +1,6 @@
 {
   "internalId": "GROWTH_HELMET",
-  "name": "Helmet Of Growth",
+  "name": "Helmet of Growth",
   "category": "Helmet",
   "source": "HypixelAPI",
   "npcValue": 50000,
@@ -28,15 +28,16 @@
       "parent": {
         "GROWTH": "MASTIFF"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GROWTH": 3
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 50,
-      "DEFENSE": 30
+      "DEFENSE": 30,
+      "HEALTH": 50
     }
   },
   "recipes": [

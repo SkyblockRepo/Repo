@@ -1,6 +1,6 @@
 {
   "internalId": "SINSEEKER_SCYTHE",
-  "name": "Sinseeker Scythe",
+  "name": "§4Sin§5seeker Scythe",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -31,8 +31,9 @@
     "museum_data": {
       "donation_xp": 7,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {

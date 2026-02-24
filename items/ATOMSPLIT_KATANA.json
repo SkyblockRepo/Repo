@@ -76,15 +76,16 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 305,
       "STRENGTH": 100,
-      "INTELLIGENCE": 300,
-      "CRITICAL_DAMAGE": 50
+      "CRITICAL_DAMAGE": 50,
+      "INTELLIGENCE": 300
     },
     "sword_type": "KATANA"
   },

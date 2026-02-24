@@ -32,12 +32,13 @@
       "parent": {
         "DARK_GOGGLES": "SHADOW_GOGGLES"
       },
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "INTELLIGENCE": 150,
-      "ABILITY_DAMAGE_PERCENT": 25
+      "ABILITY_DAMAGE_PERCENT": 25,
+      "INTELLIGENCE": 150
     },
     "upgrade_costs": [
       [

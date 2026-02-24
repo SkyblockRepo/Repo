@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "HEAVY": 3
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -80,18 +81,6 @@
     "gear_score": 10,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "DEFENSE": [
-        92,
-        100,
-        109,
-        118,
-        129,
-        140,
-        152,
-        165,
-        179,
-        195
-      ],
       "WALK_SPEED": [
         -5,
         -5,
@@ -103,6 +92,18 @@
         -5,
         -5,
         -5
+      ],
+      "DEFENSE": [
+        92,
+        100,
+        109,
+        118,
+        129,
+        140,
+        152,
+        165,
+        179,
+        195
       ]
     }
   },

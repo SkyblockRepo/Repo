@@ -34,15 +34,16 @@
       "parent": {
         "ZOMBIE": "REVENANT"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ZOMBIE": 4
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 160,
-      "DEFENSE": 30
+      "DEFENSE": 30,
+      "HEALTH": 160
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "UNDEAD",

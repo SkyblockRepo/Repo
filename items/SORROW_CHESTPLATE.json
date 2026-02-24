@@ -96,8 +96,8 @@
             "profile_type": "ISLAND"
           },
           {
-            "tier": 5,
-            "type": "HEART_OF_THE_MOUNTAIN"
+            "type": "HEART_OF_THE_MOUNTAIN",
+            "tier": 5
           }
         ]
       }
@@ -105,17 +105,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SORROW": 10
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "MINING"
     },
     "stats": {
       "MAGIC_FIND": 5,
-      "MINING_SPEED": 50,
+      "MINING_FORTUNE": 20,
       "TRUE_DEFENSE": 80,
-      "MINING_FORTUNE": 20
+      "MINING_SPEED": 50
     }
   },
   "recipes": [

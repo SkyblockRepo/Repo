@@ -49,8 +49,9 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": [
         "STARRED_ICE_SPRAY_WAND"
       ]
@@ -108,6 +109,9 @@
         93,
         100
       ],
+      "WEAPON_ABILITY_DAMAGE": [
+        17000
+      ],
       "INTELLIGENCE": [
         118,
         128,
@@ -119,9 +123,6 @@
         212,
         230,
         250
-      ],
-      "WEAPON_ABILITY_DAMAGE": [
-        17000
       ]
     }
   },

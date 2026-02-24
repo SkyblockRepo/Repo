@@ -26,16 +26,17 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FAIRY": 2
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 1,
-      "DEFENSE": 1,
       "WALK_SPEED": 10,
+      "DEFENSE": 1,
+      "HEALTH": 1,
       "INTELLIGENCE": -1
     }
   },

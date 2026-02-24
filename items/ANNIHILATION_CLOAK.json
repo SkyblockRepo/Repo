@@ -36,15 +36,16 @@
     "museum_data": {
       "donation_xp": 16,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "health": 80,
       "strength": 20,
-      "magic_find": 2,
       "critical_damage": 20,
+      "magic_find": 2,
       "foraging_wisdom": 2
     }
   },

@@ -31,15 +31,16 @@
     "museum_data": {
       "donation_xp": 7,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 310,
       "STRENGTH": 40,
-      "CRITICAL_CHANCE": 10,
-      "CRITICAL_DAMAGE": 110
+      "CRITICAL_DAMAGE": 110,
+      "CRITICAL_CHANCE": 10
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "DRAGON",

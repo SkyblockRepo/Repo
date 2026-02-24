@@ -20,7 +20,14 @@
     "material": "SHEARS",
     "name": "Moby's Shears",
     "category": "SHEARS",
-    "tier": "RARE"
+    "tier": "RARE",
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "FARMING"
+    }
   },
   "recipes": [],
   "soldBy": [

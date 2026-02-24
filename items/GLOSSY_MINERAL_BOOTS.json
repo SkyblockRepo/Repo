@@ -25,15 +25,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GLOSSY_MINERAL": 7
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "MINING"
     },
     "stats": {
-      "DEFENSE": 90,
       "WALK_SPEED": 20,
+      "DEFENSE": 90,
       "BLOCK_FORTUNE": 50
     }
   },

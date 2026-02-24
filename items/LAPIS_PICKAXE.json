@@ -25,13 +25,14 @@
     "museum_data": {
       "donation_xp": 2,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "MINING"
     },
     "stats": {
+      "BREAKING_POWER": 4,
       "DAMAGE": 20,
-      "MINING_SPEED": 200,
-      "BREAKING_POWER": 4
+      "MINING_SPEED": 200
     },
     "item_specific": {
       "bonus_experience_chance": 25

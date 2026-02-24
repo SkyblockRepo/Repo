@@ -1,6 +1,6 @@
 {
   "internalId": "CHESTPLATE_OF_THE_PACK",
-  "name": "Chestplate Of The Pack",
+  "name": "Chestplate of the Pack",
   "category": "Chestplate",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -32,15 +32,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ARMOR_OF_THE_PACK": 7
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 100,
-      "DEFENSE": 95
+      "DEFENSE": 95,
+      "HEALTH": 100
     }
   },
   "recipes": [

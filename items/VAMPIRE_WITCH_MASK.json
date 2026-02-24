@@ -29,13 +29,14 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 132,
       "DEFENSE": 222,
+      "HEALTH": 132,
       "WEAPON_ABILITY_DAMAGE": 3000
     },
     "ability_damage_scaling": 0.2,

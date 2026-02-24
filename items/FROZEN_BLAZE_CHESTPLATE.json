@@ -78,16 +78,17 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FROZEN_BLAZE": 10
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
+      "WALK_SPEED": 2,
       "DEFENSE": 180,
-      "STRENGTH": 40,
-      "WALK_SPEED": 2
+      "STRENGTH": 40
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "ICE",

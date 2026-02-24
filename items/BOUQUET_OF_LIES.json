@@ -1,6 +1,6 @@
 {
   "internalId": "BOUQUET_OF_LIES",
-  "name": "Bouquet Of Lies",
+  "name": "Bouquet of Lies",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 100000,
@@ -50,8 +50,9 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {

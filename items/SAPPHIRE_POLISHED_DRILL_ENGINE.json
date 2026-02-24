@@ -31,7 +31,16 @@
         "type": "HEART_OF_THE_MOUNTAIN",
         "tier": 6
       }
-    ]
+    ],
+    "museum_data": {
+      "donation_xp": 10,
+      "parent": {
+        "SAPPHIRE_POLISHED_DRILL_ENGINE": "AMBER_POLISHED_DRILL_ENGINE"
+      },
+      "type": null,
+      "game_stage": "PROFESSIONAL",
+      "category": "MINING"
+    }
   },
   "recipes": [
     {

@@ -25,13 +25,14 @@
     "museum_data": {
       "donation_xp": 1,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "STARTER"
+      "type": null,
+      "game_stage": "STARTER",
+      "category": "COMBAT"
     },
     "stats": {
       "WALK_SPEED": 2,
-      "INTELLIGENCE": 10,
-      "WEAPON_ABILITY_DAMAGE": 50
+      "WEAPON_ABILITY_DAMAGE": 50,
+      "INTELLIGENCE": 10
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "UNDEAD",

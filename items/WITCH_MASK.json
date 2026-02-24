@@ -31,13 +31,14 @@
       "parent": {
         "WITCH_MASK": "VAMPIRE_WITCH_MASK"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 66,
       "DEFENSE": 111,
+      "HEALTH": 66,
       "WEAPON_ABILITY_DAMAGE": 4000
     },
     "has_uuid": true

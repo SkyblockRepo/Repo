@@ -34,11 +34,12 @@
       "parent": {
         "MUSHROOM": "BIOHAZARD"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MUSHROOM": 2
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "FARMING"
     },
     "stats": {
       "HEALTH": 15

@@ -1,6 +1,6 @@
 {
   "internalId": "PUMPKIN_DICER_3",
-  "name": "Pumpkin Dicer 3.0",
+  "name": "Pumpkin Dicer Mk. III",
   "category": "Axe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -93,8 +93,9 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "description": "%%italic%%\"III is better than the II version\" - CEO of PumpkinDicer LLC."

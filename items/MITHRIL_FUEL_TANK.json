@@ -25,7 +25,16 @@
     },
     "name": "Mithril-Infused Fuel Tank",
     "tier": "RARE",
-    "npc_sell_price": 35300
+    "npc_sell_price": 35300,
+    "museum_data": {
+      "donation_xp": 5,
+      "parent": {
+        "MITHRIL_FUEL_TANK": "TITANIUM_FUEL_TANK"
+      },
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "MINING"
+    }
   },
   "recipes": [
     {

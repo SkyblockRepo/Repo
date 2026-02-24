@@ -32,13 +32,14 @@
       "parent": {
         "SKYMART_VACUUM": "SKYMART_TURBO_VACUUM"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "AMATEUR",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "stats": {
-      "damage": 100,
-      "farming_fortune": 5
+      "farming_fortune": 5,
+      "damage": 100
     },
     "has_uuid": true
   },

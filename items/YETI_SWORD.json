@@ -54,8 +54,9 @@
     "museum_data": {
       "donation_xp": 7,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": [
         "STARRED_YETI_SWORD"
       ]
@@ -63,8 +64,8 @@
     "stats": {
       "DAMAGE": 150,
       "STRENGTH": 170,
-      "INTELLIGENCE": 50,
-      "WEAPON_ABILITY_DAMAGE": 15000
+      "WEAPON_ABILITY_DAMAGE": 15000,
+      "INTELLIGENCE": 50
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "ICE",

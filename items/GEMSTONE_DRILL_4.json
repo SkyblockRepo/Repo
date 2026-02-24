@@ -52,16 +52,17 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 75,
-      "PRISTINE": 2,
-      "MINING_SPEED": 600,
       "BREAKING_POWER": 9,
-      "GEMSTONE_FORTUNE": 120
+      "DAMAGE": 75,
+      "MINING_SPEED": 600,
+      "GEMSTONE_FORTUNE": 120,
+      "PRISTINE": 2
     }
   },
   "recipes": [

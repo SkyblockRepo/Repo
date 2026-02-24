@@ -1,0 +1,34 @@
+{
+  "internalId": "WITCH_RING",
+  "name": "Witch's Ring",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "WITCH_RING",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2NzgzMTcwNDMxNiwKICAicHJvZmlsZUlkIiA6ICIyNDY1ODI2NWVjMjg0NTY4YTg3MDJkOTVlYzdlYTc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmdvc1oxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YWQzZGIyNGJiMWU0ODU5MGU1NWE2YzA3ZDBmNGQyZDRkODNjMTkwZDNiN2E5NmEzZjU2MGFjNTUwMWVkOTYzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "tlAqo0BJm19Mt1sStwbIPQNYHHfJbD3K7rrvO89EXC3/VvYf7C8JzFG1gEFET7vai+6mF+aoKLpokApIw1+SRTZzScxv/EUzBJy9Jbe31PCIuaf6tuNNvLNL/bskHhBYUj0ihso1vdAUODDQjsIf2sw7uu1S07mC8Pm7PhtPS/WmDqrUdQlGB7wLjcf+/VATZYM0nWwsrdBRXcgorlektQbuWG7LxnIQoj5LCcqeYcJgEpiFnks2UaJm2O6RPbYEE4pxCuihIqdPHclKvGIsW0RdyIYIDMoOEZlW/5IyLMEBIrWWuM0T/02L3It5dSyiiYX0FW1av2kqgEwIW4vJOYzRZqIYWlBFbgmpgLgpivuCH5vTqgd+Iaa2fd5Po5KygMATKc1KMsyTqm8FQoN6ZP8pLLNShnOAZiFgM0NWRxak12ZiraOybT5NL18dc4MMkMMlQjRMVcb1H555/mNISL7b8BzT6EUMxsB1hsZp7RapsbOArMmM+AbpLToPOha0FJjE6VCZE57wZGplxRafE1zyTDRHnN29F9zmhVK0OY3IPMR522XaTmXwtJ3WvgmEtQ2wx/0oCMWxh51JhO3WT9F1IclR96Tu7UAVVaN1zRIoJHyAs7ZCQra2jmZYlemzlKsfv0i/r0kU6wWJKZ5wB4C1Fv0ehbGFR63JSjWj/Ok="
+    },
+    "name": "Witch's Ring",
+    "category": "ACCESSORY",
+    "tier": "UNCOMMON",
+    "stats": {
+      "alchemy_wisdom": 1
+    },
+    "description": "%%dark_gray%%%%italic%%Stinks up your entire accessory bag - somebody clearly didn't wash their hands after making a stew."
+  }
+}

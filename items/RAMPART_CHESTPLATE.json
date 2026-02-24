@@ -33,15 +33,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "RAMPART": 6
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 175,
       "DEFENSE": 60,
+      "HEALTH": 175,
       "INTELLIGENCE": 5
     },
     "upgrade_costs": [
@@ -270,8 +271,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 5,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 5
       }
     ],
     "soulbound": "COOP"

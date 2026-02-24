@@ -25,15 +25,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ELEANOR": 5
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "health": 75,
-      "rift_Time": 20
+      "rift_Time": 20,
+      "health": 75
     },
     "description": "%%dark_gray%%%%italic%%These trousers boast exquisite fabric, offering both comfort and a polished look.",
     "rift_transferrable": true,

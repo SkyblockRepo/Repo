@@ -34,10 +34,14 @@
       }
     ],
     "museum_data": {
-      "donation_xp": 1,
+      "donation_xp": 0,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "armor_set_donation_xp": {
+        "PESTHUNTER": 4
+      },
+      "game_stage": "AMATEUR",
+      "category": "FARMING"
     },
     "stats": {
       "bonus_pest_chance": 5

@@ -60,11 +60,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "DIAMOND_HUNTER": 25
       },
-      "game_stage": "MASTER"
+      "game_stage": "MASTER",
+      "category": "FISHING"
     },
     "stats": {
       "health": 125

@@ -1,6 +1,6 @@
 {
   "internalId": "ASPECT_OF_THE_JERRY",
-  "name": "Aspect Of The Jerry",
+  "name": "Aspect of the Jerry",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -24,8 +24,9 @@
     "museum_data": {
       "donation_xp": 1,
       "parent": {},
-      "type": "WEAPONS",
-      "game_stage": "STARTER"
+      "type": null,
+      "game_stage": "STARTER",
+      "category": "COMBAT"
     },
     "stats": {
       "DAMAGE": 1

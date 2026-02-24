@@ -94,14 +94,15 @@
     "museum_data": {
       "donation_xp": 25,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "MASTER"
+      "type": null,
+      "game_stage": "MASTER",
+      "category": "MINING"
     },
     "stats": {
-      "DAMAGE": 75,
-      "MINING_SPEED": 1800,
       "BREAKING_POWER": 10,
-      "MINING_FORTUNE": 150
+      "DAMAGE": 75,
+      "MINING_FORTUNE": 150,
+      "MINING_SPEED": 1800
     }
   },
   "recipes": [

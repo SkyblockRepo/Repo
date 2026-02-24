@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ZOMBIE_LORD": 10
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -80,18 +81,6 @@
     "gear_score": 25,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "HEALTH": [
-        85,
-        95,
-        105,
-        117,
-        130,
-        144,
-        160,
-        178,
-        198,
-        220
-      ],
       "DEFENSE": [
         39,
         43,
@@ -103,6 +92,18 @@
         81,
         90,
         100
+      ],
+      "HEALTH": [
+        85,
+        95,
+        105,
+        117,
+        130,
+        144,
+        160,
+        178,
+        198,
+        220
       ],
       "STRENGTH": [
         7,

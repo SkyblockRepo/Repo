@@ -21,7 +21,9 @@
     "name": "Enchanted Bookshelf",
     "tier": "UNCOMMON",
     "glowing": true,
-    "npc_sell_price": 2700
+    "npc_sell_price": 2700,
+    "can_recombobulate": false,
+    "force_wipe_recomb": true
   },
   "recipes": [
     {

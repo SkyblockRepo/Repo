@@ -1,6 +1,6 @@
 {
   "internalId": "DIVAN_CHESTPLATE",
-  "name": "Chestplate Of Divan",
+  "name": "Chestplate of Divan",
   "category": "Chestplate",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -82,17 +82,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "DIVAN": 20
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "MINING"
     },
     "stats": {
-      "HEALTH": 200,
       "DEFENSE": 130,
-      "MINING_SPEED": 80,
+      "HEALTH": 200,
       "MINING_FORTUNE": 30,
+      "MINING_SPEED": 80,
       "HEAT_RESISTANCE": 10
     }
   },

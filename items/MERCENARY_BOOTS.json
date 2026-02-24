@@ -33,15 +33,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MERCENARY": 1
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 30,
-      "DEFENSE": 30
+      "DEFENSE": 30,
+      "HEALTH": 30
     }
   },
   "recipes": [],

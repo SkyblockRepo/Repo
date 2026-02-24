@@ -99,18 +99,19 @@
       "parent": {
         "SPEED_WITHER": "POWER_WITHER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SPEED_WITHER": 6
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 180,
-      "DEFENSE": 80,
       "WALK_SPEED": 30,
-      "INTELLIGENCE": 15,
-      "CRITICAL_DAMAGE": 45
+      "DEFENSE": 80,
+      "HEALTH": 180,
+      "CRITICAL_DAMAGE": 45,
+      "INTELLIGENCE": 15
     },
     "upgrade_costs": [
       [

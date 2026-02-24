@@ -32,8 +32,9 @@
     "museum_data": {
       "donation_xp": 2,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "upgrade_costs": [
@@ -101,6 +102,9 @@
         42,
         45
       ],
+      "WEAPON_ABILITY_DAMAGE": [
+        500
+      ],
       "INTELLIGENCE": [
         85,
         92,
@@ -112,9 +116,6 @@
         152,
         166,
         180
-      ],
-      "WEAPON_ABILITY_DAMAGE": [
-        500
       ]
     }
   },

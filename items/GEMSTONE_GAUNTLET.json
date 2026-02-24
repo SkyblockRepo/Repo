@@ -57,15 +57,16 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
+      "BREAKING_POWER": 8,
       "DAMAGE": 300,
-      "STRENGTH": 50,
       "MINING_SPEED": 800,
-      "BREAKING_POWER": 8
+      "STRENGTH": 50
     }
   },
   "recipes": [

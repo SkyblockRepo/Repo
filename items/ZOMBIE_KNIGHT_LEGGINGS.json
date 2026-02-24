@@ -32,11 +32,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ZOMBIE_KNIGHT": 7
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -79,6 +80,18 @@
     "gear_score": 10,
     "rarity_salvageable": true,
     "tiered_stats": {
+      "WALK_SPEED": [
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8
+      ],
       "DEFENSE": [
         85,
         92,
@@ -102,18 +115,6 @@
         27,
         30,
         33
-      ],
-      "WALK_SPEED": [
-        5,
-        5,
-        5,
-        6,
-        6,
-        6,
-        7,
-        7,
-        7,
-        8
       ]
     }
   },

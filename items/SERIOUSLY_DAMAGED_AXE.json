@@ -33,14 +33,15 @@
       "parent": {
         "SERIOUSLY_DAMAGED_AXE": "DECENT_AXE"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "STARTER",
+      "category": "FORAGING",
       "mapped_item_ids": []
     },
     "stats": {
+      "FORAGING_FORTUNE": 5,
       "SWEEP": 7,
-      "damage": 10,
-      "FORAGING_FORTUNE": 5
+      "damage": 10
     },
     "can_have_booster": true
   },

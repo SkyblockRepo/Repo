@@ -28,13 +28,14 @@
       "parent": {
         "FRACTURED_MITHRIL_PICKAXE": "BANDAGED_MITHRIL_PICKAXE"
       },
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "MINING"
     },
     "stats": {
+      "BREAKING_POWER": 5,
       "DAMAGE": 30,
       "MINING_SPEED": 225,
-      "BREAKING_POWER": 5,
       "MINING_FORTUNE": 2
     }
   },

@@ -71,11 +71,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "NUTCRACKER": 10
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "FISHING"
     },
     "stats": {
       "health": 80,
@@ -85,8 +86,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 15,
-        "essence_type": "ICE"
+        "essence_type": "ICE",
+        "amount": 15
       }
     ]
   },

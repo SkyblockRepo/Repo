@@ -24,13 +24,14 @@
     "museum_data": {
       "donation_xp": 2,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "AMATEUR",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 50,
-      "WALK_SPEED": 40
+      "WALK_SPEED": 40,
+      "DAMAGE": 50
     },
     "soulbound": "COOP"
   },

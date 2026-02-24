@@ -25,13 +25,14 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "DEFENSE": 125,
-      "WALK_SPEED": 15
+      "WALK_SPEED": 15,
+      "DEFENSE": 125
     }
   },
   "recipes": [

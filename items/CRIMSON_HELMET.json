@@ -100,17 +100,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CRIMSON": 10
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 160,
       "DEFENSE": 50,
-      "STRENGTH": 30,
+      "HEALTH": 160,
       "INTELLIGENCE": 15,
+      "STRENGTH": 30,
       "CRITICAL_DAMAGE": 20
     },
     "upgrade_costs": [
@@ -201,19 +202,19 @@
       ]
     ],
     "prestige": {
+      "item_id": "HOT_CRIMSON_HELMET",
       "costs": [
         {
           "type": "ESSENCE",
-          "amount": 150,
-          "essence_type": "CRIMSON"
+          "essence_type": "CRIMSON",
+          "amount": 150
         },
         {
           "type": "ITEM",
-          "amount": 10,
-          "item_id": "KUUDRA_TEETH"
+          "item_id": "KUUDRA_TEETH",
+          "amount": 10
         }
-      ],
-      "item_id": "HOT_CRIMSON_HELMET"
+      ]
     }
   },
   "recipes": []

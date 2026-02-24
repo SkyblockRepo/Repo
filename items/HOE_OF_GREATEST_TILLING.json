@@ -1,6 +1,6 @@
 {
   "internalId": "HOE_OF_GREATEST_TILLING",
-  "name": "Hoe Of Greatest Tilling",
+  "name": "Hoe of Greatest Tilling",
   "category": "Hoe",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -32,8 +32,9 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "FARMING"
     }
   },
   "recipes": [],

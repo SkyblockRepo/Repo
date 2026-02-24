@@ -1,6 +1,6 @@
 {
   "internalId": "TOTEM_OF_CORRUPTION",
-  "name": "Totem Of Corruption",
+  "name": "Totem of Corruption",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 96000,
@@ -22,7 +22,14 @@
     "name": "Totem of Corruption",
     "category": "DEPLOYABLE",
     "tier": "UNCOMMON",
-    "npc_sell_price": 96000
+    "npc_sell_price": 96000,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "FISHING"
+    }
   },
   "recipes": [
     {

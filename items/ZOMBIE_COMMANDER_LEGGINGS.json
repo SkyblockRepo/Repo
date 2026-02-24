@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ZOMBIE_COMMANDER": 8
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -80,18 +81,6 @@
     "gear_score": 40,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "HEALTH": [
-        51,
-        57,
-        64,
-        71,
-        78,
-        87,
-        97,
-        107,
-        120,
-        134
-      ],
       "DEFENSE": [
         30,
         32,
@@ -103,6 +92,18 @@
         62,
         70,
         77
+      ],
+      "HEALTH": [
+        51,
+        57,
+        64,
+        71,
+        78,
+        87,
+        97,
+        107,
+        120,
+        134
       ],
       "STRENGTH": [
         8,

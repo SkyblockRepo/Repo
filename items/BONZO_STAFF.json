@@ -37,16 +37,17 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": [
         "STARRED_BONZO_STAFF"
       ]
     },
     "stats": {
       "DAMAGE": 160,
-      "INTELLIGENCE": 250,
-      "WEAPON_ABILITY_DAMAGE": 1000
+      "WEAPON_ABILITY_DAMAGE": 1000,
+      "INTELLIGENCE": 250
     },
     "upgrade_costs": [
       [

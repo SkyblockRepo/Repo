@@ -39,15 +39,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SHIMMERING_LIGHT": 16
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 130,
       "DEFENSE": 120,
+      "HEALTH": 130,
       "INTELLIGENCE": 120
     },
     "upgrade_costs": [

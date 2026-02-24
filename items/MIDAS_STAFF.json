@@ -24,8 +24,9 @@
     "museum_data": {
       "donation_xp": 12,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "COMBAT",
       "mapped_item_ids": [
         "STARRED_MIDAS_STAFF"
       ]
@@ -33,8 +34,8 @@
     "stats": {
       "DAMAGE": 130,
       "STRENGTH": 150,
-      "INTELLIGENCE": 50,
-      "WEAPON_ABILITY_DAMAGE": 6000
+      "WEAPON_ABILITY_DAMAGE": 6000,
+      "INTELLIGENCE": 50
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "GOLD",

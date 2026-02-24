@@ -33,17 +33,18 @@
       "parent": {
         "MELON": "CROPIE"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MELON": 4
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "FARMING"
     },
     "stats": {
+      "farming_fortune": 15,
+      "walk_speed": 2,
       "health": 100,
       "defense": 25,
-      "walk_speed": 2,
-      "farming_fortune": 15,
       "bonus_pest_chance": 10
     }
   },

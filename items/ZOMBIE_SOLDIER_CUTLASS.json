@@ -32,8 +32,9 @@
     "museum_data": {
       "donation_xp": 3,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "upgrade_costs": [
@@ -89,18 +90,6 @@
         93,
         100
       ],
-      "STRENGTH": [
-        26,
-        28,
-        30,
-        32,
-        35,
-        37,
-        40,
-        43,
-        47,
-        50
-      ],
       "ATTACK_SPEED": [
         100,
         100,
@@ -112,6 +101,18 @@
         100,
         100,
         100
+      ],
+      "STRENGTH": [
+        26,
+        28,
+        30,
+        32,
+        35,
+        37,
+        40,
+        43,
+        47,
+        50
       ]
     }
   },

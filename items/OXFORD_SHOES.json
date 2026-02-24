@@ -24,11 +24,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SEYMOUR": 4
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "FARMING"
     },
     "stats": {
       "health": 25,

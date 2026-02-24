@@ -49,15 +49,16 @@
       "parent": {
         "FIG_AXE": "FIGSTONE_AXE"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "AMATEUR",
+      "category": "FORAGING",
       "mapped_item_ids": []
     },
     "stats": {
-      "sweep": 7,
       "damage": 30,
-      "strength": 10,
-      "foraging_fortune": 20
+      "sweep": 7,
+      "foraging_fortune": 20,
+      "strength": 10
     },
     "upgrade_costs": [
       [

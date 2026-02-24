@@ -1,6 +1,6 @@
 {
   "internalId": "MERCENARY_AXE",
-  "name": "Mercenary Axe",
+  "name": "Mercenary Sword",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 15000,
@@ -32,13 +32,14 @@
     "museum_data": {
       "donation_xp": 3,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "AMATEUR",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 70,
-      "STRENGTH": 20
+      "STRENGTH": 20,
+      "DAMAGE": 70
     }
   },
   "recipes": [],

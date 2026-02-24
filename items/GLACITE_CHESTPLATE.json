@@ -46,25 +46,26 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GLACITE": 4
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "MINING"
     },
     "stats": {
-      "DEFENSE": 150,
       "WALK_SPEED": 15,
-      "MINING_SPEED": 10,
+      "DEFENSE": 150,
       "TRUE_DEFENSE": 10,
+      "MINING_SPEED": 10,
       "MINING_FORTUNE": 5
     },
     "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 2,
-        "essence_type": "ICE"
+        "essence_type": "ICE",
+        "amount": 2
       }
     ]
   },

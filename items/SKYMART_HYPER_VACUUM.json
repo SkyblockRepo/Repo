@@ -1,6 +1,6 @@
 {
   "internalId": "SKYMART_HYPER_VACUUM",
-  "name": "Skymart Hyper Vacuum",
+  "name": "SkyMart Hyper Vacuum",
   "category": "Vacuum",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -32,13 +32,14 @@
       "parent": {
         "SKYMART_HYPER_VACUUM": "INFINI_VACUUM"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "stats": {
-      "damage": 150,
-      "farming_fortune": 15
+      "farming_fortune": 15,
+      "damage": 150
     },
     "has_uuid": true
   },

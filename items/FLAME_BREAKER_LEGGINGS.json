@@ -67,17 +67,18 @@
       "parent": {
         "FLAME_BREAKER": "ARMOR_OF_YOG"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FLAME_BREAKER": 3
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "MINING"
     },
     "stats": {
-      "HEALTH": 60,
       "DEFENSE": 60,
-      "MINING_SPEED": 25,
+      "HEALTH": 60,
       "MINING_FORTUNE": 15,
+      "MINING_SPEED": 25,
       "HEAT_RESISTANCE": 5
     }
   },

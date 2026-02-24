@@ -26,18 +26,26 @@
     "name": "Golden Professor Head",
     "category": "HELMET",
     "tier": "SPECIAL",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "dungeon_type": "CATACOMBS",
+        "tier": 3
+      }
+    ],
     "museum": true,
     "museum_data": {
       "donation_xp": 5,
       "parent": {
         "GOLD_PROFESSOR_HEAD": "DIAMOND_PROFESSOR_HEAD"
       },
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 40,
       "DEFENSE": 20,
+      "HEALTH": 40,
       "STRENGTH": 10
     },
     "upgrade_costs": [

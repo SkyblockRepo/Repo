@@ -32,15 +32,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "PUMPKIN": 2
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "FARMING"
     },
     "stats": {
-      "HEALTH": 8,
-      "DEFENSE": 8
+      "DEFENSE": 8,
+      "HEALTH": 8
     }
   },
   "recipes": [

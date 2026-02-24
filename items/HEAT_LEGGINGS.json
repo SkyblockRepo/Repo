@@ -38,18 +38,19 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "HEAT": 2
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "MINING"
     },
     "stats": {
-      "HEALTH": 20,
       "DEFENSE": 50,
-      "STRENGTH": 15,
-      "MINING_SPEED": 15,
+      "HEALTH": 20,
       "MINING_FORTUNE": 10,
+      "MINING_SPEED": 15,
+      "STRENGTH": 15,
       "HEAT_RESISTANCE": 20
     }
   },

@@ -38,14 +38,15 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "HEALTH": 100,
-      "DEFENSE": 30,
-      "INTELLIGENCE": 50
+      "INTELLIGENCE": 50,
+      "DEFENSE": 30
     },
     "upgrade_costs": [
       [

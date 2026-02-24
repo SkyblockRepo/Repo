@@ -96,18 +96,19 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "HOLLOW": 10
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 150,
-      "DEFENSE": 45,
-      "mending": 5,
       "WALK_SPEED": 5,
-      "INTELLIGENCE": 85
+      "DEFENSE": 45,
+      "HEALTH": 150,
+      "INTELLIGENCE": 85,
+      "mending": 5
     },
     "upgrade_costs": [
       [
@@ -197,19 +198,19 @@
       ]
     ],
     "prestige": {
+      "item_id": "HOT_HOLLOW_BOOTS",
       "costs": [
         {
           "type": "ESSENCE",
-          "amount": 150,
-          "essence_type": "CRIMSON"
+          "essence_type": "CRIMSON",
+          "amount": 150
         },
         {
           "type": "ITEM",
-          "amount": 10,
-          "item_id": "KUUDRA_TEETH"
+          "item_id": "KUUDRA_TEETH",
+          "amount": 10
         }
-      ],
-      "item_id": "HOT_HOLLOW_BOOTS"
+      ]
     }
   },
   "recipes": []

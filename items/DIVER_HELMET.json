@@ -55,18 +55,19 @@
       "parent": {
         "DIVER": "ABYSSAL"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "DIVER": 10
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "FISHING"
     },
     "stats": {
       "health": 150,
       "defense": 60,
-      "respiration": 3,
+      "sea_creature_chance": 2,
       "pressure_resistance": 15,
-      "sea_creature_chance": 2
+      "respiration": 3
     }
   },
   "recipes": [

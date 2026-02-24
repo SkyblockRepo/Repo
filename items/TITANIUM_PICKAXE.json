@@ -34,13 +34,14 @@
       "parent": {
         "TITANIUM_PICKAXE": "REFINED_TITANIUM_PICKAXE"
       },
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "MINING"
     },
     "stats": {
+      "BREAKING_POWER": 6,
       "DAMAGE": 60,
-      "MINING_SPEED": 140,
-      "BREAKING_POWER": 6
+      "MINING_SPEED": 140
     }
   },
   "recipes": [],

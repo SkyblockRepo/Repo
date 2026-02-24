@@ -63,17 +63,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "LAVA_SEA_CREATURE": 10
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "FISHING"
     },
     "stats": {
       "health": 150,
       "defense": 125,
-      "strength": 20,
-      "sea_creature_chance": 3
+      "sea_creature_chance": 3,
+      "strength": 20
     },
     "upgrade_costs": [
       [
@@ -216,8 +217,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 15,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 15
       }
     ]
   },

@@ -53,15 +53,16 @@
       "parent": {
         "BURSTMAW_DAGGER": "HEARTMAW_DAGGER"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 130,
       "STRENGTH": 55,
-      "ATTACK_SPEED": 10,
-      "CRITICAL_DAMAGE": 20
+      "CRITICAL_DAMAGE": 20,
+      "ATTACK_SPEED": 10
     },
     "sword_type": "DAGGER"
   },

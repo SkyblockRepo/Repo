@@ -31,16 +31,17 @@
       "parent": {
         "CHALLENGER": "MYTHOS"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CHALLENGER": 6
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
+      "STRENGTH": 5,
       "HEALTH": 20,
-      "DEFENSE": 10,
-      "STRENGTH": 5
+      "DEFENSE": 10
     }
   },
   "recipes": [

@@ -67,13 +67,14 @@
     "museum_data": {
       "donation_xp": 12,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 222,
       "DEFENSE": 222,
+      "HEALTH": 222,
       "INTELLIGENCE": 222
     },
     "upgrade_costs": [

@@ -25,7 +25,16 @@
     },
     "name": "Mithril-Plated Drill Engine",
     "tier": "RARE",
-    "npc_sell_price": 45500
+    "npc_sell_price": 45500,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {
+        "MITHRIL_DRILL_ENGINE": "TITANIUM_DRILL_ENGINE"
+      },
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "MINING"
+    }
   },
   "recipes": [
     {

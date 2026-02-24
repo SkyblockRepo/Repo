@@ -83,17 +83,18 @@
       "parent": {
         "ASTRAEA": "SCYLLA"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 270,
       "DEFENSE": 250,
-      "FEROCITY": 30,
+      "DAMAGE": 270,
       "STRENGTH": 150,
-      "INTELLIGENCE": 50,
-      "TRUE_DEFENSE": 20
+      "FEROCITY": 30,
+      "TRUE_DEFENSE": 20,
+      "INTELLIGENCE": 50
     },
     "upgrade_costs": [
       [

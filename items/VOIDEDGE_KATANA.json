@@ -63,15 +63,16 @@
       "parent": {
         "VOIDEDGE_KATANA": "VORPAL_KATANA"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 155,
       "STRENGTH": 60,
-      "INTELLIGENCE": 50,
-      "CRITICAL_DAMAGE": 25
+      "CRITICAL_DAMAGE": 25,
+      "INTELLIGENCE": 50
     },
     "sword_type": "KATANA"
   },

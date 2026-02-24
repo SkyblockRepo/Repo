@@ -27,6 +27,13 @@
     "tier": "RARE",
     "npc_sell_price": 100,
     "museum": true,
+    "museum_data": {
+      "donation_xp": 4,
+      "parent": {},
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
+    },
     "can_have_power_scroll": true,
     "soulbound": "COOP"
   },

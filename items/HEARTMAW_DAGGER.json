@@ -51,16 +51,17 @@
     "museum_data": {
       "donation_xp": 20,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 160,
       "STRENGTH": 75,
-      "ATTACK_SPEED": 20,
+      "CRITICAL_DAMAGE": 25,
       "CRITICAL_CHANCE": 10,
-      "CRITICAL_DAMAGE": 25
+      "ATTACK_SPEED": 20
     },
     "sword_type": "DAGGER"
   },

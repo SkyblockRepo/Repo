@@ -62,14 +62,15 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 100,
+      "WALK_SPEED": 50,
       "DEFENSE": 70,
-      "WALK_SPEED": 50
+      "HEALTH": 100
     }
   },
   "recipes": [

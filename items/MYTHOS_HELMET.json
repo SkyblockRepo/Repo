@@ -45,16 +45,17 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MYTHOS": 12
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
+      "STRENGTH": 20,
       "HEALTH": 100,
-      "DEFENSE": 50,
-      "STRENGTH": 20
+      "DEFENSE": 50
     }
   },
   "recipes": [

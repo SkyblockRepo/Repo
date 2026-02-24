@@ -1,6 +1,6 @@
 {
   "internalId": "SWORD_OF_REVELATIONS",
-  "name": "Sword Of Revelations",
+  "name": "Sword of Revelations",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -28,12 +28,13 @@
       }
     ],
     "museum_data": {
-      "donation_xp": 4,
+      "donation_xp": 8,
       "parent": {
         "SWORD_OF_REVELATIONS": "DAEDALUS_AXE"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {

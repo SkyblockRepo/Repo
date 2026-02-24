@@ -1,6 +1,6 @@
 {
   "internalId": "NECRON_BLADE",
-  "name": "Necron's Blade (unrefined)",
+  "name": "Necron's Blade (Unrefined)",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -33,13 +33,14 @@
       "parent": {
         "NECRON_BLADE": "ASTRAEA"
       },
-      "type": "WEAPONS",
-      "game_stage": "MASTER"
+      "type": null,
+      "game_stage": "MASTER",
+      "category": "DUNGEONEERING"
     },
     "stats": {
       "DAMAGE": 260,
-      "FEROCITY": 30,
       "STRENGTH": 110,
+      "FEROCITY": 30,
       "INTELLIGENCE": 50
     },
     "upgrade_costs": [

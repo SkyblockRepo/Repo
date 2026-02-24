@@ -30,15 +30,16 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 25,
-        "essence_type": "ICE"
+        "essence_type": "ICE",
+        "amount": 25
       }
     ]
   },

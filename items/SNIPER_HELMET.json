@@ -37,12 +37,13 @@
     "museum_data": {
       "donation_xp": 3,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "AMATEUR"
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 100,
-      "DEFENSE": 10
+      "DEFENSE": 10,
+      "HEALTH": 100
     },
     "upgrade_costs": [
       [

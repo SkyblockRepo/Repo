@@ -38,19 +38,20 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "HEALTH": 1,
       "DEFENSE": 1,
-      "FEROCITY": 1,
       "STRENGTH": 1,
-      "MAGIC_FIND": 1,
-      "WALK_SPEED": 1,
       "INTELLIGENCE": 1,
       "CRITICAL_DAMAGE": 1,
+      "WALK_SPEED": 1,
+      "FEROCITY": 1,
+      "MAGIC_FIND": 1,
       "SEA_CREATURE_CHANCE": 1
     },
     "upgrade_costs": [

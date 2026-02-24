@@ -1,6 +1,6 @@
 {
   "internalId": "GROWTH_CHESTPLATE",
-  "name": "Chestplate Of Growth",
+  "name": "Chestplate of Growth",
   "category": "Chestplate",
   "source": "HypixelAPI",
   "npcValue": 80000,
@@ -28,15 +28,16 @@
       "parent": {
         "GROWTH": "MASTIFF"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GROWTH": 3
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 100,
-      "DEFENSE": 50
+      "DEFENSE": 50,
+      "HEALTH": 100
     }
   },
   "recipes": [

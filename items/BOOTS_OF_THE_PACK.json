@@ -1,6 +1,6 @@
 {
   "internalId": "BOOTS_OF_THE_PACK",
-  "name": "Boots Of The Pack",
+  "name": "Boots of the Pack",
   "category": "Boots",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -31,15 +31,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ARMOR_OF_THE_PACK": 7
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 50,
-      "DEFENSE": 45
+      "DEFENSE": 45,
+      "HEALTH": 50
     }
   },
   "recipes": [

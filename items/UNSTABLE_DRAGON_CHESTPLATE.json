@@ -54,17 +54,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "UNSTABLE_DRAGON": 10
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 120,
       "DEFENSE": 160,
-      "CRITICAL_CHANCE": 5,
-      "CRITICAL_DAMAGE": 15
+      "HEALTH": 120,
+      "CRITICAL_DAMAGE": 15,
+      "CRITICAL_CHANCE": 5
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "DRAGON",

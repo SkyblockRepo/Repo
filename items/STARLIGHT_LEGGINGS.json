@@ -32,16 +32,17 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "STARLIGHT": 2
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 30,
       "DEFENSE": 30,
-      "INTELLIGENCE": 50
+      "INTELLIGENCE": 50,
+      "HEALTH": 30
     }
   },
   "recipes": [],

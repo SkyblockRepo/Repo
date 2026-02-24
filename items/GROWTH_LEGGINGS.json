@@ -1,6 +1,6 @@
 {
   "internalId": "GROWTH_LEGGINGS",
-  "name": "Leggings Of Growth",
+  "name": "Leggings of Growth",
   "category": "Leggings",
   "source": "HypixelAPI",
   "npcValue": 70000,
@@ -28,15 +28,16 @@
       "parent": {
         "GROWTH": "MASTIFF"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GROWTH": 3
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 80,
-      "DEFENSE": 40
+      "DEFENSE": 40,
+      "HEALTH": 80
     }
   },
   "recipes": [

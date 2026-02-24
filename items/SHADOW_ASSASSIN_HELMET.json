@@ -53,17 +53,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SHADOW_ASSASSIN": 10
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 160,
-      "DEFENSE": 70,
-      "STRENGTH": 25,
       "WALK_SPEED": 7,
+      "DEFENSE": 70,
+      "HEALTH": 160,
+      "STRENGTH": 25,
       "CRITICAL_DAMAGE": 25
     },
     "upgrade_costs": [

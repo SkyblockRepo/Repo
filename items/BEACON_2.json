@@ -24,8 +24,17 @@
     "npc_sell_price": 7100,
     "requirements": [
       {
-        "type": "HEART_OF_THE_MOUNTAIN",
-        "tier": 2
+        "type": "ANY_OF",
+        "requirements": [
+          {
+            "type": "HEART_OF_THE_MOUNTAIN",
+            "tier": 2
+          },
+          {
+            "type": "PROFILE_TYPE",
+            "profile_type": "ISLAND"
+          }
+        ]
       }
     ]
   },

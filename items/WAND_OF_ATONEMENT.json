@@ -1,6 +1,6 @@
 {
   "internalId": "WAND_OF_ATONEMENT",
-  "name": "Wand Of Atonement",
+  "name": "Wand of Atonement",
   "category": "Wand",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -32,8 +32,9 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     }
   },

@@ -38,13 +38,14 @@
       "parent": {
         "CRYSTALLIZED_HEART": "REVIVED_HEART"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 50,
       "DEFENSE": 10,
+      "HEALTH": 50,
       "INTELLIGENCE": 50
     },
     "dungeon_item_conversion_cost": {

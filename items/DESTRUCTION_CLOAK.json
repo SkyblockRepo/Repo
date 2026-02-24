@@ -38,14 +38,15 @@
       "parent": {
         "DESTRUCTION_CLOAK": "ANNIHILATION_CLOAK"
       },
-      "type": "RARITIES",
-      "game_stage": "PROFESSIONAL"
+      "type": null,
+      "game_stage": "PROFESSIONAL",
+      "category": "COMBAT"
     },
     "stats": {
       "health": 60,
       "strength": 15,
-      "magic_find": 1,
       "critical_damage": 15,
+      "magic_find": 1,
       "foraging_wisdom": 1
     }
   },

@@ -77,15 +77,16 @@
       "parent": {
         "TITANIUM_DRILL_4": "DIVAN_DRILL"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 75,
-      "MINING_SPEED": 1600,
       "BREAKING_POWER": 9,
-      "MINING_FORTUNE": 120
+      "DAMAGE": 75,
+      "MINING_FORTUNE": 120,
+      "MINING_SPEED": 1600
     }
   },
   "recipes": [

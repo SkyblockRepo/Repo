@@ -33,14 +33,15 @@
       "parent": {
         "SHAMAN_SWORD": "POOCH_SWORD"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
+      "WALK_SPEED": 5,
       "DAMAGE": 100,
-      "STRENGTH": 20,
-      "WALK_SPEED": 5
+      "STRENGTH": 20
     }
   },
   "recipes": [

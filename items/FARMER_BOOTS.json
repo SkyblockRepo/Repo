@@ -51,14 +51,15 @@
       "parent": {
         "FARMER_BOOTS": "RANCHERS_BOOTS"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 40,
+      "WALK_SPEED": 10,
       "DEFENSE": 20,
-      "WALK_SPEED": 10
+      "HEALTH": 40
     }
   },
   "recipes": [

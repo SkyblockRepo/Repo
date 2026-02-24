@@ -34,17 +34,18 @@
       "parent": {
         "TARANTULA": "PRIMORDIAL"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
-        "TARANTULA": 6,
-        "MONSTER_RAIDER": 4
+        "MONSTER_RAIDER": 4,
+        "TARANTULA": 6
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 70,
-      "DEFENSE": 70,
       "WALK_SPEED": 5,
+      "DEFENSE": 70,
+      "HEALTH": 70,
       "INTELLIGENCE": 50
     },
     "dungeon_item_conversion_cost": {

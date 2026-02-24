@@ -32,13 +32,14 @@
     "museum_data": {
       "donation_xp": 7,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 250,
       "DEFENSE": 125,
+      "DAMAGE": 250,
       "STRENGTH": 125
     },
     "upgrade_costs": [

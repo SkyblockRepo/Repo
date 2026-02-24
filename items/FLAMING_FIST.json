@@ -37,16 +37,17 @@
     "museum_data": {
       "donation_xp": 15,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
+      "STRENGTH": 10,
       "HEALTH": 30,
       "DEFENSE": 20,
-      "FEROCITY": 1,
-      "STRENGTH": 10,
-      "CRITICAL_DAMAGE": 10
+      "CRITICAL_DAMAGE": 10,
+      "FEROCITY": 1
     },
     "upgrade_costs": [
       [
@@ -239,13 +240,13 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 50,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 50
       },
       {
         "type": "ITEM",
-        "amount": 3,
-        "item_id": "LEATHER_CLOTH"
+        "item_id": "LEATHER_CLOTH",
+        "amount": 3
       }
     ]
   },

@@ -22,7 +22,14 @@
     "category": "HOE",
     "tier": "UNCOMMON",
     "glowing": true,
-    "npc_sell_price": 50
+    "npc_sell_price": 50,
+    "museum_data": {
+      "donation_xp": 3,
+      "parent": {},
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "FARMING"
+    }
   },
   "recipes": [],
   "soldBy": [

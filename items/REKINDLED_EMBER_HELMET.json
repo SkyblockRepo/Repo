@@ -43,17 +43,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "REKINDLED_EMBER": 10
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 175,
       "DEFENSE": 50,
-      "STRENGTH": 30,
+      "HEALTH": 175,
       "INTELLIGENCE": 15,
+      "STRENGTH": 30,
       "CRITICAL_DAMAGE": 20
     },
     "upgrade_costs": [

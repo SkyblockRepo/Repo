@@ -1,6 +1,6 @@
 {
   "internalId": "SNOW_CANNON",
-  "name": "Frosty The Snow Cannon",
+  "name": "Frosty the Snow Cannon",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 10,
@@ -32,8 +32,9 @@
       "parent": {
         "SNOW_CANNON": "SNOW_BLASTER"
       },
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "double_tap_to_drop": true
   },

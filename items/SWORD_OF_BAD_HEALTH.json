@@ -1,6 +1,6 @@
 {
   "internalId": "SWORD_OF_BAD_HEALTH",
-  "name": "Sword Of Bad Health",
+  "name": "Sword of Bad Health",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 4000,
@@ -32,8 +32,9 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
@@ -182,8 +183,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 5,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 5
       }
     ]
   },

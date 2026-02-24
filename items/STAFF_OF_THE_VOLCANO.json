@@ -1,6 +1,6 @@
 {
   "internalId": "STAFF_OF_THE_VOLCANO",
-  "name": "Staff Of The Volcano",
+  "name": "Staff of the Volcano",
   "category": "Wand",
   "source": "HypixelAPI",
   "npcValue": 5000,
@@ -32,14 +32,15 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 60,
-      "INTELLIGENCE": 150,
-      "WEAPON_ABILITY_DAMAGE": 24000
+      "WEAPON_ABILITY_DAMAGE": 24000,
+      "INTELLIGENCE": 150
     },
     "upgrade_costs": [
       [
@@ -183,8 +184,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 10,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 10
       }
     ]
   },

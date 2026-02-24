@@ -29,16 +29,17 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "HUNTING",
       "mapped_item_ids": []
     },
     "stats": {
       "farming_wisdom": 1
     },
     "item_specific": {
-      "extra_pelts": 1,
-      "speed_on_farming_island": 30
+      "speed_on_farming_island": 30,
+      "extra_pelts": 1
     }
   },
   "recipes": [],

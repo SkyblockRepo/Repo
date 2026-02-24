@@ -1,6 +1,6 @@
 {
   "internalId": "LANTERN",
-  "name": "Lantern",
+  "name": "Dwarven Lantern",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -20,11 +20,22 @@
     "material": "SKULL_ITEM",
     "durability": 3,
     "skin": {
-      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTE1MDYzMDgxOSwKICAicHJvZmlsZUlkIiA6ICI0MWNlOThmMDllMzU0NGVjYjE4ZTYwYThlODEyOGEyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb25zdGVySGl0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2ZTU2ODJiNGEwZTVhZjUyMzdmYjk5NjA5ODNjNjIzZWFiMDRlYzAxYjkwMTQ3YzRkZjRjOTBhN2JlNjY0ZDUiCiAgICB9CiAgfQp9",
-      "signature": "bQzztwCWrukmNuG/LcXQlTB3V5WC2nMWjXl5aYHul8wesGh0Agu49UpHFLqt5YzKMgHuxZMfctXemDUrHX/5yKcaJLJVMc8nG+Un0bBIXEvW19C1cqibEy5n8ZkVCno9XMFmn6lq9EU9DOKsLCeNVektuYDshdRuTh7TOl5WPkSy3V7mByc2Bs7BlFp8O6FHvXuyUq/hfDoe2jyGPlzOWETfj8XvgBTYHtGWDFVbMSSXpVUMpRhlFpI8YKDg0/lqht5cdb0SLFWBLklC0RG3R/USuownYfrv4LPAVfszkpxqCOjDuUstORQXp4Y2LeGEzjXnLS+tCz4oq9+fAVHUCu+9qJzEmFt6gK5nPOIsQrSvg0Fq2kqHwMaxgwNyu5v1vjm97XF2JHwH7rqjDh88AmBBGqigUyj2OLwZ3TQ1UGNNZUd4h8o5B/VBh7vxfwaV24UogyxfvxnwucUohRE8j5A9wcMCpFBOacQZGazP43C4iWZQI4UBVRghlAymX8ziW/x/azFkBHA4Bibj2wUbllPjmSLoVS8UvqsBvFqjRcNnPWu2tglj2yoZbgi/VXbIL26F4ZsxGPUWCSMNXvhFFCQb7x4nSPD8ZfXLUkbMvc/K+fKrVQfn55IQczXwo9mDPO3H9iAtXO6jbX0lHtihRrl5E261yRab2v/pMZAXikY="
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MDgxODc0ODY4MCwKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iN2IwNmIzMjkyMzdlNzQ2OWQwNjUwYmExNjdhYTk2MTFlZjEzNzNjM2MyYzZiYmRkYTdiMTM3NzNjNmFhNjlmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "Hb9+8EUU04Kibtj6xjpFSYSWkt9aZIKhm6Q3/OC6PuUKL+3EIjbLrqJvjLgJTrJmQRt45W9sZ6/ETGuEYa8QUTa93XzS3Tq20ECiVLnBXMWKSird7N9eforISwP/jLrN3axj5l+ImnMb92+wG9PhqUDf2bnv5P2XCsIpmcIDkpAk/aJMmz2NCjcldxzSmMeyazj1Av6dloh2Co61EgTMTqkHPVSXOquU1Vux/Kkuno4uWSVhv2sZqxklrab4ulBCre+Pn7Owx2UXWcM72oo5t0UmA1me998xKaCRd9Y/mkGtiZ0gIDpIhweHkdfVg6quN0m+AZ+KBvdtweuJZ0Vt9LwFlTD63vH40XP91e4djRjyp1R3kWNTySyESqSJfkEa2Zo6JKpbSkvD+BLOdSxe5jOsMwOzfVoC+dt7nu/KmWYAugHDvJzOF5xgSGpTqJa9UYfpZAUrZv5D0IZofA3M30R149EDtU/7AHTk+axQA7WuiMM9mv94UqVFucaqIuI9SD66gMuOPkP8yEYNhRfIAR3p+Hu628nj0WshENbHytome5X3n7sgVG6rwLn85LCPVLN6WDPEHJ/6noJAEIOaVxRVg0C4U1VSPIlanZ4KJmtHjbHggvmXkRSTliIGdmAH+iTr9TFCdW0RtZ98quTYJqOQ1epwIsl6D40vLCbBO84="
     },
-    "name": "Lantern",
-    "tier": "RARE"
+    "name": "Dwarven Lantern",
+    "category": "DEPLOYABLE",
+    "tier": "COMMON",
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {
+        "LANTERN": "MITHRIL_LANTERN"
+      },
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "MINING"
+    },
+    "has_uuid": true
   },
   "recipes": [],
   "soldBy": [

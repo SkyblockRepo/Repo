@@ -37,16 +37,17 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": [
         "STARRED_SPIRIT_MASK"
       ]
     },
     "stats": {
-      "HEALTH": 100,
-      "DEFENSE": 50,
       "WALK_SPEED": 15,
+      "DEFENSE": 50,
+      "HEALTH": 100,
       "INTELLIGENCE": 20
     },
     "upgrade_costs": [

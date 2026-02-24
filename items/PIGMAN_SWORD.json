@@ -33,17 +33,18 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 200,
       "STRENGTH": 100,
-      "INTELLIGENCE": 300,
-      "CRITICAL_CHANCE": 5,
       "CRITICAL_DAMAGE": 30,
-      "WEAPON_ABILITY_DAMAGE": 30000
+      "CRITICAL_CHANCE": 5,
+      "WEAPON_ABILITY_DAMAGE": 30000,
+      "INTELLIGENCE": 300
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "UNDEAD",

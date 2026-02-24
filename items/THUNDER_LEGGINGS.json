@@ -77,17 +77,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "THUNDER": 15
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "FISHING"
     },
     "stats": {
       "health": 225,
       "defense": 200,
-      "strength": 25,
-      "sea_creature_chance": 4
+      "sea_creature_chance": 4,
+      "strength": 25
     },
     "upgrade_costs": [
       [

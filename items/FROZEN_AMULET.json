@@ -29,16 +29,20 @@
     "unstackable": true,
     "npc_sell_price": 5000,
     "museum_data": {
-      "donation_xp": 4,
+      "donation_xp": 0,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
+      "armor_set_donation_xp": {
+        "FROZEN": 4
+      },
       "game_stage": "INTERMEDIATE",
+      "category": "FISHING",
       "mapped_item_ids": []
     },
     "stats": {
+      "sea_creature_chance": 1,
       "fishing_speed": 3,
-      "treasure_chance": 0.5,
-      "sea_creature_chance": 1
+      "treasure_chance": 0.5
     }
   },
   "recipes": []

@@ -30,16 +30,17 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GILLSPLASH": 15
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "FISHING"
     },
     "stats": {
       "health": 20,
-      "fishing_speed": 14,
-      "health_regeneration": 2
+      "health_regeneration": 2,
+      "fishing_speed": 14
     },
     "upgrade_costs": [
       [

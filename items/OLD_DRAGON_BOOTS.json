@@ -54,15 +54,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "OLD_DRAGON": 10
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 80,
-      "DEFENSE": 90
+      "DEFENSE": 90,
+      "HEALTH": 80
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "DRAGON",

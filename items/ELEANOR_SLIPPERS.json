@@ -25,15 +25,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ELEANOR": 5
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "health": 40,
-      "rift_Time": 20
+      "rift_Time": 20,
+      "health": 40
     },
     "description": "%%dark_gray%%%%italic%%Made from the softest materials, these slippers are as stylish as they are serene.",
     "rift_transferrable": true,

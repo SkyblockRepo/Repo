@@ -25,13 +25,14 @@
     "museum_data": {
       "donation_xp": 3,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
-      "MINING_SPEED": 380,
-      "BREAKING_POWER": 1
+      "BREAKING_POWER": 1,
+      "MINING_SPEED": 380
     },
     "enchantments": {
       "efficiency": 6

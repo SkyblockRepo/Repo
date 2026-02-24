@@ -64,20 +64,21 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SUPERIOR_DRAGON": 15
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 80,
-      "DEFENSE": 110,
-      "STRENGTH": 10,
       "WALK_SPEED": 3,
-      "INTELLIGENCE": 25,
+      "DEFENSE": 110,
+      "HEALTH": 80,
+      "STRENGTH": 10,
+      "CRITICAL_DAMAGE": 10,
       "CRITICAL_CHANCE": 2,
-      "CRITICAL_DAMAGE": 10
+      "INTELLIGENCE": 25
     },
     "dungeon_item_conversion_cost": {
       "essence_type": "DRAGON",

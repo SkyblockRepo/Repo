@@ -63,15 +63,16 @@
       "parent": {
         "VORPAL_KATANA": "ATOMSPLIT_KATANA"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 190,
       "STRENGTH": 80,
-      "INTELLIGENCE": 200,
-      "CRITICAL_DAMAGE": 30
+      "CRITICAL_DAMAGE": 30,
+      "INTELLIGENCE": 200
     },
     "sword_type": "KATANA"
   },

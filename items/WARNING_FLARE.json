@@ -35,8 +35,9 @@
       "parent": {
         "WARNING_FLARE": "ALERT_FLARE"
       },
-      "type": "RARITIES",
-      "game_stage": "EXPERT"
+      "type": null,
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     }
   },
   "recipes": [

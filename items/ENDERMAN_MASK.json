@@ -30,12 +30,13 @@
     "museum_data": {
       "donation_xp": 2,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 1,
       "DEFENSE": 1,
+      "HEALTH": 1,
       "STRENGTH": 1,
       "INTELLIGENCE": -99
     },

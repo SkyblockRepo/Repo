@@ -1,6 +1,6 @@
 {
   "internalId": "CROWN_OF_AVARICE",
-  "name": "Crown Of Avarice",
+  "name": "Crown of Avarice",
   "category": "Helmet",
   "source": "HypixelAPI",
   "npcValue": 1000000,
@@ -31,13 +31,14 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 200,
-      "DEFENSE": 100
+      "DEFENSE": 100,
+      "HEALTH": 200
     }
   },
   "recipes": [

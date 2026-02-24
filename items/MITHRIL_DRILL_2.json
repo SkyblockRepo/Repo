@@ -32,14 +32,15 @@
     "museum_data": {
       "donation_xp": 10,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
+      "BREAKING_POWER": 6,
       "DAMAGE": 65,
       "MINING_SPEED": 600,
-      "BREAKING_POWER": 6,
       "MINING_FORTUNE": 20
     }
   },

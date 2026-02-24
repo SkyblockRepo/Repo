@@ -33,16 +33,17 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CELESTE": 1
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 5,
       "DEFENSE": 5,
-      "INTELLIGENCE": 20
+      "INTELLIGENCE": 20,
+      "HEALTH": 5
     }
   },
   "recipes": [],

@@ -35,15 +35,16 @@
     "museum_data": {
       "donation_xp": 15,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "stats": {
-      "ferocity": 2,
-      "strength": 10,
+      "farming_fortune": 10,
       "farming_wisdom": 1,
-      "farming_fortune": 10
+      "strength": 10,
+      "ferocity": 2
     },
     "description": "%%dark_gray%%%%italic%%Not all Rabbits wear capes."
   },

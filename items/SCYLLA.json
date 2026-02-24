@@ -93,17 +93,18 @@
       "parent": {
         "SCYLLA": "VALKYRIE"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 270,
-      "FEROCITY": 30,
       "STRENGTH": 150,
-      "INTELLIGENCE": 50,
+      "CRITICAL_DAMAGE": 35,
       "CRITICAL_CHANCE": 12,
-      "CRITICAL_DAMAGE": 35
+      "FEROCITY": 30,
+      "INTELLIGENCE": 50
     },
     "upgrade_costs": [
       [

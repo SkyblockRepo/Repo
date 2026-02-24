@@ -37,11 +37,12 @@
       "parent": {
         "MITHRIL": "TITANIUM"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MITHRIL": 3
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "MINING"
     },
     "stats": {
       "mining_speed": 20,

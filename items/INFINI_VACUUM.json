@@ -38,13 +38,14 @@
       "parent": {
         "INFINI_VACUUM": "INFINI_VACUUM_HOOVERIUS"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "FARMING",
       "mapped_item_ids": []
     },
     "stats": {
-      "damage": 200,
-      "farming_fortune": 20
+      "farming_fortune": 20,
+      "damage": 200
     },
     "has_uuid": true
   },

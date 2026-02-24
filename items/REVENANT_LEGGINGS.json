@@ -33,15 +33,16 @@
       "parent": {
         "REVENANT": "REAPER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "REVENANT": 5
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 120,
-      "DEFENSE": 50
+      "DEFENSE": 50,
+      "HEALTH": 120
     }
   },
   "recipes": [

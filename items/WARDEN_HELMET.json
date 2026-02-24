@@ -36,13 +36,14 @@
     "museum_data": {
       "donation_xp": 12,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "PROFESSIONAL",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 300,
-      "DEFENSE": 100
+      "DEFENSE": 100,
+      "HEALTH": 300
     }
   },
   "recipes": [

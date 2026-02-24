@@ -32,22 +32,23 @@
       "parent": {
         "SNOW_SUIT": "NUTCRACKER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SNOW_SUIT": 6
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 70,
-      "DEFENSE": 30
+      "DEFENSE": 30,
+      "HEALTH": 70
     },
     "rarity_salvageable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 10,
-        "essence_type": "ICE"
+        "essence_type": "ICE",
+        "amount": 10
       }
     ]
   },

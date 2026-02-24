@@ -37,24 +37,25 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "item_specific": {
-      "range": 16,
       "stats": {
         "strength": 40,
-        "walk_speed": 30,
+        "critical_damage": 10,
         "attack_speed": 5,
-        "critical_damage": 10
+        "walk_speed": 30
       },
       "rift_stats": {
         "rift_damage": 2,
         "rift_walk_speed": 30
       },
-      "cooldown_seconds": 20,
       "duration_seconds": 30,
+      "cooldown_seconds": 20,
+      "range": 16,
       "max_other_players": 4
     },
     "rift_transferrable": true

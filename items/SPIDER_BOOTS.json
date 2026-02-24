@@ -34,16 +34,17 @@
       "parent": {
         "MONSTER_HUNTER": "MONSTER_RAIDER"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MONSTER_HUNTER": 4,
         "MONSTER_RAIDER": 4
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "DEFENSE": 45,
       "WALK_SPEED": 5,
+      "DEFENSE": 45,
       "INTELLIGENCE": 50
     },
     "dungeon_item_conversion_cost": {

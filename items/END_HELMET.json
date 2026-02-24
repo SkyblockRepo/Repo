@@ -37,15 +37,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "END": 3
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 20,
-      "DEFENSE": 35
+      "DEFENSE": 35,
+      "HEALTH": 20
     },
     "soulbound": "COOP"
   },

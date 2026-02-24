@@ -1,6 +1,6 @@
 {
   "internalId": "WAND_OF_MENDING",
-  "name": "Wand Of Mending",
+  "name": "Wand of Mending",
   "category": "Wand",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -34,8 +34,9 @@
       "parent": {
         "WAND_OF_MENDING": "WAND_OF_RESTORATION"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "INTERMEDIATE",
+      "category": "COMBAT",
       "mapped_item_ids": []
     }
   },

@@ -1,6 +1,6 @@
 {
   "internalId": "GROWTH_BOOTS",
-  "name": "Boots Of Growth",
+  "name": "Boots of Growth",
   "category": "Boots",
   "source": "HypixelAPI",
   "npcValue": 40000,
@@ -28,15 +28,16 @@
       "parent": {
         "GROWTH": "MASTIFF"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "GROWTH": 3
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 50,
-      "DEFENSE": 25
+      "DEFENSE": 25,
+      "HEALTH": 50
     }
   },
   "recipes": [

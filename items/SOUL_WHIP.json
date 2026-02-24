@@ -54,8 +54,9 @@
       "parent": {
         "SOUL_WHIP": "FLAMING_FLAY"
       },
-      "type": "WEAPONS",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
       "DAMAGE": 145,

@@ -30,12 +30,13 @@
     "museum_data": {
       "donation_xp": 1,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "STARTER"
+      "type": null,
+      "game_stage": "STARTER",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 10,
-      "DEFENSE": 5
+      "DEFENSE": 5,
+      "HEALTH": 10
     }
   },
   "recipes": [

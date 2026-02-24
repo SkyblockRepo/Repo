@@ -48,16 +48,17 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": [
         "STARRED_BAT_WAND"
       ]
     },
     "stats": {
       "DAMAGE": 180,
-      "INTELLIGENCE": 300,
-      "WEAPON_ABILITY_DAMAGE": 2000
+      "WEAPON_ABILITY_DAMAGE": 2000,
+      "INTELLIGENCE": 300
     },
     "upgrade_costs": [
       [

@@ -48,16 +48,17 @@
     "museum_data": {
       "donation_xp": 6,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 210,
       "STRENGTH": 60,
       "ATTACK_SPEED": 50,
-      "CRITICAL_CHANCE": 100,
-      "CRITICAL_DAMAGE": 50
+      "CRITICAL_DAMAGE": 50,
+      "CRITICAL_CHANCE": 100
     },
     "upgrade_costs": [
       [

@@ -1,6 +1,6 @@
 {
   "internalId": "SNOW_HOWITZER",
-  "name": "Frosty The Howitzer",
+  "name": "Frosty the Howitzer",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 100,
@@ -30,8 +30,9 @@
     "museum_data": {
       "donation_xp": 3,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "double_tap_to_drop": true
   },

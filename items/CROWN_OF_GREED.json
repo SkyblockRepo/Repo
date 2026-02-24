@@ -1,6 +1,6 @@
 {
   "internalId": "CROWN_OF_GREED",
-  "name": "Crown Of Greed",
+  "name": "Crown of Greed",
   "category": "Helmet",
   "source": "HypixelAPI",
   "npcValue": 1000000,
@@ -28,13 +28,14 @@
       "parent": {
         "CROWN_OF_GREED": "CROWN_OF_AVARICE"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 100,
-      "DEFENSE": 50
+      "DEFENSE": 50,
+      "HEALTH": 100
     }
   },
   "recipes": []

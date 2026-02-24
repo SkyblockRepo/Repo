@@ -35,17 +35,18 @@
       "parent": {
         "VOODOO_DOLL": "VOODOO_DOLL_WILTED"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
       "WEAPON_ABILITY_DAMAGE": 1500
     },
     "item_specific": {
+      "slow_duration_seconds": 10,
       "mana_cost": 200,
-      "cooldown_seconds": 5,
-      "slow_duration_seconds": 10
+      "cooldown_seconds": 5
     },
     "double_tap_to_drop": true
   },

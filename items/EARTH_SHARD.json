@@ -32,8 +32,9 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "upgrade_costs": [
@@ -77,18 +78,6 @@
     "gear_score": 10,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "DAMAGE": [
-        105,
-        108,
-        112,
-        115,
-        118,
-        122,
-        126,
-        129,
-        133,
-        137
-      ],
       "DEFENSE": [
         73,
         75,
@@ -100,6 +89,18 @@
         90,
         93,
         96
+      ],
+      "DAMAGE": [
+        105,
+        108,
+        112,
+        115,
+        118,
+        122,
+        126,
+        129,
+        133,
+        137
       ]
     }
   },

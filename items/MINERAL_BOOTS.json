@@ -27,15 +27,16 @@
       "parent": {
         "MINERAL": "GLOSSY_MINERAL"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MINERAL": 4
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "MINING"
     },
     "stats": {
-      "DEFENSE": 70,
       "WALK_SPEED": 10,
+      "DEFENSE": 70,
       "BLOCK_FORTUNE": 25
     }
   },

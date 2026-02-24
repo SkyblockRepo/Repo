@@ -29,17 +29,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
-        "SPONGE": 5,
-        "FISHERMAN": 3
+        "FISHERMAN": 3,
+        "SPONGE": 5
       },
-      "game_stage": "AMATEUR"
+      "game_stage": "AMATEUR",
+      "category": "FISHING"
     },
     "stats": {
+      "sea_creature_chance": 0.5,
       "health": 7,
-      "fishing_speed": 2,
-      "sea_creature_chance": 0.5
+      "fishing_speed": 2
     }
   },
   "recipes": [

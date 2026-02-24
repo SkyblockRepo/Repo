@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "ZOMBIE_SOLDIER": 3
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -80,18 +81,6 @@
     "gear_score": 5,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "HEALTH": [
-        17,
-        19,
-        21,
-        23,
-        25,
-        27,
-        30,
-        33,
-        36,
-        40
-      ],
       "DEFENSE": [
         36,
         40,
@@ -103,6 +92,18 @@
         70,
         77,
         85
+      ],
+      "HEALTH": [
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        30,
+        33,
+        36,
+        40
       ]
     }
   },

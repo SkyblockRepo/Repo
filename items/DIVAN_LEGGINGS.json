@@ -1,6 +1,6 @@
 {
   "internalId": "DIVAN_LEGGINGS",
-  "name": "Leggings Of Divan",
+  "name": "Leggings of Divan",
   "category": "Leggings",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -82,17 +82,18 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "DIVAN": 20
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "MINING"
     },
     "stats": {
-      "HEALTH": 130,
       "DEFENSE": 170,
-      "MINING_SPEED": 80,
+      "HEALTH": 130,
       "MINING_FORTUNE": 30,
+      "MINING_SPEED": 80,
       "HEAT_RESISTANCE": 10
     }
   },

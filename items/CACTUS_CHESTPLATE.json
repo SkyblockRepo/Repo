@@ -32,15 +32,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CACTUS": 2
       },
-      "game_stage": "STARTER"
+      "game_stage": "STARTER",
+      "category": "FARMING"
     },
     "stats": {
-      "HEALTH": 15,
-      "DEFENSE": 25
+      "DEFENSE": 25,
+      "HEALTH": 15
     }
   },
   "recipes": [

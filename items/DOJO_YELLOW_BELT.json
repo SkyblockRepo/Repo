@@ -1,6 +1,6 @@
 {
   "internalId": "DOJO_YELLOW_BELT",
-  "name": "Yellow Belt",
+  "name": "§eYellow Belt",
   "category": "Belt",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -32,8 +32,9 @@
       "parent": {
         "DOJO_YELLOW_BELT": "DOJO_GREEN_BELT"
       },
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
       "HEALTH": 15,

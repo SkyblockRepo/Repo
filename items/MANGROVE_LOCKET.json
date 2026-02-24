@@ -37,15 +37,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "MANGROVE": 8
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "FORAGING"
     },
     "stats": {
-      "sweep": 1,
-      "foraging_fortune": 5
+      "foraging_fortune": 5,
+      "sweep": 1
     },
     "can_have_booster": true
   },

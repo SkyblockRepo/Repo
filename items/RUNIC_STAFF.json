@@ -56,20 +56,21 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "WEAPONS",
-      "game_stage": "EXPERT"
+      "type": null,
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
       "DAMAGE": 20,
-      "INTELLIGENCE": 250,
-      "WEAPON_ABILITY_DAMAGE": 10000
+      "WEAPON_ABILITY_DAMAGE": 10000,
+      "INTELLIGENCE": 250
     },
     "ability_damage_scaling": 0.2,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 500,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 500
       }
     ]
   },

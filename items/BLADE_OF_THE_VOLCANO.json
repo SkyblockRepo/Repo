@@ -1,6 +1,6 @@
 {
   "internalId": "BLADE_OF_THE_VOLCANO",
-  "name": "Blade Of The Volcano",
+  "name": "Blade of the Volcano",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 50000,
@@ -33,8 +33,9 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
@@ -233,8 +234,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 10,
-        "essence_type": "CRIMSON"
+        "essence_type": "CRIMSON",
+        "amount": 10
       }
     ]
   },

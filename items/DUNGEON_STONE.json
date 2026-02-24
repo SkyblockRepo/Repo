@@ -25,6 +25,13 @@
     },
     "name": "Dungeon Orb",
     "tier": "LEGENDARY",
+    "museum_data": {
+      "donation_xp": 1,
+      "parent": {},
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING"
+    },
     "dungeon_item": true
   },
   "recipes": []

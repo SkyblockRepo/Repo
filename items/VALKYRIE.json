@@ -78,14 +78,15 @@
       "parent": {
         "VALKYRIE": "HYPERION"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 270,
-      "FEROCITY": 60,
       "STRENGTH": 145,
+      "FEROCITY": 60,
       "INTELLIGENCE": 60
     },
     "upgrade_costs": [

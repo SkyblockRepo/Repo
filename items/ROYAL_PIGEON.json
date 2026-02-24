@@ -26,6 +26,13 @@
     "name": "Royal Pigeon",
     "tier": "LEGENDARY",
     "museum": true,
+    "museum_data": {
+      "donation_xp": 6,
+      "parent": {},
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "MINING"
+    },
     "soulbound": "COOP"
   },
   "recipes": []

@@ -64,17 +64,18 @@
       "parent": {
         "FERMENTO": "HELIANTHUS"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "FERMENTO": 12
       },
-      "game_stage": "PROFESSIONAL"
+      "game_stage": "PROFESSIONAL",
+      "category": "FARMING"
     },
     "stats": {
+      "farming_fortune": 35,
+      "walk_speed": 6,
       "health": 195,
       "defense": 40,
-      "walk_speed": 6,
-      "farming_fortune": 35,
       "bonus_pest_chance": 17.5
     }
   },

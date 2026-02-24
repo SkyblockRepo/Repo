@@ -44,13 +44,14 @@
       "parent": {
         "REVIVED_HEART": "REAPER_MASK"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 100,
       "DEFENSE": 35,
+      "HEALTH": 100,
       "INTELLIGENCE": 100
     },
     "dungeon_item_conversion_cost": {

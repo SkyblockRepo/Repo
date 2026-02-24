@@ -49,15 +49,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "WISE_DRAGON": 10
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 60,
       "DEFENSE": 90,
+      "HEALTH": 60,
       "INTELLIGENCE": 75
     },
     "dungeon_item_conversion_cost": {

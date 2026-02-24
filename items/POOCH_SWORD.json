@@ -47,14 +47,15 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
+      "WALK_SPEED": 5,
       "DAMAGE": 120,
-      "STRENGTH": 20,
-      "WALK_SPEED": 5
+      "STRENGTH": 20
     }
   },
   "recipes": [

@@ -39,11 +39,12 @@
       "parent": {
         "CRIMSON_HUNTER": "VANQUISHED"
       },
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "CRIMSON_HUNTER": 5
       },
-      "game_stage": "EXPERT"
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
     },
     "stats": {
       "INTELLIGENCE": 10,

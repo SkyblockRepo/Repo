@@ -32,11 +32,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SKELETON_LORD": 10
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -79,18 +80,6 @@
     "gear_score": 25,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "HEALTH": [
-        16,
-        17,
-        19,
-        21,
-        22,
-        24,
-        26,
-        29,
-        31,
-        34
-      ],
       "DEFENSE": [
         32,
         35,
@@ -103,17 +92,17 @@
         63,
         68
       ],
-      "CRITICAL_CHANCE": [
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
+      "HEALTH": [
+        16,
+        17,
+        19,
+        21,
+        22,
+        24,
+        26,
+        29,
+        31,
+        34
       ],
       "CRITICAL_DAMAGE": [
         19,
@@ -126,6 +115,18 @@
         41,
         45,
         50
+      ],
+      "CRITICAL_CHANCE": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
       ]
     }
   },

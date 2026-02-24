@@ -62,15 +62,16 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "FORAGING",
       "mapped_item_ids": []
     },
     "stats": {
-      "sweep": 24,
       "damage": 50,
-      "strength": 15,
-      "foraging_fortune": 35
+      "sweep": 24,
+      "foraging_fortune": 35,
+      "strength": 15
     },
     "upgrade_costs": [
       [

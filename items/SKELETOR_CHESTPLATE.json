@@ -33,11 +33,12 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "SKELETOR": 5
       },
-      "game_stage": "INTERMEDIATE"
+      "game_stage": "INTERMEDIATE",
+      "category": "DUNGEONEERING"
     },
     "upgrade_costs": [
       [
@@ -80,18 +81,6 @@
     "gear_score": 10,
     "rarity_salvageable": true,
     "tiered_stats": {
-      "HEALTH": [
-        25,
-        26,
-        29,
-        31,
-        34,
-        37,
-        40,
-        44,
-        47,
-        51
-      ],
       "DEFENSE": [
         40,
         42,
@@ -104,17 +93,17 @@
         74,
         81
       ],
-      "CRITICAL_CHANCE": [
-        2,
-        2,
-        2,
-        2,
-        2,
-        3,
-        3,
-        3,
-        3,
-        4
+      "HEALTH": [
+        25,
+        26,
+        29,
+        31,
+        34,
+        37,
+        40,
+        44,
+        47,
+        51
       ],
       "CRITICAL_DAMAGE": [
         20,
@@ -127,6 +116,18 @@
         36,
         40,
         43
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4
       ]
     }
   },

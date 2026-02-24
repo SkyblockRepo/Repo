@@ -1,6 +1,6 @@
 {
   "internalId": "FLOWER_OF_TRUTH",
-  "name": "Flower Of Truth",
+  "name": "Flower of Truth",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 100000,
@@ -51,8 +51,9 @@
       "parent": {
         "FLOWER_OF_TRUTH": "BOUQUET_OF_LIES"
       },
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {

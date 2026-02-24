@@ -63,15 +63,16 @@
     "museum_data": {
       "donation_xp": 0,
       "parent": {},
-      "type": "ARMOR_SETS",
+      "type": null,
       "armor_set_donation_xp": {
         "PRIMORDIAL": 10
       },
-      "game_stage": "SKILLED"
+      "game_stage": "SKILLED",
+      "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 150,
       "DEFENSE": 115,
+      "HEALTH": 150,
       "INTELLIGENCE": 110,
       "CRITICAL_DAMAGE": 10
     },

@@ -1,6 +1,6 @@
 {
   "internalId": "RAIDER_AXE",
-  "name": "Raider Axe",
+  "name": "Raider Sword",
   "category": "Sword",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -24,8 +24,9 @@
     "museum_data": {
       "donation_xp": 4,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "AMATEUR",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {

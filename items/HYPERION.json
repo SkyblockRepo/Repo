@@ -76,14 +76,15 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "WEAPONS",
+      "type": null,
       "game_stage": "MASTER",
+      "category": "DUNGEONEERING",
       "mapped_item_ids": []
     },
     "stats": {
       "DAMAGE": 260,
-      "FEROCITY": 30,
       "STRENGTH": 150,
+      "FEROCITY": 30,
       "INTELLIGENCE": 350
     },
     "upgrade_costs": [

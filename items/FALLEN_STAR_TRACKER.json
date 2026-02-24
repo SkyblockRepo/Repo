@@ -20,7 +20,14 @@
     "material": "DIAMOND",
     "name": "Fallen Star Lozenge",
     "tier": "EPIC",
-    "glowing": true
+    "glowing": true,
+    "museum_data": {
+      "donation_xp": 2,
+      "parent": {},
+      "type": null,
+      "game_stage": "AMATEUR",
+      "category": "MINING"
+    }
   },
   "recipes": []
 }

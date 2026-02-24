@@ -34,15 +34,16 @@
       "parent": {
         "TITANIUM_DRILL_1": "TITANIUM_DRILL_2"
       },
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "SKILLED",
+      "category": "MINING",
       "mapped_item_ids": []
     },
     "stats": {
-      "DAMAGE": 75,
-      "MINING_SPEED": 700,
       "BREAKING_POWER": 7,
-      "MINING_FORTUNE": 25
+      "DAMAGE": 75,
+      "MINING_FORTUNE": 25,
+      "MINING_SPEED": 700
     }
   },
   "recipes": [

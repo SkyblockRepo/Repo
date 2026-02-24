@@ -56,13 +56,14 @@
     "museum_data": {
       "donation_xp": 8,
       "parent": {},
-      "type": "RARITIES",
+      "type": null,
       "game_stage": "EXPERT",
+      "category": "COMBAT",
       "mapped_item_ids": []
     },
     "stats": {
-      "HEALTH": 150,
       "DEFENSE": 100,
+      "HEALTH": 150,
       "INTELLIGENCE": 100
     },
     "dungeon_item_conversion_cost": {

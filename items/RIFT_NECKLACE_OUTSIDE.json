@@ -1,6 +1,6 @@
 {
   "internalId": "RIFT_NECKLACE_OUTSIDE",
-  "name": "Rift Necklace",
+  "name": "%%light_purple%%Rift Necklace",
   "category": "Necklace",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -29,98 +29,99 @@
     "museum_data": {
       "donation_xp": 5,
       "parent": {},
-      "type": "RARITIES",
-      "game_stage": "INTERMEDIATE"
+      "type": null,
+      "game_stage": "INTERMEDIATE",
+      "category": "COMBAT"
     },
     "item_specific": {
       "scaling": {
         "tiers": [
           {
-            "stats": {
-              "magic_find": 1,
-              "intelligence": 10
-            },
             "numeric": 1,
-            "item_tier": "UNCOMMON"
+            "item_tier": "UNCOMMON",
+            "stats": {
+              "intelligence": 10,
+              "magic_find": 1
+            }
           },
           {
-            "stats": {
-              "health": 20,
-              "magic_find": 2,
-              "intelligence": 20
-            },
             "numeric": 2,
-            "item_tier": "UNCOMMON"
+            "item_tier": "UNCOMMON",
+            "stats": {
+              "intelligence": 20,
+              "magic_find": 2,
+              "health": 20
+            }
           },
           {
-            "stats": {
-              "health": 40,
-              "strength": 5,
-              "magic_find": 3,
-              "intelligence": 30
-            },
             "numeric": 3,
-            "item_tier": "RARE"
+            "item_tier": "RARE",
+            "stats": {
+              "intelligence": 30,
+              "magic_find": 3,
+              "health": 40,
+              "strength": 5
+            }
           },
           {
-            "stats": {
-              "health": 60,
-              "strength": 10,
-              "magic_find": 4,
-              "intelligence": 40
-            },
             "numeric": 4,
-            "item_tier": "RARE"
+            "item_tier": "RARE",
+            "stats": {
+              "intelligence": 40,
+              "magic_find": 4,
+              "health": 60,
+              "strength": 10
+            }
           },
           {
-            "stats": {
-              "health": 80,
-              "defense": 15,
-              "strength": 15,
-              "magic_find": 5,
-              "intelligence": 50
-            },
             "numeric": 5,
-            "item_tier": "EPIC"
+            "item_tier": "EPIC",
+            "stats": {
+              "intelligence": 50,
+              "magic_find": 5,
+              "health": 80,
+              "strength": 15,
+              "defense": 15
+            }
           },
           {
-            "stats": {
-              "health": 100,
-              "defense": 25,
-              "strength": 20,
-              "magic_find": 6,
-              "intelligence": 65
-            },
             "numeric": 6,
-            "item_tier": "EPIC"
-          },
-          {
+            "item_tier": "EPIC",
             "stats": {
+              "intelligence": 65,
+              "magic_find": 6,
               "health": 100,
-              "defense": 30,
-              "strength": 25,
-              "magic_find": 7,
-              "intelligence": 75,
-              "combat_wisdom": 1,
-              "farming_wisdom": 1,
-              "enchanting_wisdom": 1
-            },
-            "numeric": 7,
-            "item_tier": "LEGENDARY"
+              "strength": 20,
+              "defense": 25
+            }
           },
           {
+            "numeric": 7,
+            "item_tier": "LEGENDARY",
             "stats": {
-              "health": 150,
-              "defense": 30,
+              "intelligence": 75,
+              "magic_find": 7,
+              "health": 100,
               "strength": 25,
-              "magic_find": 8,
-              "intelligence": 85,
+              "defense": 30,
               "combat_wisdom": 1,
               "farming_wisdom": 1,
               "enchanting_wisdom": 1
-            },
+            }
+          },
+          {
             "numeric": 8,
-            "item_tier": "LEGENDARY"
+            "item_tier": "LEGENDARY",
+            "stats": {
+              "intelligence": 85,
+              "magic_find": 8,
+              "health": 150,
+              "strength": 25,
+              "defense": 30,
+              "combat_wisdom": 1,
+              "farming_wisdom": 1,
+              "enchanting_wisdom": 1
+            }
           }
         ]
       }

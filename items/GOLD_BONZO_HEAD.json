@@ -26,18 +26,26 @@
     "name": "Golden Bonzo Head",
     "category": "HELMET",
     "tier": "SPECIAL",
+    "requirements": [
+      {
+        "type": "DUNGEON_TIER",
+        "dungeon_type": "CATACOMBS",
+        "tier": 1
+      }
+    ],
     "museum": true,
     "museum_data": {
       "donation_xp": 5,
       "parent": {
         "GOLD_BONZO_HEAD": "DIAMOND_BONZO_HEAD"
       },
-      "type": "RARITIES",
-      "game_stage": "SKILLED"
+      "type": null,
+      "game_stage": "SKILLED",
+      "category": "DUNGEONEERING"
     },
     "stats": {
-      "HEALTH": 20,
       "DEFENSE": 10,
+      "HEALTH": 20,
       "STRENGTH": 5
     },
     "upgrade_costs": [
