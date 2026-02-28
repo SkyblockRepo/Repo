@@ -24,38 +24,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_BREAD",
-      "resultQuantity": 1,
-      "crafting": {
-        "4": {
-          "itemId": "WHEAT",
-          "quantity": 10
-        },
-        "5": {
-          "itemId": "WHEAT",
-          "quantity": 10
-        },
-        "6": {
-          "itemId": "WHEAT",
-          "quantity": 10
-        },
-        "7": {
-          "itemId": "WHEAT",
-          "quantity": 10
-        },
-        "8": {
-          "itemId": "WHEAT",
-          "quantity": 10
-        },
-        "9": {
-          "itemId": "WHEAT",
-          "quantity": 10
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_BREAD",
@@ -82,6 +50,38 @@
           "quantity": 10
         },
         "6": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_BREAD",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "5": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "7": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "8": {
+          "itemId": "WHEAT",
+          "quantity": 10
+        },
+        "9": {
           "itemId": "WHEAT",
           "quantity": 10
         }

@@ -28,34 +28,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FLAWLESS_TOPAZ_GEM",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "FINE_TOPAZ_GEM",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "FINE_TOPAZ_GEM",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "FINE_TOPAZ_GEM",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "FINE_TOPAZ_GEM",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "FINE_TOPAZ_GEM",
-          "quantity": 16
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FLAWLESS_TOPAZ_GEM",
@@ -78,6 +50,34 @@
           "quantity": 16
         },
         "5": {
+          "itemId": "FINE_TOPAZ_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWLESS_TOPAZ_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "FINE_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "FINE_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "FINE_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "FINE_TOPAZ_GEM",
+          "quantity": 16
+        },
+        "8": {
           "itemId": "FINE_TOPAZ_GEM",
           "quantity": 16
         }

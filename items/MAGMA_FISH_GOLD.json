@@ -29,34 +29,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MAGMA_FISH_GOLD",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "MAGMA_FISH_SILVER",
-          "quantity": 16
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "MAGMA_FISH_GOLD",
@@ -79,6 +51,34 @@
           "quantity": 16
         },
         "5": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGMA_FISH_GOLD",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "MAGMA_FISH_SILVER",
+          "quantity": 16
+        },
+        "8": {
           "itemId": "MAGMA_FISH_SILVER",
           "quantity": 16
         }

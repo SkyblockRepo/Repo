@@ -29,34 +29,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "FLAWED_AQUAMARINE_GEM",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ROUGH_AQUAMARINE_GEM",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "ROUGH_AQUAMARINE_GEM",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "ROUGH_AQUAMARINE_GEM",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "ROUGH_AQUAMARINE_GEM",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "ROUGH_AQUAMARINE_GEM",
-          "quantity": 16
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "FLAWED_AQUAMARINE_GEM",
@@ -79,6 +51,34 @@
           "quantity": 16
         },
         "5": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FLAWED_AQUAMARINE_GEM",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "ROUGH_AQUAMARINE_GEM",
+          "quantity": 16
+        },
+        "8": {
           "itemId": "ROUGH_AQUAMARINE_GEM",
           "quantity": 16
         }

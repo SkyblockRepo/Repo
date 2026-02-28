@@ -25,34 +25,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_PORK",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "PORK",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "PORK",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "PORK",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "PORK",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "PORK",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_PORK",
@@ -75,6 +47,34 @@
           "quantity": 32
         },
         "5": {
+          "itemId": "PORK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_PORK",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "PORK",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "PORK",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "PORK",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "PORK",
+          "quantity": 32
+        },
+        "8": {
           "itemId": "PORK",
           "quantity": 32
         }
