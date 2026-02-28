@@ -147,7 +147,7 @@
   },
   "recipes": [
     {
-      "name": "third",
+      "name": "first",
       "type": "crafting",
       "resultId": "SCYLLA",
       "resultQuantity": 1,
@@ -169,7 +169,7 @@
           "quantity": 1
         },
         "5": {
-          "itemId": "VALKYRIE",
+          "itemId": "NECRON_BLADE",
           "quantity": 1
         },
         "6": {
@@ -235,7 +235,7 @@
       }
     },
     {
-      "name": "first",
+      "name": "third",
       "type": "crafting",
       "resultId": "SCYLLA",
       "resultQuantity": 1,
@@ -257,7 +257,7 @@
           "quantity": 1
         },
         "5": {
-          "itemId": "NECRON_BLADE",
+          "itemId": "VALKYRIE",
           "quantity": 1
         },
         "6": {

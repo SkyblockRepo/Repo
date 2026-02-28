@@ -98,6 +98,70 @@
         },
         "3": {
           "itemId": "SOUL_STRING",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 60
+        },
+        "9": {
+          "itemId": "SOUL_STRING",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "VENOMS_TOUCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 60
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 10
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 60
+        },
+        "9": {
+          "itemId": "SOUL_STRING",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "VENOMS_TOUCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 60
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
           "quantity": 10
         },
         "4": {

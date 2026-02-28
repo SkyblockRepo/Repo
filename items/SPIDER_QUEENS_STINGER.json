@@ -97,6 +97,38 @@
         },
         "3": {
           "itemId": "SOUL_STRING",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPIDER_EYE",
+          "quantity": 6
+        },
+        "6": {
+          "itemId": "SOUL_STRING",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 6
+        },
+        "9": {
+          "itemId": "SOUL_STRING",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "SPIDER_QUEENS_STINGER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_DARK_OAK_LOG",
+          "quantity": 6
+        },
+        "3": {
+          "itemId": "SOUL_STRING",
           "quantity": 6
         },
         "4": {
