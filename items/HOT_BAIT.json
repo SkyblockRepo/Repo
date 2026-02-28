@@ -30,6 +30,38 @@
   },
   "recipes": [
     {
+      "name": "sixth",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "8": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "fifth",
+      "type": "crafting",
+      "resultId": "HOT_BAIT",
+      "resultQuantity": 16,
+      "crafting": {
+        "5": {
+          "itemId": "BLAZE_ASHES",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "MAGMA_FISH",
+          "quantity": 1
+        }
+      }
+    },
+    {
       "name": "first",
       "type": "crafting",
       "resultId": "HOT_BAIT",
@@ -62,22 +94,6 @@
       }
     },
     {
-      "name": "third",
-      "type": "crafting",
-      "resultId": "HOT_BAIT",
-      "resultQuantity": 16,
-      "crafting": {
-        "7": {
-          "itemId": "BLAZE_ASHES",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "MAGMA_FISH",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "fourth",
       "type": "crafting",
       "resultId": "HOT_BAIT",
@@ -94,32 +110,16 @@
       }
     },
     {
-      "name": "fifth",
+      "name": "third",
       "type": "crafting",
       "resultId": "HOT_BAIT",
       "resultQuantity": 16,
       "crafting": {
-        "5": {
+        "7": {
           "itemId": "BLAZE_ASHES",
           "quantity": 1
         },
-        "6": {
-          "itemId": "MAGMA_FISH",
-          "quantity": 1
-        }
-      }
-    },
-    {
-      "name": "sixth",
-      "type": "crafting",
-      "resultId": "HOT_BAIT",
-      "resultQuantity": 16,
-      "crafting": {
         "8": {
-          "itemId": "BLAZE_ASHES",
-          "quantity": 1
-        },
-        "9": {
           "itemId": "MAGMA_FISH",
           "quantity": 1
         }

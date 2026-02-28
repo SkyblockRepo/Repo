@@ -26,34 +26,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_WET_SPONGE",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "ENCHANTED_SPONGE",
-          "quantity": 8
-        },
-        "4": {
-          "itemId": "ENCHANTED_SPONGE",
-          "quantity": 8
-        },
-        "5": {
-          "itemId": "ENCHANTED_SPONGE",
-          "quantity": 8
-        },
-        "6": {
-          "itemId": "ENCHANTED_SPONGE",
-          "quantity": 8
-        },
-        "8": {
-          "itemId": "ENCHANTED_SPONGE",
-          "quantity": 8
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_WET_SPONGE",
@@ -76,6 +48,34 @@
           "quantity": 8
         },
         "5": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_WET_SPONGE",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "4": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "5": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "6": {
+          "itemId": "ENCHANTED_SPONGE",
+          "quantity": 8
+        },
+        "8": {
           "itemId": "ENCHANTED_SPONGE",
           "quantity": 8
         }

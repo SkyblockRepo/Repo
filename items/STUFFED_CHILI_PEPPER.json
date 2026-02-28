@@ -30,34 +30,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "STUFFED_CHILI_PEPPER",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "CHILI_PEPPER",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "CHILI_PEPPER",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "CHILI_PEPPER",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "CHILI_PEPPER",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "CHILI_PEPPER",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "STUFFED_CHILI_PEPPER",
@@ -80,6 +52,34 @@
           "quantity": 32
         },
         "5": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "STUFFED_CHILI_PEPPER",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "CHILI_PEPPER",
+          "quantity": 32
+        },
+        "8": {
           "itemId": "CHILI_PEPPER",
           "quantity": 32
         }

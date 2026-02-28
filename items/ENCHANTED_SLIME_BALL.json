@@ -53,34 +53,6 @@
       }
     },
     {
-      "name": "second",
-      "type": "crafting",
-      "resultId": "ENCHANTED_SLIME_BALL",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "SLIME_BALL",
-          "quantity": 32
-        },
-        "2": {
-          "itemId": "SLIME_BALL",
-          "quantity": 32
-        },
-        "3": {
-          "itemId": "SLIME_BALL",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "SLIME_BALL",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "SLIME_BALL",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "third",
       "type": "crafting",
       "resultId": "ENCHANTED_SLIME_BALL",
@@ -132,6 +104,34 @@
         },
         "5": {
           "itemId": "SLIME_BLOCK",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "second",
+      "type": "crafting",
+      "resultId": "ENCHANTED_SLIME_BALL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "SLIME_BALL",
+          "quantity": 32
+        },
+        "2": {
+          "itemId": "SLIME_BALL",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "SLIME_BALL",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "SLIME_BALL",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "SLIME_BALL",
           "quantity": 32
         }
       }

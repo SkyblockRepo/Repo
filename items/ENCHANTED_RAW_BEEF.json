@@ -25,34 +25,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "ENCHANTED_RAW_BEEF",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "RAW_BEEF",
-          "quantity": 32
-        },
-        "4": {
-          "itemId": "RAW_BEEF",
-          "quantity": 32
-        },
-        "5": {
-          "itemId": "RAW_BEEF",
-          "quantity": 32
-        },
-        "6": {
-          "itemId": "RAW_BEEF",
-          "quantity": 32
-        },
-        "8": {
-          "itemId": "RAW_BEEF",
-          "quantity": 32
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "ENCHANTED_RAW_BEEF",
@@ -75,6 +47,34 @@
           "quantity": 32
         },
         "5": {
+          "itemId": "RAW_BEEF",
+          "quantity": 32
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "ENCHANTED_RAW_BEEF",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "RAW_BEEF",
+          "quantity": 32
+        },
+        "4": {
+          "itemId": "RAW_BEEF",
+          "quantity": 32
+        },
+        "5": {
+          "itemId": "RAW_BEEF",
+          "quantity": 32
+        },
+        "6": {
+          "itemId": "RAW_BEEF",
+          "quantity": 32
+        },
+        "8": {
           "itemId": "RAW_BEEF",
           "quantity": 32
         }
