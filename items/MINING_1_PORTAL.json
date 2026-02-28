@@ -41,50 +41,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MINING_1_PORTAL",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "IRON_INGOT",
-          "quantity": 16
-        },
-        "2": {
-          "itemId": "IRON_INGOT",
-          "quantity": 16
-        },
-        "3": {
-          "itemId": "IRON_INGOT",
-          "quantity": 16
-        },
-        "4": {
-          "itemId": "GOLD_INGOT",
-          "quantity": 16
-        },
-        "5": {
-          "itemId": "ENDER_PEARL",
-          "quantity": 16
-        },
-        "6": {
-          "itemId": "GOLD_INGOT",
-          "quantity": 16
-        },
-        "7": {
-          "itemId": "GOLD_INGOT",
-          "quantity": 16
-        },
-        "8": {
-          "itemId": "GOLD_INGOT",
-          "quantity": 16
-        },
-        "9": {
-          "itemId": "GOLD_INGOT",
-          "quantity": 16
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "MINING_1_PORTAL",
@@ -124,6 +80,50 @@
         },
         "9": {
           "itemId": "GOLD_ORE",
+          "quantity": 16
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MINING_1_PORTAL",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "IRON_INGOT",
+          "quantity": 16
+        },
+        "2": {
+          "itemId": "IRON_INGOT",
+          "quantity": 16
+        },
+        "3": {
+          "itemId": "IRON_INGOT",
+          "quantity": 16
+        },
+        "4": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "ENDER_PEARL",
+          "quantity": 16
+        },
+        "6": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "8": {
+          "itemId": "GOLD_INGOT",
+          "quantity": 16
+        },
+        "9": {
+          "itemId": "GOLD_INGOT",
           "quantity": 16
         }
       }

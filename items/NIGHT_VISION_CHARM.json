@@ -29,46 +29,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "NIGHT_VISION_CHARM",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "ENCHANTED_RED_MUSHROOM",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 1
-        },
-        "3": {
-          "itemId": "ENCHANTED_RED_MUSHROOM",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 1
-        },
-        "7": {
-          "itemId": "ENCHANTED_RED_MUSHROOM",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "ENCHANTED_BROWN_MUSHROOM",
-          "quantity": 1
-        },
-        "9": {
-          "itemId": "ENCHANTED_RED_MUSHROOM",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "NIGHT_VISION_CHARM",
@@ -104,6 +64,46 @@
         },
         "9": {
           "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "NIGHT_VISION_CHARM",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "3": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "7": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "ENCHANTED_BROWN_MUSHROOM",
+          "quantity": 1
+        },
+        "9": {
+          "itemId": "ENCHANTED_RED_MUSHROOM",
           "quantity": 1
         }
       }
