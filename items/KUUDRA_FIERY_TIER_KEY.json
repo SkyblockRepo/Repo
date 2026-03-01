@@ -24,30 +24,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "KUUDRA_FIERY_TIER_KEY",
-      "resultQuantity": 1,
-      "crafting": {
-        "1": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "2": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "4": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "KUUDRA_FIERY_TIER_KEY",
@@ -72,24 +48,24 @@
       }
     },
     {
-      "name": "third",
+      "name": "first",
       "type": "crafting",
       "resultId": "KUUDRA_FIERY_TIER_KEY",
       "resultQuantity": 1,
       "crafting": {
+        "1": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
         "5": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "KUUDRA_BURNING_TIER_KEY",
-          "quantity": 1
-        },
-        "9": {
           "itemId": "KUUDRA_BURNING_TIER_KEY",
           "quantity": 1
         }
@@ -114,6 +90,30 @@
           "quantity": 1
         },
         "8": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "third",
+      "type": "crafting",
+      "resultId": "KUUDRA_FIERY_TIER_KEY",
+      "resultQuantity": 1,
+      "crafting": {
+        "5": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "8": {
+          "itemId": "KUUDRA_BURNING_TIER_KEY",
+          "quantity": 1
+        },
+        "9": {
           "itemId": "KUUDRA_BURNING_TIER_KEY",
           "quantity": 1
         }

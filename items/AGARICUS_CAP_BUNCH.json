@@ -30,34 +30,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "AGARICUS_CAP_BUNCH",
-      "resultQuantity": 1,
-      "crafting": {
-        "2": {
-          "itemId": "AGARICUS_CAP",
-          "quantity": 4
-        },
-        "4": {
-          "itemId": "AGARICUS_CAP",
-          "quantity": 4
-        },
-        "5": {
-          "itemId": "AGARICUS_CAP",
-          "quantity": 4
-        },
-        "6": {
-          "itemId": "AGARICUS_CAP",
-          "quantity": 4
-        },
-        "8": {
-          "itemId": "AGARICUS_CAP",
-          "quantity": 4
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "AGARICUS_CAP_BUNCH",
@@ -80,6 +52,34 @@
           "quantity": 4
         },
         "5": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 4
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "AGARICUS_CAP_BUNCH",
+      "resultQuantity": 1,
+      "crafting": {
+        "2": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 4
+        },
+        "4": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 4
+        },
+        "5": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 4
+        },
+        "6": {
+          "itemId": "AGARICUS_CAP",
+          "quantity": 4
+        },
+        "8": {
           "itemId": "AGARICUS_CAP",
           "quantity": 4
         }

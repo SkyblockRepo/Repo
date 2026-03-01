@@ -26,30 +26,6 @@
   },
   "recipes": [
     {
-      "name": "first",
-      "type": "crafting",
-      "resultId": "MAGICAL_LAVA_BUCKET",
-      "resultQuantity": 1,
-      "crafting": {
-        "4": {
-          "itemId": "IRON_INGOT",
-          "quantity": 1
-        },
-        "5": {
-          "itemId": "ENCHANTED_NETHERRACK",
-          "quantity": 1
-        },
-        "6": {
-          "itemId": "IRON_INGOT",
-          "quantity": 1
-        },
-        "8": {
-          "itemId": "IRON_INGOT",
-          "quantity": 1
-        }
-      }
-    },
-    {
       "name": "second",
       "type": "crafting",
       "resultId": "MAGICAL_LAVA_BUCKET",
@@ -68,6 +44,30 @@
           "quantity": 1
         },
         "5": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "MAGICAL_LAVA_BUCKET",
+      "resultQuantity": 1,
+      "crafting": {
+        "4": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "5": {
+          "itemId": "ENCHANTED_NETHERRACK",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "IRON_INGOT",
+          "quantity": 1
+        },
+        "8": {
           "itemId": "IRON_INGOT",
           "quantity": 1
         }
