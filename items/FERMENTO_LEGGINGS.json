@@ -119,6 +119,46 @@
           "quantity": 20
         }
       }
+    },
+    {
+      "name": "first",
+      "type": "crafting",
+      "resultId": "FERMENTO_LEGGINGS",
+      "resultQuantity": 1,
+      "crafting": {
+        "1": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "2": {
+          "itemId": "ENCHANTED_SUGAR_CANE",
+          "quantity": 32
+        },
+        "3": {
+          "itemId": "CONDENSED_FERMENTO",
+          "quantity": 1
+        },
+        "4": {
+          "itemId": "ENCHANTED_HUGE_MUSHROOM_2",
+          "quantity": 16
+        },
+        "5": {
+          "itemId": "SQUASH_LEGGINGS",
+          "quantity": 1
+        },
+        "6": {
+          "itemId": "ENCHANTED_HUGE_MUSHROOM_1",
+          "quantity": 16
+        },
+        "7": {
+          "itemId": "MUTANT_NETHER_STALK",
+          "quantity": 20
+        },
+        "9": {
+          "itemId": "MUTANT_NETHER_STALK",
+          "quantity": 20
+        }
+      }
     }
   ]
 }
