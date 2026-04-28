@@ -25,7 +25,8 @@
     },
     "name": "Scuttler Shell",
     "tier": "MYTHIC",
-    "npc_sell_price": 1000000
+    "npc_sell_price": 1000000,
+    "can_recombobulate": false
   },
   "recipes": []
 }

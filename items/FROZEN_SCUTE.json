@@ -24,13 +24,14 @@
       "signature": "bHKiLLRoJcabPKE0hB12lLdQQXz196HfGDkbSWUZbR0cseUWaCpjzBGDUapsF4HsNAYvg3xVUIMHFjAi4BvUY+JzJ54heWAPSbEZS7Hxhv1z2HnlqNxMMNwZAq2oivvXB/9PFSnteE9DBSxz+d/G0qf2Bx48w8xn8J6pAGJgQUuLnBUSikfU+E1fSkxarvaHjuzk0pu0QLdgWiIrIe0khUSX4NIAl+NE4b6SAl9w/QXW43qINaR/8U1GvMHC/Xesx8OUDbizPM9SHr4AAC35oIz645FHOyv+zVeX1ZqaHHr38T/qT6bzqgelVzMFmgEwgctVXaBJMA/pJ6CTEArg3zFZTNjI1BJTMEenHozm5JhFpuwwqC/nGbjaW4nj8X1zDgVCeTNR7QiTHEn/cJb2tksDXUoZigjsMf3WeS7iux1QOUVaJMimF6vnO65NKTxwqx0hS1fh3Q/kKCsjI3pAg4mnZZEzWivO85FMl3r8FVEYeAq2pfbcgAXSKsUzUIdmZuKP17o6xYgPha5cdl+Fwk1GhWpY3JBOYl3Xk3kPDvIjprww4WbHyomz8xCsi+P1adJPRFZaxo4dUqDusjaPQSQxDNRGBKJiLS4fGxl0Hov5dgN2aqyzKtpiY95zcTKVSGd8lheYzZ0iRjbKCDrC2u/hStqWoJ3WT8LqPgPUWho="
     },
     "name": "Frozen Scute",
-    "tier": "LEGENDARY",
+    "tier": "MYTHIC",
     "npc_sell_price": 5000000,
+    "can_recombobulate": false,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 100,
-        "essence_type": "ICE"
+        "amount": 500,
+        "essence_type": "FOSSIL"
       }
     ]
   },
