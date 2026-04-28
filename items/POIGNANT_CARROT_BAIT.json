@@ -1,0 +1,26 @@
+{
+  "internalId": "POIGNANT_CARROT_BAIT",
+  "name": "Poignant Carrot Bait",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "POIGNANT_CARROT_BAIT",
+    "material": "PAPER",
+    "name": "Poignant Carrot Bait",
+    "category": "NONE",
+    "tier": "LEGENDARY",
+    "item_model": "minecraft:orange_candle"
+  }
+}

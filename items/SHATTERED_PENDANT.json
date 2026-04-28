@@ -26,7 +26,15 @@
     "name": "Shattered Locket",
     "tier": "LEGENDARY",
     "npc_sell_price": 5000000,
-    "description": "A dainty piece of jewelry covered in a thick coat of glacite. The frosty layer obscures the details of the photograph nestled within."
+    "description": "A dainty piece of jewelry covered in a thick coat of glacite. The frosty layer obscures the details of the photograph nestled within.",
+    "rarity_salvageable": true,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "FOSSIL",
+        "amount": 1000
+      }
+    ]
   },
   "recipes": []
 }

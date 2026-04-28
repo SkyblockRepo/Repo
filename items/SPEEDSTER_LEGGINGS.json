@@ -21,11 +21,13 @@
     "color": "224,252,247",
     "name": "Speedster Leggings",
     "category": "LEGGINGS",
-    "tier": "EPIC",
+    "tier": "UNCOMMON",
     "npc_sell_price": 179200,
     "museum_data": {
       "donation_xp": 0,
-      "parent": {},
+      "parent": {
+        "SPEEDSTER": "THERMODYNAMIC"
+      },
       "type": null,
       "armor_set_donation_xp": {
         "SPEEDSTER": 5
@@ -34,8 +36,8 @@
       "category": "FARMING"
     },
     "stats": {
-      "DEFENSE": 95,
-      "WALK_SPEED": 15
+      "WALK_SPEED": 15,
+      "DEFENSE": 60
     }
   },
   "recipes": [

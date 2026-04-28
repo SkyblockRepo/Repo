@@ -1,0 +1,25 @@
+{
+  "internalId": "JACOBS_PARTICIPATION_MEDAL",
+  "name": "Jacob's Participation Medal",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "JACOBS_PARTICIPATION_MEDAL",
+    "material": "PAPER",
+    "name": "Jacob's Participation Medal",
+    "tier": "EPIC",
+    "item_model": "minecraft:mangrove_hanging_sign"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "internalId": "FEAST_FLASK",
+  "name": "Feast Flask",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FEAST_FLASK",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzU4NzUxNDUyNywKICAicHJvZmlsZUlkIiA6ICJiZTFkOTJiYTkwY2E0NzMwYTIyMzQ2MTIxZWM2MTNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZW5zb3JCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5ODAxZjk3MTkyNjEwN2Y3NjExN2JiNzE2YWQ5MTkwMjJhMDU5ZTI1YWU5NzFiYzU3ZjczNGM4YmM5OWMwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "QjK09D4PXJT5SZWcLaeiDlQT8KvNlkMaTfHXii+f0v4JOEnP+oZW2dpY9nhAREvzbgufI8tWq6CyjwLjNxpHgrsIsll5Oc7WbOweTLeUke2y0VgVPuHhMzogiNQuX5hVqXog8yQnveWRA4VBYX0h0o4szbMLBX11GMbOSd+C7piBJx0Pq4eMxGqE9c42K+a1Uq/HA5xqbN9CEASK15sbUZUNer3se8SKYveKc00yX6sWNJbC7jpFjlWThfqN8ca53x542onrjbung9o4VWywQa+ztx9JGu8fZGu16xmEtbSPnJ1hlrMXu3Eu50EcK9ulcPGnjhTZcRsBz7nAxhTeo1wXEJ/eebzj4e/q2w87r2X7Kyia37wOQ6LYz7i8zQGiCc9mOoO+CFV+qIsUAUOAu8jHtASadCwjr3fd5j3Wxm/WLz4WkQivTlE5aVTFHwgYETDqTPUUrs5c8+7EJk6579/1v5V5FYRnv7terc7hfaS8cMDtU7amAhgfkxdsufBYBEoA600QujStxnhqbJFpTW0LtcuPT0wRlPmVsrPSriNNm7IuDKj08ZKNOeD7sW5nggTKhzrKDEUjf4Pd27ZjXVBiexFnwSdyE3wh4bTGpCNYdMJbAvX72A2OhOZ7BKhnyrHqPoYAsgIUAzhJHXaQdwg8thkYBpbQKVUuImvYrto="
+    },
+    "name": "Feast Flask",
+    "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%gray%%A cup of soup from the %%yellow%%Communal Stew%%gray%%."
+  }
+}

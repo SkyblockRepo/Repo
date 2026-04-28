@@ -1,0 +1,48 @@
+{
+  "internalId": "THERMODYNAMIC_LEGGINGS",
+  "name": "Thermodynamic Leggings",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THERMODYNAMIC_LEGGINGS",
+    "material": "LEATHER_LEGGINGS",
+    "color": "255,112,10",
+    "name": "Thermodynamic Leggings",
+    "category": "LEGGINGS",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 30
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": null,
+      "armor_set_donation_xp": {
+        "THERMODYNAMIC": 10
+      },
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
+    },
+    "stats": {
+      "WALK_SPEED": 25,
+      "DEFENSE": 200,
+      "ATTACK_SPEED": 5
+    }
+  }
+}

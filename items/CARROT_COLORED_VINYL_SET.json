@@ -1,0 +1,25 @@
+{
+  "internalId": "CARROT_COLORED_VINYL_SET",
+  "name": "Empty Carrot-Colored Vinyl Set",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CARROT_COLORED_VINYL_SET",
+    "material": "STORAGE_MINECART",
+    "name": "Empty Carrot-Colored Vinyl Set",
+    "tier": "RARE",
+    "has_uuid": true
+  }
+}

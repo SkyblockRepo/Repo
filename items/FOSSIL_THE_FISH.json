@@ -1,6 +1,6 @@
 {
   "internalId": "FOSSIL_THE_FISH",
-  "name": "Fossil The Fish",
+  "name": "Fossil the Fish",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -23,7 +23,14 @@
     "tier": "SPECIAL",
     "unstackable": true,
     "glowing": true,
-    "museum": true
+    "museum": true,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "FOSSIL",
+        "amount": 25
+      }
+    ]
   },
   "recipes": []
 }

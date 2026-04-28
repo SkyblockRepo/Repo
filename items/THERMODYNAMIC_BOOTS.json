@@ -1,0 +1,48 @@
+{
+  "internalId": "THERMODYNAMIC_BOOTS",
+  "name": "Thermodynamic Boots",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "THERMODYNAMIC_BOOTS",
+    "material": "LEATHER_BOOTS",
+    "color": "255,112,10",
+    "name": "Thermodynamic Boots",
+    "category": "BOOTS",
+    "tier": "LEGENDARY",
+    "requirements": [
+      {
+        "type": "SKILL",
+        "skill": "COMBAT",
+        "level": 30
+      }
+    ],
+    "museum_data": {
+      "donation_xp": 0,
+      "parent": {},
+      "type": null,
+      "armor_set_donation_xp": {
+        "THERMODYNAMIC": 10
+      },
+      "game_stage": "EXPERT",
+      "category": "COMBAT"
+    },
+    "stats": {
+      "WALK_SPEED": 25,
+      "DEFENSE": 125,
+      "ATTACK_SPEED": 5
+    }
+  }
+}

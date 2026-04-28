@@ -1,0 +1,31 @@
+{
+  "internalId": "FLORAL_GELATIN",
+  "name": "Floral Gelatin",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FLORAL_GELATIN",
+    "material": "PAPER",
+    "name": "Floral Gelatin",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "item_model": "minecraft:honey_bottle"
+  }
+}

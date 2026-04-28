@@ -1,0 +1,31 @@
+{
+  "internalId": "CACTUS_FLOWER",
+  "name": "Cactus Flower",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CACTUS_FLOWER",
+    "material": "PAPER",
+    "name": "Cactus Flower",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "item_model": "minecraft:cactus_flower"
+  }
+}
