@@ -25,6 +25,13 @@
     },
     "name": "Condensed Helianthus",
     "tier": "LEGENDARY",
-    "npc_sell_price": 2475000
+    "npc_sell_price": 2475000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "sort_by_category": true
+      }
+    ],
+    "description": "The Crème de la Crop"
   }
 }

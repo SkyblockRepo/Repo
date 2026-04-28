@@ -30,12 +30,12 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
+        "show_items_last": [
+          "OCEANDY"
+        ],
         "show_items_first": [
           "LUSHLILAC_BONBON",
           "PRIME_LUSHLILAC_BONBON"
-        ],
-        "show_items_last": [
-          "OCEANDY"
         ]
       }
     ]

@@ -29,11 +29,11 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
-        "show_items_first": [
-          "PRESSURE_TALISMAN"
-        ],
         "show_items_last": [
           "PRESSURE_ARTIFACT"
+        ],
+        "show_items_first": [
+          "PRESSURE_TALISMAN"
         ]
       }
     ],
