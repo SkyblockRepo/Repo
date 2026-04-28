@@ -28,11 +28,11 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
-        "show_items_first": [
-          "CRUX_TALISMAN_4"
-        ],
         "excluded_items": [
           "CRUXMOTION"
+        ],
+        "show_items_first": [
+          "CRUX_TALISMAN_4"
         ]
       }
     ],

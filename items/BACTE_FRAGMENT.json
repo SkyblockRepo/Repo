@@ -28,12 +28,12 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
-        "show_items_first": [
-          "RIFT_TROPHY_SLIME"
-        ],
         "excluded_items": [
           "BLOODBADGE",
           "GARLIC_FLAVORED_GUMMY_BEAR"
+        ],
+        "show_items_first": [
+          "RIFT_TROPHY_SLIME"
         ]
       }
     ],

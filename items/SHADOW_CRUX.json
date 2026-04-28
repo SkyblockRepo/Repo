@@ -28,12 +28,12 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
-        "show_items_first": [
-          "CRUX_TALISMAN_2"
-        ],
         "excluded_items": [
           "CRUXMOTION",
           "FEMURGROWTH_LEGGINGS"
+        ],
+        "show_items_first": [
+          "CRUX_TALISMAN_2"
         ]
       }
     ],

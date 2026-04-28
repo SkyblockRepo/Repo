@@ -24,11 +24,11 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
-        "show_items_last": [
-          "LIVING_METAL_ANVIL"
-        ],
         "excluded_items": [
           "RIFT_TROPHY_LAZY_LIVING"
+        ],
+        "show_items_last": [
+          "LIVING_METAL_ANVIL"
         ]
       }
     ],

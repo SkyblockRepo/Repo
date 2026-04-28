@@ -28,12 +28,12 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
-        "show_items_first": [
-          "CRUX_TALISMAN_1"
-        ],
         "excluded_items": [
           "CRUXMOTION",
           "RIFT_TROPHY_SLIME"
+        ],
+        "show_items_first": [
+          "CRUX_TALISMAN_1"
         ]
       }
     ],

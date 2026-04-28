@@ -28,11 +28,11 @@
     "components": [
       {
         "type": "RECIPE_INGREDIENT",
-        "show_items_first": [
-          "RIFT_TROPHY_WYLDLY_SUPREME"
-        ],
         "excluded_items": [
           "BLOODBADGE"
+        ],
+        "show_items_first": [
+          "RIFT_TROPHY_WYLDLY_SUPREME"
         ]
       }
     ],
