@@ -1,6 +1,6 @@
 {
   "internalId": "GLACITE_SHARD",
-  "name": "Glacite Shard",
+  "name": "Glacite Chunk",
   "category": "Power Stone",
   "source": "HypixelAPI",
   "npcValue": 1,
@@ -26,7 +26,14 @@
     "name": "Glacite Chunk",
     "category": "REFORGE_STONE",
     "tier": "LEGENDARY",
-    "npc_sell_price": 1
+    "npc_sell_price": 1,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 25,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }

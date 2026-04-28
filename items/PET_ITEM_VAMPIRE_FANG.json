@@ -21,7 +21,8 @@
     "name": "Vampire Fang",
     "tier": "MYTHIC",
     "glowing": true,
-    "npc_sell_price": 500000
+    "npc_sell_price": 500000,
+    "can_recombobulate": false
   },
   "recipes": []
 }

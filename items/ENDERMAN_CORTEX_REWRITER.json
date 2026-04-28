@@ -25,7 +25,8 @@
     },
     "name": "Enderman Cortex Rewriter",
     "tier": "MYTHIC",
-    "npc_sell_price": 80000
+    "npc_sell_price": 80000,
+    "can_recombobulate": false
   },
   "recipes": []
 }

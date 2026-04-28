@@ -1,0 +1,25 @@
+{
+  "internalId": "NOT_VERY_MOLDY_BREAD",
+  "name": "Not Very Moldy Bread",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "NOT_VERY_MOLDY_BREAD",
+    "material": "BREAD",
+    "name": "Not Very Moldy Bread",
+    "tier": "RARE",
+    "unstackable": true
+  }
+}

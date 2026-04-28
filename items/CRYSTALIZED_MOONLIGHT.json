@@ -1,0 +1,31 @@
+{
+  "internalId": "CRYSTALIZED_MOONLIGHT",
+  "name": "Crystalized Moonlight",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CRYSTALIZED_MOONLIGHT",
+    "material": "PAPER",
+    "name": "Crystalized Moonlight",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "item_model": "minecraft:dragon_breath"
+  }
+}

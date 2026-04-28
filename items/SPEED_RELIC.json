@@ -1,0 +1,37 @@
+{
+  "internalId": "SPEED_RELIC",
+  "name": "Speed Relic",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1400000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "SPEED_RELIC",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDYxNjE2OTAxNywKICAicHJvZmlsZUlkIiA6ICI3NWQ3OTQxMjI0OTM0OTI4YTE1Njc3NjYyODhjN2I1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWdpY01hamVzdGljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhMmM4N2FlNWZhMDMzNDVkZjQyYzEyZGZjOTU3MTc3YzY3YzY5ZTE0MDBlYmVmNzAwNWViMTNiNThiZTY3NTkiCiAgICB9CiAgfQp9",
+      "signature": "H8eqd5fmeCmq+M05HrvCDRpPk2FYBdbOkOhXlJy9cyr9jzdGUQpOeDqWdT6NTN9Jqd410/iZJqmHn1bTCSwtoUjLnSmaS6sPyCzABMXFgIdQNDYZGGid6LNTK6jzZct6p3uU0oqo64sY+P4TtMayCTgKZChWywbMpxpkOx++Kuw25K5UViCe7HNHVgcuV5FmGda4/NANQog0fhd9h5Yo3H6WvkH6FB6tatgbAE22daeGvGREESC5qCKnenXAx63yEimS/M6NwNU1/JPyhl0d+B58Uv5eLaEbSxsCammNDahrDLq9HeYq1zUdVRdS0q0XqB/fucjk5BFRkY9vO6Pk1+axKiHloddgjUh08+Hc49Kyia0zOxen79kJZwCRZxGgqwF2nBjB0ixOqc9p6wezARbjGS6UvcBBZTbXn0UGcD2zc/lszTpWZplY8o222tQNKq3UKfzeo8zeQVsb54qbIQ1NLVxStxh1Yx3dAmH/zYoSTb8F4/ma06Fnpnvuqf3Hj2nyvnpQ0VfifMhm5kjVXesZ4apvT6dXCJTsTDJtjz8lVp0PKwKdnM4CqfeoOpzhdM/dZTdfo4AR8DSPW/DToLRYkhU1PoheJj1/kulNmSUXVSh7FCY7WWJv7zdSmL3Nb3CtSsZrNSzSHZLN9P4SovOcJQpPEsQvxTVhi5SfhaI="
+    },
+    "name": "Speed Relic",
+    "category": "ACCESSORY",
+    "tier": "EPIC",
+    "npc_sell_price": 1400000,
+    "stats": {
+      "WALK_SPEED": 7,
+      "ATTACK_SPEED": 1,
+      "MINING_SPEED": 1,
+      "FISHING_SPEED": 1
+    }
+  }
+}

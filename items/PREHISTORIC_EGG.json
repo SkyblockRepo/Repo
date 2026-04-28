@@ -26,7 +26,15 @@
     "name": "Prehistoric Egg",
     "unstackable": true,
     "npc_sell_price": 1000,
-    "can_interact": false
+    "can_interact": false,
+    "rarity_salvageable": true,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "FOSSIL",
+        "amount": 25
+      }
+    ]
   },
   "recipes": []
 }

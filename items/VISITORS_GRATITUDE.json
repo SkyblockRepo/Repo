@@ -1,0 +1,31 @@
+{
+  "internalId": "VISITORS_GRATITUDE",
+  "name": "Visitors' Gratitude",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VISITORS_GRATITUDE",
+    "material": "PAPER",
+    "name": "Visitors' Gratitude",
+    "tier": "COMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "You made someone smile today! %%light_purple%%❤",
+    "item_model": "minecraft:cake"
+  }
+}

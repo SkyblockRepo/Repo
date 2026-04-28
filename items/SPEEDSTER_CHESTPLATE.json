@@ -21,11 +21,13 @@
     "color": "224,252,247",
     "name": "Speedster Chestplate",
     "category": "CHESTPLATE",
-    "tier": "EPIC",
+    "tier": "UNCOMMON",
     "npc_sell_price": 204800,
     "museum_data": {
       "donation_xp": 0,
-      "parent": {},
+      "parent": {
+        "SPEEDSTER": "THERMODYNAMIC"
+      },
       "type": null,
       "armor_set_donation_xp": {
         "SPEEDSTER": 5
@@ -34,8 +36,8 @@
       "category": "FARMING"
     },
     "stats": {
-      "DEFENSE": 120,
-      "WALK_SPEED": 15
+      "WALK_SPEED": 15,
+      "DEFENSE": 70
     }
   },
   "recipes": [

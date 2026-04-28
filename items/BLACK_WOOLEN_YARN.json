@@ -21,7 +21,8 @@
     "durability": 15,
     "name": "Black Woolen Yarn",
     "tier": "MYTHIC",
-    "hide_from_viewrecipe_command": true
+    "hide_from_viewrecipe_command": true,
+    "can_recombobulate": false
   },
   "recipes": []
 }

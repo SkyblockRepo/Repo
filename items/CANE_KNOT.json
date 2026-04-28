@@ -1,0 +1,32 @@
+{
+  "internalId": "CANE_KNOT",
+  "name": "Cane Knot",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 5000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "CANE_KNOT",
+    "material": "PAPER",
+    "name": "Cane Knot",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A bundle of Sugar Cane so tied up that it questions our understanding of friction and thermodynamics.",
+    "item_model": "minecraft:kelp"
+  }
+}

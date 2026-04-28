@@ -1,0 +1,30 @@
+{
+  "internalId": "COCOA_NET",
+  "name": "Cocoa Net",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "COCOA_NET",
+    "material": "WOOD_AXE",
+    "name": "Cocoa Net",
+    "tier": "COMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A tool only large enough to be used by a minion. Its scent is known to attract Pests."
+  }
+}

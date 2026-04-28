@@ -1,0 +1,24 @@
+{
+  "internalId": "FINNS_FOCACCIA",
+  "name": "Finn's Focaccia",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "FINNS_FOCACCIA",
+    "material": "BREAD",
+    "name": "Finn's Focaccia",
+    "tier": "UNCOMMON"
+  }
+}

@@ -26,6 +26,14 @@
     "name": "Caged Wisp",
     "tier": "LEGENDARY",
     "npc_sell_price": 5000000,
-    "description": "%%gray%%Loyal companions to the dwarves since the beginning, wisps were once famously used to light the way down in the darkest depths. This one seems to have been stuck in a broken lantern for a long, long time."
+    "description": "%%gray%%Loyal companions to the dwarves since the beginning, wisps were once famously used to light the way down in the darkest depths. This one seems to have been stuck in a broken lantern for a long, long time.",
+    "rarity_salvageable": true,
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "FOSSIL",
+        "amount": 500
+      }
+    ]
   }
 }
