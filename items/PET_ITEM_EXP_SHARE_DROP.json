@@ -21,7 +21,13 @@
     "durability": 11,
     "name": "Exp Share Core",
     "tier": "EPIC",
-    "npc_sell_price": 50000
+    "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Used to craft the Exp Share pet item."
   },
   "recipes": []
 }

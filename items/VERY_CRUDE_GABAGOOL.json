@@ -25,7 +25,13 @@
     },
     "name": "Very Crude Gabagool",
     "tier": "RARE",
-    "npc_sell_price": 1
+    "npc_sell_price": 1,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Compacted Crude Gabagool, use to feed Wisp pets or tier up into Fuel Gabagool."
   },
   "recipes": [
     {

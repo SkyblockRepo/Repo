@@ -21,7 +21,16 @@
     "name": "Tiger Shark Tooth",
     "tier": "EPIC",
     "glowing": true,
-    "npc_sell_price": 50000
+    "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "SHARP_SHARK_TOOTH_NECKLACE"
+        ]
+      }
+    ],
+    "description": "Dropped by a Shark during Fishing Festival."
   },
   "recipes": []
 }

@@ -25,6 +25,17 @@
     },
     "name": "Puff Crux",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "excluded_items": [
+          "CRUXMOTION"
+        ],
+        "show_items_first": [
+          "CRUX_TALISMAN_7"
+        ]
+      }
+    ],
     "description": "Pure CO².",
     "motes_sell_price": 100,
     "origin": "RIFT"

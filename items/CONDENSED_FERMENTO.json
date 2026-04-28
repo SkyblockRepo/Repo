@@ -26,6 +26,12 @@
     "name": "Condensed Fermento",
     "tier": "EPIC",
     "npc_sell_price": 2250000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "sort_by_category": true
+      }
+    ],
     "has_uuid": true
   },
   "recipes": [

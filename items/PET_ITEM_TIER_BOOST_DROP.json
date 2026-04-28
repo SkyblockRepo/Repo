@@ -20,7 +20,13 @@
     "material": "INK_SACK",
     "durability": 1,
     "name": "Tier Boost Core",
-    "tier": "LEGENDARY"
+    "tier": "LEGENDARY",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Used to craft the Tier Boost pet item."
   },
   "recipes": []
 }

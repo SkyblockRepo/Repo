@@ -27,6 +27,11 @@
     "tier": "RARE",
     "glowing": true,
     "npc_sell_price": 1280,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "item_model": "minecraft:mangrove_log"
   },
   "recipes": [

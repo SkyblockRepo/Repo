@@ -21,6 +21,12 @@
     "name": "L.A.S.R.'s Eye",
     "tier": "EPIC",
     "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "The eye is mightier than the sword.",
     "dungeon_item": true
   },
   "recipes": []

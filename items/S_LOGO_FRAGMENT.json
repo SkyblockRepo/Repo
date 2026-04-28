@@ -25,6 +25,11 @@
     },
     "name": "W Logo Fragment",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%%%italic%%Even wizards can have branding failures.",
     "motes_sell_price": 1750,
     "origin": "RIFT"

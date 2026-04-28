@@ -26,6 +26,11 @@
     "name": "Gill Membrane",
     "tier": "UNCOMMON",
     "npc_sell_price": 70,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%It really stinks, but...yeah it mostly stinks."
   },
   "recipes": []

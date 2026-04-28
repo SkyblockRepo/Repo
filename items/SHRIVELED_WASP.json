@@ -25,7 +25,13 @@
     },
     "name": "Shriveled Wasp",
     "tier": "LEGENDARY",
-    "npc_sell_price": 100000
+    "npc_sell_price": 100000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A notably large wasp carcass, drowned in the web and drained of blood. Its stinger remains intact."
   },
   "recipes": []
 }

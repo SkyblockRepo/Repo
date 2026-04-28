@@ -21,6 +21,15 @@
     "durability": 11,
     "name": "Nullified Metal",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "excluded_items": [
+          "FROZEN_WATER_PUNGI"
+        ],
+        "allow_duplicates": true
+      }
+    ],
     "motes_sell_price": 100,
     "origin": "RIFT"
   },

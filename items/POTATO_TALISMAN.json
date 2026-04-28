@@ -29,6 +29,11 @@
     "stats": {
       "WALK_SPEED": 1
     },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "has_uuid": true
   },
   "recipes": []

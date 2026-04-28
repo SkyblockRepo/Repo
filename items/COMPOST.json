@@ -25,7 +25,12 @@
     },
     "name": "Compost",
     "tier": "UNCOMMON",
-    "npc_sell_price": 4
+    "npc_sell_price": 4,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

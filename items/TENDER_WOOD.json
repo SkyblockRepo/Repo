@@ -26,6 +26,11 @@
     "name": "Tender Wood",
     "tier": "UNCOMMON",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "Ideal for fine woodworking, this fig-derived wood is fully impervious, and can even be used to craft see-through items."
   },
   "recipes": []

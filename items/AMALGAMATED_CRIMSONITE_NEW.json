@@ -17,11 +17,16 @@
   },
   "data": {
     "id": "AMALGAMATED_CRIMSONITE_NEW",
-    "material": "MONSTER_EGG",
-    "durability": 52,
+    "material": "PAPER",
     "name": "Amalgamated Crimsonite",
     "tier": "RARE",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "item_model": "minecraft:pitcher_pod"
   },
   "recipes": [
     {

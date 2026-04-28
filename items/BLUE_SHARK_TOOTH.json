@@ -21,7 +21,13 @@
     "name": "Blue Shark Tooth",
     "tier": "RARE",
     "glowing": true,
-    "npc_sell_price": 5000
+    "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Dropped by a Shark during Fishing Festival."
   },
   "recipes": []
 }

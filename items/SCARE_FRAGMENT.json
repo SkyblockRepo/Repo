@@ -22,6 +22,11 @@
     "name": "Scare Fragment",
     "tier": "RARE",
     "npc_sell_price": 1000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Imbued with the pure essence of terror, this shard pulsates with an unsettling energy."
   },
   "recipes": []

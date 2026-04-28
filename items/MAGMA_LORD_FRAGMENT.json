@@ -25,7 +25,15 @@
     },
     "name": "Magma Lord Fragment",
     "tier": "LEGENDARY",
-    "npc_sell_price": 200000
+    "npc_sell_price": 200000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "MAGMA_LORD_GAUNTLET"
+        ]
+      }
+    ]
   },
   "recipes": []
 }

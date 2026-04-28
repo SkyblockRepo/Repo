@@ -20,7 +20,12 @@
     "material": "SULPHUR",
     "name": "Derelict Ashe",
     "tier": "UNCOMMON",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

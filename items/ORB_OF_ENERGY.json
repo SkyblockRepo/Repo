@@ -26,6 +26,11 @@
     "name": "Orb of Energy",
     "tier": "RARE",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%According to Professor Selta they are 9V batteries and can supply about 50mA of current. Professor Selta is currently in a mental asylum."
   },
   "recipes": []

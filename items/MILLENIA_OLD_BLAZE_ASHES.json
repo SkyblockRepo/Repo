@@ -26,6 +26,11 @@
     "name": "Millennia-Old Blaze Ashes",
     "tier": "RARE",
     "npc_sell_price": 1000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Despite being ephemeral creatures, blaze ashes are eternal."
   },
   "recipes": []

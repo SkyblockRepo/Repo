@@ -18,10 +18,10 @@
   "data": {
     "id": "INFLATABLE_JERRY",
     "material": "MONSTER_EGG",
-    "durability": 120,
     "name": "Inflatable Jerry",
     "npc_sell_price": 500,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "item_model": "minecraft:villager_spawn_egg"
   },
   "recipes": []
 }

@@ -26,6 +26,14 @@
     "name": "Thunder Fragment",
     "tier": "EPIC",
     "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "THUNDERBOLT_NECKLACE"
+        ]
+      }
+    ],
     "description": "%%gray%%Wear gloves when handling, and be cautious around water pools."
   },
   "recipes": []

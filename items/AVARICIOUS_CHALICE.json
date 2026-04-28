@@ -26,6 +26,11 @@
     "name": "Avaricious Chalice",
     "category": "NONE",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Said to make any drink inside it taste like %%gold%%gold%%gray%%."
   },
   "recipes": [],

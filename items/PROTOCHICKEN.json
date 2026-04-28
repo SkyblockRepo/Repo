@@ -25,6 +25,11 @@
     },
     "name": "Proto-Chicken",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "The animal which came right before the first chicken.",
     "origin": "RIFT"
   },

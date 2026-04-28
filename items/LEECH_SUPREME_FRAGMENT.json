@@ -25,6 +25,17 @@
     },
     "name": "Leech Supreme Fragment",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "excluded_items": [
+          "BLOODBADGE"
+        ],
+        "show_items_first": [
+          "RIFT_TROPHY_WYLDLY_SUPREME"
+        ]
+      }
+    ],
     "origin": "RIFT"
   },
   "recipes": []

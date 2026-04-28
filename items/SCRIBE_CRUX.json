@@ -25,6 +25,17 @@
     },
     "name": "Scribe Crux",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "excluded_items": [
+          "CRUXMOTION"
+        ],
+        "show_items_first": [
+          "CRUX_TALISMAN_4"
+        ]
+      }
+    ],
     "description": "What dinosaur is a scribe's best friend?\nThesaurus.",
     "motes_sell_price": 120,
     "origin": "RIFT"

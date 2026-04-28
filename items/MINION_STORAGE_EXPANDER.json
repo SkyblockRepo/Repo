@@ -26,6 +26,12 @@
     "name": "Minion Storage X-pender",
     "tier": "SPECIAL",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Craft with minion %%blue%%Large Storage %%gray%%chests to upgrade their size to %%green%%21 %%gray%%and %%green%%27 %%gray%%slots.",
     "has_uuid": true
   },
   "recipes": []

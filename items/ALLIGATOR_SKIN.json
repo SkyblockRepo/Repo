@@ -22,6 +22,11 @@
     "name": "Alligator Skin",
     "tier": "EPIC",
     "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Harsh, jagged skin that is rough to the touch."
   },
   "recipes": []

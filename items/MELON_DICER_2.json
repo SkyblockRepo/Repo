@@ -86,6 +86,11 @@
       "category": "FARMING",
       "mapped_item_ids": []
     },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%italic%%Same as the Melon Dicer Mk. I, just better!"
   },
   "recipes": [

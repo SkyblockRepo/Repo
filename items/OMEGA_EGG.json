@@ -17,12 +17,18 @@
   },
   "data": {
     "id": "OMEGA_EGG",
-    "material": "MONSTER_EGG",
-    "durability": 67,
+    "material": "PAPER",
     "name": "Omega Enchanted Egg",
     "tier": "EPIC",
     "unstackable": true,
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Used to craft the strangest of pets.",
+    "item_model": "minecraft:ghast_spawn_egg"
   },
   "recipes": [
     {

@@ -20,6 +20,15 @@
     "material": "ARROW",
     "name": "Deadgehog Spine",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "excluded_items": [
+          "LEECH_SWORD",
+          "RIFT_TROPHY_WYLDLY_SUPREME"
+        ]
+      }
+    ],
     "description": "Contrary to popular belief, Deadgehogs aren't rodents.\n\nThey are in fact mangled wraith remnants of warriors who couldn't find true love.",
     "motes_sell_price": 111,
     "origin": "RIFT"

@@ -25,7 +25,13 @@
     },
     "name": "Kelvin Inverter",
     "tier": "RARE",
-    "npc_sell_price": 100000
+    "npc_sell_price": 100000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops rarely from the Inferno Demonlord."
   },
   "recipes": []
 }

@@ -25,6 +25,12 @@
     },
     "name": "Base Griffin Upgrade Stone",
     "can_recombobulate": false,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Base component to upgrade your Griffin's rarity.",
     "force_wipe_recomb": true
   },
   "recipes": [

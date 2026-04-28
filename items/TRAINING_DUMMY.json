@@ -20,7 +20,8 @@
     "material": "MONSTER_EGG",
     "name": "Training Dummy",
     "tier": "UNCOMMON",
-    "has_uuid": true
+    "has_uuid": true,
+    "item_model": "minecraft:iron_golem_spawn_egg"
   },
   "recipes": [
     {

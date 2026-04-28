@@ -21,6 +21,12 @@
     "name": "Diamante's Handle",
     "tier": "EPIC",
     "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "The hilt of the largest sword known to humankind.",
     "dungeon_item": true
   },
   "recipes": []

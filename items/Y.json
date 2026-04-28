@@ -26,6 +26,11 @@
     "name": "Y",
     "tier": "EPIC",
     "npc_sell_price": 30,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Two Dimensional"
   },
   "recipes": []

@@ -21,6 +21,12 @@
     "name": "Jolly Pink Rock",
     "tier": "EPIC",
     "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "The hottest shade of pink ever worn by a Giant.",
     "dungeon_item": true
   },
   "recipes": []

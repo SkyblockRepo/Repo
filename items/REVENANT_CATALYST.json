@@ -25,7 +25,13 @@
     },
     "name": "Revenant Catalyst",
     "tier": "EPIC",
-    "npc_sell_price": 8000
+    "npc_sell_price": 8000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops rarely from Revenant Horror when you are at least Zombie Slayer LVL 6."
   },
   "recipes": []
 }

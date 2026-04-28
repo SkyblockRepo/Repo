@@ -26,6 +26,11 @@
     "name": "Gazing Pearl",
     "tier": "RARE",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Can be used instead of a lamp, if you enjoy living on the edge."
   },
   "recipes": []

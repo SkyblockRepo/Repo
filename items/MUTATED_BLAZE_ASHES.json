@@ -26,6 +26,11 @@
     "name": "Mutated Blaze Ashes",
     "tier": "RARE",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune."
   },
   "recipes": []

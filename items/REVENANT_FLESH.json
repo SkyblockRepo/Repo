@@ -21,7 +21,12 @@
     "name": "Revenant Flesh",
     "tier": "UNCOMMON",
     "glowing": true,
-    "npc_sell_price": 1
+    "npc_sell_price": 1,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

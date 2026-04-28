@@ -25,7 +25,12 @@
     },
     "name": "Enchanted Tender Wood",
     "tier": "RARE",
-    "npc_sell_price": 32000
+    "npc_sell_price": 32000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

@@ -26,6 +26,12 @@
     "name": "Heat Core",
     "tier": "SPECIAL",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Craft with %%dark_purple%%Enchanted Lava Buckets %%gray%%to upgrade the minion speed bonus to %%green%%30% %%gray%%and %%green%%35%%%gray%%.",
     "has_uuid": true
   },
   "recipes": []

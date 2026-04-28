@@ -24,6 +24,14 @@
     "npc_sell_price": 50,
     "can_interact": false,
     "can_interact_entity": false,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "SMALL_NETHER_SACK"
+        ]
+      }
+    ],
     "description": "%%gray%%The lead has to be exceedingly soft due to the nature of the mount. The chicken needs to be comfy."
   },
   "recipes": []

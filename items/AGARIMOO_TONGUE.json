@@ -22,6 +22,12 @@
     "tier": "RARE",
     "glowing": true,
     "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "sort_by_accessory_tier": true
+      }
+    ],
     "description": "Agarimoos have five stomachs and 3 tongues. For this specific Agarimoo, past tense is more accurate."
   },
   "recipes": []

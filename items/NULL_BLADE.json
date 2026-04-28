@@ -20,7 +20,12 @@
     "material": "SHEARS",
     "name": "Null Blade",
     "tier": "LEGENDARY",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

@@ -20,7 +20,12 @@
     "material": "STICK",
     "name": "Null Edge",
     "tier": "EPIC",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

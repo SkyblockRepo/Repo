@@ -3,7 +3,7 @@
   "name": "Reforge Anvil",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 2000000,
   "lore": "&7Opens a menu that allows you to\n&7apply advanced reforges to items\n&7using various types of &aReforge\n&aStones&7.\n\n&5&lEPIC&r",
   "flags": {
     "tradable": true,
@@ -19,7 +19,9 @@
     "id": "REFORGE_ANVIL",
     "material": "ANVIL",
     "name": "Reforge Anvil",
-    "tier": "EPIC"
+    "tier": "EPIC",
+    "unstackable": true,
+    "npc_sell_price": 2000000
   },
   "recipes": [
     {

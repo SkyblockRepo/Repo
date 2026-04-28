@@ -22,6 +22,14 @@
     "tier": "EPIC",
     "glowing": true,
     "npc_sell_price": 32000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "ANCESTRAL_SPADE"
+        ]
+      }
+    ],
     "description": "The refined claw of an ancient beast, enchanted with bygone magic and honed through countless wars."
   },
   "recipes": [

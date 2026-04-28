@@ -21,7 +21,13 @@
     "durability": 12,
     "name": "Refined Mineral",
     "tier": "RARE",
-    "npc_sell_price": 100000
+    "npc_sell_price": 100000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A material so pure it comes pre-refined from its place of origin."
   },
   "recipes": []
 }

@@ -25,6 +25,12 @@
     },
     "name": "Spirit Wing",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Spirits of bats often take refuge in their own wings. They sometimes grow in power and gain tremendous magical properties.",
     "dungeon_item": true
   },
   "recipes": []

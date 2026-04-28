@@ -21,7 +21,12 @@
     "name": "Scythe Blade",
     "tier": "LEGENDARY",
     "unstackable": true,
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

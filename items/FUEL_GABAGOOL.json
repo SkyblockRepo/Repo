@@ -25,7 +25,16 @@
     },
     "name": "Fuel Gabagool",
     "tier": "RARE",
-    "npc_sell_price": 1
+    "npc_sell_price": 1,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "HEAVY_GABAGOOL"
+        ]
+      }
+    ],
+    "description": "Feed Wisp pets, tier up into Heavy Gabagool or craft Inferno minion fuel."
   },
   "recipes": [
     {

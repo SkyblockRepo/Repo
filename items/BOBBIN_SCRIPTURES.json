@@ -27,6 +27,11 @@
     "tier": "RARE",
     "unstackable": true,
     "npc_sell_price": 250000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "The sacred ways of bobbin', written by a long-forgotten worshipper of Kuudra."
   },
   "recipes": []

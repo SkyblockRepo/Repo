@@ -3,7 +3,7 @@
   "name": "Walnut",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 200,
+  "npcValue": 10000,
   "lore": "&eRight-click to view recipes!\n\n&a&lUNCOMMON&r",
   "flags": {
     "tradable": true,
@@ -26,7 +26,12 @@
     "name": "Walnut",
     "category": "NONE",
     "tier": "UNCOMMON",
-    "npc_sell_price": 200
+    "npc_sell_price": 10000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

@@ -25,7 +25,12 @@
     },
     "name": "Emperor's Skull",
     "tier": "RARE",
-    "npc_sell_price": 50000
+    "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

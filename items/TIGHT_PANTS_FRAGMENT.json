@@ -25,6 +25,11 @@
     },
     "name": "Tight Pants Fragment",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%%%italic%%True power lies in cutting off your own circulation.",
     "motes_sell_price": 1750,
     "origin": "RIFT"

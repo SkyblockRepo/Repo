@@ -17,11 +17,17 @@
   },
   "data": {
     "id": "RED_CLAW_EGG",
-    "material": "MONSTER_EGG",
-    "durability": 96,
+    "material": "PAPER",
     "name": "Red Claw Egg",
     "tier": "EPIC",
-    "unstackable": true
+    "unstackable": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops very rarely from Sven Packmaster. No one knows what's in the egg.",
+    "item_model": "minecraft:mooshroom_spawn_egg"
   },
   "recipes": []
 }

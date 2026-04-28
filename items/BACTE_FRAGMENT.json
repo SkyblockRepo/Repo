@@ -25,6 +25,18 @@
     },
     "name": "Bacte Fragment",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "excluded_items": [
+          "BLOODBADGE",
+          "GARLIC_FLAVORED_GUMMY_BEAR"
+        ],
+        "show_items_first": [
+          "RIFT_TROPHY_SLIME"
+        ]
+      }
+    ],
     "origin": "RIFT"
   },
   "recipes": []

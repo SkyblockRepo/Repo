@@ -26,7 +26,13 @@
     "name": "Etherwarp Merger",
     "tier": "EPIC",
     "unstackable": true,
-    "npc_sell_price": 100000
+    "npc_sell_price": 100000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Crafted by the Etherchemist and dropped by the Voidgloom Seraph."
   },
   "recipes": []
 }

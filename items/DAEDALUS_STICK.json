@@ -22,6 +22,12 @@
     "tier": "LEGENDARY",
     "glowing": true,
     "npc_sell_price": 1000000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops rarely off of Minotaurs from Diana's Mythological Ritual.",
     "has_uuid": true
   },
   "recipes": []

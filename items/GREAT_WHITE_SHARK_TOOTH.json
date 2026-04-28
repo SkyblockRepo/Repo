@@ -21,7 +21,16 @@
     "name": "Great White Shark Tooth",
     "tier": "LEGENDARY",
     "glowing": true,
-    "npc_sell_price": 500000
+    "npc_sell_price": 500000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+        ]
+      }
+    ],
+    "description": "Dropped by a Shark during Fishing Festival."
   },
   "recipes": []
 }

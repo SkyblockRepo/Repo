@@ -19,7 +19,12 @@
     "id": "DIGESTED_MOSQUITO",
     "material": "ROTTEN_FLESH",
     "name": "Digested Mosquito",
-    "tier": "LEGENDARY"
+    "tier": "LEGENDARY",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

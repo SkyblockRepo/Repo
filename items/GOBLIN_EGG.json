@@ -17,12 +17,12 @@
   },
   "data": {
     "id": "GOBLIN_EGG",
-    "material": "MONSTER_EGG",
-    "durability": 4,
+    "material": "PAPER",
     "name": "Goblin Egg",
     "tier": "RARE",
     "npc_sell_price": 421,
-    "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
+    "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
+    "item_model": "minecraft:blue_egg"
   },
   "recipes": []
 }

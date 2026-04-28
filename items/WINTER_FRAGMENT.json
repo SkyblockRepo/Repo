@@ -27,6 +27,11 @@
     "category": "NONE",
     "tier": "EPIC",
     "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "A magical shard capturing the warmth and joy of winter festivities."
   },
   "recipes": []

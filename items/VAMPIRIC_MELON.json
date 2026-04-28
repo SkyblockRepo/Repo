@@ -20,6 +20,14 @@
     "material": "MELON_BLOCK",
     "name": "Vampiric Melon",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "HEALING_MELON"
+        ]
+      }
+    ],
     "description": "Perfect ingredient for a healing melon.",
     "motes_sell_price": 120,
     "origin": "RIFT"

@@ -26,6 +26,11 @@
     "name": "Master Skull - Tier 7",
     "category": "ACCESSORY",
     "tier": "LEGENDARY",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": [

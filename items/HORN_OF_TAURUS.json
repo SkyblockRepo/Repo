@@ -26,6 +26,11 @@
     "name": "Horn of Taurus",
     "tier": "EPIC",
     "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Popular among Piglins, often used as a war charm."
   },
   "recipes": []

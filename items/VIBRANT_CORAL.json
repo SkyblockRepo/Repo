@@ -1,0 +1,33 @@
+{
+  "internalId": "VIBRANT_CORAL",
+  "name": "Vibrant Coral",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "VIBRANT_CORAL",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MDIwODQwMzI1MCwKICAicHJvZmlsZUlkIiA6ICJiNjM2OWQ0MzMwNTU0NGIzOWE5OTBhODYyNWY5MmEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2JpbmhvXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTNkZDZjNmFkZDA5YzExZmYxOWY1ZmU3NTM3MGI2Y2VjMTczMjQ5NDVjYWMwNWMwZTJjNDYzMWZmNDE4NjcyIgogICAgfQogIH0KfQ==",
+      "signature": "wFlFTD9oFgZCp+qvD7tpcUEt5cLI7pyXQ4j4mF2cPHrIdxzOQNlx8Nkdg9j8SnaAvqu4FGRX/t3SRrOj2kNkgCe8cJ1lh0lRzAPshdw/ghYv7O32Uw3tzz8rSwldUlTV+hrXIuJaXzao//vE+Igs8i5YYNrnC8J2f83kuTQKHkkvRChxYyKSPNv7CL4a+5+Gxgg+fzJ6ncJ3iUMcHhKCOuVvgexZazW98nxoDAShMHy2TiVrhgqS6POwaVY/AGNOCN3Xtl/66imCT+3U5wb1vsub5MF6xCViKX7aHg6ox7NpuymRWcDfwxsfsuJcCQJtHMWv6r6SbnFFe6RarmXgWogK+9LwVd0qJ5/CS/hFFEp+xYSGytD0/+irB5HvEtetn4oZFZ1XfbculGkgg9LsDlREtvC6x2lMpB26SShUy8sBTh9hzdRwXDfLv7VNHuxYLfpiUimRGraSYnB8r2LUlfNhjJ/AxIEvJ6gIILZ6o7/2nCunaP8juXpP3qbHZikpr9jVHGXxxbeEoESlLSAjV40damZrfTBBUfJqGHxLolt5zi/ED2uYDgkQi3HbKrFgwT6Uyeb84JjKEkoCjA3S72gycQD0uggsp6rTCq3SAD3ZeK7IblCH0Crwl6vzQQAdPMM6z//5/Vr7Q9wEzoV6HgvA9Uy8bNFty2Ou/Z4QqEY="
+    },
+    "name": "Vibrant Coral",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1000000,
+    "description": "%%dark_gray%%%%italic%%Coral flourishes under the immense pressure of the Murkwater Loch. It is believed to be the favorite food of Nessie.",
+    "has_uuid": true,
+    "item_model": "minecraft:tube_coral"
+  }
+}

@@ -20,6 +20,11 @@
     "material": "BONE",
     "name": "Flexbone",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%dark_gray%%%%italic%%These softened bones have absorbed moss over time, offering a flexible material."
   },
   "recipes": []

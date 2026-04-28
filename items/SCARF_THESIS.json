@@ -30,6 +30,12 @@
     "stats": {
       "rift_Time": 11
     },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%gray%%%%italic%%A research on how to preserve and enhance class abilities in death.",
     "dungeon_item": true,
     "rift_transferrable": true,
     "salvages": [

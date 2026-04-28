@@ -25,6 +25,11 @@
     },
     "name": "Obsolite",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Practically a fossil.",
     "motes_sell_price": 200,
     "origin": "RIFT"

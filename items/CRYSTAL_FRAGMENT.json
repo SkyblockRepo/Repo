@@ -21,7 +21,12 @@
     "name": "Crystal Fragment",
     "tier": "EPIC",
     "glowing": true,
-    "npc_sell_price": 500
+    "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

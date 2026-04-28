@@ -26,6 +26,11 @@
     "name": "Blue Ring",
     "tier": "RARE",
     "npc_sell_price": 25000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%As the Octopus makes its great escape, it accidentally leaves something behind..."
   },
   "recipes": []

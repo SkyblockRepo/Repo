@@ -20,6 +20,11 @@
     "material": "GOLD_NUGGET",
     "name": "All-in Aloe Fragment",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "Hope you hit it big!",
     "soulbound": "COOP"
   }

@@ -26,6 +26,11 @@
     "name": "Wet Water",
     "tier": "UNCOMMON",
     "npc_sell_price": 50,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%italic%%The wettest kind of water you'll ever find."
   },
   "recipes": []

@@ -25,6 +25,11 @@
     },
     "name": "Agaricus Chumcap",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "origin": "RIFT",
     "rift_transferrable": true
   },

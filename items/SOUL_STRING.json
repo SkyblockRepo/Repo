@@ -22,6 +22,12 @@
     "tier": "RARE",
     "npc_sell_price": 5000,
     "can_recombobulate": false,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Rare string that can be used to craft weapons that are infused with the power of Arachne.",
     "force_wipe_recomb": true
   },
   "recipes": []

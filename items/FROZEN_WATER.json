@@ -20,6 +20,14 @@
     "material": "ICE",
     "name": "Frozen Water",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "excluded_items": [
+          "HOLY_ICE"
+        ]
+      }
+    ],
     "description": "One could say it's... ice cold.",
     "motes_sell_price": 10,
     "origin": "RIFT"

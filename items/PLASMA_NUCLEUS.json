@@ -21,7 +21,13 @@
     "durability": 5,
     "name": "Plasma Nucleus",
     "tier": "LEGENDARY",
-    "unstackable": true
+    "unstackable": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Combine with an %%dark_purple%%Overflux Power Orb %%gray%%to increase its strength and create a %%gold%%Plasmaflux Power Orb%%gray%%."
   },
   "recipes": []
 }

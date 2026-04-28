@@ -26,6 +26,11 @@
     "name": "Broken Radar",
     "tier": "RARE",
     "npc_sell_price": 25000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Snapping Turtles will bite into just about anything, radars included. Maybe you can fix it?"
   },
   "recipes": []

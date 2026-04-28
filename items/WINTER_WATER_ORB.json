@@ -26,6 +26,11 @@
     "name": "Winter Water Orb",
     "tier": "LEGENDARY",
     "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "A collection of frozen substances, potentially including ice cream."
   },
   "recipes": [

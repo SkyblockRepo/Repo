@@ -25,6 +25,11 @@
     },
     "name": "Hypergolic Ionized Ceramics",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "Obtained from expired hypergolic fuel.\n\n%%dark_gray%%First the gabagool fuel is vitrified through calcination, then stabilized using a phosphate-based crystalline ceramic host through an ion exchange, or something..."
   },
   "recipes": []

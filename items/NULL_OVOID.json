@@ -17,11 +17,16 @@
   },
   "data": {
     "id": "NULL_OVOID",
-    "material": "MONSTER_EGG",
-    "durability": 58,
+    "material": "PAPER",
     "name": "Null Ovoid",
     "tier": "RARE",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "item_model": "minecraft:enderman_spawn_egg"
   },
   "recipes": [
     {

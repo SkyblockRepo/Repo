@@ -25,7 +25,13 @@
     },
     "name": "Tarantula Catalyst",
     "tier": "EPIC",
-    "npc_sell_price": 10000
+    "npc_sell_price": 10000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 6."
   },
   "recipes": []
 }

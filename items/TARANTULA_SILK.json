@@ -21,7 +21,12 @@
     "name": "Tarantula Silk",
     "tier": "RARE",
     "glowing": true,
-    "npc_sell_price": 128
+    "npc_sell_price": 128,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

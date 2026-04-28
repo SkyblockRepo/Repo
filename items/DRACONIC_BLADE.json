@@ -21,7 +21,12 @@
     "name": "Draconic Blade",
     "tier": "LEGENDARY",
     "npc_sell_price": 100000,
-    "description": "%%dark_gray%%%%italic%%An extremely sharp blade formed by dragon nuclei"
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%dark_gray%%%%italic%%An extremely sharp blade formed by dragon nuclei."
   },
   "recipes": []
 }

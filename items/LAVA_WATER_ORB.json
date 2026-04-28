@@ -26,6 +26,11 @@
     "name": "Lava Water Orb",
     "tier": "LEGENDARY",
     "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "Extremely hot to the touch.\n\n%%dark_gray%%Shouldn't this be steam..?"
   },
   "recipes": [

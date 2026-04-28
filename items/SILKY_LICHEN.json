@@ -21,6 +21,11 @@
     "durability": 2,
     "name": "Silky Lichen",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "soulbound": "COOP"
   },
   "recipes": []

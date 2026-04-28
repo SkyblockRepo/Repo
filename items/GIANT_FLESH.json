@@ -25,6 +25,11 @@
     },
     "name": "Giant Flesh",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": []

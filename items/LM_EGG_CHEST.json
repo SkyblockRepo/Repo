@@ -18,9 +18,9 @@
   "data": {
     "id": "LM_EGG_CHEST",
     "material": "MONSTER_EGG",
-    "durability": 67,
     "name": "Living Metal Chestspawn",
     "tier": "RARE",
+    "item_model": "minecraft:warden_spawn_egg",
     "motes_sell_price": 100,
     "origin": "RIFT"
   },

@@ -26,6 +26,11 @@
     "name": "Bronze Bowl",
     "tier": "UNCOMMON",
     "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "A broken old bowl. Maybe you can use it to upgrade your %%gold%%Ship%%gray%%?"
   },
   "recipes": []

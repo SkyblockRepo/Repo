@@ -22,6 +22,12 @@
     "tier": "EPIC",
     "glowing": true,
     "npc_sell_price": 50000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Hard to throw, even harder to catch.",
     "dungeon_item": true
   },
   "recipes": []

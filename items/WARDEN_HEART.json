@@ -31,7 +31,13 @@
         "level": 8,
         "slayer_boss_type": "zombie"
       }
-    ]
+    ],
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "The heart of a powerful creature, dropped by the Atoned Horror."
   },
   "recipes": []
 }

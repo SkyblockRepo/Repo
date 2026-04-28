@@ -26,6 +26,11 @@
     "name": "Hallowed Skull",
     "tier": "EPIC",
     "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Incredibly heavy. Put one on each side of a stick and you just crafted yourself very stylish dumbbells."
   },
   "recipes": []

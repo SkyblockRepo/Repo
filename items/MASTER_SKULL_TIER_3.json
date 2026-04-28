@@ -26,6 +26,11 @@
     "name": "Master Skull - Tier 3",
     "category": "ACCESSORY",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": [

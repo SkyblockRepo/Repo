@@ -26,6 +26,11 @@
     "name": "Vinesap",
     "tier": "UNCOMMON",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%italic%%A fusion of vine resilience and sap vitality."
   },
   "recipes": []

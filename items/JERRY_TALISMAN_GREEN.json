@@ -28,7 +28,12 @@
     "tier": "UNCOMMON",
     "stats": {
       "INTELLIGENCE": -1
-    }
+    },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

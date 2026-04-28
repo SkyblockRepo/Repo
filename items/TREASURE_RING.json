@@ -27,6 +27,11 @@
     "category": "ACCESSORY",
     "tier": "EPIC",
     "npc_sell_price": 1000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true,
     "salvages": [
       {

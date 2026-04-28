@@ -25,6 +25,11 @@
     },
     "name": "Fig Log",
     "npc_sell_price": 7,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%italic%%Each ring tells tales of sun-kissed days. Hold it close, and you might hear its stories.",
     "item_model": "minecraft:stripped_spruce_log"
   },

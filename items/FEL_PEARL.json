@@ -21,6 +21,11 @@
     "name": "Fel Pearl",
     "tier": "RARE",
     "npc_sell_price": 10000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": []

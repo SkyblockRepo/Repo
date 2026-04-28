@@ -26,6 +26,11 @@
     "name": "Scorched Crab Stick",
     "tier": "RARE",
     "npc_sell_price": 25000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Sometimes, well-done just isn't enough."
   },
   "recipes": []

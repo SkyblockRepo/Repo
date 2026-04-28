@@ -26,6 +26,11 @@
     "name": "Compact Ooze",
     "tier": "EPIC",
     "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Piglins sometimes chew on them, they can even blow bubbles out of them."
   },
   "recipes": []

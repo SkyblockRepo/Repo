@@ -21,6 +21,11 @@
     "name": "Healing Tissue",
     "tier": "RARE",
     "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": []

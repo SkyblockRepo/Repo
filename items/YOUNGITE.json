@@ -25,6 +25,11 @@
     },
     "name": "Youngite",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%All sparkle and no substance.",
     "motes_sell_price": 50,
     "origin": "RIFT"

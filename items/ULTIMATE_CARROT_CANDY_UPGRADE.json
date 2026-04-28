@@ -26,6 +26,11 @@
     "name": "Ultimate Carrot Candy Upgrade",
     "tier": "SPECIAL",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "has_uuid": true
   },
   "recipes": []

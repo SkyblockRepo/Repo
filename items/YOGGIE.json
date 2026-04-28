@@ -25,7 +25,14 @@
     },
     "name": "Yoggie",
     "tier": "UNCOMMON",
-    "npc_sell_price": 100
+    "npc_sell_price": 100,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "sort_by_category": true
+      }
+    ],
+    "description": "Harvested from the core of Yogs. Used to upgrade Magma equipment."
   },
   "recipes": []
 }
