@@ -25,7 +25,12 @@
     },
     "name": "Lava Shell",
     "tier": "EPIC",
-    "npc_sell_price": 3000
+    "npc_sell_price": 3000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

@@ -21,6 +21,17 @@
     "durability": 11,
     "name": "Living Metal",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_last": [
+          "LIVING_METAL_ANVIL"
+        ],
+        "excluded_items": [
+          "RIFT_TROPHY_LAZY_LIVING"
+        ]
+      }
+    ],
     "description": "It snakes around your blocky hand as you hold it.",
     "motes_sell_price": 5,
     "origin": "RIFT"

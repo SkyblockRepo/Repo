@@ -26,6 +26,11 @@
     "name": "Blood-Soaked Coins",
     "category": "NONE",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%When you pay through the nose, you'll end up with a nosebleed."
   },
   "recipes": [

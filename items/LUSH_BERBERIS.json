@@ -22,6 +22,11 @@
     "name": "Lush Berberis",
     "tier": "UNCOMMON",
     "npc_sell_price": 3,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "A wonderful plant!"
   },
   "recipes": []

@@ -25,6 +25,18 @@
     },
     "name": "Shadow Crux",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "CRUX_TALISMAN_2"
+        ],
+        "excluded_items": [
+          "CRUXMOTION",
+          "FEMURGROWTH_LEGGINGS"
+        ]
+      }
+    ],
     "description": "Trust no one.\nNot even your own shadow.\nIt's always acting shady.",
     "motes_sell_price": 100,
     "origin": "RIFT"

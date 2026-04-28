@@ -1,0 +1,25 @@
+{
+  "internalId": "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL",
+  "name": "Travel Scroll to the Glowing Mushroom Cave",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL",
+    "material": "EMPTY_MAP",
+    "name": "Travel Scroll to the Glowing Mushroom Cave",
+    "category": "TRAVEL_SCROLL",
+    "tier": "RARE"
+  }
+}

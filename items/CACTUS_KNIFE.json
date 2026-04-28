@@ -71,7 +71,12 @@
       "game_stage": "INTERMEDIATE",
       "category": "FARMING",
       "mapped_item_ids": []
-    }
+    },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [],
   "soldBy": [

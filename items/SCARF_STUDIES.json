@@ -30,13 +30,19 @@
     "stats": {
       "rift_Time": 10
     },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%gray%%%%italic%%The collection of his studies, beautiful handwriting!",
     "dungeon_item": true,
     "rift_transferrable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 15,
-        "essence_type": "WITHER"
+        "essence_type": "WITHER",
+        "amount": 15
       }
     ]
   },

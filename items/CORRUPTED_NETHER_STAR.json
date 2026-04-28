@@ -21,7 +21,12 @@
     "name": "Nether Star",
     "tier": "LEGENDARY",
     "npc_sell_price": 10000,
-    "museum": true
+    "museum": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

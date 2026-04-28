@@ -18,8 +18,8 @@
   "data": {
     "id": "ASSISTANT",
     "material": "MONSTER_EGG",
-    "durability": 120,
-    "name": "Move Jerry"
+    "name": "Move Jerry",
+    "item_model": "minecraft:villager_spawn_egg"
   },
   "recipes": []
 }

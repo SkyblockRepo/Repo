@@ -17,12 +17,12 @@
   },
   "data": {
     "id": "GOBLIN_EGG_RED",
-    "material": "MONSTER_EGG",
-    "durability": 96,
+    "material": "PAPER",
     "name": "§cRed Goblin Egg",
     "tier": "RARE",
     "npc_sell_price": 25000,
-    "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
+    "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
+    "item_model": "minecraft:mooshroom_spawn_egg"
   },
   "recipes": []
 }

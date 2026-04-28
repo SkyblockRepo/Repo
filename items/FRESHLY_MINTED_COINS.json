@@ -26,6 +26,11 @@
     "name": "Freshly-Minted Coins",
     "category": "NONE",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Nothing beats the smell of fresh %%gold%%Coins%%gray%%. Except for lots of things."
   },
   "recipes": [],

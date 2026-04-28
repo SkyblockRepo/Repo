@@ -25,7 +25,12 @@
     },
     "name": "Judgement Core",
     "tier": "LEGENDARY",
-    "unstackable": true
+    "unstackable": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

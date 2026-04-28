@@ -25,6 +25,11 @@
     },
     "name": "Mangrove Log",
     "npc_sell_price": 8,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%italic%%Sturdy yet flexible, a dance of survival.",
     "item_model": "minecraft:mangrove_log"
   },

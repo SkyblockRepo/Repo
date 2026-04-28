@@ -26,6 +26,11 @@
     "name": "Wither Soul",
     "tier": "UNCOMMON",
     "npc_sell_price": 50,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "You can still hear their cries from the other side."
   },
   "recipes": []

@@ -26,6 +26,11 @@
     "name": "IQ Point",
     "category": "ACCESSORY",
     "tier": "COMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "motes_sell_price": 100,
     "origin": "RIFT",
     "rift_transferrable": true,

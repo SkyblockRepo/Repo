@@ -25,7 +25,12 @@
     },
     "name": "Hunk of Blue Ice",
     "tier": "RARE",
-    "npc_sell_price": 25000
+    "npc_sell_price": 25000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

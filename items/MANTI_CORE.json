@@ -25,7 +25,13 @@
     },
     "name": "Manti-core",
     "tier": "LEGENDARY",
-    "npc_sell_price": 5000000
+    "npc_sell_price": 5000000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "An array of cells from different creatures mashed together in some crude, unnatural arrangement."
   },
   "recipes": []
 }

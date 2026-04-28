@@ -25,7 +25,13 @@
     },
     "name": "Spider Catalyst",
     "tier": "RARE",
-    "npc_sell_price": 2000
+    "npc_sell_price": 2000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 2."
   },
   "recipes": []
 }

@@ -17,10 +17,17 @@
   },
   "data": {
     "id": "SUPER_EGG",
-    "material": "MONSTER_EGG",
+    "material": "PAPER",
     "name": "Super Enchanted Egg",
     "tier": "RARE",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Used to craft more advanced pets.",
+    "item_model": "minecraft:turtle_egg"
   },
   "recipes": [
     {

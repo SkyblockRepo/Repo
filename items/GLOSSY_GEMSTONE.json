@@ -21,7 +21,13 @@
     "durability": 5,
     "name": "Glossy Gemstone",
     "tier": "EPIC",
-    "npc_sell_price": 200000
+    "npc_sell_price": 200000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%italic%%You can see thousands of glittering reflections as you stare into its intricate patterns. Maybe you should stop gazing and keep mining..."
   },
   "recipes": []
 }

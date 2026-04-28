@@ -25,6 +25,12 @@
     },
     "name": "Living Metal Heart",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Something about DNA...",
     "motes_sell_price": 250,
     "origin": "RIFT"
   },

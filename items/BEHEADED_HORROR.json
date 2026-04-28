@@ -26,7 +26,12 @@
     "name": "Beheaded Horror",
     "tier": "EPIC",
     "unstackable": true,
-    "npc_sell_price": 15000
+    "npc_sell_price": 15000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

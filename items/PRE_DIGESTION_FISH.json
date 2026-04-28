@@ -21,6 +21,11 @@
     "name": "Pre-Digestion Fish",
     "tier": "EPIC",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "The obvious result of mixing cat food, spacetime bending and mystical mythology.",
     "soulbound": "COOP"
   },

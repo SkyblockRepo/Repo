@@ -26,6 +26,11 @@
     "name": "Wither Catalyst",
     "tier": "RARE",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": []

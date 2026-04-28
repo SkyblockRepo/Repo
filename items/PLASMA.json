@@ -26,6 +26,11 @@
     "name": "Plasma",
     "tier": "RARE",
     "npc_sell_price": 20000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Stable magnetic field, but handle with caution."
   },
   "recipes": []

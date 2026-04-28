@@ -25,7 +25,13 @@
     },
     "name": "Arachne's Fang",
     "tier": "UNCOMMON",
-    "npc_sell_price": 500
+    "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Straight from the spider's mouth."
   },
   "recipes": []
 }

@@ -25,7 +25,13 @@
     },
     "name": "Soul Fragment",
     "tier": "EPIC",
-    "npc_sell_price": 200000
+    "npc_sell_price": 200000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Dropped by Grim Reaper sea creatures during the Spooky Festival."
   },
   "recipes": []
 }

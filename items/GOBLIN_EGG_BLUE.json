@@ -17,12 +17,12 @@
   },
   "data": {
     "id": "GOBLIN_EGG_BLUE",
-    "material": "MONSTER_EGG",
-    "durability": 94,
+    "material": "PAPER",
     "name": "§3Blue Goblin Egg",
     "tier": "RARE",
     "npc_sell_price": 100000,
-    "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
+    "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
+    "item_model": "minecraft:glow_squid_spawn_egg"
   },
   "recipes": []
 }

@@ -25,7 +25,13 @@
     },
     "name": "Poison Sample",
     "tier": "UNCOMMON",
-    "npc_sell_price": 500
+    "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Dropped from %%green%%Slimes%%gray%%, but only the especially toxic ones!"
   },
   "recipes": []
 }

@@ -20,7 +20,12 @@
     "material": "BONE",
     "name": "Weak Wolf Catalyst",
     "tier": "RARE",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

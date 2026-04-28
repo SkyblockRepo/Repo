@@ -22,6 +22,11 @@
     "tier": "EPIC",
     "glowing": true,
     "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%The origin of that leather is a well kept secret."
   },
   "recipes": []

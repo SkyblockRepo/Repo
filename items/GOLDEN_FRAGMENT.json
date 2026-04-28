@@ -26,6 +26,11 @@
     "name": "Golden Fragment",
     "category": "NONE",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gold%%Gold%%gray%%, but broken into fragments. This makes it important somehow."
   },
   "recipes": [],

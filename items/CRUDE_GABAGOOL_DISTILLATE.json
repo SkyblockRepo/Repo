@@ -25,7 +25,12 @@
     },
     "name": "Gabagool Distillate",
     "tier": "RARE",
-    "npc_sell_price": 5000
+    "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

@@ -26,6 +26,11 @@
     "name": "Ritual Residue",
     "tier": "EPIC",
     "npc_sell_price": 10000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%dark_gray%%%%italic%%It's all that's left from a draconic sacrifice."
   },
   "recipes": []

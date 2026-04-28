@@ -3,7 +3,7 @@
   "name": "Maxor The Fish",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7Dynamite fishing is my favorite!\n\n&c&lSPECIAL DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -26,6 +26,7 @@
     "name": "Maxor the Fish",
     "tier": "SPECIAL",
     "glowing": true,
+    "npc_sell_price": 50000,
     "museum": true,
     "dungeon_item": true
   },

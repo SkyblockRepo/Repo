@@ -28,7 +28,12 @@
     "tier": "RARE",
     "stats": {
       "INTELLIGENCE": -2
-    }
+    },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

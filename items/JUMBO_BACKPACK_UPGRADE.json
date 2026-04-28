@@ -26,6 +26,12 @@
     "name": "Jumbo Backpack Upgrade",
     "tier": "SPECIAL",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Craft with a %%dark_purple%%Greater Backpack %%gray%%to upgrade it to %%green%%45 %%gray%%slots.",
     "has_uuid": true
   },
   "recipes": []

@@ -27,6 +27,14 @@
     "category": "NONE",
     "tier": "EPIC",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "GLACIAL_RING"
+        ]
+      }
+    ],
     "description": "A small piece of a giant glacier. Doesn't ever melt."
   },
   "recipes": []

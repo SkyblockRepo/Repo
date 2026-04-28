@@ -27,6 +27,12 @@
     "tier": "SPECIAL",
     "glowing": true,
     "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Combine with %%blue%%Catalysts%%gray%%, buffing the fuel to %%green%%x4 %%gray%%for 6 hours duration.",
     "has_uuid": true
   },
   "recipes": []

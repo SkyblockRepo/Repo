@@ -20,7 +20,13 @@
     "material": "PAPER",
     "name": "Wilson's Engineering Plans",
     "tier": "LEGENDARY",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops very rarely from the Inferno Demonlord."
   },
   "recipes": []
 }

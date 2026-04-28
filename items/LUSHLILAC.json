@@ -26,7 +26,19 @@
     "name": "Lushlilac",
     "category": "SALT",
     "tier": "UNCOMMON",
-    "npc_sell_price": 10
+    "npc_sell_price": 10,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "LUSHLILAC_BONBON",
+          "PRIME_LUSHLILAC_BONBON"
+        ],
+        "show_items_last": [
+          "OCEANDY"
+        ]
+      }
+    ]
   },
   "recipes": []
 }

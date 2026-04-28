@@ -20,7 +20,13 @@
     "material": "CLAY_BALL",
     "name": "Dark Queen's Soul",
     "tier": "EPIC",
-    "npc_sell_price": 5000
+    "npc_sell_price": 5000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A portion of Arachne's Soul that can be used to craft items."
   },
   "recipes": []
 }

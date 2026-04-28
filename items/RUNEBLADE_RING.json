@@ -26,7 +26,12 @@
     "name": "Runeblade Ring",
     "category": "ACCESSORY",
     "tier": "UNCOMMON",
-    "npc_sell_price": 900
+    "npc_sell_price": 900,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

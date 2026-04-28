@@ -25,6 +25,11 @@
     },
     "name": "Fel Skull",
     "tier": "LEGENDARY",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": []

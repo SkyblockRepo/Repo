@@ -20,6 +20,11 @@
     "material": "EGG",
     "name": "Metaphoric Egg",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "A ticking time bomb to new life. Acquired using Berberis Blowgun.",
     "origin": "RIFT"
   },

@@ -3,7 +3,7 @@
   "name": "Mana Disintegrator",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 1000,
   "lore": "&7&8Combinable in Anvil\n\n&7Applies &9ᛃ &7on wands or deployables,\n&7reducing their mana cost by &b1%&7. Can\n&7be applied up to &a10 &7times.\n\n&9&lRARE&r",
   "flags": {
     "tradable": true,
@@ -25,7 +25,8 @@
     },
     "name": "Mana Disintegrator",
     "tier": "RARE",
-    "unstackable": true
+    "unstackable": true,
+    "npc_sell_price": 1000
   },
   "recipes": []
 }

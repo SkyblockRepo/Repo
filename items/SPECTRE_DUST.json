@@ -26,6 +26,11 @@
     "name": "Spectre Dust",
     "tier": "UNCOMMON",
     "npc_sell_price": 50,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%A famous Wizard used a wand made out of these."
   },
   "recipes": []

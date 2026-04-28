@@ -25,6 +25,17 @@
     },
     "name": "Frosty Crux",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "RIFT_TROPHY_LAZY_LIVING"
+        ],
+        "excluded_items": [
+          "CRUXMOTION"
+        ]
+      }
+    ],
     "description": "The illest of the chillest.",
     "motes_sell_price": 100,
     "origin": "RIFT"

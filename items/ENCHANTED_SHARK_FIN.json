@@ -21,7 +21,13 @@
     "name": "Enchanted Shark Fin",
     "tier": "EPIC",
     "glowing": true,
-    "npc_sell_price": 32000
+    "npc_sell_price": 32000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A razor-sharp shark fin designed to craft powerful items."
   },
   "recipes": [
     {

@@ -19,7 +19,13 @@
     "id": "WEREWOLF_SKIN",
     "material": "LEATHER",
     "name": "Werewolf Skin",
-    "tier": "RARE"
+    "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Dropped by Werewolf sea creatures during the Spooky Festival."
   },
   "recipes": []
 }

@@ -25,6 +25,11 @@
     },
     "name": "Timite",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Older, wiser, but refusing to admit it's just a phase.",
     "motes_sell_price": 100,
     "origin": "RIFT"

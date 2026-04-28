@@ -85,7 +85,12 @@
       "game_stage": "SKILLED",
       "category": "FARMING",
       "mapped_item_ids": []
-    }
+    },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

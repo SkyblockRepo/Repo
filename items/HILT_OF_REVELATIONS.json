@@ -21,6 +21,12 @@
     "name": "Hilt of Revelations",
     "tier": "RARE",
     "npc_sell_price": 150000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A rusted hilt, dropped by the Minos Hunter.",
     "has_uuid": true
   },
   "recipes": []

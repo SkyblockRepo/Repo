@@ -22,6 +22,11 @@
     "tier": "EPIC",
     "glowing": true,
     "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Changes color based on the angle you look at it."
   },
   "recipes": []

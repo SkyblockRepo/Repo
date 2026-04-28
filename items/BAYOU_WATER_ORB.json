@@ -25,6 +25,11 @@
     },
     "name": "Bayou Water Orb",
     "tier": "LEGENDARY",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "A green mass of coagulated swamp."
   },
   "recipes": [

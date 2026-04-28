@@ -22,6 +22,14 @@
     "name": "Mite Gel",
     "tier": "EPIC",
     "npc_sell_price": 2000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "MIXED_MITE_GEL"
+        ]
+      }
+    ],
     "description": "%%dark_gray%%%%italic%%Sticky goo scraped off an Endermite."
   },
   "recipes": []

@@ -21,6 +21,11 @@
     "durability": 1,
     "name": "Fel Rose",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": [

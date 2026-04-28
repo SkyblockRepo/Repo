@@ -25,6 +25,11 @@
     },
     "name": "Ugly Boots Fragment",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%%%italic%%Use these in your armor to truly embrace the art of not caring.",
     "motes_sell_price": 1750,
     "origin": "RIFT"

@@ -28,7 +28,12 @@
     "tier": "EPIC",
     "stats": {
       "INTELLIGENCE": -3
-    }
+    },
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

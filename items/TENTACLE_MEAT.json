@@ -25,7 +25,12 @@
     },
     "name": "Tentacle Meat",
     "tier": "RARE",
-    "npc_sell_price": 200
+    "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

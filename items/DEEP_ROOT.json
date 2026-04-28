@@ -26,6 +26,17 @@
     "name": "Deep Root",
     "tier": "UNCOMMON",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "PRESSURE_TALISMAN"
+        ],
+        "show_items_last": [
+          "PRESSURE_ARTIFACT"
+        ]
+      }
+    ],
     "description": "%%gray%%These roots delve deep into the earth, drawing nutrients from below the waterline to nourish the mighty mangrove."
   },
   "recipes": []

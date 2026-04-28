@@ -30,13 +30,14 @@
     "stats": {
       "rift_Time": 12
     },
+    "description": "%%gray%%%%italic%%Dark and powerful spells, includes his favorite \"Barrier\" that his Professor taught him.",
     "dungeon_item": true,
     "rift_transferrable": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 240,
-        "essence_type": "WITHER"
+        "essence_type": "WITHER",
+        "amount": 240
       }
     ]
   },

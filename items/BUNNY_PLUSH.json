@@ -1,0 +1,30 @@
+{
+  "internalId": "BUNNY_PLUSH",
+  "name": "Bunny Plush",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 0,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "BUNNY_PLUSH",
+    "material": "SKULL_ITEM",
+    "durability": 3,
+    "skin": {
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTc1MTc5MzMzMiwKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNThiYzdlNWIxNzhjZTJkYjcyZmYzNDczNzNkMmE4MDdiZTZlZDQzMWEyNWNjMTcwMTQ5ZGU2MGY0MWViNmJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "signature": "Wi3vjpTE47ASNlu1ow7BcB1ynGWAl42NJopqcis2ljgHNX8A8EfWtvL4u3srHgWClYqksc/VfdOcGu4Ht38crm2tUqlaHiblJ+gt9iVEhFVfUrhVQiKw1j1pOqGH8RkgRx7unOd6a2UE/nksMMOeq1/XKfjG64Avmf+aGqJCbq8he7WRO0c5NNWl9dhv7CpMEpCEHG6wDNhsYQ+97yNN12XxrZILA/ZSueEtkeJemtGjWi3yVIEAGTWXKPu0W+DqQo2G7yZn75pJc24vcJR6mY+IjzjUjf39qjoy8mGJV/actPkTDuIcVCOUijtj2RcqzRFnbwNc8E0DTFJv6y7HkanreJqIX+0mi/8oa1FUccDxlpH3R43vAZxdvRTxQsDG9IffYS4Zca2jc9fJjeEdcK6Amh8EfNqAaHZMC+I4MmlcnuWS+IfNpYIQnMwwRuJhlbfwVuuUO754Blx3N16KeU5Isp++N6TIPU6vnuflb1lELnNeik2miAS7DuxlReK5taaITXEXwA0zIxw0z6bZDovrjS3BLljp3hfqFs3CoVHszNhF8h8ujAG2eFTvztyBaqKlH468c9w74szz4H1MBMz02MS9bgN+JKNq2RLATV0AuLbii9jmtVQTW1jO/+zMUB1MLk6AdeB/KWk3EdonzDcA5M5mJ5nT5VXYbj98STI="
+    },
+    "name": "Bunny Plush",
+    "tier": "EPIC",
+    "furniture": "BUNNY_PLUSH"
+  }
+}

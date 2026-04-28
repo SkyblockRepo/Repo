@@ -26,7 +26,13 @@
     "name": "Fiery Kuudra Core",
     "category": "ACCESSORY",
     "tier": "EPIC",
-    "npc_sell_price": 1
+    "npc_sell_price": 1,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%gray%%%%italic%%A fragment of the core of Kuudra."
   },
   "recipes": [
     {

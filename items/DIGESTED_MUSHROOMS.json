@@ -26,6 +26,11 @@
     "name": "Digested Mushrooms",
     "tier": "UNCOMMON",
     "npc_sell_price": 50,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Sometimes digested multiple times."
   },
   "recipes": []

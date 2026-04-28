@@ -25,7 +25,12 @@
     },
     "name": "Token of the Century",
     "tier": "UNCOMMON",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

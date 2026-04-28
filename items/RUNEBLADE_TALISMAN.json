@@ -26,7 +26,12 @@
     "name": "Runeblade Talisman",
     "category": "ACCESSORY",
     "tier": "COMMON",
-    "npc_sell_price": 100
+    "npc_sell_price": 100,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

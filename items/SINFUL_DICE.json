@@ -25,7 +25,13 @@
     },
     "name": "Sinful Dice",
     "tier": "EPIC",
-    "unstackable": true
+    "unstackable": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%dark_gray%%Snake eyes!"
   },
   "recipes": []
 }

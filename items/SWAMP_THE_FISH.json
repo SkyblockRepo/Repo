@@ -3,7 +3,7 @@
   "name": "Swamp The Fish",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7I once tried a clear pond. Too shiny.\n&7Never again.\n\n&c&lSPECIAL&r",
   "flags": {
     "tradable": true,
@@ -22,6 +22,7 @@
     "name": "Swamp the Fish",
     "tier": "SPECIAL",
     "glowing": true,
+    "npc_sell_price": 50000,
     "museum": true
   },
   "recipes": []

@@ -25,7 +25,13 @@
     },
     "name": "Undead Catalyst",
     "tier": "RARE",
-    "npc_sell_price": 2000
+    "npc_sell_price": 2000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Drops rarely from Revenant Horror when you are at least Zombie Slayer LVL 3."
   },
   "recipes": []
 }

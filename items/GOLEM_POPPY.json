@@ -20,6 +20,12 @@
     "material": "RED_ROSE",
     "name": "Ancient Rose",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%dark_gray%%%%italic%%An ancient plant imbued with the unyielding power of truth.",
     "dungeon_item": true
   },
   "recipes": []

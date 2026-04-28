@@ -27,12 +27,17 @@
     "category": "ACCESSORY",
     "tier": "RARE",
     "npc_sell_price": 10000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 15,
-        "essence_type": "GOLD"
+        "essence_type": "GOLD",
+        "amount": 15
       }
     ]
   },

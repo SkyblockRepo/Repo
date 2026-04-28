@@ -21,6 +21,11 @@
     "name": "Stretching Sticks",
     "tier": "UNCOMMON",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%italic%%These slender sticks have a natural flexibility, making them ideal for crafting and building."
   },
   "recipes": []

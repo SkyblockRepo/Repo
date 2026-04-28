@@ -25,6 +25,11 @@
     },
     "name": "Hotspot Water Orb",
     "tier": "LEGENDARY",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "Radiating some weird energy.\n\n%%dark_gray%%Probably safe to hold?"
   },
   "recipes": [

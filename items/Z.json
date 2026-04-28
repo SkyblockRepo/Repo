@@ -26,6 +26,11 @@
     "name": "Z",
     "tier": "EPIC",
     "npc_sell_price": 50,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Three Dimensional"
   },
   "recipes": []

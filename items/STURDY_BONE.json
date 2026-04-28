@@ -26,6 +26,14 @@
     "name": "Sturdy Bone",
     "tier": "RARE",
     "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "MEDIUM_FISHING_NET"
+        ]
+      }
+    ],
     "description": "%%italic%%This bone is as hard as stone and twice as eerie. It bears the mark of countless battles fought beneath the waves."
   },
   "recipes": []

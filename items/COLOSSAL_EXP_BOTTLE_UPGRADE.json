@@ -26,6 +26,12 @@
     "name": "Colossal Experience Bottle Upgrade",
     "tier": "SPECIAL",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Craft with a %%blue%%Titanic Experience Bottle %%gray%%to %%aqua%%double %%gray%%the experience it contains.",
     "has_uuid": true
   },
   "recipes": []

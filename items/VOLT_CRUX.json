@@ -25,6 +25,17 @@
     },
     "name": "Volt Crux",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "CRUX_TALISMAN_3"
+        ],
+        "excluded_items": [
+          "CRUXMOTION"
+        ]
+      }
+    ],
     "description": "Watt is this?",
     "motes_sell_price": 100,
     "origin": "RIFT"

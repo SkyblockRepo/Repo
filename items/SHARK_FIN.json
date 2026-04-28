@@ -20,7 +20,13 @@
     "material": "PRISMARINE_SHARD",
     "name": "Shark Fin",
     "tier": "RARE",
-    "npc_sell_price": 200
+    "npc_sell_price": 200,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Dropped by a Shark during Fishing Festival."
   },
   "recipes": []
 }

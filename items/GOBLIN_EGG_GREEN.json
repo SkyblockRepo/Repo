@@ -17,12 +17,12 @@
   },
   "data": {
     "id": "GOBLIN_EGG_GREEN",
-    "material": "MONSTER_EGG",
-    "durability": 55,
+    "material": "PAPER",
     "name": "§aGreen Goblin Egg",
     "tier": "UNCOMMON",
     "npc_sell_price": 1000,
-    "description": "%%gray%%%%italic%%What came first the goblin or the egg?"
+    "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
+    "item_model": "minecraft:slime_spawn_egg"
   },
   "recipes": []
 }

@@ -22,7 +22,13 @@
     "name": "Shimmering Wool",
     "tier": "LEGENDARY",
     "glowing": true,
-    "npc_sell_price": 5000000
+    "npc_sell_price": 5000000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A splendid wool found nowhere else; it caresses your fingers and exudes a unique warmth the likes of which you have never experienced before, and likely never will again."
   },
   "recipes": []
 }

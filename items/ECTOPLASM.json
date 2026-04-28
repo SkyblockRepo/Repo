@@ -21,7 +21,13 @@
     "name": "Ectoplasm",
     "tier": "RARE",
     "glowing": true,
-    "npc_sell_price": 10000
+    "npc_sell_price": 10000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Spooky, yet practical."
   },
   "recipes": []
 }

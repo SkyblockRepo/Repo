@@ -24,9 +24,10 @@
     "glowing": true,
     "npc_sell_price": 5000,
     "stats": {
+      "BREAKING_POWER": 10,
       "DAMAGE": 99999999,
       "MINING_SPEED": 99999999,
-      "BREAKING_POWER": 10
+      "SWING_RANGE": 15
     }
   },
   "recipes": []

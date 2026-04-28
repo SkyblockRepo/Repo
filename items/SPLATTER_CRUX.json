@@ -25,6 +25,17 @@
     },
     "name": "Splatter Crux",
     "tier": "UNCOMMON",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT",
+        "show_items_first": [
+          "CRUX_TALISMAN_6"
+        ],
+        "excluded_items": [
+          "CRUXMOTION"
+        ]
+      }
+    ],
     "description": "How many vampires does it take to change a light bulb?\n\nNone... why would they need it?",
     "motes_sell_price": 90,
     "origin": "RIFT"

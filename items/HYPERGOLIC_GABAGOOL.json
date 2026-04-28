@@ -25,7 +25,13 @@
     },
     "name": "Hypergolic Gabagool",
     "tier": "LEGENDARY",
-    "npc_sell_price": 1
+    "npc_sell_price": 1,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Feed Wisp pets or craft into strong Inferno minion fuel.\n\n%%red%%Hypergolic-grade fuels create extra unique items!"
   },
   "recipes": [
     {

@@ -23,6 +23,11 @@
     "tier": "RARE",
     "glowing": true,
     "npc_sell_price": 480,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "A wonderful enchanted plant!"
   },
   "recipes": [

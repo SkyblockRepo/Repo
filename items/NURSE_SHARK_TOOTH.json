@@ -21,7 +21,13 @@
     "name": "Nurse Shark Tooth",
     "tier": "UNCOMMON",
     "glowing": true,
-    "npc_sell_price": 500
+    "npc_sell_price": 500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "Dropped by a Shark during Fishing Festival."
   },
   "recipes": []
 }

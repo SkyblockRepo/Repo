@@ -25,6 +25,12 @@
     },
     "name": "Spirit Bone",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "A Wolf Spirit is attached to this bone. Wolf Spirits always come back to their masters.",
     "dungeon_item": true
   },
   "recipes": []

@@ -26,6 +26,11 @@
     "name": "Blood-Stained Coins",
     "category": "NONE",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%This is probably not what they meant by \"%%red%%blood money%%gray%%\"."
   },
   "recipes": [

@@ -26,7 +26,12 @@
     "name": "Bait Ring",
     "category": "ACCESSORY",
     "tier": "RARE",
-    "npc_sell_price": 23000
+    "npc_sell_price": 23000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": [
     {

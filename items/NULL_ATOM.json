@@ -21,7 +21,12 @@
     "name": "Null Atom",
     "tier": "RARE",
     "glowing": true,
-    "npc_sell_price": 33333
+    "npc_sell_price": 33333,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

@@ -21,6 +21,11 @@
     "durability": 2,
     "name": "Gunthesizer Lichen",
     "tier": "RARE",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "origin": "RIFT"
   },
   "recipes": []

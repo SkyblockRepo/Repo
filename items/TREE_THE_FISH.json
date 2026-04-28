@@ -3,7 +3,7 @@
   "name": "Tree The Fish",
   "category": "Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7Fish grow on trees.\n\n&c&lSPECIAL&r",
   "flags": {
     "tradable": true,
@@ -25,6 +25,7 @@
     },
     "name": "Tree the Fish",
     "tier": "SPECIAL",
+    "npc_sell_price": 50000,
     "museum": true
   },
   "recipes": []

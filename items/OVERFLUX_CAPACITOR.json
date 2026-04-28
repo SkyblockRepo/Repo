@@ -21,6 +21,11 @@
     "name": "Overflux Capacitor",
     "tier": "EPIC",
     "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "has_uuid": true
   },
   "recipes": []

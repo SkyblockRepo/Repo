@@ -20,7 +20,12 @@
     "material": "FIREWORK_CHARGE",
     "name": "Null Sphere",
     "tier": "UNCOMMON",
-    "glowing": true
+    "glowing": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

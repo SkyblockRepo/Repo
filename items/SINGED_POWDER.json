@@ -26,6 +26,11 @@
     "name": "Singed Powder",
     "tier": "UNCOMMON",
     "npc_sell_price": 1000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%Before she mastered this ingredient, the %%dark_purple%%Fireproof Witch %%gray%%was but a mere witch."
   },
   "recipes": []

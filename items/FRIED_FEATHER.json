@@ -21,6 +21,11 @@
     "name": "Fried Feather",
     "tier": "UNCOMMON",
     "npc_sell_price": 1000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "description": "%%gray%%A greasy feather, somehow still in one piece despite having been doused in boiling-hot lava."
   },
   "recipes": []

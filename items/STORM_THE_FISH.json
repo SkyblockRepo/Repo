@@ -3,7 +3,7 @@
   "name": "Storm The Fish",
   "category": "Dungeon Item",
   "source": "HypixelAPI",
-  "npcValue": 0,
+  "npcValue": 50000,
   "lore": "&7Be glad you'll never have to face me!\n\n&c&lSPECIAL DUNGEON ITEM&r",
   "flags": {
     "tradable": true,
@@ -26,6 +26,7 @@
     "name": "Storm the Fish",
     "tier": "SPECIAL",
     "glowing": true,
+    "npc_sell_price": 50000,
     "museum": true,
     "dungeon_item": true
   },

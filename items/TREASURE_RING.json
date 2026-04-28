@@ -27,12 +27,17 @@
     "category": "ACCESSORY",
     "tier": "EPIC",
     "npc_sell_price": 1000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true,
     "salvages": [
       {
         "type": "ESSENCE",
-        "amount": 120,
-        "essence_type": "GOLD"
+        "essence_type": "GOLD",
+        "amount": 120
       }
     ]
   },

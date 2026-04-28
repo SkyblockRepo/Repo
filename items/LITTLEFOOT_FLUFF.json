@@ -1,0 +1,33 @@
+{
+  "internalId": "LITTLEFOOT_FLUFF",
+  "name": "Littlefoot Fluff",
+  "category": null,
+  "source": "HypixelAPI",
+  "npcValue": 1000000,
+  "lore": "",
+  "flags": {
+    "tradable": false,
+    "bazaarable": false,
+    "auctionable": false,
+    "reforgeable": false,
+    "enchantable": false,
+    "museumable": false,
+    "soulboundable": false,
+    "sackable": false
+  },
+  "data": {
+    "id": "LITTLEFOOT_FLUFF",
+    "material": "INK_SACK",
+    "durability": 7,
+    "name": "Littlefoot Fluff",
+    "tier": "LEGENDARY",
+    "unstackable": true,
+    "npc_sell_price": 1000000,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
+    "description": "%%gray%%A poignant reminder of the day you almost caught Bigfoot’s younger, lesser-known brother. Even collectors don’t want it, so it’s yours to keep."
+  }
+}

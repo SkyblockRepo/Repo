@@ -21,7 +21,12 @@
     "durability": 1,
     "name": "Grizzly Salmon",
     "tier": "RARE",
-    "unstackable": true
+    "unstackable": true,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

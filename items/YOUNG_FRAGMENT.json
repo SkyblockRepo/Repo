@@ -25,7 +25,12 @@
     },
     "name": "Young Dragon Fragment",
     "tier": "EPIC",
-    "npc_sell_price": 2500
+    "npc_sell_price": 2500,
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ]
   },
   "recipes": []
 }

@@ -21,7 +21,8 @@
     "name": "Decoy",
     "tier": "UNCOMMON",
     "npc_sell_price": 500,
-    "dungeon_item": true
+    "dungeon_item": true,
+    "item_model": "minecraft:goat_spawn_egg"
   },
   "recipes": []
 }

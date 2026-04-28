@@ -26,6 +26,11 @@
     "name": "Master Skull - Tier 6",
     "category": "ACCESSORY",
     "tier": "EPIC",
+    "components": [
+      {
+        "type": "RECIPE_INGREDIENT"
+      }
+    ],
     "dungeon_item": true
   },
   "recipes": [
