@@ -1,6 +1,6 @@
 {
   "internalId": "MAGMA_LORD_GAUNTLET",
-  "name": "Magma Lord Necklace",
+  "name": "Magma Lord Gauntlet",
   "category": "Gloves",
   "source": "HypixelAPI",
   "npcValue": 93750,
@@ -46,9 +46,9 @@
       "category": "FISHING"
     },
     "stats": {
-      "STRENGTH": 10,
       "HEALTH": 45,
       "FEROCITY": 2,
+      "STRENGTH": 10,
       "SEA_CREATURE_CHANCE": 2.5
     },
     "can_have_attributes": true,
