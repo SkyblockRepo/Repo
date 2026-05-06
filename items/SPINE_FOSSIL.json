@@ -26,7 +26,14 @@
     "name": "Spine Fossil",
     "tier": "LEGENDARY",
     "npc_sell_price": 50000,
-    "description": "A well-preserved set of neural spines. Whatever possessed these was an adept swimmer."
+    "description": "A well-preserved set of neural spines. Whatever possessed these was an adept swimmer.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 50,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }

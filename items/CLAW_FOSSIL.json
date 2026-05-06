@@ -26,7 +26,14 @@
     "name": "Claw Fossil",
     "tier": "LEGENDARY",
     "npc_sell_price": 10000,
-    "description": "A small but sharp claw once used for digging tunnels."
+    "description": "A small but sharp claw once used for digging tunnels.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 25,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }

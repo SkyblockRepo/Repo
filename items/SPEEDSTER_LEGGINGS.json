@@ -3,7 +3,7 @@
   "name": "Speedster Leggings",
   "category": "Leggings",
   "source": "HypixelAPI",
-  "npcValue": 179200,
+  "npcValue": 4480,
   "lore": "&7Defense: &a+95\n&7Speed: &a+15\n\n&6Full Set Bonus: Bonus Speed &7(0/4)\n&7Increases &f✦ Speed &7by &a+20&7.\n\n&7&8This item can be reforged!\n&5&lEPIC LEGGINGS&r",
   "flags": {
     "tradable": true,
@@ -22,7 +22,7 @@
     "name": "Speedster Leggings",
     "category": "LEGGINGS",
     "tier": "UNCOMMON",
-    "npc_sell_price": 179200,
+    "npc_sell_price": 4480,
     "museum_data": {
       "donation_xp": 0,
       "parent": {
@@ -36,8 +36,8 @@
       "category": "FARMING"
     },
     "stats": {
-      "WALK_SPEED": 15,
-      "DEFENSE": 60
+      "DEFENSE": 60,
+      "WALK_SPEED": 15
     }
   },
   "recipes": [

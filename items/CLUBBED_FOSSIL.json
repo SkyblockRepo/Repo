@@ -26,7 +26,14 @@
     "name": "Clubbed Fossil",
     "tier": "LEGENDARY",
     "npc_sell_price": 50000,
-    "description": "A tail ending in a thick club that was used to fend off predators."
+    "description": "A tail ending in a thick club that was used to fend off predators.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 50,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }

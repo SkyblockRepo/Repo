@@ -26,7 +26,14 @@
     "name": "Ugly Fossil",
     "tier": "LEGENDARY",
     "npc_sell_price": 50000,
-    "description": "The ugliest fossil to ever exist. It has a face only a mother could love."
+    "description": "The ugliest fossil to ever exist. It has a face only a mother could love.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 50,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }

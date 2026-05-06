@@ -21,6 +21,36 @@
     "name": "Sword of the Universe",
     "category": "SWORD",
     "tier": "UNOBTAINABLE",
+    "gemstone_slots": [
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      },
+      {
+        "slot_type": "COMBAT",
+        "costs": []
+      }
+    ],
     "stats": {
       "DAMAGE": 99999999,
       "SWING_RANGE": 99999999

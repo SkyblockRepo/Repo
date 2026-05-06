@@ -1,6 +1,6 @@
 {
   "internalId": "FOSSIL_THE_FISH",
-  "name": "Fossil the Fish",
+  "name": "Fossil The Fish",
   "category": "Item",
   "source": "HypixelAPI",
   "npcValue": 0,
@@ -27,8 +27,8 @@
     "salvages": [
       {
         "type": "ESSENCE",
-        "essence_type": "FOSSIL",
-        "amount": 25
+        "amount": 25,
+        "essence_type": "FOSSIL"
       }
     ]
   },

@@ -26,7 +26,14 @@
     "name": "Tusk Fossil",
     "tier": "LEGENDARY",
     "npc_sell_price": 50000,
-    "description": "A great and powerful tusk belonging to a now-extinct creature."
+    "description": "A great and powerful tusk belonging to a now-extinct creature.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 50,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }

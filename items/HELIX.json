@@ -28,7 +28,14 @@
     "glowing": true,
     "npc_sell_price": 10000,
     "museum": true,
-    "description": "A well-preserved fossil featuring a coiled shell."
+    "description": "A well-preserved fossil featuring a coiled shell.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 25,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }
