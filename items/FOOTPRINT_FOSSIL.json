@@ -26,7 +26,14 @@
     "name": "Footprint Fossil",
     "tier": "LEGENDARY",
     "npc_sell_price": 50000,
-    "description": "The daunting footprint of what was once a colossal and bloodthirsty predator."
+    "description": "The daunting footprint of what was once a colossal and bloodthirsty predator.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 50,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }

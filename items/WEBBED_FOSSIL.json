@@ -26,7 +26,14 @@
     "name": "Webbed Fossil",
     "tier": "LEGENDARY",
     "npc_sell_price": 50000,
-    "description": "The webbed foot of a small, agile creature which was a strong swimmer."
+    "description": "The webbed foot of a small, agile creature which was a strong swimmer.",
+    "salvages": [
+      {
+        "type": "ESSENCE",
+        "amount": 50,
+        "essence_type": "FOSSIL"
+      }
+    ]
   },
   "recipes": []
 }
