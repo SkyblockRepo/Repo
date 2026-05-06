@@ -25,7 +25,7 @@
     "requirements": [
       {
         "type": "SLAYER",
-        "level": 4,
+        "level": 3,
         "slayer_boss_type": "enderman"
       }
     ],
@@ -40,8 +40,8 @@
       "category": "COMBAT"
     },
     "stats": {
-      "HEALTH": 160,
       "DEFENSE": 100,
+      "HEALTH": 160,
       "INTELLIGENCE": 100
     }
   },
